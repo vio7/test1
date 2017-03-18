@@ -831,7 +831,7 @@
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>Kindischer Stichus</DefaultText>
+      <DefaultText>Stichus-Kind</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1371,7 +1371,7 @@
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Kindischer {Male}</DefaultText>
+      <DefaultText>Junge {Male}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1436,7 +1436,7 @@
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>Kindische {Female}</DefaultText>
+      <DefaultText>Mädchen {Female}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
