@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4201_tussle_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Halt! Hier ist etwas ... macht euch bereit!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Ähm ... spürt ihr das auch? Ich glaube, ich habe Gänsehaut auf meiner Gänsehaut.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Bleibt zurück! Dieser große Sack Gedärme wirft etwas auf uns!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Eine schreckliche Szene breitet sich vor dir aus. Die Wände und Böden dieser Kammer haben sich gegen ihre Bewohner gerichtet und sie mit gezahnten Öffnungen verschlungen und weggezerrt. 
+
+Den halbverdauten Wagen und anderen Trümmern nach zu urteilen, was das hier wohl einmal ein Marktplatz ... oder ein Handelsposten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Eine schreckliche Szene breitet sich vor dir aus. Die Wände und Böden dieser Kammer haben sich gegen ihre Bewohner gerichtet und sie mit gezahnten Öffnungen verschlungen und weggezerrt. 
+
+Den halbverdauten Wagen und anderen Trümmern nach zu urteilen, was das hier wohl einmal ein Marktplatz ... oder ein Handelsposten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Auf deiner linken, auf der anderen Seite des Raums, befindet sich ein schlummernder Schlund. Sein Maul steht weit offen, und darin befindet sich ein leuchtendes Portal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du hörst entferntes Geflüster um dich herum ... eindringlich und bedrohlich. Es nimmt zu. Ihr Hass und ihre Wut auf dich sind deutlich spürbar. Dafür, was du dem Schlund in den Cheirurgen-Fällen angetan hast ...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_coty_at_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Cotys Haare sind durchgeschwitzt. Er weicht zurück, als die fleischigen Ranken des Schlunds sich nach ihm ausstrecken. Sie sind offensichtlich interessiert.
+
+"B-bist du sicher, dass er mich nicht umbringen wird?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Coty hebt das Kinn. Er macht einen Schritt nach vorne und bleibt dann stehen. Er sagt halb zu dir und halb zu sich selbst: "Wenn ich lebe, dann bin ich frei. Niemand kann mich dann berühren."
+
+Er geht näher heran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Cassandra?" Tränen laufen über sein Gesicht. Der Schlund schleckt sie gierig ab. "Nein, geh nicht zum Hafen. Das war ein Witz. Halt!"
+
+Die Zungen wickeln sich um ihn, hungrig und aggressiv. Wenn sie ihn verletzen, scheint er es nicht zu bemerken. Seine Aufmerksamkeit ist fest auf etwas anderes gerichtet. "Halt! Halt!", schluchzt er. "Ich komme, Cassie! Ich werde dich retten!"
+
+Er kämpft gegen die Ranken an, doch du hast den Eindruck, dass er nicht versucht, zu entkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Es vergehen einige Augenblicke, in denen das einzige zu vernehmende Geräusch Cotys Weinen ist.
+
+Dann nimmst du ein neues Geräusch wahr: Seine gebrochenen, hohlen Schluchzer werden schärfer, schneller und verwandeln sich schließlich zu Gelächter. Er wendet sich dir wieder zu – sein Gesicht ist ein nasses Chaos aus Tränen und Schleim der Flor – doch zum ersten Mal, seitdem du ihn getroffen hast, lächelt er.
+
+"Ich bin frei", krächzt er. "Danke." Er richtet sich auf, schwankend, doch entschlossen. "Danke", sagt er wieder und verlässt dich in sein neues Leben.
+
+Leise öffnet sich der Schlund hinter ihm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich … kann dir nicht genug danken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Er möchte Schuld. Hoffen wir, dass das alles ist, was er will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Es ist die Flor. Man weiß nicht, was sie am Ende nehmen wird, doch das ist deine beste Chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Dafür hast du dich freiwillig gemeldet, Coty."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Bist du sicher, dass du das schaffst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Es ist die Flor. Man weiß nicht, was sie am Ende nehmen wird, aber du hast nicht wirklich eine Wahl, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ja." Er nickt ein wenig zu schnell. "Ja, ich bin mir sicher."
+
+{GEORGE/COLIN: I'm a little surprised that Rhin has nothing to say in this conversation. She seemed to be pretty invested in Coty in his courtyard dialogs.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Er erlebt den Moment, als seine Schwester starb, wieder. Er versucht, zu ihr hinaus zu schwimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Er erlebt irgendetwas wieder. Es scheint, als versuche er zu schwimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"NEIN!", schreit er. Er streckt plötzlich die Arme aus, dann umklammert er die Ranken, die ihn festhalten. Dieses Mal glaubst du, dass er sich ihrer wirklich bewusst ist. Er versucht wirklich, herauszukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Du schaffst das, Coty. Bleib stark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Nichts tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Zieh ihn heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Zungen der Flor halten ihn fest. Eine von ihnen schnellt vor und sticht in deine Hand.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Er schreit, lange und laut. Dann werden seine Schreie langsam zu Schluchzern. Er krallt sich nicht länger an den Ranken fest. Er hält sie fest wie die zärtlichen Arme eines Liebhabers. "Das wollte ich nicht", sagt er. Seine Worte sind zwischen seinen Tränen kaum hörbar. "Schwester, du musst wissen, dass ich nicht wollte, dass du stirbst. Ich wollte einfach ... Ich war dumm. Ich will dich jetzt einfach nur wiederhaben. Ich will alles wiederhaben. KOMM ZURÜCK!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er fällt auf die Knie und liebkost eine der Ranken wie ein Kind. Er schreit zur Decke, bis sein Gesicht eine purpurne Farbe annimmt und er außer Atem gerät. Er schreit fünf weitere Male, dann vergräbt er das Gesicht in der Ranke auf seinem Schoß und weint.
+
+Langsam und zärtlich ziehen sich die Zungen zurück. Als sich die letzte zurückzieht, streckt Coty die Hand aus,</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>als wolle er sie so lange wie möglich berühren. Dann fällt die Hand leblos auf seinen Schoß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>als würde seine Schwester davongehen, ihn alleine lassen. Dann fällt die Hand leblos auf seinen Schoß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die Ranken schießen vor, ergreifen ihn an den Armen, den Beinen und am Kopf. Sie ziehen ihn näher heran. Er schreit auf, als sie seine Haut durchdringen, dann richtet sich sein Blick auf etwas in der Ferne, etwas, das du nicht sehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

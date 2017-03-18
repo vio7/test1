@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_musical_statue_control_panel_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Apparat liegt nach der Energieexplosion, die du ausgelöst hast, nun ruhend da.</DefaultText>
+      <FemaleText>Dieser Apparat liegt nach der Energieexplosion, die du ausgelöst hast, nun ruhend da.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Diese Statue ist größer und ausgefeilter als die anderen Statuen in der Gegend und sondert ein flüsterndes Brummen ab. Wirbelnde Lichtmuster krümmen sich auf den beiden Trommeln, die dem Pfad am nächsten sind.</DefaultText>
+      <FemaleText>Diese Statue ist größer und ausgefeilter als die anderen Statuen in der Gegend und sondert ein flüsterndes Brummen ab. Wirbelnde Lichtmuster krümmen sich auf den beiden Trommeln, die dem Pfad am nächsten sind.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

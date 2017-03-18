@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_wayward_daughter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Tochter mit Problemen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rede mit Verlust-des-Selbsts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Hilf Verlust-des-Selbsts zu entscheiden, was zu tun ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Mutter Temaz zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Errinerte Sich An Ihre Familie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Nahm Eine Neue Identität An</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Es Ist Nicht Das Leben Wert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Schnellste Lösung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Universalschlüssel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Aluhut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Macht Nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Kehre zu Verlust-des-Selbsts zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Kehre zu Mutter Temaz zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sagus verlassen, nachdem du mit der Selbsverlorenen fertig geworden bist (wie auch immer), aber bevor du zu Mutter Temaz zurückgekehrt bist (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Mutter Temaz, eine alte Hebamme in Klippenrand, bat mich, einem ihrer "Kinder" zu helfen – einer jungen Frau, die ihre Erinnerungen und ihren Namen verloren hat. Wenn ich das Problem der Frau lösen kann, wird mir Temaz einen Teil meiner Glückshaube zurückgeben, aus dem sie etwas Wertvolles gemacht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich sollte mit Verlust-des-Selbsts sprechen, um mehr über ihr Problem zu erfahren. Vermutlich ist sie irgendwo in Klippenrand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Selbstverlorene hört seit längerer Zeit die Stimme einer anderen Frau in ihrem Kopf und sie verliert langsam alle Erinnerungen, wer sie selber ist. Bald, glaubt sie, wird sie zu dieser Frau *werden* und ihre eigene Identität wird für immer verloren sein. Sie ist entschlossen, das nicht geschehen zu lassen, also zieht sie Selbstmord in Erwägung.Sie behauptet auch, einen „Geist“ im Fünften Auge gesehen zu haben, die genau wie sie aussieht. Sie dankt, dass dieser Geist die Frau ihrem Kopf sein könnte.
+
+Glücklicherweise scheint die Selbstverlorene willig zu sein, mir zuzuhören, also kann ich sie vielleicht in die eine oder andere Richtung weisen... oder ihr helfen, eine Lösung zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Mutter Temaz will bestimmt wissen, wie ich das Problem von Verlust-des-Selbsts gelöst habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich half die Selbstverlorene dabei, sich an die Gesichter ihrer Eltern zu erinnern. Das brachte sie von den Selbstmordgedanken ab und die Stimme in ihrem Koft schwand ein wenig.Mutter Temaz belohnte mich für meine Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich überredete die Selbstverlorene, ihre auferlegte Identität anzunehmen und ihre Vergangenheit zu vergessen. Das brachte sie von den Selbstmordgedanken ab.Mutter Temaz belohnte mich für meine Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe Verlust-des-Selbsts überredet, Selbstmord zu begehen, und sie hat sich die Klippen hinabgestürzt. Mutter Temaz gab mir die versprochene Belohnung, aber sie will mich nicht mehr sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich konnte Verlust-des-Selbsts nicht dazu überreden, Selbstmord zu begehen, also habe ich sie die Klippen hinuntergestoßen. Mutter Temaz gab mir die versprochene Belohnung, aber sie will nichts mehr mit mir zu tun haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe die Probabilitätsmaschinen in der Zuflucht des Wandelnden Gottes abgeschaltet und so die Stimmen zum Verstummen gebracht, die Verlust-des-Selbsts verrückt machten. Jetzt hat sie ihre eigenen Erinnerungen und ihre Persönlichkeit wieder. Mutter Temaz hat mich für meine Hilfe belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich erzählte der Selbstverlorenen von den Probabilitätsmaschinen und half ihr, die Quelle der Identität zu verstehen, die ihr auferlegt wurde. Das hat nicht gänzlich ihr Problem gelöst, aber sie dürfte jetzt besser mit der Stimme in ihrem Verstand klarkommen und entscheiden können, wer sie sein will.Mutter Temaz belohnte mich für meine Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Mutter Temaz ist gestorben, als ihr Haus ins Meer gestürzt ist. Damit habe ich keine Chance mehr, ihr zu sagen, was mit Verlust-des-Selbsts passiert ist, oder meine Belohnung abzuholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Ich sollte Verlust-des-Selbsts von der Maschine des Wandelnden Gottes erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Mutter Temaz will bestimmt wissen, wie ich das Problem von Verlust-des-Selbsts gelöst habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Ich habe Sagusklippen hinter mir gelassen, und damit auch alle Hoffnungen, einen Teil meiner Glückshaube zurückzubekommen. Mutter Temaz wird jemand anderen finden müssen, um das Problem von Verlust-des-Selbsts zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Ich habe das Problem von Verlust-des-Selbsts gelöst, konnte jedoch vor meiner Abreise aus Sagusklippen nicht mehr mit Mutter Temaz darüber sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Verlust-des-Selbsts sagt, dass der "Geist" im Fünften Auge ist, aber sie scheint es nicht zu wagen, dem Gespenst persönlich gegenüberzutreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Der von Verlust-des-Selbsts erwähnte "Geist" lebt nun in einem Klafter in meinem Labyrinth. Sie sagt, Frauen wie sie würden überall in der Stadt auftauchen. Wenn das stimmt, könnte die Lösung ihres Problems auch jenes von Verlust-des-Selbsts lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe erfahren, wie man die Probabilitätsmaschinen abschalten kann. Nun muss ich sie nur noch in der echten Welt finden und deaktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Verlust-des-Selbsts glaubt, dass am Regierungsplatz noch Aufzeichnungen über ihre Vergangenheit existieren könnten. Der Rat müsste Informationen über alle langjährigen Bewohner der Stadt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich beschrieb die Selbstverlorene dem Ratsbeamten und er fühte eine Durchsuchung des Stadtarchivs, aber rein zufällig (oder wegen etwas Größerem) ist die Schriftrolle, die Informationen über sie hatte, stark beschädigt. Der Beamte kann mir nur sagen, dass sie in den Sagusklippen geboren wurde und dass ihre Familie nach ihr suchte.Trotz diesem Rückschlag kann ich mir nur denken, dass es irgendeine Andere Informationsquelle gibt, die ich befragen sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Eine Wissensvermittlerin namens Iyene die Wissende verriet mir, dass Verlust-des-Selbsts in Wirklichkeit Alara heißt. Sie hat mir auch gesagt, dass ihre Eltern noch am Leben sind und ihr täglich zu essen bringen, doch Verlust-des-Selbsts vergisst diese Besuche immer sofort wieder. Ich sollte Verlust-des-Selbsts sagen, was ich erfahren habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe Verlust-des-Selbsts von den Probabilitätsmaschinen erzählt und was sie mit ihr machen. Sie flehte mich an, die Maschinen abzuschalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

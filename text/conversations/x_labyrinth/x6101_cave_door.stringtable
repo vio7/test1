@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_cave_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Streifen von Zitrinlicht unter einem transparenten Gehäuse durchkreuzen die grob gehauene Steintür vor dir. Sie treffen sich in der Mitte, wo sich ihr Energiefluss verbindet und die Tür so fest verschließt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die gigantischen Steine der Tür leuchten weiter mit gelben Rauten auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Follow-up PQ. 8</DefaultText>
+      <FemaleText>Follow-up PQ. 8</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du schiebst deine Finger unter einer Kante des Hartglases hindurch und schaffst es, die Abdeckung von der Tür zu lösen. Sobald du sie gelöst hast, zerfällt das nahezu unzerbrechliche Material zu Staub. Der gelbe Lichtstrahl  strahlt weiter, ungebrochen und die Tür ist fest verriegelt. Vom offengelegten Strahl geht eine glühende Hitze aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du kannst auf den Hartglasscheiben keinen Halt finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Reiß die Hartglasscheiben weg, die das gelbe Licht bedecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Versuche noch einmal, die Hartglasscheiben weg zu reißen, die das gelbe Licht bedecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Follow-up PQ. 12</DefaultText>
+      <FemaleText>Follow-up PQ. 12</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vorsichtig schiebst du deine Hand in den Spalt zwischen den Türen. Sofort bilden sich Blasen auf deiner Haut, versengt von dem grellen Licht. Dir laufen ein paar Tränen die Wangen herunter, aber du schaffst es, ruhig zu halten. Gerade als du glaubst, es nicht länger aushalten zu können, flackert die Energie ein letztes Mal und erlischt dann. Die kovalente Verbindung ist gebrochen und gibt darunter ein schweres aber primitives mechanisches Schloss frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Als du mit deiner Hand in den engen Spalt zwischen den Steinplatten greifst, spürst du sofort, wie deine Haut brennt. Der Schmerz wird immer stärker und du musst deine Hand wegnehmen, um nicht ohnmächtig zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Halt deine Hand in das offene Licht und versuche es zu unterbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Versuche noch einmal, den Strahl mit deiner Hand zu durchbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Follow-up PQ. 15</DefaultText>
+      <FemaleText>Follow-up PQ. 15</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Geschickt hebst du die Stifte in dem Eisenschloss an. Ein befriedigendes Klicken ertönt und die Türen öffnen sich wie von selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Deine Finger fummeln in dem Schloss rum, aber du schaffst es nicht, die Stifte anzuheben, die den Mechanismus auslösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Knacke das mechanische Schloss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Versuche noch einmal, das Schloss zu knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Dreh dich von der Tür weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Das Licht, das über die Steintore strömte, ist erloschen, aber das Tor bleibt zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Die gigantischen Steine der Tür bleiben verriegelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Der Strahl ist zu stark, um ohne große Beschädigung unterbrochen zu werden. Allerdings scheint er keine offensichtliche Quelle zu haben - der Strahl scheint sich selbst zu nähren.
+
+Statt ihn zu unterbrechen, lenkst du einen Teil des Strahls mit einem Metallstück um. Ein kleinerer Strahl schießt nun in den Himmel und langsam verliert der Strahl an Stärke. Die Energie flackert ein letztes Mal und erlischt dann.
+
+Darunter ist ein schweres aber primitives mechanisches Schloss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Den Mechanismus zu untersuchen, der den Strahl erzeugt, erweist sich als erfolglos. Nach mehreren Anläufen bist du dem Ziel, irgendwie durch die Tür zu kommen, kein Stück näher gekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Finde einen anderen Weg, um den Strahl zu unterbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Versuche noch einmal einen anderen Weg zu finden, um den Strahl zu unterbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

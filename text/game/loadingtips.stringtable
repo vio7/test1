@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\loadingtips</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Wir hoffen, dass dir dieser Teil des Spieles gefällt. Bitte gib uns deinen Feedback.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Mausscrollradd steuert das Kamerazoomen. Die rechte Maustaste schließt Menüs und Pop-ups.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Zusätzliche Charaktere, Features, und sogar Gefährten werden in der Vollversion zugänglich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Wenn du Anstrengung verwendest, in Gesprächen oder in Notlagen, brauchst du Punkte von deinen &lt;quad class="mightpool"&gt;[Color: Might]Kraft-[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]Geschwindigkeits-[/Color] oder &lt;quad class="intellectpool"&gt;[Color: Intellect]Intellekt-[/Color]Pools auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ein Cypher ist ein Ein-Schuss-Numenera-Gerät. Wenn du zu viele trägst, hat erleidest du Nebenwirkungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Gib EP aus, um deine Charaktere zu verbessern. EP wird größtenteils gewonnen, indem du Aufträge erledigst, aber auch, indem du Entdeckungen machst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Wenn du in einer Notlage bist, versetze Gruppenmitglieder an die anderen Seiten des Gegners, um ihn den Flankierten Zustand zu erteilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Anstrengung zu deinen Angriffen zuzufügen ist kritisch, für den Erfolg in Notlagen - aber gib Acht, deine Pools nicht zu schnell aufzubrauchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ein Angriff ist selten die einzige Lösung einer Notlage. Versuche es, mit Objekten zu interagieren oder mit deinen Gegnern zu reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Wenn ein Gegner eine Rüstung trägt, wechsele den Schadenstyp deiner Angriffe mit Fähigkeiten oder Cypher, um sie zu durchdringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Anstrengung für einen Angriff einzusetzen, erhöht nicht nur die Trefferchance sondern auch den angerichteten Schaden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Unterschätze nie den Wert guter Verteidigung. &lt;quad class="evasion"&gt;[Color: Speed]Ausweichen[/Color] hilft dir, Angriffen auszuweichen. &lt;quad class="willpower"&gt;[Color: Intellect]Willensstärke[/Color] hilft dir, Esoterien auszuweichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Bei 100 % Trefferwahrscheinlichkeit bekommst du automatisch den maximal möglichen Bonusschaden, egal wie viel Anstrengung du einsetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;quad class="armor"&gt;Rüstung reduziert [DamageIcon: Physical]physischen Schaden durch Waffen und dergleichen. &lt;quad class="resistance"&gt;Widerstand reduziert Schaden des Typs [DamageIcon: Energy][Color: Energy]Energie[/Color], [DamageIcon: Chemical][Color: Chemical]Chemie[/Color], [DamageIcon: Transdimensional][Color: Transdimensional]Transdimensional[/Color] und [DamageIcon: Mental][Color: Mental]Mental[/Color], z. B. von Esoterien oder Chiffren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Schwere und mittlere Rüstung verleiht, wenn sie getragen wird, Abzüge auf die Werte für &lt;quad class="mightpool"&gt;[Color: Might]Kraft[/Color] und &lt;quad class="speedpool"&gt;[Color: Speed]Schnelligkeit[/Color]. Glaiven ignorieren einen Teil dieser Abzüge und andere Effekte können sie ebenfalls reduzieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Effekte, die Charaktere in Wände oder zum Rand einer Plattform ziehen oder schieben, verursachen zusätzlichen Schaden und werfen die betroffenen Charaktere zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Je mehr Anstrengung du in Verstecken investierst, desto schwerer werden dich Gegner finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vorteil funktioniert wie ein Rabatt, wenn du Punkte eines bestimmten Wertes einsetzt. Er gibt dir gratis Anstrengungsstufen oder reduziert die Kosten für das Aktivieren von Fähigkeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ein fehlgeschlagener Versuch kann manchmal interessantere Ergebnisse bringen als ein erfolgreicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Lass dir von deinen Begleitern bei Aufgaben helfen. Ihre Fähigkeiten könnten dir den entscheidenden Vorteil bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Gebundene Gegenstände sind besondere Ausrüstungsgegenstände, die neben mächtigen Boni auch Abzüge verleihen. Durch Trainieren deiner Konzentrationsfertigkeit kannst du diese Abzüge ignorieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Bestimmte Gegenstände und Fähigkeiten kannst du auch während Gesprächen oder der Interaktion mit Objekten einsetzen. Nutze dies, wenn du einen kleinen Schub brauchst, um eine Aufgabe zu bewältigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Dominante Gezeiten hindern dich nicht daran, jeden beliebigen Weg einzuschlagen oder alle Optionen im Gespräch zu verwenden, doch sie können auf subtile Weise beeinflussen, wie andere auf dich reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Es gibt die folgenden Fertigkeitsstufen: &lt;quad class="skillempty"&gt;&lt;quad class="skillempty"&gt;Ungeübt, &lt;quad class="skillfull"&gt;&lt;quad class="skillempty"&gt;Trainiert und &lt;quad class="skillfull"&gt;&lt;quad class="skillfull"&gt;Spezialisiert. Höhere Stufen verleihen größere Vorteile. Fertigkeiten können auch auf die Stufe &lt;quad class="skillinability"&gt;&lt;quad class="skillinability"&gt;Unfähigkeit reduziert werden, was bei ihrem Einsatz Abzüge bewirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ein leuchtendes grünes Symbol neben dem Namen einer Fertigkeit zeigt an, dass du diese über die Stufe Spezialisiert hinaus gesteigert hast. Dies ist nur durch das Ausrüsten von Gegenständen oder Erlangen von Fähigkeiten möglich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Zustände sind Statuseffekte oder sonstige Abweichungen vom Normalzustand. Sie können [FettleIcon: Buff]positiv, [FettleIcon: Debuff]negativ oder [FettleIcon: Status]Statusveränderungen sein und werden durch kleine bunte Pfeile auf Charakteren angezeigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Im Schlaf werden die Werte &lt;quad class="mightpool"&gt;[Color: Might]Stärke[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]Schnelligkeit[/Color] und &lt;quad class="intellectpool"&gt;[Color: Intellect]Intellekt[/Color] wieder voll aufgefüllt. Während du schläfst, können jedoch Dinge passieren, die den Status von Quests ändern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Als Konsequenz deiner Handlungen in der realen Welt können neue Spiegelbilder im Labyrinth erscheinen. Einige von ihnen können dir besondere Boni verleihen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Sprich regelmäßig mit deinen Begleitern. Sie können interessante Ideen oder einen neuen Blickwinkel bieten und außerdem erfährst du so mehr über sie und ihre Geschichte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Gezeitenwelle-Gesprächsoptionen ermöglichen dir, psychische Kräfte zu kanalisieren, um deine Umgebung zu beeinflussen. Allerdings kann dies mit Kosten verbunden sein. Diese Optionen werden erst verfügbar, nachdem dir jemand die Gezeitenwelle-Fertigkeit beigebracht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Rote Gezeit steht für Leidenschaft, Emotion, Tatkraft und Eifer. Es ist die Gezeit derer, die stets im Hier und Jetzt leben, das Leben voll auskosten oder stets ihrem Herzen folgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Blaue Gezeit steht für Weisheit, Erleuchtung und Mystizismus. Es ist die Gezeit derer, die danach trachten, ihr Bewusstsein und ihren Geist zu erweitern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die Indigofarbene Gezeit steht für Gerechtigkeit, Übereinkunft und das größere Ganze. Es ist die Gezeit derer, die das Leben und seine Probleme nicht nur aus ihrer individuellen Perspektive, sondern allgemeiner betrachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die Goldene Gezeit steht für Wohltätigkeit, Opferbereitschaft und Empathie. Es ist die Gezeit derer, die vor allem anderen helfen möchten, besonders auch auf ihre eigenen Kosten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Silberne Gezeit steht für die Bewunderung von Macht und das Streben nach Ruhm. Es ist die Gezeit derer, die versuchen, die Leben anderer zu beeinflussen oder aktiv danach trachten, der Nachwelt in Erinnerung zu bleiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Wenn dir jemand sagt, dass du dich um unerledigte Aufgaben kümmern solltest, bevor du einen Ort verlässt, solltest du darauf hören. Gewöhnlich kommst du später nicht mehr zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Laut den Aufzeichnungen von Casmeen und Mimeon bleibt der Wandelnde Gott selten länger als ein oder zwei Jahrzehnte in ein und demselben Körper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Wenn du nicht recht weißt, wohin du gehen oder was du tun sollst, sieh dir das Tagebuch an. Es wird automatisch aktualisiert, wann immer du in der Geschichte vorankommst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Hast du etwas übersehen? [Control: tab] zeigt alle interaktiven Charaktere und Objekte in deiner Umgebung an.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_memorycube</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Durchsichtige Scheiben drehen sich hinter dem glatten Glas dieses Würfels, oftmals trotzen sie die Dimensionen, die sie beinhalten. Du siehst flüchtig verschiedene Gegenstände - oder Szenen - , die sich darin befinden.
+
+Du räusperst dich unabsichtlich, und das Tempo des Drehens wird noch schneller, als ob der Würfel darauf wartet, dass du etwas sagst. Oder eine Frage stellst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die wirbelnden Scheine innerhalb des Würfels drehen sich schneller, während du deinen Mund zum Sprechen öffnest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wer bin ich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wer bin ich nochmal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Script Nodus 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Den Würfel schütteln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die drehenden Scheiben im Würfel verlangsamen sich, dann bleiben sie gänzlich stehen, was ein Bild im Zentrum des Würfels offenbart:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Was seid Ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Kannst du mit sagen, was du bist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ein Fingernagel aus Goldblättern und Jadesplitter in einer sonst leeren Schublade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Eine perfekte Kugel aus dunkler Schokolade, in einer Vogelkralle gehalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Eine Katzenähnliche Kreatur, die ihre eigene Pfote beißt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ein langes, lilafarbenes Gemüse irgendeiner Art, längs geschnitten, um orangene Samen aufzuzeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Script Nodus 16</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Das Objekt schwindet, Partikel für Partikel, ohen weitere Erklärung.
+
+Entweder hast du die exacte Antwort auf deine Frage als Idiom erhalten, oder du hast keine Möglichkeit, es zu verstehen, oder der Würfel verstand dich falsch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das Objekt verschwindet hinter den drehenden Scheiben, während sich der Würfel auf deine nächste Frage vorbereitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du erhälst keine Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Script Nodus 6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ein dreizehn-beiniges Insekt, festgesteckt am Rand eines Buches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Eine Schüssel voll schwarzer Flüssigkeit auf einem runden Glastisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ein augenloser Fisch, der aus einem Pflastersteinbrunnen springt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Kränkliche Tiere zusammengekauert um einem verstorbenen Teich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Eine lange Reihe dicker Kerzen entlang eines dunklen und endlosen Korridors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Eine rost-gesprenkelte Struktur, die sich Mühe gibt, aus einem Haufen verfaulten Lappen zu kriechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Eine frischgebackene Pastete, aufgeschüttet mit Sahne und glänzenden Früchten, inn zwie hohlen Händen gehalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vier magere, überlange Finger, auf einem bleichen Handgelenk gelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ein brennendes Schiff bei stürmiger See.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ein Treppenaufgang, der in die Finsternis unter einer festgefrorenen Welle führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ein rötlicher Baum, der sich in einem sternenfreien Himmel ausstreckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Eine Stadt, die in der Luft schwebt, auch nicht von den dünnsten Wolken gehalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Ein Eimer bis zum Rand mit totem Gras und Edelsteinen voll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Der Würfel wird einige Sekunden lang undurchlässig, dann erscheinen die Scheiben wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Der Würfel wird wieder undurchdichtig. Er will scheinbar schon diese Frage beantworten.
+
+Schließlich erscheinen die Scheiben wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Der Würfel schaudert in deinen Händen. Obwohl sich die Schieben wie besessen drehen, bemerkst du plötzlich den Geruch von Sand an einem heißen Strand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Vier magere, überlange Finger, auf einem bleichen Handgelenk gelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Dieses Mal erscheint kein Bild auf den drehenden scheiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Bist du gebrochen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Den Würfel schütteln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Der Würfel belibt fast eine Minute lang dunkel bevor die Schieben erneut auftauchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ich will wissen, was du bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Wer bin ich nochmal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Du erhälst keine Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Von den schwindelerregenden Untiefen des Würfels hörst du deine Fragen - all deine Fragen - als Echo wieder. Der Geruch von brennendem Sand beschichtet deinen Rachen.
+
+Eine Zahl tritt aus der Spirale aus Scheiben und Licht. Neun. Du has neun Fragen gestellt. Offenbar bekommst du keine mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Der Gestank röstendes Sandes steigt an, und kitzelt deine Nasenlöcher, aber du erhälst keine weitere Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Wer tötet die Menschen in der Schattenseite?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ich muss wissen, wer die Menschen in der Schattenseite tötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich suche nach jemanden namens Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Der Würfel wird einige Sekunden lang undurchlässig, dann erscheinen die Scheiben wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Der Würfel wird wieder undurchsichtig. Offenbat will er diese Frage nicht beantworten.
+
+Schließlich erscheinen die Scheiben wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Wie kann ich dem Verkrüppelten Vorarbeiter helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Kannst du mir irgendwelchen Rat geben bezüglich des Problems des Verkrüppelten Vorarbeiters?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Wieso jagt mich der Kummer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Sag mit, warum mich der Kummer jagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich verstehe nicht, was du mir zu erzählen versuchst. Kannst du es erklären?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Diese Antworten bedeuten mir gar nichts."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Du bist nichts zu Nutze, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

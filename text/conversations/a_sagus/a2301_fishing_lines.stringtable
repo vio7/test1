@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_fishing_lines</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser dünne, leuchtende Faden hängt im schwarzen Wasser wie eine weiße Linie in pechschwarzer Tinte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Der leuchtende Draht versinkt im dunklen Wasser wie ein dünner Strahl konzentriertes Tageslicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Schnur untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Schnur sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Erneut an der Schnur ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>An der Schnur ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du versuchst, an dem leuchtenden Faden zu ziehen, doch deine Finger gehen mittendurch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Könntet Ihr etwas für mich fangen? Ich habe kein Glück heute. Außerdem ist hier unten eigentlich alles stärker als ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du nimmst die Angel und beginnst, die Leine einzuziehen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ein Fisch zappelt am Haken. Er riecht ein wenig nach Anis.
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Der Fisch am Haken wirft dir einen scharfen (und irgendwie sarkastischen) Blick zu.
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ein seltsames, schmutziges Ding hängt am Haken. Du schnappst es dir. 
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ein schlammiger Cypher dreht sich am Haken. Du nimmst ihn.
+{LOOT}
+{SOUND: Splash}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du ziehst ein flammendes Wort aus dem Wasser. Obwohl du die Sprache nicht sprichst, weißt du, dass das Wort 'Verlust' bedeutet. 
+
+Das Wort versinkt wieder im dunklen Wasser, löst sich auf, zieht den verbrannten Haken mit sich in die Tiefe. 
+{SOUND: Splash, sizzling}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>... aber der Haken hängt an etwas fest. Du ziehst so fest du kannst. Tief im Wasser hörst du ein blubberndes Lachen und dein Haken zischt aus der Tiefe empor, um Haaresbreite an deiner Nase vorbei, und fällt dann vor deinen Füßen zurück ins Wasser. 
+{SOUND: Splash, deep laughter.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Der Haken schießt aus dem Wasser und hinterlässt im Wasser eine dünne, physikalisch unmögliche Luftsäule, die bis an den Grund reicht. In dem Moment, als das Wasser in die Säule stürzt und sie füllt, hörst du eine verzweifelte Melodie aus der Tiefe aufsteigen. 
+{SOUND: Splash, "forlorn melody"}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>... aber der Haken ist leer. Das Wasser ist heute völlig still. Kein Fisch ist zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Etwas für Krumme Qeek fangen versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du ziehst die Leine ein und etwas unten in der dunklen Tiefe zieht *zurück*. Du presst die Lippen zusammen und holst deinen Fang ein. 
+
+Ein schlammiger Cypher hängt vom Ende der Schnur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Wunderschön!" flüstert die Krumme Qeek. "Ich wäre schon mit einem Fisch zufrieden gewesen! Das hier kann ich verkaufen und habe wochenlange zu essen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich behalte es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Es der Krummen Qeek geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Die Freude verfliegt aus ihrem Gesicht. Sie nickt ernst. 
+
+"Ihr habt es gefangen", sagt sie leise. "Das ist nur gerecht."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du gibst ihr das Chiffre und sie kneift die Augen zusammen. Ihre Freude ist fast greifbar. 
+
+"Danke! Ihr könnt meine Angel benutzen, wann immer Ihr wollt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>... aber der Haken ist leer. Vielleicht hast du morgen mehr Glück.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

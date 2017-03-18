@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x6131_finalconfrontation_approachmidorb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Du erklimmst diese unmöglich steilen Stufen nun schon seit Stunden und hast noch viele Stunden vor dir. Deine Rivalen kennen den Standort der Ruinen und können nicht weit dahinter sein.]</DefaultText>
+      <FemaleText>[Du erklimmst diese unmöglich steilen Stufen nun schon seit Stunden und hast noch viele Stunden vor dir. Deine Rivalen kennen den Standort der Ruinen und können nicht weit dahinter sein.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Setze eine Numenera an deinem Gürtel ein, um einen kleinen Erdrutsch auszulösen, und zerstöre einen Abschnitt der Treppe.]</DefaultText>
+      <FemaleText>[Setze eine Numenera an deinem Gürtel ein, um einen kleinen Erdrutsch auszulösen, und zerstöre einen Abschnitt der Treppe.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Verfolge dein Ziel weiter. Lass dich nicht von dem Gelände in deinem Fortschritt aufhalten.]</DefaultText>
+      <FemaleText>[Verfolge dein Ziel weiter. Lass dich nicht von dem Gelände in deinem Fortschritt aufhalten.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Schüttle diese Erinnerung ab und verlasse die Ebeneunverändert.]</DefaultText>
+      <FemaleText>[Schüttle diese Erinnerung ab und verlasse die Ebeneunverändert.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Eine Erinnerung zieht dich an und du betrittst sie ohne Unbehagen.  Als sie deine Wahrnehmung erfüllt, bist du sicher, dass sie mit dem veränderlichen Boden unter deinen Füßen verbunden ist.]</DefaultText>
+      <FemaleText>[Eine Erinnerung zieht dich an und du betrittst sie ohne Unbehagen.  Als sie deine Wahrnehmung erfüllt, bist du sicher, dass sie mit dem veränderlichen Boden unter deinen Füßen verbunden ist.]</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

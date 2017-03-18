@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_bubbling_pool</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Blasen blubbern in dem Teich vor dir und an seinem öden Ufer siehst du eine weiße Kruste. Der beißende Gestank des Wassers lässt dir Tränen in die Augen steigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Den Teich untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Den Teich sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die weiße Kruste rund um den Teich und der Gestank deuten auf hoch alkalisches Wasser hin, das man besser nicht trinken und vielleicht nicht mal berühren sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Das Wasser ist glitschig und schmeckt nach Seife. Es zieht deine Kehle zusammen, sodass dir das Schlucken schwerfällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Trotz der Blasen und der kräftigen Farbe ist das Wasser kristallklar und du kannst bis an den Grund hinabsehen. 
+ 
+ Dort liegt eine messingfarbene Metallkugel, mit einer weißen Kruste überzogen, aber ansonsten unversehrt. Leider ist sie so weit unten, als dass du sie nur erreichen kannst, wenn du in den Teich eintauchst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Das stinkende Wasser wirft weiter Blasen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>In den Teich eintauchen und versuchen, das Objekt herauszufischen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Erneut nach dem Objekt tauchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du tauchst in den Teich ein und sofort brennt das Wasser in deinen Augen. Du musst sie schließen und blind weitertauchen. Das Wasser verbrennt deinen ganzen Körper, doch du tauchst entschlossen weiter hinab und schaffst es, dich bis zu der Kugel vorzutasten und sie herauszuholen. 
+ 
+Als du aus dem Wasser steigst, schreist du vor Schmerzen und es dauert eine Weile, bevor du dich wieder gut genug fühlst, um die Kugel zu untersuchen. Dann siehst du, dass es sich dabei um einen Behälter handelt, der verschiedene Objekte enthält.
+ 
+ {LOOT: a couple things, shins, cypher, misc, etc}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du tauchst in den Teich ein und sofort brennt das Wasser in deinen Augen. Du musst sie schließen und blind weitertauchen. Das Wasser verbrennt deinen ganzen Körper, doch du tauchst entschlossen weiter hinab und tastest nach der Kugel. Leider ist der Schmerz zu stark und du musst auftauchen, bevor du die Kugel gefunden hast. 
+ 
+Du schreist vor Schmerzen, als du aus dem Wasser steigst, und es dauert eine Weile, bevor du wieder normal atmen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du tauchst erneut in den Teich ein, diesmal mit geschlossenen Augen. Wieder verätzt das Wasser deinen Körper. Leider findest du die Kugel nicht und musst praktisch sofort wieder auftauchen. 
+ 
+Als du erneut aus dem Wasser steigst, siehst du, dass das Wasser diesmal deine Haut verätzt hat und du an mehreren Stellen blutest. Die Haut an deinen Händen sieht aus wie ein zerrissener Stofffetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Das Wasser des Teichs trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Das Wasser erneut trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Das Wasser verbrennt deinen bereits mitgenommenen Mund, verätzt dein Zahnfleisch und deine Mundhöhle. Deine Kehle schnürt sich so eng zusammen, dass Schlucken unmöglich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du brichst zusammen, als das Wasser deinen Magen, deinen Darm und die restlichen Organe verätzt. Du liegst kümmerlich am Boden, würgend und erbrechend, bis du nach viel zu langer Zeit endlich stirbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Weißt du, normalerweise lache ich bei deinen Fehlern, aber dieser könnte dich töten. Tu es nicht.“</DefaultText>
+      <FemaleText>"Weißt du, normalerweise lache ich bei deinen Fehlern, aber dieser könnte dich töten. Tu es nicht.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wenn ich irgendetwas aus meinen Forschungen gelernt habe, dann dass das Trinken aus merkwürdigen Teichen selten einen gesunden Effekt haben.“ Sie zuckt mit den Schultern. "Aber wenn du meinst, dass du dich dem Schmerz unterziehen musst, dann nur zu.“</DefaultText>
+      <FemaleText>"Wenn ich irgendetwas aus meinen Forschungen gelernt habe, dann dass das Trinken aus merkwürdigen Teichen selten einen gesunden Effekt haben.“ Sie zuckt mit den Schultern. "Aber wenn du meinst, dass du dich dem Schmerz unterziehen musst, dann nur zu.“</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

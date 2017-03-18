@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_beloved_slave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Geliebte Sklavin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche das vermisste Sklavenmädchen, Rhin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Überzeuge Rhin, der Gruppe beizutreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bringe Rhin zu Tol Maguur in Circus Minor zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Finde einen Weg, Tol dazu zu bringen, ihren 'Fluch' zu beseitigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde Rhin nochmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Rhin zurückgegeben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Rhins Freiheit erkauft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Tol umgebracht, um den Fluch zu beseitigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Rhin ausgehändigt, um Fluch zu entfernen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Tol bezahlt, den Fluch zu entfernen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Tol überzeugt, Rhin freizulassen und den Fluch zu beseitigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Rhin "Verloren"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Tol umgebracht, aber nicht verflucht worden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Tol überzeugt, Rhin freizulassen und den Fluch zu beseitigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Tol umgebracht, um den Fluch zu beseitigen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Lasse die Schläger Rhin zu Tol zurückzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Löse die Situation zwischen Rhin und Tol Maguur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Tol umgebracht, aber nicht verflucht worden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Rhin zurückgekauft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Tol überzeugt, Rhin freizulassen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Tybir überzeugte Tol</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Erzähle Tol Maguur, dass Rhin weg ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (Rhin nicht in der Gruppe)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (Rhin in der Gruppe)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tol Maguur, eine Sklavenhändlerin in Circus Minor, warb meine Hilfe an, ihren 'Pflegling' zu finden, ein Mädchen namens Rhin. Wenn ich Rhin zu ihr zurückbringe, sagt Tol, dass sie als Gegenleistung wertvolle Information hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Tol denkt, dass sich Rhin im Stadtteil Klippenrand versteckt. Sie beschrieb Rhin als schlank, mit dunklen, lockigen Haaren. Sie sagte auch, dass sie eine Kopfverletzung erlitt und dazu tendiert, über ihre Götter zu schwafeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich fand Rhin, wie sie sich in den Ruinen eines zerfallenen Gebäudes in Klippenrand versteckt hielt, aber ich muss sie immer noch überzeugen, meiner Gruppe beizutreten, damit ich sie zu Tol zurückbringen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Rhin stimmte zu, sich mir anzuschließen. Ich sollte sie zu Tol Maguur bringen und die Situation zwischen ihnen lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich weigerte mich, Rhin an Tol Maguur auszuhändigen. Als Erwiderung benutzte Tol die Gezeiten mich einer Art Fluch auszusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Als du dich Tol, mit Rhin im Schlepptau, nähertest, duckte sich Rhin weg und rannte davon, offenbar nicht damit zufrieden, zu ihrer alten Meisterin zurückzukehren. Sie versteckt sich wahrscheinlich wieder, und bestimmt nicht am gleichen Ort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich händigte Rhin an Tol Maguur aus. Rhin war nicht glücklich, aber zumindest Tol scheint entschlossen, sie sicher zu bewahren. Als Gegenleistung für meine Hilfe brachte mir Tol bei, die Gezeiten zu einem Werkzeug – einem Stoß aus Gezeitenenergie – zu formen, das ich zu meinem Vorteil nutzen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Du hast Tol genug Shin angeboten, dass sie einwilligte, Rhin freizulassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich tötete Tol Maguur, dadurch befreite ich Rhin und entfernte den 'Fluch', den Tol auf mich legte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Nach einem kurzem Rückanspruch händigtest du Rhin an Tol aus, die umgehend den Fluch entfernte, mit dem sie auf dich belegt hatte.
+
+ZUSATZ: Du versprachst Rhin, dass du zurückkehren würdest, um sie zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Du hast Tol eine ausreichende Menge Shin gezahlt, damit sie Rhin freilässt. Danach entfernte sie den Fluch, mit dem sie dich belegt hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Ich überzeugte Tol, Rhin freizulassen und den Fluch von mir zu entfernen. Tol zeigte mir  auch, wie man die Gezeiten in ein Werkzeug -  einen Stoß aus Energie – formt, das ich zu meinem Vorteil nutzen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich erzählte Tol, dass Rhin weggelaufen ist. Sie war äußerst unglücklich und sie weigerte sich, mir die Information zu geben, die sie versprach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Bei der Konfrontation gegen Tol bezüglich Rhin brach ein Kampf aus. Tol wurde im Aufruhr getötet und Rhin ist jetzt frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Ich überredete Tol, Rhin freizulassen und den Fluch zu entfernen, mit dem sie mich belegt hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Tol Maguur ist tot und als Wirkung verschwand der Fluch, mit dem sie mich belegt hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Ich fand Rhin, aber eine Schlägergruppe kam dazwischen und ich ließ zu, dass sie sie zu Tol zurückbringen. Vermutlich bekamen sie die Belohnung, die mir zugestanden hätte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Eine Sklavenhändlerin namens Tol Maguur behauptet, dass Rhin, das Mädchen, das ich am Klippenrand fand, ihr Eigentum ist. Sie fordert, dass ich sofort Rhin zu ihr zurückbringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Ich tötete Tol Maguur, also ist Rhin nicht mehr eine Sklavin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Ich bezahlte Tol Maguur die Menge, die sie forderte, also trat sie ihren Anspruch auf Rhin ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Ich überredete Tol Maguur, Rhin freizulassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Tybir tat *etwas*, um Tol Maguur zu überreden, Rhin freizulassen. Tol verließ danach die Stadt und Tybir schien mit sich recht zufrieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Rhin rannte von mir weg und ich bezweifle, dass ich sie jemals wiedersehe. Ich sollte zu Tol Maguur in Circus Minor zurückkehren und ihr sagen, was geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Ich verließ Sagusklippen und ich bezweifle, dass ich zur Stadt zurückkehren werde. Tol wird Rhin selber finden müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Ich verließ Sagusklippen mit Rhin und ich bezweifle, dass ich zur Stadt zurückkehren werde. Tol wird das Mädchen in naher Zukunft nicht zurückbekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Otero, ein gesprächiges Kind, das ich in der Stadt traf, behauptet, Rhin zu kennen. Er sagt, dass sie gut darin ist, Versteckplätze zu finden, oft in zusammengebrochenen Gebäuden. Er vermittelt außerdem eine ganz andere Beziehung zwischen Tol Maguur und Rhin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Aidan Sitabo sah ein kleines Mädchen, das auf Rhins Beschreibung passt. Sie hielt sich in einer der Ruinen eines zusammengefallenen Hauses in Klippenrand versteckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Verlust-des-Selbsts sah ein kleines Mädchen, das auf Rhins Beschreibung passt, wie sie in ein zerstörtes Gebäude kroch. Das Haus befindet sich nahe den Stufen, die von Klippenrand nach Karawanserai führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich versprach Rhin, dass ich später zurückkehre und sie befreie.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

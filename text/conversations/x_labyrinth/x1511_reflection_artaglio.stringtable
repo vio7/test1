@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1511_reflection_artaglio</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Addend. 4</DefaultText>
+      <FemaleText>Addend. 4</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wie läuft es so, Artaglio?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich bin nie gerne davongelaufen. Aber manchmal kommt es mir so vor, als würde ich überhaupt nichts anderes mehr machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Rum und Reue gibt es ohne Ende. Ersterer ertränkt letztere nie so vollständig, wie ich es gerne hätte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich kann hier nicht schlafen. Ich kann nirgends schlafen. Die Schreie folgen mir, wo immer ich auch bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Mit Artaglio einen trinken und eine Verbindung mit ihm herstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Eine Flasche erscheint in seiner Hand. Er reicht sie dir und ihr leert sie gemeinsam. Eine leicht beschwipste Zufriedenheit überkommt dich und du spürst, wie sich die Muskeln deines Körpers auf subtile Weise an die Erinnerungen und Erfahrungen anpassen, die Artaglios Abbild dir zu bieten hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Deine Verbindung mit Artaglio beenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Flasche verschwindet aus Artaglios Hand und mit ihr auch die Wärme und Kameradschaft zwischen euch. Für einen Augenblick fühlst du an ihrer Stelle eine schmerzhafte, einsame Kälte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Hier steht die verschwommene Form von Artaglio, dem Anführer der Spezialeinheit. Er sieht sich in der Stille um als wüsste er nicht genau, was er hier soll. Er hält die Hände hoch und starrt sie an - starrt *durch* sie hindurch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Er lacht und spricht, aber seine Stimme ist gedämpft, undeutlich. Deine Verbindungen mit den anderen Abbildern scheinen die Kommunikation mit ihm zu blockieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Er lacht. "Schätze, das ist eine Art Unsterblichkeit, was, Verstoßener? Hast du vielleicht was zu trinken dabei? Trink einen mit mir und ich verrate dir den einen oder anderen Trick."</DefaultText>
+      <FemaleText>Er lacht. "Schätze, das ist eine Art Unsterblichkeit, was, Verstoßene? Hast du vielleicht was zu trinken dabei? Trink einen mit mir und ich verrate dir den einen oder anderen Trick."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Lass ihn in Ruhe.</DefaultText>
+      <FemaleText>Lass ihn in Ruhe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vor dir steht die verschwommene Form von Artaglio, dem Anführer der Spezialeinheit. Er sieht sich in der Stille um als wüsste er nicht genau, was er hier soll. Er hält seine Hände hoch und starrt sie an - starrt *durch* sie hindurch.
+
+Er lacht. "Schätze, das ist eine Art Unsterblichkeit, was, Verstoßener?"</DefaultText>
+      <FemaleText>Vor dir steht die verschwommene Form von Artaglio, dem Anführer der Spezialeinheit. Er sieht sich in der Stille um als wüsste er nicht genau, was er hier soll. Er hält seine Hände hoch und starrt sie an - starrt *durch* sie hindurch.
+
+Er lacht. "Schätze, das ist eine Art Unsterblichkeit, was, Verstoßene?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Auf der Instinktebene...ist etwas passiert. Du hast eine Verbindung mit Artaglio aufgebaut und ein Abbild von ihm in deinem Geist geschaffen. Einige der Talente des Abbilds gehen auf dich über und du fühlst dich stärker. 
+
+Allerdings nimmt diese Verbindung eine ganze Ecke deines Geistes ein. Du kannst vielleicht Verbindungen mit mehr als einem Abbild in dem Labyrinth aufbauen, aber nicht mit vielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Artaglios Abbild sieht sich mit suchendem und verlorenem Blick in der Stille um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du spürst die Wärme eurer Verbindung stark wie eh und je. Er spürt deinen Blick auf sich und erhebt sein Glas auf dein Wohl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er sieht dich an, eindringlich und fordernd. Er streckt eine Hand zu dir aus. "Komm schon, Verstoßener. Trinken wir einen zusammen. Lernen wir uns kennen."</DefaultText>
+      <FemaleText>Er sieht dich an, eindringlich und fordernd. Er streckt eine Hand zu dir aus. "Komm schon, Verstoßene. Trinken wir einen zusammen. Lernen wir uns kennen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Er sieht dich an, eindringlich und fordernd, doch das psychische Gewicht der anderen Abbilder verhindert, dass du seine Worte verstehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Besser hier als in der Flor, schätze ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich fühle mich unwirklich... unvollständig. Zumindest gibt es hier reichlich Rum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Er wartet auf eine Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Bist du froh, hier zu sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Erzähle mir nochmal - bist du froh, hier zu sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Sag du es mir, Verstoßener." Er winkt ab. "Sieht das aus wie ein Ort, an dem *überhaupt* einer glücklich ist?" Er seufzt. "Wenigstens bin ich nicht mehr in der Flor."</DefaultText>
+      <FemaleText>"Sag du es mir, Verstoßene." Er winkt ab. "Sieht das aus wie ein Ort, an dem *überhaupt* einer glücklich ist?" Er seufzt. "Wenigstens bin ich nicht mehr in der Flor."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Er lacht säuerlich. "Ist das wirklich wichtig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Erzähle mir etwas aus deinem Leben, Artaglio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Hast du noch weitere Geschichten aus deinem Leben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Er überlegt, und seine Augen blinzen sich zu. "Ich erinnere mich an Kriege und Frauen und Lachen. Einmal gingen wir ein ein Dorf, das eigentlich feindlich sein sollte und sie haben und die eine riesige Willkommensfeier gemacht. Nach einer Weile waren wir alle stockbetrunken, auch unsere Wachen. Als wir am nächsten Morgen aufwachten, waren wir alle splitternackt, von Schlamm umgeben, so weit das Auge reicht. Kein Anzeichen vom Dorf - keine Gebäude, keine Bewohner - und wir konnten es auch nicht wieder finden."
+
+Sein Lächeln vergeht. "Da hab ich meine Lieblingsstiefel verloren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Es ist zu nebelig, um mich daran zu erinnern, Verstoßener. Ich lass dich wissen, wenn ich dir etwas erzählen will."</DefaultText>
+      <FemaleText>"Es ist zu nebelig, um mich daran zu erinnern, Verstoßene. Ich lass dich wissen, wenn ich dir etwas erzählen will."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Rede mit Artaglio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Eine schöne Bude hast du hier, Verstoßener. Habt ihr alle so was in euren Köpfen?" Er lehnt sich zu dir. "Ich höre allerlei Geflüster, weißt du? Als ob... es hier mehr gibt, als wir sehen können."</DefaultText>
+      <FemaleText>"Eine schöne Bude hast du hier, Verstoßene. Habt ihr alle so was in euren Köpfen?" Er lehnt sich zu dir. "Ich höre allerlei Geflüster, weißt du? Als ob... es hier mehr gibt, als wir sehen können."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ja, Verstoßener? Brauchst du etwas?"</DefaultText>
+      <FemaleText>"Ja, Verstoßene? Brauchst du etwas?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Also... an einem Ort wie diesen zu landen ist *nicht*, was ich erwartet hatte, als ich mich entschied, dich zu bekämpfen."
+
+Er hat seinen Wut beherrschen gelernt, wie es scheint. "Wenn das mein Schicksal ist, dann kann ich genausogut das Beste daraus machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Also... an einem Ort wie diesen zu landen ist *nicht*, was ich erwartet hatte, als ich mich entschied, dich zu bekämpfen."
+
+Er hat seinen Wut beherrschen gelernt, wie es scheint. "Wenn das mein Schicksal ist, dann kann ich genausogut das Beste daraus machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Er blickt finster und gestikuliert, aber seine Stimme ist gedämpft, verschwommen. Deine Verbindungen zu den anderen Reflektionen schienen deine Verbindung zu ihm zu erschweren. Seine Gesichtszüge lassen nach, und er zuckt die Schultern resigniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

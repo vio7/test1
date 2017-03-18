@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_feretory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Wind um diese Struktur ist seltsam feucht. Die Struktur gibt einen Geruch ab, den du nicht bestimmen kannst ... ein unbekanntes Fleisch vielleicht, das im Sonnenlicht verfault.
+
+Und da ist etwas Anderes. Ein beißendes, stilles Kribbeln, das in der Luft hängt. Das Gefühl von Stärke, in Reserve gehalten.
+
+{COLIN (and possibly others): Setting global here so the PC can ask other people about this weird thing, as described in the ZDD. May not end up being necessary, but seems like it'd be a good thing to have.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Eines nach dem anderen stellen sich deine Haare auf, als du dich der Struktur näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Struktur untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Struktur nochmal untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du streckst dich aus, um die schräge Seite zu berühren, doch du zögerst. Eigenartig.
+
+Die Oberfläche ist glatt. Sogar einladend. Dennoch sagen dir deine Instinkte, dass die Struktur *will*, dass du sie berührst. Dass du hereinkommst. Dass du nachgibst und zu Boden fällst und damit deine weichsten Stellen bloßlegst damit-
+
+Du taumelst zurück und schüttelst den Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du streckst deine Hand zur Struktur aus, aber du kannst dich nicht dazu bringen, deine Hand erneut darauf zu legen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ja, das willst du lieber nicht tun. Niemand von uns ist sich sicher, was das ist, oder warum die Erste es hier ließ. Ich *denke*, dass es eine allerletzte Verteidigung gegen den Kummer ist, sollte alles andere versagen. Andere sagen anderes.“
+
+Sie schnupft. "Fühlt sich unengenehm genug an, oder?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Mit Zähneknirschen ignorierst du die abstoßenden Wellen, die auf dich drücken und setzt deine Handfläche fest auf die Oberfläche der Struktur.
+
+Dein Augenlicht schwindet und du fällst, stürzt in eine bodenlose Finsternes durch Wolken aus schleimigen, bohrenden Körpern. Sie stöbern an deinen Lippen, saugen an der Feuchtigkeit um deinen Lippen und kratzen eindringlich an deinen Augenlidern...
+
+Irgendetwas umklammert dein Herz und *zerdrückt* es. Das ist das letzte, was du spürst.
+
+{SOUND: PC screaming.}
+{SOUND: Slimy movement noises, matching the icky description above.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Trotz deiner Bedenken die Struktur berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Struktur dich erneut töten lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Nochmals zwingst du deine Hand durch die abstoßenden Wellen und auf die Struktur. Du wirst sofort blind und spürst, wie du in eine bodenlose Finsternis durch schleimige, bohrende Körper fällst.
+
+Irgendetwas *kraftvolles* zerdrückt dein Herz in deiner Brust und dann spürst du nichts.
+
+{SOUND: PC screaming.}
+{SOUND: Slimy movement noises, matching the icky description above.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

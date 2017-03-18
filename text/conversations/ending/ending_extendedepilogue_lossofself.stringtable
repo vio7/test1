@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_lossofself</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Alara, das Mädchen, das einst Verlust-des-Selbsts genannt wurde, erinnerte sich nicht nur an ihren Namen und die Gesichter ihrer Eltern. Als sie das nächste Mal kamen, um ihr Essen zu bringen, konnte sie ihnen alles erzählen, was ihr wiederfahren war.[BR][BR]Alara kehrte nach Hause zurück und war zum ersten Mal seit Jahren wieder glücklich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Verlust-des-Selbsts genannte Mädchen kämpfte lange Zeit gegen das Wirken der Probabilitätsmaschinen unter der Stadt an. Sie konnte die Zwänge nie ganz ablegen, noch erinnerte sich jemals vollständig daran, wer sie war. Aber endlich schaffte sie es, sich vom Abgrund zu entfernen und ihr Leben zu leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Verlust-des-Selbsts akzeptierte schließlich die Persönlichkeit, die schon so lange in ihr heranwuchs. Sie begann, sich Miila zu nennen und fühlte sich auf seltsame Weise zum Kult des Wandelnden Gottes hingezogen.[BR][BR]Nachdem sie den Kult einige Monate lang beobachtet hatte, brachte sie den Mut auf, sich den Kultisten anzuschließen und mehr über diesen seltsamen Gott zu erfahren. Sie ist nun eine der führenden Gelehrten auf dem Gebiet des Wandelnden Gottes und seines Vermächtnisses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Verlust-des-Selbsts genannte Mädchen kämpfte gegen die Persönlichkeit an, die schon so lange in ihr heranwuchs, doch ihre Niederlage bahnte sich an. In dem Moment, in dem sie spürte, wie ihr der Verstand entglitt – und das *andere* Mädchen die Kontrolle übernahm – sprang sie von der Klippe und verschwand in dem schwarzen Wasser darunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

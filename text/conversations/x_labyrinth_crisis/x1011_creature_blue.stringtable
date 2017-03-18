@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_blue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Kreatur im Inneren dieses Tanks erschaudert und Blasen verschleiern ihre glühenden Augen. Dünne, flackernde Fasern treten aus dem Tank hervor, lösen sich jedoch auf, noch bevor sie deine Schläfen berühren können. Eine der Bestien hat die umstehende Maschine befallen und verhindert, dass du Kontakt zum Verstand der Kreatur herstellst.</DefaultText>
+      <FemaleText>Die Kreatur im Inneren dieses Tanks erschaudert und Blasen verschleiern ihre glühenden Augen. Dünne, flackernde Fasern treten aus dem Tank hervor, lösen sich jedoch auf, noch bevor sie deine Schläfen berühren können. Eine der Bestien hat die umstehende Maschine befallen und verhindert, dass du Kontakt zum Verstand der Kreatur herstellst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Was wirst du tun?</DefaultText>
+      <FemaleText>Was wirst du tun?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Gib der Neugier des Nevajins nach und lass zu, dass es alles ihm Mögliche von dem Gelehrten lernt.</DefaultText>
+      <FemaleText>Gib der Neugier des Nevajins nach und lass zu, dass es alles ihm Mögliche von dem Gelehrten lernt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Zwinge das Nevajin dazu, den vergrabenen Gelehrten für seine Taten zu töten.</DefaultText>
+      <FemaleText>Zwinge das Nevajin dazu, den vergrabenen Gelehrten für seine Taten zu töten.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Weise das Nevajin an, den Gelehrten ruhigzustellen, um zu verhindern, dass die Worte erneut gesprochen werden.</DefaultText>
+      <FemaleText>Weise das Nevajin an, den Gelehrten ruhigzustellen, um zu verhindern, dass die Worte erneut gesprochen werden.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ermutige das Nevajin dazu, den Gelehrten aus seinem Gefängnis zu befreien. Er ist immerhin nur auf der Suche nach Wissen.</DefaultText>
+      <FemaleText>Ermutige das Nevajin dazu, den Gelehrten aus seinem Gefängnis zu befreien. Er ist immerhin nur auf der Suche nach Wissen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Zwinge das Nevajin dazu, die Worte zu erlernen, um ihre Macht über andere auszuüben.</DefaultText>
+      <FemaleText>Zwinge das Nevajin dazu, die Worte zu erlernen, um ihre Macht über andere auszuüben.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Deine eigene Stimme spricht direkt in deinem Hinterkopf. 
+
+"Bezeichnung – Nevajin. Biomechanischer Organismus mit starker Affinität für blaue Gezeiten. Trotz seiner unstillbaren Neugier strahlt das Nevajin eine unheimliche Ruhe und Gelassenheit aus. Es wird Wissen gegen neue Cyphern oder Artefakte tauschen, die es untersuchen kann, jedoch ohne Anzeichen von Gier oder eines Ziels. Sie scheinen zielstrebig, jedoch so im Reinen mit ihrer Suche, dass sie sich von Fehlschlägen niemals aus der Ruhe bringen lassen."</DefaultText>
+      <FemaleText>Deine eigene Stimme spricht direkt in deinem Hinterkopf. 
+
+"Bezeichnung – Nevajin. Biomechanischer Organismus mit starker Affinität für blaue Gezeiten. Trotz seiner unstillbaren Neugier strahlt das Nevajin eine unheimliche Ruhe und Gelassenheit aus. Es wird Wissen gegen neue Cyphern oder Artefakte tauschen, die es untersuchen kann, jedoch ohne Anzeichen von Gier oder eines Ziels. Sie scheinen zielstrebig, jedoch so im Reinen mit ihrer Suche, dass sie sich von Fehlschlägen niemals aus der Ruhe bringen lassen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Stimme spricht erneut direkt in deinem Kopf. 
+
+"Bezeichnung – Nevajin. Biomechanischer Organismus mit starker Affinität für blaue Gezeiten. Trotz seiner unstillbaren Neugier strahlt das Nevajin eine unheimliche Ruhe und Gelassenheit aus. Es wird Wissen gegen neue Cyphern oder Artefakte tauschen, die es untersuchen kann, jedoch ohne Anzeichen von Gier oder eines Ziels. Sie scheinen zielstrebig, jedoch so im Reinen mit ihrer Suche, dass sie sich von Fehlschlägen niemals aus der Ruhe bringen lassen."</DefaultText>
+      <FemaleText>Die Stimme spricht erneut direkt in deinem Kopf. 
+
+"Bezeichnung – Nevajin. Biomechanischer Organismus mit starker Affinität für blaue Gezeiten. Trotz seiner unstillbaren Neugier strahlt das Nevajin eine unheimliche Ruhe und Gelassenheit aus. Es wird Wissen gegen neue Cyphern oder Artefakte tauschen, die es untersuchen kann, jedoch ohne Anzeichen von Gier oder eines Ziels. Sie scheinen zielstrebig, jedoch so im Reinen mit ihrer Suche, dass sie sich von Fehlschlägen niemals aus der Ruhe bringen lassen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Untersuche die Kreatur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Untersuche erneut das Nevajin.</DefaultText>
+      <FemaleText>Untersuche erneut das Nevajin.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText>Verlassen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Dieser Tank enthält einen Humanoiden mit einem schädelartigen Kopf. Ein Name hebt sich in deinen vererbten Erinnerungen ab. Dies ist ein Nevajin, eine Kreatur von unersättlicher, überwältigenden Neugier. Die Kummerscherben, die über die Plattformen schweben, nicht beachtend, spricht es mit einem schleifenden Flüstern mit sich selbst, in einer Sprache, die du nicht verstehst. 
+
+Ranken leuchtender Daten schlängeln sich von dem Tank und strömen in deine Schläfen. Der Raum schwindet in flimmernden Streifen, als du den Geist der Kreatur in diesem Tank begehst und siehst, was es sieht.</DefaultText>
+      <FemaleText>Dieser Tank enthält einen Humanoiden mit einem schädelartigen Kopf. Ein Name hebt sich in deinen vererbten Erinnerungen ab. Dies ist ein Nevajin, eine Kreatur von unersättlicher, überwältigenden Neugier. Die Kummerscherben, die über die Plattformen schweben, nicht beachtend, spricht es mit einem schleifenden Flüstern mit sich selbst, in einer Sprache, die du nicht verstehst. 
+
+Ranken leuchtender Daten schlängeln sich von dem Tank und strömen in deine Schläfen. Der Raum schwindet in flimmernden Streifen, als du den Geist der Kreatur in diesem Tank begehst und siehst, was es sieht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Kummerscherbe in der umstehenden Maschine verhindert, dass du Kontakt zum Geist der Kreatur herstellst.</DefaultText>
+      <FemaleText>Die Kummerscherbe in der umstehenden Maschine verhindert, dass du Kontakt zum Geist der Kreatur herstellst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Datenspiralen des Tanks winden sich in deine Richtung und ziehen dich vorsichtig zurück in den Geist des Nevajins und in die Höhle mit dem weinenden Steingesicht.
+
+"Frag einfach", sagt der Steingelehrte, wobei er mit jeder Silbe kämpft, die über seine Lippen kommt, "und ich werde den acht abscheulichen Worten, welche die Frischwasserquellen Qras mit schwärmenden Schatten füllten und ihre Türme würgten, bis sie fielen, eine Stimme verleihen. Frag und sie werden sich auch dich mit Freuden holen."</DefaultText>
+      <FemaleText>Die Datenspiralen des Tanks winden sich in deine Richtung und ziehen dich vorsichtig zurück in den Geist des Nevajins und in die Höhle mit dem weinenden Steingesicht.
+
+"Frag einfach", sagt der Steingelehrte, wobei er mit jeder Silbe kämpft, die über seine Lippen kommt, "und ich werde den acht abscheulichen Worten, welche die Frischwasserquellen Qras mit schwärmenden Schatten füllten und ihre Türme würgten, bis sie fielen, eine Stimme verleihen. Frag und sie werden sich auch dich mit Freuden holen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Das Nevajin schwimmt im Tank, still und leise. Du erreichst nichts mehr, indem du den Geist der Kreatur begehst.</DefaultText>
+      <FemaleText>Das Nevajin schwimmt im Tank, still und leise. Du erreichst nichts mehr, indem du den Geist der Kreatur begehst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Dieser Tank enthält einen Humanoiden mit einem schädelartigen Kopf. Ein Name hebt sich in deinen vererbten Erinnerungen ab. Dies ist ein Nevajin, eine Kreatur von unersättlicher, überwältigenden Neugier. 
+
+Ranken leuchtender Daten schlängeln sich von dem Tank und strömen in deine Schläfen. Der Raum schwindet in flimmernden Streifen, als du den Geist der Kreatur in diesem Tank begehst und siehst, was es sieht.</DefaultText>
+      <FemaleText>Dieser Tank enthält einen Humanoiden mit einem schädelartigen Kopf. Ein Name hebt sich in deinen vererbten Erinnerungen ab. Dies ist ein Nevajin, eine Kreatur von unersättlicher, überwältigenden Neugier. 
+
+Ranken leuchtender Daten schlängeln sich von dem Tank und strömen in deine Schläfen. Der Raum schwindet in flimmernden Streifen, als du den Geist der Kreatur in diesem Tank begehst und siehst, was es sieht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Die Datenspiralen des Tanks winden sich in deine Richtung und ziehen dich vorsichtig zurück in den Geist des Nevajins und in die Höhle mit dem weinenden Steingesicht.
+
+"Frag einfach", sagt der Steingelehrte, wobei er mit jeder Silbe kämpft, die über seine Lippen kommt, "und ich werde den acht abscheulichen Worten, welche die Frischwasserquellen Qras mit schwärmenden Schatten füllten und ihre Türme würgten, bis sie fielen, eine Stimme verleihen. Frag und sie werden sich auch dich mit Freuden holen."</DefaultText>
+      <FemaleText>Die Datenspiralen des Tanks winden sich in deine Richtung und ziehen dich vorsichtig zurück in den Geist des Nevajins und in die Höhle mit dem weinenden Steingesicht.
+
+"Frag einfach", sagt der Steingelehrte, wobei er mit jeder Silbe kämpft, die über seine Lippen kommt, "und ich werde den acht abscheulichen Worten, welche die Frischwasserquellen Qras mit schwärmenden Schatten füllten und ihre Türme würgten, bis sie fielen, eine Stimme verleihen. Frag und sie werden sich auch dich mit Freuden holen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Dieser Tank enthält einen Humanoiden mit einem schädelartigen Kopf. Ein Name hebt sich in deinen vererbten Erinnerungen ab. Dies ist ein Nevajin, eine Kreatur von unersättlicher, überwältigenden Neugier. Die Kummerscherben, die über die Plattformen schweben, nicht beachtend, spricht es mit einem schleifenden Flüstern mit sich selbst, in einer Sprache, die du nicht verstehst. 
+
+Ranken leuchtender Daten schlängeln sich von dem Tank und strömen in deine Schläfen. Der Raum schwindet in flimmernden Streifen, als du den Geist der Kreatur in diesem Tank begehst und siehst, was es sieht.</DefaultText>
+      <FemaleText>Dieser Tank enthält einen Humanoiden mit einem schädelartigen Kopf. Ein Name hebt sich in deinen vererbten Erinnerungen ab. Dies ist ein Nevajin, eine Kreatur von unersättlicher, überwältigenden Neugier. Die Kummerscherben, die über die Plattformen schweben, nicht beachtend, spricht es mit einem schleifenden Flüstern mit sich selbst, in einer Sprache, die du nicht verstehst. 
+
+Ranken leuchtender Daten schlängeln sich von dem Tank und strömen in deine Schläfen. Der Raum schwindet in flimmernden Streifen, als du den Geist der Kreatur in diesem Tank begehst und siehst, was es sieht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Die Datenspiralen des Tanks winden sich in deine Richtung und ziehen dich vorsichtig zurück in den Geist des Nevajins und in die Höhle mit dem weinenden Steingesicht.
+
+"Frag einfach", sagt der Steingelehrte, wobei er mit jeder Silbe kämpft, die über seine Lippen kommt, "und ich werde den acht abscheulichen Worten, welche die Frischwasserquellen Qras mit schwärmenden Schatten füllten und ihre Türme würgten, bis sie fielen, eine Stimme verleihen. Frag und sie werden sich auch dich mit Freuden holen."</DefaultText>
+      <FemaleText>Die Datenspiralen des Tanks winden sich in deine Richtung und ziehen dich vorsichtig zurück in den Geist des Nevajins und in die Höhle mit dem weinenden Steingesicht.
+
+"Frag einfach", sagt der Steingelehrte, wobei er mit jeder Silbe kämpft, die über seine Lippen kommt, "und ich werde den acht abscheulichen Worten, welche die Frischwasserquellen Qras mit schwärmenden Schatten füllten und ihre Türme würgten, bis sie fielen, eine Stimme verleihen. Frag und sie werden sich auch dich mit Freuden holen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Der hilflose Gelehrte spricht acht wunderschöne, fremde Worte aus, die den Geist des Nevajins treffen und sich wie sich windende, mit Dornen überzogene Ranken auf seine Gedanken stürzen. Während es sich durch den Schmerz hindurch konzentriert, stellt das Nevajin dem weinenden Gelehrten die erste von vielen Fragen über das verlorene Qra. 
+
+Später verlässt das Nevajin die Höhle, wobei die Worte in ihm anschwellen, erfreut darüber, solch interessante Geheimnisse entdeckt zu haben. 
+
+Wärme breitet sich in dir aus und richtet die Gezeitenkanäle in deinem Kopf aus. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText>Der hilflose Gelehrte spricht acht wunderschöne, fremde Worte aus, die den Geist des Nevajins treffen und sich wie sich windende, mit Dornen überzogene Ranken auf seine Gedanken stürzen. Während es sich durch den Schmerz hindurch konzentriert, stellt das Nevajin dem weinenden Gelehrten die erste von vielen Fragen über das verlorene Qra. 
+
+Später verlässt das Nevajin die Höhle, wobei die Worte in ihm anschwellen, erfreut darüber, solch interessante Geheimnisse entdeckt zu haben. 
+
+Wärme breitet sich in dir aus und richtet die Gezeitenkanäle in deinem Kopf aus. 
+{SCRIPT: +1 Intellect for 3 rounds.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du richtest deine Aufmerksamkeit zurück auf das seltsame Labor. Fünf massige, rauchige Kreaturen tauchen auf der Plattform auf und saugen die Luft mit knisterndem Knurren ein. Das flaue Gefühl in deinem Magen erkennt, worum es sich hierbei handelt – dies sind Hände des Wesens, das dich heimsuchte, als du deine Erinnerungen wiedererlangtest. Kummerscherben. 
+
+Vier von ihnen stürzen sich in die Maschinen, die mit den verbleibenden Tanks verbunden sind, und verursachen Chaos in ihren zarten Innereien. Die fünfte Kummerscherbe richtet ihren augenlosen Blick auf dich und deine Verbündete.</DefaultText>
+      <FemaleText>Du richtest deine Aufmerksamkeit zurück auf das seltsame Labor. Fünf massige, rauchige Kreaturen tauchen auf der Plattform auf und saugen die Luft mit knisterndem Knurren ein. Das flaue Gefühl in deinem Magen erkennt, worum es sich hierbei handelt – dies sind Hände des Wesens, das dich heimsuchte, als du deine Erinnerungen wiedererlangtest. Kummerscherben. 
+
+Vier von ihnen stürzen sich in die Maschinen, die mit den verbleibenden Tanks verbunden sind, und verursachen Chaos in ihren zarten Innereien. Die fünfte Kummerscherbe richtet ihren augenlosen Blick auf dich und deine Verbündete.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Von deinem Willen besessen stürzt sich das Nevajin auf den Steingelehrten und prügelt das Steingesicht mit seinen gichtigen Fäusten zu Staub. Die Worte ersterben, unausgesprochen und unbekannt, im vergrabenen Hals des Gelehrten. 
+
+Traurigkeit bläht sich im Kopf der Kreatur auf, als sie auf den rauen Leichnam starrt und den Verlust des faszinierenden und gefährlichen antiken Wissens betrauert. Sie fragt sich, was es zu einem derart nicht charakteristischen und übereilten Verhalten führte. 
+
+Wärme breitet sich in dir aus und richtet die Gezeitenkanäle in deinem Kopf aus. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText>Von deinem Willen besessen stürzt sich das Nevajin auf den Steingelehrten und prügelt das Steingesicht mit seinen gichtigen Fäusten zu Staub. Die Worte ersterben, unausgesprochen und unbekannt, im vergrabenen Hals des Gelehrten. 
+
+Traurigkeit bläht sich im Kopf der Kreatur auf, als sie auf den rauen Leichnam starrt und den Verlust des faszinierenden und gefährlichen antiken Wissens betrauert. Sie fragt sich, was es zu einem derart nicht charakteristischen und übereilten Verhalten führte. 
+
+Wärme breitet sich in dir aus und richtet die Gezeitenkanäle in deinem Kopf aus. 
+{SCRIPT: +1 Intellect for 3 rounds.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Nachdem du in deinen eigenen Körper zurückgekehrt bist, legt sich eine dumpfe Wärme über deine Gedärme und ein öliger Schleier nimmt dir die Sicht. Du spürst ... nein, du *weißt*, dass der Kummer seine Aufmerksamkeit direkt auf dich gerichtet hat. 
+
+Die Reste der Kummerscherben strömen aus den Geräten, die sie befallen hatten, und schließen sich der Jagd an.</DefaultText>
+      <FemaleText>Nachdem du in deinen eigenen Körper zurückgekehrt bist, legt sich eine dumpfe Wärme über deine Gedärme und ein öliger Schleier nimmt dir die Sicht. Du spürst ... nein, du *weißt*, dass der Kummer seine Aufmerksamkeit direkt auf dich gerichtet hat. 
+
+Die Reste der Kummerscherben strömen aus den Geräten, die sie befallen hatten, und schließen sich der Jagd an.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Das war die letzte der Kreaturen. Du stiehlst dich für das tödliche Rennen zum Tank hinten im Raum.</DefaultText>
+      <FemaleText>Das war die letzte der Kreaturen. Du stiehlst dich für das tödliche Rennen zum Tank hinten im Raum.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du lehnst dich gegen einen Tank, um zu Atem zu kommen, und beäugst die verbleibenden Kreaturen in den Tanks. Du wirst die Stellung wechseln müssen, um zu verhindern, von den Kummerscherben gejagt zu werden.</DefaultText>
+      <FemaleText>Du lehnst dich gegen einen Tank, um zu Atem zu kommen, und beäugst die verbleibenden Kreaturen in den Tanks. Du wirst die Stellung wechseln müssen, um zu verhindern, von den Kummerscherben gejagt zu werden.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Mit einem mächtigen Schlag mit seiner gichtigen Klaue reißt das Nevajin dem Steingelehrten den Kiefer aus dem Gesicht, wirft ihn zu Boden und stürmt aus der Höhle, wobei es die flehenden Augen des stummen Gefangenen ignoriert.
+
+Sobald es das Tageslicht wieder erreicht hat, hält das Nevajin inne, darüber verstört, einen gleichgesinnten Wissenssuchenden für Entscheidungen bestraft zu haben, die es genauso getroffen hätte. 
+
+Wärme breitet sich in dir aus und richtet die Gezeitenkanäle in deinem Kopf aus. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText>Mit einem mächtigen Schlag mit seiner gichtigen Klaue reißt das Nevajin dem Steingelehrten den Kiefer aus dem Gesicht, wirft ihn zu Boden und stürmt aus der Höhle, wobei es die flehenden Augen des stummen Gefangenen ignoriert.
+
+Sobald es das Tageslicht wieder erreicht hat, hält das Nevajin inne, darüber verstört, einen gleichgesinnten Wissenssuchenden für Entscheidungen bestraft zu haben, die es genauso getroffen hätte. 
+
+Wärme breitet sich in dir aus und richtet die Gezeitenkanäle in deinem Kopf aus. 
+{SCRIPT: +1 Intellect for 3 rounds.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Von der seltsamen Idee begeistert, die es hatte, setzt das Nevajin seine kräftigen Klauen ein, um die Wand, in der sich der Gelehrte befand, Stein für Stein niederzureißen. 
+
+Die unzähligen überraschten Toten des alten Qra erwachen hinter den Mauern, wobei sie die acht Worte schreien, die ihren Niedergang bedeuteten. Das Letzte, das das Nevajin sieht, bevor die Höhle zusammenstürzt, ist der weinende Gelehrte, der mit offenen Armen auf das Nevajin zu stolpert. 
+
+Wärme breitet sich in dir aus und richtet die Gezeitenkanäle in deinem Kopf aus. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText>Von der seltsamen Idee begeistert, die es hatte, setzt das Nevajin seine kräftigen Klauen ein, um die Wand, in der sich der Gelehrte befand, Stein für Stein niederzureißen. 
+
+Die unzähligen überraschten Toten des alten Qra erwachen hinter den Mauern, wobei sie die acht Worte schreien, die ihren Niedergang bedeuteten. Das Letzte, das das Nevajin sieht, bevor die Höhle zusammenstürzt, ist der weinende Gelehrte, der mit offenen Armen auf das Nevajin zu stolpert. 
+
+Wärme breitet sich in dir aus und richtet die Gezeitenkanäle in deinem Kopf aus. 
+{SCRIPT: +1 Intellect for 3 rounds.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Der hilflose Gelehrte spricht acht wunderschöne, fremde Worte aus, die den Geist des Nevajins treffen und sich wie sich windende, mit Dornen überzogene Ranken auf seine Gedanken stürzen. Während es sich durch den Schmerz hindurch konzentriert, flieht das Nevajin aus der Höhle, durch sein plötzliches Verlangen verwirrt, seine Entdeckung einzusetzen, statt mehr zu erfahren.
+
+Es findet andere seiner Art und die Worte fließen in einem unreinen Strom, sie vergiftend und gegeneinander aufwiegelnd.
+
+Wärme breitet sich in dir aus und richtet die Gezeitenkanäle in deinem Kopf aus. 
+{SCRIPT: +1 Intellect for 3 rounds.}</DefaultText>
+      <FemaleText>Der hilflose Gelehrte spricht acht wunderschöne, fremde Worte aus, die den Geist des Nevajins treffen und sich wie sich windende, mit Dornen überzogene Ranken auf seine Gedanken stürzen. Während es sich durch den Schmerz hindurch konzentriert, flieht das Nevajin aus der Höhle, durch sein plötzliches Verlangen verwirrt, seine Entdeckung einzusetzen, statt mehr zu erfahren.
+
+Es findet andere seiner Art und die Worte fließen in einem unreinen Strom, sie vergiftend und gegeneinander aufwiegelnd.
+
+Wärme breitet sich in dir aus und richtet die Gezeitenkanäle in deinem Kopf aus. 
+{SCRIPT: +1 Intellect for 3 rounds.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Das Nevajin befindet sich in einer dunklen Höhle und hört aufmerksam einem Steinkopf zu, der in der davorstehenden Wand eingelassen ist. 
+
+"Ich zerstörte das antike Qra", murmelt der Kopf. "Ich war auf der Suche nach Worten der Zerstörung, die in einem verbotenen Band versiegelt waren. Ich konnte nicht anders! Doch sobald sie bekannt waren, sprachen sich die Worte vor den acht Herrschern von Qra selbst aus und brachten diese gegeneinander auf. Das große Qra schmolz wie Wachs in den darauffolgenden Kriegen, doch ich, der ich gefangen war, konnte nicht mit ihm brennen. Selbst jetzt wollen die Worte noch ausgesprochen werden!"
+
+Das Nevajin beugt sich hungrig nach vorne.</DefaultText>
+      <FemaleText>Das Nevajin befindet sich in einer dunklen Höhle und hört aufmerksam einem Steinkopf zu, der in der davorstehenden Wand eingelassen ist. 
+
+"Ich zerstörte das antike Qra", murmelt der Kopf. "Ich war auf der Suche nach Worten der Zerstörung, die in einem verbotenen Band versiegelt waren. Ich konnte nicht anders! Doch sobald sie bekannt waren, sprachen sich die Worte vor den acht Herrschern von Qra selbst aus und brachten diese gegeneinander auf. Das große Qra schmolz wie Wachs in den darauffolgenden Kriegen, doch ich, der ich gefangen war, konnte nicht mit ihm brennen. Selbst jetzt wollen die Worte noch ausgesprochen werden!"
+
+Das Nevajin beugt sich hungrig nach vorne.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Dein Blick fällt auf die brummenden Kabel zwischen dem Tank und der Maschine in der Nähe. Die vorhandenen Kummerscherben haben sie zu schmerzerfüllten Gebilden verzerrt. Vielleicht kannst du den Geist der Kreatur erlösen und ihn begehen, wenn du sie entfernst.</DefaultText>
+      <FemaleText>Dein Blick fällt auf die brummenden Kabel zwischen dem Tank und der Maschine in der Nähe. Die vorhandenen Kummerscherben haben sie zu schmerzerfüllten Gebilden verzerrt. Vielleicht kannst du den Geist der Kreatur erlösen und ihn begehen, wenn du sie entfernst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Follow-up PQ. 72</DefaultText>
+      <FemaleText>Follow-up PQ. 72</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Untersuche das Nevajin.</DefaultText>
+      <FemaleText>Untersuche das Nevajin.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Untersuche erneut das Nevajin.</DefaultText>
+      <FemaleText>Untersuche erneut das Nevajin.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

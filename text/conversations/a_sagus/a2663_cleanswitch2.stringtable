@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2663_cleanswitch2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sich wie immer zurückziehend, seufzt die Intelligenz: "Oh, das ist peinlich. Ich fürchte, dass meine Energien viel zu erschöpft sind, um dich unterstützen zu können. Bitte kehre in circa 13 Mondzyklen zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Eine Wolke funkelnder Motten flattert um diese Säule herum. Als du dich ihr näherst, schwirren einige Motten um deinen Kopf herum und fliegen dir ins Ohr. 
+
+Eine melodische Stimme, von einer groben Statik unterbrochen, spricht im Inneren deines Ohres. Zuerst verstehst du die Sprache nicht, doch nach wenigen Worten verwandeln sich die Klänge zur Wahrheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Oh, Schande", sagt eine demütige Stimme. "Ich fürchte, ich habe eine Infektion entdeckt. Beginne Säuberung in -"
+
+Das Kreischen der Unvergleichlichen übertönt den ersten Sprecher. "Tritt näher, widerliches Fleisch-Saft-Gebilde!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die glitzernden Motten schwirren umher und fliegen dir genauso ins Ohr wie die letzte Säule. Es ist wahrscheinlich die gleiche Säuberungsmethode, die hier bei der Unvergleichlichen funktionieren würde. 
+
+"Wenn es nicht zu viel verlangt ist", beginnt eine demütige Stimme, "initiiere bitte ein Eindämmungspro-"
+
+::knistern::
+
+"Es *ist* zu viel verlangt!" brüllt sie. "Ich bin die Unvergleichliche und ich werde mich nicht binden lassen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Die Stimme aus der Säule versucht, dich sanftmütig zu stimmen, bevor die Unvergleichliche unterbricht und die andere Intelligenz beiseiteschiebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Follow-up PQ. 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ein pulsierendes Wellenmuster auf einem Segment der Säule erregt deine Aufmerksamkeit und du legst eine Hand darauf. Eine Singsang-Stimme stimmt eine Reihe von Musiknoten an, dissonant und unheimlich. Du ertappst dich dabei, wie die nächsten Stufen der Tonleiter summst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Das rote Licht flutet von der Säule und die andere Stimme scheint sich zu räuspern: "Oh, wunderbar. Alle meine Drohnen wurden gründlich von der unvergleichlichen Intelligenz bereinigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die Säule ist in ihren beabsichtigen Zustand zurückgekehrt, bereit, weitere Befehle anzunehmen: 
+
+"Ich schulde dir meine Dankbarkeit, guter Herr. Bitte verwende den richtigen Ton, wenn du eine körperliche Erfrischung wünschst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du versuchst, verschiedene Punkte auf der Oberfläche der Säule zu berühren, wobei du Lichtlinien nachfährst, jedoch ohne Reaktion. "Erbärmlicher Fleischläufer! Verteile deine verwesenden Hautzellen wo anders!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Lichtflecken schwärmen um die Säule herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Versuche, die Intelligenz der Unvergleichlichen zu säubern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Versuche erneut, die Intelligenz der Unvergleichlichen zu säubern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Aktiviere eine Säuberung der Intelligenz der Unvergleichlichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du legst deine Hand auf das Wellenmuster und summst die zuvor verwendete Notenfolge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Tritt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die schwebenden Seelen der Säule wabern in deinen Kopf. "Schön, dich wiederzusehen! Wie wäre es mit einer körperlichen Erfrischung? Alles, was ich dazu benötige, ist der richtige Ton."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Summe die nächsten Stufen der Tonleiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ein Chor aus warmen Tönen hallt aus dem Inneren der Säule, begleitet von einer Lichtwelle. Der Klang schwingt durch dich hindurch und du fühlst dich verjüngt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

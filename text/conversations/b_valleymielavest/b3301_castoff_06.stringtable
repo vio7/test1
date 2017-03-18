@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_castoff_06</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich werde nicht gehen, bis ich *sicher* bin, dass der Kummer wieder untätig ist.“</DefaultText>
+      <FemaleText>"Ich werde nicht gehen, bis ich *sicher* bin, dass der Kummer wieder untätig ist.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich spürte, wie der Kummer in meiner Nähe manifestierte - nur eine Vermuting - und ich kam so schnell hierher, wie ich konnte.</DefaultText>
+      <FemaleText>"Ich spürte, wie der Kummer in meiner Nähe manifestierte - nur eine Vermuting - und ich kam so schnell hierher, wie ich konnte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich hoffe, dass die Schilde durchhalten.“</DefaultText>
+      <FemaleText>"Ich hoffe, dass die Schilde durchhalten.“</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

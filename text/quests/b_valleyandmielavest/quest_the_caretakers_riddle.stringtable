@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_the_caretakers_riddle</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Rätsel des Wärters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit Motley in der Nekropolis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rede mit dem Memorialisten in Necropolis über den Code.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Suche andere Memorialisten, die den Code kennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Finde den Namen des Ceturlprinzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Öffne das Flüsterschloss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ich öffnete das Flüsterschloss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Suche andere Memorialisten, die den Code kennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sprich mit dem Memorialisten, der einst Motleys Gefangener war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Motley hat das Flüsterschloss geöffnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Suche andere Memorialisten, die den Code kennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Chronisten haben den Teleport-Terminal der Nekropolis mit einem Flüsterschloss versehen. Es ist unmöglich, die Gräber unterhalb zu betreten, solange das Schloss den Weg versperrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Klin'kar hat vorgeschlagen, dass ich mich mit Motley in der Nektropolis unterhalten soll, wenn ich Hilfe bei mienem Problem benötige. Wir werden sehen, was Motley zu sagen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Chronistin, die das Flüsterschloss an der Nekropolis angebracht hat. Vielleicht kann sie mir das Passtwort geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Die Frau, die das Flüsterschloss angebracht hat, ist tot, aber für diesen Fall hat sie sicherlich vorgesorgt. Vielleicht gibt es noch einen anderen Chronisten, der mir das Passwort verraten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich kenne das Passwort für das Flüsterschloss nicht, aber ich habe einen Hinweis: es ist der Name des Ceturl-Prinzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Das Passwort für das Flüsterschloss lautet "Guni". Jetzt muss ich es nur noch öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe das Passwort 'Guni' vor dem Flüsterschloss ausgesprochen und es hat sich im Handumdrehen geöffnet. Endlich kann ich in die Nekropolis vordringen und das Grab der Ersten erkunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Die Frau, die das Flüsterschloss angebracht hat, wollte mir das Passwort nicht verraten ... aber sie hat sicher nicht *alle* Chronisten davon abgehalten, die Nekropolis zu betreten. Vielleicht gibt es noch einen anderen Chronisten, der mir das Passwort verraten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe mich der Kultisten am Eingang der Nekropolis entledigt, aber das Flüsterschloss verschließt noch immer den Terminal. Vielleicht wird mir die Chronistin helfen, jetzt, wo ich ihr geholfen habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe Motley das Passwort für das Flüsterschloss verraten, und er hat es für mich geöffnet. Jetzt kann ich hoffentlich in die Nekropolis vordringen und das Grab der Ersten erkunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Die Chronistin, die das Flüsterschloss angebracht hat, war in der Nekropolis, aber die Kultisten haben sie bereits getötet. Für diese Situation hat sie aber sicherlich vorgesorgt. Vielleicht gibt es noch einen anderen Chronisten, der mir das Passwort verraten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe in einem blubbernden Teich im Obelisken des Tals eine Erinnerung gesehen. Der Obelisk stellt eine Statue eines Ceturl dar. Vielleicht sollte ich ihn weiter untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

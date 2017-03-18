@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2332_lenses_of_tcg</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>85</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du trittst wieder in den Halbkreis aus Spiegeln und spürst den Druck der unsichtbaren Augen auf dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finger weg von den Linsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du bist von einer atemberaubenden Anordnung von Spiegeln und Linsen umgeben. Kabel gehen auf den Rückseiten raus zu verschiedenen Maschinen, die im ganzen Raum verstreut sind. 
+
+Hinter dem Bildschirm hörst du eine quietschende Scharnier.  
+{SOUND: Mechanical Squeak/Creak.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Follow-up PQ. 9</DefaultText>
+      <FemaleText>Follow-up PQ. 9</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Untersuche die Linsen und Spiegel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Untersuche noch einmal die Linsen und Spiegel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Spiegel zucken als du von Oberfläche zu Oberfläche schaust. Schließlich wird dir klar, warum. Sie sind mit deinem Verstand verbunden - du kannst jeden so mühelos bewegen wie deine eigene Hand. 
+
+Jede Oberfläche zeigt noch etwas *Anderes* außer deinem Spiegelbild. Ein Glassplitter zeigt ein rotes Seil, das um deinen Hals gelegt ist. Ein kleiner ovaler Spiegel verweilt auf einem pulsierenden blauen Stern unterhalb von deiner Stirn. Die Spiegel, die den großen Spiegel in der Mitte flankieren, blinken regelmäßig in Gold. 
+
+Die winzigen Linsen darüber strecken sich, um *dich* genau sehen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die größeren reagieren auf die kleinste Berührung durch deinen Verstand. Die kleineren Spiegel verrenken sich, um dich genau zu sehen. 
+{SOUND: Creaking.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du spürst, dass die winzigen Linsen sich zielgerichtet bewegen und bleibst stehen. Sie drehen sich vorsichtig, um deine Arme zu fokussieren und du siehst etwas … Seltsames.
+
+*Du* scheinst im Linsen-Publikum viel größer zu sein. Stärker. Du spürst einen schmerzhaften Stich in deiner Armbeuge und eine der Linsen wird grau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Und du spürst auch, dass Gefahr droht. 
+
+Nein … nicht spüren. Erinnern. Du *erinnerst* dich, dass diese Spiegel nicht nur auf diese Welt ausgerichtet sind, sondern auch auf andere. Du kannst in diesen Spiegeln Dinge sehen, die mit bloßem Auge nicht erkennbar sind. 
+
+Und wenn du nicht vorsichtig bist, werden sie dich auch sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Abykos hatten dich schon gefunden. Andere Dinge - Schlimmeres - erwartet dich vielleicht hinter der Kurve einer dieser unendlichen Spiegelungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Schau in den großen Spiegel in der Mitte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Schau noch einmal in den großen Spiegel in der Mitte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Von allen Spiegeln scheint dieser der Alltäglichste zu sein. Es zeigt deine unverfälschte Spiegelung, die Falte zwischen deinen Augenbrauen, wenn du dich konzentrierst.
+
+Und die abgemagerten, starrenden Kreaturen im Gang hinter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die abgemagerten Kreaturen streunen im Gang hinter dir umher und ziehen ihre metallischen Klauen über den Steinboden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Sorge dafür, dass die Spiegel sich auf die Kreaturen konzentrieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Schau hinter dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Untersuche die anderen Linsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du untersuchst den Rest der Anordnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du drehst dich um. Da ist nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Die Spiegel tanzen nach deiner Pfeife und du kannst die Dinge dahinter deutlich sehen. Sie sind knochig. Nackt. Sie schnüffeln an der Luft durch einen Schlitz in ihren geschwollenen Gesichtern. 
+
+Einer von ihnen fährt herum und fokussiert dich mit einem hungrigen Auge. Er stolpert in deine Richtung, seine Füße schlurfen über den Steinboden. Die Restlichen torkeln ihm hinterher, schlürfend und keuchend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Füttere sie mit einem Stichus-Ei.
+{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Bleib zurück. Ich habe hier kein Futter für dich."
+
+{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich will dir nichts antun. Geh in dein Reich zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Spiegel tanzen nach deiner Pfeife und du kannst die Dinge dahinter deutlich sehen. Sie sind knochig. Nackt. Sie schnüffeln an der Luft durch einen Schlitz in ihren geschwollenen Gesichtern. 
+
+Einer von ihnen fährt herum und fokussiert dich mit einem hungrigen Auge. Er stolpert in deine Richtung, seine Füße schlurfen über den Steinboden. Die Restlichen torkeln ihm hinterher, schlürfend und keuchend. 
+
+Sie sind Abykos - gesamtdimensionale Einheiten, die sich von Energiequellen und alten Geräten ernähren. Sie greifen dich nicht an, solange du ihnen etwas zu essen gibst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Geht weg von hier oder sterbt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Deine Warnung schreckt sie nicht ab.  Schnüffelnd und würgend kommen sie mit ausgefahrenen Klauen auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Deine Drohung schreckt sie nicht ab. Schnüffelnd und würgend kommen sie mit ausgefahrenen Klauen auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Die Einheiten reagieren nicht auf deine Warnung. Schnüffelnd und würgend kommen sie mit ausgefahrenen Klauen auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Füttere sie mit einem der Unter-Foreman-Kinder.
+{GAVIN: Revisit this with Thomas and see if there are more items to use here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du nimmst ein Stichus-Ei aus deinem Hab und Gut und wirfst es auf den Boden. 
+
+Die Abykos fallen darüber her und harken mit ihren unbedeutenden Klauen danach. Das Ei bricht auf und platzt, als sie sich darüber hermachen.  
+
+Schließlich verschwindet die Gruppe der Einheiten und hinterlässt einen Haufen aus Eierschalen und verrosteten Draht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du nimmst eines der Konstrukt-Metallkinder aus deinem Hab und Gut und wirfst es auf den Boden. 
+
+Die Abykos fallen darüber her und harken mit ihren unbedeutenden Klauen danach. Rost breitet sich an der Oberfläche des Konstrukts aus und es erschaudert und klagt. 
+
+Schließlich verschwindet die Gruppe der Einheiten und hinterlässt einen kleinen Haufen aus rotem Staub.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Bestimme den Zweck der winzigen Linsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Der pulsierende blaue Stern unterhalb deiner Stirn wird größer, wenn du ihn beobachtest. Seltsamerweise fühlt es sich an, als gehöre er dahin. Als hätte er darauf gewartet, entdeckt zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die Bewegung lenkt deine Aufmerksamkeit auf zwei andere Spiegel. In ihnen siehst du eine völlig andere Spiegelung von dir.
+
+Helle Wolken mit blauem Licht umgeben deine Hände. Zarte Ranken sprießen aus jeder Fingerspitze und tänzeln in der Luft. 
+
+Du hebst deine Hand. Deine Spiegelung folgt dir. Und plötzlich brennt dir der Schädel mit dem Schmerz des darin befindlichen leuchtenden Objekts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Untersuche den kleinen ovalen Spiegel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Untersuche noch einmal den kleinen ovalen Spiegel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Der blaue Stern in der Mitte der Spiegelung deiner Stirn funkelt und der zuvor empfundene Schmerz kehrt mit lähmender Vergeltung zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Schau auf deine Hände.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Hebe einen Stein auf und zerbrich den Spiegel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Nimm das Objekt heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Die Haut leuchtet. Winzige, nadelähnliche Ranken sprießen aus den Fingerspitzen - winzige Werkzeuge für filigrane Arbeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Du schleuderst einen Stein in die Mitte der Spiegels. Er prallt ab, aber du spürst das kaum wegen der schrecklichen, ekelerregenden Schmerzwelle, die durch beide Tempel schwappt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du drückst deine Fingerspitzen gegen deine Stirn und spürst, wie die nadelähnlichen Ranken sich um das Objekt in deinem Kopf winden. Vorsichtig nimmst du es heraus. 
+
+Der quälende Schmerz lässt langsam nach und das Leuchten verschwindet aus deinen Händen. Zurück bleibt eine Bronzekugel in deiner Handfläche, die mit jeder Sekunde größer wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Gedanklich lenkst du die Aufmerksamkeit auf die winzigen Linsen und spürst ihren augenlosen Blick auf deiner Haut. In ihrer Spiegelung siehst du eine idealisierte Version deiner selbst. Stärker. Klüger. Schneller. 
+
+Und auf einmal wird dir klar: sie können dich verändern. Dich verbessern. Aber einige von ihnen verdunkeln durch die Anstrengung. Du solltest schnell handeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Führe sie zu deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Konzentriere sie auf deiner Brust und deinen Armen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Richte sie auf deine Beine aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Die Konstellation aus winzigen Linsen sind mit deinem Kopf ausgerichtet und du erlebst den Anblick deiner Spiegelung. Etwas *klickt* in deinem Kopf, und plötzlich fühlst du dich klarer. Viel wacher. 
+
+Einer nach dem anderen lösen sich die Linsen in einen trüben Nebel auf, bis nur noch eine übrig ist, die so hell leuchtet wie ein Stern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Die Konstellation aus winzigen Linsen ist mit deinen Beinen ausgerichtet. Schlanke Muskeln sprießen an deinen Waden und Oberschenkeln und festigen sich so weit. Deine Haut brennt, als sich neue Nerven in deinem ganzen Körper ausbreiten und deine Reflexe bis zur Schmerzgrenze verstärken. 
+
+Einer nach dem anderen lösen sich die Linsen in einen trüben Nebel auf, bis nur noch eine übrig ist, die so hell leuchtet wie ein Stern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Die Konstellation aus winzigen Linsen ist mit deinem Körper ausgerichtet. Sehnen springen und dehnen sich. Neue Muskeln fließen wie Wasser deine Arme hoch und festigen sich so weit. Du machst eine Faust und deine Venen drücken gegen deine Haut. 
+
+Einer nach dem anderen lösen sich die Linsen in einen trüben Nebel auf, bis nur noch eine übrig ist, die so hell leuchtet wie ein Stern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Bewege den gesplitterten Spiegel, der das rote Seil um deinen Hals zeigt.
+{GAVIN: NB: [B] This could unlock a Fathom, or a hidden part of a Fathom (e.g., the player starts in a part of the Fathom that is otherwise inaccessible). The player should also be sent to this Fathom if he is physically killed in the Buried Crossroads - e.g., by the abykos.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Benutze den dünnen Spiegel, um dich noch einmal selbst umzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Gedanklich stößt du an den Spiegel und spürst eine unsichtbare Schlinge, die sich um deinen Hals legt. Und fest zugezogen wird. 
+
+Nach Luft ringend gehst in die Knie. Du fällst auf die Seite. Als dir schwarz vor Augen wird, bemerkst du, dass du eine Abkürzung ins Labyrinth gefunden hast, wenn du diesen Tod überlebst. Wie praktisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Die vertraute gänzlich unangenehme Schlinge legt sich um deinen Hals und quetscht das Leben aus dir heraus. 
+
+Würgend brichst du zusammen, fällst auf den Rücken und stirbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Matkina, diese Maschine könnte auch bei dir funktionieren. Willst du es mal versuchen?"
+{SCRIPT: Only visible if PC doesn't have a good relationship with Matkina and she's active in the party.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Gib den Spiegeln eine Chance, Matkina. Mir haben sie nicht *geschadet*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Sie starrt dich wütend an. Dann ihr eigenes Spiegelbild. Schließlich stöhnt sie und schiebt dich zur Seite. 
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich verzichte", sagt sie. "Die Geschenke, die man für solche kleinen Erfindungen erhält, rechtfertigen fast nie den Preis."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Sie verbringt ein, zwei Minuten damit, die Spiegel zu verstellen und konzentriert sich dann auf den letzten Spiegel, der noch klar ist. 
+
+"Hm", sagt sie. "Das ist interessant. Ich-"
+
+Sie taumelt rückwärts und greift sich an den Kopf. Dann wird der Spiegel grau wie allen anderen zuvor. 
+
+"Au", sagt sie und winkt dich gleichzeitig weg. "Ich bin okay. Es zeigte mir mein *Ich*, aber mit einem neuen Trick. Ich glaube, ich weiß jetzt, wie es funktioniert." 
+{SCRIPT: NODE 74,68 SHOULD NOT PLAY - Matkina gets a more powerful Blinding ability}
+{GEORGE: Jeremy was not aware this was a thing. Is it?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Matkina, diese Maschine könnte auch bei dir funktionieren. Willst du es mal versuchen?"
+{SCRIPT: Only visible if PC has a good relationship with Matkina.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Sie schaut dich zweifelnd an. 
+
+"Sicher", sagt sie schließlich. "Sei aber nicht überrascht, wenn mich das Ding in einen Haufen Knochen verwandelt." 
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Löse deinen Blick vom Spiegel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Du tust es. Langsam lässt der klopfende Schmerz nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Achte auf das goldene Leuchten auf den seitlichen Spiegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Schau dir den goldenen Spiegel auf der linken Seite noch einmal an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Als du den Spiegel links von dir anschaust, fließt eine goldene Lichtflut durch dich hindurch und  trifft auf den Spiegel rechts von dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Noch eine goldene Lichtflut fließt durch dich hindurch und trifft auf den Spiegel auf der anderen Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Du keuchts unfreiwillig. Das Licht heilte oder nahm dir die Wunden, die Kummer dir zugefügt hatte. 
+{SCRIPT: SHOULD NOT PLAY - this isn't a thing thats possible at this time, nor are we tracking something like this.}
+{GAVIN: Add some sort of reactivity about the place (or person) who is getting all these wounds shipped to them.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Du fühlst dich seltsamerweise besser, aber du weißt nicht genau, was - oder ob überhaupt - das Licht dazu beitrug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Durch den Seitenspielgeln nach Circus Minor reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

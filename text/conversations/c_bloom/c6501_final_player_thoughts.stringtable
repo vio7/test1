@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c6501_final_player_thoughts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"*Geh jetzt. Wähle einen weiseren Pfad als dein Erzeuger und du wirst mich nie wiedersehen*."
+
+Der Kummer verblasst und verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"*Geh jetzt. Wähle einen weiseren Pfad, als es dein Vater getan hat, und du wirst mich nie wiedersehen*."
+
+Der Kummer verblasst und verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"*Geh jetzt. Wähle einen weiseren Pfad als dein Erzeuger und du wirst mich nie wiedersehen*."
+
+Der Kummer verblasst und verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"*Geh jetzt", sagt der Kummer der Ersten. "Wähle einen weiseren Pfad als dein Erzeuger und du wirst mich nie wiedersehen*."
+
+Der Kummer verblasst und verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Wortlos gehen alle ihre eigenen Wege durch die rußgeschwärzten, blutverschmierten Trümmer. Es gibt schlicht nichts mehr zu sagen. 
+
+Und dann steht die zerstörte Festung stumm und völlig verlassen da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Schreie dringen an die Wände der Festung. Du bemühst dich, sie zu ignorieren. Was geschehen ist, ist geschehen. 
+
+Deine Zukunft liegt vor dir, und du allein entscheidest, wie sie wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du stehst alleine inmitten der Ruinen der Festung der Memovira, umgeben von Tod und Zerstörung. Vielleicht ist es Zeit für eine Luftveränderung. 
+
+Du atmest tief durch und gehst los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ja. Eine neue Heimat, unberührt vom Feuer oder den Verwüstungen der Endlosen Schlacht. Ein golden-blauer Himmel über dir. 
+
+Und wer weiß, eines Tages vielleicht sogar – irgendwie – das Lachen von Kindern ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ja. Deine Verbindung zur Flor wird es möglich machen. Und wenn die Zeit kommt, um den Preis dafür zu bezahlen, wie die anderen es getan haben? Nun, du hast dem Kummer gegenübergestanden und hast es überlebt.
+
+Die Flor wird kein Gegner für dich sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du wendest dich von dem Fleck verdorbener Luft ab, doch dieser Ort hier ist nicht viel besser. Du bist umgeben von rußgeschwärzten, blutverschmierten Trümmern. Vielleicht ist es Zeit für eine Luftveränderung.
+
+Du atmest tief durch und gehst los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Matkina wendet den Blick von dem Flecken verdorbener Luft und der zerstörten Festung ab. Sie atmet tief durch und geht los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Wortlos bahnt sich die Erste ihren Weg durch die rußgeschwärzten, blutverschmierten Trümmer. Es gibt schlicht nichts mehr zu sagen. Hinter sich lässt sie die Ruine der Festung in Stille zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Forschung des Wandelnden Gottes fortsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ja, denn du bist der Wandelnde Gott. Die Unsterblichkeit ist schon fast in greifbarer Nähe. Soll der Kummer doch wieder kommen, wenn er überhaupt noch kann. Schließlich hast du die Kreatur bereits einmal besiegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Den Platz der Ersten als Memovira einnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Ja. Deine Verbindung zur Flor wird es möglich machen, und deine Konkurrenten werden durch den Wahnsinn geschwächt sein, der diesen Ort befallen hat. 
+
+Und wenn die Zeit kommt, um den Preis dafür zu bezahlen, wie die anderen es getan haben? Nun, du hast dem Kummer gegenübergestanden und hast es überlebt.
+
+Die Flor wird kein Gegner für dich sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Nach Miel Avest zurückkehren und es wieder aufbauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ja. Eine neue Heimat, unberührt vom Feuer, dem Wahnsinn, der diesen Ort befallen hat, oder den Verwüstungen der Endlosen Schlacht. Ein golden-blauer Himmel über dir.
+
+Und eines Tages vielleicht sogar das Lachen von Kindern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Einen neuen, starken Weg finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Kampfgeräusche hallen durch die verrauchte Luft, doch du lächelst in dich hinein. Mögen schwächere Kreaturen ihre Entscheidungen in Frage stellen und angesichts des Schadens, den sie angerichtet haben, in Zittern und Beben ausbrechen.
+
+Du dagegen kannst deine Zukunft gestalten, wie du willst, und pfeifst auf alle Konsequenzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Gehen. Mach dir später Gedanken über die nächsten Schritte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Du lässt stumm den Blick über die Ruinen der Festung der Memovira schweifen. Vielleicht ist es Zeit für eine Luftveränderung und eine neue Perspektive. 
+
+Du atmest tief durch und gehst los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Dich daranmachen, den angerichteten Schaden wiedergutzumachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Ja.  Du wirst das wieder in Ordnung bringen, auch wenn du noch nicht weißt wie. Aber du hast Zeit und wirst Verbündete suchen, die dir helfen.  
+
+Du machst dich durch die rußgeschwärzten, blutverschmierten Trümmer auf den Weg in die große weite Welt, die draußen auf dich wartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du siehst dich in den Ruinen der Festung der Memovira um und überlegst umgeben von Tod und Zerstörung deine nächsten Schritte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Aligern auf seinen Reisen begleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Er nickt. "Dann lass uns gehen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Rhin helfen, nach Hause zu kommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Sie tanzt praktisch vor Freude. Dann nimmt sie dich an der Hand und führt dich hinaus in die große weite Welt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Erritis auf einem neuen Abenteuer begleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Dann los!" Er stürmt sofort los, ohne abzuwarten, ob du ihm überhaupt folgst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Mit der Ersten Verstoßenen gemeinsam Miel Avest wieder aufbauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

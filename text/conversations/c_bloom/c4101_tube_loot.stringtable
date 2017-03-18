@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_tube_loot</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser fleischige Schlauch stößt ein wirklich widerwärtiges Gas aus. Du bemerkst einen Stofffetzen, der an seinem Rand hängt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Den Schlauch untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>In den Schlauch greifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der Schlauch ist etwa so hoch wie ein Mensch. Du beobachtest, wie er sich leicht biegt, mal in diese mal in jene Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Als du versuchst, deine Hand in den Schlauch zu stecken, berührst du leicht seinen Rand. Der Schlauch schnappt zu und zieht sich heftig zusammen. Wäre dein Arm darin gewesen, hättest du ihn vielleicht verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vorsichtig in den Schlauch greifen und möglichst nicht seine Wände berühren.
+
+{KRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Weiter unten in dem Schlauch stoßen deine Finger auf ein Stoffbündel mit etwas Härterem darin. Der Schlauch scheint in seinem Inneren nicht so empfindlich zu sein und es gelingt dir ohne größere Schwierigkeiten, das Bündel herauszuholen. Darin findest du einen kleinen Haufen Shins! Jemand muss es aus Sicherheitsgründen in dem Schlauch versteckt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Auf halbem Weg berührst du versehentlich die Wand des Schlauch und versuchst, schnell deine Hand zurückzuziehen. Nicht schnell genug, wie sich herausstellt, den die Öffnung schließt sich um deine Hand, bevor du sie vollständig in Sicherheit bringen konntest, und Schmerz schießt durch deinen Arm.
+
+{SCHADEN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>In dem Schlauch befindet sich nichts mehr, was noch von Wert wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

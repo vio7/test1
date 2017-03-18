@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2332_callistegesi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Hier drüben!" Callistege gestikuliert aufgeregt, eine Bewegung, die von ihren Echos mit unterschiedlichen Graden der Aufrichtigkeit aufgenommen wird. "Dein Erzeuger hielt einen Zugang zur Datosphäre aufrecht! Ich muss wissen, wie!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wie funktioniert das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich weiß es nicht." Sie umkreist das seltsame Gerät und untersucht es aus jedem Winkel. "Es sieht aus, als wäre es inaktiv oder ohne Energie."  Sie sieht sich um. "Wenn ich etwas über deinen Erzeuger weiß, dann, dass er immer alles dokumentiert hat. Wo sind also seine Notizen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Willst du jetzt auf die Datosphäre zugreifen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich kann nicht."  Sie untersucht das Numenera und tippt sich nachdenklich mit einem Finger an die Lippe. "Ich könnte schon, andererseits wäre es vollkommen töricht, eine Bewusstseinsübertragung ohne genau Kenntnisse des Ablaufs zu versuchen. Dein Erzeuger muss sich *etwas* dazu aufgeschrieben haben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vergiss es. Machen wir weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Es vergessen?" Sie sieht dich völlig verständnislos an. "Sicherlich willst du jetzt noch nicht gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Versuche, dich zu erinnern, wo die Notizen sein könnten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Versuche noch einmal, dich zu erinnern, wo die Notizen sein könnten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du spürst ein Kribbeln im Schädel. Plötzlich beginnt sich deine rechte Hand wie von selbst zu bewegen und geht in einer hektischen, aber zielgerichteten Art nach unten auf den Boden. Neben deinen Füßen öffnet sich ein Fach im Steinboden. Darin befindet sich ein in Leder gebundenes Tagebuch.
+
+{SFX: sliding stone}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du spürst ein Prickeln an deiner Schädelbasis und in deinem Kopf, aber nichts passiert, außer dem unguten Gefühl, dass da etwas aus dir heraus will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du konzentrierst dich noch einmal, aber der Versuch ist zwecklos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Callistege kommt ehrfürchtig näher.
+
+"Darf ich?" fragt sie und greift nach dem Buch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Gib ihr das Buch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Lege das Buch in deine Tasche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich glaube, das sollte ich vorerst noch behalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Verwende es klug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Sie steht einige Sekunden verblüfft da und neigt dann ihren Kopf stark zur Seite. Sie beißt sich vor Wut auf die Lippen und schaut sich dann wieder das Numenera an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Sie dreht es immer wieder in ihren Händen und schaut sich jeden Zentimeter des Einbands genau an. "Dein Erzeuger hat immer Sachen, die von handwerklichem Geschick zeugen", murmelt sie und entfernt langsam die Kordel, die es verschlossen hält.
+
+Während sie die Seiten durchblättert, erst langsam, dann zügiger, kannst du Diagramme, Anmerkungen und Zeichnungen erkennen, die alle mit dem Numenera neben dir zu tun haben könnten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Danke", sagt Callistege. Ohne hochzusehen widmet sie sich wieder dem Inhalt des Buchs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ich verstehe." Sie betrachtet dich genau und faltet die Hände sittsam vor sich. "Und wann fühlst du dich wohl sicher genug, mir den Inhalt anvertrauen zu können? Nein, antworte nicht. Ich weiß nicht, wie ich darauf komme, von einem aus der Brut des Erzeugers eine andere Aktion zu erwarten." Sie wendet sich wieder uneingeschränkt dem Numenera zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Nein, du hast recht. Wir suchen weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Hier gibt es für uns nichts mehr zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Sie schenkt dir ein kleines Lächeln und widmet sich dann wieder der Untersuchung des Numenera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Also gut, mein Lieber", sagt sie nach einigen Momenten. "Dann gehen wir weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ich weiß, dass dein Erzeuger seine Notizen hier irgendwo versteckt haben muss."</DefaultText>
+      <FemaleText>"Ich weiß, dass dein Erzeuger seine Notizen hier irgendwo versteckt haben muss."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Wir haben hier alles gefunden, was wir brauchen, mein Lieber."</DefaultText>
+      <FemaleText>"Wir haben hier alles gefunden, was wir brauchen, meine Liebe."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Du bist in vielerlei Hinsicht eine Enttäuschung."</DefaultText>
+      <FemaleText>"Du bist in vielerlei Hinsicht eine Enttäuschung."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du tippst wahllos auf dieser alten Maschine herum. Sie fühlt sich auf seltsame und vage Weise vertraut an, das schwache Jucken der Erinnerung ist jedoch vergänglich.</DefaultText>
+      <FemaleText>Du tippst wahllos auf dieser alten Maschine herum. Sie fühlt sich auf seltsame und vage Weise vertraut an, das schwache Jucken der Erinnerung ist jedoch vergänglich.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Irgendetwas an dem Apparat scheint 'Datensphäre' zu rufen, doch ... nein. Die Erinnerung ist verflogen.</DefaultText>
+      <FemaleText>Irgendetwas an dem Apparat scheint 'Datensphäre' zu rufen, doch ... nein. Die Erinnerung ist verflogen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Untersuche die Maschine.</DefaultText>
+      <FemaleText>Untersuche die Maschine.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Untersuche die Maschine erneut.</DefaultText>
+      <FemaleText>Untersuche die Maschine erneut.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Geh weiter.</DefaultText>
+      <FemaleText>Geh weiter.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du fährst mit den Händen über die Maschine, versuchst, sie anzuheben, und interagierst auf andere Weise mit ihr, doch es scheint nichts zu funktionieren. Du trittst einen Schritt zurück.</DefaultText>
+      <FemaleText>Du fährst mit den Händen über die Maschine, versuchst, sie anzuheben, und interagierst auf andere Weise mit ihr, doch es scheint nichts zu funktionieren. Du trittst einen Schritt zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Du spürst ein Jucken an der Basis deines Schädels. Plötzlich bewegt sich deine rechte Hand eigenständig, wobei sie in einer wahnsinnigen, jedoch zweckdienlichen Reihe von Bewegungen nach unten schlägt, um den Boden zu berühren. Neben deinem Fuß öffnet sich ein Steinfach. Darin befindet sich ein ledergebundenes Tagebuch.
+
+{SFX: sliding stone}
+
+{LOOT}</DefaultText>
+      <FemaleText>Du spürst ein Jucken an der Basis deines Schädels. Plötzlich bewegt sich deine rechte Hand eigenständig, wobei sie in einer wahnsinnigen, jedoch zweckdienlichen Reihe von Bewegungen nach unten schlägt, um den Boden zu berühren. Neben deinem Fuß öffnet sich ein Steinfach. Darin befindet sich ein ledergebundenes Tagebuch.
+
+{SFX: sliding stone}
+
+{LOOT}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du verspürst eine Art kratzendes Gefühl an der Basis deines Schädels, im Inneren deines Kopfes, doch nichts geschieht, mit Ausnahme des unangenehmen Gefühls, dass irgendetwas versucht, herauszukommen.</DefaultText>
+      <FemaleText>Du verspürst eine Art kratzendes Gefühl an der Basis deines Schädels, im Inneren deines Kopfes, doch nichts geschieht, mit Ausnahme des unangenehmen Gefühls, dass irgendetwas versucht, herauszukommen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Du konzentrierst dich erneut, der Versuch ist jedoch aussichtslos.</DefaultText>
+      <FemaleText>Du konzentrierst dich erneut, der Versuch ist jedoch aussichtslos.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Versuche, dich daran zu erinnern, wo die Notizen sein könnten.</DefaultText>
+      <FemaleText>Versuche, dich daran zu erinnern, wo die Notizen sein könnten.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Versuche erneut, dich zu erinnern, wo die Notizen sein könnten.</DefaultText>
+      <FemaleText>Versuche erneut, dich zu erinnern, wo die Notizen sein könnten.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Du stöberst untätig um diese alte Maschine. Sie scheint komischerweise irgendwie bekannt, aber die schwache Erinnerung schwindet. Du hast ein kleines Gefühl von Bildern und Informationen, die um dich flimmern, aber nichts handfestes, und nichts, was länger als eine Millisekunde anhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Das Flimmern und die unbegreiflichen Informationen erinnern dich an Callistege. Sie würde wissen, was mit diesem Gerät anzufangen wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Du lernst nicht neues über diese Maschine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Wir kommen später darauf zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Das sollten wir besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Aber ich werde nicht vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Aber denke nicht, dass ich es vergesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_ghostly_woman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Selbst, als du ihr näher kommst, scheint die flüchtige Form der Frau in der Sitzecke nicht deutlicher zu werden. Du kannst die Konturen ihres schemenhaften Gesichts kaum ausmachen, und du hörst ein Durcheinander an Geflüster aus weiblichen Stimmen, das sie wie ein Schwarm Motten zu umgeben scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die geisterhafte Frau verbleibt genau so, wie du sie zurückgelassen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ihr Gesicht von Näherem betrachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wer seid Ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Hallo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Lass sie in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du pirschst dich noch näher an sie heran und endlich nimmt sie dich wahr. Ihr Gesicht erinnert dich an eine Frau und ihren jungen Jahren, an der Schwelle von der Kindheit zum Erwachsenenalter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sie ignoriert dich eine Weile, bis ihr Gesicht plötzlich und ohne jeglichen Übergang wütend auf das deine fixiert ist.
+
+Ein weiteres Flackern, und ihre Hände liegen fest an deiner Kehle. Ob Geist oder nicht, ihre Finger fühlen sich sehr real an, und sie würgen das Leben aus dir heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Versuchen, zu entweichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Den Geist weiter würgen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Dir gelingt es, ihre Finger von deiner Kehle zu lösen und sie von dir wegzustoßen. Eilig sammelst du deine Kräfte und bereitest dich auf einen weiteren Angriff vor. Die Frau aber ignoriert dich wieder, als wäre nichts geschehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ihre Finger dringen weiter in deine Kehle ein. Sie versucht nicht nur, dich zu ersticken - sie ist dabei, dir die Kehle herauszureißen! Du hustest und würgst, als du an deinem eigenen Blut erstickst. Ihre Finger stecken tief in deiner Haut, und das letzte, was du siehst, ist ihr von Wut entstelltes Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ein kurzer Moment der Klarheit erinnert dich an ihre Kleidung ... sie kommt dir bekannt vor. Moment. Sie kommt dir bekannt vor, weil sie der Mode entspricht, die in den Sagus-Klippen vor neun Jahrhunderten beliebt war. Aus den Tiefen deines Gedächtnisses sprudeln plötzlich Bilder und Informationen hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du hast ihr Gesicht schon einmal gesehen, irgendwo in der Stadt. Vielleicht hat die gesterhafte junge Frau einen Zwilling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>:: ::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Versuchen, noch einmal ihre Aufmerksamkeit zu gewinnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Wieder dauert es nicht lange, bevor ihre Finger deine Kehle umschlingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Dem Flüstern lauschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Dem Flüstern noch einmal lauschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Das Flüstern streicht durch deinen Verstand, auf einer etwas tieferen Ebene als ein bewusster Gedanke. Du hörst zu, aber nicht mit deinen Ohren.
+
+Nur einige Fragmente des Flüsterns kannst du tatsächlich verstehen: "Du hast mich getötet ... mich erschaffen ... wollte nie sterben ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Mich ausgelöscht ... wollte nur Frieden ... deinetwegen am Leben ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Sie gleiten haarscharf an der Schwelle zur Unverständlichkeit, aber berühren deinen Verstand gerade so, auf einer etwas tieferen Ebene als ein bewusster Gedanke. Du spürst eine Art Verlangen, einen Verlust, der dich tief berührt und leer zurücklässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Wieder säuselt das Flüstern dir zu, beinahe unverständlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Wieder graben sich ihre Finger tief in deine Kehle. Du hustest und würgst, als du an deinem eigenen Blut erstickst. Das Letzte, was du siehst, ist ihr von Wut verzerrtes Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Wieder greift sie dich blitzartig an. Ihre Finger graben sich in deinen Hals.</DefaultText>
+      <FemaleText>Wieder greift sie dich blitzartig an. Ihre Finger graben sich in ihren Hals.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du reißt ihre Finger zurück und windest dich aus ihrem Griff. Wie zuvor verliert sie sofort das Interesse und wendet sich ab.</DefaultText>
+      <FemaleText>Du reißt ihre Finger zurück und windest dich aus ihrem Griff. Wie zuvor verliert sie sofort das Interesse und wendet sich ab.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_eyes_of_the_adversary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Augen des Widersachers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Durchsuche das Fünfte Auge nach irgendwelchen Hinweisen zur Anwesenheit eines Widersachers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Den Widersacher konfrontieren, der sich Malaise nennt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Dhama zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Malaise allein besiegt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Malaise mit Hilfe der Mentalkrieger zerstört</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Malaise besiegt, Dhama umgebracht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Dhama nach dem Fremden in der Schenke fragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dhama erzählen, dass ich einen Widersacher aufgespürt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Erledige den Widersacher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Erledige den Widersacher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag abgeschlossen wurde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Gruppe ausgeruht, Krieger bekämpften Malaise alleine, Dhama getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein möglicherweise gefährliches Wesen könnte in der Schenke des Fünften Auges lauern. Dhama von der Flor nannte dieses Wesen einen Widersacher, einen Verstandfresser. Diese niederträchtigen Wesen wurden in einem psychischen Krieg von Dhama und seinen Freunden besiegt, doch er glaubt, dass ein einzelner Widersacher überlebt hat. Er bat mich, ihm zu helfen, seinen alten Erzfeind zu finden und zu konfrontieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dhama denkt, dass der Widersacher irgendwo in der Nähe ist und dass er ihm und seinen Freunden auflauert. Das bedeutet, dass er irgendwo im Fünften Auge ist, aber er muss sich vor ihnen verstecken. Wenn mir irgendwas Auffälliges begegnet, dann sollte ich Dhama sofort davon erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Nun, da ich ein Wesen im Fünften Auge, dass sich Malaise nennt, entdeckt und als einen der Widersacher identifiziert habe, vor denen mich Dhama gewarnt hatte, habe ich Dhama überzeugt mich es alleine mit der Kreatur aufnehmen zu lassen. Er rät stark dagegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich stand Malaise in einem psychischen Spiel gegenüber und besiegte die Kreatur. Es versuchte, mich in sich aufzunehmen, doch es war mir möglich, ihm standzuhalten, und ich zwang es zurück in jene Realität, aus der es kam. Dhama wird erfreut sein, zu hören, dass sein Erzfeind weg ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich konfrontierte und besiegte das Wesen, das als Malaise bekannt war, und verbannte es aus dieser Welt. Dhama war tief beeindruckt und extrem dankbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich trat den psychischen Kriegern in einem Kampf gegen den Widersacher, bekannt als Malaise, bei. Wir vernichteten die Kreatur und das Fünfte Auge ist jetzt sicher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich trat den Mentalkriegern in einem Kampf gegen den Widersacher, bekannt als Malaise, bei. Unglücklicherweise wurde ich beinahe getötet und wurde ohnmächtig. Ich wachte im Fünften Auge auf und sah, dass Dhama aus der Flor sein Leben opferte um den Widersacher zu besiegen. Trotz des Verlustes ihres Anführers waren die anderen Mentalkrieger für meine Hilfe dankbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich stieß auf ein eigenartiges Wesen im Fünften Auge, von dessen ich schwören könnte, dass es vor einem Moment nicht da war. Vielleicht wird einer der anderen Gäste mehr darüber wissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich entdeckte eine Präsenz im Fünften Auge, die scheinbar kein anderer Gast sehen konnte. Das muss der Widersacher sein, von dem Dhama redete. Ich sollte ihn wissen lassen, dass er in der Nähe lauert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich erzählte Dhama von Malaise, einem Fremden, der in der Schenke erschien und Dhama bekam Angst. Er weiß, dass Malaise ein Widersacher ist, aber alleine kann er die Kreatur nicht aufspüren. Er will meine Hilfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich erzählte Dhama von Malaise, einem Fremden, den ich nur sehen konnte, nachdem ich den Schwarzen Ichor bei der Schenke getrunken hatte. Dhama ist sich sicher, dass Malaise ein Widersacher ist, aber er kann die Kreatur nicht alleine aufspüren. Er will meine Hilfe, um sie zu besiegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Ich verließ die Sagusklippen und weiß nicht, ob ich zurückkehre. Die psychischen Krieger werden alleine den Widersacher finden und mit ihm fertig werden müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich verließ die Sagusklippen und bezweifle, dass ich bald zurückkehre. Mit dem Widersacher wurde abgefertigt, aber ich bekam nicht die Möglichkeit, es Dhama zu erzählen, bevor ich ging.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Während ich anderswo beschäftigt war, bekämpften die psychischen Krieger ohne Hilfe Malaise. Obwohl sie schließlich ihren Erzfeind besiegten, hatte der Sieg seine Kosten. Dhama opferte sich im Kampf und starb als wahrer Held.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich kann jederzeit zu Dhama zurückkehren, wenn ich entscheide, dass du Hilfe von den psychischen Kriegern willst... aber sobald ich den Kampf mit dem Widersacher beginne, bin ich verpflichtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich bestand darauf, Malaise alleine zu konfrontieren. Dhama warnte mich vor und bot an, zu helfen, da er und seine Freunde schon mal mit diesen Kreaturen zu tun hatten. Sollte ich meine Meinunge ändern, brauche ich ihn nur zu fragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Dhama erzählte mir, dass die geisterhafte Frau, der ich begegnet bin, nicht der Widersacher ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Dhama deutete an, dass Ysg mehr ist, als er scheint, aber dass er nicht der Widersacher ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Dhama bestätigte, dass Ysg, der Mann, der in der Form eines Abykos gefangen ist, nicht der Widersacher ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Dhama fehlten die Worte, um zu beschreiben, was O *ist*, aber das seltsame Wesen ist bestimmt nicht der Widersacher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Dhama ist sich sicher, dass Almas nicht der Widersacher ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Dhama amüsierte sich gut von meiner Vorstellung, dass Clarion der Widersacher sein könnte. Sie ist nur ein gewöhnlicher Mensch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Dhama schien Sir Arthour zu kennen und hat mir versichert, dass Arthour nicht der Gegner ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

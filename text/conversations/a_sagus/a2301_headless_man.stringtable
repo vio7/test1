@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_headless_man</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>::zrow::</DefaultText>
+      <FemaleText>::zrow::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>::crizt::</DefaultText>
+      <FemaleText>::crizt::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>::rrowf::</DefaultText>
+      <FemaleText>::rrowf::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>::gzzt::</DefaultText>
+      <FemaleText>::gzzt::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>::azzzip::</DefaultText>
+      <FemaleText>::azzzip::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>::brar:::</DefaultText>
+      <FemaleText>::brar:::</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

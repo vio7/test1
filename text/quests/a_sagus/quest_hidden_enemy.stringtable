@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_hidden_enemy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der versteckte Feind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche den gefährlichen Stichus beim Klippenrand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Erzähle Lord Vuntgen, wo sich der Stichus versteckt... oder finde einen Weg, ihn zur Flucht zur verhelfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Erzähle Lord Vuntgen, dass der Stichus entkommen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erzähle Lord Vuntgen, dass der Stichus tot ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Meutenjustiz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Gerettet von den Sticha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Gerettet von den Kultisten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Gerettet vom Stichus-Automat</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vruntgen erpresst</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Es ist da, aber...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Alleine getötet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Erzähle Lord Vuntgen, dass der Stichus entkommen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Erzähle Lord Vuntgen, dass der Stichus entkommen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Sagus verlassen, nachdem du dem Stichus bei der Flucht verholfen hast, aber ohne, es Vruntgen zu sagen (FAHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Sagus verlassen, nachdem du dem Stichus getötet hast, aber ohne, es Vuntgen zu sagen(FAHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Im Bezirk Klippenrand treibt sich ein entarteter Stichus herum. Lord Vuntgen, das Oberhaupt einer der Sklavenfamilien, hat eine Belohnung für denjenigen versprochen, der die Kreatur aufspürt und ihm verrät, wo man sie finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Stichus versteckt sich vermutlich irgendwo abseits, ansonsten hätten ihn die Bewohner von Klippenrand längst gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe den Stichus in den Müllhaufen hinter dem Fünften Auge gefunden. Sein Schicksal liegt nun in meiner Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe die anderen Sticha überredet, einen Fluchttunnel zu graben, damit der verstoßene Stichus aus Klippenrand fliehen kann. Lord Vuntgen wird nicht erfreut sein, das zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe den entarteten Stichus eigenhändig getötet. Lord Vuntgen wird sich freuen, das zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Lord Vuntgen verraten, wo sich der Stichus versteckt, und er hat die Information dem Mob weitergegeben, der prompt loszog und das Wesen tötete. Vuntgen hat die Leute dafür gelobt, dass sie ihren Bezirk sicherer gemacht haben. Dann übergab er mir die versprochene Belohnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Der Stichus ist mithilfe seiner Artgenossen entkommen. Lord Vuntgen hat Klippenrand sichtlich enttäuscht verlassen und der wütende Mob hat sich zerstreut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Der Stichus ist mithilfe der Kultisten des Wandelnden Gottes entkommen. Lord Vuntgen hat Klippenrand sichtlich enttäuscht verlassen und der wütende Mob hat sich zerstreut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Der verstoßene Stichus ist mithilfe meines Stichus-Automatons entkommen. Lord Vuntgen hat Klippenrand sichtlich enttäuscht verlassen und der wütende Mob hat sich zerstreut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe Lord Vuntgen erpresst, indem ich drohte, seine Yovoki-Abstammung öffentlich zu machen. In der Angst, dass der Mob ihn töten würde, wenn sein Geheimnis ans Licht kommt, hat er zugestimmt, die Jagd auf den Stichus abzublasen. Die Menge hat sich aufgelöst und Lord Vuntgen hat den Bezirk verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich habe Lord Vuntgen gesagt, wo der Stichus sich versteckt und der Mob hat das Wesen getötet. In meiner Wut darüber habe ich mir Vuntgen zum Feind gemacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Ich habe den entarteten Stichus eigenhändig getötet. Nachdem sich Lord Vuntgen vom Tod der Kreatur überzeugt hat, hat er mich vor der versammelten Menge gelobt und mir die versprochene Belohnung übergeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Auf meine Bitte hin haben die Kultisten des Wandelnden Gottes den Stichus aus Klippenrand hinausgeschmuggelt. Offenbar haben sie ihn in die Roben eines besonders großen Kultisten gehüllt. Lord Vuntgen wird nicht erfreut sein, das zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Ich habe meinem Stichus-Automaton befohlen, einen Fluchttunnel für den verstoßenen Stichus zu graben, und das Wesen hat sich durch den Tunnel in Sicherheit gebracht. Lord Vuntgen wird nicht erfreut sein, das zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Ich habe Sagusklippen verlassen und werde nicht so schnell zurückkehren. Jemand anders wird sich um den Stichus kümmern müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Ich habe dem Stichus bei der Flucht geholfen, aber dann Sagusklippen verlassen, bevor ich noch mal mit Vuntgen sprechen konnte. Er wäre über diese Neuigkeiten wohl ohnehin nicht erfreut gewesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Ich habe den Stichus getötet, hatte jedoch keine Gelegenheit, Vuntgen das mitzuteilen, bevor ich Sagus verließ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Der Stichus scheint harmlos zu sein, mit seinem dünnen, weichen Chitin und seinen kleinen, deformierten Klauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Der Stichus sagt, dass Lord Vuntgen ihn in einem Tunnel gefunden und nach Klippenrand gebracht hat. Das würde bedeuten, dass Vuntgen selbst für die Anwesenheit der Kreatur im Bezirk verantwortlich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ein Junge namens Zebb scheint sich mit dem ausgestoßenen Stichus angefreundet zu haben. Er flehte mich an, Lord Vuntgen nicht zu verraten, wo sich das Wesen versteckt. Er sagt, ich könnte die anderen Sticha vielleicht dazu überreden, einen Fluchttunnel für den Paria zu graben. Ich könne sie in der Schattenseite finden. Vielleicht gibt es aber auch andere Wege, um das Wesen aus dem Bezirk zu schmuggeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich bat Ch'kekt, einen der Sticha in der Schattenseite, den verstoßenen Stichus zu retten, doch er lehnte ab. Stattdessen bat er mich, den Verstoßenen zu töten, da die Kreatur nie in der Lage sein würde, für sich selbst zu sorgen. Wenn ich das für ihn tue, gibt mir Ch'kekt vielleicht sogar eine Belohnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe die Kultisten des Wandelnden Gottes gebeten, den Stichus in Sicherheit zu bringen, und sie haben sich bereit erklärt, es zu versuchen. Sie warten nur auf mein Kommando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Mutter Temaz hat mir verraten, dass in Lord Vuntgens Familie unmenschliches Blut fließt. Sie sagt, dass einer seiner Vorfahren ein Yovok gewesen sei. Wenn dieses schändliche Geheimnis bekannt werden würde, wäre der Ruf seiner Familie ruiniert und Karriere als Politiker am Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

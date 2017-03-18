@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3141_theendlessgateentrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die widerlich süßlichen Finger ziehen wieder an deiner Haut und deinen Kleidern. Wenn du durch dieses Portal trittst, gibt es nur einen Weg zurück: Du musst denjenigen finden, der es geöffnet hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Endlose Pforte betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Von der Pforte wegtreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Widerlich süßliche unsichtbare Finger ziehen an deiner Haut, ziehen dich in das Portal, gierig nach dem Leben, das durch deinen Körper fließt, begierig darauf, dich dort zu *behalten*.
+
+Du hast das mulmige Gefühl, dass du wenn du durch dieses Portal trittst, es nur einen Weg zurück gibt: Du musst denjenigen finden, der es geschlossen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

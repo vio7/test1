@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4412_intestinal_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Was auch immer diese Kreatur war, ihr Magen war gewaltig. Das Organ pulsiert, es ist mit Gasen aufgebläht ... und noch etwas dröhnt in seinen Tiefen, etwas, das dort gefangen zu sein scheint.
+
+Eine widerliche Säurebrühe sickert aus Löchern, die in die Gedärme gerissen wurden. Sie zischt und dampft, wenn sie auf Flor-Fleisch tropft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Magen und die Gedärme knurren und zucken. Du kannst deutlich hören, wie tief drinnen etwas heftig zappelt.
+
+Säurebrühe tropft aus Löchern in den Gedärmen und zischt, wenn sie mit Flor-Fleisch in Berührung kommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Von den verwesenden Organen weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Etwas in den Eingeweiden der Kreatur zappelt heftig. So klingt keine Verwesung... so klingt Verzweiflung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dein Ohr an den Magen legen, um zu lauschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Dem Flüstern noch einmal lauschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>In die Eingeweide hineingreifen und versuchen, das freizulassen, was darin gefangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Erneut in die Eingeweide hineingreifen und versuchen, das freizulassen, was darin gefangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du greifst in die Löcher der Eingeweide und schiebst deine Arme durch verwesende Gedärme. Die Säuren und die Galle darin verursachen brennende Schmerzen, aber du beißt die Zähne zusammen. Schließlich kannst du ganz leicht fühlen, dass sich etwas bewegt, also stößt du deine Arme noch tiefer in den Magen, so dass du bis zu den Schultern darin steckst.
+
+Eine suchende Ranke berührt deine Hand. Instinktiv versuchst du, die Hand zurückzuziehen, aber die Ranke zieht sich fest um dein Handgelenk. Ihre Berührung ist unverkennbar. Das *Ding*, das im Magen gefangen war, ist ein Schlund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du stößt deine Arme in mehrere Löcher in den verwesenden Organen. Galle und Magensäure brennen auf deiner Haut, aber du findest nichts. Als der Schmerz übermächtig wird, stolperst du nach hinten weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Noch mehr Ranken umfassen deine Hand und schlängeln sich so in die Freiheit. Flor-Zungen fressen sich durch verwesende Gedärme und verspritzen Magensäfte in alle Richtungen. Dann erscheint das große Maul und durchbricht das tote Fleisch. Seine Ranken gleiten in die Eingeweide und wickeln sich fest um sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du bemerkst, dass der Schlund sich von etwas im Magen der Kreatur ernährt haben muss, zumal er schon satt ist. Sein Maul öffnet sich weit, und ein Portal erscheint ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du bemerkst, dass der Schlund sich von etwas im Magen der Kreatur ernährt haben muss, zumal er schon satt ist. Sein Maul öffnet sich weit, und ein Portal erscheint!
+
+Leider haben dir die Säuren und die Galle so schwere Verbrennungen zugefügt, dass du nichts mehr siehst. Du stolperst nach hinten und brichst zusammen. Es wird dunkel ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du greifst erneut in die dampfenden Eingeweide der riesigen Kreatur, und wieder sickert die Magensäure durch deine Kleidung und verbrennt deine Haut. Nachdem du das, was drinnen gefangen ist, nicht finden kannst, stolperst du vom Schmerz überwältigt nach hinten weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du greifst in die Löcher der Eingeweide und schiebst deine Arme durch verwesende Gedärme. Die Säuren und die Galle darin verursachen brennende Schmerzen, aber du beißt die Zähne zusammen. Schließlich kannst du ganz leicht fühlen, dass sich etwas bewegt, also stößt du deine Arme noch tiefer in den Magen, so dass du bis zu den Schultern darin steckst.
+
+Eine suchende Ranke berührt deine Hand. Instinktiv versuchst du, die Hand zurückzuziehen, aber die Ranke zieht sich fest um dein Handgelenk. Ihre Berührung ist unverkennbar. Das *Ding*, das im Magen gefangen war, ist ein Schlund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Noch mehr Ranken umfassen deine Hand und schlängeln sich so in die Freiheit. Flor-Zungen fressen sich durch verwesende Gedärme und verspritzen Magensäfte in alle Richtungen. Dann erscheint das große Maul und durchbricht das tote Fleisch. Seine Ranken gleiten in die Eingeweide und wickeln sich fest um sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Du kannst immer noch hören, wie etwas in den Gedärmen der Kreatur heftig zappelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Tief drinnen in den verwesenden Gedärmen poltert und zappelt etwas heftig. Du kannst nicht weiter nachforschen, während du gegen die Schlünde kämpfst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

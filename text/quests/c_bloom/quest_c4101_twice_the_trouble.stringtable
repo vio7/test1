@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4101_twice_the_trouble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Doppelter Ärger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde die beiden Rüpel, die Quianne schikaniert haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Verhindere, dass die Rüpel Quanne erneut angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Quianne zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vrung bestochen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vrung verängstigt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vrung getötet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vrung verwundet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vrung verjagt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Quianne, ein Flüchtling, das im Hof lebt, wurde mehrmals von den zwei gleichen Rüpeln belästigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Quianne hat dich gebeten, die Rüpel aufzuhalten, die sie hast täglich belästigen, aber du musst sie zuerst finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Finde eine Möglichkeit, die Rüpel von ihren andauernden Überfälltn aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nun, da du mit Quinnes Angreifern fertig bist, ist es an der Zeit, ihr die gute Nachricht zu vermitteln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Du hast Vrung bezahlt, damit er nicht länger Quianne angreift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Du hast Vrung eingeschüchtert, damit er Quianne nicht meht belästigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Du hast Vrung getötet, der wiederum Delny kontrollierte. Sie scheint etwas anders...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Du hast Vrungs psychische Fähigkeiten beschädigt. Er ist nun so gefährlich wie eine Feldmaus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Du ließest Vrung gehen, nachdem du die Verbindung zuwischen ihm und Delny unterbrochen hast. Er sollte Quianne jetzt nicht mehr belästigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Du hast Vrung bezahlt, damit er nicht länger Quianne angreift.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Du hast Vrung eingeschüchtert, damit er Quianne nicht meht belästigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Du hast Vrung getötet, der wiederum Delny kontrollierte. Sie scheint jetzt eine andere Person zu sein, und sollte Quianne keine Bedrohung mehr sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Du hast Vrungs psychische Fähigkeiten beschädigt. Er ist nun so gefährlich wie eine Feldmaus und sollte niemanden eine Bedrohung darstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30009</ID>
+      <DefaultText>Du ließest Vrung gehen, nachdem du die Verbindung zuwischen ihm und Delny unterbrochen hast. Er sollte jetzt eine Zeit lang niemanden mehr belästigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30012</ID>
+      <DefaultText>Du fandest Quinnes Leiche in Klein-Nihliesh.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

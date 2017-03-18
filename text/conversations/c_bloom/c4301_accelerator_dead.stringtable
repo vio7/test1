@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_accelerator_dead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Hier liegt ein regungsloses und teilweise auseinandergebautes Konstrukt, mit ausgebreiteten, spinnenartigen Beinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Wrack des teilweise demontierten Konstrukts liegt dort, wo du es zurückgelassen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Den Körper nach etwas Nützlichem durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du suchst einige Minuten lang, doch kannst nichts Wertvolles finden. Plünderer müssen dieses Konstrukt vor langer Zeit ausgenommen haben.
+
+Gedankenverloren legst du die Hand auf die Metallhülle, um dich vom Wrack wegzudrücken. Dabei fühlst du eine schwache, periodische Vibration.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Untersuche das Konstrukt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Ringe erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du betrachtest die Überreste des Konstrukts, kombinierst die Details und bemerkst verstreute Haufen aus Müll sowie Brandlöcher auf der Rückseite seiner Panzerung. 
+
+Das Konstrukt wurde hier wahrscheinlich in die Ecke getrieben und versuchte, die Müllhügel hinaufzufliehen statt seine Peiniger zu bekämpfen. Sie griffen es von hinten an und es stürzte, entweder tot oder sterbend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Das riesige Konstrukt starb auf der Flucht vor den Wesen, die es getötet haben. Zahllose kleine, verkohlte Wunden sind auf seiner hinteren Panzerung verteilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Dann fällt dir etwas Merkwürdiges auf. Einige seiner Wunden sind teilweise repariert, als hätte jemand das tote Konstrukt aufgesucht und willkürlich die Brandlöcher geflickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Greife in den Rumpf und mache die Quelle der Vibration aus, die du gespürt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Greife erneut in den Rumpf, um die Quelle der Vibration auszumachen, die du gespürt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Während du dich mit der Schulter gegen eine der senkrechten Öffnungen des Konstrukts drückst, greifst du in die Dunkelheit und tastest vorsichtig umher, wobei du den Vibrationen folgst, die auf dich zu plätschern.
+
+Angespannt fährst du mit den Fingern umgitterte Objekte entlang, über ein Kabel bis ... zu einem teilweise zerdrückten Würfel, der mit ausgefransten Kabeln versehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du greifst in das dunkle Innere des Konstrukts und berührst verschiedene Platten und Apparate. Du kannst die Vibration fühlen, doch du kannst sie nicht zu ihrer Quelle verfolgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ein Wissenselement rastet ein. Dies ist – war – eine Kreatur, die als "Beschleuniger" bekannt war; eine Maschinenintelligenz, die einem mechanischen Gehäuse innewohnt. Obwohl sie furchterregend erscheinen, fürchten die Kreaturen den Tod sehr und suchen stets nach Technologien, die sie integrieren können, in der Hoffnung, ihr Leben damit zu verlängern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du erkennst in dem Würfel eine Hülle für die Intelligenz des Konstrukts. Sie wurde katastrophal – und vielleicht absichtlich – beschädigt. Das Konstrukt ist wahrlich tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du hörst dir das leichte Klicken eine Weile an, ehe du feststellst, dass du selbst die Geräusche machst, indem du zwischen deinen Atemzügen Trauerworte in einer Maschinensprache sprichst. 
+
+"Es tut mir leid. Ich vergaß. Komm zurück. Komm zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Nimm die Kugel und das Modul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Beobachte die Kugel bei der Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Beobachte die Kugel weiter bei der Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du ziehst das Kommunikationsmodul aus der Oberfläche des Würfels und die Kugel folgt, während sie in der Luft zittert. 
+
+Sie dreht sich, als würde sie die ruinierte Hülle ein letztes Mal betrachten. Dann lässt sie sich fügsam und schaudernd auf deiner offenen Handfläche nieder. 
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Kugel treibt durch das Innere des toten Konstrukts und hält gelegentlich an, um zu ... ja, sie repariert Schäden, als würde das Flicken von Löchern in der Panzerung ihren Wirt wieder ins Leben zurückrufen. 
+
+Immer wieder kehrt sie zu dem zerstörten Würfel zurück und versucht, ihn wieder zu reparieren. Als nichts passiert, vibriert die Kugel. Und als *das* passiert, hörst du eine Reihe leiser, surrender Klickgeräusche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Sie setzt ihren Weg im toten Konstrukt fort und versucht, es mit kleineren Reparaturen ins Leben zurückzurufen. Mit jedem Fehlschlag gibt sie eine Reihe leiser, flüsternder Klickgeräusche von sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du lugst zwischen den Platten in das Innere des Korpus. Den Kratzern, Kerben und zerstörten Komponenten nach zu urteilen, die du im Inneren siehst, hat jemand bei dem Versuch, seine lebenswichtigen Systeme zu zerstören, absichtlich eine stumpfe Stange in die Innereien des Konstrukts getrieben. Es ist unklar, ob dies vor oder nach seinem Tod geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Vorsichtig schiebst du ein loses Stück Metall von der Oberfläche des Würfels beiseite und suchst weiter nach dem Ursprung der Vibration. 
+
+Eine Welle wortlosen Kummers bricht über dich hinweg, gefärbt von Hoffnungschimmern. Du schaust wieder auf deine Hand und das Stück Metall. Das fremde Gefühl kam hierdurch in *dich*.
+
+Als wäre sie durch den Gedanken heraufbeschworen, treibt eine kleine schwebende Kugel in dein Sichtfeld. Sie untersucht den Würfel mit einem Lichtstrahl und vibriert daraufhin leicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Es könnte eine Art Maschinensprache sein, doch du kannst keinen Sinn ausmachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du hörst eine Weile zu, doch die Bedeutung der Klickgeräusche erschließt sich dir noch immer nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Das teilweise demontierte Konstrukt liegt hier völlig regungslos und schweigsam. Nachdem du die kugelförmige Drohne aus dem Inneren genommen hast, gibt es hier kaum noch etwas zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Das Wrack des teilweise demontierten Konstrukts liegt dort, wo du es zurückgelassen hast. Im Inneren schwebt eine kugelförmige Drohne umher, die verschiedene Bauteile mit einem schwachen Lichtstrahl untersucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

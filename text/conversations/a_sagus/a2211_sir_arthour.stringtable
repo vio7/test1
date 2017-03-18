@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2211_sir_arthour</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>119</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Gesicht dieses Mannes ist von einer ledrigen, dunkelbraunen Haut gekennzeichnet. Darüber, Haar so weiß wie der Vollmond. Er schielt durch ein Büschel an langen Augenbrauen in deine Richtung, während er an einer langen Pfeife zieht, die entweder aus einem Stück Holz oder dem Bein eines riesigen Insekts angefertigt wurde.
+
+Er trägt blaue, formelle Kleidung, wie ein Priester oder ein Professor. Sein Gürtel, seine Taschen, seine Schultern, sogar in der Luft um seinen Kopf herum - er ist vollständig mit glühenden, surrenden Geräten jedweder Art umgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Da seid Ihr ja wieder! Habt ihr noch eine Frage? Setzt Euch. Tut Euch keinen Zwang an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wer seid Ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wer seid Ihr noch mal?"</DefaultText>
+      <FemaleText>"Wer seid Ihr noch mal?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Meine Güte, wie unhöflich von mir!" Er streckt seine Hand aus. "Sir Arthour Torein - Reisender, Entdecker und lebenslanger Schüler der Numenera. Ich habe alles von hier bis zu den Standhaften Königreichen gesehen und Numenera in allen Farben und Formen für mehrere Jahrzehnte studiert. Ihr werdet kaum jemanden finden, der mehr über die Neunte Welt weiß, als dieser alte Mann vor Euch, glaubt mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sir Arthour Torein - Reisender, Entdecker und lebenslanger Schüler der Numenera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Lasst mich raten." Er zieht an seiner langen Pfeife. Eine Kugel aus grünem, wabernden Rauch entweicht aus seinem Mund. "Ihr seid weit gereist, soviel ist klar. Habt viel erkundet. Und dennoch seht Ihr aus, als würdet Ihr zum ersten Mal in der großen Stadt sein."
+
+Er tippt auf verschiedene der Relikte, die er an sich trägt. "So etwas habt Ihr noch nicht gesehen, oder? Heute ist Euer Glückstag! Nichts bereitet mir mehr Freude, als andere über die Numenera aufzuklären. Ich bin außerdem weit gereist und habe viel von der Welt gesehen. Traut Euch, fragt mich alles, was Ihr wissen wollt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Was sind die Numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich möchte noch einmal etwas zu den Numenera wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Woher wisst Ihr so viel über die Numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Das Sammeln von Chiffren war schon immer die Haupteinnahmequelle meiner Familie. Heutzutage leider nicht mehr, aber ich habe unser Geschäft sozusagen vollständig auf ihre Erforschung ausgerichtet. Ich denke ich kann mit Stolz behaupten, dass mein Laboratorium eines der Beeindruckensten in den ganzen Standhaften Königreichen ist. Immerhin hat sich eine ganze Universität um es herum etabliert. Meine Spezialgebiete sind Forschung und Experimente. Jeden Tag bekommen wir unzählige Bewerbungen von aufstrebenden Assistenten ... was ganz praktisch ist, weil wir einen hohen ... *Durchlauf* haben." Er räuspert sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Seine Augen leuchten auf - so wie einige der Geräte an seinem Körper, auch wenn du dir nicht sicher bist, warum. "Die Numenera sind praktisch überall um Euch herum. Wir leben auf den Überbleibseln *unzähliger* Zivilisationen, viele von ihnen mächtiger als Ihr und ich es uns jemals vorstellen könnten. Die Numenera sind ihr gesamtes Vermächtnis - Waffen, Energiequellen, Medikamente, Gele, Pflanzen, Tiere ... sogar der Drit auf dem Boden oder die Shin in deiner Tasche sind fabelhafte Beispiele für Numenera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Immer raus mit den Fragen. Ich könnte den ganzen Tag lang erzählen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Was ist der Unterschied zwischen Chiffren, Kuriositäten und Artefakten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Was waren noch einmal Chiffren, Kuriositäten und Artefakte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Er nimmt einen langen Zug aus seiner Pfeife, bevor er dir antwortet. "Im Grunde genommen beschreiben diese Namen lediglich, wie nützlich ein Gerät ist", sagt er. "Das macht auch Sinn. So wundersam und mächtig diese Relikte auch sein mögen, in *dieser* Welt schert sich niemand einen feuchten Kericht um sie, wenn sie ihm nicht bei seinen Problemen weiterhelfen können."
+
+Er seufzt. "Es interessiert sie nicht, woher sie kommen und wie sie funktionieren. Aber sobald sie sich davon ernähren, damit einen Erynthgrask verjagen oder ein paar Shin verdienen können? Dann sind sie plötzlich Feuer und Flamme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er beginnt, sie an den Fingern abzuzählen. "Als Kuriosität bezeichnet man alles, was irgendwie seltsam und magisch erscheint, aber keinen besonderen Nutzen erfüllt. Am besten eignen sie sich dazu, ein paar Shin zu verdienen."
+
+"Chiffren sind mächtige Relite, aber sehr instabil. Sie funktionieren nur ein Mal, und wenn Ihr zu viele davon auf einen Haufen werft, fangt Ihr Euch eine Chiffritis ein."
+
+"Artefakte sind stabiler und halten länger. Tatsächlich sind einige der bekanntesten Waffen und Rüstungen der Neunten Welt eigentlich Artefakte aus vergangenen Zeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Was ist der Orden der Wahrheit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich denke, man könnte es als eine Art der organisierten Religion bezeichnen. Nur, dass es keine Religion ist. Mitglieder des Ordens nennen sich selbst Priester und bezeichnen ihren Gründer als den Bernsteinpapst, aber sie *verehren* nichts per se - abgesehen vielleicht von ihrem eigenen Intellekt. Soviel ich weiß, verfügt diese Stadt über eine eigene Niederlassung des Ordens. Dort könnte man Eure Fragen bestimmt besser beantworten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Was sind Esoterien?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Könnt Ihr mir noch einmal von Esoterien erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Als 'Esoterie' bezeichnet man alle möglichen Kräfte oder Fähigkeiten, die von unserem derzeitigen Wissenschaftsverständnis nicht erklärt werden können. Von allen Wesen sind Nanos am fähigsten, Esoterien zu wirken, aber auch andere Menschen oder manchmal sogar Kreaturen verfügen über Kräfte, die wir als Esoterien bezeichnen würden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Esoterien sind unerklärliche Kräfte und Fähigkeiten, über die manche Menschen verfügen - in den meisten Fällen besteht eine Verbindung zu den Numenera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Was genau sind eigentlich Shin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Könnt Ihr mir noch einmal von Shin erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Er sieht über seine Brille hinweg zu dir. "Ihr seid *wirklich* neu hier, was? Shin sind eine Währung. Die Aeon-Priester glauben, dass einige der vorigen Welten bestimmte seltene Metalle oder Kristalle als Währung verwendet haben. Aber natürlich gibt es *kein* Metall mehr, dass noch in irgendeiner Form selten wäre. Die Hälfte der Nanos, die ich getroffen habe, kann problemlos Metalle in Kristalle transmutieren. Selbst ich habe es einmal geschafft, Fleisch in Gold zu verwandeln, auch wenn das nicht ganz beabsichtigt war. Wie dem auch sei, Seltenheit ist kein Kriterium mehr, das über den Wert bestimmt. Der Wert der Shin ist vielmehr ein gesellschaftliches Konstrukt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Es ist einfach nur eine Währung, und sie funktioniert so lange, wie jeder darin übereinstimmt, dass sie das ist. Ein Shin kann die Form vieler münzenähnlicher Gegenstände haben, oder einfach nur ein interessantes Stück Metall sein. Hin und wieder lassen sich ein paar Shin aus Trümmern gewinnen, auch wenn so noch niemand reich geworden ist. Ein Stück Eisen ist beispielsweise viel mehr wert als die Shin, die du daraus gewinnen könntest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Warum seid Ihr hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Was macht Ihr in dieser Taverne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wissen, natürlich! Ich habe den gesamten Kontinent von den Standhaften Königreichen bis zum Jenseits bereist, und nun will ich herausfinden, was *jenseits* des Jenseits liegt, sozusagen. Wer weiß schon, wie viel Zeit mir auf dieser Welt noch bleibt? Ich wollte es mit eigenen Augen sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ein Umtrunk!" Er hebt sein Glas enthusiastisch hoch. "Ich bin gerade dabei, die fantastische Struktur dieser Getränke zu entschlüsseln. Außerdem sind diese Leute hier wirklich sehr interessant. Nirgends lernt man so viel über eine Stadt wie in ihren Tavernen." Er nimmt einen tiefen Schluck aus seinem Glas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Lasst mich Euch etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Natürlich! Raus damit." Er lehnt sich zurück und nimmt einen tiefen Zug aus seiner Pfeife.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ich möchte mehr über die Welt erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ich möchte noch mehr über die Welt erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Natürlich! Fragt so viele Fragen, wie Ihr wollt. Ich habe die gesamte Neunte Welt bereist, von den Standhaften Königreichen bis ins Jenseits. Ich weiß sogar ein bisschen was über diesen Teil der Welt - das, was hinter dem Jenseits liegt. Ich habe viele Entdecker getroffen und endlos vielen Geschichten gelauscht. Also. Was möchtet Ihr wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Immer raus mit den Fragen. Immer raus damit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Warum nennt man diese Welt die 'Neunte Welt'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Warum nennt man diese Welt noch einmal die 'Neunte Welt'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Eine interessante Frage." Er nimmt vorsorglich einen Schluck aus seinem Glas. "Man möchte ja meinen, dass das bedeuten würde, dass acht andere Welten vor dieser kamen. Aber schon eine kurze Studie der Numenera hat gezeigt, dass es viel zu viele von ihnen gibt, als dass nur acht Welten vor der unseren existiert haben könnten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich glaube, der einzige Grund dafür, warum sie so genannt wird, ist der, dass wir sie so nennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Was könnt Ihr mir über die Standhaften Königreiche erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Könnt Ihr mir noch einmal von den Standhaften Königreichen erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Oh, sehr viel mein Freund! Sehr viel. Zu viel, um ehrlich zu sein. Die Standhaften Königreiche sind eine Ansammlung von Königreichen und Fürstentümern weit im Westen - am ganz anderen Ende des Kontinents."
+
+Er bläst eine Rauchwolke aus seinem Mund. Sie verformt sich zu einer lila Kugel und fällt zu Boden, nur um dann durch den Boden zu sinken. Nirgends hat der Orden der Wahrheit so viel Einfluss wie dort. Es handelt sich um verschiedene Königreiche, mit ein paar Dörfern und Aldeias hier und da, und alle schwören dem Bernsteinpapst und seinen Aeon-Priestern die Lehnstreue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Eine Ansammlung von Königreichen und Fürstentümern im Westen des Kontinents. Dort ist der Sitz des Bernsteinpapstes."
+
+Er kichert. "Und außerdem befindet sich dort der Sitz des berühmten Forschers Sir Arthour Torein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Was könnt Ihr mir über das Jenseits erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Könnt Ihr mir noch einmal vom Jenseits erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Eine Wildnis zwischen den Standhaften Königreichen und diesem Ort hier. *Sehr* gefährlich." Seine Worte sollten dich wohl eigentlich einschüchtern, allerdings wird das durch das begeisterte Leuchten in seinen Augen abgemildert. "Einige der interessantesten Dörfer und Klaven warten dort auf Entdecker wie mich. Einmal habe ich ein Dorf entdeckt, dessen Einwohner von Geburt bis zum Tod immer genau einen Meter über dem Boden geschwebt sind. Die Einwohner eines anderen Dorfes können Euch den exakten Ablauf Eurer letzten Sekunden schildern. Ich kann Euch nicht sagen, wie akkurat diese Vorhersagen sind, aber einige meiner Assistenten haben daraufhin gekündigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ein wildes Land, über das die Numenera mehr herrschen, als die Menschen. Einige der Gemeinden finden einen Weg, zu überleben, aber die meisten Entdecker haben es dort recht schwer." Zufrieden nimmt er einen Zug aus seiner Pfeife. "Die meisten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Was könnt Ihr mir über die Gebiete hinter dem  Jenseits erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Könnt Ihr mir noch einmal vom Sagus-Protektorat erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ihr befindet Euch darin, mein Freund! Sie nennen diese Gegen hier Sagus-Protektorat, oder zumindest einen Teil davon. Die Sagus-Klippen und den Flor nebenan. Ich habe von Orten wie Haref und M'ra Jolios gehört, die noch weiter im Osten liegen sollen. Am meisten interessiert mich das Tal der Toten Helden, davon habe ich schon *so* viel gehört! Eine Grabstätte? Da *muss* es einfach ein paar interessante Relikte geben."
+
+Er seufzt. "Ehrlich gesagt bin ich selbst erst vor Kurzem hier angekommen. Vielleicht fragt Ihr da besser einen Einheimischen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Nicht viel, befürchte ich. Ich bin sehr gespannt darauf, einige Gegenden selbst zu erkunden. Vielleicht fragt Ihr da besser einen Einheimischen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Was könnt Ihr mir über die verschiedenen Arten von Entdeckern erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Könnt Ihr mir nochmal etwas über die verschiedenen Arten von Entdeckern erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Mutige und unerschrockene Seelen, mein Freund. Es gibt viele unterschiedliche Entdecker, aber Ihr werdet feststellen, dass die tapfersten von ihnen mit Bezeichnungen wie Glaive, Nano oder Jack versehen werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Es mag unfair erscheinen, Menschen in eine Schublade zu stecken, aber so funktioniert die Welt einfach. Die Leute stellen sich diese fantastischen Entdecker einfach als kämpfende Glaives, esoterische Nanos oder Tausendsassa-Jacks vor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Mehr wollte ich nicht wissen. Lebt wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Wünsche eine gute Reise, der Herr!"</DefaultText>
+      <FemaleText>"Wünsche eine gute Reise, die Dame!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Warum seid Ihr nochmal hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Im Sagus-Protektorat oder im Fünften Auge? Ach. In beiden Fällen lautet die Antwort 'Wissen'." Er nimmt noch einen Schluck aus seinem Becher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Es ist so ein breitgefächerter Begriff, dass der Orden der Wahrheit Kategorien für die Numenera geschaffen hat: Solche wie Kuriositäten, Chiffren oder Artefakte. Natürlich würde jeder *ernsthafte* Numenera-Forscher auch diese Kategorien als viel zu wage durchschauen. Ich habe meine eigenen Unterscheidungen, aber das wird Euch wohl nicht interessieren.
+
+Er nimmt einen weiteren Zug aus seiner Pfeife. "Auf jeden Fall sind es die Numenera, auf denen die Wunder dieser Welt beruhen. Seien es die Esoterien eines Entdeckers, die Datosphäre und sogar die Drinks in dieser Taverne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Was ist die Datosphäre?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Könnt Ihr mir noch einmal von der Datosphäre erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ist ein bisschen schwierig zu erklären. Einfach ausgedrückt ist die Datosphäre eine Art Informationsspeicher in der Luft. *Etliche* der vorigen Welten haben ähnliche Wissenssphären auf dem ganzen Planeten erschaffen. Wenn wir von der 'Datosphäre' sprechen, dann meinen mir damit alle davon, ihre gegenseitigen Verbindungen und die Auswirkungen des Ganzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Was wir als Datosphäre bezeichnen ist eigentlich ein Sammelsurium an Informationsnetzwerken - möglicherweise dienen sie auch anderen Dingen als nur der Kommunikation von Informationen, aber das ist nur einer meiner Gedanken. Einige uralte Relikte und manchmal sogar Menschen sind dazu in der Lage, auf sie zuzugreifen oder ihr Zugriff auf sie zu gewähren, wodurch sie sich arkanes oder esoterisches Wissen aneignen können." Er nimmt einen Zug von seiner Pfeife. "Manche treibt es einfach nur in den Wahnsinn. Man weiß nie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Inwiefern ist Drit ein Teil der Numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Fahrt nur einmal mit eurer Hand über den Boden, Junge, und Ihr werdet sehen, dass es kaum ein wirklicher Boden ist. Er setzt sich aus mikroskopischen Überbleibseln uralter, unbekannter Technologien und Strukturen zusammen - das, was wir unter Drit verstehen. An manchen Orten führt der Drit sogar ein *Eigenleben*."
+
+Er nippt an seinem Becher. "Ich würde übrigens nicht empfehlen, an solchen Orten auf dem Boden zu schlafen. Sehr beunruhigend für die Überlebenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"In welche Kategorien würdet *Ihr* die Numenera einteilen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Oh! Eine faszinierende Frage!" Er stellt seinen Drink ab und lehnt sich zu dir. "Ich gebe Euch die Kurzfassung, Ihr habt heute bestimmt noch etwas vor. Einfach ausgedrückt bin ich nicht daran interessiert, wie *nützlich* ein Gerät ist, sondern daran, *wie* es funktioniert."
+
+Er nimmt einen kurzen Zug von seiner Pfeife und legt sie dann ebenfalls zur Seite. "Also, obwohl die Technologie der vorigen Welten viel zu unverständlich für uns ist, um sagen zu können, welche Zivilisation für welche Kreation verantwortlich ist, können wir einige grundsätzliche Kategorien herausarbeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Er zeigt dir die Rückseite seiner Faust und steckt einen Daumen hindurch. "Kuriositäten sind am wenigstens nützlich. Sie *tun* irgendetwas - halten deinen Drink warm, schweben in der Luft, verändern deine Stimme zu Musik, so ein Zeug eben. Aber so wirklich nutzen tun sie niemandem. Kuriositäten sind faszinierend, aber pragmatisch gesehen sind sie höchstens ein paar Shin wert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Als nächstes streckt er den Zeigefinger aus. "Chiffren, die können recht interessant sein. Heilen Euren Körper, stoßen eine Flamme aus, teleportieren Euch an einen sicheren Ort, und so weiter und so weiter. Aber sie sind instabil. Was auch immer sie tun, sie tun es nur ein einziges Mal. Und wenn Ihr keine Ahnung von ihrer Wirkung habt und einfach nur viele von ihnen auf einen Haufen werft, fangt Ihr Euch auch noch eine ordentliche Chiffritis ein."
+
+Er streckt einen dritten Finger aus. "Mit Artefakten passiert Euch das nicht. So dürfen nur Geräte heißen, die *robust* sind und lange halten. Vielleicht nicht für immer, aber sie fallen nicht nach einer einzigen Verwendung in sich zusammen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Er zählt alle davon an seinen Fingern ab. "Viele Geräte funktionieren auf der Grundlage *fundamentaler Kräfte* - Gravitation, Magnetismus, Klänge, Licht, manchmal sogar Zeit. Automatonen und künstlich erschaffene Intelligenz fallen in die Kategorie *künstliches Leben*. *Biotechnologie* deckt eine große Auswahl an Numenera ab - viele Pflanzen und Tiere, die wir als Teil der 'Natur' verstehen, wurden in Wahrheit in früheren Welten zu irgendeinem abstrusen Zweck geschaffen. Den Flor könnte man als solches verstehen. Irgendwann heuere ich ein Team an und finde es heraus. Sobald ich genug lebensmüde Assistenten gefunden habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Da sind *chemische* Geräte und jene, die mit den verschiedenen Formen von *Materie* spielen - Metalle, Flüssigkeiten, Kristalle und ihre Transmutation."
+
+Seine Augen beginnen zu leuchten. "Die Interessantesten von allen natürlich die, die am esoterischsten sind. *Nanotechnologie* - damit ist alles abgedeckt, was die gewöhnlichen Menschen unter 'Magie' verstehen - *Transdimensions-Tech*, und Technologie, die mit der *Datosphäre* selbst in Verbindung steht."
+
+Er lehnt sich zurück und widmet sich wieder seiner Pfeife. "Aber das sind nur die Kategorien, die *ich* persönlich bevorzuge. Die Numenera entziehen sich jeglicher Definition."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ein Beispiel." Er streckt einen knubbeligen Finger aus. "Die Menschen sprechen von einem *Flimmern*, Visionen aus einer anderen Zeit oder einem anderen Raum. Eigentlich handelt es sich dabei um Teile der Datosphäre, die auf den Verstand eines Menschen zugreifen. Einige Chiffren - und sogar eine Nanos - können auf das arkane Wissen in der Datosphäre zugreifen. Selbst die sogenannte 'Telepathie' ist manchmal nichts weiter als die Kommunikation zweier Menschen über die Datosphäre, ohne dass sie es als solche wahrnehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Als Forschungsobjekt überspannt die Datosphäre mit Leichtigkeit mehrere Menschenleben. Selbst ich hatte bisher nur Zeit, mich mit den Geräten zu beschäftigen, die die Datosphäre zu nutzen scheinen - mit ihr selbst, oder besser, mit den verschiedenen und inkompatiblen Netwerken, aus denen sie *besteht*, konnte ich mich noch gar nicht auseinandersetzen. Vielleicht irgendwann einmal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Im Prinzip kann alles als Shin gelten, was die Form einer Münze hat oder eine kleine Form mit interessanten Materialeigenschaften aufweist. Ich denke, Ihr werdet sehr schnell feststellen, dass eine erstaunlich genaue Übereinkunft darüber herrscht, was als Shin durchgeht und was nicht. Einige Teile der Standhaften Königreiche prägen zwar ihre eigene Währung, aber es würde mich wundern, wenn sich nicht zu jeder Zeit ein fahrender Händler finden lassen könnte, dir zumindest eine Eurer Waren dagegen eintauschen möchte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Man könnte sich nun fragen, was eine solche 'Welt' überhaupt ausmacht. Es wäre möglich, die Erste bis zur Achten Welt als die einflussreichsten Zivilisationen ihrer Epoche zu verstehen, aber selbst das erklärt die historische Wirklichkeit nur auf einer sehr vereinfachter Ebene. Und selbst wenn es nicht so wäre, mit welchem Recht vergleichen wir unsere jetzige Welt mit diesen beeindruckenden alten Zivilisationen, wo wir doch nicht einmal die grundlegendsten Theorien der Funktion eines Zeitenbohrers verstehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Die Wahrheit, befürchte ich, ist relativ simpel: Wir nennen unsere Welt die Neunte Welt, ganz einfach weil wir uns dazu entschieden haben, sie so zu nennen. Nicht mehr und nicht weniger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Ein leichtes Grummeln ist zu hören. "Der Orden ist auf die Unterstützung der Adligen aus den Standhaften Königreichen im Kampf gegen die Gaianer angewiesen - ein Kult aus dem Norden des Kontinents. Ich war noch nie da, habe das Geschehen also nicht mit eigenen Augen beobachten können, aber wenn Ihr mich fragt, ist das eine einzige Verschwendung von Leben und Ressourcen. Deshalb unterhalte ich mein Laboratorium in den Ländereien weiter südlich. Ich möchte so weit wie möglich von diesem Konflikt entfernt sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Konzentriert nimmt er einen Zug von seiner Pfeife. "Zugegebenermaßen hat der Orden mich nach einigen ... Vorfällen gebeten, zu gehen. Aber ich wollte dort sowieso weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Weiter draußen liegt das Reich der tödlichsten Kreaturen, Landschaften und Wetterbedingungen. Oh ja!" Er scheint über deinen Gesichtsausdruck entzückt zu sein. "Sogar das Land und das Wetter werden sich in einigen Bereichen des Jenseits gegen Euch wenden. Ihr habt schon einmal vom Eisenwind gehört, nehme ich an? Einer der vielen grausamen Herrscher dieser Lande, möglicherweise der gefürchtetste. Eine Wolke aus unsichtbaren Maschinen, die die physikalische Struktur aller Dinge verändern, mit denen sie in Berührung kommen." Ein hämisches Grinsen wird durch den Becher versteckt, an dem er wiederholt nippt. "Wirklich schrecklich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Die Glaive sind die Elitekrieger unserer Welt. Nano sind diejenigen, die die Numenera studieren, um mit ihnen mächtige Esoterien zu wirken."
+
+Er klopft eine gelbliche Asche aus seiner Pfeife. "Die Bezeichnung 'Jack' trifft auf diverse Spezialisierungen zu. In erster Linie eher pragmatische Leute, die ein bisschen was vom Kämpfen und ein bisschen was von Numenera verstehen - richtige Tausendsassa eben. Aber im Prinzip freut man sich immer, wenn einem ein Entdecker zur Hand gehen kann - besonders, wenn Ärger vor der Tür steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Das metallische, käferähnliche Gerät an seinem Kopf beginnt zu leuchten. Als es in sein Ohr krabbelt hält er kurz inne, so, als würde er zuhören. Kurz darauf krabbelt der Käfer wieder heraus und setzt sich zurück an seinen angestammten Platz.
+
+Sir Arthour lehnt sich zu dir und spricht leiser als vorher. "Ihr könnt also Gedanken lesen, was? Na ja, ich werde Euch das nicht übel nehmen. Aber der alte Arthour würde natürlich nicht in eine Bar voller Mentaler stürzen, ohne seine Gedanken vernünftig abzuschirmen, versteht Ihr? Also erwartet besser nicht zu viel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Woher wusstet Ihr, dass ich Gedanken lesen kann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Nurmond hat‘s mir erzählt." Er zeigt auf den Käfer, der sich gerade in einem weißen Haarbüschel versteckt. "Es kann sowas erkennen. Und das hier blockiert das Ganze." Er holt ein rundliches Gerät aus seiner Tasche. "Ich mag es nicht, anderen meine Gedanken zu überlassen. Zu gefährlich."
+
+Er steckt das Gerät zurück in seine Weste. "Das ist natürlich eine neuere Disc. Mein allererster Psycho-Blocker war noch von der alten Schule, hat Hirnmasse zu Brei verarbeitet.  Das hat viele Leute auf die Palme gebracht ... besonders die, die nicht einmal *wussten*, dass ihre Freunde mental begabt waren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Was ist Chiffritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Könnt Ihr mir noch einmal von der Chiffritis erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Schrecklich, einfach schrecklich." Er legt seine Pfeife ab. "Chiffren sind sehr instabile Geräte, wie ich Euch ja bereits erzählt habe. Wenn Ihr Ahnung von diesen Dingen habt, könnt Ihr sie teilen, isolieren oder absperren, um noch mehr Chiffren mit Euch herumtragen zu können als andere Entdecker, ohne dabei Nebenwirkungen zu erleiden."
+
+Irgendeines seiner Geräte beginnt zu zirpen. Ohne wirklich darauf zu achten tippt er mit seiner Hand auf eine seiner Taschen und stoppt das Geräusch. "Aber wenn Ihr mehr mit Euch herumtragt, als Ihr bewältigen könnt, dann können die Chiffren auf unvorhersehbare Weise reagieren, Euch die Energie entziehen und zugrunde richten. Oder schlimmer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Wenn Ihr mehr Chiffren mit Euch herumtragt, als Ihr bewältigen könnt, dann kann Euch das krank machen, Euch die Energie rauben oder Schlimmeres. Es wird Euch *vermutlich* nicht umbringen, aber ... na ja, das haben sie von dem Neveri mit den großen Fangzähnen, auf den wir oben in der Cerdyn-Passage gestoßen sind, auch gesagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Er lehnt sich mit einem verschwörerischem Gesichtsausdruck zu dir. "Dieses eine Mal habe ich gesehen, wie mehrere Chiffren sich zu einer einzigen Entität verbunden haben, so als hätten sie ein Bewusstsein. Haben meinen Assistenzen in tausend Stücke zerfetzt und sind dann in Richtung Kaltwüste abgehauen. Das war das erste und das letzte Mal, dass ich sie gesehen habe."
+
+Er hebt seine Pfeife auf und steckt sie wieder in seinen Mund. "Kam für mich völlig unerwartet. Mein Assistent tat mir unglaublich leid, aber ... die Wissenschaft fordert eben Opfer." Er zuckt mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Glücklicherweise sind die *meisten* Auswirkungen der Chiffritis nur eine temporäre Sache, sie verschwinden, sobald man sich einiger Chiffren entledigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Sie hat sich vorgebeugt und konzentriert zugehört. Nun lehnt sie sich zurück und die Enttäuschung ist ihr ins Gesicht geschrieben.
+
+"Es ist ein Gebiet, das sich zu studieren lohnt. Ich hätte gehofft, wir könnten unser Wissen austauschen. Vielleicht sprechen wir noch einmal darüber, wenn du erst mal 'mehrere Leben' angesammelt hast – so wie ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_piquoinunderbelly</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Etwas an dem Jungen hat sich verändert, seitdem du ihn das letzte Mal in Klippenrand getroffen hast. Niemand würde den Ausdruck auf seinem Gesicht als glücklich bezeichnen, doch er sieht auf jeden Fall ruhiger aus. Sogar größer. 
+
+Er sieht dich kommen und nickt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was ist?", fragt er und mustert dich wie ein Mann, der Wache steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Follow-up PQ. 3</DefaultText>
+      <FemaleText>Follow-up PQ. 3</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Habt Ihr irgendetwas Ungewöhnliches an der Person bemerkt, die sich an die Krumme Qeek herangeschlichen hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Seid Ihr sicher, dass Ihr nichts Ungewöhnliches an der Person bemerkt habt, die sich an die Krumme Qeek herangeschlichen hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Follow-up PQ. 6</DefaultText>
+      <FemaleText>Follow-up PQ. 6</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wie kommt Ihr zurecht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Konntet Ihr die Krumme Qeek schon davon überzeugen, zu gehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Lebt wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Passt auf Euch auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Follow-up T. 11</DefaultText>
+      <FemaleText>Follow-up T. 11</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Nein", sagt er bitter. "Ihr solltet Qeek fragen. Sie hat diesen Carker von vorne gesehen."
+
+Er atmet aus und reibt seine gesprenkelte Wange. "Wenn Ihr mich nicht überredet hättet, zurückzukommen, wäre ich nicht hier. Alles hätte passieren können." Er schließt die Augen. "Danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nein. Aber sie hat vielleicht etwas gesehen, das ich nicht gesehen habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Hier bin ich. Hier unten hat sich nicht viel verändert."
+
+Sein Ton ist beißend, doch du bemerkst, dass seine Augen zur Krummen Qeek wandern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Gar nicht", sagt er. "Wir bleiben hier nur so lange, wie es dauert, um Qeek zu überzeugen, dass wir nicht *sollten*. Das Leben ist so ziemlich überall in dieser Stadt besser. Aber nein. Sie sagt, wenn sie geht, ist unser Stamm wahrhaftig tot. Anstelle von, Ihr wisst schon, tatsächlich tot. Ermordet, in einigen Fällen."
+
+Er senkt die Stimme. "Es würde Euch nicht auffallen, wenn Ihr mit ihr redet, aber dieses Mädchen ist stur wie getrocknetes Leder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Man sollte meinen, dass ein Mordversuch ihre Meinung darüber ändert, in diesem Müllhaufen zu leben", sagt er und schüttelt den Kopf. "Aber nein. 'Das ist mein Müllhaufen, Piquo! Niemand jagt *mich* davon!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Wenn du nicht genau aufgepasst hättest, hättest du den leichten Ansatz eines Lächelns auf seinen dünnen Lippen übersehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Überhaupt nicht. Sie ist die sturste Frau, die ich je getroffen habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du hast den temperamentvollen Mutantenjungen, den du in Klippenrand kennengelernt hast, beinahe nicht erkannt. Piquos leere Augen streifen dich. Er ist so blass, als wäre die Blutlache zu seinen Füßen seine eigene, und in der Dunkelheit der Schattenseite glüht die zerklüftete Falte, die sein Gesicht teilt, rot.
+
+"Ich v-verstehe nicht", flüstert er. "Sie haben mir gesagt, dass sie hier sei, am Wasser. Wo ist sie?" Er schluckt, schaut von der kleinen und unförmigen gehäuteten Hand weg, die vor ihm liegt. "Wo ist Krumme Qeek?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Das ist ... was von ihr übrig ist. Es tut mir sehr leid, Piquo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nein. Diese Hand ist zu klein", sagt er mit brüchiger Stimme. "Es muss jemand anderes sein." 
+
+Er wendet sich ab, um die zerfetzten Überbleibsel seiner Freundin auszuschließen. Die Kerze badet sein Gesicht in rauem, roten Licht und tiefen Schatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ihr habt mich dazu gebracht, zurückzukommen", stöhnt er und presst die Hände an die Schläfen. "Sie sind alle tot. Wenn ich dort oben geblieben wäre, wenn ich mich *verändert* hätte, hätte ich es nie erfahren. Ich wäre *glücklich* gewesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Gebt nicht mir die Schuld. Das ist Eure Schuld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Er zuckt. Einen Moment lang drohen Tränen, ihm die Sicht zu rauben. Dann wischt er sich mit dem Unterarm über die verräterischen Augen und starrt dich finster an.
+
+"Sie waren zufrieden damit, zu leiden", knurrt er. "Ignoriert zu werden. Vielleicht wäre Qeek noch am Leben, wenn ich früher zurückgekommen wäre. Wenn ich nie gegangen wäre. Oder vielleicht wäre ich vor *Jahren* gestorben. *Dann* hätte sie auch niemand gerettet. Niemand hätte es bemerkt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Mit knirschenden Zähnen wendet er dir den Rücken zu und geht davon. Du bleibst alleine zurück mit den Überresten der Krummen Qeek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>::schluchzt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ihr meint wohl, Ihr wärt unwissend geblieben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ich wünschte, das wäre ich!", schreit er. Tränen kullern wie glänzende Perlen aus seinen Augen. "Was ist gut daran für mich, zu wissen, dass sie tot ist? Was ist Wissen wert, wenn es nur wehtut?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ihr seht die Sache falsch. Ihr seid jetzt frei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Frei", sagt er und lacht bitterlich. Er wischt sich mit dem Unterarm über die feuchten Augen und starrt dich finster an. 
+
+"Ich werde ihre hautlose Hand jedes Mal sehen, wenn ich meine Augen schließe, bis ich sterbe. Klingt das für Euch nach Freiheit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Es tut mir leid, dass ich Euch hergebracht habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Er blinzelt einmal zart und Tränen strömen aus seinen Augen, als sei deine Entschuldigung das einzige gewesen, das sie zurückhielt. 
+
+"Es ist nicht Eure Schuld", sagt er und hält sich selbst mit zitternden Armen fest. "Sie hätte gelebt, wenn ich früher zurückgekommen wäre. Oder wenn ich nie gegangen wäre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Sage nichts.</DefaultText>
+      <FemaleText>Sage nichts.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Er sieht dich finster an, die Tränen werden von den Mauern seiner Trauer zurückgehalten. Er wartet darauf, dass du ihn anschreist ... ihm die Schuld gebt, so wie er sich selbst die Schuld gibt.
+
+Als abzusehen ist, dass du nichts davon tun wirst, schluckt Piquo einen Schluchzer hinunter und spuckt dir vor die Füße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du weißt, was mit ihr passiert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Nein", sagt er schluckend, und wendet sich ab, um die zerfetzten Überbleibsel seiner Freundin auszuschließen. Die Kerze badet sein Gesicht in rauem, roten Licht und tiefen Schatten. 
+
+ "Ja. Ja, ich weiß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Bleibt ruhig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Er wendet sich ab, um die zerfetzten Überbleibsel seiner Freundin auszuschließen. Die Kerze badet sein Gesicht in rauem, roten Licht und tiefen Schatten. 
+
+"Sie ist es, oder nicht? Ich bin zu spät gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_stasis_pylon_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese seltsame Maschine vibriert und summt fast jenseits der von dir hörbaren Töne. Alle paar Sekunden kräuselt sich die Luft und ein Energiebogen schießt durch den Raum von diesem Masten zu dem riesigen Turm in der Nähe. Eine kleine Steuertafel ist an der Seite der Maschine zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Wie zuvor summt die Maschine mit einer ultraniedrigen Frequenz. Eine kleine Steuertafel ist an der Seite zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Versuche, den Masten zu aktivieren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tritt zurück.</DefaultText>
+      <FemaleText>Tritt zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Steuerung ist nicht schwer zu durchschauen. Kurz danach kräuselt sich die Luft um den Masten herum und ein Energiebogen verbindet sich mit den anderen Maschinen in der Nähe. Das Summen der Maschine wird stärker.
+
+Als du dich von der Steuerung entfernst, wird die Energie des Masten schwächer. Der Knopf, den du zum Aktivieren gedreht hast, geht langsam von selbst wieder zurück.
+
+Es ist nur noch eine Frage der Zeit, wann der Mast wieder herunterfährt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Seltsamerweise meiden die anderen Verstoßenen, die noch unter der Illusion des Labyrinths stehen, die Masten. Als sich einer nähert, werden ihre Aktionen ein wenig schwerfällig.
+
+Es scheint nicht eine Wirkung des Masten zu sein, sondern eher dessen, für was sie den Masten halten. Wenn du alle Masten aktivierst, könnte es eine stärkere Wirkung haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Nachdem alle drei Masten aktiviert sind, hämmert der riesige Turm durch die Luft. Jeder Verstoßene, der noch unter der Illusion des Labyrinths steht und in dieses Energienetz gerät, erstarrt plötzlich an Ort und Stelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Luft kräuselt sich um den Masten herum und ein Energiebogen verbindet sich mit den anderen Maschinen in der Nähe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Aktiviere den Masten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Unmittelbar danach beginnt er, sich langsam herunter zu fahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ohne Gegner in der Nähe gibt es keinen Grund, Zeit mit diesem Gerät zu verschwenden. Du lässt es sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

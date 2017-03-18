@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_the_lost_shepherd</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Verlorene Schäfer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche die Nischen des Tals</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde heraus, ob Erritis etwas mit dem Labyrinth geändert hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde Hilfe für Erritis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Confrontiere Erritis' Zuschauer im Labyrinth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Erritis wurde mächtiger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Erritis hat sein Schicksal in seiner eigenen Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ich fand nie irgenwelche Nischen. (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Das Endspiel betreten, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Erritis benimmt sich seltsam, seit wir das Tal der Toten Helden betreten haben. Ich muss heraus finden, was mit ihm nicht stimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Erritis fürchtet sich vor Alkoven im Tal der Toten Helden. Vielleicht kann ich herausfinden, warum er sich so seltsam benimmt, wenn ich einen Alkoven im Tal der Toten Helden finde, vor dem er sich nicht fürchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe einen Hirtenstab im Tal der Toten Helden gefunden und kurz darauf Erritis' Stimme in meinem Kopf gehört. Hat Erritis ... etwas an mir verändert?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich sprach mit Erritis – dem *wahren* Erritis – im Labyrinth. Bevor er zu dem Mann wurde, den ich in Sagus traf, war er ein einfacher Hirte, der über eine Kiste „Dämonen“ stolperte. Er bat mich, ihm zu helfen, die Dämonen aus ihm auszutreiben und ihn wieder zu dem zu machen, was er zuvor war.Ich muss einen Sachkundigen finden, – vielleicht ein Arzt – der ihm helfen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Skoura konnte die Dämonen - die Nanogeister, die Erritis plagen - identifizieren. Sie sind das Publikum, erschaffen durch die Paragone und die Kathartischen. Ich muss darüber mit Erritis' Reflexion sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Erritis viel stärker gemacht, auch wenn er dadurch früher sterben könnte. Wenn man bedenkt, wie sehr er das Abenteuer liebt, wäre das früher oder später wohl ohnehin eingetreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe die Nanogeister davon überzeugt, Erritis die Chance zu geben, seinen eigenen Weg zu gehen, anstatt ihn in seine Zerstörung zu treiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich war gezwungen, das Tal zu verlassen, bevor ich herausfinden konnte, was Erritis belastet. Ich bin mir sicher, dass es nichts wichtiges war, so wie ich ihn kenne. Jetzt scheint es ihm besser zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Als ich die Stille durch die Aktivierung der Resonanzkammer betreten habe, hat es die Stille wohl stärker beeinflusst, als ich dachte. Ich und meine Begleitung wurden nicht einfach nur in sie hineingezogen. Erritis' Reflexion ist fort, und ich bezweifle, dass er zurückkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Man hat mir gesagt, dass ich mit den Doktoren in den Cheirurg-Fällen der Flor sprechen soll, um mich über Erritis' Zustand zu erkundigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Man hat mir gesagt, dass ich eine mir bisher unbekannte Frau im Alten Sklavenviertel finden soll, die eine Expertin in Sachen Nano-Dämonen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Skoura hat mir erzählt, dass sie Erritis helfen könne, wenn ich ihn zu ihr bringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

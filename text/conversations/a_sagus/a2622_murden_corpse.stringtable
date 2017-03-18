@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2622_murden_corpse</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese Murde ist seit mindestens zwei Tagen tot. Der untere Teil ihres Körpers fehlt und ihre Körpermitte wurde aufgerissen, um an die Eingeweide ranzukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der geschundene Körper der Murde stinkt noch schlimmer als sonst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>""
+{GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</DefaultText>
+      <FemaleText>""
+{GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Untersuche die Leiche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Leiche erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Lasst die Leiche in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>""
+{GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</DefaultText>
+      <FemaleText>""
+{GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>""
+{SCRIPT: PC gets Insane Descriptor}</DefaultText>
+      <FemaleText>""
+{SCRIPT: PC gets Insane Descriptor}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>""
+{GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</DefaultText>
+      <FemaleText>""
+{GAVIN: Gating this with SHOULD NOT PLAY until faction stuff goes in.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Verbrennungen sind überall auf den schmutzigen lederartigen Roben der Kreatur zu sehen. Als du sie vorsichtig beiseite hebst, siehst du die nicht verheilten Wunden darunter. Die Murde wurde vermutlich mit einer Strahlungswaffe getötet … und keine der anderen Murden trug eine bei sich. 
+
+Das erklärt nicht die *anderen* Wunden an der Leiche. Fleisch wurde in langen Streifen aus der Kreatur gerissen … und da die Murde mit ihren Begleitern in dieser Vorkammer gefangen war, kann man sich vorstellen, was als Nächstes passierte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Das bestätigt deine frühere Feststellung - die Murde wurde mit einer Strahlungswaffe getötet und anschließend von ihren Kameraden gefressen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

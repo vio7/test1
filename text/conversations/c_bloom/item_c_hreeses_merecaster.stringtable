@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c_hreeses_merecaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du nimmst den Lebensbildbetrachter und hältst ihn hoch. 
+
+Sofort überkommt dich ein saurer Durst, namenlos und hartnäckig. Deine Hände zittern. Deine Kehle ist ausgedörrt, vertrockneter als sonnengebleichte Steine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du holst den Lebensbildbetrachter aus deiner Tasche und der nagende, beharrliche Durst seines früheren Besitzers zerrt an dir, kratzt an deiner Haut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Das Lebensbild betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Lebensbildbetrachter weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Den Lebensbildbetrachter untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Unter dem Durst hörst du ein Flüstern von Gedanken – gefangen nicht im Gerät selbst, sondern im Labyrinth der Sucht, das sorgfältig in den Hohlräumen des Lebensbildbetrachters geformt wurde. 
+
+"Ein Getränk nur. Ein Schluck wird mir beim Denken helfen. Warum leiden? Warum soll ich nicht haben, was ich will? Ich will das. Ich habe es *verdient*."
+
+Du nimmst eine Hand von dem Gerät weg und die Gedanken verklingen in einem gereizten Murren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der Zug des Lebensbildes in diesem Gerät schneidet wie ein poliertes, glänzendes Messer durch das elende Verlangen, das deine Kehle gepackt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

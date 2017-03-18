@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\items\item_gauntletofmurder</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dieser pechschwarze metallene Handschuh glitzert wie die Sterne am Nachthimmel. Von seiner Oberfläche geht ein Summen aus.
+
+Als du das Metall berührst, schießen Bilder durch deinen Geist – zu schnell, um etwas zu erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Den Metallhandschuh anziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Den Metallhandschuh erneut anziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Den Metallhandschuh untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Den Metallhandschuh erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der Handschuh ist nicht aus Eisen oder Stahl sondern einem auf der Neunten Welt unbekannten Metall gefertigt.
+
+Davon abgesehen sieht er ganz normal aus. Auf der Innenseite bemerkst du eine Kruste getrockneten Blutes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der Fehdehandschuh ist aus einem Metall gefertigt, das auf der Neunten Welt unbekannt ist. Auf der Innenseite ist eine Kruste getrockneten Blutes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Als du den Handschuh überziehst, beißt er sich an deinem Arm fest. Es fühlt sich an, als würden eine Million Rasierklingen über deinen Arm fahren, erst die Haut abtrennen, dann die Muskeln, dann die Knochen zerschneiden. Du wirst ohnmächtig vor Schmerzen.
+
+Als du wieder aufwachst, liegt der Fehdehandschuh am Boden und deine Hand ist wieder zurückgewachsen. Es scheint, als wären deine regenerativen Fähigkeiten größer als der Hunger des Fehdehandschuhs.
+
+Nichtsdestotrotz spürst du etwas von der Kraft des Handschuhs in deiner neu gewachsenen Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Seltsamerweise passiert nichts, als du den Metallhandschuh diesmal überstreifst. Warum auch immer, aber er hat kein Interesse an deiner neu gewachsenen Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Es sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Genau auf die Bilder achten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Erneut auf die Bilder achten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du legst die Hand erneut auf den Handschuh und konzentrierst dich auf die Bilder, die er dir gibt. Sie ziehen schnell vorüber – nichts als vage Impressionen seiner früheren Träger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Es sind dieselben Bilder wie zuvor – nichts als vage Impressionen seiner früheren Träger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Alle, die diesen Handschuh tragen, werden von plötzlichen unerträglichen Schmerzen überwältigt, wenn der Handschuh die Hand verzehrt und ihren Platz einnimmt. Manche Opfer können den Handschuh nicht mehr ablegen. Andere schaffen es, finden darunter jedoch nur mehr ein Armstumpf; wenn der Handschuhe über den Stumpf gezogen wird, krallt er sich wieder fest und funktioniert wie eine Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du erinnerst dich an eine Geschichte über einen Handschuh, der eine Rolle bei einer Reihe geheimnisvoller Morde gespielt hat. Alle Opfer wurden gesehen, wie sie einige Zeit lang einen einzelnen schwarzen Metallhandschuh trugen. Später wurden sie tot aufgefunden – erwürgt und mit nur mehr einer Hand. Eine Gruppe, die sich der Gott-Club oder so ähnlich nannte, war darin verwickelt.</DefaultText>
+      <FemaleText>​</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Der Handschuh war in eine Reihe geheimnisvoller Morde verwickelt. Alle Opfer wurden gesehen, wie sie einen Metallhandschuh trugen, und später tot und um eine Hand ärmer aufgefunden.
+
+Der Handschuh verzehrt und ersetzt die Hand seines Trägers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du siehst einen Schatten in der Dunkelheit, ein mit Widerhaken bestücktes Messer im Griff des Handschuhs, das auf sein Opfer niedergeht. Eine Frau streift den Handschuh über ... und schreit. Ein Varjellen kämpft gegen sieben Gegner, einen tödlichen Streitkolben im Handschuh schwingend – Augenblicke, bevor er stirbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Als du den Handschuh überziehst, beißt er sich an deinem Arm fest. Es fühlt sich an, als würden eine Million Rasierklingen über deinen Arm fahren, erst die Haut abtrennen, dann die Muskeln, dann die Knochen zerschneiden. Du wirst ohnmächtig vor Schmerzen.
+
+Als du spürst, wie das Labyrinth dich in seine Tiefen zieht, kribbelt der blutige Stumpf am Ende deines Arms und beginnt, nachzuwachsen. Kurz bevor dir schwarz vor Augen wird, spürst du noch einen Teil der Kräfte des Fehdehandschuhs in deiner sich regenerierenden Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_bericael</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich bin dir etwas schuldig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sie sagt nichts und schwingt nur selbstbewusst ihr Schwert und grinst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sie runzelt die Stirn. Sie kauert und ist bereit zum Angriff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Das ist der falsche Kampf, Bericael. Du setzt deine Fähigkeiten vergeblich ein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du? Aber ...?" Bevor sie ihren Satz beenden kann, schwindet sie. Du kannst ihre Anwesenheit an einem anderen Ort im Labyrinth spüren, aber der liegt außerhalb deiner Reichweite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Follow-up PQ. 3</DefaultText>
+      <FemaleText>Follow-up PQ. 3</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sie blinzelt zweimal. "Du. Das ... Das ist keine Festung."
+
+Sie braucht nur einen Moment, um die Szene um dich herum zu erfassen. "Du wirst Hilfe brauchen. Ich bin dabei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sie schüttelt den Kopf einmal. Sie zeigt keine Reaktion, außer die mit ihrem Schwert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Erinnere Bericael daran, was in Memoviras Festung passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Versuche noch einmal, Bericael daran zu erinnern, dass das nicht real ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Schlage Bericael kräftig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du schlägst sie so heftig, dass ihr Kopf zur Seite wegkippt. Sie dreht sich wieder um, in ihrem Gesicht ist die Wut zu sehen, aber das nur für einen kurzen Moment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Sie weicht nach hinten aus und entgeht so dem Schlag. "Ich kann nicht glauben, dass ich dich so nah ran ließ. Das wird nie wieder passieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Sie verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Bericael schwankt wegen der Kräfte der Gezeiten. Als es vorbei ist, schüttelt sie ihren Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

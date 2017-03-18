@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_stichus_door_examine_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ineinander verschlungene Ranken aus einem seltsamen Metall haben sich über die Öffnung in dem Felsen verknotet.</DefaultText>
+      <FemaleText>Ineinander verschlungene Ranken aus einem seltsamen Metall haben sich über die Öffnung in dem Felsen verknotet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die metallischen Ranken haben sich zurückgezogen. Ein anderer Tunnel eröffnet sich vor dir.</DefaultText>
+      <FemaleText>Die metallischen Ranken haben sich zurückgezogen. Ein anderer Tunnel eröffnet sich vor dir.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

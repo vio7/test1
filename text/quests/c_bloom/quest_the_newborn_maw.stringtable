@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_the_newborn_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Neugeborene Schlund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Öffne den Neugeborenen Schlund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Gar-Koto zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Bezahlt für deine Arbeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der Preis der Freiheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Finde heraus, was der Neugeborene Schlund fressen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Pro Bono</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Im Gefängnis war's besser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Durchschreite den Schlund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Endspiel betreten (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein neuer Schlund ist in Klein-Nihliesh erschienen. Gar-koto bietet der ersten Person, die den Schlund öffnet und ihm erzählt, was auf der anderen Seite liegt, eine Belohnung an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich habe erfahren, dass der neugeborene Schlund sich von Schuld nährt. Ich muss etwas oder jemanden finden, das oder der starke Schuldgefühle empfindet, und es oder ihn dem Schlund darbieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Auf der anderen Seite des Schlundes fand ich eine hochentwickelte, künstliche Struktur - eine Art Terminal oder Port. Die dortige Technologie lag weit jenseits dessen, was man in der Neunten Welt finden kann.  Ich sollte Gar-koto von meiner Entdeckung berichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Gar-koto zeigte sich enttäuscht darüber, dass der Schlund nicht in seine Heimatstadt Nihliesh führte, aber er hat mich trotzdem für meine Mühen entlohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Gar-koto zeigte sich enttäuscht darüber, dass der Schlund nicht in seine Heimatstadt Nihliesh führte. Als Belohnung für meine Mühen habe ich ihn gebeten, die Kriegerin Herja freizulassen, und er hat zögernd zugestimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Jeder Schlund nährt sich von etwas ganz bestimmten, und er öffnet sich nur dann, wenn er es bekommt. Wenn ich den neugeborenen Schlund öffnen will, muss ich herausfinden, auf was er Hunger hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Gar-koto zeigte sich enttäuscht darüber, dass der Schlund nicht in seine Heimatstadt Nihliesh führte, aber er wollte mich trotzdem für meine Mühen belohnen. Ich habe jede Belohnung abgelehnt, was ihn überrascht und ihm imponiert hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Gar-koto zeigte sich enttäuscht darüber, dass der Schlund nicht in seine Heimatstadt Nihliesh führte. Als Belohnung für meine Mühen habe ich ihn gebeten, die Kriegerin Herja in die Obhut des Dekantierten zu übergeben, und er hat zugestimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe den Schlund geöffnet, aber ich muss noch immer herausfinden, was auf der anderen Seite liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Ich habe keine Ahnung, wann oder ob ich in die Flor zurückkehren werde, also sieht es ganz danach aus, als müsste sich Gar-koto jemand anderes suchen, der die andere Seite des Schlundes für ihn erkundet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Zungen des Schlundes wurden zu Aligern hingezogen, der eine große Schuld zu empfinden scheint. Allerdings bezweifle ich, dass er sich dem Schlund hingeben wird, wenn ich ihn nicht davon überzeuge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Coty, der junge Sklave, den ich von Parsim Flint erworben habe, verspürt eine schreckliche Schuld angesichts des Todes seiner Schwester ... eventuell genug, um den Schlund zufrieden zu stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Herja, eine Kriegerin, die ich in Klein-Nihliesh getroffen habe, wurde gefangen genommen, weil sie versucht hat, eine ganze Gemeinschaft an Mutanten zu vergiften. Sie selbst behauptet, keine Schuldgefühle zu haben, aber wenn sie lügt, könnte der Schlund sich an ihrer Schuld nähren. Ich benötige Gar-kotos Erlaubnis, wenn ich das ausprobieren möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Die künstliche Intelligenz, die ich an Bord der abgestürzten Katena gefunden habe, wird von Schuldgefühlen geplagt, weil ihre Passagiere gestorben sind. Sie könnten ausreichen, um den Schlund zufrieden zu stellen ... wenn ich eine Möglichkeit finden kann, sie dorthin zu bekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Die Zungen des Schlundes wurden zu Aligern hingezogen. Vielleicht kann ich herausfinden, warum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Gar-koto hat mir die Erlaubnis erteilt, Herja freizulassen ... unter der Bedingung, dass sie sich dem Schlund hingibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Delny, die junge Mutantenfrau, die ich von Vrung befreit habe, ist eine Mentale mit starken empathischen Fähigkeiten. Sie könnte spüren, was der Schlund verlangt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_cliff_face</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine gewaltige Klippe erhebt sich über der Kante. Ihre Oberfläche ist rau und zerklüftet. Es gibt genug Haltegriffe, man könnte sie durchaus erklettern, aber einfach wird es nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Versuche, die Klippe hochzuklettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Versuche noch einmal, die Klippe hochzuklettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Das Aussehen der Klippe täuscht. Haltegriffe, die aussehen, als würden sie in deinen Händen zerbröckeln, stellen sich als  fest heraus, während stabil aussehende Vorsprünge wie Sand zerbröseln. Dank sorgfältiger Planung schaffst du es jedoch bis ganz nach oben.
+
+{SOUND: PC climbing, maybe a little extra wind whipping by him.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Das Klettern fällt dir leicht. Du bist schon halb oben, als plötzlich der Halt für deine beiden Füße gleichzeitig zerbröckelt. Du greifst in Panik nach einem vorstehenden Stein, aber der bricht sofort ab. Du landest mit einem abscheulichen *Schlag* auf dem darunter liegenden Vorsprung.
+
+Es hätte schlimmer kommen können. Positiv ist, dass du jetzt die Klippe besser einschätzen kannst und besseren Halt für deine Füße findest.
+
+{SOUND: PC climbing, then rocks crumbling and the impact of hitting the ledge a few meters below.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Dein Seil erleichtert das Klettern. Es ist, als könnte das Seil erkennen, welche Griffe fest sind und in diese beißt es sich, als hätte es Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ein Windhauch begrüßt dein Gesicht oben auf der Klippe.
+
+{SOUND: If there was wind SFX from node 5, then they should change here to be more open since the PC has reached the top.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Erneut fällt dir das Klettern leicht, bis ein Halt nachgibt und dich aus dem Gleichgewicht bringt. Du schlägst erneut mit deinem Kopf auf dem Vorsprung auf. Wenigstens war es nicht so schlimm wie beim ersten Mal.
+
+{SOUND: PC climbing, then rocks crumbling and the impact of hitting the ledge a few meters below. Same sound as node 6.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die gewaltige Klippe sieht von oben noch furchterregender aus, als sie es von unten tat. Der Vorsprung ganz unten sieht winzig aus, was durch die enorme Größe des Ozeans verstärkt wird, der 1.000 Meter weiter unten liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Versuche, die Klippe runterzuklettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Versuche noch einmal, die Klippe runterzuklettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Geh von der Kante weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Es bedarf großer Anstrengung, nicht nach unten zu sehen. Du schaffst es, die Klippe Halt für Halt zu meistern. Bevor du es weißt, bist du auf dem Vorsprung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du senkst dich vom Vorsprung ab und beginnst mit dem steilen Abstieg. Als du nachsehen willst, wie weit es noch ist, überkommt dich plötzlich ein Schwindelgefühl. Der Ozean und der Vorsprung unter dir schwingen vor und zurück. Ehe du dich versiehst rutscht deine Hand am Halt ab.
+
+Nach einem kurzen Fall, knallst du mit dem Schädel auf dem Vorsprung auf. Wenigstens bist du unten angekommen.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Script Nodus 19</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Dein Begleiter folgt dem Weg, den du für ihn markiert hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Deine Begleiter folgen dem Weg, den du für sie markiert hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du schlägst schmerzhaft auf dem Vorsprung auf. Wenigstens hast du es nach unten geschafft.
+
+{DAMAGE}</DefaultText>
+      <FemaleText>Du schlägst schmerzhaft auf dem Vorsprung auf. Wenigstens hast du es nach unten geschafft.
+
+{DAMAGE}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Spring auf den Felsvorsprung herunter.</DefaultText>
+      <FemaleText>Spring auf den Felsvorsprung herunter.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_melmoth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>149</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Deine Augen werden an die zerfetzten Lederroben und die Fülle an Tuben gelockt, die diesen Mann verdrahten. Er ist bleich, mit stechenden Augen und einer grässliche, schartigen Narbe auf seinem Gesicht. Er könnte gutaussehend sein, aber Jahrhunderte der Vernachlässigung haben sein Aussehen verwüstet.</DefaultText>
+      <FemaleText>Deine Augen werden an die zerfetzten Lederroben und die Fülle an Tuben gelockt, die diesen Mann verdrahten. Er ist bleich, mit stechenden Augen und einer grässliche, schartigen Narbe auf seinem Gesicht. Er könnte gutaussehend sein, aber Jahrhunderte der Vernachlässigung haben sein Aussehen verwüstet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Oh, wunderbar, du bist zurückgekehrt, um mich erneut zu quälen.“</DefaultText>
+      <FemaleText>"Oh, wunderbar, du bist zurückgekehrt, um mich erneut zu quälen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Mit all deinem angesammelten Wissen musst du eine einzigartige Anschauung der Endlosen Schlacht haben.“</DefaultText>
+      <FemaleText>"Mit all deinem angesammelten Wissen musst du eine einzigartige Anschauung der Endlosen Schlacht haben.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Erzähl mir von dir."</DefaultText>
+      <FemaleText>"Erzähl mir von dir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Deine Augen werden an die zerfetzten Lederroben und die Fülle an Tuben gelockt, die diesen Mann verdrahten. Er ist bleich, mit stechenden Augen und einer grässliche, schartigen Narbe auf seinem Gesicht. Er könnte gutaussehend sein, aber Jahrhunderte der Vernachlässigung haben sein Aussehen verwüstet.
+
+"Du hast dich entschieden, auf dem Pfad des Dendra zu laufen, dem Pfad, den ich legte? Ich lobe dich. Die Geheimnisse der Lebenden werden deine sein, und jene, die feindlich stehen - ja, sie werden schon bald genug tot sein, und du wirst ihre Leben absorbieren. Nichts von ihrem Wissen wird verloren gehen. Du bewahrst Geschichte, Junge.“</DefaultText>
+      <FemaleText>Deine Augen werden an die zerfetzten Lederroben und die Fülle an Tuben gelockt, die diesen Mann verdrahten. Er ist bleich, mit stechenden Augen und einer grässliche, schartigen Narbe auf seinem Gesicht. Er könnte gutaussehend sein, aber Jahrhunderte der Vernachlässigung haben sein Aussehen verwüstet.
+
+"Du hast dich entschieden, auf dem Pfad des Dendra zu laufen, dem Pfad, den ich legte? Ich lobe dich. Die Geheimnisse der Lebenden werden deine sein, und jene, die feindlich stehen - ja, sie werden schon bald genug tot sein, und du wirst ihre Leben absorbieren. Nichts von ihrem Wissen wird verloren gehen. Du bewahrst Geschichte, Junge.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Eine Verschwendung des Lebens und eine verbrecherische Verschwendung von Wissen. Die Waffen, die entladen werden, sind uns für immer verloren. Jedes Leben, das zu Ende geht, ist eine Erfahrung, die in die Nebel der Ewigkeit verschwindet, weggefallen, vergessen, um nie wieder gesehen zu werden.“
+
+Er neigt sich näher. "Unser Erzeuger ersuchte es, dem Tod zu entkommen und solche Verschwendung *aufzuhalten*. Es ist jenseits meines Denkens, warum er zulassen würde, dass die Endlose Schlacht weiterschreitet.“</DefaultText>
+      <FemaleText>"Eine Verschwendung des Lebens und eine verbrecherische Verschwendung von Wissen. Die Waffen, die entladen werden, sind uns für immer verloren. Jedes Leben, das zu Ende geht, ist eine Erfahrung, die in die Nebel der Ewigkeit verschwindet, weggefallen, vergessen, um nie wieder gesehen zu werden.“
+
+Er neigt sich näher. "Unser Erzeuger ersuchte es, dem Tod zu entkommen und solche Verschwendung *aufzuhalten*. Es ist jenseits meines Denkens, warum er zulassen würde, dass die Endlose Schlacht weiterschreitet.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Aadiriis denkt, dass eine Gezeitenwelle bei meiner Geburt für eine verheerende Auseinandersetzung zwischen zwei Menschen verantwortlich ist.“</DefaultText>
+      <FemaleText>"Aadiriis denkt, dass eine Gezeitenwelle bei meiner Geburt für eine verheerende Auseinandersetzung zwischen zwei Menschen verantwortlich ist.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Das ist durchaus möglich. Die Gezeiten sind eine psychische Kraft, und wenn wir... geboren werden, schnappen unsere Verstande in eine bestimme Form und zwingen den Rückstand heraus. Ein ungeschützter Verstand, der in der Nähe ist, wird etwas von dieser Energie absorbieren und auf einer unvorhersehbaren Weise reagieren. Aber was ist schon dabei? Ändert das etwas an deinem Leben? Zwei Sterbliche hatten einen Streit, oh nein. Schluchz-schluchz.“</DefaultText>
+      <FemaleText>"Das ist durchaus möglich. Die Gezeiten sind eine psychische Kraft, und wenn wir... geboren werden, schnappen unsere Verstande in eine bestimme Form und zwingen den Rückstand heraus. Ein ungeschützter Verstand, der in der Nähe ist, wird etwas von dieser Energie absorbieren und auf einer unvorhersehbaren Weise reagieren. Aber was ist schon dabei? Ändert das etwas an deinem Leben? Zwei Sterbliche hatten einen Streit, oh nein. Schluchz-schluchz.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Sie sagte wahrscheinlich, dass wir durch unsere Existenz Schmerz bringen. Lass mich dich aufklären. *Jeder* bringt Anderen Schmerz. Ich habe so viele Leben in Erinnerungen erlebt und eine der roten Fäden in allen von ihnen ist Schmerz. Schaden wir anderen Leuten? Das tun wir. Aber inwiefern unterscheiden wir uns in dieser Hinsicht von einem Sterblichen? Zeige mit jemanden ohne Schmerz und ich zeige dir eine Leiche.“
+
+Er zwinkert. "Und dann esse ich sie.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Und warum tu ich das, denkst du? Lass es mich dir sagen, da du so offenbar fragen wolltest. Es ist, weil der... der Wandelnde *Mann* dachte, dass die Gezeiten wichtig wären. Er nutzte die Gezeiten, um uns zu formen.“
+
+"Willst du mehr darüber wissen, wie du erschaffen worden bist? Ich wollte das, also untersuchte ich die Gezeiten. Der Grund dafür ist, dass ich kein Idiot bin, nicht so, wie so viele unserer Geschwister.“</DefaultText>
+      <FemaleText>"Und warum tu ich das, denkst du? Lass es mich dir sagen, da du so offenbar fragen wolltest. Es ist, weil der... der Wandelnde *Mann* dachte, dass die Gezeiten wichtig wären. Er nutzte die Gezeiten, um uns zu formen.“
+
+"Willst du mehr darüber wissen, wie du erschaffen worden bist? Ich wollte das, also untersuchte ich die Gezeiten. Der Grund dafür ist, dass ich kein Idiot bin, nicht so, wie so viele unserer Geschwister.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Er schaut dich abwägend an, und du spürst eine Welle der Abscheu, als seine Aura dich überwältigt.
+
+"Du bist schwach. Du weißt über die Gezeiten, aber du *benutzt* sie nicht. Zumindest benutzt du sie nicht gut. Und das solltest du. Hör nicht auf Aadiriis - mach dir die Werkzeuge zunutze, die dir zur Verfügung stehen.“ Er grinst anzüglich. "Sei wie ich. Ich werde dich lehren.“</DefaultText>
+      <FemaleText>Er schaut dich abwägend an, und du spürst eine Welle der Abscheu, als seine Aura dich überwältigt.
+
+"Du bist schwach. Du weißt über die Gezeiten, aber du *benutzt* sie nicht. Zumindest benutzt du sie nicht gut. Und das solltest du. Hör nicht auf Aadiriis - mach dir die Werkzeuge zunutze, die dir zur Verfügung stehen.“ Er grinst anzüglich. "Sei wie ich. Ich werde dich lehren.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Du bist ein Leichen-Esser. Du solltest meinen Namen kennen. Ich bin Melmoth Leviarm. Ich bin der Urheber der Dendra O'hur, dem größten - oder zumindest innovativsten - der Bruderschaften, die es ersuchen, das Wissen von einer Generation zur nächsten weiter zu reichen.“</DefaultText>
+      <FemaleText>"Du bist ein Leichen-Esser. Du solltest meinen Namen kennen. Ich bin Melmoth Leviarm. Ich bin der Urheber der Dendra O'hur, dem größten - oder zumindest innovativsten - der Bruderschaften, die es ersuchen, das Wissen von einer Generation zur nächsten weiter zu reichen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Was weißt du über die anderen Verstoßenen, die hier sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Lasst uns nochmal über die anderen Verstoßenen hier sprechen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Iss nichts, was ich nicht auch essen würde.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich suche Mazzof."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ihn? Diesen nutzlosen Pfuscher? Warum?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Er sieht deine Gefährtin und faucht. "*Matkina*.“</DefaultText>
+      <FemaleText>Er sieht deine Gefährtin und faucht. "*Matkina*.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ihre Stimme ist tonlos und bemessen. "Melmoth. Weißt du, ich habe mich schon immer gefragt... wenn du sterben würdest, würden deine Anhänger *dich* aufessen? Yollen, zum Beispiel. Wie erwies sich das?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Er betrachtet dich genau und krächzt, "Also bist du der neue Verstoßene, was? Kommst, um mich nach meinen Dendra O'hur zu fragen? Oder hast du irgendeinen anderen Trick, den du mir zeigen willst?“
+
+Er winkt gereizt mit der Hand. "Schon gut. Du hast Fragen für Melmoth. Welche?“</DefaultText>
+      <FemaleText>Er betrachtet dich genau und krächzt, "Also bist du die neue Verstoßene, was? Kommst, um mich nach meinen Dendra O'hur zu fragen? Oder hast du irgendeinen anderen Trick, den du mir zeigen willst?“
+
+Er winkt gereizt mit der Hand. "Schon gut. Du hast Fragen für Melmoth. Welche?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"So viele Leute schrecken wegen meines Aussehens vor mir zurück. Oder meiner Redeweise. Aber lass mich dir sagen, dass ich zahllose Leben in diesem Körper gelebt habe, endlose Welten gesehen habe, Erinnerungen erlebt habe, die niemand vollkommen zu beschreiben vermag. Ich beinhalte Welten, und Fremde beurteilen mich nach meinem Aussehen? Manchmal frage ich mich, für *wen* ich dieses Wissen speichere.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Sein schiefes Lächeln scheint eher wie eine Grimasse. "Ich bin Melmoth Leviarm. Ich bin der Urheber der Dendra O'hur, dem größten - oder zumindest innovativsten - der Bruderschaften, die es ersuchen, das Wissen von einer Generation zur nächsten weiter zu reichen.“</DefaultText>
+      <FemaleText>Sein schiefes Lächeln scheint eher wie eine Grimasse. "Ich bin Melmoth Leviarm. Ich bin der Urheber der Dendra O'hur, dem größten - oder zumindest innovativsten - der Bruderschaften, die es ersuchen, das Wissen von einer Generation zur nächsten weiter zu reichen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Sie nennen uns die Esser der Toten. Wir entnehmen ihrem schwindenden Leibern das Wissen. Jedes Leben flimmert und stirbt und wenn Wissen erlischt, verdunkelt das die Welt. Der Regen des Todes spült Erfahrung weg. Ich will verwahren. Jeder der Dendra ist eine Bibliothek aus Erfahrungen.“
+
+Ein wildes Grinsen zuckt an seinem Mund und verschwindet. "Jedes Leben, das verschwindet, ist ein Verlust. Jede Person, die lebt, hat eine Geschichte. Die geheimen Schlüssel der Geschichte verstecken sich dort. Ich will Wahrheit. Ich will Aufdeckung. Ich will, dass das Wissen *lebt*.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Der Tod ist eine Verschwendung der Geschichte. Wir essen die Toten damit wir uns an die Lehren der Zeit erinnern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Er grinst anzüglich mit einem abstoßenden Lächeln. "Sie sind Idioten und Narren. Sie denken, dass ihre Schilde sie für immer von dem Kummer beschützen kann. Ich kam hierher, um etwas Forschung zurückzuholen, und jedes Mal, dass ich komme, denke ich daran, wieviel Wissen in ihren Verstanden und Körpern ist, und ich wünsche mir, dass sie endlich einfach sterben würden, damit ich Zugang zu ihren verschwendeten Erfahrungen bekommen kann.“
+
+Er kratzt eine kleine infizierte Wunde an seiner Hand. "Andererseits sind die das Nächste, was ich an Ebenbürtigen hätte. Götter, was sagt das über mich aus?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Lasst uns das nicht. Sie langweilen mich.“</DefaultText>
+      <FemaleText>"Lasst uns das nicht. Sie langweilen mich.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ich brauche ihn, um eine Resonanzkammer zu reparieren.“</DefaultText>
+      <FemaleText>"Ich brauche ihn, um eine Resonanzkammer zu reparieren.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Das geht dich nichts an."</DefaultText>
+      <FemaleText>"Das geht dich nichts an."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ich habe einige Fragen an dich."</DefaultText>
+      <FemaleText>"Ich habe einige Fragen an dich."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Yollen! Ha! Das ist ein Name, den ich schon lang nicht mehr gehört habe. Dein alter Freund hinterließ eine nicht essbare Leiche - wahrscheinlich, um die Verbrechen zu verbergen, die du und er geplant hatten. Jetzt hör mal. Du warst langezeit weg und ich verstehe, dass deine Erinnerung nicht das ist, was sie einst war ...“ Er verstummt allmählich.
+
+"Habe ich geträumt, dass mir das jemand sagt? War es eine Vision? Bah, nicht wichitg. Was wollte ich sagen?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Etwas mit meinem Gedächtnis. Ein schneidender und witziger Kommentar zu meinen Kräften der Rückbesinnung, zweifellos.“</DefaultText>
+      <FemaleText>"Etwas mit meinem Gedächtnis. Ein schneidender und witziger Kommentar zu meinen Kräften der Rückbesinnung, zweifellos.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Seine einzige Antwort für sie ist ein langes und unangenehmes Hohngelächter. Er schaut dich an und spricht, "Du kehrst mit schlechter Gesellschaft, Geschwister. Verärgere sie und sie findet einen Weg, dich zu verunstalten. Auch, wenn sie kein anderes Zeichen auf der Welt lässt - wahrscheinlich - wird sie Schmerz hinterlassen. Es ist eine Art Unsterblichkeit... schätze ich.“
+
+Er bellt ein kurzes Lachen aus. "Verstoßenen-Humor. Du wirst es schon lernen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Er blickt auf Matkina ung fügt hinzu, "Auch wenn dudich entscheidest, mit... *ihr* zu reisen.“</DefaultText>
+      <FemaleText>Er blickt auf Matkina ung fügt hinzu, "Auch wenn dudich entscheidest, mit... *ihr* zu reisen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Dachtest du, dass du von den Toten zurückkommen kannst, weil du mit *Glück* geboren wurdest? Unsere Körper brauchen Gezeitenenergie. Trenne uns vin dieser Energie ab und wir lösen uns auf. Es ist, wie wir strukturiert sind, der Weg, wie unser Erzeuger uns erschaffen hat. Er erfand eine mentale ... *Matrix* ... und zwang sie auf die Körper, die er züchtete. Ich vermute, dass es diese Matrix ist, die ihm erlaubt, sein Bewusstsein zu übertragen - und der Gezeitenenergie erlaubt, unsere Formen zu durchdringen. Ohne sie ...“
+
+Er grinst und zieht seine Hände auseinander. "Platsch.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Er winkt der einen Finger zu. "Ich verschwende meine Zeit nicht, mich darüber zu beunruhigen. Das ist so wie sich um den Tod des Kosmos Sorgen zu machen. Er wird schon früher oder später eintreffen.“
+
+"Du willst eine Annahme? Hier ist eine Liste. Wegen unseres wahnsinnigen Schöpfers. Rache. Reine Sturheit. Vielleicht liebt er die Gezeiten. Oder er hasst sie. Könnte sein, dass er das hasst, was wir mit den Gezeiten machen. Aber wenn du zum Beispiel mit Aadiriis redest, dann wirst du herausstellen, dass sie ihre nie verwendet. Ich verwende meine die ganze Zeit. Dennoch würde der Kummer und beide vernichten.“</DefaultText>
+      <FemaleText>Er winkt der einen Finger zu. "Ich verschwende meine Zeit nicht, mich darüber zu beunruhigen. Wie als ob man sich um den Tod des Kosmos Sorgen macht. Er wird schon früher oder später eintreffen.“
+
+"Du willst eine Annahme? Hier ist eine Liste. Wegen unserem wahnsinnigen Schöpfer. Rache. Reine Sturheit. Vielleicht mag er die Gezeiten. Oder er hasst sie. Könnte sein, dass er das hasst, was wir mit den Gezeiten machen. Aber wenn du zum Beispiel mit Aadiriis redest, dann wirst du herausstellen, dass sie ihre nie verwendet. Ich verwende meine die ganze Zeit. Dennoch würde der Kummer und beide vernichten.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Aadiriis sagte mir, ich solle zu dir kommen, um mit dir über die Gezeiten zu reden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ich würde gerne nochmal mit dir über die Gezeiten reden.“</DefaultText>
+      <FemaleText>"Ich würde gerne nochmal mit dir über die Gezeiten reden.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Du wirst sicherlich niemanden finden, der besser mit Antworten auf diese Fragen ausgestattet ist. Die Gezeiten sind ein untrennbarar Teil von uns und - “ Er befestigt eine Klammer auf eine der Befestigungen an einer Tube.
+
+"Warte. *Sie* hat dich zu *mir* geschickt?“ Er schaut dich genau an. "Interessant. Jedes Mal, wenn ich von den Gezeiten rede, streitet sie mit mir... als ob sie einen Bruchteil der Zeit verbrachtet, die ich in die Untersuchung der Gezeiten gesteckt habe.“</DefaultText>
+      <FemaleText>"Du wirst sicherlich niemanden finden, der besser mit Antworten auf diese Fragen ausgestattet ist. Die Gezeiten sind ein untrennbarar Teil von uns und - “ Er befestigt eine Klammer auf eine der Befestigungen an einer Tube.
+
+"Warte. *Sie* hat dich zu *mir* geschickt?“ Er schaut dich genau an. "Interessant. Jedes Mal, wenn ich von den Gezeiten rede, streitet sie mit mir... als ob sie einen Bruchteil der Zeit verbrachtet, die ich in die Untersuchung der Gezeiten gesteckt habe.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Er schneidet eine Grimasse. "Frag los, wenn du es musst.“</DefaultText>
+      <FemaleText>Er schneidet eine Grimasse. "Frag los, wenn du es musst.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Wir sind unvollkommen. Gezeiten sickern durch uns durch. Oder wir absorbieren sie. Oder beides. Unsere Kräfte wirken auf die Verstande von anderen ein - auf ihr Nervensystem, wenn du das bevorzugst. Wir beziehen von ihnen Kraft. Wir *verändern* sie dabei, und normalerweise nicht zum Besseren. Das ist bedauerlich, aber unvermeidlich.“
+
+"Aadiriis mag gesagt haben, dass der Kummer uns verfolgt weil wir die Gezeiten *missbrauchen* oder so einen Unsinn. Aber wenn das der Fall ist, sind wir durch das Wesen unserer Existenz verurteilt. Wenn das wahr ist, warum sollte wir nicht die Kräfte benutzen, die wir haben?“</DefaultText>
+      <FemaleText>"Wir sind unvollkommen. Gezeiten sickern durch uns durch. Oder wir absorbieren sie. Oder beides. Unsere Kräfte wirken auf die Verstande von anderen ein - auf ihr Nervensystem, wenn du das bevorzugst. Wir beziehen von ihnen Kraft. Wir *verändern* sie dabei, und normalerweise nicht zum Besseren. Das ist bedauerlich, aber unvermeidlich.“
+
+"Aadiriis mag gesagt haben, dass der Kummer uns verfolgt weil wir die Gezeiten *missbrauchen* oder so einen Unsinn. Aber wenn das der Fall ist, sind wir durch das Wesen unserer Existenz verurteilt. Wenn das wahr ist, warum sollte wir nicht die Kräfte benutzen, die wir haben?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Woher weißt du so viel über die Gezeiten?"</DefaultText>
+      <FemaleText>"Woher wisst Ihr so viel über die Numenera?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Sag mir nochmal, woher du so viel über die Gezeiten weißt.“</DefaultText>
+      <FemaleText>"Sag mir nochmal, woher du so viel über die Gezeiten weißt.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Er seufzt erschöpft, hält seine knochige Hand hoch und faltet seine Finger während er aufzählt. "Erstens. Ich bin hunderte Jahre alt. Ich kann dieses Maß der Zeit widmen. Zweitens. Ich bin dem Wissen gewidmet. Drittens. Ich werde alles im Streben danach tun. Viertens. Ich erlernte es, Erinnerungen von toten Leuten zu beziehen. Fünftens. Ich suchte die Toten auf, die mich das Wissen über die Gezeiten lehren konnten.“ Er senkt seine Faust.
+
+"Folge dem Gedankengang. Am Ende findest du mich. Das ist, wie ich es weiß.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ich suche Wissen. Ich reise nicht durch das Land auf einer lächerlichen Reise. Ich mach mir die Mühe, das Wissen zu finden, es zu absorbieren. Das ist alles.“</DefaultText>
+      <FemaleText>"Ich suche Wissen. Ich reise nicht durch das Land auf einer lächerlichen Reise. Ich mach mir die Mühe, das Wissen zu finden, es zu absorbieren. Das ist alles.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Lass mich dich noch etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Das ist alles, was ich wollte. Lebt wohl."</DefaultText>
+      <FemaleText>"Das ist alles, was ich wollte. Lebt wohl."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Mm-hm."</DefaultText>
+      <FemaleText>"Mm-hm."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Er schielt dich an, dann gibt er nach. "Dich anzuknurren wird dich wohl nicht zum Weggehen bringen, schätze ich. Also frag los.“</DefaultText>
+      <FemaleText>Er schielt dich an, dann gibt er nach. "Dich anzuknurren wird dich wohl nicht zum Weggehen bringen, schätze ich. Also frag los.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Warum, denkst du, verfolgt uns der Kummer?“</DefaultText>
+      <FemaleText>"Warum, denkst du, verfolgt uns der Kummer?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Sag mir nochmal, warum du denkst, dass der Kummer uns verfolgt.“</DefaultText>
+      <FemaleText>"Sag mir nochmal, warum du denkst, dass der Kummer uns verfolgt.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Du sagtest mit, dass du mir beibringst, wie ich die Gezeiten effektiver einsetze? Wie?“</DefaultText>
+      <FemaleText>"Du sagtest mit, dass du mir beibringst, wie ich die Gezeiten effektiver einsetze? Wie?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Was meintest du, als du sagtest, dass die Gezeiten ein untrennbarer Teil von uns sind?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Sag mir nochmal, warum die Gezeiten uns ... äh... durchströmen.“
+
+{WORDPLAY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Was kannst du mir über die Dendra O'hur sagen?"</DefaultText>
+      <FemaleText>"Was kannst du mir über die Dendra O'hur sagen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Was kannst du mir nochmal von den Dendra O'hur erzähl?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Wegen dem, was sir sind. Es ist unbeschreiblich. Es hat keinen Sinn, es zu verstehen. Bloß... ignoriere es, wenn du es kannst. Aber bedenke, dass die Tiefen, in die du forschen musst, um Erfolg zu haben, na ja... Du hast vielleicht dann deine eigene Ladung Verstoßene, die deinen Namen verfluchen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Er richtet eine der Tuben an seiner Einrichtung. "Ich sorge mich mehr um die Tode der anderen, um wie ich mit etwas von ihrem Wissen aneignen könnte. Nicht von der Blutrache der Ersten, noch von dem Verlangen unseres Schöpfers, uns zu töten, noch bestimmt nicht von einem unaufhaltbaren Monster aus der Vergangenheit.“</DefaultText>
+      <FemaleText>Er richtet eine der Tuben an seiner Einrichtung. "Ich sorge mich mehr um die Tode der anderen, um wie ich mit etwas von ihrem Wissen aneignen könnte. Nicht von der Blutrache der Ersten, noch von dem Verlangen unseres Schöpfers, uns zu töten, noch bestimmt nicht von einem unaufhaltbaren Monster aus der Vergangenheit.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Konzentrier dich. Ich lehre dich, diese Kraft zu lenken, zu formen, von ihr zu beziehen.“
+
+Er rülpst, und eine dünne grüne Schicht bedeckt seinen Kinn, bevor er sie wegwischt. "Ähm. Die Gefahr, wenn man Gehirne isst... manchmal bekommt man einen Infizierten. Keine Sorge. Es wird sich in ein paar Tagen bereinigen. Verstoßenen-Zusammensetzung. Nun.“
+
+Er streichelt deine Wange mit einem langen Finger. Die Welt zittert um dich herum. "Du hast einen Lebensbildbetrachter gesehen, ja? Der Vorgang ist ähnlich, aber du konzentrierst dich auf *dich*.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Leere nicht deinen Verstand. Ein feiner Unterschied - *reinige* ihn. Spüre das Ebben und das Wirbeln der Gezeitenenergie. Schau auf deine Hand.“
+
+Während er spricht, wird deine Sicht unklar, von einer kaleidoskopischen Verworrenheit aus sich windenden, drehenden Farben genau über deine Haut ersetzt, mit einem Plan aus kräftigem, vaskulärem Leben.
+
+"Jetzt,“ flüstert Melmoth, "Stelle dir vor, diese Energie fließt in deine Hand.“
+
+Das tust du... und die Farben verschmelzen in deiner Handfläche.
+
+{AUDIO: Crystalline tinkling sound}</DefaultText>
+      <FemaleText>"Leere nicht deinen Verstand. Ein feiner Unterschied - *reinige* ihn. Spüre das Ebben und das Wirbeln der Gezeitenenergie. Schau auf deine Hand.“
+
+Während er spricht, wird deine Sicht unklar, von einer kaleidoskopischen Verworrenheit aus sich windenden, drehenden Farben genau über deine Haut ersetzt, mit einem Plan aus kräftigem, vaskulärem Leben.
+
+"Jetzt,“ flüstert Melmoth, "Stelle dir vor, diese Energie fließt in deine Hand.“
+
+Das tust du... und die Farben verschmelzen in deiner Handfläche.
+
+{AUDIO: Crystalline tinkling sound}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Gesehen? *Siehst* du? Die Gezeiten antworten dir. Sie sind ein Teil von dir und du kannst diese Kraft zu deinem Nutzen *verwenden*. Wenn du sie langsam nach außen drückst, kannst du sie um jemandes Verstand wickeln uns ihn zu deinem Willen beugen. Du kannst sie wie ein Blitz fokussieren, oder du kannst *explodieren*.“
+
+Er zieht seine Hand weg und deine Sicht wird wieder normal.
+
+"Aber du musst *üben*. Das Wissen ist dir angeboren. Es ist ein Teil deines Körpers. Jetzt hast du es gesehen, die Frage ist... wirst du es benutzen?“
+
+"Die Lenktion ist vorbei.“
+
+{AUDIO: End Crystalline tinkling}</DefaultText>
+      <FemaleText>"Gesehen? *Siehst* du? Die Gezeiten antworten dir. Sie sind ein Teil von dir und du kannst diese Kraft zu deinem Nutzen *verwenden*. Wenn du sie langsam nach außen drückst, kannst du sie um jemandes Verstand wickeln uns ihn zu deinem Willen beugen. Du kannst sie wie ein Blitz fokussieren, oder du kannst *explodieren*.“
+
+Er zieht seine Hand weg und deine Sicht wird wieder normal.
+
+"Aber du musst *üben*. Das Wissen ist dir angeboren. Es ist ein Teil deines Körpers. Jetzt hast du es gesehen, die Frage ist... wirst du es benutzen?“
+
+"Die Lenktion ist vorbei.“
+
+{AUDIO: End Crystalline tinkling}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Du sagtest, dass du mir beibringst, die Gezeiten effektiver zu benutzen? Tol hat mir das schon beigebracht.“</DefaultText>
+      <FemaleText>"Du sagtest, dass du mir beibringst, die Gezeiten effektiver zu benutzen? Tol hat mir das schon beigebracht.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Er spottet. "Würdest du lieber von einer lernen, die ihr ganzes unsterbliches Leben mit Sklaventreiben verbringt, oder von einem, der die Beschaffung von Wissen zu seinem Lebensziel gemacht hat?“
+
+Er rülpst plötzlich, und eine dünne grüne Schicht bedeckt seinen Kinn, bevor er sie wegwischt. "Ähm. Die Gefahr, wenn man Gehirne isst... manchmal bekommt man einen Infizierten. Keine Sorge. Es wird sich in ein paar Tagen bereinigen. Verstoßenen-Zusammensetzung. Nun.“
+
+Er streichelt deine Wange mit einem langen Finger. Die Welt zittert um dich herum. "Du hast einen Lebensbildbetrachter gesehen, ja? Der Vorgang ist ähnlich, aber du konzentrierst dich auf *dich*.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Was sind überhaupt die Gezeiten? Woher kommen sie?“</DefaultText>
+      <FemaleText>"Was sind überhaupt die Gezeiten? Woher kommen sie?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Kannst du mir etwas mehr über die Geschichte der Gezeiten erzählen?“</DefaultText>
+      <FemaleText>"Kannst du mir etwas mehr über die Geschichte der Gezeiten erzählen?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Aber wir haben den Vorteil, diese Kraft für unsere eigenen Zwecke zu verwenden. Er konstruierte jeden von uns nach anderen Vorbildern, und deswegen sind die Muster, die uns zusammenhalten, verschieden. Is es da noch verwunderlich, dass wir das zu Gezeitenwellen leiten können?“</DefaultText>
+      <FemaleText>"Aber wir haben den Vorteil, diese Kraft für unsere eigenen Zwecke zu verwenden. Er konstruierte jeden von uns nach anderen Vorbildern, und deswegen sind die Muster, die uns zusammenhalten, verschieden. Is es da noch verwunderlich, dass wir das zu Gezeitenwellen leiten können?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Weil wir keine Wahl haben. Wenn wir die Gezeiten aus unseren Körpern entfernen würdem, dann würde der Wandelnde... Ich kann nicht mal seinen Namen aussprechen. Unser Schöpfer wäre nicht dazu imstande, in diese Hüllen einzutreten. Entferne unsere Verbindung zu den Gezeiten und wir brechen auseinander.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Du weißt, dass es ein psychisches Energiefeld gibt. Sie durchdringen das größere Sagus-Protektorat. Aber die Stellen der Gezeitenaktivität sind in der Neunten Welt *lokal begrenzt*. Das deutet an, dass, obwohl sie eine natürliche Macht sind, sie künstlich hervorgerufen sind. Zivilisationen erhoben sich durch ihr Nutzen.“
+
+Er blickt finster drein. "Und Zivilisationen fielen.“</DefaultText>
+      <FemaleText>"Du weißt, dass es ein psychisches Energiefeld gibt. Sie durchdringen das größere Sagus-Protektorat. Aber die Stellen der Gezeitenaktivität sind in der Neunten Welt *lokal begrenzt*. Das deutet an, dass, obwohl sie eine natürliche Macht sind, sie künstlich hervorgerufen sind. Zivilisationen erhoben sich durch ihr Nutzen.“
+
+Er blickt finster drein. "Und Zivilisationen fielen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Vielleicht, wenn du meine Leiche isst, wenn ich tot bin, kannst du etwas von dem erfahren, was ich weiß. Das Wissen, das ich habe... zu viel für gesprochene Wörter.“</DefaultText>
+      <FemaleText>"Vielleicht, wenn du meine Leiche isst, wenn ich tot bin, kannst du etwas von dem erfahren, was ich weiß. Das Wissen, das ich habe... zu viel für gesprochene Wörter.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Er kratzt sich an der Nase. "Seltsame Sache. Ich versuchte es, the Berichte aus der Zeit zun entziffern, aber die Kreaturen, die sie verfasst haben, sind *komisch*. Der Kummer taucht in Bildern und Geräuschen und Spektren auf, die ich kaum verstehe.“
+
+Er klopft sich am Kopf. "Deswegen fand ich eine bessere Methode. Du bekommst die gelegentliche Krankheit, einen starker Verstand, der seine Erinnerungen nicht mit dir teilen will, aber jeder will, dass man sich an ihn erinnert. Sprich lang genug mit den Stimmen, dann bemerken sie, dass du ihr einziger wahrer Erbe bist.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Er türmt seine Finger, in Erwägung verloren. "Eine Resonanzkammer... Ich kenne diese Bezeichnung. Irgendwas mit... ihrer Zusammenstellung. Kristall. Ach! Die Einzelheiten entweichen mir. Aber Mazzof *wäre* der Richtige, um sie zu reparieren.“
+
+Er lacht leise. "Bloß schade, dass er nicht hier ist. Frag mal bei Aadiriis nach.“</DefaultText>
+      <FemaleText>Er türmt seine Finger, in Erwägung verloren. "Eine Resonanzkammer... Ich kenne diese Bezeichnung. Irgendwas mit... ihrer Zusammenstellung. Kristall. Ach! Die Einzelheiten entweichen mir. Aber Mazzof *wäre* der Richtige, um sie zu reparieren.“
+
+Er lacht leise. "Bloß schade, dass er nicht hier ist. Frag mal bei Aadiriis nach.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Er bellt ein Lachen aus. "Dann spekuliere ich mal. Er ist ein Maschinenmann, ein Reparierer zerbrochener Objekte und Zusammenbauer von neuen, und du musst wohl eine Reperatur brauchen. Oder ein neues Gerät.“
+
+Er hebt einen Finger. "Aber woher wusstest du, dass du nach Mazzof suchen sollst? Wer hätte dir sagen können -“</DefaultText>
+      <FemaleText>Er bellt ein Lachen aus. "Dann spekuliere ich mal. Er ist ein Maschinenmann, ein Reparierer zerbrochener Objekte und Zusammenbauer von neuen, und du musst wohl eine Reperatur brauchen. Oder ein neues Gerät.“
+
+Er hebt einen Finger. "Aber woher wusstest du, dass du nach Mazzof suchen sollst? Wer hätte dir sagen können -“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Das war ich.“</DefaultText>
+      <FemaleText>"Das war ich.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"... mein, Ich habe nicht genug wissen.“ Er grinst. "Aber ich finde es schon bald genug. Um deine Frage zu beantworten, Ich weiß nicht, wo Mazzof ist. Ich schlage vor, dass du Aadiriis fragst.“</DefaultText>
+      <FemaleText>"... mein, Ich habe nicht genug wissen.“ Er grinst. "Aber ich finde es schon bald genug. Um deine Frage zu beantworten, Ich weiß nicht, wo Mazzof ist. Ich schlage vor, dass du Aadiriis fragst.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Musst du meine Vermutung teilen, Matkina? Ich hatte gerade Spaß am Mysterium.“ Er wendet dich zu dir. "Um deine Frage zu beantworten, Ich weiß nicht, wo Mazzof ist. Ich schlage vor, dass du Aadiriis fragst.“</DefaultText>
+      <FemaleText>"Musst du meine Vermutung teilen, Matkina? Ich hatte gerade Spaß am Mysterium.“ Er wendet dich zu dir. "Um deine Frage zu beantworten, Ich weiß nicht, wo Mazzof ist. Ich schlage vor, dass du Aadiriis fragst.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Oh, ein Mysterium. Ich *liebe* Mysterien.“</DefaultText>
+      <FemaleText>"Oh, ein Mysterium. Ich *liebe* Mysterien.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Sie seufzt und richtet sich, als ob sie sich zum Kampf vorbereitet. "Ich habe mir schon von zwei Personen, die ich fast respektiere, vorschlagen lassen, dass ich jenen vergebe, die mich verraten haben.“ Sie zuckt ihren Finger zu dir. "Der hier und Aadiriis. Ich versuche es, ihrem Rat zu folgen.“</DefaultText>
+      <FemaleText>Sie seufzt und richtet sich, als ob sie sich zum Kampf vorbereitet. "Ich habe mir schon von zwei Personen, die ich fast respektiere, vorschlagen lassen, dass ich jenen vergebe, die mich verraten haben.“ Sie zuckt ihren Finger zu dir. "Die hier und Aadiriis. Ich versuche es, ihrem Rat zu folgen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Sie starrt Melmoth an und ihr Augen härten sich. "Ich vergesse nicht, Melmoth. Was du mir angetan hast, ist unverzeihlich.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Deine Taten waren verwerflich. Das bleiben sie auch. Alles, was dir passiert, geschiet aus guten Gründen.“
+
+Er knurrt dich an, "Sind wir jetzt fertig?“</DefaultText>
+      <FemaleText>"Deine Taten waren verwerflich. Das bleiben sie auch. Alles, was dir passiert, geschiet aus guten Gründen.“
+
+Er knurrt dich an, "Sind wir jetzt fertig?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"*Mir* vergeben? Matkina, du warst es, die unsere Partnerschaft ruiniert hat. Ich wollte deinen Ruf aufbauen. Ich lenkte dich zu hervorragenden Aufträgen. Ja, ich profitierte von deiner Arbeit, aber du profitiertest von meiner, oder etwa nicht? Wird dein Name verwendet, um Angst zu beschwören? Das ist das, wonach du mich gebeten hast, was ich geliefert habe, und du hast geantwortet, indem du meine Leute, meine Organisation, und *meinen* Ruf angegriffen hast. Fürwahr, du hattest so viel Erfolg, dass ich aus der Stadt fliehen musste! Du willst *mir* vergeben? Wie überaus edelmütig!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Aber... Yollen sagte -“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Yollen? Du meinst den, der mich ersetzt hat? Der jahrzehntelang die Kontrolle über meine Organisation annahm? Er benutzte dich, Matkina, und ich schätze, ich schulde dir eine Entschuldigung dafür, dass ich zuließ, dass du ihm vertraut hast. Aber du ... dein war der größere Verrat.“
+
+Er schnaubt. "Ach, schließe deinen Mund. Ich habe es von dir erwartet. Wenn dir so viel daran liegt, ja, ich verzeihe dir.“ Er wendet sich zu dir. "Was hältst du von dem Ganzen? Ist Verstoßenen-Drama nicht *wundervoll*?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Warum sollte dir Matkina jetzt Vertrauen schenken?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Wenn du ihr vergibst, warum bist du ihr gegenüber so ein Arsch?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Also seid ihr beide jetzt Freunde?“</DefaultText>
+      <FemaleText>"Also seid ihr beide jetzt Freunde?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Ich behandle sie kein bisschen anders als alle anderen. Sie hielt mir schon jahrelang einen Dolch zum Rücken, und wenigstens weiß ich jetzt, warum.“ Er zeichnet ihr ein kleines Verbeugen. "Wenn du doch nur, oh, ein Jahrhundert früher zu mir gekommen wärst, dann hätten wir dieses ganze Leid verhindert. Aber das Vergangene ist vergangen, und wir können es nicht ändern.“</DefaultText>
+      <FemaleText>"Ich behandle sie kein bisschen anders als alle anderen. Sie hielt mir schon jahrelang einen Dolch zum Rücken, und wenigstens weiß ich jetzt, warum.“ Er zeichnet ihr ein kleines Verbeugen. "Wenn du doch nur, oh, ein Jahrhundert früher zu mir gekommen wärst, dann hätten wir dieses ganze Leid verhindert. Aber das Vergangene ist vergangen, und wir können es nicht ändern.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Das hängt komplett von unserer Schwester ab. Lass mich das umformulieren - wenn sie beweisen kann, dass sie diese neuentdeckte Ehrlichkeit beibehalten kann, dann wäre ich willig, den Gedanken zu erwägen, sie als wieder Partnerin zu haben. Ansonsten sind das nur leere Worte.“</DefaultText>
+      <FemaleText>"Das hängt komplett von unserer Schwester ab. Lass mich das umformulieren - wenn sie beweisen kann, dass sie diese neuentdeckte Ehrlichkeit beibehalten kann, dann wäre ich willig, den Gedanken zu erwägen, sie als wieder Partnerin zu haben. Ansonsten sind das nur leere Worte.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Er scheint schockiert. "Vertrauen? Ich bitte sie nicht, zu vertrauen. Ich bitte sie, *nachzudenken*. Profierte ich von ihrem Niedergang? Das tat ich nicht. Bin ich ein blöder Mann? Antworte lieber nicht, aber... das bin ich nicht. Ich würde einer Attentäterin mit ihrem Können nicht hintergehen, nicht auf so einer ungeschickten Weise. Das wäre für uns beide eine Beleidigung.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Er neigt seinen Kopf etwas zu ihr. "Lasst uns von vorne beginnen. Vergangenheit ruhen lassen und das ganze. Wir werden weiterziehen.“</DefaultText>
+      <FemaleText>Er neigt seinen Kopf etwas zu ihr. "Lasst uns von vorne beginnen. Vergangenheit ruhen lassen und das ganze. Wir werden weiterziehen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Sie nickt scharf. "Abgemacht.“</DefaultText>
+      <FemaleText>Sie nickt scharf. "Abgemacht.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Sie schnauft und gibt dir einen bedeutungsvollen Blick, sagt aber nichts.</DefaultText>
+      <FemaleText>Sie schnauft und gibt dir einen bedeutungsvollen Blick, sagt aber nichts.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Na ja. Unser Wiedertreffen war ergiebig.“ Er wendet sich zurück zu dir. "Hast du weitere Fragen für mich oder werde ich jetzt endlich Frieden finden?“</DefaultText>
+      <FemaleText>"Na ja. Unser Wiedertreffen war ergiebig.“ Er wendet sich zurück zu dir. "Hast du weitere Fragen für mich oder werde ich jetzt endlich Frieden finden?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Halt. Bevor du gehst, habe ich etwas zu sagen. Ich weigere mich, einen Geschwister mit ungenutztem Potenzial auf dieser Welt zu streunen. Du bemerkst nicht den Schaden, den du anrichtest. Zweifellos ist *das* der Grund, warum Aadiriis dich zu mir geschickt hat, auch wenn sie es nie zugeben würde. Hör zu. Du wirst lernen, deine Gezeitenmacht zu nutzen.“</DefaultText>
+      <FemaleText>"Halt. Bevor du gehst, habe ich etwas zu sagen. Ich weigere mich, einen Geschwister mit ungenutztem Potenzial auf dieser Welt zu streunen. Du bemerkst nicht den Schaden, den du anrichtest. Zweifellos ist *das* der Grund, warum Aadiriis dich zu mir geschickt hat, auch wenn sie es nie zugeben würde. Hör zu. Du wirst lernen, deine Gezeitenmacht zu nutzen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Lady Anshe sagt mir, dass du den Reliquienschrein berührt hast. Ich würde lachen, wenn ich nicht selber das Gleiche gemacht hätte.“</DefaultText>
+      <FemaleText>"Lady Anshe sagt mir, dass du den Reliquienschrein berührt hast. Ich würde lachen, wenn ich nicht selber das Gleiche gemacht hätte.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Der Reliquienschrein... Was ist mit mir passiert?“</DefaultText>
+      <FemaleText>"Der Reliquienschrein... Was ist mit mir passiert?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"*Neugier* ist mit dir passiert.“ Er klatscht dir hart auf die Schulter. "Das weiß niemand. Ich würde so weit gehen zu sagen, dass es eine Art defensiver Mechanismus ist, der neugierige Nasen davon abhalten soll, damit herumzuhantieren. Aber ich habe genau nichts aus meinen Untersuchungen gelernt, also bekommst du von mir nur nutzlose Spekulation.“</DefaultText>
+      <FemaleText>"*Neugier* ist mit dir passiert.“ Er klatscht dir hart auf die Schulter. "Das weiß niemand. Ich würde so weit gehen zu sagen, dass es eine Art defensiver Mechanismus ist, der neugierige Nasen davon abhalten soll, damit herumzuhantieren. Aber ich habe genau nichts aus meinen Untersuchungen gelernt, also bekommst du von mir nur nutzlose Spekulation.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Du lernst langsam, wie ich sehe.“</DefaultText>
+      <FemaleText>"Du lernst langsam, wie ich sehe.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Matkina redet immer davon, wie du sie hintergangen bist. Was ist zwischen euch zweien geschehen?“</DefaultText>
+      <FemaleText>"Matkina redet immer davon, wie du sie hintergangen bist. Was ist zwischen euch zweien geschehen?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Er starrt dich einen Moment lang an. "Warum bringst du alte Erinnerungen auf? Welchen Unterschied macht das *jetzt*?“
+
+Er schaut Matkina an und zuckt mit den Schultern. "Sie hat mich verraten, so, wie sie es mit den Meisten ihrer Art tut. Aber in meinem Fall hat sie die Frechheit, *mich* des Verrates zu beschuldigen.“
+
+Er hält ihr schnell seine Hand hoch. "Oh, lass diese Klingen in deinen Ärmeln. Ich habe es, so gut wie es ging, hinter mir gelassen, wie du es auch solltest. Vergiss es.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Er wendet sich zu Callistege. "Deinem Gesichtsausdruck nach zu urteilen schätze ich, dass du einer dieser Menschen warst.“ Er blickt anzüglich. "Keine Sorge. Es wäre so oder so passiert. Alles, was die Welle getan hat, war es, deine natürlichen Schutzmechanismen zu überwältigen und dich schneller zur Entscheidung zu bringen.“
+
+Er starrt sie etwas intensiver an. "Sieht aus, als hättest du schon viel Erfahrung damit, unüberlegte Entscheidungen zu treffen. Wenn du dich weiter in Sachen hineinwirfst, dann solltest du wirklich deine Schutzmechanismen verbessern. Sei vorbereitet.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Jetzt gibt mir ein Leichenesser Ratschläge? Meinen Dank, aber ich halte meinen eigenen Rat.“</DefaultText>
+      <FemaleText>"Jetzt gibt mir ein Leichenesser Ratschläge? Meinen Dank, aber ich halte meinen eigenen Rat.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Er lächelt glückselig. "Ja genau, verwirf den Rat des Mannes, der Jahrhunderte alt ist und das Wissen von unzähligen Lebenszeiten hat. Das ist die beste Entscheidung, die du heute getroffen hast, da bin ich mir sicher.“
+
+Er krümmt dir eine Augenbraue zu. "Dies ist ein Grund, warum die meisten uns nicht mehr mit Sterblichen verkehren, außer, wenn wir es müssen. Wir haben so gute Ratschläge für sie und sie ignorieren sie immer.“</DefaultText>
+      <FemaleText>Er lächlet glückselig. "Ja genau, verwerfe den Rat des Mannes, der Jahrhunderte alt ist und das Wissen von unzähligen Lebenszeiten hat. Das ist die beste Entscheidung, die du heute getroffen hast, da bin ich mir sicher.“
+
+Er krümmt dir eine Augenbraue zu. "Dies ist ein Grund, warum die meisten uns nicht mehr mit Sterblichen verkehren, außer, wenn wir es müssen. Wir haben so gute Ratschläge für sie und sie ignorieren sie immer.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

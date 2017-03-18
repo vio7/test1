@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_on_the_builders_trail</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Auf der Spur des Erbauers</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ersuche Durchlass zum Tal der Toten Helden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde das Grab der Ersten Verstoßenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Endlich nach Miel Avest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ersuche Durchlass zum Tal der Toten Helden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Öffne das Portal nach Miel Avest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe erfahren, dass es ein Verstoßener namens Mazzof, ein talentierter Baumeister und Handwerker war, der beim Bau der Resonanzkammer geholfen hat. Ich hoffe, ihn in Miel Avest zu finden, einer Art Zufluchtsstätte für meine verstoßenen 'Geschwister'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Miel Avest ist vor neugierigen Augen verborgen. Er ist nur durch das Grab der Erstan Abgeworfenen im Tal der Toten Helden zugänglich.Ich kann ein Luftschiff in Karawanserai anwerben, der mich zum Tal bringt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich bin im Tal der Toten Helden angekommen. Nun muss ich nur noch das Grab der Ersten Verstoßenen finden, in dem sich der Durchgang nach Miel Avest befinden soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Als ich das Grab der Ersten Verstoßenen öffnete, ist ein Portal erschienen, das mich nach Miel Avest gebracht hat. Scheint, dass das 'Grab' gar keine richtige Grabstätte war. Hoffentlich ist Mazzof hier irgendwo in Miel Avest und hoffentlich weiß er auch noch, wie man die Resonanzkammer repariert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Satsada hat mir verraten, dass die Zufluchtsstätte vor neugierigen Blicken verborgen ist und nur vom Grab der Ersten Verstoßenen im Tal der Toten Helden aus erreicht werden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe das Grab der Ersten Verstoßenen gefunden, doch das Portal nach Miel Avest ist verschlossen. Wenn ich weiterkommen will, muss ich einen Weg finden, um es wieder zu aktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Nachdem ich mich nun um den "Luftschiffdieb" gekümmert habe, hat Meister Rennio den Flugbetrieb in das Tal wieder aufgenommen. Wenn ich bereit bin, Sagus Klippen zu verlassen, sollte ich ihn um eine Überfahrt auf seinem Schiff bitten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Meister Rennio hat ein Luftschiff, mit dem er mich in das Tal bringen kann. Leider wurde sein anderes Luftschiff gestohlen und er weigert sich, irgendwohin zu fliegen, solange der Dieb auf freiem Fuß ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Das Grab liegt irgendwo im weitläufigen Untergrund unter dem Tal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Meister Rennio hat ein Luftschiff, das mich gegen eine stattliche Zahlungs ins Tal der Toten Helden bringen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Rennio weigert sich, Erritis irgendwohin zu fliegen, solange seine Schulden nicht beglichen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe eine Verstoßene namens Bericael getroffen. Sie sagt, die Verstoßenen haben Miel Avest abgeriegelt, sodass niemand mehr hineinkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Bericael hatte recht. Hier war definitiv mal ein Portal, aber nun ist es geschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Die Verstoßenen auf der anderen Seite haben das Portal aus irgendeinem Grund geschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

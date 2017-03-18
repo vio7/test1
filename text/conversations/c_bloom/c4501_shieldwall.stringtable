@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_shieldwall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Synth-Pfeiler auf beiden Seiten der Treppe erzeugen ein zischendes Energiefeld, das dir den Weg versperrt. Du musst eine Möglichkeit finden, um es zu deaktivieren, wenn du die Treppe hoch willst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lass die Pfeiler in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du wirfst dich mit Schwung gegen die Wand und sie verbiegt sich vor dir. Deine Füße suchen Halt auf der Treppe und bevor die Energiewand wieder zurückfedern kann, schiebst du erneut dagegen. Die Wand flackert und setzt aus und du stolperst hindurch.
+
+Der Weg ist frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Das Feld absorbiert deine Energie und wirft sie auf dich zurück. Der Stoß lässt dich zurücktaumeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die von den Pfeilern gebildete Energiewand versperrt dir den Weg nach oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dich gegen die Wand werfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Dich erneut gegen die Wand werfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Einen Weg finden, um den Energiefluss der Pfeiler zu unterbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Erneut versuchen, den Energiefluss der Pfeiler zu unterbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du untersuchst den Pfeiler sorgfältig und findest einen kaum wahrnehmbarem Streifen Synth, der sich vom Pfeiler löst. Du ziehst ihn ab, um die Maschine im Inneren freizulegen. Du stößt mit dem Finger gegen das Synth im Spalt und das Feld beginnt zu flackern.
+
+Die Wand verschwindet langsam. Der Weg ist frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du findest keinen offensichtlichen Weg, um auf das Innenleben des Pfeilers zuzugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_red_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Kummerscherbe greift die Innenseite dieses Geräts an. Du musst sie herauslocken, bevor du dich auf die Kreatur im beistehenden Tank einstellen kannst.</DefaultText>
+      <FemaleText>Die Kummerscherbe greift die Innenseite dieses Geräts an. Du musst sie herauslocken, bevor du dich auf die Kreatur im beistehenden Tank einstellen kannst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du hast die Kummerscherbe aus dieser Maschine getrieben. Du solltest nun eine Verbindung zu dem Wesen im Tank herstellen können.</DefaultText>
+      <FemaleText>Du hast die Kummerscherbe aus dieser Maschine getrieben. Du solltest nun eine Verbindung zu dem Wesen im Tank herstellen können.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ein angenehmes Summen vibriert durch die Leitungen, welche aus dieser Maschine verlaufen.</DefaultText>
+      <FemaleText>Ein angenehmes Summen vibriert durch die Leitungen, welche aus dieser Maschine verlaufen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ein stetiges, beruhigendes Summen strömt aus dieser Maschine in den beistehenden Tank.</DefaultText>
+      <FemaleText>Ein stetiges, beruhigendes Summen strömt aus dieser Maschine in den beistehenden Tank.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

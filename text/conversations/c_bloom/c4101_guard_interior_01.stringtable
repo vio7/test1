@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_guard_interior_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Pass auf, wo du hingehst. Das meine ich nicht als Drohung - der Flor verhält sich komisch und niemand weiß, warum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Kann nicht glauben, dass du jemanden vor den Murden retten konntest. Es ist unmöglich, sie auszumerzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Möchte mir nicht vorstellen, den Weg dieser Mutanten zu kreuzen. Echt gemeine Gegner. Hab gehört, du hast's gut geschafft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Du hast einige meiner Freunde gerettet. Ich kann dir nicht sagen, wie sehr wir alle das schätzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Die Memovira ist rasend wegen dir … aber nicht jeder ist ihr loyal. Vielleicht kannst du ein paar Leute gegen sie wenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Du! Äh, ich meine … jeder spricht von dir. Hmm … geh einfach weiter und ignorier mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Die Memovira wartet auf dich an der Festung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Geh weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

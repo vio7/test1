@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4421_bloom_heart_cnpc_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Aligern zögert und sieht dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Callistege zögert, ebenso wie alle ihrer Schwestern. Sie sehen dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Matkina zögert. Sie umklammert ihre Klinge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Tybir zögert und schluckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Erritis hält inne und sieht dich an. Seine Miene drückt entweder Angst oder atemlose Aufregung aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Rhin hält inne und hält einen Ellbogen fest mit ihrer anderen Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Deine Begleiter zögern und sehen dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Aligern, was fällt dir dazu ein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Aligern. Ich brauche dich da drin an meiner Seite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Callistege, was fällt dir dazu ein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Callistege, vielleicht kann ich hier drinnen deine Hilfe gebrauchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Hast du einen Rat für mich, Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Lass uns zusammen reingehen, Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Wie sollte ich das angehen, Tybir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Komm mit mir, Tybir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Was denkst du, Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wirst du mit mir gehen, Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Alles in Ordnung, Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Rhin, ich möchte, dass du mit mir kommst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Bleibt hier. Ich gehe rein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Das ist *deine* Sache, Verstoßener. Wenn du denkst, dass du das tun musst, werde ich dich nicht aufhalten, aber ich will verdammt sein, wenn ich mit dir ins Verderben gehe."</DefaultText>
+      <FemaleText>"Das ist *deine* Sache, Verstoßene. Wenn du denkst, dass du das tun musst, werde ich dich nicht aufhalten, aber ich will verdammt sein, wenn ich mit dir ins Verderben gehe."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Bitte. Alleine schaffe ich das nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Gut. Ich respektiere deine Entscheidung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Er presst die Lippen zusammen, lässt die Schultern hängen und seufzt niedergeschlagen. "Gut. Aber eines schwöre ich dir: Wenn ich nach dieser Sache noch übler dran bin als zuvor, werde ich es dir heimzahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Dann tu es nicht! Ich habe schon genug geblutet. Diesen Preis ... muss nicht ich bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Er lacht. "*Jetzt* fragst du mich um Rat? *Ich* denke, du hättest dieses närrische Vorhaben gar nie beginnen sollen."
+
+Er seufzt. Seine Gesichtszüge werden weicher und seine Stimme ernst. "Unterschätze das nicht, Verstoßener. Es ist stärker als du, viel stärker." Er hebt einen Unterarm und zeigt dir seine Tätowierungen. "Und es gibt Schicksale, die sind schlimmer als der Tod."</DefaultText>
+      <FemaleText>Er lacht. "*Jetzt* fragst du mich um Rat? *Ich* denke, du hättest dieses närrische Vorhaben gar nie beginnen sollen."
+
+Er seufzt. Seine Gesichtszüge werden weicher und seine Stimme ernst. "Unterschätze das nicht, Verstoßene. Es ist stärker als du, viel stärker." Er hebt einen Unterarm und zeigt dir seine Tätowierungen. "Und es gibt Schicksale, die sind schlimmer als der Tod."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Alles klar. Fangen wir an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich habe es mir anders überlegt. Ich gehe rein, aber allein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich bin normalerweise immer für Experimente zu haben, aber das hier ..." Sie sieht dich an. Ihr Gesicht ist kreidebleich. "Niemand weiß, was es dir abverlangen wird, Kind. Sieh mich an und sag mir, ob du dir so ein Schicksal wünschst. Und deines könnte noch schlimmer sein."
+
+Sie dreht sich zu der sich schlängelnden Masse um. "Überleg dir gut, was du zu opfern bereit bist. Das ist mein Rat für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Dieses Ding", sagt sie, ohne je ihren argwöhnischen Blick davon abzuwenden, "hat die Leben von mehr Menschen zerstört, als du je getroffen hast. Es ist ein hungriges Raubtier."
+
+Sie wirft dir nur einen kurzen Blick zu, bevor sie sich wieder auf die Ranken der Flor konzentriert. "Was du auch tust, du musst die Kontrolle behalten. Leiste Widerstand. Zeig, dass du stark bist. Ansonsten wird dich die Flor verschlingen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Das fragst du *mich*? Ich an deiner Stelle wäre niemals hierhergekommen." Er wischt sich über die Stirn. Von seinem unbeschwerten Lächeln ist nichts mehr zu sehen. "Sei clever. Du weißt, was du willst. Akzeptiere nichts anderes und gib nicht mehr dafür, als es wert ist. Das ... ist alles, was ich dir raten kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Was ich denke? Nichts." Er grinst breit. "Aber das ist das heldenhafteste Abenteuer, das jemals jemand begangen hat. Nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Was?" Sie schüttelt den Kopf, als wolle sie ein Frösteln abschütteln. "Nein, mir geht es nicht gut. Wir sind mitten in den Eingeweiden von ... ich weiß nicht mal was. Ich weiß auch nicht, warum ich hier bin."
+
+Sie schnieft. "Ich will nach Hause", sagt sie fast unhörbar leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Daran zweifle ich nicht, Liebes, aber du wirst darauf verzichten müssen. Das ist weit mehr als selbst ich mir zutraue. Wenn du wirklich diesem ... Ding gegenübertreten willst, wirst du es alleine machen müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Denk daran, was du alles lernen könntest. Wie viele Menschen konnten schon je das Herz der Flor berühren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Sie runzelt die Stirn. "Daran *habe* ich gedacht. Keine meiner Schwestern will gehen. Vielleicht ... muss es diesmal wirklich ich sein."
+
+Sie nickt entschlossen. "Gut. Ich komme mit dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Und was bringt mir das, wenn meine Schwestern und ich dabei sterben? Ich denke, in diesem Fall wirst du uns als Surrogatrealität herhalten müssen. Keine von uns will das tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Gut. Ich respektiere deine Entscheidung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Sie macht große Augen. "Bist du verrückt?"
+
+Sie mustert dich. "Ja, vielleicht bist du das. Aber ich bin es nicht. Die Flor ist ein *Horror*. Wenn du ihr Wissen willst, musst du es ohne mich holen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ich schaffe das nicht alleine. Es wird schon gut gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Sie runzelt die Stirn. "Das glaube ich nicht ... aber ich schulde dir was. Gut. Versuch, uns nicht beide umzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Weißt du, wie oft ich das schon gehört habe? Die meisten, die das gesagt haben, sind tot. Ich bin es nicht. Worte sind Tulk, Neugeborener. Ich komme nicht mit dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Gut. Ich respektiere deine Entscheidung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Er hebt abwehrend die Hände. "Oh nein. Ich bin dir bislang überallhin gefolgt, aber hier ist Schluss!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Du bist der cleverste Mann, den ich kenne. Wenn mir jemand helfen kann, dieses Ding zu überlisten, dann du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Er blinzelt verblüfft. "Sieh mal einer an. Du hast tatsächlich etwas von mir gelernt, was? Ich weiß nicht, ob wir es überlisten können, aber alleine für diese gelungene Schmeichelei werde ich dir helfen. Gut gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ah." Er zeigt mit dem Finger auf dich. "Man hat mich schon oft mit schlechteren Schmeicheleien in Gefahr gelockt Aber nein. Das hier musst du alleine machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Gut. Ich respektiere deine Entscheidung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Machst du Witze? Ich wollte *dich* fragen, ob du *mich* begleitest. Ja! Lass uns dieses Biest in kleine Teile hacken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Was?!" Sie weicht einen Schritt vor dir zurück. "Wie kannst du so etwas auch nur *denken*? Ich dachte, du beschützt mich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Du bist nicht mehr das verängstigte kleine Mädchen, das du mal warst. Ich brauche deine Hilfe. Wirklich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ich ... Ich ..." Sie greift in ihre Tasche und zieht den Stein heraus. Sie hört ihm einen Moment lang zu, dann nickt sie. "Gut ... wir kommen mit." 
+
+Sie holt tief Luft und sagt dann leiser: "Ich komme mit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Sie wendet dir den Rücken zu und umklammert ihre Ellbogen noch fester. "Selbst wenn das stimmt, ich ... ich kann nicht. Ich *will* nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Du hast recht. Verzeih, dass ich wieder gefragt habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Er nickt grunzend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Und ich weiß zu schätzen, dass du das sagst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Ohne ein weiteres Wort wendet sie ihren argwöhnischen Blick wieder der Flor zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Gut! Versteh mich nicht falsch – ich *mag* dich, Junge. Aber das hier ... das ist deine Sache, nicht meine. Ich mach mir da die Hände nicht schmutzig."</DefaultText>
+      <FemaleText>"Gut! Versteh mich nicht falsch – ich *mag* dich, Mädel. Aber das hier... das ist deine Sache, nicht meine. Ich mach mir da die Hände nicht schmutzig."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Sie legt die Arme um den Körper. Selbst in der schwülen Hitze des Herzens zittert sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Vor dir siehst du eine Masse von Flor-Zungen, größer als alle, die du bisher gesehen hast. Sie wogen sanft, als würden sie dich zu sich winken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

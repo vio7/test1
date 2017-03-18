@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_circles_in_red</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Kreise in Rot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Spüre den Mörder auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Gehe zur Dendra O'hur-Kapelle und befrage die Kultisten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Gourmandus zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kiyatawa war die Mörderin!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mallet war der Mörder!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Gh'zei war die Mörderin!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Kehre zu Gourmandus zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der Mörder ist entkommen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Kehre zu Gourmandus zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Der Mörder ist entkommen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sagus verlassen, ohne den Auftrag erledigt zu haben (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sagus nach dem letzten Mord verlassen, aber bevor du zu Gourmandus zurückgekehrt bist. (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein Mörder ist in Schattenseite, dem ärmsten und schmutzigsten Bezirk in Sagusklippen, auf freiem Fuß. Wenn der Täter nicht früh genug geschnappt wird, könnten wahrscheinlich mehr Leute sterben...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Gourmandus bat mich, ihm jegliche Informationen zu bringen, die ich finden kann, aber er lieferte nicht viel, was Spuren angeht...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Grund zur Annahme, dass der Mörder ein Mitglied des Dendra O'hur-Kultes war. Ich sollte zur Kapelle des Kultes in der Schattenseite gehen und dort die Leute ausfragen, die ich finde. Jeder von ihnen könnte der Mörder sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich verhörte alle Kultisten in der Dendra O'hur-Kapelle. Ich kann jederzeit zu Gourmandus zurückkehren und ihm sagen, von wem ich denke, dass er die Morde beging.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich beschuldigte Kiyatawa der Morde, aber sie entkam, bevor Gourmandus' Handlanger sie festnehmen konnten. Gourmandus bezweifelt, dass Kiyatawa nach Sagusklippen zurückkehrt. Er bittet mich, sollte ich sie jemals wiedersehen, sie dafür büßen zu lassen, was sie getan hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich beschuldigte Mallet der Morde und er wurde von Gourmandus' Handlanger festgenommen. Anscheinend bestand er bis zum Ende auf seine Unschuld, aber sie erhängten ihn trotzdem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich beschuldigte Gh'zei der Morde. Sie wurde von Gourmandus' Handlanger festgenommen und erhängt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Gourmandus schickte einen Boten, um mir zu sagen, dass ein vierter Mord geschehen ist und dass der Mörder aus der Stadt entkam. Er will sofort mit mir sprechen. Es hat keinen Zweck, es weiter zu untersuchen. Gourmandus sollte mir sagen können, was passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich versagte dabei, den Mörder zu fangen, und sie tötete einen Händler namens Mechala. Einige von Gourmandus' Handlanger kamen zum Tatort, doch der Mörder floh und entkam aus der Stadt. Es stellt sich heraus, dass Kiyatawa die Täterin war, eine Dendra O'hur-Kultistin. Ich bezweifele, dass Kiyatawa nach Sagusklippen zurückkehrt, also endet die Gefahr in der Schattenseite. Sollte ich sie jemals wiedersehen, bittet mich Gourmandus, sie dafür büßen zu lassen, was sie getan hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Gourmandus schickte einen Boten, um mir zu sagen, dass ein vierter Mord geschehen ist und dass der Mörder aus der Stadt entkam. Er will sofort mit mir sprechen. Es hat keinen Zweck, es weiter zu untersuchen. Gourmandus sollte mir sagen können, was passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Ich versagte dabei, die Mörder zu fangen, und sie tötete einen Händler namens Mechala. Einige von Gourmandus' Handlangern kamen zum Tatort, doch die Mörderin floh und entkam aus der Stadt. Es stellt sich heraus, dass Kiyatawa die Täterin war, eine Dendra O'hur-Kultistin. Ich bezweifele, dass Kiyatawa znach Sagusklippen zurückkehrt, also endet die Gefahr in Schattenseite. Sollte ich sie jemals wiedersehen, bittet mich Gourmandus, sie dafür büßen zu lassen, was sie getan hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich verließ Sagusklippen und werde bestimmt in nächster Zeit nicht zurückkehren. Gourmandus wird jemand anderes finden müssen, der die Morde untersucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Ich verließ Sagusklippen, ohne mit Gourmandus zu reden. Der Botschafter deutete an, dass der Mörder identifiziert wurde. Ich frage mich, wer es war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Gourmandus vermutet die Beteiligung Matkinas, des so genannten Weißen Todes, die eine Auftragmörderin mit etwas Ansehen ist. Er bat mich, sie zu verhören. Er ist sich nicht sicher, wo sich Matkina befindet, aber ein Mutant namens Atlas könnte es wissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich verhörte Matkina über ihre Beteiligung, aber sie besteht auf ihrer Unschuld. Sie wird vielleicht mehr zu sagen haben, wenn ich den Ort der Handlung ausführlich beschreibe... oder wenn sie ihn selber sieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Gourmandus ließ mich den Tatort des Mordes seines Schützlings untersuchen. Die Leiche war nirgends zu finden – nur eine einzelne, geschundene Hand und ein auffälliger Kreis, mit Blut an die Wand gemalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich untersuchte den Tatort eines Mordes. Die Leiche des Opfers war nirgends zu finden – nur eine einzelne, geschundene Hand und ein auffälliger Kreis, mit Blut an die Wand gemalt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Noch eine Person wurde ermordet – eine kleine Mutantenfrau namens Krumme Qeek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Noch eine Person wurde ermordet – ein umherziehender Jack namens Manth Pa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich verhörte Imbitu, den Anführer des Kultes. Er sagte, dass er bei Gourmandus war, als Schwätzer umgebracht wurde, was nach einem soliden Alibi klingt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich verhörte Mallet. Er behauptete, dass er sich in einer Ecke der Manufaktur besoffen hatte, als Schwätzer getötet wurde. Aber er gab zu, dass er Schwätzer kannte... und es klang so, als ob sich die beiden nicht sonderlich mochten. Mallet sagte mir auch, ich solle Kiyatawa oder Gh'zei nicht trauen. Er sah anscheinend, wie Kiyatawa ganz allein eine Leiche in einer Gasse aß, was ihm andeutete, dass sie etwas zu verbergen hat. Er beschreibt Gh'zei als eine besonders gemeine Art von Mutant, die auch womöglich etwas zu verbergen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich verhörte Kiyawata. Sie behauptet, dass sie nicht weiß, wer der Mörder ist, aber sie hat diese Art des Mordes schon einmal gesehen. Sie deutet an, dass der Mörder eine Warnung sendet oder einen Groll hegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich verhörte Gh'zei, eine kannibalische Mutantin mit Krallen und scharfen Zähnen. Sie scheint nicht zu bemerken, dass ein Mord stattfand, weil keine Leiche hinterlassen wurde. Sie wies mich aber darauf hin, Kiyatawa und Mallet nicht zu vertrauen, da beide von ihnen gesehen wurden, wie sie nachts herumliefen und Geheimnisse vor den anderen Kultisten verbergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Der Mörder versuchte eine kleine Mutantin namens Krumme Qeek umzubringen. Anscheinend überlebte Qeek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Die Dendra-Kultisten werden nicht über die Morde reden bis ihr Anführer, Imbitu, ihnen die Erlaubnis erteilt. Ich sollte mit ihm reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Kiyatawa gestand, dass sie eine Leiche in der Stadt vorfand, aber sie wollte sie nicht mit den anderen Dendra teilen, also aß sie sie alleine. Danach schlug sie mir vor, ich solle Mallet fragen, wieviele Leichen er alleine gefunden hätte und sie implizierte, dass er womöglich einige davon selber umgebracht hätte. Kiyatawa schien, als ob sie irgendetwas anderes von ihrem Besuch in Circus Minor verbarg. Ich sollte mit den dortigen Händlern reden und sehen, ob welche von ihnen sahen, was Kiyatawa dort gemacht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Mallet gab zu, einen Mann getötet zu haben, der ihm etwas gestohlen hatte... und danach seine Leiche gegessen zu haben. Aber er behauptet, es nur einmal getan zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Der Oberste Vorarbeiter sah um die Zeit des ersten Mordes einen großen, männlichen Kultisten. Der Kultist besoff sich unter einer seiner Röhren. Das würde scheinbar das Alibi bestätigen, das Mallet vorgab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Ich fand Matkina, aber ich werde ihr helfen müssen, ihre Erinnerungen zurückzubekommen, bevor sie meine Fragen beantworten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Imbitu erteilte mir die Erlaubnis, die anderen Dendra O'hur-Kultisten zu verhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Prata, eine Händlerin in Circus Minor, sagte mir, dass sie Kiyatawa sah, wie sie in der Gegend umhertaumelte und irgendwas über "hohle, rote Kreise" redete. Das klingt sehr ähnlich den Symbolen, die der Mörder an den Wänden in Schattenseite hinterließ.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

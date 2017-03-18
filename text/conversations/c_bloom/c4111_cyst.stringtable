@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_cyst</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Blase aus Fleisch ragt aus dem Boden hervor, eine gereizte, fiese Pustel. Sie ist fast vollkommen undurchsichtig, bis auf einige leichte Ansätze von Bewegungen, die du erkennen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Zyste untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du untersuchst die Bewegungen im Innern der Zyste genauer. Plötzlich kratzt eine Klaue an der Innenwand der Wucherung, so, als würde sie auf deine Neugierde reagieren. 
+
+Irgendjemand oder irgendetwas ist in der Zyste gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du hast dich mittlerweile an den Schmerz in deinem Herzen gewöhnt, auch wenn Sorge und Trauer sich jedes Mal wieder ungewohnt anfühlen: verschiedene Facetten derselben Emotion, jede einzelne von ihnen im Licht einer anderen Erfahrung.
+
+Die Fasern der Zyste bewegen sich erneut und lösen sich ein letztes Mal. Dabei entblößen sie eine zerbrechliche, kantige Kreatur im Innern. Mit einem fleischigen Knall befreit es sich aus der Zyste und lässt auf seiner Flucht ein schimmerndes Objekt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Jetzt, wo die Zyste ihren Gefangenen freigegeben hat, liegt sie da wie eine leere, leblose Hülle ... am Ende ihrer Kräfte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Überreste untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Von der Zyste zurücktreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Etwas erregt deine Aufmerksamkeit. Es ist ein Stück scharfes Metall, dass aus einem Berg verrottenden Flor-Fleisches herausragt.
+
+Du kannst nicht einmal erahnen, wozu es dienen könnte, aber es lässt sich leicht mitnehmen. Du verstaust es in deinen Taschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Eine ganze Welt aus Sinneseindrücken explodiert in deinem Kopf. Du bist dir sofort darüber im Klaren, dass du dich in einer verlassenen Grube tief unter dem Flor befindest. Auf den verschlungenen Venen über dir hörst du das Tropfen von warmen Flüssigkeiten, das sich mit dem Geschnatter der Kreaturen vermischt, die diesen Lebensraum mit dir teilen. Deine Sicht ist nur begrenzt und verschwommen, aber eine Explosion an Farben und Gerüchen tritt an ihre Stelle und dient dir zur Orientierung.
+
+Der Geruch ... ist wie ein unstetes Kaleidoskop aus tiefen Eindrücken, die in deinen Gedanken sofort kategorisiert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Dein Kopf pocht, dröhnt und schmerzt, als ob er gleich explodieren würde. Du versuchst, dich aus dem Kampf um diese Region des Flors zurückzuziehen und begegnest den psionischen Angriffen deiner Gegner mit eisernem Willen. Ihre unerbittliche Offensive aber droht, deine Verteidigung nach und nach zu durchbrechen. Wenn du zurückschlägst, kannst du deinen Verbündeten helfen ... aber dadurch würdest du dich dem Verstand deines Feindes preisgeben.
+
+Du hast gesehen, was sie Aleto angetan haben. Aus jeder Pore seines Körpers strömte Blut. Seine Schreie verfolgen dich auch jetzt noch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>In deinen Bau fliehen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Umdrehen, um nachzusehen, was dich verfolgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du bewegst dich blitzschnell fort als eine Welle von Adrenalin deine kleinen Muskeln zu Höchstleistungen beflügelt. Die Kreatur hinter dir faucht und schnappt nach deinem Schwanz, aber sie kann dich nicht erreichen. Mit einem Sprung landest du in deinem Bau, nur Sekundenbruchteile bevor dein Verfolger mit Klauen und Zähnen den Eingang attackiert.
+
+Aber ihre Bemühungen sind vergebens, die Kreatur kann dir nicht folgen. Einige Stunden lang lauert sie in der Nähe und wartet darauf, dass du dich aus deinem Bau bewegst. Schließlich verliert sie die Geduld und tapst mit einem Fauchen davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Dein ganzer Körper zittert, als du aus deiner Vision erwachst. Es dauert einen kurzen Moment, bis du wieder mit deinem eigenen Körper vertraut bist. Du stehst wieder vor der riesigen Zyste im Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die katzenartige Kreatur erscheint riesig im Vergleich zu deiner neuen, winzigen Form, und sie ist bedrohlich muskulös. Violette Streifen und Krausen aus Fell zieren ihre Seiten. Ihr breiter Schlund ist gefüllt mit Schneidezähnen, von denen einer bereits so groß ist wie dein ganzer Körper - zum Töten geschaffen. Als sie dich erblickt, springt sie mit ihren mächtigen Klauen auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>In den sicheren Bau flüchten!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Der Kreatur die Stirn bieten, um deine Familie zu beschützen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du drehst dich um und füllst deinen Körper mit Luft, um größer zu erscheinen.
+
+Die Bestie springt auf dich zu und zerschmettert mit einem einzigen Hieb seiner Pranke deine Wirbelsäule. Ihr Schlund umschließt daraufhin deinen Körper, und du spürst, wie einer ihrer gewaltigen Zähne deine Seite durchbohrt. Ihr Angriff dauert nur einen kurzen Moment, bevor sie dich wieder ausspuckt. Offenbar triffst du ihren Geschmack nicht.
+
+Mit einem verwunderten Knurren verschwindet sie wieder in der Dunkelheit des Flors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Davonlaufen – deine Freunde können sich selbst verteidigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Die Verteidigung aufgeben und *angreifen*!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du rufst deine Kameraden zu dir und drehst dich, um die Flucht zu ergreifen. Deine Schilde hältst du nah bei dir, um deine Verteidigung zu stärken, als du die Todesschreie der anderen hörst. Auf deiner Flucht siehst du, wie der Schädel eines deiner Kameraden explodiert.
+
+Aber du kannst spüren, wie die Angriffe deiner Feinde schwächer werden und von deiner Verteidigung ablassen. Je weiter du dich von ihrem Nest entfernst, desto schwächer scheinen sie zu werden.
+
+Schließlich hältst du inne, nach Luft schnappend, und dir wird klar, dass du jetzt alleine bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>In dem Moment, in dem du deine Abwehr aufgibst, stürzen sich deine Feinde auf dich. Sie verleiben dir Psychosen und Traumata ein, die sich von deinen Urängsten, von früheren Erfahrungen nähren. Sie zersetzen dein Bewusstsein, pflanzen dir Illusionen von vergangenen Liebschaften und Leben ein, die nicht deine eigenen sind. Empathie peitscht gegen die Barriere deines Verstandes, und du spürst, wie die Angreifer sich hinterrücks an deinen psychomotorischen Funktionen zu schaffen machen.
+
+Es ist eine außergewöhnliche Qual. Du benutzt den Schmerz und die Wut, um den Schwächsten unter ihnen anzugreifen und dir wird dabei klar, dass deine Feinde von einem einzigen, großen Verstand gesteuert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Weiter zurückschlagen – vielleicht kannst du deinen Feind dadurch lang genug ablenken?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Sie wussten, worauf sie sich einlassen würden. Dich verteidigen und weglaufen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Du greifst an, wieder und wieder. Du kanalisierst deine Furcht zu einem vernichtenden Schlag gegen das Herz des Nests, aber ... die Energie versiegt. Du denkst. Fäden der Kontrolle schlängeln sich durch deinen Körper, bis sie dich beherrschen und dein Bewusstsein mit neuen Wahrheiten füllen. Jeder einzelne der dünnen Fäden zeichnet ein neues Universum des Schmerzes auf deinen entblößten Nerven.
+
+Als dein Verstand langsam zu sterben beginnt, zeigen deine Feinde dir die reglosen Körper deiner gefallenen Kameraden. Sie sind eines grausamen Todes gestorben. Das gleiche Schicksal widerfährt auch dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Dir kommt es vor, als wären etliche Stunden vergangen, bis du endlich einen Weg gefunden hast, den älteren Mädchen zu entkommen. Du vergisst deinen Stolz für einen Moment und vergräbst dich in der Müllhalde von Klein-Nihliesh, wo dir schon bald der Gestank von verrottender Nahrung und fauligem Fleisch in die Nase steigt. Aber all das ist besser, als von *ihnen* malträtiert zu werden.
+
+In deinem Versteck aus Müll hörst du ihre Schritte näherkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Den Atem anhalten und versuchen, ruhig zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Die Jägerinnen treten willkürlich durch den Müll, und eine von ihnen kommt deinem Versteck so nah, dass dein Herz kurz stehen zu bleiben scheint. Du hältst deinen Atem an und bereitest dich darauf vor, loszurennen, als eine von ihnen ruft: "Mierkal! Hier drüben! Ich glaube, sie ist hier langgegangen!"
+
+Du hörst Schritte davoneilen. Nachdem du gewartet hast, bis nichts mehr zu hören ist, öffnest du die Augen und steigst aus deinem fauligen Versteck hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Aus dem Versteck springen und angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Du versuchst, in einem dramatischen Einsatz aus deinem Versteck heraus deine Verfolgerin zu überraschen und ihre Anführerin auszuschalten.
+
+Stattdessen sehen sie deine Bewegungen im Müllhaufen und sind auf deinen Angriff vorbereitet. Dass du bei deinem Angriffsversuch ausrutscht und somit in die Arme deiner potenziellen Peiniger fällst, hat deinen Vorstellungen nicht entsprochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Mit einem Hieb triffst du tatsächlich das Gesicht der Anführerin, wodurch sie nach hinten taumelt. Das Blut, das aus ihrer Nase läuft, ist dunkel und rot. Ihr Blick aber ist tot und kalt.
+
+Sie wirft dich in den Müllhaufen zurück und gerade, als du dich aufzurichten versuchst, mischt sich eines der anderen Mädchen ein. Das Mädchen mit den Schlangenfingern versucht, ihre Anführerin zurückzuhalten: "Bitte Mierkal – die ist es nicht wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Weglaufen, so schnell du kannst!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Du blickst durch den seichten Schimmer und die Wellen des Kraftfelds in den stillen, roten Tunnel, der in eine pulsierende Finsternis führt.
+
+Er sieht leer aus. Du kannst es sehen. Du fühlst, wie ein Augen dich anstarren. Hungrige Augen.
+
+Aber du spürst keine Furcht. Da ist nur eine *Leere* in dir, versteckt unter einer Kruste, die du abkratzen willst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Vom Kraftfeld abwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Du schluckst die schmerzhafte Erinnerung, die dich zu überwältigen droht. Du musst dich daran erinnern, dass du nicht alleine bist. Auch wenn du sie verloren hast, bist du *nicht allein*.
+
+Erst als du deine Hand von der Steuerung des Kraftfelds wegziehst, wird dir klar, wie kurz du davor warst, alles zu verlieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Die Leere in dir erforschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du erinnerst dich an ihr lachendes Gesicht. Daran, wie sie ihre Augen schloss, wie die Tentakeln ihrer Haare Druck auf deinen Hinterkopf ausübten, um dich für für einen Kuss näher zu ihr zu bringen. Du erinnerst dich an ihr genüssliches Lachen, als du ihr erzählt hast, dass du eine verloren geglaubte Siedlung am Ende eines stillen Tunnels im Flor entdeckt hast, die von Plünderungen unberührt war – ein Vermögen, das nur darauf wartete, gefunden zu werden. Du erinnerst dich daran, sie an die Hand genommen zu haben ... der Schmerz wird schlimmer.
+
+Deine Hand streicht über die Steuerung des Kraftfelds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Was ist passiert? Weiter nach Erinnerungen suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Du willst dich nicht erinnern. Du *willst* nicht. Aber du forschst trotzdem weiter nach.
+
+Du hast das Schild eingerichtet, um deinen Fund vor anderen Entdeckern zu beschützen. Aber als du aus den Ruinen und von den kreischenden Dingern darunter geflohen bist, war es dieses Schild, dass dir das Leben gerettet hat.
+
+Dir hat es das Leben gerettet, aber nicht ihr. Du hast gesehen, wie sie kurz vor dem rettenden Ausgang über sie hergefallen sind. Bleiche Klauen, mit Blut befleckt. Schreie aus dem brodelnden Haufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Das Kraftfeld verlassen und aufhören, nach Erinnerungen zu graben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Bitte", flüsterst du mit erhobenen Händen. Weißer Staub, unberührt von der Verderbnis der Flor, bedeckt deine schlanken Finger. "Ich habe jahrelang an dieser Skulptur gearbeitet. Ich habe sie mit Hammer und Meißel, und am Ende sogar mit meinen bloßen Händen bearbeitet. Sie ist das einzige, was meinem Leben einen Sinn gibt. Etwas im Stein ruft nach mir. Ich muss ihm eine Form geben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Wenn sich mein Verhalten so verändert hat, werde ich dir nicht in die Quere kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Er ist sichtlich schockiert, aber versteckt es zügig.
+
+Dann tritt er zwischen dich und die Skulptur und schwingt seinen Hammer. Beim ersten Schlag könntest du schwören, einen hohen Schrei gehört zu haben, aber du redest dir ein, dass es nur das Geräusch des berstenden Steines war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Du wirst meine Schöpfung nicht ruinieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Zur Seite. Das ist meine letzte Warnung. Ich *werde* sie zerstören, und wenn du dabei im Weg stehst auch dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ich werde diese Skulptur mit meinem Leben beschützen. Sie ist *meine* Schöpfung!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Wie du willst." Sein Hammer ist schneller, als du jemals geglaubt hättest. Er pulverisiert die Knochen in deiner Hand im Bruchteil einer Sekunde. Du fällst zu Boden und spürst den Schmerz einsetzen, während er sich der Statue zuwendet. Der erste Schlag erzeugt einen hohen Schrei, und du wirfst dich vor die Statue, um den nächsten Angriff abzufangen.
+
+"Zwing mich nicht--" Er beendet den Satz nicht, aber sein Werk schon. Ein weiterer Schwung mit dem Hammer folgt, und deine Schultern fallen mit einem feuchten *Knacken* zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Du bist dir so sicher? Na gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Mit dem Tod deines Wirts kehrst du in deinen eigenen Körper zurück. Du weißt, dass das, was du gefühlt ... was du gesehen hast, echt war. Das Leben, das du gelebt hast, war erfüllend, reich an Erfahrungen und es hat hier in der Flor sein Ende genommen. Die letzten Momente deines Wirts waren von Schmerzen erfüllt.
+
+Deine Muskeln zucken noch immer vom Gefühl der Schmerzen, und dein Leiden scheint von der Zyste aufgesogen zu werden, wodurch sich ihre fleischigen Fasern lockern.
+
+Es scheint, dass die Flor etwas in der Zyste eingeschlossen hat, und dass dein Schmerz der Schlüssel dazu ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Dein Bewusstsein ruft dich in seine Arme zurück, auch wenn du noch immer emotionalen physischen Schmerz empfindest. Deine Muskeln pulsieren in Antwort auf die Notsituation, in der du dich befunden hast, und wieder reagiert die Zyste auf deinen Schmerz. Ihre Fasern lockern sich weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Die Zyste berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Die Zyste erneut berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Du spürst, wie etwas auf deinen Verstand drückt – eine deutliche Präsenz, wie ein schmerzhafter Gedanke, die ihre Erfahrungen in deine Vorstellungskraft einpflanzt.
+
+Als deine Finger über das Fleisch der Zyste gleiten, strömen die Erinnerungen in deinen Verstand und erfüllen ihn mit Erfahrungen und Emotionen aus Leben, die du nie gelebt hast, die aber hier in der Flor ihr Ende gefunden haben.
+
+Die Einzelheiten einer bestimmten Erinnerung erscheinen erstaunlich deutlich vor deinem geistigen Auge, als du nach ihnen greifst ...
+
+{JF: This was in a follow-up node, but banks can't lead randomly to other nodes, and this appears to have been structured to randomly go to one of the six following stories. The only way to get this working was to split the two nodes out of the follow-up and have them separately go randomly to the stories.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Du bereitest dich auf eine weitere schmerzhafte Erfahrung vor und greifst erneut nach der Zyste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Wo ist diese kleine Rubar hin?" fragt eine von ihnen. Sie steht direkt vor dir und atmet heftig. Du kannst den Zorn aus ihrer Stimme heraushören und den Schmerz ihrer Schläge schon im Voraus spüren. Mindestens vier von ihnen suchen nach dir. Aber tief in dir weißt du, dass sich diese Sache immer und immer wieder so abspielen wird, wenn du ihnen nicht irgendwann die Stirn bietest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Das weiß ich", sagt der Mann, der einst dein Freund war. "Ich kann sehen, was es mit dir angerichtet hat." Er hält einen großen Hammer in seinen Händen. Seine Fäuste zittern.
+
+"Du hast dich verändert. Seit du diesen Steinbrocken aus dieser anderen Welt mitgebracht hast, bist du ein anderer Mensch. Es geht hier nicht um Kunst. Dieses Ding hat bereits Leben in sich. Und es benutzt dich dazu, auszubrechen."
+
+Er hebt den Hammer hoch. "Ich bin hier, um es aufzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Ein weiterer Hieb, und noch einer. Splitter aus Stein und Spritzer aus roter Flüssigkeit fliegen durch den Raum. Die Schreie sind abgeklungen, aber deine Gedanken werden jetzt von einer tiefen Trauer dominiert.
+
+Er hebt den Hammer für den finalen Schlag in die Höhe und schwingt ihn mit all seiner Kraft auf die Statue. Sie explodiert in tausend Stücke. Er steht still und bewegt sich zur Seite. Für einen Moment siehst du eine Blutlache zwischen den Scherben.
+
+Die Erinnerung vergeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Futter, faulige Wärme, Familie und Schutz liegen vor dir, am Fuß eines stämmigen Tentakels. Es ist der Eingang zu einem Bau, gerade groß genug für deinen winzigen Körper. Die Kügelchen aus Flor-Fleisch in deinen Backen genügen, um deine Brut für einige Tage zu ernähren.
+
+Doch dann dreht sich der Wind und ein stechender Geruch lässt dich auf der Stelle erstarren. *Angst* breitet sich in dir aus, als dir klar wird, dass dir der Tod auf den Versen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Nach Luft schnappend schleppst du deinen zermürbten Körper in Richtung des Baus, aber deine Glieder werden taub, noch bevor du den Eingang erreichst. Du bleibst still, und die Welt um dich herum verschwimmt.
+Während unerträgliche Einsamkeit an dir nagt, begrüßt du die süße Erlösung durch den Tod ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Du bist mit Fett und fauligen Essensresten übersät, und für eine Weile fällt es ihnen schwer, dich festzuhalten. Du siehst die Gelegenheit für eine Flucht.
+
+Oder du kannst bleiben und kämpfen. Damit würdest du ihnen zeigen, dass du keine Angst mehr vor ihnen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Du schubst ihre Anführerin weg und deine nackten Füße greifen in den schwabbeligen Boden unter dir. Mit der Schulter stößt du eine ihrer Handlangerinnen und hast das Glück, dass sie dabei ihr Gleichgewicht verliert und hinfällt. Schließlich läufst du in davon, während deine Verfolgerinnen Schwierigkeiten haben, sich aufzurichten. Das letzte, was du hörst, sind Versprechungen, was das nächste Mal mit dir passieren wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Oh ja, das ist sie", sagt Mierkal. Sie sieht ihre Freundin an und droht ihr: "Und wenn du nicht mithilfst, bist du die Nächste."
+
+Dann machen sich die vier ans Werk.
+
+Eine halbe Ewigkeit später hören sie wieder auf. Sie spucken auf dich und lassen dich zurück. Du versuchst, dich zu bewegen, aber ein stechender und tiefer Schmerz in deinen Beinen benebelt deine Gedanken. Deine Augen sind zugeschwollen, deine Zähne herausgebrochen und deine gebrochenen Finger können selbst die kleinsten Bewegungen nicht ausführen.
+
+Dunkelheit legt sich über deine Welt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Du umarmst die Statue und schützt sie so vor dem Hammer. Nach ein paar Schlägen konzentriert er sich stattdessen vollständig auf dich, grunzend und grölend. Blut spritzt auf den Stein neben deinem Kinn.
+
+Schließlich stürzt du mit zermalmten Knochen zu Boden und siehst zu, wie er dein Meisterwerk zu einem Haufen aus Splittern und Geröll verarbeitet. Du ringst selbst mit dem kleinsten Atemzug. Mit jedem einzigen Schluchzen.
+
+Als die Dunkelheit kommt, empfängst du sie dankbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Dich ihr anschließen. Das Kraftfeld öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Deine Finger gleiten über die Steuerung und die deaktivierst die Bildschirme. Es folgt Stille. Sie schreit *doch* nicht mehr. Du spürst einen Moment lang Erleichterung. Die endlosen Alpträume haben dich also doch angelogen.
+
+Du gehst einen Schritt in die Dunkelheit. Und dann noch einen. Dann strömen *sie* in den Tunnel und fallen über dich her, mit Bissen und Klauen, keifend und schreiend.
+
+Nach endloser, endloser Pein fordert dich die Dunkelheit ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>So viel Blut, und sie hat nicht aufgehört zu schreien. Schließlich fährst du den Schild hoch, und *dann* kehrt endlich Ruhe ein.
+
+Du siehst deiner Hand dabei zu, wie sie über die Schildsteuerung gleitet. Sie könnte noch immer da unten sein und schreien, und das ist allein deine Schuld.
+
+Das Leben, das ihr zusammen aufbauen wolltet, ist dahin. Ausgelöscht. Dir bleibt noch eine Sache zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Du kannst die Kreaturen nicht besiegen, es sind einfach zu viele. Deine einzige Hoffnung ist, dich gegen sie zu verteidigen – oder einen deiner Kameraden. Aber nur einer von euch zehn kann den konzentrierten Angriff des Schwarms überleben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[DEBUG: Pop the cyst!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Du konntest deinen Wirt retten, aber du spürst, dass das nicht das war, was du tun solltest. Diese Vision – und die anderen, die in den Fasern der Zyste eingeschlossen sind – sind so etwas wie Schlösser. Um sie zu öffnen, musst du leiden. Du musst das Opfer werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Du hast deinen Wirt wieder beschützt. Die Schlösser der Zyste bleiben verschlossen. Um sie zu öffnen, musst du leiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Die Rückstände noch einmal untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Jetzt, wo du das Objekt an dich genommen hast, ist die Kreatur verschwunden. Die Aushöhlung ist leer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Du hast keine Ahnung, was die Kreatur mit diesem Objekt angefangen haben könnte. Vielleicht findest du mehr heraus, wenn du es dir genauer ansiehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Frage mich, wie der Abykos in der Zyste gelandet ist", murmelt er mit verschränkten Armen. "Oder wie dieses Objekt, das du da gefunden hast, in seine Klauen gelangt ist."
+
+Er hebt eine Augenbraue. "Was auch immer es ist, es muss mächtig sein. Abykos interessieren sich in der Regel nur für transdimensionale Artefakte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Mich interessiert, wie die Flor den Abykos im Inneren der Zyste gefangen halten konnte", sagt er und zuckt mit den Achseln. "Aber egal. Du hast da ein feines Objekt mit transdimensionalen Kräften gefunden, weißt du das? Der Abykos muss es von seiner Energie geraubt haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"So etwas habe ich noch nie gesehen", murmelt sie und stützt ihre Hände auf ihren Hüften ab. "Aber wenn der Abykos sich an dieses Objekt geklammert hat, muss es von transdimensionaler Energie erfüllt sein. Oder *gewesen* sein."
+
+Sie hält kurz inne. "Würde sich bestimmt lohnen, es genauer unter die Lupe zu nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Wenn das nicht mal beeindruckend war", sagt er, während er seinen Schnäuzer streichelt. "Ich würde dieses Numenera auf jeden Fall ganz genau untersuchen. Abykos haben nämlich ein Faible für transdimensionale Artefakte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Die Kreatur in der Zyste war ein Abykos, ein Wesen, das sich von transdimensionalen Energien ernährt. Da es längere Zeit in der Zyste gefangen war, kann man davon ausgehen, dass es nur überlebt hat, weil es die Kräfte des Objekts aufgezehrt hat, das du eben gefunden hast. Eine genauere Untersuchung müsste dir weiterhelfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_marooned_on_an_alien_shore</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ausgesetzt auf einer Auserirdischen Küste</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde einen Schlund, der zum verlorenen Ankerplatz führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Arechi zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Heimwärts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Wahres Zuhause gefunden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Endspiel betreten (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe im Großen Inneren drei Menschen in Rüstungen getroffen. Sie sind mittels eines Schlundes durch die Flor gereist, doch dieser Schlund ist nun tot, und die Reisenden gefangen. Sie suchen nach einem Weg zurück zu ihrem "Ankerplatz".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Laut Arechi kommen sie und ihre Begleiter von einem Ort, den sie Ankerplatz nennen. Ich sollte mich nach einem Schlund umsehen, der dorthin führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe einen Schlund in Klein-Nihliesh gefunden, der zum Ankerplatz der Lascar führt. Ich sollte ins Enorme Innere zurückkehren und Arechi die guten Neuigkeiten überbringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Arechi und ihre Begleiter waren sehr dankbar dafür, dass ich ihnen bei der Suche nach einem Weg zurück geholfen habe. Sie haben mich belohnt und sind sofort aufgebrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Arechis Begleiter hatten sich bereits mit den anderen Lascar auf den Weg gemacht, aber sie selbst ist zurückgeblieben um mir dafür zu danken, dass ich die Wahrheit über die Heimat ihres Volkes enthüllt habe. Dann ist sie aufgebrochen, um ein neues Leben in der Neunten Welt zu beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Jetzt, wo die Resonanzkammer aktiviert ist, weiß ich nicht, wann ich wieder zur Flor zurückkehren kann. Die Lascar werden ihren Weg zurück an den Ankerplatz selbst finden müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

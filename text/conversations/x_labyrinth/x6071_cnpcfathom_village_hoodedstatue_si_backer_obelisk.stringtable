@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6071_cnpcfathom_village_hoodedstatue_si_backer_obelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du schaust hinauf. Die Steinfigur blickt herunter und hält ein kreisförmiges Symbol in seinen Händen.
+
+Haare - oder womöglich Ranken - kräuseln von den Rändern der Kapuze, die das meiste des kantigen Gesichtes der Statue bedeckt. Abstrakte Muster fließen entlang der Falten und Winkeln der Roben der Figur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Figur hält dir das Symbol in steinernen Händen entgegen, als ob es es dir anbietet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Statue als Ganzes untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Statue nochmal als Ganzes untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Das Symbol freiziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Das Quadrat berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Den Kreis berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Das Kreuz berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du legst beide Hände auf das Symbol, du ziehst, und -
+
+Eine Vision entfaltet sich vor dir. Du ragst über die Welt empor, überquerst sie mit riesigen, unsichtbaren Schritten. Gesichter verschwimmen unter dir, ein Meer aus ihnen, aber alle haben etwas gemeinsam - keine Verstoßenen-Tätowierungen. Du und deine Geschwister sind nirgends zu erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du legst deine Hand auf das Quadrat und - 
+
+Eine Vision überfällt dich, sie zeigt dir eine einzige Figur, die an der Spitze eines gezackten Knochenhaufens niederkniet. Du kannst nicht erkennen, ob es ein Mann oder eine Frau ist, aber die Verstoßenen-Tätowierung ist deutlich zu erkennen. Alles, was du hören kannst, sind die geflüsterten Worte: "Danke. Danke. Danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du streifst deine Hand gegen den Kreis und -
+
+Eine Vision entfaltet sich in deinem Kopf, sie zeigt das Gesicht einer geisterhaften Frau - dieselbe geisterhafte Frau, der du in der Stille in deinem Verstand begegnet bist. Kummer verschwindet von ihr, danach das durchsichtige Licht. Nach kurzer Zeit wird ihr Gesicht wieder Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du zeichnest das Kreuz mit deinen Fingern nach und -
+
+Eine Vision knackt deinen Verstand offen, sie zeigt dir eine bauschende, emporragende Kreatur, die mit tausend Mündern schreit. Sie verschlingt sich selbst. Sie ist die Rächerin, zur Vergeltung angepeilt, und sie stirbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Lass die Statue in Ruhe.</DefaultText>
+      <FemaleText>Lass die Statue in Ruhe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Es wird nicht sofort klar, wen die Statue dargestellt haben sollte. Womöglich war das eine bedeutende Figur im Leben eines anderen Verstoßenen und ist irgendwie hierher gelandet.
+
+Du wirst es vielleicht nie wissen.
+
+Das Symbol selbst ist eine Sammlung an Formen - ein Kreuz in einem Quadrat in einem Kreis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du weißt immer noch nicht, wen diese Statue darstellt, oder wie sie hierherkam. Das Symbol ist ein Kreuz in einem Quadrat in einem Kreis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Jetzt, da du sie etwas näher betrachtest, kommt sie dir bekannt vor. Sie ist auch nicht aus einfachem Gestein gemacht. Sie ist ... du holst gedankvoll Atem ...
+
+Erinnerung, in Stein verwickelt. Ein System aus gebundener Energie, die auf sich selbst wiederhallt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Versuchen, das Symbol freizuzeihen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Erneut versuchen, das Symbol freizuziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du ziehst am Symbol. Es könnte deine Einbildung oder das Licht sein, aber es *sah* so aus, als ob die Finger der Statue um den Rand des Bildzeichens in ihrer Hand gespannt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du greifst das Symbol und ziehst so fest, wie du kannst. Es rührt sich nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du lässt das Quadrat los, und die Vision schwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du lässt das Kreuz los, und die Vision schwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du lässt den Kreis los, und die Vision schwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Das Bildzeichen schwindet, als du das Symbol loslässt, das fest im Griff der Statue liegt. Nichtsdestotrotz spürst du immer noch die rauen Ränder davon an deinen Handflächen, wenn auch nur eine Sekunde lang.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

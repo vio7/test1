@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4411_egg_oddity</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>100</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieses eiförmige Objekt ist aus strahlend weißem Synth gefertigt. In dem Moment, wo du es berührst, beginnt es ein fröhliches Lied zu spielen. Es ist eine heitere, beschwingte Melodie, die einem Kind gut gefallen dürfte ... und die du vermutlich nicht mehr so schnell aus dem Kopf bekommst. 
+
+Du bemerkst, dass das Ei an deiner Hand haftet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Als du das Ei berührst, ertönt erneut das fröhliche, alberne Liedchen. Wie zuvor haftet das Ei an deinen Händen, sodass du es nicht versehentlich fallenlassen kannst.
+
+Auf der Oberfläche des Eies erscheint erneut ein Bild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hört sonst noch jemand diese Musik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Versuchen, das Ei auf den Boden zu stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Das Ei näher untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Das Ei weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ja ich! Ich höre einen heroischen Marsch, der mich dazu antreibt, heroische Dinge zu tun! Aber den höre ich *die ganze Zeit*. Weil ich der Held bin." Erritis klopft dir auf die Schulter. "Vielleicht hörst du ja das Lied des treuen Begleiters des Helden."
+
+{AVELLONE: Check voice.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Nein", sagt Tybir freundlich. "Aber ich kenne einige Geschlechtskrankheiten, die dazu führen können, dass man Musik hört, die gar nicht da ist. Freilich nicht aus eigener Erfahrung. Mir waren immer nur die weniger unterhaltsamen Krankheiten vergönnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich höre nichts." Rhin streckt die Hand aus und berührt das Ei mit einem Finger. Dann zieht sie ihre Hand angeekelt schnell wieder zurück. "Igitt! Jetzt gerade hab ich's gehört. Es erinnert mich an ... Eiercreme mit zu viel Zucker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Nein." Matkina hebt die Augenbraue. "Eingebildete Musik zu hören ist kein gutes Zeichen, nicht mal für einen Verstoßenen. Vielleicht solltest du das Ei weglegen. Ich traue nichts, das so ... rein ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Aligern schnaubt verächtlich. "Wenn die Musik begann, als du dieses Ei berührt hast, ist der Grund ja klar. Dann solltest du beten, dass die Musik wieder aufhört, wenn du das Ding loslässt. Und wenn nicht ... ist es hoffentlich ein gutes Lied."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Musik, Liebes?" Dutzende Callisteges sehen einander ratlos an und es ist offensichtlich, dass keine von ihnen auch nur einen Ton hört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Als Antwort bekommst du nur betretenes Schweigen. Es scheint, dass nur *du* die muntere Melodie hören kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du bückst dich und lässt das Ei los – es löst sich von deiner Haut, als könne es deine Absicht verstehen. Anstatt umzufallen, wie du es erwartet hättest, steht es jedoch im perfekten Gleichgewicht auf dem Boden.
+
+In dem Moment, als du das Ei loslässt, hört auch die fröhliche Musik auf.
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Anstatt umzufallen, wie du es erwartet hättest, steht es jedoch im perfekten Gleichgewicht auf dem Boden. Als du das Ei loslässt, hört auch die fröhliche Musik auf.
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du stellst das Ei wie zuvor auf den Boden. Es steht im perfekten Gleichgewicht da. Die fröhliche Musik hört auf.
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Das Ei umstoßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Das Ei zerschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du stößt das Ei an. Es fällt um ... und stellt sich dann wieder auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du nimmst dir eine Waffe und schlägst mit voller Wucht auf das Ei ein, doch anstatt zu zerbrechen, fällt es nur kurz um und stellt sich dann wieder auf.
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Nimm die Koralle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Das Ei weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Sobald du das Ei wieder berührst, ertönt die beschwingte, fröhliche Musik erneut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Zunächst fürchtest du, dass das Ei an deiner Haut festklebt, doch es löst sich so leicht von deinen Händen, als könne es deine Absicht verstehen. Sofort hört auch die fröhliche Musik auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Sobald du das Ei loslässt, hört die fröhliche Musik auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du steckst das Ei zurück zu deinen restlichen Sachen.
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du betrachtest die glatte, weiße Oberfläche des Eies genauer. Plötzlich erscheint ein Bild vor deinen Augen, als wäre das Ei selbst ein Bildschirm. Du siehst ... dich aus der Vogelperspektive!
+
+In dem Bild siehst du dich, wie du das Ei hältst und es anstarrst. Um dich herum tanzen und hüpfen Kreaturen, die ein wenig aussehen wie Kleinkinder, aber bedeckt mit pastellfarbenem Fell in Lila, Orange und Babyblau, mit großen, glänzenden Augen und breiten, pelzigen Ohren. Sie beginnen, zur Musik zu singen. Du verstehst ihre Worte nicht, aber sie singen in hohen, aufgeregten Tönen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Dich umsehen, ob die Kreaturen in der echten Welt ebenfalls zu sehen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Weiter die Szene in dem Ei beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Das Ei weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du reißt deine Aufmerksamkeit von dem Ei los und siehst dich um, aber du siehst keine Spur von den kleinen Kreaturen rund um dich herum. Offensichtlich existieren sie nur in dem seltsamen Bild auf der Oberfläche des Eies.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Zunächst fürchtest du, dass das Ei an deiner Haut festklebt, doch es löst sich so leicht von deinen Händen, als könne es deine Absicht verstehen. Sofort hört auch die fröhliche Musik auf und das Bild auf der Oberfläche des Eies verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sobald du das Ei loslässt, hört die fröhliche Musik auf und das Bild auf der Oberfläche des Eies verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die kleinen Kreaturen singen lauter, fassen sich gegenseitig an den Händen und wirbeln sich gurrend und kichernd herum. Dann scheint eine von ihnen dich zu bemerken. Sie stupst spielerisch dein Bein an und du *spürst* die Berührung ... dann klammert sich eine zweite Kreatur an dein anderes Bein und auch diese ungestüme Umarmung kannst du fühlen. Die beiden quietschen vor Vergnügen.
+
+Eine dritte Kreatur mit leuchtend orangefarbenem Fell hüpft vor dir auf und ab und streckt die kleinen Hände aus wie ein Kind, das aufgehoben werden will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Den Kopf der orangenen Kreatur streicheln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die orangene Kreatur aufheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Weiter die Szene im Ei ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du beugst dich dorthin, wo der Kopf der Kreatur sein müsste, und streckst die Hand aus. Tatsächlich spürst du weiches Fell und darunter festes Fleisch. Du kratzt das Wesen am Kopf und es schnurrt zufrieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du streckst eine Hand aus und das kleine Wesen klettert kichernd deinen Arm hoch. In der Oberfläche des Eies siehst du, wie es sich an deinem Körper festklammert, an deinen Kleidern und deinen Haaren zieht. Obwohl das Wesen in der realen Welt nicht zu sehen ist, kannst du den Druck seiner kleinen Hände spüren und sein Lachen in deinem Ohr hören – und selbst seinen Atem fühlen.
+
+Nach einigen Augenblicken wird der kleinen orangenen Kreatur das Spiel langweilig und sie hüpft quietschend von deiner Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Am Rande der Szene erscheint eine weitere kleine Kreatur. Sie hat leuchtend rosa Fell und grüne Büschel stehen aus ihren Ohren hervor. Sie beteiligt sich nicht am Tanzen und Spielen, sondern beobachtet die anderen, während sie im Takt der Musik wippt. 
+
+Eine der anderen kleinen Kreaturen hüpft vorbei. Die rosa Kreatur streckt ihre Arme zum Tanz aus. "Juhuuu!" quietscht die andere erfreut.
+
+Die rosa Kreatur packt ihren Arm und reißt ihn aus der Schulter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Plötzlich schreit das kleine Opfer vor Schmerzen, während die rosa Kreatur es in Fetzen reißt und sich seine Glieder und dampfenden Eingeweide in den Mund stopft. Der Kopf des Opfers überlebt viel länger, als er dürfte, und die Kreatur schreit immer noch, als die andere ihm die Augen ausreißt, sie in den Mund steckt und den Kopf zu Brei schlägt.
+
+Als sie fertig ist, sieht die rosa Kreatur direkt dich an – nicht die Version von dir in dem Bild, sondern *dich*, der du das Geschehen im Bildschirm auf dem Ei beobachtest. Sie lächelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Beobachte weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Das Ei weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du versuchst, das Ei loszulassen, aber es geht nicht. Deine Hände und Arme sind wie eingefroren. Du kannst nicht mal deinen Blick von dem Bild vor dir lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Deine ganze Konzentration aufbringen und versuchen, den Blick von der Szene in dem Ei zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Erneut versuchen, den Blick von dem Ei zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du konzentrierst dich, schiebst deine instinktive Angst beiseite, und zwingst dich, die Augen zu schließen. Ein Auge zuckt, dann das andere, und plötzlich ist der Bann gebrochen. Du kneifst die Augen zusammen und drehst dich von dem Ei weg. 
+
+Für einen Moment hörst du noch den wütenden Schrei der rosa Kreatur, gefolgt von einem schrecklichen Geräusch, als ob etwas mit großer Gewalt zerrissen würde ... dann ist es still. 
+
+Du öffnest vorsichtig wieder die Augen ... ohne das Ei direkt anzusehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Es nützt nichts. Egal, wie sehr du dich konzentrierst, du kannst weder die Augen schließen noch den Blick abwenden. Du kannst dich auch nicht bewegen und nicht sprechen. Du kannst nur hilflos zusehen, was weiter passiert ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Du kannst immer noch nicht einmal blinzeln. Den Blick ist starr auf die Oberfläche des Eies gerichtet und du kannst nichts tun als zuzusehen, wie die schreckliche Szene weitergeht ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Keine der anderen Kreaturen scheint bemerkt zu haben, was mit ihrem Spielkameraden passiert ist. Sie frohlocken und tollen weiter herum und singen ihr unverständliches Lied. 
+
+Die rosa Kreatur tanzt zu einem weiteren ahnungslosen Opfer. Es ist der kleine orangene Kerl, der sich eben noch so gefreut hat, mit dir zu spielen. Diesmal reißt die rosa Kreatur der anderen den Bauch auf, steckt ihren Kopf hinein und labt sich an den Eingeweiden ihres Opfers, während dieses kläglich jammert und verzweifelt um sich schlägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Endlich bemerken auch die anderen Kreaturen, was los ist. Sie kreischen, fuchteln mit ihren kleinen Händen und laufen panisch in alle Richtungen davon, bis keine von ihnen mehr zu sehen ist.
+
+Mit einem zufriedenen kleine Rülpser reißt die rosa Kreatur die letzten Überreste ihres zweiten Opfers in Stücke, sodass nur ein Haufen Haut und Knochen übrigbleibt. Dann spaziert sie zu dir rüber und beißt in dein Bein. Der Schmerz ist völlig *real *, ebenso wie die Wunde, aber der Schmerzensschrei bleibt dir in der Kehle stecken und du bringst keinen Laut heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Endlich bemerken auch die anderen Kreaturen, was los ist. Sie kreischen, fuchteln mit ihren kleinen Händen und laufen panisch in alle Richtungen davon, bis keine von ihnen mehr zu sehen ist.
+
+Mit einem zufriedenen kleine Rülpser reißt die rosa Kreatur die letzten Überreste ihres zweiten Opfers in Stücke, sodass nur ein Haufen Haut und Knochen übrigbleibt. Dann spaziert sie zu deinem Bein rüber und drückt seine Zunge auf dein Fleisch. Es kann dich *schmecken* ... es weiß *genau*, wie schwach du gerade bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Um Hilfe rufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Beobachte weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Du versuchst, zu schreien, doch du kannst keinen Muskel bewegen. Selbst deine Augen sind wie erstarrt, unfähig, sich von der Szene auf dem Ei zu lösen. Aber noch etwas stimmt nicht. Um dich herum bewegt sich ebenfalls nichts. Die Zeit selbst ist stehengeblieben ... oder vergeht zumindest nur mehr unendlich langsam. Niemand kann dich retten. Niemand bekommt überhaupt mit, was hier geschieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Die rosa Kreatur steht ganz nahe bei deinem Bein. Sie schaut zu dir hoch, lächelt wieder und beginnt, deinen erstarrten Körper hochzuklettern. Du kannst fühlen, wie sie langsam, bedächtig auf allen vieren zuerst dein Bein und dann deinen Rücken hochklettert. Sie atmet ruhig und kichert vor sich hin.
+
+Dann, ohne Vorwarnung, durchzuckt dich ein weiterer höllischer Schmerz. Die Kreatur reißt dir mit ihren scharfen Zähnen einen Klumpen Fleisch aus dem Rücken. Sie kaut zufrieden, schluckt dein Fleisch runter und klettert dann gemütlich weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Die rosa Kreatur steht ganz nahe bei deinem Bein. Sie schaut zu dir hoch, lächelt wieder und beginnt, deinen erstarrten Körper hochzuklettern. Du kannst fühlen, wie sie langsam, bedächtig auf allen vieren zuerst dein Bein und dann deinen Rücken hochklettert. Sie atmet ruhig und kichert vor sich hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Um Hilfe rufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Beobachte weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Schließlich erreicht die Kreatur deinen Kopf und wickelt ihre kleinen Arme und Beine um deinen Schädel. Wenn sie dich berührt, bekommst du Gänsehaut. Ein letztes Mal sieht das pelzige rosa Gesicht zu dir hoch – zu deinem wahren Ich – und lächelt. Dann senkt es den Kopf und reißt dir die Kehle heraus. 
+
+Du versinkst in Dunkelheit ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Du versuchst, zu schreien, doch du kannst keinen Muskel bewegen. Selbst deine Augen sind wie erstarrt, unfähig, sich von der Szene auf dem Ei zu lösen. Aber noch etwas stimmt nicht. Um dich herum bewegt sich ebenfalls nichts. Die Zeit selbst ist stehengeblieben ... oder vergeht zumindest nur mehr unendlich langsam. Niemand kann dich retten. Niemand bekommt überhaupt mit, was hier geschieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ein unzerstörbares Spielzeug, gebaut, um auch die größten Wutanfälle eines Kindes auszuhalten", sagt Callistege lächelnd. Dann zuckt sie mit den Schultern. "Oder vielleicht war es auch etwas völlig anderes."
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Also wirklich, Liebes. Bloß weil es dich getötet hat, musstest du es doch nicht *kaputt machen*."
+
+{SOUND: No music on this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Du siehst deinen eigenen Körper aus der Vogelperspektive. Er liegt mit dem Gesicht nach unten und herausgerissener Kehle auf dem Boden. Blut fließt aus der Wunde und bildet eine kleine rote Pfütze um deinen Kopf. 
+
+Die rosa Kreatur ist spurlos verschwunden ... so wie die anderen. Es scheint, als wäre das Schauspiel – oder was immer es war – vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Du siehst dich aus der Vogelperspektive mit dem Ei in der Hand. Überall liegen die blutigen, zerfetzten Überreste zahlreicher kleiner Kreaturen verstreut. Ihr mörderischer "Spielkamerad" muss über deine Flucht so erbost gewesen sein, dass er sie alle abgeschlachtet hat. 
+
+Ein Fellhaufen leuchtet rosa mit grünen Strähnen. Offenbar war der Zorn des Mörders so groß, dass er sich am Ende *selbst* in Stücke gerissen hat.
+
+Es scheint, als wäre das Schauspiel – oder was immer es war – vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du siehst dich aus der Vogelperspektive mit dem Ei in der Hand. Auf dem Boden liegen immer noch die zerfetzten, blutigen Überreste der beiden ermordeten Kreaturen. 
+
+Daneben liegt ein dritter Haufen aus leuchtend rosa Fell mit grünen Strähnen. Offenbar war die mörderische kleine Kreatur über deine Flucht so erzürnt, dass sie sich *selbst* in Stücke gerissen hat.
+
+Es scheint, als wäre das Schauspiel – oder was immer es war – vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Du nimmst das Ei in die Hand und die nur zu vertraute Musik erklingt in deinen Ohren. Auf der Oberfläche des Eies nimmt ein Bild Gestalt an ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Das Ei erneut auf den Boden stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Weiter das Bild auf der Oberfläche des Eies ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Wie zuvor siehst du dich aus der Vogelperspektive mit dem Ei in der Hand. Die kleinen pelzigen Kreaturen tanzen und tollen immer noch um dich herum und singen fröhlich in einer unverständlichen Sprache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Wie zuvor siehst du dich aus der Vogelperspektive mit dem Ei in der Hand. Die kleinen pelzigen Kreaturen hüpfen und tanzen um dich herum und du spürst, wie einige übermütig deine Beine anstupsen.
+
+Eine von ihnen – ein besonders lebhafter kleiner Kerl mit leuchtend orangem Fell – hüpft vor dir auf und ab, wie um deine Aufmerksamkeit zu erregen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Die orange Kreatur noch mal streicheln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Du streichst der Kreatur über den pelzigen Kopf. Sie schließt die Augen und schnurrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Das Bild auf der Oberfläche des Eies ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Die Szene auf der Oberfläche des Eies ist still und unverändert. Du siehst dich aus der Vogelperspektive mit dem Ei in der Hand. Sonst rührt sich nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Die Szene auf der Oberfläche des Eies ist unverändert. Deine Leiche liegt am Boden. Sonst rührt sich nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Als du das Ei berührst, ertönt erneut das fröhliche, alberne Liedchen. Wie zuvor haftet das Ei an deinen Händen, sodass du es nicht versehentlich fallenlassen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Du bemerkst eine große Ähnlichkeit der kleinen Kreaturen mit dem pelzigen Kopf auf dem seltsamen 'Spielzeug', das du vorhin untersucht hast. Vielleicht stammen beide Objekte aus derselben Periode in der Vergangenheit ... oder wurden von derselben fremden Welt in die Flor gebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Du versuchst, das Ei loszulassen, aber es geht nicht. Deine Hände und Arme wie eingefroren. Du kannst nicht mal deinen Blick von dem Bild vor dir lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Du versuchst, das Ei loszulassen, aber es geht nicht. Deine Hände und Arme wie eingefroren. Du kannst nicht mal deinen Blick von dem Bild vor dir lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Es nützt nichts. Egal, wie sehr du dich konzentrierst, du kannst weder die Augen schließen noch den Blick abwenden. Du kannst dich auch nicht bewegen und nicht sprechen. Du kannst nur hilflos zusehen, was weiter passiert ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Es nützt nichts. Egal, wie sehr du dich konzentrierst, du kannst weder die Augen schließen noch den Blick abwenden. Du kannst dich auch nicht bewegen und nicht sprechen. Du kannst nur hilflos zusehen, was weiter passiert ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Du kannst immer noch nicht einmal blinzeln. Den Blick ist starr auf die Oberfläche des Eies gerichtet und du kannst nichts tun als zuzusehen, wie die schreckliche Szene weitergeht ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

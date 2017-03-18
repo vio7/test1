@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_chromavulum</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du nimmst den Gegenstand aus deinem Gepäck und hälst ihn an der befestigten Schnur empor, um ihn zu untersuchen, während er vor dich hin kreist. Er erinnert dich an bestimmte Kreaturen, die im Meer gefunden werden, an Steinen befestigt, außer, dass diese eine Materialschnur durch ein Loch in eines ihrer Beine geschlungen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Diese Kreatur hat zähe, salzige Haut und sieben spindeldürre Beine, die sternförmig aus einer dickeren, fleischigen Scheibe an ihrem Zentrum strahlen. Um die Scheibe an einer Seite ist ein Kreis aus gekräuseltem Fleisch, die eine fest geschlossene Muskelfalte umrandet, während die andere Seite eine ähnliche Falte hat, sonst aber glatt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Untersuche die Kreatur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Untersuche die Schleife aus elastischem Material.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Das Material ist felxibel, aber weich, und streckt sich zu doppelter Länge, wenn du daran ziehst. Deine beste Vermutung ist, dass die Scheife dafür da war, damit man die Kreatur in irgendeiner Weise tragen konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Trage sie wie eine Halskette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Indem du dienen Kopf neigst, ziehst du die Schleife darüber und um deinen Hals, wo sie sich zusammenzieht, um fest zu sitzen. Die befestigte Kreatur ruht über deine Brust. Du läufst einige Schritte und bemerkst, dass es dich recht unbequem ist, wenn die Kreatur bei jedem Schritt gegen deine Brust schlägt. Nach etwa einer Minute komst du dir albern vor und fängst an, sie wieder auszuziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sie in dein Gepäck zurückverstauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sie als Gürtel tragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du streckst die Materialschleife an ihre Grenze und rutschst es über deine Schultern und zu deinem Becken runter. Manche würden es als stylisch empfinden, aber es hat keine Wirkung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Als du die Schleife wieder über deinen Kopf ziehst, streift die Kreatur gegen dein Gesicht um zuckt plötzlich. Du zerrst die Kreatur weg und erwartest weitere Bewegungen, aber sie scheint wieder so leblos wie sonst zu sein.
+
+Vorsichtig bringst du die Kreatur wieder näher an dein Gesicht. Zunächst zeigt das keine Wirkung,aber als du es herumbewegst, entdeckst du, dass es nur lebendig wird, wenn es deinen Augen nahe kommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Sie als Augenklappe anlegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Indem du die Schleife leicht dehnst, legst du sie vorsichtig um deinen Kopf, damit die Kreatur genau vor deinem rechten Auge sitzt. Sie erweckt zum Leben, und verdreht ihre Beine, um sich der Form deines Gesichtes anzupassen. Dein rechtes Auge ist komplett von der Versperrung verblendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Plötzlich spürst du eine Empfindung, ähnlich, als ob jemand einen Luftstoß direkt in dein Auge pustet. Du blinkst einige Male als Reflex, aber nur mit deinem freien Auge. Die Kreatur hält kräftig dein anderes Auge offen. Indem du um den Rand der Kreatur spürst, bemerkst du, dass sie ein perfektes Siegel über dein Auge gebildet hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Tränen formieren sich in deinem bedeckten Auge, und ein nasses, schlitterndes Geräusch begleitet ein äußerst bizarres Gefühl während deine Sicht klar wird. Nach einer Zeit bemerkst du, dass die Kreatur *für dich* blinkt, was aber schnell verdrängt wird von der Erkenntnis, dass du wieder mit dem zuvor verblendeten Auge sehen kannst. Die Kreatur ist immernoch an Ort und Stelle, aber du schaust irgendwie *hindurch*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Während vieles in der Welt durch dein *bedecktes* Auge ähnlich aussieht, erscheinen bestimmte Sachen in Farbtönen, die dir völlig unbekannt sind. Dein Verstand gibt sich Mühe, das zu verarbeiten, was er sieht, und du weißt, dass du kläglich scheitern würdest, diese Farben einem anderen zu erklären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Sie nochmal als Augenklappe tragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du legst die Schleife um dein Kopf an, und erneut versiegelt sich die Kreatur an deinem Auge. Wenn es öffnet, ist die Welt wieder in komischen Farben überflutet. Du nimmst dir etwas Zeit, um die reine Schönheit des Spektakels um dich herum zu bewunderm, bevot du sie nochmal entfernst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>So wudersam deine neu gefundene Sicht auch sein mag, sie ist für dich viel zu verwirrend und setzt deine Suche fort, einen Weg zu finden, die Kreatur abzulösen. Nach einigen Versuchen entdeckst du, dass du einfach nur die Schleife von deinem Kopf lösen musst, dann lässt die Kreatur los. Du fühlst um dein Gesicht, um nach permanenten Narben zu prüfen, aber die Kreatur hat keine Markierung hinterlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Vorsichtig berührst du die Oberfläche der Kreatur. Du entdeckst, dass die salzige Haut der Kreatur verrutscht ist, um eine glatte, leicht flexible Substanz zu offenbaren, diescheinbar als Linse funktioniert. Jedes Mal, wenn du sie tippst, *blinkt* die Kreatur, und die Muskelfalte schlägt deinen Finger weg, während sie vermutlich die Linse säubert.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

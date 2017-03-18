@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_crisis41sidedoor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Diese Säcke sehen aus wie gigantische Blasen, durch die faulige Flüssigkeiten und Gase pulsieren. Ihre ledrige Haut sieht aus wie eine Karte aus Venen und Poren. Mit genügend Kraftaufwand könntest du sie vielleicht zerreißen ... und würdest damit vermutlich den Zorn der Flor auf dich ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Diese dicken, mit Venen übersäten Säcke blockieren deinen Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Schneide die Säcke mit dem Transdimensionalen Skalpell auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ein gut platzierter Hieb legt den Schwachpunkt der Säcke bloß, und sie fallen unter Ausdringen von widerlichen, zischenden Gasen zusammen. 
+
+Die Flor zittert und schaudert um dich herum. Flor-Stimmen zischen vor Wut.
+
+{SOUND: Bloom-voices hissing angrily.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du kannst einfach keinen vernünftigen Angriffspunkt finden, und deine Angriffe verlaufen im Sand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Lass die Säcke in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Säcke zerreißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_ancient_shield_generator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nur eine der Konsolen, die die Maschine umgeben, funktioniert. Flackerndes Licht leuchtet durch die Schichten aus Schmutz und Rost.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Diese ruhige und alte Maschine wirft einen langen Schatten. Als du sie dir genauer ansiehst, stockt dir der Atem und deine Hände beginnen zu zittern. Dich überkommt das Gefühl, schon einmal hier gewesen zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kleine Erinnerungswellen strahlen von dieser defekten Maschine aus und spornen deine Sinne an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Trübes Licht leuchtet auf die Ecken des rostigen Monolithen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Follow-up PQ. 31</DefaultText>
+      <FemaleText>Follow-up PQ. 31</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du fährst mit den Händen über die geflickschusterten Teile und schmierigen Kabel. Die abgenutzten Knöpfe. Eine seltsame Konstruktion - unbeholfen, und doch elegant. Amateurhaft und gleichzeitig ein Meisterwerk. Nur ein Genie kann so viele verschiedene Teile zu einem funktionalen Apparat zusammenbauen. 
+
+Unbekannte Erinnerungen flüstern zu dir. Dieser Apparat konnte- du weißt nicht genau wie -  ein Feld erzeugen, das alles in seinem Inneren aus der Zeit selbst herauszulösen vermochte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deine Finger fahren über eine raue Stelle. Als du sie wegnimmst, siehst du ein Knospenlagensymbol, eingeritzt wie das Zeichen eines Meisters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>... dasselbe Symbol wie auf der Uhr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dieser einst funktionierende Generator ist nun ein Salat aus falsch zusammengefügten Teilen. Du bemerkst ein vertrautes Circinate-Symbol, das wie eine Herstellermarke in das Metall gekratzt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Den Apparat untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Den Apparat erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Das Zeichen des Meisters näher ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du fährst mit der Hand über ein Spiralsiegel. Da ist ein Schaltpult, aber es ist vom Rost verschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Follow-up PQ. 5</DefaultText>
+      <FemaleText>Follow-up PQ. 5</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du schließt die Augen, um dich besser zu konzentrieren und versinkst in der Strömung einer Erinnerung, die nicht zu dir gehört - oder zumindest nicht zu dem Körper, in dem du gerade bist ... und du hörst den donnernden Herzschlag des laufenden Generators, der dich aus vergangenen Jahrhunderten ruft. 
+
+{SOUND: Slow, deep, bassy THUMMING}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du öffnest kalte Augen, den Blick konzentriert, ignorierst die Schreie, den aufsteigenden schwarzen Rauch. Deine ganze Aufmerksamkeit gilt dem Puls der Maschine. 
+
+Du greifst in das zischende Innere des Generators, ordnest Teile neu an, optimierst. Hoffst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Der Puls verschwindet in der Vergangenheit. Deine Hand - die deines aktuellen Körpers - liegt auf der verrosteten Oberfläche eines seit Langem kaputten Generators.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Erinnerung zeigt dir immer wieder kurze Bilder der zerlegten Maschine ... aber an mehr kannst du dich nicht erinnern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Versuch dich zu erinnern, warum diese Maschine so vertraut scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Erneut erinnern versuchen, warum diese Maschine so vertraut scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Follow-up PQ. 11</DefaultText>
+      <FemaleText>Follow-up PQ. 11</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du ertastest einen Schalter unter dem flackernden Licht und spürst eine seltsame, schmerzhafte Sensation unterhalb deines Nabels. Es ist als hätte jemand einen Haken in den Fleisch getrieben und zieht jetzt am anderen Ende von drei langen Schnüren. 
+
+Eine versucht, dich in Richtung Circus Minor zu ziehen. Die andere zieht in Richtung Stadtzentrum. Und eine dritte - die, die sich fast gespannt anfühlt - verfolgt eine unsichtbare Spur zurück nach Karawanserei, wo das Teleportations-Kontrollpult war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Nach Karawanserei reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Das unsichtbare Seil zieht dich in die Dunkelheit hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Geh nach Circus Minor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Zum Gipfel der Stadt reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Konsole vorerst sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du trittst zurück. Das unangenehme Gefühl verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Der unsichtbare Haken hängt sich unter deinem Nabel ein und zieht dich in drei verschiedene Richtungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die funktionale Konsole benutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Teleportationskonsole benutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Den Generator sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_murdentreasuretrove_markusperssonobelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In diesem fleischigen Abszess befindet sich die Skulptur einer Spitzhacke, die in einen Haufen steinerner Blöcke eingebettet ist. 
+
+In der Nähe des Fundaments der Skulptur befindet sich eine bronzene Tafel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Eine metallene Spitzhacke ist in einen Haufen steinerner Blöcke eingebettet. Vielleicht spielt dir dein Kopf einen Streich, aber es kommt dir vor, als hätte der Glanz der Tafel etwas abgenommen, seit du sie dir das letzte Mal angesehen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Spitzhacke untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Nimm die Shin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Lass das Skulptur in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Über dir liegt der glänzende Metallgriff, du kannst ihn nicht erreichen. Du könntest höchstens zu ihm gelangen, wenn du die Skulptur selbst besteigen würdest, und selbst dann wäre er vermutlich zu schwer, als dass du ihn bewegen könntest ...
+
+Die Spitzhacke bebt, und du blinzelst. Du hast die Bewegung in deinem Verstand gespürt. Eventuell kannst du diese Skulptur mit deinen Gedanken beeinflussen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Oh *wirklich*", sagt Erritis, als du dich umdrehen und fortgehen willst. "Du weißt, dass du eine Skulptur nur mit deinen Gedanken bewegen kannst, und du spielst nicht einmal ein bisschen mit ihr?" Er seufzt. "Kein Wunder, dass du immer so mürrisch bist."
+
+Plötzlich strahlt er. "Vielleicht sollte *ich* es mal versuchen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Warte. Lass mich noch darüber nachdenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Gerne, nur zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Nein, Finger weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Erritis ballt die Hände zu Fäusten und schielt wütend auf die Skulptur. Sekunden vergehen. Er zeigt die Zähne und schreit. 
+
+Mit einem rauen Kratzen wird die Spitzhacke aus den Steinen gedrückt, und eine Fontäne aus Shin fließt aus einer versteckten Kammer zwischen die Steine. 
+
+Erritis strahlt bis über beide Ohren und schnappt nach Luft. "Solche Skulpturen sind keine Herausforderung für die mentalen Fähigkeiten eines Erritis!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du konzentrierst dich auf den Griff der Spitzhacke und denkst: "Beweg dich." Sie zittert, aber nichts weiter passiert.
+
+Du blendest alle Geräusche um dich herum aus, jedes Zittern des Bodens, das sanfte Pochen deines Herzens, und richtest deine volle Aufmerksamkeit auf die Form des Werkzeugs vor dir.  
+
+Mit einem rauen Kratzen wird die Spitzhacke aus den Steinen gedrückt, und eine Fontäne aus Shin fließt aus einer versteckten Kammer zwischen die Steine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Unter voller Anstrengung deiner Gedanken stellst du dir vor, wie die Spitzhacke von ihnen bewegt wird. Sie zittert ein Mal, ansonsten geschieht nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Du hast den Verstand einer Spitzhacke geschlagen!" Erritis schnappt nach Luft. "Herzlichen Glückwunsch!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>::murrt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Tafel untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Lies die Tafel noch einmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Auf der Tafel ist eine kurze Nachricht eingraviert.
+
+*Lieber die Hacke schwingen, als die Ader treffen:
+Shin sind Fesseln und Schätze Ketten.*</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Als du nach den Shin in der Skulptur greifst, überkommt dich ein Gefühl des Ekels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Sie mitnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die Hand rausziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Zügig nimmst du eine Handvoll Shin. Mit jeder Bewegung scheint dich das Gefühl des Unbehagens stärker zu überkommen und deine Gedanken zu benebeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Das ungemütliche Gefühl vergeht, sobald du deine Hand von der Skultpur entfernst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Versuchen, die Spitzhacke zu entfernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Erneut versuchen, die Spitzhacke zu entfernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Denken? Was für ein Abenteuer hat je *damit* angefangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Du konzentrierst dich stark auf die Spitzhacke, befiehlst ihr, sich zu bewegen, aber es tut sich nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Wir gehen?" sagt Erritis entsetzt. "Aber was ist mit all den Schätzen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Tybir lacht lange und leise. 
+
+"Hört sich wie jemand an, der weder mit seinem Geld noch mit seinen Fesseln etwas anfangen kann. Glaube nicht, dass ich mich mit diesem Kerl gut vertragen hätte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Lassen wir den Schatz *wirklich* zurück?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ja. Tun wir das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>::seufz::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Na gut, Erritis. Du kannst mit der Statue 'spielen'."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

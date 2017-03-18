@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_into_the_depths</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>In die Untiefen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde einen Schlund, der in das Herz der Flor führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde einen Weg, den Schlund im Tempel der Großen Chila zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Betrete das Herz der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Übernehme die Kontrolle über das Herz der Flor und befehlige es, Ishen freizulassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zur Memovira zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Dem Plan der Ersten zugestimmt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Geweigert, zuzulassen, dass die Erste die Abgeworfenen tötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Handed Over Scorgil's Talisman But Had Doubts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Memovira hat mir erzählt, dass die Erste Verstoßene am Leben ist. Allerdings wird sie mir ihren Aufenthaltsort erst verraten, wenn ich einen ihrer Leute rette - einen Gelehrten Namens Ishen. Offenbar würde Ishen von der Flor entführt und in ihr Innerstes gebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Memovira weiß nicht mehr, wie ich in das Herz der Flor gelangen kann, also muss ich selbst einen Weg finden. Sie hat vorgeschlagen, dass ich den Rat einer Person aufsuche, die die Flor gut versteht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe einen versteckten Schlund im Schrein von Chila entdeckt, der in die Tiefen der Flor führt ... aber er wird sich nicht öffnen, wenn ich ihn nicht füttere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Der versteckte Schlund ist offen. Er sollte mich in die Tiefen der Flor bringen. Von dort aus muss ich mir meinen Weg in ihr Herz bahnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Wenn das Herz den Schlünden und Zungen der Flor ähnelt, sollte ich eine mentale Verbindung aufbauen und es kontrollieren können. Dann kann ich es dazu bringen, den vermissten Gelehrten der Memovira, Ishen, freizugeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe "Ishen" aus dem Herzen der Flor befreit. Wie sich herausstellt, handelt es sich in Wahrheit um Mazzof, einen Abgeworfenen, dem ich schon einmal begegnet bin ... und die Memovira stellt sich als die Erste Abgeworfene heraus, die sich seit Jahren in der Flor versteckt. Es ist an der Zeit, zu ihrer Festung zurückzukehren und sich ihr gegenüberzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich bin zur Memovira zurückgekehrt, habe mit der Ersten gesprochen und ihrem Plan zugestimmt, da ich ihn für die bessere Idee halte. Sie hat den Prozess eingeleitet, durch den die Kammer reaktiviert wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich bin zur Memovira zurückgekehrt, habe mit der Ersten gesprochen und entschieden, dass ihr Plan - der die Auslöschung aller Abgeworfenen mit sich bringen würde - aufgehalten werden muss. Meine Entscheidung kam nicht gut bei ihr an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich bin zur Memovira zurückgekehrt, habe ihr Scorgils Talisman übergeben und meine Entscheidung nach einigen näheren Fragen zu ihren Absichten bereut. Als ich den Talisman zurückverlangt habe, haben sie und ihre Kameraden mich angegriffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe mit Dracogen gesprochen, der zögernd zugab, dass er den Weg in das Herz der Flor nicht kennt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Grisseler sagte, dass der Schlund, der ins Herz der Flor führt, nur gesehen werden kann, wenn er es wünscht. Er hat vorgeschlagen, dass ich am Schrein von Chila nach Hilfe suche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Beobachterin Flecks Aussage zufolge begehrt der versteckte Schlund nur die gefürchtetsten Jäger. Solch ein Jäger kann eine Person oder ein Wesen sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe eine Erinnerung gesehen, als ich Mazzof gefunden habe. Ein Ghibra-Abgeworfener namens Thom hat dem Wandelnden Gott erzählt, dass sowohl sein Plan als auch der der Ersten alle Abgeworfenen zerstören würden. Mein Erzeuger hat außerdem gesagt, dass die Resonanzkammer dazu verwendet werden kann, den Kummer zu schwächen - möglicherweise stark genug, um ihn zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Die Erste Abgeworfene steckt hinter der Zerstörung von Miel Avest! Sie hat die Schilde heruntergefahren, um *mich* zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

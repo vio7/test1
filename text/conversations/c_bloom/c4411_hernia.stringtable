@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_hernia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die massive, faulige Mauer aus Fleisch scheint nichts weiter als eine deplatzierte Masse zu sein, die sich durch die geschwächten Wände der Flor presst. Du kannst die Funktion des Organs, dass sich hier durch die Haut gedrückt hat, nicht erahnen, aber du kannst einen kleinen Riss in ihr erkennen. Bei näherer Betrachtung fällt dir auf, dass sich darin ein Raum befindet - groß genug, um dich dort ohne weitere Störungen ausruhen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Riss ist noch immer so, wie du ihn verlassen hast - er pulsiert sanft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Schlüpfe ins Innere, um dich auszuruhen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

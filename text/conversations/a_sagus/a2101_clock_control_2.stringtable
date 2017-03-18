@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_clock_control_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>100</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Diese Konstruktion ist in den Boden eingelassen. Sie wurde eindeutig nicht von den gleichen Leuten gebaut, die Circus Minor errichteten. Es sieht so aus, als würde der Apparat weiter in den Boden hineinführen, unter die Straße. Auf dem Apparat sind verwitterte Runen zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Dies ist ein altes Gerät, eingelassen im Boden. Verwitterte Runen sind in seine Oberfläche eingeätzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Nun, da die Uhr fest in der Gegenwart verankert ist, ist dieser Apparat seinen anfänglichen Zustand wieder angenommen. Er verändert nicht weiter deine Sicht der Umwelt, und auf seiner Oberfläche gibt es keine Bilder mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Der Apparat ist in seinen ursprünglichen Zustand zurückgekehrt. Er zeigt keine Bilder mehr und verändert auch nicht mehr deine Umwelt. An der Seite, auf die du eingeschlagen hast, klafft ein Loch. Ein schwaches Glühen ist in seinem Inneren auszumachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Eine glühende, zähe Flüssigkeit fließt vom Boden an die Oberseite einer Kammer im Inneren des Apparats hinauf. Während du die Synth-Scherben durchsiebst, findest du Stücke eines filigranen Gitters – Diamanten innerhalb von Diamanten. Es wurde durch deinen Schlag in mehrere Stücke zersplittert, wodurch die Reste schwer zu finden sind. Befestigungen an den Seiten der Kammer lassen vermuten, dass das Gitter in der Mitte der Flüssigkeit angebracht war, vielleicht als eine Art Sieb.
+
+Das Gitter ist zu stark beschädigt, um repariert werden zu können, doch vielleicht findes du einen Ersatz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Im Loch befindet sich eine glühende, zähe Flüssigkeit. Sie scheint vom Boden *hinauf* zu fließen und sich an der Oberseite der inneren Kammer zu sammeln. Überall liegen Synth-Scherben, doch du kannst nicht sagen, welche von ihnen eine wichtige Funktion hatten oder wie du sie reparieren kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die glühende, zähe Flüssigkeit kriecht weiterhin nach oben. Du erfährst nichts Neues über die mögliche Funktionsweise des Apparats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Sieh in den Apparat hinein, um zu sehen, ob du ihn reparieren kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Versuche erneut, herauszufinden, ob der Apparat repariert werden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Verwende das fraktale Gitter, um den Apparat zu reparieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Mit ein wenig Krafteinsatz platzierst du das Gitter unter den Befestigungen, an denen das filigrane Gitter angebracht war. Die zähe Flüssigkeit drückt das Gitter gegen sie.
+
+Sofort leuchtet die Flüssigkeit heller, doch der Apparat selbst bleibt inaktiv. Vielleicht muss auch an der Uhr etwas gemacht werden, um Circus Minor wieder in einen Zustand des Tages zu versetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Entferne das fraktale Gitter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du entfernst das Gitter und steckst es in deine Tasche. So zäh die glühende Flüssigkeit auch ist, so ist doch nichts von ihr am Gitter hängengeblieben – es ist völlig trocken. Die Flüssigkeit trübt sich sofort, doch es passiert nichts weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Der Apparat ist in seinen ursprünglichen Zustand zurückgekehrt. Er zeigt keine Bilder mehr und verändert auch nicht mehr deine Umwelt. An der Seite, auf die du eingeschlagen hast, klafft ein Loch.
+
+An der Stelle, an der du das fraktale Gitter angebracht hast, kommt ein helles Glühen auf, doch der Apparat ist weiterhin inaktiv. Du solltest nachsehen, ob sich an der Uhr selbst irgendetwas verändert hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Nachdem du den anderen zerschlagen hast, ist dieser Apparat in seinen ursprünglichen Zustand zurückgekehrt. Er zeigt keine Bilder mehr und verändert auch nicht mehr deine Umwelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Ein merkwürdiges Gefühl überkommt dich, als du dich dem Apparat näherst, als könntest du im Augenwinkel jemanden erkennen, der sich an dich heranschleicht. Wenn du jedoch nachsiehst, ist niemand da. Es fühlt sich jedoch an, als sei etwas anders, doch du kannst nicht ausmachen, was es ist.
+
+Eine Reihe von Bildern huscht über die Oberfläche des Apparats. Sie scheinen keinen Bezug zu den Veränderungen zu haben, die um dich herum geschehen. Du erkennst Gesichter anderer Leute und Orte, allesamt vertraut.</DefaultText>
+      <FemaleText>Ein merkwürdiges Gefühl überkommt dich, als du dich dem Apparat näherst, als könntest du im Augenwinkel jemanden erkennen, der sich an dich heranschleicht. Wenn du jedoch nachsiehst, ist niemand da. Es fühlt sich jedoch an, als sei etwas anders, doch du kannst nicht ausmachen, was es ist.
+
+Eine Reihe von Bildern huscht über die Oberfläche des Apparats. Sie scheinen keinen Bezug zu den Veränderungen zu haben, die um dich herum geschehen. Du erkennst Gesichter anderer Leute und Orte, allesamt vertraut.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Erneut überkommt dich das merkwürdige Gefühl, dass etwas anders ist, doch die Veränderung ist so gering, dass sie schwer auszumachen ist.
+
+Ein einziges Bild spielt sich auf der Oberfläche des Apparats ab. Zwei Leute mit Tätowierungen wie die deine schleichen durch ein Unterwasser-Museum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Erneut überkommt dich das merkwürdige Gefühl, dass etwas anders ist, doch die Veränderung ist so gering, dass sie schwer auszumachen ist.
+
+Ein einziges Bild spielt sich auf der Oberfläche des Apparats ab. Ein Mann und eine Frau, beide mit Tätowierungen wie die deine, stehen in einem üppigen, abgeschiedenen Tal und diskutieren über seine Vorzüge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Erneut überkommt dich das merkwürdige Gefühl, dass etwas anders ist, doch die Veränderung ist so gering, dass sie schwer auszumachen ist.
+
+Ein einziges Bild spielt sich auf der Oberfläche des Apparats ab. Ein Mann und ein junges Mädchen fliehen vor bewaffneten Soldaten durch die Straßen von Sagusklippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Erneut überkommt dich das merkwürdige Gefühl, dass etwas anders ist, doch die Veränderung ist so gering, dass sie schwer auszumachen ist.
+
+Eine Reihe vertrauter Bilder huscht über die Oberfläche des Apparats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du schlägst mehrfach auf die Maschine ein. Nach einem besonders heftigen Schlag stürzt ein Teil am Sockel des Apparats ein und zersplitterte Synth-Stücke fallen aus dem Loch.</DefaultText>
+      <FemaleText>Du schlägst mehrfach auf die Maschine ein. Nach einem besonders heftigen Schlag stürzt ein Teil am Sockel des Apparats ein und zersplitterte Synth-Stücke fallen aus dem Loch.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Der Apparat verdunkelt sich. Die Bilder sind verschwunden, genauso wie das seltsame Echo aus der Vergangenheit von Circus Minor. Du hast ihn definitiv zerstört. Im Lager der Kultisten verdunkeln sich auch die anderen beiden Apparate.
+
+Doch die Uhr wird massiv. Sie scheint nicht mehr in mehreren Zeitebenen gleichzeitig zu existieren.
+
+Als die Uhr wieder massiv wird, geschieht etwas Merkwürdiges am Himmel. Die Sonne rast über den Horizont und verschwindet, und Circus Minor wird von Dunkelheit umhüllt. Merkwürdigerweise erscheinen die Gebäude in der Ferne – jenseits des Stadtteils – noch immer von der Sonne beschienen.</DefaultText>
+      <FemaleText>Der Apparat verdunkelt sich. Die Bilder sind verschwunden, genauso wie das seltsame Echo aus der Vergangenheit von Circus Minor. Du hast ihn definitiv zerstört. Im Lager der Kultisten verdunkeln sich auch die anderen beiden Apparate.
+
+Doch die Uhr wird massiv. Sie scheint nicht mehr in mehreren Zeitebenen gleichzeitig zu existieren.
+
+Als die Uhr wieder massiv wird, geschieht etwas Merkwürdiges am Himmel. Die Sonne rast über den Horizont und verschwindet, und Circus Minor wird von Dunkelheit umhüllt. Merkwürdigerweise erscheinen die Gebäude in der Ferne – jenseits des Stadtteils – noch immer von der Sonne beschienen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Du schlägst so fest wie möglich gegen die Seite des Apparats. Er erbebt, ein Beben, das im Lager der Kultisten nachhallt. Doch weiter geschieht nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Der Lärm hallt über den öffentlichen Platz, doch weiter geschieht nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Den Apparat aufschlagen.</DefaultText>
+      <FemaleText>Den Apparat aufschlagen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Versuche erneut, den Apparat aufzuschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Zerschlage den Apparat erneut, um Circus Minor in einen Zustand der Nacht zu versetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Du schlägst so fest wie möglich zu und brichst dabei neue Synth-Stücke ab. Doch ganz gleich, wie viel Schaden du dem Apparat verursachst, die Uhr verweilt fest in der Gegenwart.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Du schlägst so fest wie möglich auf ihn ein, immer und immer wieder. Das Synth zerbricht, doch es reicht nicht aus, um die Uhr zu zerstören.
+
+Als du nach Luft schnappst, fällt dir auf, dass es einfacher wäre, einfach das fraktale Gitter zu entfernen, wenn du wieder die Nacht herstellen willst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Entferne das fraktale Gitter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Du entfernst das Gitter mit Leichtigkeit und steckst es in deine Tasche. So zäh die glühende Flüssigkeit auch ist, so ist doch nichts von ihr am Gitter hängengeblieben – es ist völlig trocken.
+
+Die Flüssigkeit trübt sich sofort, doch an der Uhr ändert sich nichts. Sie ist noch immer fest in der Gegenwart. Sie scheint nicht mehr von den Apparaten abhängig zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Du entfernst das Gitter mit Leichtigkeit und steckst es in deine Tasche. So zäh die glühende Flüssigkeit auch ist, so ist doch nichts von ihr am Gitter hängengeblieben – es ist völlig trocken. Die Flüssigkeit trübt sich sofort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Stecke das fraktale Gitter wieder ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Die Flüssigkeit wird heller, sobald du das Gitter wieder einsetzt. Der Apparat ist jedoch weiterhin inaktiv und die Uhr bleibt fest in der Gegenwart verankert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Die Veränderungen sind zunächst schwer auszumachen, doch einen Augenblick später wird es dir klar. Circus Minor ist unverändert, doch die Menschenmenge ist anders. Die meisten Leute an den Ständen und Gebäuden sind nicht die gleichen wie diejenigen, die du auf dem Platz gesehen hattest. Die wenigen, die du erkennst, sind um einige Jahre jünger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Die Veränderungen sind schwer zu erkennen, doch sie sind da. Verschiedene Leute stehen an den Ständen und Gebäuden um dich herum und die wenigen, die du erkennst, sind merklich jünger.
+
+Es ist beinahe, als würdest du mehrere Jahre in die Vergangenheit blicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Betrachte die Veränderungen um dich genauer.</DefaultText>
+      <FemaleText>Betrachte die Veränderungen um dich genauer.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Betrachte die Veränderungen um dich erneut genau.</DefaultText>
+      <FemaleText>Betrachte die Veränderungen um dich erneut genau.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Untersuche die Bilder auf der Oberfläche des Apparats.</DefaultText>
+      <FemaleText>Untersuche die Bilder auf der Oberfläche des Apparats.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Als du dich auf die Bilder konzentrierst, spürst du eine Wärme auf deinem Kopf, an der Stelle, an der sich deine Tätowierung befindet. Die Bilder reagieren auf deine Gedanken, verlangsamen und verändern sich deiner Laune entsprechend. Es ist dein Körper, der dir dies ermöglicht. Vielleicht bedeutet dies, dass ausschließlich du die Bilder überhaupt sehen kannst.
+
+Du erkennst die Bilder sofort als Erinnerungsstücke – besonders die drei Erinnerungen, die du in den Untiefen deines Geistes erblicktest.</DefaultText>
+      <FemaleText>Als du dich auf die Bilder konzentrierst, spürst du eine Wärme auf deinem Kopf, an der Stelle, an der sich deine Tätowierung befindet. Die Bilder reagieren auf deine Gedanken, verlangsamen und verändern sich deiner Laune entsprechend. Es ist dein Körper, der dir dies ermöglicht. Vielleicht bedeutet dies, dass ausschließlich du die Bilder überhaupt sehen kannst.
+
+Du erkennst die Bilder sofort als Erinnerungsstücke – besonders die drei Erinnerungen, die du in den Untiefen deines Geistes erblicktest.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Die Erinnerung ist neu. Zwei Männer, beide mit Tätowierungen wie die deine, befinden sich in einer Unterwasserstadt und sind auf der Suche. Die Bewohner der Stadt jagen sie aus ihrem Steinbruch, umzingeln sie und nehmen sie schließlich gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Die Bilder zweier Männer in der Unterwasserstadt sind nun die einzigen Bilder, die sich auf der Oberfläche dieses Apparats abspielen. Sie sind auf der Suche, werden gejagt und schließlich gefangen genommen – immer und immer wieder, in einer endlosen Schleife.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Als du diese dritte Erinnerung verbindest, strömt eine letzte Energiewelle aus dem Apparat zur Uhr. Die Uhr glänzt einen Moment lang, bevor sie massiv wird, in einem einzigen Zustand fixiert.
+
+Zur gleichen Zeit verdunkelt sich der Apparat vor dir. Die Bilder verschwinden genauso wie der merkwürdige Blick auf die Vergangenheit der Stadt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Als du die dritte Erinnerung verbindest, vibriert die Luft, die den Apparat umgibt. Die anderen Apparate auf dem Platz beginnen zu glühen, als würde gleich etwas von ihnen ausgehen.
+
+Genauso plötzlich erlischt das Glühen auf allen drei Apparaten. Das Bild, das du mit diesem Apparat verbunden hattest, flackert, woraufhin erneut die drei Erinnerungen über seine Oberfläche huschen. Der Apparat scheint sich zurückgesetzt zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Betrachte die Erinnerung an die Unterwasserstadt.</DefaultText>
+      <FemaleText>Betrachte die Erinnerung an die Unterwasserstadt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Verbinde die jüngste Erinnerung an die Unterwasserstadt mit diesem Apparat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Irgendwie weißt du, dass die Erinnerung sich vor langer Zeit abspielte – vermutlich vor Jahrhunderten. Ein Mann und eine Frau, beide mit Tätowierungen wie die deine, untersuchen ein üppiges, abgeschiedenes Tal, aus einem Grund, an den du dich nicht mehr erinnern kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Die Bilder des Mannes und der Frau im Tal sind nun die einzigen Bilder, die sich auf der Oberfläche dieses Apparats abspielen. Sie untersuchen das Tal in einer endlosen Schleife.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Betrachte die Erinnerung an das üppige Tal.</DefaultText>
+      <FemaleText>Betrachte die Erinnerung an das üppige Tal.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Verbinde die Jahrhunderte alte Erinnerung an das üppige Tal mit diesem Apparat.</DefaultText>
+      <FemaleText>Verbinde die Jahrhunderte alte Erinnerung an das üppige Tal mit diesem Apparat.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Irgendwie weißt du, dass diese Erinnerung sehr alt ist. Sie könnte sich vor tausend Jahren ereignet haben. Ein Mann und ein junges Mädchen rennen durch die Straßen von Sagus Klippen. Überall um sie herum wird die Stadt von einem schrecklichen Volk angegriffen – die Tabaht, soweit Ihr Euch erinnert. Der Mann führt sie zu einer alten Maschine irgendwo in der Stadt, dann verschwinden sie beide.</DefaultText>
+      <FemaleText>Irgendwie weißt du, dass diese Erinnerung sehr alt ist. Sie könnte sich vor tausend Jahren ereignet haben. Ein Mann und ein junges Mädchen rennen durch die Straßen von Sagus Klippen. Überall um sie herum wird die Stadt von einem schrecklichen Volk angegriffen – die Tabaht, soweit Ihr Euch erinnert. Der Mann führt sie zu einer alten Maschine irgendwo in der Stadt, dann verschwinden sie beide.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Die Bilder des Mannes und des Mädchens sind nun die einzigen Bilder, die sich auf der Oberfläche dieses Apparats abspielen. Sie rennen an den feindlichen Soldaten vorbei und verschwinden dann in einer endlosen Schleife in der Maschine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Betrachte die Erinnerung an die belagerte Stadt.</DefaultText>
+      <FemaleText>Betrachte die Erinnerung an die belagerte Stadt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Verbinde die alte Erinnerung an die belagerte Stadt mit diesem Apparat.</DefaultText>
+      <FemaleText>Verbinde die alte Erinnerung an die belagerte Stadt mit diesem Apparat.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Löse die Erinnerung aus diesem Apparat.</DefaultText>
+      <FemaleText>Löse die Erinnerung aus diesem Apparat.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Allein auf den Gedanken hin verschwinden die Bilder – oder kommen eher mit den anderen beiden Erinnerung zusammen. Bilder aller drei Erinnerungen spielen sich scheinbar willkürlich auf der Oberfläche dieses Apparats ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Den Apparat in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Erneut überkommt dich das merkwürdige Gefühl, dass etwas anders ist, doch die Veränderung ist so gering, dass sie schwer auszumachen ist.
+
+Eine Reihe von Erinnerungen huscht über die Oberfläche des Apparats.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Die Flüssigkeit wird heller, sobald du das Gitter wieder einsetzt. Der Apparat ist jedoch weiterhin inaktiv. Du solltest nachsehen, ob sich an der Uhr irgendetwas verändert hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Auf der Innenseite der Kammer ist ein kreisförmiges Symbol wie ein Herstellerzeichen eingraviert. Du hast dieses Symbol bereits auf anderen Maschinen in der Stadt gesehen. Das könnte ein erster Anlaufpunkt sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Auf der Innenseite der Kammer ist ein kreisförmiges Symbol wie ein Herstellerzeichen eingraviert. Du behältst es in Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Als du die Erinnerung wieder betrachtest, entsteht in deinem Geist das merkwürdige Gefühl, das du nur als Frage beschreiben kannst. Der Apparat möchte etwas von dir.
+
+Plötzlich erinnerst du dich – die Erinnerungen im Apparat sind Möglichkeiten, doch du kannst eine der Erinnerungen hier sperren, sodass sie als einzige angezeigt wird. Du kannst dich jedoch nicht an den Zweck erinnern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Als das Bild gesperrt ist, zieht sich ein Energieband durch die Luft und verbindet die Steuerungsvorrichtung mit der Uhr.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

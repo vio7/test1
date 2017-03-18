@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_sagus_envoy_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Entschuldigen Sie. Haben Sie einen wichtig aussehenden, geprägten Umschlag gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>(seufzt) "Ich habe meine Papiere verloren. Jetzt lassen sie mich bestimmt nicht durch die Kontrollpunkte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Oh, wie dumm ich bin. Meine Papiere waren genau hier in meiner Tasche!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Oh je. Wo ist mein Geld?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>:: seufzt schwer ::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

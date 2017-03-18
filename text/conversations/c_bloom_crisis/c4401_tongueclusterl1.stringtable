@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_tongueclusterl1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du greifst mit deinem Verstand nach ihnen und wickelst ihn um sie. Sie wehren sich und zischen, versuchen, sich freizukämpfen, aber du behältst die Kontrolle.
+
+Sie lassen die Säcke, die den Durchgang in der Nähe blockieren, zusammenfallen, und öffnen dir so den Zugang in die nächste Kammer. Die Zungen lassen sich jetzt von dir steuern, aber du kannst ihren brennenden Hass dir gegenüber noch immer spüren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Eine Masse aus Flor-Zungen steht schaudernd und zitternd vor dir. Als du sie berührst, legt sich eine der Zungen um deinen Arm, und du spürst ihre eindringliche, psychische Berührung in deinem Verstand.
+
+Die Flor-Zungen graben in deinen Erinnerungen und ziehen einige davon hervor, als würden sie gerade ihr Lieblingsgericht auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Sie peitschen und schnattern, ihr Hunger, ihre *Gier* nach deinen Erinnerungen ist fast greifbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Zungen mit Gezeitenenergie angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Den Flor-Zungen erlauben, eine deiner Erinnerungen zu verschlingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Erneut versuchen, Kontrolle über die Zungen zu erlangen, um den Weg zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du fokussierst deine Gedanken auf die Zungen, aber sie widerstehen dir, kreischen und zischen dir ins Ohr und verbannen dich aus ihrem Verstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Gezeiten brodeln in dir, als wollten sie von dir freigelassen werden, bis sie schließlich wie eine Welle aus deinem Verstand hervorbrechen. Die Zungen gehen unter der Wucht des Angriffs zu Boden und richten sich langsam wieder auf. Jetzt erscheinen sie dir gewissermaßen *ängstlich*, sie schnattern untereinander und kauern sich in deiner Anwesenheit zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Flor-Zungen graben sich tief in deine Erinnerungen ein. Die Erinnerung, die sie aus dir herausziehen, ist schmerzhaft, erniedrigend, so ... nein. Sie ist weg, auf alle Ewigkeit verschlungen.
+
+Die Zungen zischen zufrieden und ziehen sich zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Die Zungen ignorieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Als du dich ihnen näherst, sacken die Zungen sanft zusammen und signalisieren dir damit, dass sie deinem Willen gehorchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Die Flor-Zungen wenden sich von dir ab, sie zeigen nicht länger Interesse daran, von deinen Erinnerungen zu zehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Die Flor-Zungen schlagen aneinander, ihre Bewegungen sind träge, ihr Hunger gestillt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Erneut versuchen, die Kontrolle über die Zungen übernehmen und sie dazu zu zwingen, den Durchgang in der Nähe zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du greifst mit deinem Verstand nach ihnen und wickelst ihn um sie. Sie wehren sich und zischen, versuchen, sich freizukämpfen, aber du behältst die Kontrolle.
+
+Du kannst spüren, dass die Zungen-Masse dir dabei helfen wird, das Herz zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du fokussierst deine Gedanken auf die Zungen, aber sie widerstehen dir, kreischen und zischen dir ins Ohr und verbannen dich aus ihrem Verstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Kontrolle über die Flor-Zungen erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Erneut versuchen, die Flor-Zungen zu kontrollieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

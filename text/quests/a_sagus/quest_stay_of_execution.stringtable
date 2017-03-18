@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_stay_of_execution</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Hinrichtungsaufschub</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Einen Weg finden, um Ris zu retten, bevor er hingerichtet wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Begnadigung Gefälscht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Menschenmenge Aufgesammelt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ris Hingerichtet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Wahrheitsprobe – Unschuldig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Wahrheitsprobe – Schuldig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Verschaffe dir eine Dienstmarke der Stadtbeamten von Sangolin beim Regierungsplatz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Verschaffe dir ein Hinrichtungsaufschub von Ratsbeamten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Kehre zu Tybir in Circus Minor zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Versuche es, Ris zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Versuche es, Ris zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein Mann namens Ris wird in Circus Minor langsam hingerichtet. Sein Freund Tybir bat mich, ihm zu helfen, den Verurteilten zu retten. Tybir plant, einen Hinrichtungsaufschub zu fälschen, aber er braucht meine Hilfe, um die nötigen Unterlagen für die Fälschung zu bekommen und mit den Behörden zu sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Wenn du die Hinrichtung nicht in den nächsten paar Tagen stoppen kannst, wird es zu spät sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Tybirs Plan hat funktioniert und RIs wurde freigelassen. Leider war das Wiedersehen der beiden "Freunde" nicht so freudig wie erwartet. Ris denkt wohl, dass Tybir ihm Geld schuldet und ihn nur befreit hat, um seine eigene Haut zu retten. Wenn ich nicht gewesen wäre, hätte er Tybir möglicherweise an Ort und Stelle den Hals umgedreht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich brachte die Menschenmenge gegen die Hinrichtung auf. Um sein Leben fürchtend ließ der Aufseher Ris frei und entkam aus dem Vorfall.Unglücklicherweise war das Wiedertreffen zwischen Tybir und Ris nicht so glücklich, wie ich es erwartet hätte. Ris scheint zu denken, dass Tybir ihm Geld schuldet und ihn nur freilassen ließ, um seine eigene Haut zu retten. Wenn ich nicht dagewesen wäre, hätte Ris seinen „Freund“ womöglich noch an Ort und Stelle zu Tode gewürgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe mir zu lange Zeit gelassen, um Ris zu retten. Inzwischen ist er bestimmt tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Du hast eine Wahrheitsprobe für Ris organisiert und dem Verschlinger des Unrechts den Finger von jemand anderem zu essen gegeben, woraufhin Ris für unschuldig erklärt und freigelassen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Du hast eine Wahrheitsprobe für Ris organisiert, doch als der Verschlinger des Unrechts Ris' Finger aß, hat er dessen Schuld bestätigt. Die Hinrichtung ist damit unabwendbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Tybirs Plan sieht vor, dass ich mich als Amtsperson der Stadt ausgebe, daher brauche ich eines der Abzeichen, die Beamte der Stadt besitzen. Ich kann es im Kleiderladen von Sangolin am Regierungsplatz kaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Wo ich jetzt das Abzeichen einer Amtsperson habe, kann ich versuchen, vom Ratsbeamten am Regierungsplatz einen alten Hinrichtungsaufschub zu bekommen. Tybir will eine Kopie des Dokuments, mit dem der berüchtigte Verbrecher Col Cardin begnadigt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich sollte Tybir den alten Hinrichtungsaufschub bringen, damit er die Begnadigung für Ris fälschen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Tybir hat einen Hinrichtungsaufschub für Ris gefälscht. Den kann ich dem Aufseher bringen und von ihm verlangen, den Gefangenen freizulassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Tybir hat einen Hinrichtungsaufschub für Ris gefälscht. Den kann ich dem Aufseher bringen und von ihm verlangen, den Gefangenen freizulassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich habe Sagusklippen verlassen und werde nicht so schnell zurückkehren. Tybir wird ohne mich versuchen müssen, Ris zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Tybir hat vorgeschlagen, dass ich mich als Amtsperson der Stadt ausgebe und ihm helfe, eine Begnadigung für Ris zu fälschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Du hast dir das Abzeichen eines Beamten der Stadt besorgt. Jetzt kannst du versuchen, den Ratsbeamten zu überreden, dass er dir ein altes Begnadigungsschreiben geben soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Du hast den Ratsbeamten überredet, dir ein altes Begnadigungsschreiben zu geben. Wenn du es Tybir bringst, kann er damit eine Begnadigung für Ris fälschen, behauptet er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Tybir hat eine Begnadigung für Ris gefälscht. Wenn du sie dem für die Hinrichtung zuständigen Beamten übergibst, wird er Ris freilassen, denkt Tybir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Du hast einen der Schaulustigen davon überzeugt, dass Ris nicht hingerichtet werden sollte. Wenn du noch mehr Leute überzeugen kannst, kannst du die Menge vielleicht gegen die Henker aufbringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Der Verschlinger des Unrechts hat dir von einer alten Praxis erzählt, bei dem ein Verurteilter einem Dendra O'hur einen Körperteil opfern konnte. Es ist vorgekommen, dass der Dendra O'hur danach die Unschuld dieser Person bestätigt hat. Wenn du möchtest, könntest du den für die Hinrichtung zuständigen Beamten danach fragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Der Beamte hat zugestimmt, dass du die Wahrheitsprobe durchführen kannst. Dafür musst du Ris einige Finger abhacken und sie dem Verschlinger des Unrechts zu essen geben. Tybir hat dich jedoch gewarnt, dass du besser Ersatzfinger parat haben solltest – idealerweise von jemandem, der Ris ähnlich sieht –, um sie heimlich auszutauschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Du hast versucht, den Verschlinger des Unrechts mit den Fingern von jemand anderem zu überlisten... doch der Verschlinger hat den Braten gerochen. Du musst einen anderen Weg finden, um Ris zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich könnte die Schaulustigen, die gekommen sind, um Ris sterben zu sehen, vielleicht auf meine Seite ziehen. Wenn ich überzeugend genug bin, könnte ich sie gegen die Hinrichtung aufwiegeln und den Beamten so sehr einschüchtern, dass er Ris freilässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Der Aufseher hat durchschaut, dass ich keine echte Amtsperson der Stadt bin, und weigert sich, das gefälschte Dokument zu akzeptieren. Ich muss einen anderen Weg finden, um den Gefangenen zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Der Aufseher hat durchschaut, dass ich keine echte Amtsperson der Stadt bin, und weigert sich, das gefälschte Dokument zu akzeptieren. Ich muss einen anderen Weg finden, um den Gefangenen zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Der Ratsbeamte erzählte mir, dass nur ein Ratsmitglied ein Hinrichtungsaufschub für Ris erteilen kann.Nun, da der Beamtre weiß, dass ich Ris helfen will, wird Tybirs Schwindel vielleicht nicht funktionieren. Ich muss entweder einen anderen Weg finden, die Hilfe des Beamten zu erhalten, oder mit einem Gefallen für ein Ratsmitglied in der Tasche zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

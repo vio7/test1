@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_chiurgeon_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>113</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das ist eindeutig ein weiterer Schlund … allerdings scheint er älter zu sein als andere seiner Art. Die flüsternden Stimmen der Flor zwitschern in deinen Ohren und alle anderen Geräusche verschwinden in der Ferne.
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Schneide den Schlund mit dem Transdimensionalen Skalpell auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du treibst das Skalpell in das knorrige Fleisch des Schlunds und es gibt nach wie zitternder Speck. Ermutigt schneidest du dich durch Fleisch und Knorpel. Die Flor stößt einen fauchenden, brodelnden Schrei aus und eine Welle spürbaren Hasses fegt über dich hinweg. Der Boden wackelt ... 
+
+{SOUND: Play infuriated Bloom voices "screaming" in pain, along with a rumble sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Biete dich den Zungen der Flor an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als du auf die Zungen zugehst, recken sie sich dir entgegen wie die Arme eines Liebhabers, der sich nach deiner Berührung sehnt. Im nächsten Augenblick umzingeln sie dich, würgen deine Arme und deinen Kopf, *durchdringen* dein Fleisch und lösen eine heiß-kaltes Prickeln in deinem Schädel aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du gehst weiter, ohne zu versuchen, die Ranken aus dem Weg zu schlagen. Eine von ihnen treibt zu dir, streift deinen Arm und durchstößt dein Fleisch mit einem prickelnden, heiß-kalten Gefühl. Desinteressiert wenden die Ranken sich von dir ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Lass den Schlund in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>… und der Schlund öffnet sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>In einer dunklen Ecke der Grube, umgeben von winkenden Ranken befindet sich eine knorrige Masse von Flor-Fleisch. Das Fleisch sieht dick und alt aus und du kannst eine schartige Naht entlang der Oberfläche erkennen, durch die ein schwaches Licht nach außen dringt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Der Schlund bleibt fest verschlossen. Als du näherkommst, beginnen die Stimmen der Flor zu zwitschern und in deinen Ohren zu zischen.
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Als du näherkommst, scheinen alle Geräusche der Grube zu ersticken. Das Geschwätz der Einheimischen und das raue Lachen der Soldaten entfernen sich und werden durch die zwitschernden und zischenden Stimmen der Flor ersetzt. 
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Anamnese] Dir wird plötzlich klar, dass das ein Schlund ist und die winkenden Ranken sind dessen Zungen. Irgendwie bist du dir sicher, dass du diesen Schlund schon einmal vor dir hattest. Einen Augenblick später korrigierst du dich selbst. Nicht *du* hast diesen Schlund schon einmal vor dir, sondern der Wandelnde Gott … und in einem anderen Körper. Die Erinnerung funkelt halb ausgestaltet am Rande deines Bewusstseins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Matinka legt ihre Hand auf deine Schulter. "Ein Schlund", flüstert sie, als wollte sie nicht dessen Aufmerksamkeit erregen. Ihre Stimme ist achtsam und voller Respekt. "Diese winkenden Ranken sind seine Zungen. Wenn er deinen Geruch mag, wird er reinbeißen." Ihr Mund verzieht sich leicht. "Wahrscheinlich ist es das beste, für unsereins, ihn zu meiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Dir wird plötzlich klar, dass das ein Schlund ist. Du weißt nicht, *woher* du das weißt, aber das Wort kam dir sofort in den Sinn, als ob du ihn schon einmal gesehen hättest. Du weißt mit der gleichen Gewissheit, dass die winkenden Ranken seine Zungen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Versuche, die Erinnerung des Wandelnden Gottes an diesen Schlund wieder abzurufen.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du konzentrierst dich auf die Erinnerung und langsam scheint sie hervorzutreten ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Der Wandelnde Gott steht vor dem Schlund in den Cheirurgen-Fällen … und dir wird klar, dass er ungewöhnlich alt ist. Er trägt den Körper eines großen, kräftigen Mannes - ein Glaive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Aus einem Lederetui an seiner Seite holt er ein kristallines Objekt, das er fest mit seiner Hand umklammert. Sein Name kommt dir in den Sinn - der Magmatische Ring! Das ist das Artefakt, das du begehrst. Es war einst im Besitz deines Erzeugers. 
+
+Du notierst dir sorgfältig die Details des Artefaktes, damit du es später, falls erforderlich, beschreiben und erkennen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Plötzlich ändern sich die flüsternden Stimmen der Flor, als wäre der Ring ein Prisma, durch das sie verständlich werden. Es ist immer noch nicht möglich, das Zwitschern in Worte zu übersetzen, aber *Eindrücke* füllen langsam den Geist des Wandelnden Gottes - Eindrücke des *Hungers*, der *Erwartung* und am stärksten des *Willkommenseins*</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Dein Erzeuger streckt einen Arm aus und der Schlund öffnet sich bei dessen Berührung, hervorgerufen durch eine Verpflichtung, die er in den Tiefen der Flor schmiedete. Er tritt durch das Portal und verschwindet. Die Erinnerung verblasst ... 
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du versuchst, dich auf die Erinnerung zu konzentrieren, aber sie entzieht sich dir. Mit geschlossenen Augen versuchst du dich an ein kleines Detail zu erinnern, um damit die ganze Erinnerung aufzurufen ...
+
+… aber nein. Die Erinnerung ist weg. Dennoch, *irgendwas* ist da ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Für einen ganz kurzen Moment berührst du einen riesigen Fund an Erinnerungen, die tief in dir verborgen sind. Eine Flut von Bildern taucht vor deinen Augen auf, zu schnell, um vollständig erfasst zu werden … aber du bist dir sicher, dass sie zum Wandelnden Gott gehören. Die Flor-Zungen zittern und zucken und visieren dich an, als würden sie die Erinnerungen auch spüren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die Stimmen der Flor werden etwas sanfter, als würden sie deine Anwesenheit langsam akzeptieren. Das Gefühl des Wiedererkennens, das dich beim ersten Betreten der Flor erfasste, ist jetzt wieder stärker. Irgendwie muss die Flor den Wandelnden Gott gekannt haben … und jetzt spürt sie ihn umso mehr in dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Die fleischigen Ranken hängen träge herum und beschreiben zufällige Muster in der Luft. Sie scheinen kein Interesse an dir zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Beobachte das Verhalten der Flor-Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Die fleischigen Ranken strecken sich in deine Richtung, als würden sie dich unbedingt berühren wollen, aber du stehst knapp außerhalb ihrer Reichweite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Hör bei den Flor-Stimmen genau hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Nicht", faucht Matkina, als sie sieht, was du vorhast. Aber es ist zu spät ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du schaust kurz auf Matkina zurück und sie blickt finster drein. "Du hast Glück gehabt. So läuft es meistens nicht, nicht für jeden. Der nächste Schlund ist vielleicht anders … nicht, dass du auf mich hören wirst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Erinnerungen tauchen langsam in deinem Bewusstsein auf, aber sie sind nicht deine Erinnerungen - sie gehören Artaglio ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du siehst dich von einer gleißenden Metall-Klippe in ein klares blaues Meer springen, während wehklagende Stimmen in deinen Ohren hallen ...
+
+Du stürmst einen Tunnel hinab und schreist wie ein Wahnsinniger, während du ein abgebrochenes Schwert schwingst und versuchst, schleimige Köpfe abzutrennen, die überall um dich herum hervortreten. Und trotz der Gefahr bist du *glücklich*, weil du dreißig jubelnde Freunde hinter dir hast und du dich noch nie so *lebendig* gefühlt hast ...
+
+Du klammerst dich hinter einer lachenden Reiterin an den Rücken einer Kreatur mit Flügeln. Die Reiterin dreht sich zu dir um und du bist dir nicht sicher, ob sie gleich das Seil durchtrennt, das dich vor dem Herunterfallen sichert ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Verbleibe bei den Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Versuche, dich loszureißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Ein wildes Grinsen breitet sich in deinem Gesicht aus. Der Teil von dir, der Artaglio ist, *genießt* diese Erinnerungen. Wie alles andere, das dir in deinem Leben bisher begegnete, hast du auch von diesen Zungen nichts zu befürchten. Warum hattest du so viel Angst?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Der Teil von dir, der Artaglio ist, *genießt* den Rausch dieser Erinnerungen und du kannst dich nicht davon losreißen … nein, du willst das auch gar nicht. Du hattest so viele dieser Dinge vergessen. Wie konntest du all diese Dinge *vergessen*...?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Du stehst stramm an einem düsteren Ort, von unzähligen Explosionen und trampelnden Füßen in eine tote, graue Masse gehämmert. Sie dehnt sich bis zum Horizont aus. Deine Kameraden sind mit der gleichen grauen Masse bedeckt. Das *Leben* hat sie verlassen und dir ist klar, dass *du* sie in diese Lage gebracht hast, für nichts weiter als das Versprechen von Shin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Die Flor-Zungen umklammern deinen Schädel immer fester und brechen schließlich deine Knochen und reißen dir das Fleisch vom Skalp. Noch mehr Ranken schießen aus dem Boden hervor und ergreifen deine Beine. Der Teil von dir, der Artaglio ist, beginnt zu schreien und diese Schreie kommen aus deinem Mund. Überall um dich herum werden die Stimmen der Flor lauter, kommen näher und brennen sich in deine Ohren und übertönen deine Gedanken ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>… und dann wird dir schwarz vor Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Als du wieder aufwachst, wird dir klar, dass der Teil von dir, der Artaglio war, verschwunden ist … Er wurde aus dir herausgerissen und von der Flor verschlungen. Offensichtlich hat dich die Flor bei diesem Vorgang auch getötet.
+
+Aber der Schlund ist genährt … und ist jetzt offen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Die Flor-Zungen bemerken kaum deine Anwesenheit. Keine von ihnen versucht, an dir vorbei zu streichen - sie scheinen völlig desinteressiert zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Follow-up PQ. 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Biete dich noch einmal den Zungen der Flor an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Du gehst in die Reichweite der Flor-Zungen … aber sie scheinen dich kaum zu bemerken. Nicht eine macht auch nur die geringste Bewegung in deine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Das Zischen und Zwitschern in der Flor ist auch nicht anders als sonst, soweit du es beurteilen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Du kannst in den Geräuschen keine Muster oder Bedeutungen erkennen - sie scheinen völlig zufällig zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Deine scharfen Sinne bieten dir keinen bestimmten Vorteil beim Hören der seltsamen Geräusche. Dir wird klar, dass die Flor-'Stimmen' ein psychisches Phänomen sind und kein körperliches. Sie sind förmlich Stimmen in deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Das Zischen und Zwitschern in der Flor scheint fast sanft und einladend zu sein, als du nah am Schlund bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Du kannst in den Geräuschen keine Muster oder Bedeutungen erkennen, aber du wirst das Gefühl nicht los, dass die Flor deine Anwesenheit irgendwie *billigt*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Als du näher an den Schlund gehst, wird das Zischen und Zwitschern in derFlor stärker und widersprechender, mit dissonanten Tönen dazwischen, die fast schon schmerzhaft für dein Gehör sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du kannst in den Geräuschen keine Bedeutung feststellen … außer der Tatsache, dass deine Anwesenheit die Flor wütend zu machen scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Das Trinken des Wassers in der Flor hat deine Sinne getrübt … aber in deinem benebelten Zustand scheint das Zischen und Zwitschern in der Flor fast verständlich zu sein. Sie rufen Eindrücke von *Hunger* und *Verlangen* hervor, und alles dreht sich um den Mann, der nahe der Grubenmitte steht - der Söldner-Hauptmann Artaglio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Das Trinken des Wassers in der Flor hat deine Sinne getrübt … aber in deinem benebelten Zustand scheint das Zischen und Zwitschern in der Flor fast verständlich zu sein. Sie rufen Eindrücke von *Hunger* und *Verlangen* hervor, und alles dreht sich um den Mann, der nahe der Grubenmitte steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Deine scharfen Sinne bieten dir keinen bestimmten Vorteil beim Hören der seltsamen Geräusche. Dir wird klar, dass die Flor-'Stimmen' ein psychisches Phänomen sind und kein körperliches. Sie sind förmlich Stimmen in deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Deine scharfen Sinne bieten dir keinen bestimmten Vorteil beim Hören der seltsamen Geräusche. Dir wird klar, dass die Flor-'Stimmen' ein psychisches Phänomen sind und kein körperliches. Sie sind förmlich Stimmen in deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Hör den Flor-Stimmen noch einmal genau zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Als du das Skalpell schwingst, legt Matkina ihre Hand über deine. "Warte. Ich habe noch nie gehört, dass jemand die Flor grundlos verletzt. Selbst ein Verstoßener hat Grund, sich zu fürchten. Bist du dir da sicher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Vielleicht nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Sie öffnet den Mund, um zu antworten und nimmt dann die Hand weg. Sie zuckt die Achseln. "Deine Show."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Du steckst die transdimensionale Klinge wieder in den Schaft. Eine Spannung liegt in der Luft. Dir fiel auf, dass die Stimmen der Flor kurz verstummt sind, als du das Skalpell gezogen hattest, aber jetzt sind sie wieder da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Du schneidest in das knorrige Fleisch des Schlunds, hackend und zerreißend. Es gibt mit Leichtigkeit nach und teilt sich bei Berührung mit deiner transdimensionalen Klinge. Die Stimmen der Flor krächzen und zischen, der Boden unter deinen Füßen bebt ... 
+
+{SOUND: Play infuriated Bloom voices "screaming" in pain, along with a rumble sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Beobachte noch einmal das Verhalten der Flor-Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Aus einem Lederetui an seiner Seite holt er ein kristallines Objekt, das er fest mit seiner Hand umklammert. Sein Name kommt dir in den Sinn - der Magmatische Ring! Das ist das Artefakt, das du begehrst. Es war einst im Besitz deines Erzeugers, so wie Dracogen es sagte.
+
+Du notierst dir sorgfältig die Details des Artefaktes, damit du es später, falls erforderlich, beschreiben und erkennen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Du bekommst den gleichen Eindruck von *Hunger*, wie zuvor, aber es konzentriert sich völlig auf Artaglio. Die Stimmen haben an Intensität zugenommen und lassen vermuten, dass der Schlund schon längere Zeit keine Beute mehr hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Du bekommst den gleichen Eindruck von *Hunger*, wie zuvor, aber es konzentriert sich völlig auf Artaglio. Die Stimmen haben an Intensität zugenommen und lassen vermuten, dass der Schlund schon längere Zeit keine Beute mehr hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Trinke Artaglios Essenz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Du entkorkst die Flasche mit dem dünnen gelben Schleim. Der Geruch, der aufsteigt, ist brutal, jenseits aller Beschreibung, wie verfaultes Fleisch gemischt mit Säure, vergleichbar mit Angstschweiß. Aber unterhalb der Angst ist ein stärkerer, erdiger Geruch und du konzentrierst dich mehr auf diesen und weniger auf den stechenden Geruch. Dadurch geht der Schluck leichter runter, dennoch würgst du als es in deinem Hals feststeckt. Der Nachgeschmack ist überraschenderweise nicht grässlich. Er ist sogar fast schmackhaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Ehrlich gesagt, ist der Nachgeschmack ziemlich angenehm. Kühn, würzig, vollmundig. Deine Gliedmaßen zittern kurz als dich ein Angstanfall überkommt, Adrenalin versetzt dein limbisches System in rein instinktiv reagierendes Kampf- oder Fluchtverhalten, aber dieser Rausch verschwindet wieder und hinterlässt ein angenehmes Glühen in dir. Dein Kopf vernebelt sich, deine Sicht verengt sich und hinter deinen Augen baut sich ein Druck auf - kein schmerzhafter Druck, aber das Gefühl , dass du gleich weinen … oder so sehr lachen musst, wie noch nie in deinem Leben zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Nein … es ist Lachen. Du kannst fühlen, wie das Lachen in dir anschwillt. 
+
+Du schnaubst, als du darüber nachdenkst, was das für Artaglios Erbe bedeutet - von den meisten für einen Feigling gehalten, zieht er sich an wie ein mutiger Mann, aber darunter steckt ein Mann, dessen größte Freude seine Freunde sind und große Taten für sie zu vollbringen. Plötzlich verstehst du, dass seine Angst nicht ihm gilt, sondern dem Gedanken, dass er seine Kohorte nicht beschützen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Artaglios Erinnerungen brennen sich in dein Bewusstsein und du bist dir nicht mehr sicher, wo seine enden und deine beginnen. Du spürst, wie sein Verstand und seine Gefühle versuchen, Platz in deinem Verstand zu finden.
+
+Die Flor-Zungen, die dich bislang ignoriert haben, orientieren sich plötzlich in deine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Die flüsternden Stimmen der Flor zwitschern in deinen Ohren und alle anderen Geräusche verschwinden in der Ferne. Das ist eindeutig ein weiterer Schlund … allerdings scheint er älter zu sein als andere seiner Art. 
+
+Nicht nur das … dieser Schlund ist dir *vertraut*. Du hattest ihn schon einmal vor dir ...
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Irgendwie bist du dir sicher, dass du diesen Schlund schon einmal vor dir hattest. Einen Augenblick später korrigierst du dich selbst. Nicht *du* hattest diesen Schlund vor dir, sondern der Wandelnde Gott … und in einem anderen Körper. Die Erinnerung funkelt halb ausgestaltet am Rande deines Bewusstseins ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Aus einem Lederetui an seiner Seite holt er ein kristallines Objekt, das er fest mit seiner Hand umklammert. Sein Name kommt dir in den Sinn - der Magmatische Ring! Das ist das Artefakt, das du für Dracogen finden solltest. 
+
+Du notierst dir sorgfältig die Details des Artefaktes, damit du es später, falls erforderlich, beschreiben und erkennen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Die wogenden Ranken scheinen immer noch nicht an dir interessiert zu sein. Ihre Bewegungen scheinen zufällig und träge zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Irgendwie hast du das Gefühl, dass du diesen Schlund schon einmal vor dir hattest. Einen Augenblick später korrigierst du dich selbst. Nicht *du* hattest diesen Schlund vor dir, sondern der Wandelnde Gott … und in einem anderen Körper. Die Erinnerung funkelt halb ausgestaltet am Rande deines Bewusstseins ...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

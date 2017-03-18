@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x6131_finalconfrontation_friendlylandingorb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Eine Erinnerung an freundliche Gesichter]</DefaultText>
+      <FemaleText>[Eine Erinnerung an freundliche Gesichter]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Bring den Boden zum Einsturz]</DefaultText>
+      <FemaleText>[Bring den Boden zum Einsturz]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Ebne den Boden ein]</DefaultText>
+      <FemaleText>[Ebne den Boden ein]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Lass die Kugel in Ruhe]</DefaultText>
+      <FemaleText>[Lass die Kugel in Ruhe]</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

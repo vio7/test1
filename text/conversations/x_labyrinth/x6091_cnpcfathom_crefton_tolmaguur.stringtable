@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6091_cnpcfathom_crefton_tolmaguur</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>81</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich versuche natürlich, Profit zu machen. Sobald ich einen Weg hier raus gefunden habe, werde ich das Fleisch auf den Markt bringen. Ich habe auch den richtigen Käufer dafür." Sie tippt sich an die Lippe. "Das Problem ist nur: ich weiß nicht, wie ich hier rauskomme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Geh hinter sie und brich ihr den Hals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Deine Kräfte wirken hier nicht, weil es *mein* Verstand ist. Gib deinen Willen auf, dann vernichte ich dich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Habe ich dich jemals betrogen, Tol? Du musst mir vertrauen, und wenn du das tust, wirst du frei sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Schatten um sie herum verblassen. Tonlos formt sie dankende Worte. Sie lässt ihren erschöpften Kopf auf den Boden des Labyrinths ruhen - dann versinkt sie in der Erde ohne Spuren zu hinterlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Die Sklavenhalterin Tol Maguur dreht den Kopf als du dich näherst, aber ihre Füße bleiben seltsam mit dem Boden verwurzelt. Sie lacht sanft. "Ah, meine liebe Rhin. So ein liebes Mädchen. Sie wird mir einen guten Preis einbringen, wenn ich erst von hier wegkomme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Tol betrachtet immer noch die eingesperrte Rhin. Deiner Anwesenheit schenkt sie kaum Beachtung, nur ein Zucken der Augenbrauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Die Sklavenhalterin Tol Maguur ist da, mit fuchtelnden Armen. Schatten ihrer Gezeiten abhängigen Begleiter umschwirren sie, inhaltslose Geister, die ein brennendes, vergängliches *Bedürfnis* ausstrahlen. Ihre Hände gehen durch sie hindurch und jedes Mal sieht sie aus, als würde sie sich gleich übergeben. Ihre Füße stecken im Boden fest - sie kann sich nicht bewegen.
+
+Du spürst wie die Gezeiten sich in dir winden, vielleicht als Reaktion auf die hungrigen Geister, die Tol umgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Sie steht immer noch mitten in einem Schwarm hungriger Geister. Sie sieht dich, verarbeitet aber nicht deine Anwesenheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Diese Schatten sind nicht real. Du kannst dich selbst befreien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Willst du raus? Ich befreie dich, wenn du versprichst, Rhin in Ruhe zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Schlage die Schatten mit Gezeitenenergie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Die Schatten verschlingen dich, wie du so viele Leben zuvor als deine Nahrung verschlungen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Sie kämpft und schreit gegen das Bedürfnis ihrer einstigen Lakaien, aber irgendwie durchdringen deine Worte ihre Barriere der Angst.
+
+Sie öffnet die Augen und sieht dich. Sie reicht dir eine Hand und ein Funken Energie blitzt zwischen deinen Fingerspitzen auf.
+
+Damit kommt Bewusstsein in ihre Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Sie kämpft und schreit gegen das Bedürfnis ihrer einstigen Lakaien, aber irgendwie beseitigen deine Worte nicht ihre Angst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Sie kann dich nicht hören, aber deine Worte verleihen ihren Peinigern Gewicht. Sie graben sich unter ihr Fleisch, werden von ihren Lungen wie Rauch inhaliert und sie kreischt vor Angst und Schrecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Deine Worte haben keine Wirkung und sie windet sich weiter vor Pein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Zuerst schlagen sie die Gezeiten, die dich umschwirren als wärst du ihre Nahrung … aber sie können nicht alles absorbieren. Sie blähen sich auf und werden größer, amorph und diaphan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Geh weg von hier, Tol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Nicht solang ich hier einen Profit sehe." Sie lächelt. "Du kennst mich doch besser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Dann vernichte mich. Du bist ein schwacher, eingebildeter Dummkopf und ich werde mich niemals ergeben.  *Niemals*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Sie schrumpft angesichts deiner Drohung und dabei verliert sie an Festigkeit. Sie versinkt langsam im Boden des Labyrinths und das Letzte, das du von ihr siehst, sind ihre angsterfüllten, verzweifelten Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Vernichte sie mit den Gezeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Wie? *Wie* hast du das vor? Meine Kräfte können hier nichts ausrichten. Wie kommt es, dass deine für diese Aufgabe ausreichen?" Sie versteckt fast ihren Spott. "Ich schlage dir folgendes Geschäft vor: du befreist mich, ich gehe weg. Tust du es nicht, nehme ich sie mit, wenn ich gehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Was tust du hier?"</DefaultText>
+      <FemaleText>"Was tust du hier?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Nein, nein. Das hast du noch nie. Du bist nicht wie der Rest von uns." Sie schaut weg und hinter sich, und dann gibt sie dir die Hand.  "Einverstanden. Ich vertraue dir."
+
+Als sie dich berührt, verschwindet sie langsam. Sie betrachtet vergnügt ihre Füße, als sie sie wieder aus dem Boden zieht. Sie geht langsam zu Boden, ihre Hand klammert sich immer noch an deine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Sie lacht bitter. "Du bist ein Verstoßener wie ich. Wie Matkina. Wie all die anderen. Dir vertrauen? Da würde ich noch eher einem Felsenwurm vertrauen."</DefaultText>
+      <FemaleText>Sie lacht bitter. "Du bist eine Verstoßene wie ich. Wie Matkina. Wie all die anderen. Dir vertrauen? Da würde ich noch eher einem Felsenwurm vertrauen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Was willst du damit ..." Sie dreht sich und versucht, dich im Auge zu behalten und gleichzeitig die Schatten zu verdrängen, aber beides gelingt ihr nicht.
+
+Du gehst näher an sie ran, umschließt ihren Hals mit deinen Armen und mit einem schneller Ruck brichst du ihr das Rückgrat.
+
+Sie fällt zu Boden, würgend und zuckend. Einige Augenblicke später stirbt sie. Ihr Körper löst sich auf und versinkt im Boden des Labyrinths aus und dann ist sie verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Was … Was machst du? Ich kann dich spüren … nein. Nein. Nein!" Ihre Venen schwellen an und Blut quillt aus ihren Augen. Ihr Körper schwillt an und ihre Kleidung umschließt sie eng. Ihre Haut reißt auf und sie beginnt zu brennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Kurz danach ist sie nur noch ein Haufen Asche am Boden. Das Labyrinth verschlingt sie gierig.
+
+Keine Spur von Tol und ihren Schatten bleibt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Eine Frau mit Maske und wildem Haarwuchs steht da und fuchtelt mit den Armen. Schatten umschwirren sie, inhaltslose Geister, die ein brennendes, vergängliches *Bedürfnis* ausstrahlen. Ihre Hände gehen durch sie hindurch und jedes Mal sieht sie aus, als würde sie sich gleich übergeben. Ihre Füße stecken im Boden fest - sie kann sich nicht bewegen.
+
+Du spürst wie die Gezeiten sich in dir winden, vielleicht als Reaktion auf die hungrigen Geister, die sie umgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Die Frau mit den wilden Haaren dreht den Kopf weg von der jungen Rhin als du dich näherst, aber ihre Füße bleiben seltsam mit dem Boden verwurzelt. Eine Atemmaske hängt an einem Schlauch um ihren Hals und du kannst die Furchen sehen, die die Maske in ihrem Gesicht hinterlassen hat.
+
+"Sobald ich einen Weg hier raus gefunden habe, kann ich mit diesem Menschenfleisch einen guten Gewinn machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Sie blickt dich ruhig an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Schatten umschwirren sie, inhaltslose Geister, die ein brennendes, vergängliches *Bedürfnis* ausstrahlen. 
+
+Sie schlägt gereizt mit der Hand nach ihnen. "Lästig, dass diese Geister immer stören müssen. Schlimmer ist aber, dass meine Füße feststecken. Wenn ich doch nur freikommen könnte ..."
+
+Du spürst wie die Gezeiten sich in dir winden, vielleicht als Reaktion auf die hungrigen Geister, die sie umgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Sie spricht wortlos ihren Dank aus und ruht dann ihren erschöpften Kopf auf dem Boden des Labyrinths aus und versinkt schließlich in der Erde ohne Spuren zu hinterlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Tol, bist du das? Was ist mit dir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Sie hört kurz auf, nach den Schatten zu schlagen, und schaut zu ... Nein, *durch* Rhin hindurch. Ich dachte, ich hätte etwas gehört … einen Vogel ..." Dann schreit sie laut auf als noch ein Schatten an ihrem Gesicht vorbei huscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Diese Geister, ich kenne sie. Sie waren Menschen, süchtig nach … dem, was sie ihnen antat. Ohne mich, die ihre Mächte in Schach hielt, hätte sie sie alle getötet."
+
+Sie wendet sich dir zu. "Wir sollten ihr helfen soweit wir das können. Sie war furchtbar zu mir, ich weiß, aber … sie hat mich auch *gebraucht*. Sie schüttelt den Kopf. Ich kann ihre Taten nicht gutheißen. Ich bin nur ... Ich will ihr verzeihen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Sie greift deine Hand mit einem überraschend festen Griff. "Nein", sagt sie und sieht immer noch zu Tol. "Ich sage nicht, dass sie keine schreckliche Person war, oder dass sie den Tod nicht verdient habe, aber ..."
+
+Sie schaut dir in die Augen. "Wir haben das nicht zu entscheiden. Wenn wir nichts für sie tun können, dann sollten wir sie ihrem Schicksal überlassen und es nicht für sie entscheiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Die Schatten verschlingen gierig die Gezeiten und umschwärmen dich, als wärst du ihre Nahrung. Nachdem sie alles, was du ihnen zugeworfen hast,  aufgesogen haben, kehren sie zu ihrer vorherigen Aktivität zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ist das mein kleiner Vogel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Sie duckt sich und schützt ihren Kopf vor einem neuen Angriff. Sie scheint nicht mitbekommen zu haben, dass keiner von euch tatsächlich da ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Unfähig zu sprechen, nickt Rhin nur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Sie runzelt die Stirn. "Ich hasse es, wenn jemand gequält wird … egal wie sehr sie verdient haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Sie schaut Rhin an, für einen Moment schaut sie bewusst hin. "Ist das mein kleiner Vogel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Brich ihr jetzt den Hals, nachdem Rhin nicht da ist, um dich zu stoppen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Sie trocknet plötzlich aus, ihr Fleisch schrumpft und zerfällt, bis nur noch Staub übrig ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

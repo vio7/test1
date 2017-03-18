@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_machine_silver_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nachdem der Gezeitenimpuls ausgelöst wurde, summt die Maschine untätig vor sich hin. Sie bietet keine Möglichkeit, mit ihr zu interagieren.</DefaultText>
+      <FemaleText>Nachdem der Gezeitenimpuls ausgelöst wurde, summt die Maschine untätig vor sich hin. Sie bietet keine Möglichkeit, mit ihr zu interagieren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Maschine summt untätig vor sich hin. Sie bietet dir keine Möglichkeit, mit ihr zu interagieren.</DefaultText>
+      <FemaleText>Die Maschine summt untätig vor sich hin. Sie bietet dir keine Möglichkeit, mit ihr zu interagieren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Eine Fehlermeldung blitzt auf der Anzeige der Maschine, die vermutlich auf die Kummerscherbe in dem Tank zurückzuführen ist.</DefaultText>
+      <FemaleText>Eine Fehlermeldung blitzt auf der Anzeige der Maschine, die vermutlich auf die Kummerscherbe in dem Tank zurückzuführen ist.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Diese Maschine führt dazu, dass der beistehende Tank Gezeitenenergie abgibt, welche die Aufmerksamkeit der Kummerscherben auf sich lenkt.</DefaultText>
+      <FemaleText>Diese Maschine führt dazu, dass der beistehende Tank Gezeitenenergie abgibt, welche die Aufmerksamkeit der Kummerscherben auf sich lenkt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Benutzeroberfläche dieser Maschine ist beleuchtet und betriebsbereit.</DefaultText>
+      <FemaleText>Die Benutzeroberfläche dieser Maschine ist beleuchtet und betriebsbereit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Maschine zeigt an, dass sich im nahen Tank Gezeitenenergie aufbaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3121_chois_marker</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Als du dich der Steinsäule des Grabes näherst, spürst du, wie sich Temperatur und Druck der Luft um dich herum leicht verändern. Winzige Luftzüge lenken deinen Blick auf gewisse Zeichnungen im Stein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du erinnerst dich daran, was dir geraten wurde, und hältst die Luft an. Die sanfte Brise lenkt deinen Blick auf unerwartete Stellen an der Wand. Bald wird dir das Muster und die Bedeutung der Luftzüge klar. 
+ 
+ Sie lehren deine Augen zu *sehen* und plötzlich erscheint die Wahrheit klar und deutlich vor dir, in sich windenden Lettern, die in den Bewegungen der Luft geschrieben sind. Es ist eine ältere Version der Wahrheit, aber du kannst sie entziffern.
+ 
+ Es ist eine Grabinschrift. Der Name lautet Choi Cai'sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Wieder lenkt der Wind deinen Blick auf die winzigen Zeichnungen in der Felswand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Cai'sul... das war der Name des Memorialisten, dem du bei deiner Ankunft im Tal begegnet bist, und der in Sicherheit teleportiert wurde: *Ronos* Cai'sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Cai'sul ... das war der Name des Memorialisten, dem du bei deiner Ankunft im Tal begegnet bist: *Ronos* Cai'sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Wind hat nicht aufgehört. Mit sanftem Druck will er deinen Blick auf neue Muster lenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Dem Wind folgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der Luftzug lässt den Namen Choi Cai'sul erscheinen und erzählt ihre Geschichte - wie sie von den Kindern der Endlosen Pforte getötet wurde und wie ihre Familie Rache schwor. Als die Geschichte fertig erzählt ist, hört der Wind auf und die Lettern verschwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der subtile Luftzug schreibt Wörter in die Luft und du liest die Geschichte:
+ 
+ "Dies ist das Grab von Choi Cai'sul. Es ist leer, denn ihr Körper wurde von den schändlichen Kindern geraubt, um ihn ihrer Endlosen Pforte und ihrem teuflischen Meister zu opfern. Wir errichten diesen Grabstein, um unserer geliebten Choi zu gedenken... Und um ewige Rache an dem Mann zu schwören, der sie uns entrissen hat. Choi Cai'sul - dein Name wird nie vergessen werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Formen bleiben noch einen Moment lang bestehen, dann hört der Luftzug auf und die Buchstaben verschwinden sofort. Nur dein Atem bewegt jetzt noch die Luft in der Gruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Als du die Inschrift auf der Säule berührst, fühlst du den bekannten Luftzug, der deinen Blick auf die Zeichnungen im Stein lenkt. Wie in Ronos Grab schreibt die Luft selbst die Chiffren der Wahrheit, die den Namen der Verstorbenen ergeben: Choi Cai'sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Choi regt sich in deinem Geist. Sie sieht, was du siehst, und du fühlst, was sie fühlt - allerdings kannst du nicht genau ausdrücken, was sie fühlt: Ergebenheit in ihr Schicksal vielleicht, oder Resignation oder Schmerz angesichts des Schmerzes ihrer Eltern. Und darunter noch etwas anderes - ein Bewusstsein dafür, wie sehr sie von ihnen geliebt wurde. Eine Liebe, deren ganzes Ausmaß sich erst jetzt zeigt, wo sie ihnen entrissen wurde. 
+ 
+ Sie flüstert unhörbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Und damit verändert sich Chois ganzes Wesen. Sie ist keine Leiche mehr, die in dir verwest, kein Fluch, der in deinem Geist hängt, kein Splitter der Schuld, der deine Seele zerreibt. 
+ 
+ Nein. 
+ 
+Sie ist Balsam, ein kleiner Balsam für die Seele - das Gefühl, dass Kaputtes repariert und Getrenntes wieder zusammengefügt werden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Dann bist du wieder alleine in deinem Verstand.</DefaultText>
+      <FemaleText>Dann seid Ihr wieder alleine in Eurem Verstand.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Dem Wind erlauben, deine Blicke zu lenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Dem Wind erneut erlauben, deine Blicke zu lenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Der sanfte Luftzug lenkt deinen Blick in verschiedene Richtungen. Du kannst jedoch kein Muster und keinen Zweck darin erkennen. Vermutlich ist es auch verrückt, zu denken, der Wind könnte einen Zweck verfolgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

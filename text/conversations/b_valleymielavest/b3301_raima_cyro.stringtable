@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_raima_cyro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese Frau enthüllt ein beites Lächeln und genießt die Wut des Mannes, mit dem sie spricht. "Du denkst wahrscheinlich, dass die Endlose Schlacht tatsächlich enden würde, wenn du gewinnen würdest.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Du bist zurück!“ sagt sie mit einem Lächeln. "Weißt du, ich frage mich, ob Andronus lang genug lebte, um zu Sinnen zu kommen.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Euer Streit war doch auf die Endlose Schlacht bezogen. Ist das warum die Schlacht weiter andauert?“</DefaultText>
+      <FemaleText>"Euer Streit war doch auf die Endlose Schlacht bezogen. Ist das warum die Schlacht weiter andauert?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Letztendlich? Ja. Wir kämpfen, um die Macht und die Weitsicht des Wandelnden Gottes zu demonstrieren.“ Sie seufzt. "Diese Idioten, die auf der Seite der Ersten stehen? Sie werden verlieren. Wir haben unseren Vater auf unserer Seite. Und er macht nie einen Schritt, ohne dass er weiß, dass er gewinnen wird. Sobald wir das tun? *Dann* werden sie sehen, dass wir die ganze Zeit über Recht hatten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Jetzt, dass Andronus nicht in mein Ohr schreit?“ sagt sie und gibt dir ein Zwinkern. "Absolut.“</DefaultText>
+      <FemaleText>"Jetzt, dass Andronus nicht in mein Ohr schreit?“ sagt sie und gibt dir ein Zwinkern. "Absolut.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wie du es nicht glauben würdest.“</DefaultText>
+      <FemaleText>"Wie du es nicht glauben würdest.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Fühlt du dich jetzt etwas besser als zuvor?“</DefaultText>
+      <FemaleText>"Fühlt du dich jetzt etwas besser als zuvor?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Immer noch froh, dass dein Freund weg ist?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Lebwohl, Bruder.“</DefaultText>
+      <FemaleText>"Lebwohl, Schwester."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Das Gesicht dieses Mannes ist errötet und wütend. Venen pochen auf seiner Stirn und seine Augen blicekn auf seine Gefährtin.
+
+"Sei. Ruhig. Raima.“ Er spuckt jedes Wort aus und greift seinen Waffengürtel mit blutleeren Fingern. "Sei ruhig, oder ich beweise dir jetzt, wie falsch du liegst.“</DefaultText>
+      <FemaleText>Das Gesicht dieses Mannes ist errötet und wütend. Venen pochen auf seiner Stirn und seine Augen blicekn auf seine Gefährtin.
+
+"Sei. Ruhig. Raima.“ Er spuckt jedes Wort aus und greift seinen Waffengürtel mit blutleeren Fingern. "Sei ruhig, oder ich beweise dir jetzt, wie falsch du liegst.“</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_piquo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Cheirurg machte Piquo wie versprochen stärker. Trotz seiner Abscheu gegen die Schattenseite kehrte er schließlich dorthin zurück und wurde einer von Gourmandus' Vollstreckern. Er hatte keine Familie, aber er hatte *Respekt*, was für ihn genauso viel wert war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Piquos neue Erscheinung ließ ihn bessere Arbeit in den höheren Lagen der Sagus-Klippen finden. Schließlich bekam er eine Anstellung bei Ruhes Gasthaus in Karawanserei.[BR][BR]Sie berichtet jedem, der es hören will, was für gute Arbeit er leistet, und er erfreut das Auge. Piquo hofft, eines Tages das Geschäft zu übernehmen, aber Ruhe hat andere Pläne mit ihm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Was mit einem oder zwei Gläsern begann wurde zu vier oder fünf. Bald wurde es zu Gewohnheit. Piquo ging jede Nacht ins Wirtshaus und manchmal bezahlte er sogar ein Mädchen dafür, dass es bei ihm blieb, wenn er das nötige Geld hatte. Solange er bezahlen konnte, behandelten ihn die Menschen dort gut. Und wenn er es nicht konnte, arbeitete er hart, um mehr Geld zu verdienen.[BR][BR]Er brachte es nicht weit, aber er lebte sein Leben und bekam sogar auf gewisse Weise den Respekt, den er wollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Wie sich herausstellte blühte Piquo im Orden der Wahrheit auf. Er las alles, was er in die Finger bekam, und versuchte alles, was er versuchen durfte. Nach wenigen kurzen Jahren war er äußerst versiert in allen Belangen der Numenera. In weniger als einem Jahrzehnt wurde er zum Aeon-Priester.
+
+Nun trachtet er danach, Mins Stellung als Oberhaupt des Ordens einzunehmen. Min setzt ihm nur wenig entgegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Als Kultist erfuhr Piquo viel über den Wandelnden Gott und seine Nachkommen. Er entdeckte jedoch Widersprüche zwischen dem, was er in den Chroniken sah und was die Kultisten ihm erzählten. Doch aus Furcht, ausgestoßen zu werden, wagte er es nicht, diese zur Sprache zu bringen.[BR][BR]Nach Jahren des Studiums beschloss er, dass der Wandelnde Gott in Wahrheit *kein* Vorbild war, sondern ein Mann, der sich nur für sich selbst und seine eigene Unsterblichkeit interessierte. Nun fragt er sich, für welche anderen Arbeiten ihm seine Jahre als Kultist von Nutzen sein können. Falls es solche gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Nach dem Mord an Qeek ging Piquo zurück zum Cheirurgen und knallte einen Sack Shin auf den Tisch. Er wollte stärker werden. Für Qeek konnte er nicht da sein.[BR][BR]Das würde er nie mehr geschehen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Piquo und Qeek verbrachten zusammen ein langes Leben. Irgendwann konnte Piquo Qeek überzeugen, dass auf den Straßen oben bessere Arbeit gab. Sie hatten es schwer, aber sie hatten immer einander.[BR][BR]Schließlich heirateten sie und verließen das Sagus-Protektorat auf der Suche nach einem ruhigeren Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Piquo wartete mehrere Tage lang auf die Rückkehr des Letzten Verstoßenen, bis ihm klar wurde, dass er betrogen worden war. Desillusioniert und mit gebrochenem Herzen begann er wieder, mit jeder Arbeit, die er bekommen konnte, ein paar Shin zusammenzukratzen.[BR][BR]Eines Tages wollte er zu dem Cheirurgen zurückkehren. Er würde seine *eigene* Entscheidung treffen und sich nicht von jemand anderem sagen lassen, was er mit seinem Leben anfangen soll.</DefaultText>
+      <FemaleText>Piquo wartete mehrere Tage lang auf die Rückkehr der Letzten Verstoßenen, bis ihm klar wurde, dass er betrogen worden war. Desillusioniert und mit gebrochenem Herzen begann er wieder, mit jeder Arbeit, die er bekommen konnte, ein paar Shin zusammenzukratzen.[BR][BR]Eines Tages wollte er zu dem Cheirurgen zurückkehren. Er würde seine *eigene* Entscheidung treffen und sich nicht von jemand anderem sagen lassen, was er mit seinem Leben anfangen soll.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Tagelang wankte und zögerte Piquo vor der Kammer des Cheirurgen. Schließlich trat ein gut gekleideter Mann auf ihn zu und bot ihm an, sein für nur wenige Shin zum Besseren zu verändern. Piquo zahlte bereitwillig.[BR][BR]Der Mann kam Tag für Tag wieder, jedes Mal mit einem Geschenk, einem neuen Versprechen und der erneuten Forderung nach Geld. Piquo gab innerhalb einer Woche den Rest seines Geldes aus und sah den Mann nie wieder. Sein Leben veränderte sich nie zum Besseren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

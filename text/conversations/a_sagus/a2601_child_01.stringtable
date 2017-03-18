@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_child_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"So ein Kerl in einer Kapuze hat uns zehn Shin gegeben, damit wir nach einer Dame mit einem silbernen Gürtel Ausschau halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Diese Herrschaften sollten auf ihr Geld aufpassen. Es fällt versehentlich immer wieder in meine Taschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich hab so viel Geklimper in meinen Taschen, dass ich mich frage, warum meine Hose nicht runterrutscht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wenn ich wieder runtergehe, gehe ich zum Fleischhändler. Werde mir von allem etwas gönnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Scher dich weg, Nervensäge. Du ziehst die Blicke auf dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

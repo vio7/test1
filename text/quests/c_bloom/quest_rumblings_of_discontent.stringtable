@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_rumblings_of_discontent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rumpeln der Unzufriedenheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde die fehlenden Patroullien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Melde dich bei Brusca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Beide Patroullien gerettet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Nihliesh-Patroullie gerettet, aber Sklavenviertel-Patroullie getötet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sklavenviertel-Patroullie gerettet, aber Nihliesh-Patroullie getötet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Beide Patroullien tot aufgefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Endspiel betreten (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Endspiel betreten (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Brusca, einer der Leutnants der Memovira, hat mich gebeten, nach Spähtrupps Ausschau zu halten, die in der Flor verschwunden sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Brusca hat erzählt, dass die zwei vermissten Spähtrupps genauso ausgerüstet sind wie der Rest der Schläger der Memovira, in beschlagener Lederrüstung. Wenn ich sie finde, sollte ich Brusca informieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Jetzt, wo ich beide Spähtrupps gefunden habe, sollte ich zu Brusca zurückkehren und ihr Bericht erstatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe verhindert, dass einer von Bruscas Spähtrupps von Mutanten in Klein-Nihliesh massakriert wurde, und ich habe die Überlebenden des anderen Spähtrupps aus dem Alten Sklavenviertel gerettet. Brusca war erfreut und hat mich für meine Arbeit belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe verhindert, dass einer von Bruscas Spähtrupps von Mutanten in Klein-Nihliesh massakriert wurde, aber der andere Trupp wurde getötet und von den Murden halb aufgefressen. Brusca war über das Morden der Murden erbost, hat mich aber für meine Hilfe belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe die Überlebenden des einen Spähtrupps aus dem Alten Sklavenviertel retten können, aber der andere Trupp ist in Klein-Nihliesh gestorben. Brusca war über das Morden der Mutanten erbost, hat mich aber für meine Hilfe belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Beide von Bruscas Spähtrupps wurden abgeschlachtet. Sie war über diese Neuigkeiten nicht sehr erfreut, aber hat mich dennoch belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Da ich keine Ahnung habe, wann und ob ich in die Flor zurückkehren kann, wird Brusca sich wohl selbst um das Schicksal ihrer Spähtrupps kümmern müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Da ich keine Ahnung habe, wann und ob ich in die Flor zurückkehren kann, wird Brusca wohl sehr lange warten müssen, bis ich ihr von ihren Spähtrupps berichten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe einen der vermissten Spähtrupps in Klein-Nihliesh gefunden, aber sie sind in einen Streit mit Mutanten geraten und gestorben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe einen der vermissten Spähtrupps in Klein-Nihliesh angetroffen. Sie sind in einen Streit mit Mutanten geraten, aber ich habe ihnen geholfen, zu fliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe die Überreste eines Spähtrupps im Alten Sklavenviertel gefunden. Es sieht aus, als ob seine Mitglieder von den Murden zum Teil aufgefressen wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe die Überlebenden des Spähtrupps gefunden, die im Alten Sklavenviertel von den Murden gefangen gehalten wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe den Spähtrupp befreit, der von den Murden im Alten Sklavenviertel gefangen gehalten wurde, und ihnen zur Flucht verholfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe den Spähtrupp befreit, der von den Murden im Alten Sklavenviertel gefangen gehalten wurde, aber sie wurden während ihres Fluchtsversuchs getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Artaglio hat mir erzählt, dass erst vor Kurzem ein Spähtrupps durch die Cheirurg-Fälle gekommen ist. Sie waren auf dem Weg zum Alten Sklavenviertel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Brusca hat erzählt, dass die vermissten Spähtrupps irgendwo im Gewaltigen Innern oder in den naheliegenden Slums zu finden sein sollten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich traf eine von Bruscas verschwundenen Patrouillen in Klein-Nihliesh, doch sie gerieten in Streit mit Mutanten und ich half den Mutanten, sie zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

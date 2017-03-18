@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6081_cnpcfathom_oasis_dicklehrbergobelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein Obelisk streckt sich von der Plattform hoch wie ein Horn oder eine Klaue oder eine Zunge. Die zweifarbige, glatte Oberfläche schimmert ein wenig - nicht mineralisch, aber auch nicht ganz organisch.
+
+Die grell bunte Erscheinung täuscht über das Alter und die Weisheit hinweg, die von dem Obelisken auszugehen scheinen - als wäre er hier von Anfang an gewesen und hätte dennoch seine jugendliche Energie bewahrt.
+
+Vier Runen sind eingraviert, Symbole einer Zivilisation, die noch älter ist, als die Wahrheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Obelisk - grell bunt, uralt und mit vier Runen graviert - strahlt weiter eine verborgene Weisheit aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Auch wenn dir der Obelisk zweifelsohne noch viele Dinge zeigen könnte, spürst du, dass er inaktiv wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Untersuche die Runen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Untersuche den Obelisken selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Berühre den Obelisken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Lass den Obelisken in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Als du deine Hand auf die glatte Oberfläche legst, bewegen sich die Muster und strudeln wie Plasma. Nein - eigentlich bewegen sie sich überhaupt nicht. Das war lediglich eine Art Halluzination.
+
+Dir kommt es so vor, als wäre das bereits schon einmal passiert, das und noch mehr. Eine Erinnerung offenbart und verdreht sich in deinem Kopf, wie die Farben auf dem Obelisken. Es ist nur eine Frage des Erfassens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Versuche, die Erinnerung festzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Gehen.</DefaultText>
+      <FemaleText>Geht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ein breites Grinsen breitet sich in deinem Gesicht aus als du die Weisheit spürst, die aus dem Stein quillt. Die zwei Ghibra neben dir - die dir halfen Jahrhunderte alte Oberflächenablagerungen weg zu kratzen - spüren nichts.
+
+Aus deiner Tasche holst du ein fleischartiges, lebendes Artefakt, in das diverse Apparate und Kristalle integriert wurden.  Du legst es auf den Obelisken und schaust zu, wie einer der Kristalle schwach zu leuchten beginnt und die mentalen Emissionen des Obelisken abschöpfen. Du und nur du wirst die Beute seiner Lehren einheimsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Erinnerung schwindet, aber an ihrer Stelle tauchen Gedanken vom Obelisken auf. Es sind menschliche Gedanken, aber die Gedanken eines Mannes, der von dir durch einen derart großen Altersunterschied entfernt ist, dass er fast ein Außerirdischer für dich sein könnte.
+
+Du spürst einen wissbegierigen Verstand, schlitzohrigen Humor und einen pfiffigen Sinn für ein gutes Geschäft. Du erhaschst Fetzen und Stücke von der Erfahrung dieses Oldtimers: Reisen in entfernte Länder, die schon lange nicht mehr existieren, exotische Waren, um die gefeilscht und dann auf die Märkte in seiner Heimat gebracht wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Es sind einfache Formen: etwas wie ein schwerer Vierbeiner im Profil, eine verschlungene Doppelkurve, ein zweimal gezackter Kamm und ein rechter Winkel. Aber trotz ihrer Einfachheit - oder gerade deswegen - ist ihre Bedeutung unergründlich.
+
+Sie könnten einfache Glyphen sein, die reale Dinge einer alten Zivilisation zeigen oder symbolische Sinnbilder oder Phoneme oder sinnloses Gekritzel. Sie könnten eine Warnung oder eine Einladung, ein Name oder ein Epitaph sein. So ist der Versuch des Menschen, seiner Welt Bedeutung einzuflößen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du schaust dir genau die seltsame Ausbuchtung an und versuchst, in den farbenfrohen Wirbeln und Mustern eine Bedeutung zu erkennen. Wie bei allen Numenera entzieht sich dessen exakte Beschaffenheit dem Wissensstand der nachfolgenden Welten. Aber durch deine Schulung hast du eine Ahnung, was es sein könnte: eine Art Mental-Speicher, der die Gedanken oder Erinnerungen einer Person speichert oder sie selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du schaust dir genau die seltsame Ausbuchtung an und versuchst, in den farbenfrohen Wirbeln und Mustern eine Bedeutung zu erkennen. Keine Antworten erscheinen. Da ist nur das ständige hartnäckige Gefühl, dass er etwas zu lehren hat. 
+
+Das Gefühl wird intensiver, je mehr du dich dem Obelisken näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Aber die Fremdheit seines Verstandes ist zu viel für dich - eine kognitive Dissonanz wird misstönend, bis dein Verstand ausbricht, bevor er völlig davon betäubt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Selbst als du dich vom Obelisken entfernst, spürst du eine mentale Energiewelle, die aus ihm kommt.
+
+Was immer er dich lehren wollte - ob gut oder böse - es verschwindet in den Himmelraum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Als die Erinnerung schwächer wird, spürst du, dass die Energie des Obelisken in der Zeit verschwunden ist und du in deiner eigenen, jüngeren Vergangenheit verloren warst.
+
+Das *Ding*, das den Obelisken anzapfte, ist längst verschwunden, also, was immer es mit dir teilen wollte, es ist in den Himmelsraum entschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du befindest dich in einer Kammer rohen, pochenden Fleisches. Der pulsierende Ton ist hier viel lauter.
+
+Leises Flüstern dringt an deine Ohren, ruft dich tiefer in die Kammer hinein. Das Flor-Fleisch unter deinen Füßen zittert vor aufgeregter Erwartung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du befindest dich in einer Kammer rohen, pochenden Fleisches. Der pulsierende Ton ist hier viel lauter.
+
+Das Fleisch der Flor unter deinen Füßen zittert und zischt, als wäre ihr deine Berührung zutiefst zuwider. Während deiner Zeit in der Flor hat sie dich zu *hassen* gelernt. Ihr ganzes Bewusstsein ist nun auf dich konzentriert und bereit, dich ihren ganzen Zorn spüren zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

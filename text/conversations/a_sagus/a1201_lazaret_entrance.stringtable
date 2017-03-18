@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_lazaret_entrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese dicke, schwere Metalltür sieht aus wie neu. Runde Noppen verlaufen in Doppelreihen kreuz und quer über ihre Oberfläche. 
+
+Als du auf die Tür zugehst, öffnet sich plötzlich eine der Noppen und gibt eine runde Öffnung frei, aus der einige winzige Fäden Synth hervorstreben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Diese dicke, schwere Metalltür sieht aus wie neu. Runde Noppen verlaufen in Doppelreihen kreuz und quer über ihre Oberfläche. Sie ist fest verschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Follow-up PQ. 3</DefaultText>
+      <FemaleText>Follow-up PQ. 3</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Tür genauer untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Tür erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die metallene Oberfläche ist von winzigen Fäden durchzogen, die mit freiem Auge kaum sichtbar sind. Sie verlaufen ausschließlich in geraden Linien und rechten Winkeln und scheinen bei den runden Noppen zusammenzulaufen. 
+
+Bei genauerer Betrachtung bemerkst du, dass jede Noppe einzigartig ist - einige haben eine flache Oberfläche, andere sind eigentlich Polygone und einige wenige haben winzige Öffnungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Das Metall ist von winzigen Fäden durchzogen. Sie scheinen bei den runden Noppen zusammenzulaufen, von denen keine genau der anderen gleicht.
+
+Du findest nichts, was nach einem Türöffner aussieht und wenn du die Tür berührst, passiert nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Leider siehst du nichts, was ein Griff, Schlüsselloch oder Türöffner sein könnte. Du berührst gleichzeitig die ebenen Flächen und die kleinen Noppen, aber nichts passiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>An die Tür klopfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Tür sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du klopfst ... zuerst vorsichtigm dann fester. Die Tür macht weder ein Geräusch, noch bewegt sie sich in irgendeiner Weise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Niemand zuhause, Liebes. Schon seit Tausenden Jahren nicht mehr." Sie sieht die Tür prüfend an. "Eine meiner Kolleginnen im Orden behauptet, sie hätte die Tür aufbekommen, aber ich glaube ihr nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Schalldicht, feuerfest, explosionsfest. Anklopfen bringt hier nichts. Die Tür wird sich nicht öffnen ... nicht mal für dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Tür sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die flatternden Fasern schießen vor und wickeln sich um das Auge. Für einen Moment erwacht das Auge zum Leben, summt und flüstert, wird warm in deiner Hand. Die Synth-Fasern antworten mit leisen, vibrierenden Tönen. Einen Moment später ziehen sie sich zurück.
+
+Die Tür geht auf und du trittst in die Kammer dahinter ein ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das Metallauge nahe an die offene Öffnung halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Das Metallauge benutzen, um die Tür zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ein weiteres Mal wickeln sich die Synth-Fasern um das Auge, kommunizieren kurz mit ihm und ziehen sich dann wieder zurück. Die Tür geht auf und du betrittst die Kammer dahinter ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Diese dicke, schwere Metalltür sieht aus wie neu. Runde Noppen verlaufen in Doppelreihen kreuz und quer über ihre Oberfläche. 
+
+Wie zuvor geht eine der Noppen auf und einige Synth-Fasern schauen aus dem Loch hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

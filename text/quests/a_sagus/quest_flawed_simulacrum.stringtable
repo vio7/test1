@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_flawed_simulacrum</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Fehlerhaftes Scheinbild</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Konfrontiere Finzins Levi und finde heraus, was es will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Erzähle Finzin, was das Levi will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Löse die Situation zwischen Finzin und seinem Levi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Finzin zurück und erzähle ihm, was geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre zu Finzin zurück und erzähle ihm, was geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre zu Finzin zurück und erzähle ihm, was geschehen ist.
+{SCRIPT: This is no longer one of the possible outcomes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kehre zu Finzin zurück und erzähle ihm, was geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Finzin Gibt Noch Ein Jahr Auf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Levi davon überzeugt, dass sie kein anderes Jahr bekommt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Levi Geheilt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Levi getötet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Levy Festgenommen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Besorge ein Gerät, dass ein Jahr von Finzins Leben zu  seinem Levi übertragen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Kehre mit dem Zeitübertragungsgerät zu Finzin zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Warte, bis das Übertragungsgerät fertig ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Kehre zu Min von Tan Liang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Sagus verlassen, nachdem du mit dem Levi fertig warst, ohne es aber Finzin zu berichten (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein junger Mann namens Finzin hat mich gebeten, mich um eine Levi zu kümmern, die ihn verfolgt. Sie scheint eine krankhafte Faszination für ihn entwickelt zu haben und er will, dass sie ihn in Ruhe lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Finzin bat mich, mit der Levi zu sprechen und herauszufinden, warum sie ihn verfolgt. Er sagt, sie treibt sich in der Nähe von Finzins Versteck in Klippenrand herumtreibt. Ich soll nach einer Levi Ausschau halten, die nicht lächelt wie ihre Kollegen und die ein verkohltes Holzstück in Händen hält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Levi scheint furchtbar zu leiden. Sie sprach vom 'Gut Gillem-Auftrag' und hat schreckliche Szenen von einem Brand beschrieben. Dann sagte sie, dass sie von Finzin ein 'anderes Jahr' haben will. Ich sollte ihn fragen, was das bedeutet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe Finzin gesagt, was die Levi von ihm will, aber er will kein weiteres Jahr seines Lebens hergeben. Da die beiden sich wohl nicht einigen werden, liegt es an mir, zu entscheiden, wie die Situation gelöst werden soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe die Levi davon überzeugt, dass sie kein Recht auf ein weiteres Jahr von Finzins Leben hat. Finzin wird erleichtert sein, wenn er hört, dass die Levi ihn nun in Ruhe lassen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Gezeitenenergie verwendet, um die falschen Erinnerungen aus dem Geist der Levi zu löschen und sie in meinen eigenen aufzunehmen. Das war eine schmerzvolle und verstörende Erfahrung, aber es scheint funktioniert zu haben. Als ich die Levi zuletzt sah, lächelte sie. Finzin wird sich freuen, das zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe die Levi getötet, die Finzin verfolgt hat. Er wird froh sein, zu hören, dass sie ihn nicht mehr belästigen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe das seltsame Verhalten der Levi der Kommandantin der Levis gemeldet und sie hat einen Trupp losgeschickt, um sich darum zu kümmern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Finzin hat das Zeitübertragungsgerät benutzt, um der Levi ein weiteres Jahr seines Lebens zu geben. Als sie Klippenrand verließ, wirkte sie zufrieden. Ich denke, sie wird Finzin nicht mehr belästigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Finzin war froh, zu hören, dass die Levi ihn in Ruhe lassen wird. Allerdings fühlt er sich ein wenig schuldig angesichts des Ärgers, die seine früheren Handlungen ihr bereitet haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich habe die Levi geheilt und die falschen Erinnerungen aus ihrem Geist gelöscht, damit sie Finzin nicht mehr belästigt. Finzin kann sich nicht vorstellen, wie ich das bewerkstelligt habe, aber er war für meine Hilfe sehr dankbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Finzin war froh darüber, dass die Levi ihn nicht mehr belästigen wird, bedauerte allerdings, dass sie getötet werden musste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Die Levi wurde verhaftet und weggebracht. Der Kommandantin zufolge wird sie wahrscheinlich getötet werden. Finzin war überglücklich. Das Schicksal der Levi schien ihn nicht besonders zu kümmern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Ich habe Finzin überredet, der Levi ein weiteres Jahr seines Lebens zu geben. Er schlug vor, dass ich zum Orden der Wahrheit gehe, wo die Levis gemacht werden, und die Aeon-Priester um einen Apparat bitte, der ihm ein weiteres Jahr entnehmen und seiner Levi übertragen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Ich habe den Apparat vom Orden der Wahrheit. Jetzt kann ich ihn Finzin übergeben und er wird ein Jahr seines Lebens auf die Levi übertragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Ich habe einem Aeon-Priester namens Min von Tan-Liang Geld gegeben, um einen Apparat zu bauen, der ein Jahr von Finzins Leben auf die Levi übertragen wird. Min sagt, dass er mindestens einen Tag brauchen wird, um den Apparat fertigzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Min müsste den Apparat mittlerweile fertiggestellt haben. Ich sollte zum Orden der Wahrheit gehen und ihn abholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Ich habe Sagusklippen verlassen und werde nicht so schnell zurückkehren, wenn überhaupt. Finzin wird alleine mit seiner Levi fertig werden müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Das Problem mit Finzins Levi hat sich erledigt, doch ich konnte vor meiner Abreise aus Sagus nicht mehr mit ihm sprechen. Er wird es aber wohl bald selbst herausfinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Finzin sagt, ich könnte das seltsame Verhalten der Levi auch der Kommandantin der Levis melden. Man findet sie am Regierungsplatz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Finzin sagt, ich könnte das seltsame Verhalten der Levi der Kommandantin der Levis melden. Man findet sie am Regierungsplatz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Min von Tan-Liang, ein Aeon-Priester vom Orden der Wahrheit, kann einen Apparat bauen, der ein Jahr von Finzin auf die Levi überträgt. Allerdings kostet mich das einige Shin und er wird mindestens einen Tag dafür brauchen. Alternativ könnte ich auch die Levi-Maschine untersuchen und versuchen, den Apparat selbst herzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

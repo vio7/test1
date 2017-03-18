@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2311_kiyatawa</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>174</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Diese Frau beobachtet dich genau, achtet auf jeden Schritt und jede Bewegung deiner Hände. Aber dennoch hat sie keine Angst. Eisen stützt ihre Wirbelsäule und sie presst ihren Mund zu einer dünnen Linie zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich bin überrascht, dich wiederzusehen", sagt sie. Ihre Lippen öffnen sich für ein kurzes Lächeln. "Ich bin überrascht, dass du wieder auf den Beinen bist", sagt sie. Nicht viele Leichen, die wir fressen, stehen wieder auf ihren Beinen." Beim 'wir' springt ihr Blick zur anderen Dendra O'hur und sie runzelt die Stirn.
+
+"Willst du etwas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Hast du dich verirrt?" sagt sie, und betrachtet die Nägel an ihrer rechten Hand. "Nur wenige Leute kommen hier runter wegen dem Licht oder der Gesellschaft."
+
+Sie riskiert einen vorsichtigen Blick auf den schwerfälligen Kultisten in der Nähe, und schaut dann wieder zu dir. 
+
+"Willst du etwas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Diesmal spart sie nicht ihre Worte. Sie nickt und ihr wachsamer Blick registriert die Position von jedem im Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Follow-up PQ. 12</DefaultText>
+      <FemaleText>Follow-up PQ. 12</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ja", sagt sie und blickt zu dem alten Mann. Er nickt.
+
+"Gut. Ich muss sagen, ich bin nicht überrascht, dass dich die Spur des Mörders hierher führte. Was willst du wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Rede weiter", seufzt sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Follow-up PQ. 15</DefaultText>
+      <FemaleText>Follow-up PQ. 15</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Nein", sagt sie und stützt die Hände auf ihre Hüften. "Aber ich habe gesehen, was sie von Fulsomes Jungen übrig ließen - eine Schweinerei. Blut an Wänden und am Boden. Keinen Körper."
+
+Sie wischt sich eine Haarsträhne aus dem Gesicht. "Das ist die Art von Tod, die man sieht, wenn jemand eine Warnung sendet … oder Groll hegt. Ich sah es die ganze Zeit, bevor ich herkam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Warum?" fragt sie mit einem Anflug von Grinsen. "*Warum*? Das war jemand, der Fulsome wichtig war. Er hat viele Feinde. Warum denkst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Hast du eine Idee, wer der Mörder ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Warum glaubst du, dass jemand Gourmandus' Günstling tötete?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ich möchte etwas anderes wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Follow-up PQ. 57</DefaultText>
+      <FemaleText>Follow-up PQ. 57</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Nein", sagt sie. "Ich habe noch nie von ihnen gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Sie schüttelt den Kopf und sieht verwirrt aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Weißt du etwas über das Endlose Pforte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Hast du wirklich noch nie etwas von den Kindern der Endlosen Pforte gehört?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Follow-up PQ. 62</DefaultText>
+      <FemaleText>Follow-up PQ. 62</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ha", sagt sie. "Na gut. Erwarte nicht, dass ich mich zurückhalte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Sicher", sagt sie achselzuckend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Follow-up PQ. 65</DefaultText>
+      <FemaleText>Follow-up PQ. 65</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Er hat schon zu lange gelebt", sagt sie. "Vielleicht hatten die Dendra O'hur früher einmal Gewicht, aber er ist nur auf der Suche nach seiner nächsten Mahlzeit. Und die restlichen von ihnen folgen seinem Beispiel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Faul", sagt sie kurz angebunden. "Immer hungrig. Nur ein Magen auf dünnen Beinen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Was hältst du von Imbitu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Was hältst du nochmal von Imbitu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Follow-up PQ. 75</DefaultText>
+      <FemaleText>Follow-up PQ. 75</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Er will anderen wehtun. Mehr noch, er ist stolz darauf." Sie fährt sich wütend durchs Haar und spricht leise.
+
+"Ich bin mir nicht sicher, aber ich glaube, er Rivalen aus seinem früheren Leben getötet. Und sie dann gegessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Er tötete für Geld. Und damit hat er, glaube ich, nicht aufgehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Was denkst du über Mallet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Was denkst du nochmal über Mallet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Follow-up PQ. 70</DefaultText>
+      <FemaleText>Follow-up PQ. 70</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Sie war einmal schlimmer … als sie es jetzt ist. Wenn du bislang nicht mit ihr geredet hast, wirst du schon noch sehen, was ich meine." Sie blickt mit Unbehagen auf den Mutanten. 
+
+"Vielleicht bringen all die Leichen, die sie alleine frisst, Sagus in ihren Kopf.  Zivilisieren sie vielleicht." 
+
+Sie schüttelt den Kopf. "Aber das bedeutet nur, dass sie eine Jägerin ist, die die Gedanken ihrer Beute lesen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Sie ist eine Kannibalin aus einer Welt mit Kannibalen", sagt Kiyatawa unbeeindruckt. "Und egal wie freundlich sie auch zu sein scheint, sie lebt schon sehr lange Zeit. Denk darüber nach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Was hältst du von Gh'zei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Was hältst du nochmal von Gh'zei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Bestimmt", sagt sie. "Dann raus damit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ich will deine Meinung zu den anderen Dendra O'hur hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ich will dich nochmal etwas zu den anderen Dendra O'hur fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ich habe genug über diese Mörderin gefragt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Gut", sagt sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Imbitu meint, dass ich Euch über den Mord an Gourmandus' Schützling befragen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ich habe noch mehr Fragen zu dem Mord an Gourmandus' Günstling."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Follow-up PQ. 90</DefaultText>
+      <FemaleText>Follow-up PQ. 90</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Follow-up T. 91</DefaultText>
+      <FemaleText>Follow-up T. 91</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Nein. Imbitu will nicht, dass wir uns damit befassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Nicht ohne die Genehmigung des alten Mannes", sagt sie und winkt Imbitu zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Eine Mörderin läuft in der Schattenseite frei herum. Kann ich dich dazu etwas fragen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Kannst du wirklich nichts zum Mord in der Schattenseite sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Follow-up PQ. 96</DefaultText>
+      <FemaleText>Follow-up PQ. 96</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Deine Meinung interessiert hier keinen!" bellt sie. "Lass mich in Ruhe." 
+
+Dann kichert sie. Das hört sich nicht glücklich an.  "Ich bin egoistisch, nicht wahr? Du lässt uns dich *essen*, du lässt uns in deinen Kopf rein. Du hast nicht einmal die Spitze meiner Zunge verdient, wenn du fragst, ob es mir gut geht."
+
+Sie reibt sich mit dem Handballen ein Auge. "Na schön. Ich bin hier *nicht* glücklich. Ich will gehen. Zufrieden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Schieß los", sagt sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Du scheinst hier unglücklich zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Ich will mehr über dich erfahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Du scheinst hier unglücklich zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Follow-up PQ. 110</DefaultText>
+      <FemaleText>Follow-up PQ. 110</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Lange genug", sagt sie. "Ich dachte, ich hätte einen Ort gefunden, an den ich gehöre. Ich lag wohl falsch." 
+
+Sie verstummt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ich ..." Sie atmet aus und drückt beide Augen fest zu. "Vergiss es. Ich hätte nichts sagen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Wie lang bist du schon eine Dendra O'hur?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Warum fühlst du dich bei den Dendra O'hur nicht mehr zugehörig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>::nickt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Erzähl mir mehr über den Traum, den du immer wieder hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Er ist fast immer gleich", sagt sie und reibt sich die Stirn. "Der Mann - mein Vater - ruft nach mir … oder nach jemandem, der ich werden soll. Als würde er nicht meinetwegen kommen, sondern erst, wenn ich diese Frau bin."
+
+Sie schüttelt den Kopf. "Und das ist ein weiterer Grund, warum ich mich denen anschloss. Ich hörte sie laufend - die Stimme einer jungen Frau - sie sagte mir, wer ich sein soll. Ich glaubte, wenn ich meinen Verstand mit den Erinnerungen anderer Menschen füttere, werden ihre verdrängt."
+
+Ihre Schultern heben sich langsam und sie lacht verbittert. "Aber es hat nichts geholfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Ich traf eine andere Frau, die eine Stimme in ihrem Kopf sagen hörte, dass sie jemand anderes sei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Das ist ihr Problem", sagt Kiyatawa schroff. "Ich bin nicht sie. Ich bin niemand anderes außer mir selbst, und ich finde selbst meine Antworten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Du hast recht", sagt sie. Sie hat ein sanftes, zufriedenes Leuchten in den Augen. "Ich nicht. Danke. Ich werde nicht vergessen, dass du mir geholfen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ich fand heraus, woher die Stimme in deinem Kopf kam. Du solltest sie jetzt nicht mehr hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Du siehst wie eine gespenstische Frau aus, die ich im Fünften Auge sah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ich sehe vermutlich wie viele andere aus", sagt sie, mit einer kleinen Spitze in der Stimme. "Na und?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Mallet sagt, er hat dich erwischt, wie du allein eine Leiche gefressen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ach ja? Vielleicht sollte sich Mallet besser um seinen Kram kümmern", sagt sie und wirft dem schwerfälligen Kultisten einen wütenden Blick zu. 
+
+"Sicher. Es stimmt. Ich bin hier unten nur ungern länger als nötig. Ich *schlafe* kaum noch. Ich werde das Gefühl nicht los, dass sie nur auf meinen Tod warten. Sie fragen sich, wie ich wohl schmecken werde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Vor nicht allzu langer Zeit fand ich in einer Gasse eine Leiche.  Und ich sah keinen Grund, warum ich sie mit dem Haufen teilen sollte."
+
+Sie fährt sich mit den Fingern durchs Haar. "Das ist alles. Kein Geheimnis, kein Skandal. Da Mallet glaubt, er könnte meine Jagdangelegenheiten mit Fremden teilen, dann solltest du vielleicht mal *ihn* fragen, wie viele Leichen er bisher alleine fand. Oder ob sie wirklich *tot* waren, als er sie fand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Ihre Lippen formen das Wort 'wieder'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Was bereitet dir Sorgen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Nirgends. Lass gut sein, ich kenne dich ja gar nicht. Lass mich in Ruhe, ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Na schön. Frag."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Warum bist du mit den Dendra O'hur nicht mehr glücklich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Warum hast du dich den Dendra O'hur angeschlossen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Sprich leise", sagt sie und schließt die Augen.
+
+Ihre Hand sinkt müde vom Haaransatz den Nacken hinunter. "Ich dachte, das sei der Ort, an dem ich bleibe. Eine Zeit lang fühlte ich mich *sicher*. Ich hätte es besser wissen müssen. Ich halte es in Gruppen nicht lang aus. Ich ertrug nicht einmal meine eigene Familie. Auf eigene Faust ging es mir besser, auch wenn ... "
+
+Sie verstummt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Um den Mann zu finden, der in meinen Träumen zu mir spricht", sagt sie. "Meinen Vater."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Hat dich deine Familie verstoßen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Sage nichts.</DefaultText>
+      <FemaleText>Sage nichts.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Nein", sagt sie. Ihre Augen funkeln auf. "Ich habe *sie* verstoßen. Und es war nicht meine wirkliche Familie. Das wusste ich sogar da schon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Auf eigene Faust ging es mir besser", sagt sie schließlich mit etwas mehr Entschlossenheit.  Sie öffnet die Augen wieder. "Und es war nicht meine wirkliche Familie. Das wusste ich sogar da schon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"An meine Eltern kann ich mich kaum noch erinnern." Sie sagt das mit großer Verachtung. "Sie waren Metzger und ich musste in Ihrer Metzgerei mitarbeiten, als ich gerade erst das Laufen lernte. Jeden Abend fiel ich todmüde ins Bett und schlief wie eine Bewusstlose … und da begann dieser Traum, der immer wieder kam."
+
+Ein Lächeln huscht über ihr Gesicht. "Es war ein Licht. Es - er - sagte mir, dass ich seine Tochter sei. Dass es ihm leidtat, dass er mich verlassen hatte, und dass er keine andere Wahl hatte. Und dass er mich eines Tages wiederfinden würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Was hat das mit den Dendra O'hur zu tun?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Sage nichts.</DefaultText>
+      <FemaleText>Sage nichts.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Das kann ich dir erzählen", sagt sie. "Sei … Sei einfach still und hör gut zu." Sie reibt sich mit beiden Händen im Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>In den Pausen zwischen ihren Gedanken starrt Kiyatawa auf die Wand hinter dir. Oder durch sie hindurch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ich lief weg", sagt sie schließlich. "Ich ging meinen Weg. Da gibt es wenig dazu zu sagen, oder wenig, das ich erzählen will. Nur, dass die Träume immer wieder kamen."
+
+Sie verzieht das Gesicht. "Vor einem Jahr wachte ich aus einem dieser Träume auf und sah Imbitu - unseren Führer - an meiner Seite. Er sagte mir, ich habe im Schlaf nach jemandem gerufen. Sagte, er würde mir helfen, meinen 'Vater' zu finden."
+
+Sie verdreht ihre Lippe. "Also habe ich mich ihnen angeschlossen. Ich aß ein paar Leichen.  Aber geklärt hat sich dadurch nichts, er hat auch nie wieder darüber gesprochen. Er und der Rest von ihnen haben nur die nächste Mahlzeit im Kopf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Warum verlässt du nicht die Dendra, wenn du so unglücklich bist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Das werde ich auch", verspricht sie mit einem finsteren Blick auf ihre 'Familie'.  "Ich war schon viel zu lange hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Imbitu meint, dass ich Euch über die Morde in Schattenseite befragen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ich habe noch mehr Fragen zu den Morden in der Schattenseite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Ein Händler in Circus Minor sagte, man hätte dich dort durch die Gegend torkeln sehen und du hättest über 'leere Zirkel' gesprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Was du nicht sagst", sagt sie und kratzt sich im Nacken. "Hört sich nicht nach mir an, aber vielleicht war ich so betrunken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Sie neigt ihren Kopf zu Imbitu. Er starrt an die Decke und hat offensichtlich nichts von der Unterhaltung mitbekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Sie neigt ihren Kopf zu einem alten Mann, der sich in der Nähe aufhält, neben einem Altar aus Knochen. Er starrt an die Decke und hat offensichtlich nichts von der Unterhaltung mitbekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ist das Imbitu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Reden wir über etwas anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Er sieht nicht gerade nach einem Führer aus, was? Aber er macht hier die Regeln." Sie seufzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Du bist wütend auf Imbitu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Reden wir über etwas anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Ich werde nicht gern angelogen", sagt sie. In ihren Augen spiegelt sich Frustration. "Er versprach mir Antworten, wenn ich mich ihm und diesem Kult anschließe. Vielleicht hat er mir zu viel versprochen, oder er hat es einfach vergessen. Egal wie, es ist eine Lüge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Sie nickt und in ihren Augen spiegelt sich Frust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Ihre Augenbrauen heben sich eigenartig bogenförmig und diese simple Bewegung verursacht eine merkwürdige Verbindung in deinem Geist. Diesen Ausdruck hast du zuvor schon mal gesehen, auf einem recht ähnlichen Gesicht ...
+
+Die geisterhafte Frau im Fünften Auge.</DefaultText>
+      <FemaleText>Ihre Augenbrauen heben sich eigenartig bogenförmig und diese simple Bewegung verursacht eine merkwürdige Verbindung in deinem Geist. Diesen Ausdruck hast du zuvor schon mal gesehen, auf einem recht ähnlichen Gesicht ...
+
+Die geisterhafte Frau im Fünften Auge.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Rede weiter", seufzt sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

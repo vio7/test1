@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_newborn_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>165</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dies ist eindeutig ein anderer Schlund … obwohl sein rohes, nasses Fleisch vermuten lässt, dass er in den letzten paar Stunden oder Tagen entstanden ist. Die flüsternden Stimmen der Flor zwitschern in deinen Ohren und alle anderen Geräusche treten in den Hintergrund.
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Biete dich den Zungen des Flors an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du trittst näher an die sich hin und her bewegenden Ranken heran. Obwohl du dich innerhalb der Reichweite des Schlunds befindest, zucken die Zungen der Flor nicht einmal in deine Richtung. Sie sind offensichtlich gar nicht an dir interessiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du legst eine Hand auf das Annulet und konzentrierst dich auf das Zischen und Zwitschern der Flor, bis sie etwas bilden, das sich mehr nach Sprache anfühlt … ohne es zu sein. Der Ton erzeugt vage Eindrücke des Bedauerns … der Reue … der Schuld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Schneide den Schlund mit dem Transdimensionalen Skalpell auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Lass den Schlund in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>… und der Schlund öffnet sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Eine gerötete Fleischmasse tritt aus der Flor-Wand hervor, umgeben von sich hin und her bewegenden Ranken. Das Fleisch ist dick und stark, und glitzert wie eine neugeborene Bestie. Eine zerklüftete Naht verläuft über seiner Oberfläche, durch die schwaches Licht hindurchdringt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Als du dich näherst, scheinen alle Geräusche in Klein-Nihliesh zu verebben. Die tuschelnden Konversationen der Mutanten treten in den Hintergrund und werden von den zischenden, zwitschernden Stimmen der Flor ersetzt.  
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Matinka legt ihre Hand auf deine Schulter. "Ein Schlund", flüstert sie, als wollte sie nicht dessen Aufmerksamkeit erregen. Ihre Stimme ist achtsam und voller Respekt. "Diese winkenden Ranken sind seine Zungen. Wenn er deinen Geruch mag, wird er reinbeißen." Ihr Mund verzieht sich leicht. "Wahrscheinlich ist es das beste, für unsereins, ihn zu meiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Dir wird plötzlich klar, dass das ein Schlund ist. Du weißt nicht, *woher* du das weißt, aber das Wort kam dir sofort in den Sinn, als ob du ihn schon einmal gesehen hättest. Du weißt mit der gleichen Gewissheit, dass die winkenden Ranken seine Zungen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Der Schlund bleibt fest verschlossen. Als du näherkommst, beginnen die Stimmen der Flor zu zwitschern und in deinen Ohren zu zischen.
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Als du das Skalpell schwingst, legt Matkina ihre Hand über deine. "Warte. Ich habe noch nie gehört, dass jemand die Flor grundlos verletzt. Selbst ein Verstoßener hat Grund, sich zu fürchten. Bist du dir da sicher?"</DefaultText>
+      <FemaleText>Als du das Skalpell schwingst, legt Matkina ihre Hand über deine. "Warte. Ich habe noch nie gehört, dass jemand die Flor grundlos verletzt. Selbst eine Verstoßene hat Grund, sich zu fürchten. Bist du dir da sicher?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Sie öffnet den Mund, um zu antworten und nimmt dann die Hand weg. Sie zuckt die Achseln. "Deine Show."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Vielleicht nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du steckst die transdimensionale Klinge wieder in den Schaft. Eine Spannung liegt in der Luft. Dir fiel auf, dass die Stimmen ders Flor kurz verstummt sind, als du das Skalpell gezogen hattest, aber jetzt sind sie wieder da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du treibst das Skalpell in das knorrige Fleisch des Schlunds und es gibt nach wie zitternder Speck. Ermutigt schneidest du dich durch Fleisch und Knorpel. Die Flor stößt einen fauchenden, brodelnden Schrei aus und eine Welle spürbaren Hasses fegt über dich hinweg. Der Boden wackelt ... 
+
+{SOUND: Play infuriated Bloom voices "screaming" in pain, along with a rumble sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du schneidest in das knorrige Fleisch des Schlunds, hackend und zerreißend. Es gibt mit Leichtigkeit nach und teilt sich bei Berührung mit deiner transdimensionalen Klinge. Die Stimmen der Flor krächzen und zischen, der Boden unter deinen Füßen bebt ... 
+
+{SOUND: Play infuriated Bloom voices "screaming" in pain, along with a rumble sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Beobachte das Verhalten der Flor-Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Beobachte noch einmal das Verhalten der Flor-Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Follow-up PQ. 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Deine Nähe hat die Aufmerksamkeit der Ranken eindeutig auf sich gezogen, doch sie scheinen verwirrt zu sein. Sie strecken sich nach dir aus, zittern unsicher, ziehen sich zurück und wenden sich dann wieder in deine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Die fleischigen Ranken untersuchen die Luft, als hätten sie den schwachen Duft von etwas aufgeschnappt, das ihnen gefällt. Ihre Bewegungen sind schnell und begierig und machen den Eindruck jugendlicher Kraft … doch sie scheinen nicht an dir interessiert zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Die Ranken scheinen dich nicht zu bemerken. Sie wiegen und strecken sich weiter und schnappen vielleicht einen schwachen Duft von etwas auf, dass ihnen zusagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Anhand der Bewegungen der Zungen der Flor stellst du fest, dass sie sich auf deinen Kopf fokussieren – vor allem auf die Seite mit deiner Verstoßenen-Tätowierung. 
+
+In den Tiefen deines Geistes kannst du dumpfe *Angst* in der KI des Katena spüren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Die Ranken scheinen sich auf Aligern zu fixieren. Sie strecken sich ihm entgegen wie die Arme verzweifelter Liebender, doch er bleibt vorsichtig außer Reichweite und betrachtet sie misstrauisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Ganz gleich, wo Aligern steht, die Ranken folgen ihm. Er bleibt vorsichtig außer Reichweite, doch du kannst sehen, dass er von ihrem Verhalten verunsichert wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Die Ranken können sich anscheinend nicht entscheiden, ob sie eher an dir oder an Aligern interessiert sind. Sie treiben auf dich zu, dann auf Aligern und dann wieder zurück zu dir. Ihr habt beide *etwas*, das ihnen gefällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Aligern, ich glaube, dieser Schlund will sich von dir ernähren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Ja, du erkennst, dass es *Schuld* ist, von der sich dieser Schlund ernährt. Du kannst spüren, dass er nur von jemandem gesättigt werden kann, der das tiefe und innige Gefühl der Reue für seine Taten empfindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>So sehr du es auch versuchst, du kannst dich nicht auf die flüsternden Stimmen der Flor konzentrieren. Selbst mithilfe des Ringes sind die Stimmen allein durch ihre Natur ablenkend, und schließlich gibst du auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Als deine Finger über den Ring streichen, stellt dein Geist sofort eine Verbindung zu dem Schlund her, und du fühlst seine Sehnsüchte, als seien es deine. Dieser Schlund ernährt sich von *Schuld*. Er kann nur von jemandem (oder von etwas) gesättigt werden, der das tiefe und innige Gefühl der Reue für seine Taten empfindet, selbst wenn er seine Schuld tief in sich vergraben hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Ehe du deine Verbindung zum Schlund trennst, blitzt ein Ausbruch von Reizeinströmung in deinem Geist auf. Die Zungen des Schlunds können eine mächtige Quelle der Schuld spüren, und sie befindet sich irgendwo in Klein-Nihliesh. Das Ziel ist ein weiblicher Mensch, doch das ist alles, was du sehen … oder besser gesagt 'schmecken' kannst … aus der Perspektive der Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Du kannst die Aufregung der Zungen des Schlunds spüren, da ihre Beute sich in der Nähe befindet. Mit einem widerlichen Gefühl stellst du fest, dass *du* die Beute bist, nach der sie sich sehnen. 
+
+Und doch … nein, das ist nicht ganz richtig … du bist lediglich der *Pfad* zu der Beute, nach der sie trachten. Die Maschinenintelligenz des Katena, die sich nun in deinem Labyrinth versteckt, wäre eine reichhaltige Quelle der *Schuld* für den Schlund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Du kannst die Aufregung der Zungen spüren, da ihre Beute sich in der Nähe befindet. Aligern ist eine reiche Quelle der Schuld. Für die Sinne der Zungen quillt er über vor Schuld und überlagert alle um dich herum. Die Zungen sehnen sich *verzweifelt* nach seinem Geschmack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Du kannst die Aufregung der Zungen spüren, da sich *zwei* Beutequellen in der Nähe befinden. Sowohl du als auch Aligern wären ein Festmahl für den Schlund. Es ist nicht deine eigene Schuld, die der Schlund begehrt, sondern die der Maschinenintelligenz aus dem Katena, die sich jetzt in deinem Labyrinth versteckt. Aligern andererseits quillt über vor Schuld und die Zungen sehnen sich *verzweifelt* nach seinem Geschmack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Es ist deine scharfe Auffassungsgabe, die uns alle so nah bei dir hält. Ich bleibe hier, danke." Seine Augen folgen dem Tanz der Flor-Zungen, als sie sich zu ihm hinzerren, winken und greifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Aligern, biete dich diesem Schlund an, damit wir sehen können, wohin er führt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Sicher, und warum machst du nicht einem Felsenwurm den Hof?", antwortet er. "Mal sehen, ob du Lust darauf hast, verschlungen zu werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Sorgen wir dafür, dass alles, was wir uns ausdenken, nicht mich involviert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Seine Augen fixieren einen fernen Punkt, als er die Zungen des Schlunds betrachtet, als würden sie ihn hypnotisieren. Seine Stimme hat den üblichen harten Tonfall verloren. "Schuld. Er will meine Schuld fressen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Was denkst du möchte es, Aligern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Schauen wir mal, was wir uns sonst noch zu diesem Schlund überlegen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Seine Augen fixieren einen fernen Punkt, doch deine Frage unterbricht den Zauber, den die Flor-Zungen gewebt haben, und er konzentriert sich auf deine Augen. Während er bewusst Augenkontakt hält, sagt er: "Ich habe keine Ahnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Parsim Flint sagte, dass Schlünde nicht immer töten. Sie können Geisteszustände, Erinnerungen und negative Emotionen verschlingen. Der Schlund könnte dir tatsächlich helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ich bin kein Idiot", antwortet er scharf. "Ich weiß, wozu Schlünde in der Lage sind."
+
+Er überlegt lange und das Ringen ist auf seinem Gesicht zu erkennen. Sein rechter Fuß bewegt sich minimal, dann hebt er ihn bewusst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Das ist absolut wahr. Doch sie werden aus einem Grund Schlünde genannt, nämlich weil – und lass mich das langsam sagen, damit du es verstehst – sie Leute fressen. Ich weiß zu schätzen, dass du bereit bist, mein Leben und meinen Verstand aufs Spiel zu setzen. Du stellst wirklich meinen Glauben an die Menschheit wieder her."
+
+Er hält den Blick auf den Schlund gerichtet und fügt leise hinzu: "Diese Last gehört mir. Ich will keine Sühne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Dieser Schlund öffnet sich erst, wenn du in diese Masse aus Flor-Zungen trittst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Es wird alles gut gehen, ich bin sicher. Außerdem, wenn es scheint, als seist du in Schwierigkeiten, ziehe ich dich selbst heraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Du glaubst, dass das der einzige Weg ist?" Er prustet vor Lachen. "Streng dich an. Die Chancen stehen gut, dass du in wenigen Minuten fünf weitere Ideen hast." Er hält inne und überlegt. "Du hast aber recht. Es könnte besser für mich sein, da drin zu sein. Nur eine Minute lang." 
+
+Er sieht einen Moment lang sehr müde und sehr alt aus. "Aber du ziehst mich aus dem Schlund, wenn es scheint, als verschlinge er mich völlig, hörst du? Du ziehst mich raus."
+
+Er seufzt und tritt langsam vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Du bist entweder ein Narr oder weißt einfach nicht, worum du mich da bittest. Da ich dich kenne, weiß ich, dass beides zutrifft. Dies ist *dein* Auftrag, Verstoßener. Wenn du diesen Schlund öffnen willst, dann öffne ihn selbst."</DefaultText>
+      <FemaleText>"Du bist entweder ein Narr oder weißt einfach nicht, worum du mich da bittest. Da ich dich kenne, weiß ich, dass beides zutrifft. Dies ist *dein* Auftrag, Verstoßene. Wenn du diesen Schlund öffnen willst, dann öffne ihn selbst."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ich nehme dich beim Wort, Verstoßener. Sobald ich das Zeichen gebe, bist du gut beraten, da zu sein."
+
+Er schaut auf den Schlund und wappnet sich. Es scheint Minuten zu dauern, doch schließlich hebt er einen Fuß, um den ersten Schritt zu machen.</DefaultText>
+      <FemaleText>"Ich nehme dich beim Wort, Verstoßene. Sobald ich das Zeichen gebe, bist du gut beraten, da zu sein."
+
+Er schaut auf den Schlund und wappnet sich. Es scheint Minuten zu dauern, doch schließlich hebt er einen Fuß, um den ersten Schritt zu machen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Seine Augen verengen sich. Er spuckt eine Imitation deiner Stimme aus: "*Es wird alles gut gehen, ich bin sicher!* Glaubst du etwa, das hab ich nicht schon gehört? Glaubst du etwa, ich habe so etwas nicht *selbst* schon mal gesagt? Ich sag dir mal was, Verstoßener." Er betont seine Worte mit einem Finger, den er gegen deine Brust stößt: "Jeder, der diese Worte ausspricht, *lügt*."</DefaultText>
+      <FemaleText>Seine Augen verengen sich. Er spuckt eine Imitation deiner Stimme aus: "*Es wird alles gut gehen, ich bin sicher!* Glaubst du etwa, das hab ich nicht schon gehört? Glaubst du etwa, ich habe so etwas nicht *selbst* schon mal gesagt? Ich sag dir mal was, Verstoßener." Er betont seine Worte mit einem Finger, den er gegen deine Brust stößt: "Jeder, der diese Worte ausspricht, *lügt*."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Nun, da er sich bewegt, bewegt er sich zielstrebig. Er schreitet in die Mitte der Zungen und sie strecken sich hungrig nach ihm aus. Sie wickeln sich um ihn und ziehen sich fest. Es sieht aus, als würden sie *unter* seine Haut dringen, ohne sie zu beschädigen, und sein ganzer Körper versteift sich. Seine Tätowierungen reagieren, indem sie über seine Arme rasen und sich winden und sogar bis auf sein Gesicht gelangen. Die Tätowierungen scheinen beinahe *ängstlich* zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Seine Augen reißen auf und er konzentriert sich auf dein Gesicht, doch es ist nicht dein Gesicht, das er sieht. "Es tut mir so leid, meine Tochter. Ich wollte nicht – ich wusste nicht – "
+
+Er gibt einen qualvollen Schrei von sich und fällt auf die Knie. Die Zungen der Flor erzwingen ihren Weg in seinen Kopf und wieder schreit er auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Nein – NEIN! Lass das Tor vergraben, du Narr. Warum sollte ich es aktivieren? Mein Stolz ist stärker als meine Sicht." Er stöhnt, und jetzt sehen seine Augen dich. "Verstoßener – zieh mich raus. Das ist zu viel! Zieh mich raus!"
+
+Der Schlund bleibt jedoch verschlossen.</DefaultText>
+      <FemaleText>"Nein – NEIN! Lass das Tor vergraben, du Narr. Warum sollte ich es aktivieren? Mein Stolz ist stärker als meine Sicht." Er stöhnt, und jetzt sehen seine Augen dich. "Verstoßene – zieh mich raus. Das ist zu viel! Zieh mich raus!"
+
+Der Schlund bleibt jedoch verschlossen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Zieh ihn heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Lass ihn ein wenig länger dort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Du greifst an den Zungen vorbei und packst Aligern am Kragen. Obwohl die Zungen ihn greifen und durch seine Kleidung an seiner Haut haften – indem sie durch seine Kleider gleiten, ohne sie zu berühren, als seien sie lediglich in der Lage, die Substanz des Mannes selbst zu berühren – kannst du ihn aus ihrem Griff befreien. Aligern bricht auf dem Boden zusammen, als du ihn loslässt. Seine Augen sind weit aufgerissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Meine Neugier ist befriedigt. Wenn ich das nächste Mal durch so etwas gehe, beabsichtige ich, tot zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Die Zungen der Flor dringen tiefer in Aligerns Schädel. Er zuckt und zappelt. Er streckt die Hand nach dir aus, und dann fallen die Arme taub herunter. Seine Augen rollen in den Schädel und er erlebt eine Schreckensszene von Neuem.
+
+"Ich musste ihn nicht öffnen. Diese Kreaturen, Zähne und Klauen, Blut und Augen – nein! Halt! Das ist … dies ist mein Volk ..." Seine Schreie werden stärker, bis seine Stimme bricht und die Schreie zu einem Flüstern verblassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Nach einer Ewigkeit des Jammerns und Wimmerns hat sich der Schlund anscheinend vollgefressen. Die Zungen ziehen sich von Aligern zurück. Er liegt stöhnend auf dem Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Als er sich schließlich aufrichtet, wendet er dir das Gesicht zu. Er stützt sich mit den Armen auf und sein Gesicht ist ausdruckslos: keine Wut, keine Bedrohung. Mit toter Stimme sagt er: "Ich werde das nicht vergessen, Verstoßener."
+
+Er betrachtet die Tätowierungen auf seinem Arm, die träge und trüb geworden sind, und schaut dann wieder zu dir. "Vielleicht ernährt sich der nächste Schlund von denen, die ihre Gefährten verraten. Er wird sich für dich sofort öffnen."</DefaultText>
+      <FemaleText>Als er sich schließlich aufrichtet, wendet er dir das Gesicht zu. Er stützt sich mit den Armen auf und sein Gesicht ist ausdruckslos: keine Wut, keine Bedrohung. Mit toter Stimme sagt er: "Ich werde das nicht vergessen, Verstoßene."
+
+Er betrachtet die Tätowierungen auf seinem Arm, die träge und trüb geworden sind, und schaut dann wieder zu dir. "Vielleicht ernährt sich der nächste Schlund von denen, die ihre Gefährten verraten. Er wird sich für dich sofort öffnen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Hinter ihm öffnet sich der Schlund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Aligern, wir müssen diesen Schlund öffnen. Er scheint an dir interessiert zu sein. Warum bietest du dich nicht an, damit er sich öffnet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Follow-up PQ. 131</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Hör den Flor-Stimmen genau zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Hör den Flor-Stimmen noch einmal genau zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Deine scharfen Sinne bieten dir keinen bestimmten Vorteil beim Hören der seltsamen Geräusche. Dir wird klar, dass die Flor-‘Stimmen‘ ein psychisches Phänomen sind und kein körperliches. Sie sind förmlich Stimmen in deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Das Zischen und Zwitschern in der Flor ist auch nicht anders als sonst, soweit du es beurteilen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Als du näher an den Schlund gehst, wird das Zischen und Zwitschern in der Flor stärker und widersprechender, mit dissonanten Tönen dazwischen, die fast schon schmerzhaft für dein Gehör sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Addend. 137</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Du kannst in den Geräuschen keine Muster oder Bedeutungen erkennen - sie scheinen völlig zufällig zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Deine scharfen Sinne bieten dir keinen bestimmten Vorteil beim Hören der seltsamen Geräusche. Dir wird klar, dass die Flor-‘Stimmen‘ ein psychisches Phänomen sind und kein körperliches. Sie sind förmlich Stimmen in deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Addend. 140</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Du kannst in den Geräuschen keine Bedeutung feststellen … außer der Tatsache, dass deine Anwesenheit die Flor wütend zu machen scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Das Zischen und Zwitschern im Flor scheint fast sanft und einladend zu sein, als du nah am Schlund bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Addend. 143</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Deine scharfen Sinne bieten dir keinen bestimmten Vorteil beim Hören der seltsamen Geräusche. Dir wird klar, dass die Flor-‘Stimmen‘ ein psychisches Phänomen sind und kein körperliches. Sie sind förmlich Stimmen in deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Du kannst in den Geräuschen keine Muster oder Bedeutungen erkennen, aber du wirst das Gefühl nicht los, dass der Flor deine Anwesenheit irgendwie *billigt*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Deine Gedanken sind noch immer verwirrt, weil du das 'Wasser' der Flor getrunken hast, doch ihr Zischen und Zwitschern macht für dich jetzt irgendwie mehr *Sinn*. Du kannst die Bedeutung der Geräusche nicht erfassen, doch du bekommst einen klaren Eindruck von verzweifeltem Hunger nach … nicht nach einem lebendigen Ding, sondern nach einem Gefühl.
+
+Traurigkeit? Nein, das ist es nicht.
+
+Reue? Schon eher … aber nein ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Deine Sinneseindrücke der Flor-Stimmen sind genauso wie zuvor – der Hunger des Schlunds kann nur durch tiefe und mächtige Gefühle der Schuld gestillt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>*Schuld*. Dieser Schlund ernährt sich von Schuld. Und nicht nur irgendeine beliebige Schuld. Du spürst, dass sie mächtig und tief verwurzelt sein muss, da sie sonst nicht genügen wird, um den Schlund zu sättigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Follow-up PQ. 149</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Biete dich noch einmal den Flor-Zungen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Du näherst dich wieder den Zungen, doch sie bemerken dich weiterhin nicht. Welche Schuld du auch immer in deiner relativ kurzen Lebenszeit angesammelt haben magst, ist definitiv nicht ausreichend, um den Hunger dieses Schlunds zu stillen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Du näherst dich wieder den Zungen, doch sie bemerken dich weiterhin nicht. Offensichtlich erfüllst du nicht die Ernährungsbedürfnisse dieses besonderen Schlunds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Als du in Reichweite gelangst, schießen dir die Zungen entgegen. Die meisten von ihnen schnappen nach deinem Kopf und wickeln sich darum, während andere die Oberfläche deiner Tätowierung abtasten. Die Spitze der Ranke dringt *durch* dein Fleisch und entzündet ein prickelndes, heißkaltes Gefühl, welches in deinem Schädel auflodert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Die Zunge stößt tief in deinen Kopf vor und verschwindet in voller Länge in der Verstoßenen-Tätowierung. Plötzlich befindet sich ihre fremdartige Präsenz *in* deinem Kopf und durchsiebt deine Gedanken, wie ein zweites Bewusstsein, welches deine eigenen Erinnerungen und Wahrnehmungen teilt. Es sondiert die *Seelenruhe* im Kern deines Wesens und verkrampft, als es seine Beute findet ... die Maschinenintelligenz des Katena.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Du kannst die überwältigende Schuld der Maschinenintelligenz spüren, als die Zunge sie gierig aufsaugt. Die Gesichter der Katena-Reisenden blitzen kurz vor deinen Augen auf, aufgegeben und schließlich vergessen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Die Flor-Zungen lösen ihren Griff um deinen Kopf und schleudern dich wie einen ungewollten Knochen zur Seite. Deine Tätowierung pulsiert, deine Sicht ist verschwommen und du kannst kaum geradestehen, doch du bist am Leben. 
+
+Überall um dich herum zwitschert und ächzt die Stimme der Flor, der Boden erzittert unter deinen Füßen ...
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Als auch die letzte Schuld verzehrt ist, bricht die Maschinenintelligenz zusammen. Fragmente ihres Bewusstseins jagen davon und winzige, verwirrte Stimmen schreien bedeutungslose Wörter, werden schwächer ... und verstummen schließlich. Offenbar schien ihr Geist einzig durch Schuld zusammengehalten worden zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>(Überdenken) Zieh ihn heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Wenn du dein Leben nicht riskieren willst, dann werden wir eine andere Möglichkeit finden, um diesen Schlund zu öffnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"In Ordnung, wir werden eine andere Möglichkeit finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Er nickt knapp. "Ich ... Ich vertraue darauf, dass auch du meine besten Interessen verfolgst. Wir werden nicht mehr darüber sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Natürlich werden 'wir' das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Verwende den Magmatischen Ring, um herauszufinden, was der Schlund möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Versuche erneut, den Magmatischen Ring zu verwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Als du dich näherst, scheinen alle Geräusche in Klein-Nihliesh abzublenden. Die gedämpften Gespräche der Mutanten schwinden in der Ferne, übertönt durch die Stimmen der Flor. Sie summen und zwitschern vor Aufregung.
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Öffne den Schlund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Frage den Schlund, wo er hinführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Du legst deine Hand auf das nasse, rohe Fleisch ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Du formst ein Bild der Schlundöffnung und konzentrierst das Auge deines Geistes auf das, was dahinter liegt. Die Stimmen der Flor summen und klicken zurück und du siehst Blitze eines Metallkorridors, eine große, opulente Kammer dahinter, und ein Fenster, das den Blick auf ein Feld voller Sterne freigibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Frage den Schlund erneut, wo er hinführt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Die Flor-Stimmen summen und klicken. Erneut siehst du vage Bilder im Auge deines Geistes – einen Metallkorridor, eine große, opulente Kammer dahinter, und ein Fenster, das den Blick auf ein Feld voller Sterne freigibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Der Schlund bleibt eng verschlossen, doch seine Stimmen flüstern aufgeregt in deinen Ohren. *Memovira*, scheint das Flüstern zu sagen.
+
+{SOUND: "Voices" of the Bloom should be audible during this dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Matkina, du bist nun die Memovira. Kannst du diesen Schlund öffnen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Sie nickt kurz. "Natürlich."
+
+Matkina tritt an den Schlund heran und legt ihre Hand vorsichtig auf das rohe, rote Fleisch ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Nein!" zischt Matkina, noch bevor du das Skalpell herausziehen kannst. "Sei nicht dumm. Wir brauchen dieses *Ding* nicht mehr."
+
+{COLIN: Please review.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Matkina tritt an den Schlund heran, wobei sie dich vorsichtig zur Seite schiebt, und legt ihre Hand langsam auf das rohe, rote Fleisch ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Matkina, weißt du, was der Schlund will?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Sie schließt einen Augenblick lang die Augen und die Flor-Stimmen scheinen sich knapp über ihr zu versammeln, leise und ehrfürchtig flüsternd ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Schuld", sagt sie und öffnet die Augen. "Jene Art von Schuld, die eine Person von innen heraus verdirbt und sie niemals loslässt. Es wird die Schuld aus seiner Beute ziehen, auch wenn sie tief verwurzelt ist, und sie werden sie noch tiefer spüren als jemals zuvor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Schuld. Die tief verwurzelte und seelenpeinigende Art von Schuld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Matkina, was will dieser Schlund nochmal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

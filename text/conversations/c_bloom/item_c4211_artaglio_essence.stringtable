@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4211_artaglio_essence</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Trinke Artaglios Essenz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Essenz weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du entkorkst die Flasche mit dem dünnen gelben Schleim. Der Geruch, der aufsteigt, ist brutal, jenseits aller Beschreibung, wie verfaultes Fleisch gemischt mit Säure, vergleichbar mit Angstschweiß. Aber unterhalb der Angst ist ein kecker, erdiger Geruch und du konzentrierst dich mehr auf diesen und weniger auf den stechenden Geruch. Dadurch geht der Schluck leichter runter, dennoch würgst du als es in deinem Hals feststeckt. Der Nachgeschmack ist überraschenderweise nicht grässlich. Er ist sogar fast schmackhaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der dünne, gelbe Schleim, der in dieser Flasche schwappt, erinnert dich mehr als an alles andere an die Sekrete, die der Körper nach einer langen Krankheit ausstößt – ob durch die Kehle hochgewürgt oder durch eine ganz andere Körperöffnung ausgeschieden. In jedem Fall ist der Geruch abstoßend und dich ekelt bei dem Gedanken, dass der Schleim deine Haut berührt. Wie konnte Sheen dies erbrechen? Was für ein Mann ist Artaglio, wenn das seine Essenz ist?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ehrlich gesagt, ist der Nachgeschmack ziemlich angenehm. Kühn, würzig, vollmundig. Deine Gliedmaßen zittern kurz als dich ein Angstanfall überkommt, Adrenalin versetzt dein limbisches System in rein instinktiv reagierendes Kampf- oder Fluchtverhalten, aber dieser Rausch verschwindet wieder und hinterlässt ein angenehmes Glühen in dir. Dein Kopf vernebelt sich, dein Sicht verengt sich und hinter deinen Augen baut sich ein Druck auf - kein schmerzhafter Druck, aber das Gefühl , dass du gleich weinen … oder so sehr lachen musst, wie noch nie in deinem Leben zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Nein … es ist Lachen. Du kannstspüren, wie das Lachen in dir anschwillt. 
+
+Du schnaubst, als du darüber nachdenkst, was das für Artaglios Erbe bedeutet - von den meisten für einen Feigling gehalten, zieht er sich an wie ein mutiger Mann, aber darunter steckt ein Mann, dessen größte Freude seine Freunde sind und große Taten für sie zu vollbringen. Plötzlich verstehst du, dass seine Angst nicht ihm gilt, sondern dem Gedanken, dass er seine Kohorte nicht beschützen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Artaglios Erinnerungen brennen sich in dein Bewusstsein ein und du bist nicht ganz sicher, wo seine enden und deine beginnen. Du fühlst, wie sein Geist und seine Gefühle um Platz in deinem Wesen drängeln und plötzlich ... öffnet sich in dir ein weiter Raum der Ruhe. Die Stille. Du spürst hier eine neue Präsenz, anders als deine eigene, aber in dich integriert und ganz.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

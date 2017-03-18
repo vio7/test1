@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_gold_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kreischende Dampfwolken verschleiern diese defekte Maschine. Solange sie nicht repariert wird, wirst du keine Verbindung zu der Kreatur im beistehenden Tank herstellen können.</DefaultText>
+      <FemaleText>Kreischende Dampfwolken verschleiern diese defekte Maschine. Solange sie nicht repariert wird, wirst du keine Verbindung zu der Kreatur im beistehenden Tank herstellen können.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Wasser fließt zum beistehenden Tank mit der Kreatur. Du solltest nun eine Verbindung zu ihr herstellen können.</DefaultText>
+      <FemaleText>Wasser fließt zum beistehenden Tank mit der Kreatur. Du solltest nun eine Verbindung zu ihr herstellen können.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Bestie taucht aus der Maschine auf, um dich zu verfolgen. Du kannst nun mit der Kreatur in dem Tank kommunizieren.</DefaultText>
+      <FemaleText>Die Bestie taucht aus der Maschine auf, um dich zu verfolgen. Du kannst nun mit der Kreatur in dem Tank kommunizieren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Diese Leitungen füllen den beistehenden Tank mit einem stetigen Fluss frischen, ungetrübten Wassers.</DefaultText>
+      <FemaleText>Diese Leitungen füllen den beistehenden Tank mit einem stetigen Fluss frischen, ungetrübten Wassers.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

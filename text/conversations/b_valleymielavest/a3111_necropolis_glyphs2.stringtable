@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\a3111_necropolis_glyphs2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Teil der Wand ist von oben bis unten mit Symbolen bedeckt. Du siehst nach oben und kannst vage weitere Symbole über dir erkennen. Du wischst den Staub von Jahrtausenden von der Krümmung der Wand und erkennst, dass die Symbole unter deinen Füßen weitergehen.
+ 
+ Etwas in der Anordnung der Symbole an der Wand deutet auf ein Muster hin, das du aber noch nicht entziffert hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du siehst dir ein Symbol nach dem anderen genauer an und versuchst, seine Bedeutung im Verhältnis zu den anderen Symbolen zu erkennen. Doch erst als du einen Schritt zurücktrittst und dein Blick ein wenig verschwimmt, siehst du plötzlich das Muster.
+ 
+ Die Symbole sind stets als Vielfaches von Sechs angeordnet, wobei jede einzelne Gruppe wiederum ein Element einer größeren Sechsergruppe ist. Der optische Effekt ist seltsam schwindelerregend - eine sich öffnende, die immer größer wird und rasch nicht nur die gesamte Nekropolis, sondern das gesamte Universum umfasst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Für einen Moment verlierst du dich in der überwältigenden Symmetrie von allem, das ist und je war. Schließlich bringt dich ein Selbsterhaltungstrieb tief in deinem Unterbewusstsein mit einem Ruck zurück in deinen Körper.
+ 
+ Die Wand vor dir hat sich äußerlich nicht verändert, doch nun strahlt sie ein bösartiges Gefühl von etwas völlig *Fremden* aus - ein Wissen und eine Denkweise, die nichts Menschliches an sich hat. Wer oder was auch immer diese Hallen errichtet hat, ihm war die Menschheit völlig fremd. Vielleicht auch besser so.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du bildest die Symbole eine Weile in deinem Geist ab und versuchst, sie mit anderen Mustern in der Welt in Verbindung zu bringen. Erfolglos. Ihre Anordnung bleibt so undurchsichtig wie eh und je.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du starrst erneut auf die Symbole, aber das bringt dir nichts als Kopfschmerzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Versuchen, die Bedeutung der Symbole zu verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Erneut versuchen, die Bedeutung der Symbole zu verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Anordnung der Symbole erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du versuchst, dich erneut auf die Symbole zu konzentrieren und wieder das schwindelerregende Gefühl zu erleben, das dich über die Grenze des menschlichen Verstandes hinausgetragen hat. Doch egal, wie sehr du dich anstrengst, dein Blick wandert immer wieder weg von den Symbolen und dem Muster - so als würde ein tief in dir sitzender Selbsterhaltungstrieb verhindern, dass du das noch einmal erlebst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Zeit oder Hitze haben diesen Teil der Wand wellig werden lassen. In den Bereichen, wo die Wand noch glatt ist, kannst du unmöglich durch Berührung alleine sagen, wo ein Symbol endet und das andere beginnt. Dort, wo die Zeit jedoch Spuren im Fels hinterlassen hat, stehen die Kanten einiger Symbole ein klein wenig aus der Wand heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Kanten hier sind so scharf, dass du dir ohne es zu bemerken einen hauchdünnen Schnitt im Zeigefinger zuziehst, als du darüberfährst. Als du die Hand zurückziehst, breitet sich ein Blutfleck unter deiner Haut aus und färbt deine Fingerspitze rot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du streichst vorsichtig erneut mit den Fingern über die Symbole im welligen Teil der Wand, gewinnst dabei aber keine neuen Erkenntnisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Symbole berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Symbole erneut berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

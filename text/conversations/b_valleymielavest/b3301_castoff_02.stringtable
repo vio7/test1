@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_castoff_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh, die Geschichten, die ich über die Erste erzählen kann. Frag mich danach, wenn Aadiriis mit dir fertig ist.“</DefaultText>
+      <FemaleText>"Oh, die Geschichten, die ich über die Erste erzählen kann. Frag mich danach, wenn Aadiriis mit dir fertig ist.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Die Erste wusste, wie man zur Sache kommt.“</DefaultText>
+      <FemaleText>"Die Erste wusste, wie man zur Sache kommt.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich reiste ein Jahrzehnt lang mit der Ersten. Sie zeigte mit Wahrheiten, die ich nie vergessen werde.“</DefaultText>
+      <FemaleText>"Ich reiste ein Jahrzehnt lang mit der Ersten. Sie zeigte mit Wahrheiten, die ich nie vergessen werde.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eine Schande, dass du die Erste nie kanntest. Sie hätte dir gefallen.“</DefaultText>
+      <FemaleText>"Eine Schande, dass du die Erste nie kanntest. Sie hätte dir gefallen.“</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

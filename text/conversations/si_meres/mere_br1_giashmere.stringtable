@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_br1_giashmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Du sprichst mit Ny'kul und erfährst, dass er ein Gott ist.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Kann ich ein Opfer von dir bekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vergiss es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Ny'kul stimmt zu, solange du dich als würdig erweist.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Es tun. Mich als würdig erweisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Was soll das überhaupt bedeuten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Nichts. Du hast versagt.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Du hast es geschafft! Er schenkt dir das Auge von Ny'kul.]
+
+{SCRIPT: Give player Eye of Ny'kul.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Du befindest dich in Thoms Körper und redest mit Omis und Semat über die Krise, die die Oase derzeit erfasst hat.
+
+Omis möchte Berata Ny'kul betreten und den Gott um Rat fragen. Semat hält das für Schwachsinn.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Hey, Omis. Kann ich das Amulett haben, das du um den Hals trägst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Omis, ich denke, ich sollte reingehen und mit Ny'kul sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Warum gehe ich nicht rein und spreche mit Ny'kul?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Nein. Was soll diese Frage überhaupt?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Omis sagt, dass du recht hast. Er verwendet sein Amulett, um Berata Ny'kul aufzuschließen und geht hinein. Er, äh, kommt nicht wieder heraus. Überhaupt nicht.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Omis zögert, aber willigt schließlich ein. Er schließt Berata Ny'kul mithilfe seines Amuletts auf und du gehst hinein.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Hey, kann ich mit dir über das Amulett sprechen? Ich glaube wirklich, dass du es diesem Abgeworfenen-Typen geben solltest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Omis ist unsicher, aber deine Überzeugungskünste sind für gewöhnliche Sterbliche einfach zu mächtig. Er sagt, dass er darüber nachdenke, wenn er das nächste Mal mit dem Abgeworfenen spricht.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das Amulett benutzen, um Berata Ny'kul selbst zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Das Amulett in einem versteckten Behälter verstecken und die Betrachtung des Lebensbilds beenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Du tust es. Das Lebensbild endet hier.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Berata Ny'kul verlassen und den Giash helfen, eine Entscheidung zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Du tust es. Wer auch immer sich darin befunden hat, als du hineingegangen ist, ist noch immer da. Wer auch immer nicht da war, ist immer noch nicht da. Hey, Bedingungen sind eine heikle Sache!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Das Lebensbild beenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

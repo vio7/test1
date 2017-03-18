@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_murder_scene_4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine gehäutete Hand liegt in der Mitte der Blutlache. Ihr zerfetzter Stumpf zeigt direkt auf den purpurnen Kreis, der an die nahe gelegenen Wand gemalt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Stumpf der abgetrennten Hand in der Mitte der Blutlache zeigt auf die Mitte des blutigen Kreises an der Wand, als wäre er durch einen unsichtbaren Arm mit ihm verbunden. 
+
+Euch beschleicht das merkwürdige Gefühl, dass sich die Hand bewegen wird, wenn Ihr sie lange genug betrachtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Follow-up PQ. 5</DefaultText>
+      <FemaleText>Follow-up PQ. 5</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die kleine Hand liegt offen, die Handfläche zeigt zur Decke. Durch die übereilte Arbeit mit dem Messer wurden die Fingerspitzen verstümmelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die kleine Hand liegt offen, die Handfläche zeigt zur Decke. Durch die übereilte Arbeit mit dem Messer wurden die Fingerspitzen verstümmelt. Du kannst nicht sagen, ob es zu diesen Verletzungen gekommen ist, weil Mechela versuchte, sich zu verteidigen, oder ob der Mörder schlichtweg in Eile war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Blutlache ist verkrustet und beinahe trocken. Die verstümmelte Hand trocknet und rollt sich zu einer Faust zusammen, ein Finger nach dem anderen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Untersuche die Hand in der Blutlache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Untersuche erneut die gehäutete Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Untersuche den Blutkreis an der Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Das ist das Symbol der Kinder der Endlosen Pforte, einer Splittersekte der Dendra O'hur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Follow-up PQ. 16</DefaultText>
+      <FemaleText>Follow-up PQ. 16</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du machst einen Schritt auf den Kreis zu. Irgendetwas daran scheint vertraut zu sein ...
+
+{GAVIN: Bonus-Aufgabe, abhängig von der Zeit: Verzweige das in einen separaten Baum mit PQs für jeden Gefährten.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Das habe ich eine Weile nicht mehr gesehen", sagt sie sanft, als sie an deine Seite tritt. "Das ist kein einfacher Kreis. Das ist das Symbol der Kinder der Endlosen Pforte."
+
+Sie schnaubt. "Das ist eine Sekte der Dendra O'hur, die Menschen tötet statt sie zu essen. Sie nennen es 'die Käfige öffnen'. Die Dendra jagten sie vor langer Zeit aus der Stadt, doch wie es scheint, haben sie den Wink mit dem Zaunpfahl nicht verstanden. Oder ..." Sie hält inne und denkt nach. "Einer der Dendra O'hur war es leid, darauf zu warten, dass Menschen von sich aus sterben."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du bist dabei, zu reagieren, als eine Erinnerung sich schmerzhaft durch deine Gedanken *wölbt* – und es ist nicht deine Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ergib dich der Erinnerung, ganz gleich, wie schmerzhaft es wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Frisches Blut läuft über den Kreis und zieht Euch durch den Hohlraum in seiner Mitte in die Welt auf der anderen Seite. 
+
+Ein blasiger Landstrich ringelt sich durch eine Leere, die so schwarz wie ein aufgerissener Schlund ist. Die Luft ist schwer, faul und weist die Glätte einer Made auf. Übelkeit überkommt dich und füllt deinen Kopf. Infiziert deine Gedanken. 
+
+Und durch all das spürst du einen Geist in dieser unergründlichen Dunkelheit, der auf deinen zukommt, suchend, probierend. Freudig. Hungrig. 
+{TON: Wind mit weichem, ekelhaftem Gesabber im Hintergrund. Könnte der gleiche sein, den der Spieler in der Szene der Endlosen Pforte hört.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du schiebst die schreckliche Erinnerung von dir weg, schlägst deinen Geist wie eine Tür zu und schluckt die knotige Übelkeit in deinem Hals herunter. 
+
+Nachdem du diese Welt gesehen hast, erscheint die Blutlache zu deinen Füßen fast banal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Frisches Blut läuft über den Kreis und zieht dich durch den Hohlraum in seiner Mitte in die Welt auf der anderen Seite. 
+
+Ein blasiger Landstrich ringelt sich durch eine Leere, die so schwarz wie ein aufgerissener Schlund ist. Die Luft ist schwer, faul und weist die Glätte einer Made auf. Übelkeit überkommt dich und füllt deinen Kopf. Infiziert deinen Gedanken ...
+{TON: Wind mit weichem, ekelhaftem Gesabber im Hintergrund. Könnte der gleiche sein, den der Spieler in der Szene der Endlosen Pforte hört.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Schiebe sie beiseite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du schlägst deinen Geist wie eine Tür zu. Die Erinnerung schnappt nach dir, und für einen Moment siehst du eine Welt jenseits des blutigen Kreises – einen blasigen Landstrich, der sich durch eine hungrige Leere windet ...
+
+Dann kollabiert die Vision und lässt dich atemlos und matt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du erkennst die Formen, die in die Wand geritzt wurden. Es sind sowohl ein transdimensionaler Eingang als auch das Symbol der Kinder der Endlosen Pforte, einer Splittersekte der Dendra O'hur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ehe du dich von dem Kreis abwenden könnt, *wölbt* sich eine Erinnerung durch deine Gedanken – und es ist nicht deine Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Deine Hand bewegt sich eigenständig zu den Streifen und Blasen aus Blut, und eine eiserne Spitze jagt durch deine Schläfen. 
+
+Du stehst vor einer leeren Wand. Hinter dir strahlt widerliches purpur-schwarzes Licht um die Ecke. Dies ist *dein* Tempel und du wurdest in eine Sackgasse getrieben. Von *ihr*.
+
+Blut sickert von der anderen Seite durch die Wand, wodurch sich die vertraute Form abzeichnet. Verängstigt und verwirrt verfolgt ihr die Linie ... und ein Tor öffnet sich mit einem nassen *Knirschen* ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du studierst die Striche und blutenden Nadelstiche, die den Kreis verzieren – ihn *binden*. Es sind keine Symbole aus irgendeiner bekannten Menschensprache, doch du spürst ihren Sinn. 
+
+Der Kreis war beinahe belanglos. Diese Siegel *ergriffen* seine Form und *drückten* ihn durch Raum und Zeit. Dies war, wenn auch nur kurz, ein transdimensionales Portal, das an einen anderen Ort führte. Jetzt ist es tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Wenn überhaupt, dann scheint der Kreis an der Wand – das transdimensionale Tor – dunkler als zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Es ist sofort ersichtlich, dass die Striche und blutenden Nadelstiche, die diesen Kreis verzieren, nicht willkürlich sind. Das ist ein Symbol, gezeichnet mit sorgfältigem Vorsatz. 
+
+Leider kannst du damit nichts anfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die Anordnung von Kreisen und Linien verschwimmt, je länger man sie anstarrt. Du kannst immer noch nichts mit ihrer Anordnung anfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Untersuche den Blutkreis an der Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Untersuche erneut den Blutkreis an der Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Wir sollten mit einem Mann namens Gourmandus darüber reden. Er ... kümmert sich hier unten um die Dinge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Oh nein", sagt Aligern leise. "Das ist Mechela. Jedenfalls was von ihr übrig ist."
+
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Vision zerbricht ... doch die Erinnerungen sind mit dir noch nicht fertig, wie es scheint. Eine weitere wölbt sich durch deine Gedanken und umschließt dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Vision bricht zusammen, und lässt dich keuchend.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

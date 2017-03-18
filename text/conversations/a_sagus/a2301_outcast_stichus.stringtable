@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_outcast_stichus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der unförmige Stichus sieht, wie du dich näherst, und grunzt und zwitschert vor Freude. Der Geruch von frisch ausgegrabenem Stein umgibt ihn. "Freundschaft", signalisiert er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Freund grüßen. Lebensband."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der unförmige Stichus sieht, wie du dich näherst, und grunzt und zwitschert vor Freude. Der Geruch von frisch ausgegrabenem Stein umgibt ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Der ausgestoßene Stichus kratzt als Begrüßung mit einer seiner bemitleidenswerten Klauen an der Wand entlang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Hole das verborgene Wissen der Sticha-Sprache in deinem Geist hervor.
+
+{GEORGE/ADAM: Dies ist eine Ausnahme der Gezeitenwellen-Regel – der SC wendet eine Gezeitenwelle auf sich selbst an, um sein eigenes Wissen freizuschalten.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Versuche, dich an die Sprache der Sticha zu erinnern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Mit der Frust steigen auch die Gezeiten. Du fühlst, wie sie sich in dir aufbauen, richtungslos aber mit steigender Macht, und es wird klar: Wenn du diese Kraft lenken kannst, kannst du die wahre Erinnerung in deinen Geist brennen und die Sprache auf diesem Weg lernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Er wartet geduldig auf deine Worte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ihr habt überlebt. Wie geht es Euch, jetzt, da Ihr in Euren natürlichen Lebensraum zurückgekehrt seid?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Wie behandeln Euch die anderen Sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du richtest die Gezeiten auf dich selbst, wodurch der zusammengetragene Schutt der Amnesie, der sich in deinem Geist festgesetzt hat, weggebrannt wird. Licht flammt in deinem Sichtfeld auf, Mandalas tanzen vor deinen Augen, und eine Unzahl von Bildern flimmert durch deine Erinnerung. 
+
+Du siehst, wie du mit einem Stichus interagierst. Ihr tauscht Handzeichen aus; eine kleine Schachtel zwischen euch beiden übersetzt deine Worte und Gedanken und zwingt deine Muskeln, zu reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Eine trübe Erinnerung kommt auf. Du stehst gemeinsam mit einem Stichus vor einem kleinen Apparat ... aber was ist das für ein Apparat? Was macht er? 
+
+Die Erinnerung entgleitet dir und wirbelt in den Nebeln der Amnesie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du schüttelst dich frei, zitternd, mit dem Wissen, dass es keine echte Erinnerung war. Ein vernunftloser Zorn baut sich in dir auf, eine tiefe und beständige Frustration über die Einschränkungen deines menschlichen Verstands.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du richtest die Gezeiten auf dich selbst, wodurch der zusammengetragene Schutt der Amnesie, der sich in deinem Geist festgesetzt hat, weggebrannt wird. Licht flammt in deinem Sichtfeld auf, Mandalas tanzen vor deinen Augen, und eine Unzahl von Bildern flimmert durch deine Erinnerung. 
+
+Du siehst, wie du mit einem Stichus interagierst. Ihr tauscht Handzeichen aus; eine kleine Schachtel zwischen euch beiden übersetzt deine Worte und Gedanken und zwingt deine Muskeln, zu reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Was esst Ihr da unten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Lass den Stichus in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Er zuckt mit den Schultern und zeigt auf die Sticha-Tunnel. Er zeigt auf sich selbst und zeichnet einen Kreis um sich. Sein Zwitschern klingt beinahe vertraut ... beinahe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ein Geruch umgibt dich wie die Luft in einem Tunnel, ehe er sich zu einer weiten Höhle hin öffnet. Er erinnert dich an die Angst vor dem Unbekannten.
+
+Der Stichus kratzt eine kleine Skizze in die Erde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Er zeigt auf einen kleinen Haufen entladener und inaktiver Numenera. Bei genauerer Betrachtung scheinen diese in erster Linie elektrische Energiequellen zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Etwas an dem Verhalten der Kreatur ist vertraut und du erkennst, dass du – oder zumindest der Wandelnde Gott – schon zuvor mit den Bestien gesprochen hast ... nicht geschickt, aber gut genug, um verstanden zu werden. Wenn du dich nur erinnern könntest ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>::ch'grp::</DefaultText>
+      <FemaleText>::ch'grp::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Deine Muskeln zucken parallel zu diesen Erinnerungen und du erkennst, dass die Sprache des Stichus ein Gewirr aus Duft, Bewegung und Lauten ist.
+
+Mit der Erinnerung strömen Informationen in deinen Geist, als wäre ein Stopfen gezogen worden. Der Geruch von Granit erfüllt deine Nase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Der Stichus neigt den Kopf in deine Richtung, als hättest du plötzlich etwas Unerwartetes in seiner eigenen Sprache gesagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Lass den Stichus in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ihr habt überlebt. Wie geht es Euch, jetzt, da Ihr in Euren natürlichen Lebensraum zurückgekehrt seid?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Könnt Ihr mir nochmal sagen, wie es Euch geht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Was esst Ihr da unten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Könnt Ihr mir nochmal sagen, was Ihr esst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Wie behandeln Euch die anderen Sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ist hier unten irgendetwas, über das ich Bescheid wissen sollte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Sticha-Brutgefährten ... nicht willkommen. Spüren Wut. Wollen tot." Er zuckt mit den Schultern. "Nicht graben Totentunnel. Nicht stark."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Er zuckt mit den Schultern und strömt traurige enttäuschte Gerüche aus. "Sterben. Langsamer als davor. In Tunneln. Sterben immer noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Betteln Essen. Alte Apparate. Trinken Blitz von ihnen." Er zeigt auf einen ordentlichen Haufen Numenera, der sich in der Nähe befindet. Bei genauerer Betrachtung seht Ihr, dass es in erster Linie elektrische Energiequellen sind. "Versuchen, sauber zu halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Kraft von alten Apparaten. Finden welche. Betteln für andere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Nicht behandeln. Ignorieren. Aber riechen." Er zieht seine Stifte und Atemlöcher ein und inhaliert. Du machst es ihm nach und erhaschst den schwachen Hauch von beißendem Gas, vielleicht etwas Entflammbares. "Markieren Tunnel. Warnen nicht betreten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Nicht sehen. Versuchen überleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Überraschen von Konstrukt." Er tippt vor Dankbarkeit leicht auf die Brust. "Nicht erwarten Loch bei Müll."
+
+Er lässt leicht die Luft heraus. "Nicht gehen Sticha-Tunnel. Geruch sagen nicht willkommen." Sein Duft verändert sich unterschwellig zu Einsamkeit. "Nicht leben lange." Er atmet Resignation und milden Optimismus aus. "Die away from sunlight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Braune Raupen in weicher Haut retten. Tragen, verstecken. Kein Zorn zu diesem." Er tippt sich auf die Brust.
+
+Er lässt leicht die Luft heraus. "Nicht gehen Sticha-Tunnel. Geruch sagen nicht willkommen." Sein Duft verändert sich unterschwellig zu Einsamkeit. "Nicht leben lange." Er atmet Resignation und milden Optimismus aus. "Die away from sunlight."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Sticha weg. Brutgefährten übrig. Duftmarken in Tunnel sagen wegbleiben." Er überlegt, dann schnaubt er eine Wolke aus, die nach Traurigkeit riecht. "Aber leben. Vorerst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Er zuckt mit den Schultern und strömt traurige enttäuschte Gerüche aus. "Sterben. Langsamer als davor. In Tunneln. Sterben immer noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Er verströmt ein Gefühl für Empfindung, als er dich beobachtet, doch du spürst nichts in seinem Geist, als wäre er ein gewöhnliches Tier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Er verströmt ein Gefühl für Empfindung, als er dich beobachtet, doch du spürst nichts in seinem Geist, als wäre er ein gewöhnliches Tier.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

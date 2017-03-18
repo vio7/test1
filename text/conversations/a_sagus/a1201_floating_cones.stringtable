@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_floating_cones</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Zwei schwebende Kegel wirbeln und drehen sich wie verrückt umeinander, kichern wie Kinder, die man kitzelt. Die Luft um sie herum riecht nach süßem, verbrannten Laub. 
+
+{SOUND: We should hear the giggling sounds throughout this dialogue, though we should also hear them outside the dialogue when we approach the cones. Alex, I'm not sure how you want to handle this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Kegel wirbeln immer noch umeinander. Vielleicht bis in alle Ewigkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was seid Ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Noch mal versuchen, mit den Kegeln zu sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Einen Kegel berühren, wenn er vorbeikommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Noch mal versuchen, einen der Kegel zu berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Beobachten, ob es ein Muster gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Kegel in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Es gelingt dir, einen der Kegel mit der Fingerspitze zu berühren. "Rorn", sagt eine Stimme und deine Augen sind nicht mehr deine. 
+
+Über dir hängt ein unbekannter Mond, pechschwarz in einem blendend weißen Himmel. Dicke, flache Asteroiden umkreisen ihn wie Blüten im Wind. Tentakel betasten neugierig deinen Knöchel und der heiße Wind riecht nach verbranntem Haar und Kummer.
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du greifst nach den tanzenden Kegeln, aber sie weichen dir fidel aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Je länger du diese Artefakte anstarrst, desto überzeugter bist du, dass sie sich schneller drehen, wenn ihre Pfade sich kreuzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Sie scheinen schwache leuchtende Linien nach sich zu ziehen, die sich miteinander verflechten. Wie ein Seil, das an einem unsichtbaren Punkt jenseits dieser Zeit und dieses Ortes festgemacht ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du siehst wieder durch deine eigenen Augen. Die Kegel schweben eine Sekunde lang reglos in der Luft, bevor sie wieder ihren vergnügten Tanz beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die Kegel reagieren auf deine Frage mit einer Millisekunde Stille, gefolgt von unkontrolliertem Gekicher. 
+
+{SOUND: As noted in the text, the giggling should stop of a second, then resume (maybe a little more hysterical at first).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Kindliches Lachen ist ihre einzige Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Sie sind *für* überhaupt nichts da. Sie stammen aus einer früheren Welt."
+
+Aligern streicht sich mit der Hand über seine Bartstoppeln. "Gelegentlich machen die Numenera etwas Nützliches. Manchmal drehen sie dich auf links. Und hin und wieder tun sie einfach gar nichts, das auch nur irgendeinen Sinn ergibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Sie sind *für* überhaupt nichts da. Sie sind hier, seit ich denken kann. Vermutlich länger. Gut möglich, dass sie von einer früheren Welt stammen."
+
+Aligern streicht sich mit der Hand über seine Bartstoppeln. "Gelegentlich machen die Numenera etwas Nützliches. Dann wieder kehren sie deine Welt auf den Kopf. Und manchmal tun sie einfach gar nichts, das auch nur irgendeinen Sinn ergibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Sie haben vielleicht einen Zweck", sagt Callistege. "Aber den werden wir beide nicht herausfinden. Sie stammen von einer früheren Welt oder überhaupt von einem noch viel fremderen Ort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Dasselbe habe ich oft genug über dich gesagt, mein Lieber", murmelt Callistege.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Kegel setzen ihren wirbelnden, fröhlichen Tanz fort und nichts deutet darauf hin, dass sie dich überhaupt gehört haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Wofür seid ihr da?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

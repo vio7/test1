@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_peliai_crisis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Gib die Eier her und ich werde dich nicht verletzen müssen]</DefaultText>
+      <FemaleText>[Gib die Eier her und ich werde dich nicht verletzen müssen]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Gib ihr die Eier]</DefaultText>
+      <FemaleText>[Gib ihr die Eier]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[gehen]</DefaultText>
+      <FemaleText>[gehen]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Ich bin froh, dass du deinen Platz in der Hierarchie begriffen hast]</DefaultText>
+      <FemaleText>[Ich bin froh, dass du deinen Platz in der Hierarchie begriffen hast]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Schlagen!]</DefaultText>
+      <FemaleText>[Schlagen!]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Überwältigt diesen Verbrecher!]</DefaultText>
+      <FemaleText>[Überwältigt diesen Verbrecher!]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Rück die Eier raus, wenn du weißt, was gut für dich ist. Schnell jetzt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich entnehme sie deiner Leiche, wenn ich es muss!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Jetzt langsam! Die Eier dürfen nicht geschadet werden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Bring die Eier zu mir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

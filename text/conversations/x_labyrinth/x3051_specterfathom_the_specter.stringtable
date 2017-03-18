@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x3051_specterfathom_the_specter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>102</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du setzt deine Hände auf den eisigen Boden und stemmst dich auf die Füße. Jeder Teil deines Körpers schmerzt, als würdest du von einer massiven Hand zerdrückt.
+
+Der Geist steht vor dir, teilnahmslos. Es könnte nur Einbildung sein, aber er schein solider als zuvor.
+
+{GAVIN: Polish task: Consider adding options to the battle that the Specter can turn against you, strengthening him.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Der Wandelnde... Gott will uns v-vernichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was... geschieht? Warum bin ich... im Labyrinth?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sammle deine Gedanken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du konzentrierst dich, und strengst dich an, deine Gedanken zu sammeln, aber sie wirbeln wie heißer Sand durch deinen Kopf. Der Geist seufzt, und scheint jetzt weniger solide, als er es vor einem Moment war.
+
+"Wir müssen reden," sagt er.
+
+Du hörst ihn kaum durch den Schmerz hindurch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Deine Worte taumeln in der Luft und fallen auseinander wie eine Handvoll Staub. Jetzt bist du dir sicher. Der Geist ist weniger durchsichtig, als er es vor einer Sekunde war.
+
+"Ich habe dich hierher gebracht," sagt der Geist ruhig. "Wir müssen reden."
+
+Du hörst ihn kaum durch den Schmerz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Deine Worte taumeln in der Luft und fallen auseinander wie eine Handvoll Staub. Jetzt bist du dir sicher. Der Geist ist weniger durchsichtig, als er es vor einer Sekunde war.
+
+"Ich verstehe, warum du die Sachen so sehen würdest," sagt er ruhig.
+
+Du hörst ihn kaum durch den Schmerz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Es gibt etwas, das ich dir sagen möchte. Verstehst du, ich war nicht ganz ehrlich mit dir. Ich bin nicht ein Teil von dir. Du bist ein Teil von *mir*. Ich habe dich erschaffen. *Ich* bin der Wandelnde Gott."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Die Kultisten in den Sagusklippen stimmen dir nicht zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Nein, der bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich habe mich schon gefragt, wo du steckst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Du hättest mich nicht anlügen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich bin nicht überrascht," sagt er, und sein Umriss flackert. "Manche von ihnen machen skeptische Laute, aber sie *wollten* immer glauben, dass ich zu ihnen zurückkehre. Jeder Scharlatan mit einer hastiggemalten Tätowierung und einer glaubwürdigen Geschichte könnte sie davon überzeugen, dass sie ich seien."
+
+Er gibt dir ein freundliches Lächeln. "Aber wir wissen beide, dass du *nicht* der Wandelnde Gott bist, stimmt's?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Das bist du nicht," sagt er behutsam, und sein Umriss flackert. "Wir wissen doch beide, dass das nicht wahr ist, stimmt's?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Hier," sagt er einfach, und sein Umriss verfestigt sich. "Die ganze Zeit über war ich hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vielleicht nicht," gibt er zu. "Aber als du im Labyrinth landetest, brauchte ich dich zum *handeln*, nicht zum Fragen stellen. Der Kummer war genau hinter dir."
+
+Er zuckt mit den Schultern. "Aber jetzt bleiben wir bei der Wahrheit, egal, wie unfair es dir erscheint. Ich *bin* der Wandelnde Gott."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich weiß, dass das viel zu verdauen ist. Es bedeutet, dass dein Körper eigentlich *meiner* ist. Ich wohnte jahrelang darin. Und jetzt, da wir wissen, dass die Erste immernoch lebt, brauche ich ihn zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Aber das ist *dein* Verstand, in deinem Duell mit Malaise gehont. Zu einer glänzenden Klinge geschärft.
+
+Du atmest ein, beseitigst den Schmerz von deinen Gliedmaßen, und sammelst deine Gedanken zu dir. Fokussierend öffnest du deine Augen.
+
+Der Geist, nun leicht durchsichtig, spricht wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Aber das ist *dein* Verstand, in der psychischen Schlacht, die du zusammen mit den Kriegern des Fünften Auges gekämpft hast, gehont. Zu einer glänzenden Klinge geschärft.
+
+Du atmest ein, beseitigst den Schmerz von deinen Gliedmaßen, und sammelst deine Gedanken zu dir. Fokussierend öffnest du deine Augen.
+
+Der Geist, nun leicht durchsichtig, spricht wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Und was würde mit mir geschehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Das könnten sie," erlaubt der Geist, und sein Umriss festigt sich. "Aber ich denke auch nicht, dass sie glauben, dass *du* der Wandelnde Gott bist, oder?"
+
+Er fokussiert seinen Blick in die Luft, ein bedauerndes Lächeln auf seinen Lippen. "Ach herrje. Sie haben deine dürftigen Lügen durchschaut, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Eine gute Frage," sagt er. Er scheint größer, als er es zuvor war. "Sobald du mir meinen Körper zurückgibst, werden deine Gedanken ins Hinterste meines Verstandes gedrängt. Es wäre zunächst etwas beunruhigend. Verwirrend, vielleicht, aber nicht schmerzhaft. Und dann würden unsere Gedanken zusammenschmelzen. Du würdest wieder ein Teil von mir werden."
+
+Er breitet seine Hände aus. "Und das wär's schon. Nun. Gib mir meinen Körper zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Nein. Das ist mein Körper, nicht deiner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Also gut. Er ist dein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Er hat gelogen. Der Schmerz ist furchtbar. Weltzerbrechend. Jede Erinnerung, die du in deinem kurzen Leben dir angeeignet hast wird untersucht, auseinandergerissen und weggeschmissen. Du schwindest, während er expandiert, und die Ecken deines Körpers füllt, die einst dein war.
+
+Und ja, er hat gelogen. Du bist nicht mit ihm verschmolzen. Du hast nicht Vergessenheit gefunden. Du lebst weiter, mundlos, verstandlos, ein hilfloser Zeuge der Verbrechen, die er mit deinen Händen begeht.
+{SOUND: Spell effects. See above.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>{good-natured}"Ich wusste, dass du das sagen würdest! {Good humor begins to slip away, gradually getting angry}Aber kommen wir zur Sache. Ich wohnte in diesem Körper. Ich habe ihn zu einem Zweck *erschaffen*. Und nun sagt du, dein Hauch eines Lebens überwiegt meine jahrhundertelange Erfahrung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ohne mich würdest du gar nicht existieren. Du existierst *gar nicht* außerhalb von mir. Alles, was du bist, ist ein Nebenprodukt meiner Fähigkeiten, meines Intellektes, meiner Erfahrungen. {angriest}Und nun, da ich die Chance habe, den Kummer aufzuhalten, uns alle zu retten, lehnst *du* *mich* ab? Wer um alle Höllen bist *du*?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Der neue Besitzer dieses Körpers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Der Wandelnde Gott."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Bleibe ruhig.</DefaultText>
+      <FemaleText>Bleibt ruhig.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Es war nie dein Körper," sagt der Geist mit verzerrtem Gesicht. "Nein. Lass mich dir sagen, was du bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ha. Nein. Lass mich dir sagen, was du bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Die Augen des Geistes strahlen mit ungeduldiger Furie. "Endlich schweigend? Gut. Dann erzähle ich dir, was du bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Du bist ein Unfall des Schicksals, ein Parasit in dem Verstand, den *ich* erschaffen habe. {calmer, but intense} Du bist ein Kind. Ich will dich nicht vernichten, aber ich werde es tun, wenn ich es muss. {Biting his words} Gib. Mir. Die. Kontrolle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Na schön. Nimm ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Niemals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Dann *nehme* ich ihn mir einfach," sagt der Geist und breitet seine Arme aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Gezeitenenergie gießt aus der Luft um dich herum, und fließt in den Geist. Der Boden selbst rutscht um deine Füße, und hält dich fest. Du spürst, wie dein Griff auf deinem Körper - deinem Verstand - um Fingerlängen nachlässt.
+
+Du schwindest. Er gewinnt. Du suchst in deinem Verstand - deine hartverdienten Erinnerungen - nach etwas, das seinen Griff auf dich lockert.
+{SCRIPT/FX: Waves of gathering energy pour towards TCG. .We might also use the Anamnesis effect with a different color, if we're low on time}
+{SOUND: A building, wavelike, powerful sound. TCG is gathering his formidible mental strength}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Die Worte von Qra auf den Geist entfesseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Aufgeben und zusammenbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Die Schritte des Geistes nähern sich. Solide. Echt. Er legt eine ruhige, väterliche Hand auf deinem Kopf. Dann spürst du, wie seine Finger in deinem Verstand wühlen und ihn an den Wurzeln ausreißt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du holst Atem, und rufst die scharfen, bissigen Wörter aus, die einst das uralte Volk von Qra zerstörten. Sie reißen sich von dir und holen zum Geist aus, und schließen sich über seinem Verstand wie ein Mund mit gelben, gezackten Zähnen.
+
+Er taumelt, faucht, dann versenkt er seine Hände in seinen Kopf. Eines nach dem anderen zieht der Geist die Worte heraus und zerstört sie in einen nun-schwindenden Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Als du sprichst, erfüllt deine Gliedmaßen ein leichtes, rotes Licht - nicht das Rot der Gezeiten, aber des Blutes, in einer Schüssel getragen.
+
+Ja. Du hast diesen Körper mit deiner eigenen Willenskraft behauptet. Du blutetest dafür von Anfang an.
+
+Die Augen des Geistes verengen sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Die Vision beschwören, die dir die psychische Kriegerin Leto zeigte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Deine Maschinen haben Frauen in Sagus wahnsinnig gemacht. Warum denkst du, dass du es verdienst, zurückzukehren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich fand das Buch der Singenden Dornen und las die Inschrift. Du bist weit davon abgefallen, wo du begonnen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Es ist schwer, den donnernden Wellen der Macht des Geistes zu bestehen, doch du strengst dich an, dich an die Vision zu erinnern, die sie dir zeigte. Aber der Schmerz - der Lärm - sie binden dich mit schreienden Ketten, und halten dich eine Haarbreite von der Gabe, die sie dir übergab...
+
+"Nein," sagt Leto in deinem Ohr. Und sie sagt das Wort nochmal, das geräuschlose Wort, das sie dir einst zuflüsterte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Sein Umriss flackert einmal, wie eine Kerze in einer weichen Brise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Seine Außenlinie verschwimmt, und wird unscharf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Er ist jetzt beinahe transparent, beinahe verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Mit einem schaudernden Keuchen schreckt er zurück. Abwechselnd verblasst er und wird wieder sichtbarer. Der Druck auf deinem Verstand schwindet und endet.
+
+"Na schön," sagt er und blickt dich mit kühler Verachtung an. "Wenn du so entschlossen bist, den Kummer selber aufzuhalten, versuch es doch. Lasst uns sehen, wie du mit dem, was bevorsteht, klarkommst, und das ohne meine Hilfe. Ohne meine Führung."
+{SCRIPT/FX: Psychic Battle effects fade and end.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Dann, schwindet er komplett, aber spricht nochmal. Seine Stimme kommt von überall um dich herum, aus jeder Ecke deines Verstandes. Er ist nicht weg. Er versteckt sich bloß irgendwo in dir.
+
+"Es war eine Zeitverschwendung, zu versuchen, vernünftig mit dir zu reden. Das wird nicht nochmal geschehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Deine Füße freizerren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Es erneut versuchen, deine Füße freizubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Von der Vertiefung deines Verstandes nochmal nach der geisterhafte Frau ausrufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Die Gezeiten gegen den Geist wenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Der Geist zuckt zusammen, als ob du ihn geschlagen hättest, und murmelt etwas vor sich hin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Der Geist sieht kurz überrascht aus, und Farbe blutet aus seinem flackernden Rahmen. Er knurrt vor sich hin.
+
+"Ich habe nie vergessen, was mit ihr geschah. Nicht ein Mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Die Augen des Geistes weiten sich während dich aufrichtest, und die Fäden der Gezeiten in deinen Händen sammelst. Du streckst sie empor.
+
+"Tu es nicht," brummt der Geist, aber du ignorierst ihn und reißt die Fäden auseinander. Qual explodiert in deinem Verstand und schlägt durch deinen Körper, was essentielle Teile von dir schadet...
+
+...und dem Geist ebenfalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Im Moment, an den dein Verstand sie berührt, ist sie da, dem Geist zugewandt. Kummer und Wut strahlen aus ihren Augen, ihrem Herz.
+
+Mürrisch schnippt der Geist in einer abweisenden Geste seine Hand zur Seite. Sie verblasst erneut und nimmt etwas von ihrer Ausstrahlung mit sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Du ringst mit dem Boden, als er zu deinen Beinen aufkriecht, aber du kannst dich nicht befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Stöhnend kämpfst du mit dem Boden, der dich festhält, aber nein. Du bist gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Ihre Prophezeihung erblüht in deinem Verstand, ein glänzendes, silbernes Netz aus Leben und Möglichkeiten. Gewissheit füllt die wie Rüstung. Dieser Moment ist kein Zufall. Das der Ort und die Zeit, wofür du bestimmt warst.
+
+Dir gegenüber schreckt der Geist zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Du kannst die Worte bei all dem Chaos um dich herum kaum ausmachen.
+
+"Ich würde jeden in Sagus in den Wahnsinn treiben, wenn ich es müsste."
+
+Dann blickt er hinauf, überrascht, dass du ihn gehört hast. Dieser Moment der Ungewissheit kostet ihn. Eine Portion seiner eigenen Energie schlägt durch ihn, und nimmt ihm einen Teil seiner Kraft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Wir müssen nicht kämpfen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Wir kämpfen auch nicht," sagt der Geist in einer flachen Stimme. "Eine Auseinandersetzung braucht *zwei* Personen. Bestenfalls bist du ein Muskelkrampf. Kopfschmerzen. Und du *wirst* vergehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Du fällst zu Boden, schrumpfend, und Hauche deiner Identität steigen wie Rauch in die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Ohne ein weiteres Wort schwebt der Geist vor dir und versenkt seine Hände in deinen Kopf - deinen Verstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ist *das* der Grund, warum ich deine Gedanken nicht lesen kann? Du... hast sie irgendwie versteckt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Du sagtest, du *seist* ausgedacht, dass ich dich nicht lesen konnte, weil du wie die meisten anderen Sachen hier seist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Natürlich," sagt er schlicht, während sein Umriss sich verfestigt. "Du dachtest nicht, dass ich so lange lebte, ohne das Lügen zu erlernen, oder? Auch das Lügen für Gedankenleser?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Eine Lüge," sagt er während sein Umriss flackert. "Ich bin nicht einfach nur eine Reflektion. Ich *verbarg* meine Gedanken vor dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Du ballst deine Fäuste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Du hebst deinen Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Du holst tief Atem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Deinen Verstand gegen ihn schließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Du schließt deine Augen, und einen Moment lang - eine herrliche, flüchtige Sekunde lang - spürst du, wie der Druck nachlässt, als ob der Verstand des Geistes ein Sturm ist, der gegen die Wände einer hastiggebauten Unterkunft schlägt.
+
+Du denkst zurück, wanderst durch die Entscheidungen, die du trafst, seitdem du mitten in der Luft geboren wurdest, und bemerkst zwei Sachen - es waren die richtigen Entscheidungen für die Zeit, und keine von ihnen wird dir hier und jetzt weiterhelfen.
+
+Und damit durchdringt der Verstand des Geistes wieder deine Verteidigungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ich werde dich aus meinem Verstand reißen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Sein Gesichtsaudruck festigt sich.
+
+"So lange wirst du nicht mehr leben. In ein paar Minuten bleibt von deinem Verstand nichts mehr als Gedankenfetzen, die in der Luft verschwimmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Oder vielleicht denkst du, dass meine Erste Verstoßene einen besseren Weg hat, hmm? Irgendeine magische Lösung, ohne Preis deine falsche Existenz auszuleben? Ich verspreche dir, so etwas gibt es nicht. Sie hat schon immer nur geötetet, um das zu bekommen, was sie will. Ihr Selbstinteresse ist genauso stark wie unserer. Der einzige Unterschied zwischen uns dreien ist, dass *ich* echt bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

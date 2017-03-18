@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_goop</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine blubbernde Schicht Schlamm schwimmt auf der Wasseroberfläche. Ab und zu trennt sich ein öliges Knöllchen vom Rest und hebt in den Himmel ab.
+
+Du siehst für einen Moment ein mit Schmutz bedecktes Objekt in der übel riechenden Masse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>::bloop::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Dicke Blasen steigen vom Schlamm in den Himmel empor. Du siehst immer noch die Umrisse eines schmutzbedeckten Objekts, das in der aufgewühlten Masse feststeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Das Objekt aus dem Schlamm herausziehen versuchen.
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als die Sonne das nächste Mal auf die schmutzige Oberfläche des Objekts scheint, bist du bereit. Du ziehst das Objekt aus der öligen Masse und reinigst es, so gut es geht. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du greifst nach dem Objekt, verschätzt dich jedoch, verlierst das Gleichgewicht und stürzt in die glitzernde, schlammige Masse. 
+
+{SCRIPT:  Apply a fettle that has a -1 penalty to the player's Speed Edge but also gives a small bonus to Armor.}
+{SOUND: Player falls into the big blob of black, tarry sludge. (If you're not sure where it is in game, let us know.)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Beinahe beiläufig fischt du das glitzernde Objekt aus dem Schlamm und reinigst es, so gut es geht. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du greifst ungeschickt nach dem Objekt, rutscht aus und landest mit dem Kopf voraus in der glitzernden, schlammigen Masse. 
+
+{SCRIPT:  Apply a fettle that has a -1 penalty to the player's Speed Edge but also gives a small bonus to Armor.}
+{SOUND: Player falls into the big blob of black, tarry sludge. (If you're not sure where it is in game, let us know.)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Du wirst Stunden brauchen, um den Schmutz wieder loszuwerden. Ich rate dir, die Haut zu wechseln, wenn das eines deiner verborgenen Talente ist, Liebes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Der Schlamm stinkt wie ein Merkadianerarsch." Aligern verzieht das Gesicht. "Bist der von dir abgebröckelt ist, wird es keine Wonne sein, dich zu begleiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Den Schlamm untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ganz weit unten siehst du großes dunkles Becken voller Schlamm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du lehnst dich vorsichtig näher an die wogende Masse heran. Schnell stellst du fest, dass die in den Himmel schwebenden Knöllchen immer stets *etwas* enthalten, sei es sauberes Meerwasser oder ein winziges Fischlein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Addend. 19</DefaultText>
+      <FemaleText>Addend. 19</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Strömung im Schlamm folgt einem Muster, das mehr mechanisch als natürlich wirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich bin nicht sicher, ob dieser schreckliche Schlamm wirklich harmlos ist oder du nur unglaubliches Glück hast. Aber greif nur weiter nach allem, was du siehst, Liebes. Das ist ja so amüsant."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Die meisten Leute würden ihre Hand nicht in stinkenden Schlamm stecken, aber für dich scheint es sich gelohnt zu haben. Diesmal zumindest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du drehst dich herum und kämpfst dich aus dem Schlamm, bevor du auch feststeckst. Während du keuchend Schlammklumpen von dir streichst und zurück ins Wasser wirfst, stellst du fest, dass das Objekt nicht mehr da ist. Es muss versunken sein, als du in den Schlamm gefallen bist. 
+
+Deine Gliedmaßen sind nun von einem steifen, grauen Schlammfilm überzogen und fühlen sich schwer an. Der Schlamm sollte wie eine Art Rüstung wirken ... zumindest für eine Weile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Die meisten Leute warten nicht, bis der Dreck von ihnen *abbröckelt*, mein Lieber. Sie nehmen vielmehr ein *Bad*.  Und auch wenn dein Gestank irgendwie fast schon wieder charmant ist, bist du der Letzte, der sich über den Geruch von anderen beschweren sollte."</DefaultText>
+      <FemaleText>"Die meisten Leute warten nicht, bis der Dreck von ihnen *abbröckelt*, mein Lieber. Sie nehmen vielmehr ein *Bad*.  Und auch wenn dein Gestank irgendwie fast schon wieder charmant ist, bist du die Letzte, der sich über den Geruch von anderen beschweren sollte."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Nach weiteren Objekten suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Warten, bis weitere Schätze an die Oberfläche kommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du siehst keine weiteren geheimnisvollen Objekte in der blubbernden Masse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Minuten verstreichen, während du geduldig neben dem Schlamm ausharrst. Nichts passiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Endlich wird deine Geduld belohnt: Ein ungewöhnliches Objekt wird gurgelnd an die Oberfläche gespült. Du schnappst es dir, bevor es wieder versinken kann.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Sieh mal einer an. Der Junge hat Geduld."</DefaultText>
+      <FemaleText>"Sieh mal einer an. Das Mädchen hat Geduld."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Du hast einen wahren schmutzigen Schatz gefunden! Gut gemacht, Liebes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Vielleicht mein guter Einfluss", sagt Callistege strahlend. "Deiner kann es ja nicht sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du siehst nichts außer Schlamm und noch mehr Schlamm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Vom aufgewühlten Schlamm steigen dicke Blasen in den Himmel empor. Keine Spur von dem Objekt, das du vorhin im Schlamm erspäht hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Du hast Glück gehabt, Kid, aber mehr wirst du hier nicht finden. Wenn es so einfach wäre, würde es hier 28 Stunden am Tag vor Plünderern wimmeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du wartest geduldig, aber es kommt nichts mehr an die Oberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

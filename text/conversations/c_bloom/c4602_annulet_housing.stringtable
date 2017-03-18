@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4602_annulet_housing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Unter den kristallenen Formationen befindet sich ein Stahlsockel. Kabel verlaufen in und aus dem Sockel und glühen vor Energie.
+
+Als du dich ihm bis auf Reichweite näherst, materialisiert sich eine schimmernde Benutzeroberfläche in der Luft zwischen dir und dem Sockel. Um ein filigranes Pentagon, welches der Tätowierung auf deinem Kopf ähnelt, sind einige seltsame Symbole in einem Kreis angeordnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Berühre das zentrale Symbol mit deiner eigenen Tätowierung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Als du dich dem Sockel näherst, glüht das filigrane Pentagon noch heller auf. Dein Kopf wird wärmer, löst jedoch kein Unwohlbefinden aus. Als du das Licht berührst, spürst du, wie eine kleine Menge Energie aus dir herausströmt. Die Kabel an dem Sockel pulsieren schnell und die Oberseite der Kammer öffnet sich zischend.
+
+Der einzige Gegenstand in dessen Inneren ist ein hyaliner Ring, so schwarz wie der Himmel hinter den Sternen – der Magmatische Ring. Du nimmst ihn aus dem Sockel und steckst ihn ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Tritt von dem Stahlsockel zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Da er nun leer ist, hat sich der Sockel selbstständig verschlossen. Die schimmernde Benutzeroberfläche erscheint nicht mehr, als du dich dem Sockel näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Erneut materialisiert sich eine schimmernde Benutzeroberfläche in der Luft. Um ein filigranes Pentagon, welches der Tätowierung des Letzten Abgeworfenen ähnelt, sind einige seltsame Symbole in einem Kreis angeordnet.</DefaultText>
+      <FemaleText>Erneut materialisiert sich eine schimmernde Benutzeroberfläche in der Luft. Um ein filigranes Pentagon, welches der Tätowierung der Letzten Verstoßenen ähnelt, sind einige seltsame Symbole in einem Kreis angeordnet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Berühre die um das filigrane Pentagon angeordneten Symbole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Lege deine Hand auf das Pentagon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Nichts passiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Kammer schließt sich zischend und die Benutzeroberfläche verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Unter den kristallenen Formationen befindet sich ein Stahlsockel. Kabel verlaufen in und aus dem Sockel und glühen vor Energie.
+
+Als du dich ihm bis auf Reichweite näherst, materialisiert sich eine schimmernde Benutzeroberfläche in der Luft zwischen dir und dem Sockel. Um ein filigranes Pentagon, welches der Tätowierung auf deinem Kopf ähnelt, sind einige seltsame Symbole in einem Kreis angeordnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Erneut materialisiert sich eine schimmernde Benutzeroberfläche in der Luft. Um ein filigranes Pentagon, welches der Tätowierung des Letzten Verstoßenen ähnelt, sind einige seltsame Symbole in einem Kreis angeordnet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die schimmernde Benutzeroberfläche wartet auf deine Eingabe, doch deine Aufmerksamkeit wird zurück auf die Kristallvoren gelenkt.</DefaultText>
+      <FemaleText>Die schimmernde Benutzeroberfläche wartet auf deine Eingabe, doch deine Aufmerksamkeit wird zurück auf die Kristallvoren gelenkt.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

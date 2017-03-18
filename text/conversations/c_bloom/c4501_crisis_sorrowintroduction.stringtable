@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_crisis_sorrowintroduction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Festung erbebt, als du wieder zu Bewusstsein kommst. Staub und Steine fallen von der Decke über dir.
+
+"Was war das?" Die Erste schnuppert die Luft. Ihr Körper leuchtet mit der neuen Kraft aus der Resonanzkammer. "Der Kummer. Er ist hier, aber zu früh! Die Aktivierung der Resonanzkammer ist noch nicht abgeschlossen."
+
+Sie umklammert den Griff ihres Schwertes fester. "Wir müssen uns unserem Feind stellen. Nur Mut! Wir müssen nur noch ein paar Minuten überleben, dann sind wir für immer frei!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Enorme Kraft durchströmt in immer stärker werdenden Wellen deinen Körper. Die Resonanzkammer ist noch nicht voll aktiviert, aber du fühlst dich bereits, als könntest du es alleine mit dem Kummer aufnehmen.
+
+Und gerade rechtzeitig. Als du zurück in die Realität kommst, spürst du, dass sich etwas geändert hat. Der Kummer ist dabei, in die Festung einzubrechen!
+
+Die Macht der Kammer kann vielleicht dich beschützen, aber nicht die anderen. Du musst ihnen helfen, zu überleben, bis die Kammer voll geladen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der Kummer hat erschreckende Macht aufgebaut. Er wendet seine Aufmerksamkeit der Resonanzkammer zu ...
+
+Plötzlich explodiert die Kammer in Lichtstrahlen, die alles und jeden in der Festung berühren. Endlich ist sie aktiviert!
+
+Aber es fühlt sich nicht an wie erwartet. Ein heftiger Schmerz explodiert in deinem Kopf und etwas zerrt an deinen Eingeweiden. Die Kammer zieht dich in sich *hinein* und reißt deinen Geist aus deinem Körper.
+
+Und den Schreien nach zu urteilen bist du nicht der Einzige, dem es so geht ...</DefaultText>
+      <FemaleText>Der Kummer hat erschreckende Macht aufgebaut. Er wendet seine Aufmerksamkeit der Resonanzkammer zu ...
+
+Plötzlich explodiert die Kammer in Lichtstrahlen, die alles und jeden in der Festung berühren. Endlich ist sie aktiviert!
+
+Aber es fühlt sich nicht an wie erwartet. Ein heftiger Schmerz explodiert in deinem Kopf und etwas zerrt an deinen Eingeweiden. Die Kammer zieht dich in sich *hinein* und reißt deinen Geist aus deinem Körper.
+
+Und den Schreien nach zu urteilen bist du nicht die Einzige, der es so geht ...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die ganze Festung erbebt. Staub und Steine fallen von der Decke über dir.
+
+"Was war das?" Die Erste schnuppert die Luft und ihr Körper leuchtet mit der neuen Kraft aus der Resonanzkammer. "Der Kummer. Er ist hier, aber zu früh! Die Aktivierung der Resonanzkammer ist noch nicht abgeschlossen."
+
+Sie umklammert den Griff ihres Schwertes fester. "Wir müssen uns unserem Feind stellen. Nur Mut! Wir müssen nur noch ein paar Minuten überleben, dann sind wir für immer frei!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als sie sich zum Kampf umwendet, bemerkst du, dass die Konsole der Resonanzkammer immer noch funktioniert. Vielleicht hast du noch eine Chance, ihre Kraft umzulenken, bevor sie voll geladen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

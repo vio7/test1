@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_murden_tussle_ending</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die letzte Murde fällt tot um, und im Raum wird es ruhig. Die Dolmetscherin steht weiterhin in einer Rastposition, ihr Gesicht zeigt keine Reaktion auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dreckiges Ungeziefer. Es wird Stunden brauchen, den Mief von meiner Klinge loszuwerden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Hey, ich bin überall mit Federn bedeckt! Wie sehe ich aus? Leute?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Könntest du uns nächstes Mal freundlicherweise vorwarnen, wenn du gleich eine Gruppe anpisst, die doppelt so zahlreich ist wie unsere?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

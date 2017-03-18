@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_freedman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Freigelassener</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Coty einen Job.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Spreche mit Coty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Coty einen Job bei Brusca besorgt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Coty einen Job bei den Sundermuns besorgt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Coty einen Job beim Schrein besorgt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Spreche mit Coty.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Gib Coty etwas zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Schlafen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Coty einen "Job" beim Dekantierten besorgt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Was ist passiert?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Endspiel betreten (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Endspiel betreten, nachdem du Coty einen Job besorgt hast, aber ohne, es ihm zu sagen (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe einen jungen Flor-Sklaven namens Coty gekauft und entschieden, ihn freizulassen. Anstatt wegzurennen und seine neugewonnene Freiheit zu genießen, schien Coty von ihr eher eingeschüchtert - er wusste nicht, was er tun soll. Also habe ich angeboten, ihm eine passende Arbeit zu suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich sollte die Augen nach einer passenden Arbeit für Coty offen halten. Er ist ein aufgeweckter und gesunder junger Mann, aber hat keine besonderen Fähigkeiten ... außer Stehlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Jetzt, wo ich eine Arbeit für Coty gefunden habe, sollte ich zu ihm zurückkehren und ihm von den guten Neuigkeiten erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Coty hat mit Brusca gesprochen, um der Wache der Memovira beizutreten. Sein neues Leben wird ein bisschen holpriger als er es gewohnt ist, aber immerhin wird er sich wohl kaum langweilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Coty ist jetzt ein Lehrling von Sundermun dem Älteren. Wenn er so weitermacht, kann er sich lukrative Fähigkeiten aneignen, die in der Flor sehr gefragt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Coty ist der neue Wächter des Schreins von Chila. Er wird nicht viel verdienen - vermutlich wird er außer Kost und Logis sogar gar nichts bekommen. Der Fleck hat allerdings versprochen, sich um ihn zu kümmern, was diesen Ort für ihn sicherer macht als irgendwo anders in der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Mein neuer Sklave wartet auf seine Anweisungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Coty bat mich, ihm Arbeit zu finden.Zusatz: Coty offenbarte, dass er etwas Erfahrung als Dieb hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe Coty Arbeit gegeben. Jetzt muss ich nur darauf warten, dass er sie erledigt und zu mir zurückkehrt.  Das ist langweilig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Coty ist mit den Dekantierten gegangen. Irgendwie bezweifle ich, dass eine rosige Zukunft vor ihm liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich muss irgendwie verwirrt sein, weil ich geglaubt habe, Coty schon eine Arbeit beschafft zu haben. Das ist offensichtlich nicht der Fall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Coty muss jetzt seinen eigenen Weg finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Ich habe keine Ahnung, wann und ob ich in die Flor zurückkehren werde. Es sieht ganz danach aus, als würde ich Coty nie von der Arbeit erzählen können, die ich für ihn gefunden habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Sundermun der Ältere hat eingewilligt, Coty als seinen Lehrling zu übernehmen, aber nur, wenn ich ihn für Kost und Logis bezahle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe Sundermun für die Kosten, die Coty verursachen wird, entschädigt. Wenn ich Coty zu seinem Laden schicke, wird er ihm eine Arbeit geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe Sundermun den Älteren davon überzeugt, Coty als seinen Lehrling zu akzeptieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Brusca, einer der Leutnants der Memovira, möchte Coty nicht als Wache engagieren. Seiner Ansicht nach sei er zu jung und unerfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe Brusca davon überzeugt, Coty als einen der Schläger der Memovira zu engagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Beobachterin Fleck lässt Coty als Wärter des Schreins von Chila einstellen. Sie kann ihn nicht bezahlen, aber sie würde ihm Essen und ein Dach über dem Kopf bieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Der Dekantierte, den ich im Hof der Memovira getroffen habe, ist an Coty interessiert. Er wird mich bezahlen, wenn ich Coty in seine Obhut übergebe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Seltsamerweise fühlt es sich für mich so an, als hätte Coty eine Arbeit gefunden, aber das ist offensichtlich nicht der Fall. Die Flor scheint sich an meinem Kopf zu schaffen zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

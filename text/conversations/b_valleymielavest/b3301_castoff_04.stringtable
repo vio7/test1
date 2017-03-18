@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_castoff_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Du bist der, der aus den Sternen gefallen ist?“</DefaultText>
+      <FemaleText>"Du bist der, der aus den Sternen gefallen ist?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich hörte, dass der Kummer bei deiner Geburtszeit aktiver wurde. Ein Zufall?“</DefaultText>
+      <FemaleText>"Ich hörte, dass der Kummer bei deiner Geburtszeit aktiver wurde. Ein Zufall?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wer sagt denn, dass du nicht auch den Kummer hierher führst?“</DefaultText>
+      <FemaleText>"Wer sagt denn, dass du nicht auch den Kummer hierher führst?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Du solltest Miel Avest verlassen. Ich wette, der Kummer ist dir heiß auf der Spur.“</DefaultText>
+      <FemaleText>"Du solltest Miel Avest verlassen. Ich wette, der Kummer ist dir heiß auf der Spur.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mir sind die hierigen Verteidigungen bekannt, aber sie sind nicht *genug*.“</DefaultText>
+      <FemaleText>"Mir sind die hierigen Verteidigungen bekannt, aber sie sind nicht *genug*.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Die Schilde sind bloß Tarnung. Der Kummer könnte jederzeit zu uns herstolpern.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Denkst du nicht, dass seine Ankunft verdächtig ist?“</DefaultText>
+      <FemaleText>"Denkst du nicht, dass seine Ankunft verdächtig ist?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

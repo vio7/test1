@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_end_table_hostel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Neben dem Bett steht ein hübscher, gut gemachter Nachttisch mit einer Schublade. Ein großes, geöffnetes Buch liegt oben drauf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Untersuche das Buch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Seiten des Buches sind aus dickem Vellum-Papier und es scheint ein Atlas dieser Region zu sein. Die geöffnete Buchseite zeigt eine Karte mit der Stadt Sagus-Klippen, dem nahegelegenen Tal der toten Helden, einer Bergkette im Norden mit dem Namen Ossiphagan Gebirge und eine kreisrunde Wüste im Osten, die den Namen Verlorene See trägt. 
+
+Ein dünner Bändel wurde in die offenen Seiten platziert. Ein zweiter Bändel markiert eine andere Stelle des Buches.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Versuche, die Schublade zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Schublade scheint verschlossen zu sein, aber du kannst etwas von innen rasseln hören. Das Geräusch ist schwach, aber stetig, so als wäre das Objekt am Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Versuche, das Schloss der Schublade zu knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Nach einigen Mühen hörst du ein befriedigendes Klicken und die Schublade öffnet sich lautlos ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Egal wie sehr du am Schloss-Mechanismus rummachst, es will nicht aufgehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Das Schloss springt schon bei deinem ersten Versuch auf ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dein unbeholfener Versuch ruiniert das Schloss. Niemand wird es jemals wieder öffnen können. Allerdings hat deine Hammermethode die Schublade etwas gelöst, du solltest sie jetzt leichter aufstemmen können.
+
+{SOUND: This should provide an asset on the Smashing task (node 13).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Lass den letzten Tisch in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Darin findest du ein kleiner verzierter Kamm, der wie ein mit Edelsteinen geschmücktes Insekt aussieht. Tatsächlich ist *es* ein mit Edelsteinen geschmücktes Insekt - ein biomechanisches Schmuckstück, das sehr lebendig ist. Die Scheren eignen sich dazu, Haarlocken zu umschließen und seine Flügel lassen es über dem Kopf des Trägers schweben. 
+
+Mehrere Haare hängen noch zwischen den Zähnen des Kamms. Sie sind kräftig purpurrot gefärbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Versuche, die Schublade zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du stemmst einige Zeit an der Schublade rum, und schließlich springt sie mit einem leichten Knacken auf. Niemand scheint es gehört zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Schublade ist stabiles als sie aussieht. Du stemmst einige Zeit an ihr rum, aber sie gibt nicht nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Der Schließmechanismus gibt mit einem schwachen Knacken nach und die Schublade springt auf. Offensichtlich hast du deine eigene Kraft unterschätzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du ziehst an der Schublade und da fliegt sie schon auf. Ein kleines funkelndes Objekt flattert heraus. Bevor du es dir genau ansehen kannst, rutscht es über die Kante der Plattform und stürzt in die Tiefe in den Ozean darunter.
+
+Du kannst zwar nicht genau sagen, wo genau das Objekt gelandet ist, aber du erkennst, dass das Wasser sich zu einem kleinen Eingang in eine Höhle hin verengt.
+
+{SOUND: I like the reactivity here - let's set a variable and implement this. I've made a note in the dialogue description for the fishing lines, but you'll need to modify the existing a2301_fishing_lines dialogue to include the hair comb. It'll be another option that follows node 19. Please coordinate with Gavin so that he can update the text once you add this,}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Addend. 18</DefaultText>
+      <FemaleText>Addend. 18</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du hast das Gefühl, diese Art von biomechanischer Handwerkskunst schon einmal gesehen zu haben. Es ist sehr, sehr kalt - wahrscheinlich älter als die Neunte Welt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Versuche noch einmal, die Schublade zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Versuche, noch einmal das Schloss der Schublade zu knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Untersuche nochmal das Buch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Das Buch scheint ein Atlas zu sein. Es ist geöffnet und zeigt eine Karte mit der Stadt Sagus-Klippen und Umgebung, darunter das nahegelegene Tal der toten Helden und eine kreisrunde Wüste im Osten, die den Namen Verlorene See trägt.
+
+In die offenen Seiten wurde ein dünner Bändel gelegt und ein weiterer Bändel markiert eine andere Stelle im Buch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Versuche, das Alter des Buches zu schätzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Schau nach den Namen nahegelegener Siedlungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die Seite ansehen, die mit dem anderen Stoffstreifen markiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Anhand des Zustandes der Seiten schätzt du, dass das Buch etwa 20 Jahre alt ist. Das Vellum-Papier wurde wahrscheinlich aus der Haut eines Herdentiers gemacht - ein Aneen-Jungtier oder vielleicht ein Gallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Dieses Buch scheint nicht neu zu sein - die Seiten sind abgenutzt - aber mehr kannst du nicht feststellen. Es könnte zehn, aber auch 50 Jahre alt sein. Auf keiner der Seiten sind irgendwelche Daten gestempelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Außer Sagus-Klippen siehst du nur ein paar andere Städte. In der Mitte der kreisrunden Wüste befinden sich ein großer blauer Punkt mit der Aufschrift ‚Oase von M'ra Jolios‘ und direkt daneben ein kleinerer Punkt mit ‚Jerboa‘. Auf der anderen Seite der Wüste ist eine weitere Stadt namens ‚Haref‘. 
+
+Am einen Ende vom Tal der toten Helden ist ein Punkt mit der Aufschrift ‚Die Nekropolis‘. Es ist unklar, ob es sich um eine Siedlung oder nur eine Sehenswürdigkeit handelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du siehst eine weitere ganzseitige Karte. Diese zeigt eine Region namens Augur-Kala, die irgendwo im Nordwesten von Sagusklippen zu liegen scheint und von einer runden Gebirgskette beherrscht wird, der Uhr von Kala. Angesichts des perfekten Rings, den die Berge formen, sind sie so gut wie sicher in ferner Vergangenheit künstlich angelegt worden.
+
+Verschiedene größere und kleinere Städte sind in der Landschaft verstreut. Die größte und prominenteste ist Sada-Imidu.
+
+Nach einigen Augenblicken blätterst du zurück zur Karte der Region um Sagusklippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Untersuche stattdessen den Nachttisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Der Nachtisch ist sehr schön gearbeitet und hat eine Schublade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Außer Sagus-Klippen siehst du nur ein paar andere Städte. In der Mitte der kreisrunden Wüste befinden sich ein großer blauer Punkt mit der Aufschrift ‚Oase von M'ra Jolios' und direkt daneben ein kleinerer Punkt mit ‚Jerboa'. Auf der anderen Seite der Wüste ist eine weitere Stadt namens ‚Haref'. 
+
+Am einen Ende vom Tal der toten Helden ist ein Punkt mit der Aufschrift ‚Die Nekropolis'. Das muss die Stätte sein, die du im Tal besucht hast.
+
+{SCRIPT: Spieler hat bereits das Tal der toten Helden besucht.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[DEBUG: Gib mir einfach den Kamm, zum Teufel.]</DefaultText>
+      <FemaleText>[DEBUG: Gib mir einfach den Kamm, zum Teufel.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Der schwebende Kamm – und das purpurfarbene Haar – passen zu Omahdons Beschreibung von Perseia. Es ist wahrscheinlich, dass sie in diesem Raum war ... und vermutlich vor nicht allzu langer Zeit.</DefaultText>
+      <FemaleText>Der schwebende Kamm – und das purpurfarbene Haar – passen zu Omahdons Beschreibung von Perseia. Es ist wahrscheinlich, dass sie in diesem Raum war ... und vermutlich vor nicht allzu langer Zeit.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

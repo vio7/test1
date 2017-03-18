@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_obelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Über dem Wasser schwebt ein mattschwarzer Obelisk. Seine scharfen gewölbten Kanten laufen in einer Spitze zusammen, die in der schwachen Brise des Tages mal mehr und mal weniger hell leuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vorlehnen, um den Obelisken zu berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erneut die Hand zum Obelisken ausstrecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du streckst die Hand zum Obelisken. Aus dem Inneren des schwarzen Steins wallt trübes grünes Licht, das dich wie ein wütendes Auge fixiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Hand vom Obelisken zurückziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ein Lichtstrahl zuckt von der Spitze des Obelisken in Richtung deiner Hand, doch du bist schneller. Das Licht verfehlt dich um Haaresbreite. Deine Fingerspitzen kribbeln.
+
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ein Lichtstrahl schießt von der Spitze des Monuments und durchbohrt deine Hand. Du schreist vor Schmerz und taumelst zurück.
+
+{DAMAGE}
+{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Smaragdgrünes Licht sammelt sich an der Spitze des Gebäudes zu einem gleißenden Lichtstrahl, der direkt auf deine ausgestreckte Hand zielt. 
+
+Du ziehst die Hand zurück und der Lichtstrahl fährt dampfend in das Wasser unter dir ein, ohne Schaden anzurichten. Das düstere Licht vom Obelisken her verblasst langsam. 
+
+{SCRIPT: This needs to call LaunchProxyAbility(oei_user, LaserSourceNode, 0)}
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ein Lichtstrahl schießt von der Spitze des Monuments, durchbohrt deine Hand und reißt dir das Handgelenk auf. Du schreist vor Schmerz und taumelst zurück. 
+
+{DAMAGE}
+{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du hebst die Hand und erneut erscheint das smaragdgrüne Licht aus dem Inneren des Monuments. Deine Instinkte übernehmen die Kontrolle und du ziehst die Hand weg. Du kannst dem Lichtstrahl in letzter Sekunde ausweichen. 
+
+{SOUND: Laser sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Den Obelisken in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Der Obelisk schwebt friedlich über dem Wasser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich kannte mal einen, der hat getan, was du vorhast", bemerkt Aligern beiläufig. "Ein Aeon-Priester. Ein Lichtstrahl kam von der Spitze dieses Dings und er fing ihn in einem Kristallgitter ein. Leider hat der zweite Strahl ihm dann das Gesicht weggebrannt."
+
+"Aber du wirst schon wissen, was du tust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Sei vorsichtig mit diesem Gerät, Liebes. Es hat die Angewohnheit, Leute, die ihm zu nahe zu kommen, mit Lichtstrahlen zu durchbohren."
+
+Ihre Augen glänzen bei der Erinnerung. "Ich kannte mal einen hübschen jungen Aeon-Priester, der schaffte es, einen Strahl in einer Kristallkette einzufangen. Er sah *so* zufrieden aus. Allerdings nur in der einen Realität. In allen anderen hat der Strahl seinen Kopf durchbohrt. Danach war er nicht mehr ganz so hübsch - und nicht mehr ganz so lebendig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ach, sei still. Der arme Priester starb wenigstens beim Versuch, seine Neugier zu befriedigen, und irrte nicht ewig in Selbstmitleid versunken die Küste entlang."
+
+"Tu, was du tun musst", sagt sie zu dir, unbeirrt vom tödlichen Blick, den ihr Aligern zuwirft. "Aber sei vorsichtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Kristallscherbe in Richtung des Obelisken ausstrecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vorsichtig zielst du mit der Scherbe auf den Obelisken. Ein superheißer Lichtstrahl schießt von seiner Spitze in den Kristall, der in deiner Hand vibriert und warm und grün leuchtet. 
+
+{ANIM: Green laser shoots player... or just in front of player. As [B] or [C] priority, the player could stretch out his hand, wielding the crystal shard, and the beam hits the shard.}
+{SOUND: Laser sound effect.}
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ein Lichtstrahl schießt von der Spitze des Monuments und durchbohrt deine Hand. Du schreist vor Schmerz und taumelst zurück.
+
+{SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
+{SOUND: Laser sound effect.}
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Dennoch die Hand ausstrecken und den Obelisken berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Vor dem Obelisken zurückweichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Grimmiges Licht sammelt sich an der Spitze des Obelisken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Das Licht des Obelisken verblasst, als du zurückweichst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Aligern schnaubt. 
+
+"Hoffe, das war's wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Man kann Finger auch auf weniger schmerzhafte Arten loswerden, Liebes. Wenn es das ist, was du möchtest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Aligern pfeift anerkennend.
+
+"Sieht man nicht oft, dass einer dem Licht so geschickt ausweicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Pass bitte auf deine hübschen Hände auf. Finger wachsen schließlich nicht auf Bäumen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ich kannte mal einen, der hat getan, was du vorhast", bemerkt Aligern beiläufig. "Ein Aeon-Priester. Ein Strahl kam von der Spitze dieses Dings und brannte ihm das Gesicht weg. Aber seine Kristallkette gibt seither ein ganz gutes Nachtlicht ab."
+
+"Aber hey, du wirst schon wissen, was du tust."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Aligern pfeift anerkennend.
+
+"Sieht man nicht oft, dass einer dem Licht so geschickt ausweicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Pass bitte auf deine hübschen Hände auf. Finger wachsen schließlich nicht auf Bäumen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Aligern schnaubt. 
+
+"Hoffe, das war's wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Man kann Finger auch auf weniger schmerzhafte Arten loswerden, Liebes. Wenn es das ist, was du möchtest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Aligern schnaubt. 
+
+"Hoffe, das war's wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Man kann Finger auch auf weniger schmerzhafte Arten loswerden, Liebes. Wenn es das ist, was du möchtest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Das Licht des Obelisken verblasst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Während du nach weiteren Zeichen von Gefahr Ausschau hältst, verblasst das Licht des Obelisken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du legst deine Hand auf die Oberfläche des Obelisken. Ein gleißender smaragdgrüner Lichtstrahl schießt von der Spitze des Gebäudes und trifft dich in der Brust. 
+
+Was dann folgt, ist sehr unangenehm, aber zum Glück recht schnell vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Das Licht wird intensiver und sammelt sich an einem Punkt bei der Spitze des Apparats. Du spürst, wie du Gänsehaut bekommst. 
+
+Instinktiv ziehst du die Hand zurück. Das Gefühl und das Licht verblassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du ziehst die Hand zurück so schnell du kannst, aber es ist zu spät. Ein smaragdgrüner Lichtstrahl schießt von der Spitze des Obelisken und fährt dir in die Brust. Was dann folgt, ist sehr unangenehm, aber zum Glück recht schnell vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Erneut strahlt der Obelisk ein dumpfes, unheilvolles Licht ab, als du die Hand danach ausstreckst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

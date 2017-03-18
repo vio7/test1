@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_stuck_airlock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Tür ist aus einem unbekannten, glänzenden Metall. Sie wurde zu spiegelblankem Glanz poliert. Ein magnetischer Streifen eines anderen, stumpferen Metalls zeigt eine seltsame runische Schrift auf seiner Oberfläche. Es sieht aus wie eine Anleitung für die Türe.
+
+Als du die Türe probeweise berührst, entdeckst du, was die Nachricht wohl sein muss - "Diese Türe klemmt", oder etwas ähnliches. Du könntest die Türe vielleicht mit Gewalt öffnen ... aber es wird nicht leicht werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Türe mit Gewalt öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lass die Tür in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Irgendein Mechanismus im Inneren der Türe scheint zu klemmen, aber du schaffst es, den Widerstand zu überwinden. Du hörst etwas krachen und dann öffnet sich die Türe, die dabei ein wenig knarzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du wuchtest dich gegen die Türe, versuchst sie zur Seite, nach unten, nach oben zu drücken ... alles ohne Erfolg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die glänzende Türe bleibt hartnäckig geschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Follow-up PQ. 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Erneut versuchen, die Tür aufzubrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_preservation_of_beauty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bewahrung der Schönheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde und rekrutiere attraktive Personen für die Utopie des Dekantierten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Quote erfüllt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Den Dekantierten verjagt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Endspiel betreten (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein Wesen, das als der Dekantierte bekannt ist, ist auf der Suche nach Menschen mit ästhetischen Körpern. Es sagt, dass es diese Menschen mit sich an einen Ort, den man die Optero-Suite nennt, bringt, um sie dort ein Leben voller Luxus und Privilegien genießen zu lassen. Es hat mir eine attraktive Belohnung versprochen, wenn ich ihm bei seiner Suche helfe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Dekantierte muss drei Personen rekrutieren, um seine Quote zu füllen. Ich sollte sicherstellen, dass diese Rekrutierte attraktive Körper haben – der Dekantierte scheint sich gar nicht für andere Aspekte zu interessieren.Wenn ich potenzielle Rekruten finde, sollte ich den Dekantierten informieren, der nahe der Sklavenversteigerung in Memoviras Hof steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe dem Dekantierten dabei geholfen, seine Quote zu erfüllen. Es hat mich für meine Hilfe belohnt, und ist dann mit seinen "Rekruten" verschwunden. Ich bezweifle, dass ich sie jemals wiedersehen werde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Der Dekantierte wurde vertrieben, und er wird sich vermutlich für lange Zeit nicht mehr in der Flor blicken lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Ich weiß nicht, wann und ob ich wieder in die Flor zurückkehren kann, also haben sich meine Bemühungen, einen geeigneten Kandidaten für den Dekantierten zu finden, wohl erledigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe Coty an den Dekantierten übergeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe Herja für den Dekantierten rekrutiert. Es sah so aus, als wollte sie nicht kooperieren, also hat die Kreatur sie bewusstlos geschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Der Dekantierte hat mir berichtet, dass seine Agenten erfolgreich Sundermuns Geliebte in Jargolamis rekrutiert haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe Bourras davon überzeugt, dass der Dekantierte ihm kostenlose Essenzen übergeben würde, also hat er sich freiwillig gemeldet. Das Konstrukt hat mich für meine Dienste bezahlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe Rhin an den Dekantierten übergeben. Sie wollte sich wehren, also hat er sie handlungsunfähig gemacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Der Dekantierte hat mich darüber informiert, dass der Übersetzer der Murden gefunden und für akzeptabel befunden wurde, und er hat mich für den Hinweis belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Parsim Flint hat mir erzählt, dass der Dekantierte furchtbare Dinge mit denen anstellt, die er "rekrutiert".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Der Dekantierte hat Interesse an einem der Sklaven, der sich in der Grube neben der Auktionsbühne befindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Es scheint, dass Rhin sich als eine gute Rekrutin für den Dekantierten erweist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Der Dekantierte möchte Coty käuflich erwerben. Alles, was ich tun muss, ist, den Jungen zum Dekantierten zu schicken. Dann kann ich mit der Kreatur sprechen und meine Bezahlung abholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Sundermun der Ältere hat mir von einer wunderschönen Frau erzählt, die er auf seinen Reisen kennengelernt hat. Ich frage mich, ob der Dekantierte daran interessiert wäre, jemanden von weit her zu rekrutieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Der Dekantierte hat mir erzählt, dass seine Agenten jemanden an einem weit entfernten Ort rekrutieren können - wie zum Beispiel die wunderschöne Frau, die Sundermun beschrieben hat - aber er benötigt die genauen Aufenthaltsinformationen der Person.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Ich habe den exakten Aufenthaltsort der Frau, die Sundermun erwähnt hat, erfahren - sie befindet sich in der Stadt Jargolamis in den Standhaften Königreichen und arbeitet an der Instandsetzung der Umbil-Himmelspassage. Ich sollte dem Dekantierten davon erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Der Dekantierte sendet seine Agenten aus, um die Lage der Frau zu untersuchen, von der Sundermun mir erzählt hat. Er wird mir nur dann eine Belohnung geben, wenn sie sie erfolgreich rekrutieren können. Ich sollte morgen noch einmal vorbeischauen, um herauszufinden, wie es gelaufen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Herja, die Kriegerin, die ich in Klein-Nihliesh getroffen habe, ist eine große, erstklassige Frau. Sie könnte eine hervorragende Kandidatin für den Dekantierten sein. Das einzige Problem ist, dass sie gerade eine Gefangene des Mutantenprinzen Gar-koto ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Ich habe einen jungen Adligen namens Bourras getroffen, der für den Dekantierten interessant sein könnte.  Ich habe ihn zuletzt in den Cheirug-Fällen gesehen, wo er Fremde um Geld angebettelt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Bourras könnte sich dauerhaften Schaden zugefügt haben. In seinem derzeitigen Zustand würde es ihn wohl kaum kümmern, wenn der Dekantierte ihn mit sich nehmen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Ich habe dem Dekantierten von Bourras und seinem Zustand erzählt. Er hat versprochen, seine Agenten nach ihm zu schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Der Dekantierte hat mich darüber informiert, dass seine Agenten Bourras aufgespürt und für tauglich befunden haben. Er hat mich für meine Dienste gut bezahlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>Der Dekantierte hat Agenten ausgesendet, um die Frau zu rekrutieren, die von den Murden als Sprachrohr verwendet wird. Ich sollte morgen noch einmal vorbeischauen, um herauszufinden, wie es gelaufen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>Die Murden im Alten Sklavenviertel haben eine attraktive junge Frau als eine Art Übersetzerin missbraucht. Obwohl ihr Schicksal von trauriger Natur ist, könnte sie für den Dekantierten interessant sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Der Dekantierte hat seinem Interesse an der Übersetzerin der Murden Ausdruck verliehen, aber er kann sie nur rekrutieren, wenn die Murden vertrieben wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>Mir kommt es vor, als hätte ich jemanden für den Dekantierten rekrutiert - vielleicht eine Frau? - aber das muss ein Traum gewesen sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>Ich habe Bourras davon überzeugt, dass der Dekantierte die Essenzen verteilt, auf die er es abgesehen hat, und er hat sich auf den Weg zum Hof der Memovira gemacht. Ich sollte zum Dekantierten zurückkehren und mich vergewissern, dass er dort angekommen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>Ich kann Coty nicht mehr für die Dekantierten rekrutieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>Als Akt der Gnade habe ich die Dolmetscherin der Murden getötet, damit ich sie nicht für die Dekantierten rekrutieren kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>Ich kann Herja nicht mehr für die Dekantierten rekrutieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>Sundermun weigert sich, mir zu sagen, wo ich die schöne Frau finde, von der er gesprochen hat. Ich komme hier nicht weiter und kann sie nicht für die Dekantierten rekrutieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>Ich habe das Gefühl, als hätte ich eine Spur zu einer schönen Frau, weit weg, die die Dekantierten interessieren könnte ... aber das muss Einbildung oder ein Traum gewesen sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20029</ID>
+      <DefaultText>Ich kann Rhin nicht mehr für die Dekantierten rekrutieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

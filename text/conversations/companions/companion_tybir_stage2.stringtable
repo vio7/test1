@@ -1,0 +1,3945 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_tybir_stage2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>774</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Danke, dass du mir geholfen hast, Ris zu befreien, Junge. Nicht, dass der Bengel dafür dankbar wäre."</DefaultText>
+      <FemaleText>"Danke, dass du mir geholfen hast, Ris zu befreien, Mädel. Nicht, dass der Bengel dafür dankbar wäre."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Also stimmt es, was Ris gesagt hat? Du hast ihn nur befreit, damit du nicht in die Sache reingezogen wirst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Er starrt zu Boden und sagt: "Ich würde lügen, wenn ich sage, dass das damit nichts zu tun hatte. Aber ich mag den Jungen wirklich und möchte nicht, dass ihm etwas zustößt. Und ich hätte auch einfach fliehen können."
+
+Er beißt sich auf die Lippe. "Das hätte ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Denkst du, er macht seine Drohung wahr? Müssen wir auf der Hut sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Ich würde mir keine Sorgen machen", sagt er schmunzelnd. "Ris hat bei Weitem nicht so viele Freunde wie er denkt. Ich war praktisch sein einziger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Ich fürchte, Ris' Version der Geschichte erscheint mir glaubwürdiger als deine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Ach was?" Tybir zuckt mit den Schultern. "Du kannst natürlich glauben, was du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"Du bist ein guter Freund. Ris benimmt sich wie ein Idiot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Danke", sagt er, ohne dir in die Augen zu sehen. "Schön, dass einem mal jemand glaubt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Lass mich etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Na klar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Gehen wir weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Danke, dass du mich mitgenommen hast, Junge. Immer gut, wenn einem ein Freund den Rücken freihält, was? Was kann ich für dich tun?"</DefaultText>
+      <FemaleText>"Danke, dass du mich mitgenommen hast, Mädel. Immer gut, wenn einem jemand den Rücken freihält, was? Was kann ich für dich tun?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Ja, Junge?"</DefaultText>
+      <FemaleText>"Ja, Mädel?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Ich würde gerne über unsere Begleiter sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"Im Moment nichts. Gehen wir weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"Ich denke, wir sollten uns trennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"Uns trennen? Das ist verdammt schade. War ein Vergnügen mit dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"Falls du mich später wieder brauchst, ich bin hier in der Gegend. Muss einen Weg raus aus diesem turmhohen Slum finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>"Falls du mich später wieder brauchst, findest du mich in der Karawanserei, auf der Suche nach einem Weg raus aus diesem turmhohen Slum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"Du nimmst mir die Worte aus dem Mund. Ich denk mir schon seit Längerem dasselbe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>"Wenn wir ehrlich sind, ist es wahrscheinlich das Beste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>"Absolut. Kein Problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"Danke für dein Eingreifen dort hinten. Ris und seine Freunde haben mich überrascht. Mich, ausgerechnet."
+{COLIN/NATHAN: Feels like this should be an interjection that plays immediatley after the incident in question. -AH}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>"Was ist mit deiner Gerissenheit und Geistesgegenwart passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>"Die hab ich immer noch", sagt er und weicht deinem Blick aus. "Aber ... wenn ein Freund dich plötzlich angreift, das ... lähmt einen geradezu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>"Ich weiß nicht, ob das richtig war. Du hast den Jungen schamlos ausgenutzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>"Unsinn", sagt er. "Nun, ein Körnchen Wahrheit ist vielleicht dabei. Aber ich hätte ihn nicht da rausholen müssen und habe es doch getan."
+
+Er verschränkt die Arme. "Manche Leute kennen einfach keine Dankbarkeit. Ich schon. Und du hast meine. Überleg dir, was du damit machen willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>"Gern geschehen. Sprechen wir über etwas anderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"Absolut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"Mein Glück suchen", sagt er unbekümmert. "Neue Freunde finden."
+
+Er räuspert sich. "Nun, zumindest bis zu dieser Sache mit Ris. Jetzt suche ich wohl … Arbeit? Abenteuer? Neue Möglichkeiten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>"Im Moment nicht viel. Ich bin, äh, für alles offen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"Was machst du in Sagusklippen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>"Was machst du nochmal in Sagusklippen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>"Nun", sagt er, die Hände in die Hüften gestützt. "Ich schlage mich ganz gut im Kampf. Ich bin recht wortgewandt, wie du vielleicht bemerkt hast."
+
+Er verschränkt die Arme vor dem Körper. "Und ... ich hab kein Problem damit, das eine oder andere krumme Ding zu drehen, wenn es sich lohnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>"Ich bin ein ganz guter Kämpfer und ein begnadeter Redner und hab jede Menge Tricks auf Lager. Ich stehe zur Verfügung, wenn du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>"Was sind deine Stärken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>"Was sind nochmal deine Stärken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>"Im Moment will ich nichts weiter als einen Weg raus aus Sagusklippen und ein wenig nette Gesellschaft. Beides scheine ich mit dir gefunden zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>"Einen Weg raus aus Sagusklippen und jemanden, der mir den Rücken freihält. Nichts weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>"Was willst du von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>"Was willst du nochmal von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>"Du weißt, was ich will. Ich will, dass du mir hilfst, Ris zu retten, bevor sie ihn hinrichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>"Hilf mir, einen Justizirrtum zu verhindern: Die Hinrichtung meines Freundes Ris."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>Für einen Augenblick verzieht er schmerzlich das Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>"Vergiss nicht, Junge", sagt Tybir und packt dich am Ärmel. "Wenn wir nichts unternehmen, ist Ris übermorgen mausetot."</DefaultText>
+      <FemaleText>"Vergiss nicht, Mädel", sagt Tybir und packt dich am Ärmel. "Wenn wir nichts unternehmen, ist Ris übermorgen mausetot."
+
+{SCRIPT: Tybir reminds PC that Ris will die soon as PC walks away from sleep site.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>Tybir klopft dir auf die Schulter. 
+
+"Vergiss nicht, Junge. Wenn wir heute nichts unternehmen, ist Ris morgen früh mausetot."
+
+Er zieht die Augenbraue hoch. "Das kannst du doch nicht verantworten, oder?"</DefaultText>
+      <FemaleText>Tybir klopft dir auf die Schulter. 
+
+"Vergiss nicht, Mädel. Wenn wir heute nichts unternehmen, ist Ris morgen früh mausetot."
+
+Er zieht die Augenbraue hoch. "Das kannst du doch nicht verantworten, oder?"
+
+{SCRIPT: Tybir reminds PC that Ris will die soon as PC walks away from sleep site.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>Tybir packt dich an der Schulter, sein Gesicht wutentbrannt.  "Du hast Ris' Hinrichtung verschlafen! Du hast ihn auf dem Gewissen, hörst du? Ich weiß nicht, ob es Faulheit, Vergesslichkeit oder Absicht von dir war, aber du kommst zu spät. Ris ist tot."
+
+Er ballt die Hände zu zitternden Fäusten. "Ich halte es keine Minute länger in dieser Stadt aus, mit dem Wissen, dass er hier gestorben ist, bloß weil ich der falschen Person vertraut habe."
+
+Er spuckt dir vor die Füße.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>"Viel Glück noch. Und auf Nimmerwiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>"Ich würde gerne etwas zur Rettung von Ris fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>"Nur zu", sagt er ernst. "Ich tue, was ich kann, um dir zu helfen mir zu helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>Follow-up PQ. 634</DefaultText>
+      <FemaleText>Follow-up PQ. 634</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>Follow-up T. 635</DefaultText>
+      <FemaleText>Follow-up T. 635</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>"Eine Farce!" knurrt er. Seine Augen funkeln im gerechten Zorn. "Der arme Junge hatte keine Ahnung, was in der Kiste war!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>"Ein Missverständnis", sagt er mit einer abschätzigen Handbewegung. "Ris und ich wurden angeheuert, um einem Kunden von außerhalb der Stadt eine Kiste teuren Brandy zu liefern."
+
+Er seufzt voller Bedauern und Verachtung. "Wer hätte gedacht, dass die Flaschen statt mit Brandy mit *Staatsgeheimnissen* gefüllt waren? Ris wurde beschuldigt, diese an die Feinde von Sagusklippen zu verkaufen. Man nannte ihn einen Verräter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>"Er wurde mit einer Brandykiste voller Staatsgeheimnissen erwischt. Bedauerlicherweise war der Richter vernünftigen Argumenten gegenüber taub."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>"Warum soll Ris hingerichtet werden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>"Warum soll Ris nochmal hingerichtet werden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>"Wenn ihr beide in die Sache involviert wart, warum bist du noch frei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>"Glück?" sagt er mit einem Schulterzucken. "Ich war gerade pissen, als die Wachen kamen. Zwängte mich durchs Abortfenster und kletterte aufs Dach." 
+
+Er schüttelt den Kopf. "Von dort aus sah ich zu, wie sie den armen Ris abführten. Schwor mir, dass ich ihn da rausholen würde. Hoffentlich kann ich mein Versprechen halten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>Follow-up PQ. 643</DefaultText>
+      <FemaleText>Follow-up PQ. 643</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>Follow-up T. 644</DefaultText>
+      <FemaleText>Follow-up T. 644</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>"Die Aufgabe ist einfach, aber sie erfordert jemanden mit guten Nerven und einem frischen Gesicht. Hör zu." 
+
+Er spricht leiser. "Für jemanden mit deinem vornehmen Auftreten ist es ein Kinderspiel, sich als Vertreter der Stadt auszugeben und sich vom Ratsbeamten eine Kopie eines alten Hinrichtungsaufschubs geben zu lassen. Sobald ich sie habe, fälsche ich einen neuen Aufschub mit Ris' Namen drauf. Den zeigen wir dann dem Aufseher hier und schon wird Ris freigelassen."
+
+Er breitet die Hände aus. "Du siehst: Der Plan ist narrensicher und völlig ungefährlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>"Du verkleidest dich als Vertreter der Stadt und lässt dir vom Ratsbeamten am Regierungsplatz einen alten Hinrichtungsaufschub geben. Ich mache eine signierte Kopie davon, die du dem Gerichtsdiener zeigst, und schon ist Ris wieder frei. Du musst nur mal loslegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>"Wie sieht dein Plan aus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>"Wie war nochmal dein Plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>"Warum brauchst du ein 'frisches Gesicht'?'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>"Weil mich der Ratsbeamte mittlerweile kennt. Ich habe diese Woche jeden Tag wegen Ris bei ihm vorgesprochen, aber es hat nichts gebracht." Er verdreht die Augen. 
+
+"Daher muss das jemand machen, den er noch nicht kennt. So wie dich. Hoffentlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>Follow-up PQ. 651</DefaultText>
+      <FemaleText>Follow-up PQ. 651</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>Follow-up T. 652</DefaultText>
+      <FemaleText>Follow-up T. 652</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>"Ist Freundschaft nicht Grund genug?" sagt er pathetisch. Dann lässt er die Schultern und den Kopf hängen. "Ehrlich gesagt gibt es noch einen anderen Grund. Ich bin an seiner derzeitigen Lage nicht ganz unschuldig und ein schlechtes Gewissen ist eine starke Motivation, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>"Weil er mein Freund ist und ich ihn in diese missliche Lage gebracht habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>"Warum hilfst du Ris?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>"Warum hilfst du Ris nochmal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>"Wäre es einfacher, die Menge bei der Hinrichtung davon zu überzeugen, dass sie sich erheben und Ris freilassen sollen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>Tybir sieht besorgt aus. 
+
+"Nun, du kannst es versuchen, aber ich will damit nichts zu tun haben. Der Pöbel in Sagus will Blut sehen, und die Henker haben keinen Sinn für Humor. Du könntest den Versuch bereuen - und auf meine Hilfe brauchst du nicht dann nicht zählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>"Lass mich etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>"Natürlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>"Aber du schon, stimmt's?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>"Nun", sagt er und schaut an dir vorbei. "Es gibt eine Zeit, wo es angebracht ist, darüber zu reden, was ich weiß und was nicht. Aber nicht hier und nicht jetzt."
+
+Er räuspert sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>"Das *ist* eine Farce!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>"*Danke*!" sagt er und schlägt sich im gerechten Zorn mit der Faust in die Handfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>"Du hältst deinen Plan für ungefährlich? Für mich klingt es *furchtbar* gefährlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>"Unsinn", sagt er und winkt deine Bedenken beiseite. "Einfacher geht's gar nicht. Du brauchst nur Ruhe, Selbstsicherheit und ein einnehmendes Lächeln, dann kann nichts schiefgehen."
+
+Er lächelt einnehmend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>"Du magst Omahdon wohl nicht. Warum nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>"Was hast du nochmal gegen Omahdon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>"Wo soll ich anfangen? Der Mann ist ein gewissenloser Gauner." Er grinst. "Und nicht auf die gute Art."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>"Eine Menge. Jede Sympathie für ihn wäre verschwendet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>"Warum sollte ich?" Er sieht deinen Blick und sein Lächeln ist nicht mehr ganz so sorglos. "Nun, er ... die Sache ist die ..."
+
+Er holt tief Luft, beißt sich auf die Lippe. "Er erinnert mich mehr an mich als mir lieb ist. Okay? Mehr sage ich nicht dazu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>"Das schon wieder", sagt er. "Lässt du das Thema fallen, wenn ich dir Geld gebe?"
+
+Er schmunzelt, aber sein Blick ist ernst. "Er erinnert mich an mich selbst. Okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>"Um ehrlich zu sein", beginnt er und wirkt dann selbst überrascht von seinen Worten. "Um ehrlich zu sein, ich bin nicht mehr sicher. Vielleicht wird es Zeit, das hinter mir zu lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>"Nun, das Gespräch mit deiner Sklavenhalterfreundin verlief überraschend. Ich hätte meine Rolle wohl nicht so ... überzeugend gespielt. Ehrlich gesagt weiß ich nicht, was ich getan hätte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>"Ich hab ja schon einige kaltblütige Geschäfte gesehen, aber ich hab noch nie erlebt, dass jemand ein verängstigtes, kleines Mädchen an Sklavenhändler verkauft. Du bist wirklich herzlos. Kann mir nicht vorstellen, was in dir vorgegangen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>"Es war ein Fehler. Ich werde sie zurückholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>"Ich hab es nicht gern getan, aber denkst du wirklich, Rhin wäre alleine besser dran?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>"Soll das heißen, du hättest an meiner Stelle nicht dasselbe getan? Hast nicht schon dasselbe getan? Du Heuchler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText>"Hätte ich sie etwa behalten sollen? Sie hat uns nur aufgehalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText>(Lüge) "Was denkst du denn? Ich werde sie natürlich befreien. Ich habe einen Plan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>Tybirs Lippe zuckt unter seinem Schnurrbart. "Und war die Kleine eingeweiht?" fragt er. Er legt die Hände auf den Gurt. "Vergiss die Frage. Ich hab ihr Gesicht gesehen, als du sie übergeben hast."
+
+Er atmet tief durch. "Wenn das alles Teil deines Plans ist, gut. Aber es gehört sich nicht, seine Partner nicht einzuweihen." 
+
+Er zwinkert dir zu. "Soll aber vorkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>Tybirs Hände umklammern seinen Gurt. 
+
+Er schweigt einen Moment, dann sagt er beiläufig: "Das ist wahr. Das, was wir hier tun, ist nichts für kleine Mädchen."
+
+Er nickt, doch sein Gesichtsausdruck ist seltsam distanziert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>"Natürlich nicht", sagt er schnell. "Die Stadt ist kein Ort für kleine Mädchen, aber wir hätten ... wir hätten sie ..."
+
+Er schüttelt den Kopf. Schmunzelt über sich selbst. "Was rede ich da? Als ob ich wüsste, was für die anderen das Beste ist."
+
+Er blickt zum Himmel auf und schließt die Augen. "Du hast recht. Sie ist bei deiner verstoßenen Freundin besser dran. Sie ist bei praktisch jedem besser dran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>Tybirs Hände verharren auf seinem Gürtel? 
+
+Einen Moment lang herrscht Stille. Dann sagt er: "Tatsächlich? Nun, das wird wohl das Beste sein. Vielleicht können wir sie ja in Sicherheit bringen statt in die Sklaverei." Er stößt einen Atemzug aus und versucht zu grinsen. Nach ein paar Versuchen klappt es.
+
+"Vielleicht kann ich mithelfen, das Mädel zurückzuholen, wenn du mich mitnimmst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>Er zuckt zusammen als hättest du ihm gerade in den Magen geschlagen. Doch als er dann spricht, ist sein Ton absolut freundlich. 
+
+"Da hast du nicht unrecht", sagt er mit einem Schulterzucken. "Ich hätte vermutlich nicht anders gehandelt an deiner Stelle." Er zwinkert dir zu. "Mehr sag ich nicht dazu. Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>Als er das Gesicht von dir abwendet, siehst du, dass seine Augen feucht sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>"Soll das heißen, du hättest sie an Tol verkauft? Das glaub ich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>"Ach, bist du zur Abwechslung mal ehrlich? Sag, tut das weh?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>779</ID>
+      <DefaultText>"Dann ist es ja gut, dass ich geredet habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>"Ach, Junge", sagt er mit einem tiefen Seufzen. "Das ist nett von dir. Hoffentlich gebe ich dir nie einen Grund, um an deiner hohen Meinung von mir zu zweifeln."</DefaultText>
+      <FemaleText>"Ach, Mädel", sagt er mit einem tiefen Seufzen. "Das ist nett von dir. Hoffentlich gebe ich dir nie einen Grund, um an deiner hohen Meinung von mir zu zweifeln."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>"Mehr als du denkst", sagt er schmunzelnd. "Ich höre besser wieder damit auf, bevor ich mir noch was breche."
+
+Doch als er sich von dir abwendet, sieht er nachdenklich aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>"Na klar", sagt er. Sein Mundwinkel zuckt. "Ich hätte uns alle für einen einzigen Kuss in die Sklaverei verkauft!"
+
+Doch als er sich von dir abwendet, sieht er nachdenklich aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>797</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>799</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>800</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>801</ID>
+      <DefaultText>"Erzähl mir von dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>802</ID>
+      <DefaultText>"Reden wir nochmal von dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>806</ID>
+      <DefaultText>Sein Ton ist fröhlich, aber seine Körpersprache verrät, dass es in ihm anders aussieht. Er fummelt mit zittrigen Fingern an seinem Gurt herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>807</ID>
+      <DefaultText>Sein Ton ist fröhlich, aber seine Körpersprache verrät, dass es in ihm anders aussieht. Er fummelt mit zittrigen Fingern an seinem Gurt herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>Tybir streckt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>809</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>810</ID>
+      <DefaultText>"Ich werde in Circus Minor sein und einen Weg suchen, Ris zu retten. Könnte immer noch etwas Hilfe gebrauchen, falls du es vergessen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>811</ID>
+      <DefaultText>"Ich werde genau hier sein und einen Weg suchen, Ris vor diesem verfluchten Ding zu retten. Könnte immer noch etwas Hilfe gebrauchen, falls du ein bisschen Zeit übrig hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>812</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>813</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>814</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>815</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

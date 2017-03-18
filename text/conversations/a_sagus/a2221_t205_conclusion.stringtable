@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2221_t205_conclusion</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das mentale Schlachtfeld verschwindet und die reale Welt nimmt wieder Gestalt an. Du kehrst zurück ins Fünfte Auge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Bemerkenswerte Arbeit, Freund. Habt Dank."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Unter allen Wahrscheinlichkeiten war dieser schimmernde Faden die geringste. Ihr habt am Rande des Abgrundes mit dem Zufall getanzt, Verstoßener."</DefaultText>
+      <FemaleText>"Unter allen Wahrscheinlichkeiten war dieser schimmernde Faden die geringste. Ihr habt am Rande des Abgrundes mit dem Zufall getanzt, Verstoßene."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Nicht schlecht." Er kratzt sich am Kopf und richtet seinen Kragen. "Hätte ehrlich gesagt was viel Schlimmeres erwartet. Das ist eine verdammt gute Geschichte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sie wischt sich den Schweiß von der Stirn. "Was für eine Erleichterung. Das sollte der Letzte gewesen sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Nachdem Malaise verschwunden ist, ist es plötzlich ruhig und leer um dich herum. Du bist allein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

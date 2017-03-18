@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_the_airship_thief</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Luftschiffdieb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde den Mann, der Meister Rennios Luftschiff gestohlen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe Erritis zu Meister Rennio zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Begleiche die Schulden zwischen Erritis und Meister Rennio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Schulden Erlassen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Schulden In Shin Abbezahlt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Schulden Durch Erritis Abgearbeitet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Erritis Freigesprochen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Schulden Durch Kultisten Abgearbeitet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Kehre mit dem Entschädigungsschreiben zu Rennio zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Kehre zu Rennio zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Meister Rennio, ein Luftschiffkapitän in der Karawanserei, sucht den Mann, der eines seiner Schiffe gestohlen hat. Er wird erst wieder fliegen, wenn der Dieb geschnappt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Rennio sagt, der Dieb sei unterdurchschnittlich groß und habe strohblonde Haare. Außerdem soll er 'geleuchtet' haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Dieb von Meister Rennios Luftschiff kann niemand anders sein als Erritis, der exzentrische junge Mann, den ich in Klippenrand getroffen habe. Ich sollte Erritis irgendwie dazu bringen, dass er sich vor Meister Rennio für seine Taten verantwortet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Meister Rennio besteht darauf, dass Erritis seine Schulden bei ihm abarbeitet... sofern ich ihn nicht davon überzeugen kann, eine andere Lösung zu akzeptieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe Rennio überredet, Erritis seine Schulden zu erlassen. Der Meister hat wohl erkannt, dass Erritis' Dienste ihm mehr Ärger als Nutzen bringen würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Rennio den vollen Wert des abgestürzten Luftschiffs ersetzt. Er war überrascht, dass ich so viel Geld hatte, aber er hat die Zahlung akzeptiert, ohne Fragen zu stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe Erritis überredet, den von ihm verursachten Schaden bei Rennio abzuarbeiten. Damit hat Rennio, was er wollte – aber ich frage mich, ob er weiß, worauf er sich da eingelassen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe Rennio eine Bürgschaft des Rates übergeben, die garantiert, dass ihm der Verlust seines Luftschiffes zur Gänze ersetzt wird. Damit war der Luftschiffkapitän mehr als zufrieden. Tatsächlich schien er sogar ziemlich beeindruckt von mir zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Die Kultisten arbeiten hart für Rennio und er scheint mit unserer Vereinbarung zufrieden zu sein. Erritis ist seine Schulden damit los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe offizielle Dokumente vom Ratsbeamten erhalten, in denen sich die Stadt verpflichtet, alle Schäden an Rennios Eigentum zu ersetzen. Er wird begeistert sein, das zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Die Kultisten des Wandelnden Gottes waren gerne dazu bereit, Erritis' Schulden abzuarbeiten, um mir einen Gefallen zu tun. Es hat wohl doch Vorteile, wenn man von einem Kult verehrt wird. Rennio wirkte jedoch nicht vollends überzeugt, als ich ihm die Idee vorschlug. Ich sollte nachsehen gehen, ob er mit dem Ergebnis der Vereinbarung zufrieden ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Meister Rennio weigert sich, Erritis – oder seine Begleiter – irgendwohin zu fliegen, solange Erritis seine Schulden nicht beglichen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Rennio würde eine Schadenersatzzahlung von der Stadt akzeptieren... vorausgesetzt, die Stadt will eine solche leisten. Wenn ich die Sache auf diese Weise lösen will, werde ich mit dem Ratsbeamten am Regierungsplatz sprechen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Du hast eine spezielle Urkunde des Rates der Stadt erhalten, die Erritis von jeder Schuld freispricht. Wenn du Meister Rennio die vorlegst, hat er keine andere Wahl, als Erritis seine Schulden zu erlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe Rennio überredet, die Kultisten des Wandelnden Gottes Erritis' Schulden abarbeiten zu lassen. Jetzt muss ich nur noch ein paar Kultisten in der Karawanserei finden und zur Arbeit schicken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Die Kultisten des Wandelnden Gottes waren gerne bereit, die Schulden abzuarbeiten. Du musst nur noch zu Rennio gehen und Bescheid sagen und die Vereinbarung ist besiegelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe Erritis überredet, sich bei Meister Rennio zu entschuldigen. Ich sollte sie aufsuchen und sehen, ob sie ihren Streit beigelegt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Erritis weigert sich, sich bei Meister Rennio zu entschuldigen. Ich muss ihn wohl selbst zum Meister bringen und die Situation zwischen den beiden klären. Glücklicherweise scheint Erritis nur zu gerne bereit, mir zu folgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Die Stadt wird Rennios Schaden nur ersetzen, wenn eine einflussreiche Person mein Gesuch unterstützt. Wenn eine solche Person mir einen Gefallen schuldet, soll ich zum Ratsbeamten gehen und ihm Bescheid geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

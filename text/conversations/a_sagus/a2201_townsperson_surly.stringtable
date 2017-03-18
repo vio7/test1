@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_townsperson_surly</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mein Haus ist vor ein paar Wochen eingestürzt. War nicht viel, war aber meins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Sicher, es gibt keine Sticha mehr. Es gibt aber immer etwas anderes, das uns unser Hab und Gut wegnimmt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wenn es nicht die Sticha sind, die Euch das Haus nehmen, dann sind es wandelnde Formen, abtrünnige Konstrukte, oder irgendein anderes verdammtes Ding."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich lebe vorübergehend in Massies Pension. Die Frau ist verrückt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ein Mann kann sich kein Leben leisten, wenn ihm der verdammte Boden bei jedem Schritt die Stiefel klaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Die Tage werden immer kürzer."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

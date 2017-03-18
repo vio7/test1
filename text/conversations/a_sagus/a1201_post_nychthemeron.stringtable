@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_post_nychthemeron</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du steigst vorsichtig um die schlaffen Ranken des Nychthemerons herum?und arbeitest dich zum gummiartigen Kopf der Kreatur vor. 
+
+Da. Durch eine verkohlte und aufgeweichte Wunde im Fleisch der Kreatur siehst du ein von Venen durchzogenes Organ. Du greifst in die Wunde und ziehst das Organ so vorsichtig wie möglich heraus. Kitzelnde elektrische Fasern brechen harmlos zwischen deinen Fingern entzwei.
+
+{SOUND: Fleshy ripping sounds, intercut with faint electrical snaps.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eine schöne Trophäe", sagt Quijano heiser. "Ihr habt sie verdient, edler Ritter. Das und mehr!" Der alte Glaive haut sich mit seinem Fehdehandschuh gegen den Brustpanzer und salutiert mit Tränen in den Augen. 
+
+"Habt Dank", flüstert er. "Solch eine epische Schlacht! Ich ... Ich kehre nun zu meiner Klause oben am Berg zurück." Er deutet mit einem zittrigen Finger auf die Umrisse der hohen Karawanserei. "Vielleicht sehen wir uns eines Tages wieder." 
+
+Er torkelt klirrend und schniefend davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"HEUTE ABEND GIBT ES EIN FESTMAHL! Das war sie. Ich will das nicht essen." Varrenoth winkt mit beiden Armen überschwänglich zum Abschied. Vermutlich wollte sie nur mit einem winken. "Ich muss zurück in die Schattenseite. Vielleicht sehen wir uns dort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Es ist vollbracht", sagt er mit einem Seufzen. "Wieder mal das Unmögliche möglich gemacht." 
+
+Obwohl er enttäuscht klingt, legt er den Kopf zur Seite. "Ich kehre nun zurück zu meiner Ausbildung in Klippenrand. Danke für diese Herausforderung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>::zzt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>::zzt::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

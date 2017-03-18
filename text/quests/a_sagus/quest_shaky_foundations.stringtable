@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_shaky_foundations</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>60</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Auf wackligem Boden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Schleiche in die Höhle der Sticha und stiehl ihre Eier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Peliai in der Schattenseite zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Peliai in der Schattenseite zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Peliai in der Schattenseite zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Eier als Druckmittel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Felsiger Frieden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Frieden?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Frieden Durch Erpressung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Felsenfester Friede</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Felsenfester Friede durch Erpressung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Peliai umgebracht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Erzähle Peliai von der Abmachung mit den Sticha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Frieden?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Frieden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Frieden mit Vorteilen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Sticha bekämpft</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Kehre zu Peliai in der Schattenseite zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Rühreier</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ein Verschwundenes Volk</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Von Peliai Getötet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Sagus verlassen, nachdem du mit den Sticha fertig wurdest (ob so oder so) aber nicht zu Peliai zurückgekehrt (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Peliai, eine varjellanische Vertreterin der Sklavenfamilien, versucht, die Sticha davon abzubringen, unter der Stadt zu graben. Offensichtlich destabilisieren die Wesen damit das Fundament von Sagus Klippen und bringen Gebäude zum Einsturz. Die Verhandlungen haben sich jedoch festgefahren, daher greift sie nun zu weniger ehrbaren Mitteln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Peliai will, dass ich alle Eier aus der Höhle der Sticha stehle, damit die Stadt sie als Druckmittel bei den Verhandlungen einsetzen kann. Sie würde auch eine Verhandlungslösung mit den Sticha akzeptieren, glaubt jedoch nicht, dass mir eine solche gelingen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Es gibt keine weiteren Eierhaufen mehr in der Höhle der Sticha. Ich kann also zurück in die Schattenseite und Peliai die gestohlenen Eier übergeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich konnte eine Vereinbarung mit den Sticha erzielen. Peliai wird bestimmt die Details hören wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Mein Versuch, die Eier zu stehlen, ist fehlgeschlagen und die Sticha haben sich tiefer in den Untergrund zurückgezogen. Peliai wird bestimmt erfahren wollen, was passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Peliai die Eier übergeben und sie hat sie als Druckmittel bei den Verhandlungen mit den Sticha eingesetzt. Die Sticha haben zugestimmt, nicht mehr nahe der Oberfläche zu graben, sodass die Häuser in Sagusklippen nicht länger einsturzgefährdet sind. Peliai beabsichtigt, die Eier zu behalten, um sicherzustellen, dass die Sticha sich an die Vereinbarung halten. Sie scheint von meiner Arbeit beeindruckt zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe eine friedliche Lösung mit den Sticha gefunden. Sie haben zugestimmt, nicht mehr nahe der Oberfläche zu graben, sodass die Häuser in Sagusklippen nicht länger einsturzgefährdet sind. Peliai war ungehalten darüber, dass ich die Eier nicht gestohlen habe, da sie ein Druckmittel gegen die Sticha haben wollte, aber gegen das Ergebnis meiner Handlungen konnte sie nichts sagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Mein versuchter Eierdiebstahl ist fehlgeschlagen. Glücklicherweise scheinen die Sticha sich nun tiefer in den Untergrund zurückgezogen haben und stellen zumindest fürs Erste keine Gefahr für die Stadt mehr dar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Mit den gestohlenen Eiern als Druckmittel habe ich eine Lösung mit den Sticha ausgehandelt. Sie haben zugestimmt, nicht mehr nahe der Oberfläche zu graben, sodass die Häuser in Sagusklippen nicht länger einsturzgefährdet sind. Peliai war verärgert darüber, dass ich die Verhandlungen selbst geführt habe, aber gegen das Ergebnis meiner Handlungen konnte sie nichts sagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich habe eine friedliche Lösung mit den Sticha gefunden. Sie haben zugestimmt, sich ein neues, besseres Zuhause fern von Sagusklippen zu suchen, sodass die Häuser in der Stadt nicht länger einsturzgefährdet sind. Peliai war ungehalten darüber, dass ich die Eier nicht gestohlen habe, da sie ein Druckmittel gegen die Sticha haben wollte, aber gegen das Ergebnis meiner Handlungen konnte sie nichts sagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Mit den gestohlenen Eiern als Druckmittel habe ich eine Lösung mit den Sticha ausgehandelt. Sie haben zugestimmt, sich ein neues, besseres Zuhause fern von Sagusklippen zu suchen, sodass die Häuser in der Stadt nicht länger einsturzgefährdet sind. Peliai war verärgert darüber, dass ich die Verhandlungen selbst geführt habe, aber gegen das Ergebnis meiner Handlungen konnte sie nichts sagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Peliai bestand darauf, dass ich ihr die Stichaeier übergebe. Stattdessen habe ich sie getötet und die Eier behalten. Die Sticha graben weiter unter der Stadt und jetzt, wo Peliai tot ist, ist eine Verhandlungslösung in weite Ferne gerückt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Mit den gestohlenen Eiern als Druckmittel konnte ich selbst eine Vereinbarung mit den Sticha erzielen. Peliai wird bestimmt die Details hören wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Mit den gestohlenen Eiern als Druckmittel habe ich eine Lösung mit den Sticha ausgehandelt. Sie haben zugestimmt, nicht mehr nahe der Oberfläche zu graben, sodass die Häuser in Sagusklippen nicht länger einsturzgefährdet sind. Peliai war äußerst verärgert darüber, dass ich die Eier zurückgegeben habe, denn nun hat sie kein Druckmittel, falls die Sticha es sich anders überlegen sollten. Andererseits schien sie froh darüber zu sein, dass mir diese Vereinbarung gelungen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Mit den gestohlenen Eiern als Druckmittel habe ich eine Lösung mit den Sticha ausgehandelt. Sie haben zugestimmt, sich ein neues, besseres Zuhause fern von Sagusklippen zu suchen, sodass die Häuser in der Stadt nicht länger einsturzgefährdet sind. Peliai war äußerst verärgert darüber, dass ich die Eier zurückgegeben habe, denn nun hat sie kein Druckmittel, falls die Sticha es sich anders überlegen sollten. Andererseits schien sie froh darüber zu sein, dass mir diese Vereinbarung gelungen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Mit den Eiern als Druckmitteln konnte ich eine friedliche Vereinbarung mit den Sticha aushandeln. Sie stimmten zu, sich ein neues Zuhause in einem besseren Felsen zu suchen. Peliai war verärgert darüber, dass ich die Verhandlungen nicht ihr überlassen habe, und verlangte, dass ich ihr die Eier gebe. Ich weigerte mich und es gab einen Kampf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Bei meiner Rückkehr aus der Höhle der Sticha kämpfte ich gegen Ch'kekt und die Sticha haben sich tiefer in den Untergrund zurückgezogen. Ich habe Peliai die Eier übergeben, aber aufgrund meiner Handlungen konnte sie die Verhandlungen nicht abschließen. Sie hat die Eier als Druckmittel behalten, falls die Sticha zurückkehren sollten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Ich habe alle Stichaeier zerstört. Ich sollte in die Schattenseite zurückkehren und Peliai darüber informieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Peliai war wütend darüber, dass es mir nicht gelungen ist, die Eier zu besorgen. Sie verließ die Schattenseite mit den Worten, dass ich alle Chancen auf eine Einigung mit den Sticha zunichtegemacht hätte. Die Wesen graben weiterhin unter der Stadt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Die Sticha haben mich bemerkt und ich habe gegen Ch'kekt gekämpft. Die Sticha scheinen sich nun tiefer in den Untergrund zurückgezogen zu haben und stellen zumindest fürs Erste keine Bedrohung für die Stadt mehr dar... aber Peliai ist sehr, sehr wütend auf mich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Als ich mich weigerte, die Stichaeier herauszugeben, wurde Peliai gewalttätig. Leider war sie stärker als erwartet und hat mich getötet und danach meiner Leiche die Eier abgenommen. Vermutlich hat sie sie erfolgreich als Druckmittel gegen die Sticha benutzt und die Wesen haben sich tiefer in den Untergrund zurückgezogen und stellen keine Bedrohung für die Stadt mehr dar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Ich habe Sagusklippen verlassen und weiß nicht, ob ich je zurückkehren werde. Jemand anders wird sich um das Problem mit den Sticha kümmern müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Ich habe das Problem mit dem Sticha gelöst, konnte jedoch vor meiner Abreise aus Sagus nicht mehr mit Peliai darüber sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Auf die Frage nach alternativen Wegen in die Höhle der Sticha schlug Peliai vor, dass ich mich nach einer Art Grabungs-Konstrukt umsehen sollte... oder nach jemandem, der so etwas für mich herstellen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Der Oberste Vorarbeiter hat sich bereit erklärt, mir einen Grabungs-Automaton zu bauen, benötigt dazu jedoch den intakten Körper eines toten Stichus. Ich muss mich nach einer unversehrten Stichusleiche umsehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Die Vorarbeiter haben mit dem Stichuskörper, den ich gefunden habe, einen Grabungs-Automaton gebaut. Damit kann ich nun jeden Ort im Untergrund erreichen, auch die Höhle der Sticha. Der Automaton wartet in dem Tunnel, wo ich den toten Stichus gefunden habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Mein Stichus-Automaton sollte in der Lage sein, mich bis zur Höhle der Sticha zu führen. Er wartet in dem Tunnel, wo ich Ch'kekt getötet habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe einen Eierhaufen der Sticha gestohlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe einen Eierhaufen der Sticha gestohlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe einen Eierhaufen der Sticha gestohlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe einen der Eierhaufen der Sticha zerstört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe einen der Eierhaufen der Sticha zerstört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Ich habe einen der Eierhaufen der Sticha zerstört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Atlas hat mir von einer schwarzen Felsnadel erzählt, die ein wesentlich besseres Zuhause für die Sticha wäre. Damit kann ich sie vielleicht überreden, Sagus zu verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Am Ende eines eingestürzten Tunnels in der Schattenseite habe ich den unversehrten Körper eines toten Stichus gefunden. Ich sollte dem Obersten Vorarbeiter sagen, wo er die Leiche finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

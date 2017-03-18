@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\x_labyrinth\quest_the_right_to_exist</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Recht auf Existenz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Steige zu den Tiefsten Klaftern herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde die Resonanz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mit dem Geist verschmolzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Öffne die Resonanz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Besiege den Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Geist besiegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Besiege die Erste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Den Geist überzeugt, dass er nicht der echte Wandelnde Gott ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Den Geist überredet, seine Tochter zu retten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Resonanzkammer hat mich und alle anderen Verstoßenen im Labyrinth festgesetzt. Die geisterhafte Frau sagt, dass die wahre Resonanz sich in den tiefsten Ecken meines Verstandes befindet. Ich muss dort schneller angelangen als der Geist, wenn ich über das Schicksal der Verstoßenen entscheiden will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Geist ist auf dem Weg zur Resonanz. Ich muss zuerst dorthin gelangen, um ihn davon abzuhalten, den Verstand jedes einzelnen Verstoßenen mit seinem zu verschmelzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe mich auf den Weg zur Resonanz gemacht. Der Geist ist irgendwo hier unten. Ich muss die Resonanz vor ihm erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den Geist davon überzeugt, dass *ich* der Wandelnde Gott bin, und ihn dazu gebracht, mit mir zu verschmelzen. Jetzt müssen wir nur noch zur Resonanz gelangen, um all dem eine Ende zu setzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe die Tür gefunden, die zur Resonanz führt. Der Geist ist nicht hier, aber die Tür ist verschlossen. Es gibt aber zwei andere Türen, die mir Eintritt gewähren. Vielleicht kann ich durch sie die Resonanz erreichen, ehe der Geist bemerkt, dass ich hier bin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Der Geist ist hier! Ich muss ihn zerstören, bevor er sich zur Resonanz vorarbeitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich konnte den Geist besiegen, bevor er sich seinen Weg zur Resonanz bahnen konnte. Jetzt bleibt nur noch, die Resonanz selbst zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe mich dafür entschieden, dass die Lösung des Geistes für uns alle am besten ist. Die Erste Verstoßene hat nicht zugestimmt. Jetzt müssen der Geist und ich sie bezwingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe den Geist davon überzeugt, dass er nicht der wahre Wandelnde Gott ist, und dass er nicht über das Schicksal der Verstoßenen entscheiden darf. Jetzt bleibt nur noch, die Resonanz selbst zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe den Geist davon überzeugt, seine Tochter mithilfe des Wissens zu retten, an das ich im Lebensbild gelangt bin. Er hat zugestimmt. Jetzt müssen wir nur noch zur Resonanz gelangen, um den Plan in die Tat umzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe Aligern von seinen Qualen in einem Dorf-Klafter befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe Callistege von ihren persönlichen Qualen im Zusammenhang mit ihren Schwestern befreit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe gesehen, wie Erritis von seinem Leuchten angegriffen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe Matkina davor gerettet, dass sie den Verrat gegen sie neu erleben musste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe Oom gerettet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe Rhin vor den Qualen gerettet, die durch ihre Fehler von früher entstanden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Ich habe Tybir dabei geholfen, so gut wie möglich reinen Tisch mit Auvigne zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>In einem Lebensbild habe ich erfahren, dass es eine Möglichkeit geben könnte, die Tochter des Wandelnden Gottes zu retten, indem man ihr Bewusstsein mit denen der Verstoßenen verschmilzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>In einem Lebensbild habe ich neue Informationen bezüglich Miikas Krankheit in Erfahrung gebracht - etwas, das der Wandelnde Gott niemals wusste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Die geisterhafte Frau sagt, meine Begleiter wären irgendwo hier im Labyrinth gefangen. Ich kann sie befreien, bevor ich hinabsteige, doch damit könnte ich dem Wandelnden Gott mehr Zeit geben, um sein Ziel zu erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

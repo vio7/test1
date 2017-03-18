@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_a_hilt_without_a_blade</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein Griff ohne Klinge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Untersuche den Mesmerischen Griff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde eine Energiequelle für den Mesmerischen Griff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Füge die Transdimensionale Energiequelle in den Mesmeris.chen Griff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Transdimensionale Seziermesser aufgeladen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Flor verlassen, bevor das Seziermesser aufgeladen wurde (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Im Innern einer fleischigen Zyste habe ich ein Gerät gefunden, dass einem Schaft ähnelt. Er scheint technischer Natur zu sein, also gibt es vielleicht einen Weg, das Schwert zu reaktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Wenn ich das Gerät untersuche, dass ich in der Zyste gefunden habe, kann ich vielleicht erfahren, wie es funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Griff scheint nicht beschädigt zu sein – er braucht nur eine vollaufgeladene Energiequelle, um zu funktionieren.Ich fand den Namen 'IOXU' an der Oberfläche des Griffs eingraviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe eine Energiequelle in dem zerstörten Katena gefunden, die mit dem Schaft kompatibel zu sein scheint. Jetzt muss ich sie nur noch einbauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Nachdem ich die Energiequelle eingebaut habe, ist eine kurze Klinge aus purer transdimensionaler Energie aus dem Schaft hervorgedrungen. Dieses Gerät scheint ein transdimensionales Skalpell zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Ich weiß nicht wann oder ob ich in die Flor zurückkehre. Es sieht also so aus, als würde dieses Gerät niemals aktiviert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Das Gerät benötigt eine transdimensionale Energiequelle ... etwas, dass die Energien von Singularitäten oder Paralleluniversen in sich trägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Der Varjellen-Nano Ioxu behauptet, das Skalpell erschaffen zu haben, um damit durch Flor-Fleisch zu schneiden. Er hat angedeutet, dass ich im abgestürzten Katena in Klein-Nihliesh eine Energiequelle finden könnte, mit deren Hilfe ich die Klinge reaktivieren kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_cultist_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Der Varjellen muss seine Gerätschaften zerstören und seine Gotteslästerei beenden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Der Große Verschlinger wird sich erheben und all jene zerstören, die sich gegen ihn stellen! Ioxu wird auf ewig leiden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich war derjenige, der dem Lästerer das Schwert in sein Auge gerammt hat. Es war herrlich, ihn leiden zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Das Wirken des Lästerers ist Geschichte. Danke dir für deine Worte und deine Unterstützung!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"deine Waffen, die Gedanken des Verschlingers. Deine Taten, voll göttlicher Inspiration! Heil dem Blutvergießer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

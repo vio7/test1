@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3142_fleshachor3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Töte uns", murmelt eine Haut. "Erlöse uns von der endlosen Pein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sie töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Es kostet dich große Überwindung, dir mit der Klinge deinen Weg durch die Gepeinigten zu bahnen. Sie schreien und kreischen bei jedem Schnitt, auch noch lange, nachdem sie längst ohnmächtig vor Schmerzen sein hätten müssen. Ihr Blut spritzt in alle Richtungen und besudelt dich von Kopf bis Fuß.
+
+Dann ist es vorbei. Sie sind weg – nun wirklich befreit – und der Weg vor dir ist frei.
+
+{SOUND: Horrible screams, preferably worse than the other two flesh anchors.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Sie in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Der Druck rund um dich wird so groß, dass du dir die Ohren zuhältst, doch selbst durch das Fleisch deiner Hände hindurch hörst du ein böses Kichern und ein einziges Wort.
+
+"Komm..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ein Druck um dich herum wird stoßweise stärker und löst sich dann wieder. Schließlich begreifst du, dass es die Luft selbst ist... sie lacht. Was immer hier lebt, es ist noch stärker geworden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Das bösartige Gewicht in der Luft nimmt zu. Was auch immer dich beobachtet, ist noch stärker geworden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du siehst gehäutete Menschen, die Haut zu grotesken Bannern aufgespannt, die verzerrten Gesichter in ewigem Schmerz erstarrt. Ihre Hautfetzen wehen in einem Wind, den du nicht fühlst. Hinter ihnen siehst du einen Durchgang, der tiefer in diese Hölle hineinführt.
+
+Plötzlich öffnen sich Augen. Das hier sind nicht bloß aufgespannte abgezogene Häute – diese Menschen leben noch!
+
+"Flieh!" krächzt eine Gestalt. "Mit dem, was nach uns kommt, kannst du es nicht aufnehmen. Flieh und rette deine Haut!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Du Narr!" Die Haut hinter der ersten – teilweise durch den dunklen Nebel verdeckt – schüttelt sich wach. Ihr Gesicht bleibt qualvoll schmerzverzerrt, als sie spricht. "Er ist unsere einzige Chance auf Erlösung. Wer sonst sollte uns je befreien?"</DefaultText>
+      <FemaleText>"Du Narr!" Die Haut hinter der ersten – teilweise durch den dunklen Nebel verdeckt – schüttelt sich wach. Ihr Gesicht bleibt qualvoll schmerzverzerrt, als sie spricht. "Sie ist unsere einzige Chance auf Erlösung. Wer sonst sollte uns je befreien?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die erste Haut schmatzt nachdenklich mit verunstalteten Lippen. "Ja. Ja, töte uns. Das wird auch keine bösen Folgen für dich haben. Du wirst uns von ewiger Pein *erlösen*."
+
+Die Häute schließen die Augen und reißen die Münder zu stummen Schreien auf, als sie neue Qualen erleiden.
+
+Eine bösartige Präsenz drückt auf dich nieder. Etwas beobachtet die Szene voller gespannter Erwartung und scheint beinahe zu *wollen*, dass du sie tötest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Diese Häute sind wie die anderen, ihre Gesichter in unaussprechlicher Agonie verzerrt. Eine öffnet die Augen, als du näherkommst "Mit dem, was nach uns kommt, kannst du es nicht aufnehmen. Flieh und rette deine Haut!"
+
+"Du Narr!" stöhnt eine zweite Haut dahinter. "Er ist unsere einzige Chance auf Erlösung. Wer sonst sollte uns je befreien?"
+
+Die erste Haut schmatzt nachdenklich mit verunstalteten Lippen. "Ja. Ja, töte uns. Das wird auch keine bösen Folgen für dich haben."</DefaultText>
+      <FemaleText>Diese Häute sind wie die anderen, lebendig und in ewiger Qual gefangen. Eine von ihnen öffnet die Augen, als du näherkommst "Flieh! Mit dem, was nach uns kommt, kannst du es nicht aufnehmen. Flieh und rette deine Haut!"
+
+"Du Narr!" stöhnt eine zweite Haut dahinter. "Sie ist unsere einzige Chance auf Erlösung. Wer sonst sollte uns je befreien?"
+
+Die erste Haut schmatzt nachdenklich mit verunstalteten Lippen. "Ja. Ja, töte uns. Das wird auch keine bösen Folgen für dich haben."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_crisis_incombat_qorro_interaction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Erledigt sie", ruft Qorro zu seinen Kollegen. "Wir brauchen diesen Gefallenen Stern!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Erledigt sie", ruft Qorro zu seinen Kollegen. "Wir brauchen diesen Gefallenen Stern!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Keine weiteren Worte. Einer von euch ist mir schon bekannt genug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Lass ihn in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Lass ihn in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sag ihm, dass er und seine Freunde sterben werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Qorro, mein Lieber, das ist eine Torheit. Deine Auftraggeber können dich nicht gut genug bezahlt haben, um einen regenerierenden Verstoßenen und *mich* zu bekämpfen."</DefaultText>
+      <FemaleText>"Qorro, mein Lieber, das ist eine Torheit. Deine Auftraggeber können dich nicht gut genug bezahlt haben, um eine regenerierende Verstoßene und *mich* zu bekämpfen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Qorro, mein Lieber, das ist eine Torheit. Du würdest wegen ein paar Shin dein Leben und unsere Freundschaft riskieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Keine Sorge, Cal. Wir halten dich da raus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Qorro betrachtet dich und deine Gefährten mit neuen Augen. Man kann beinahe zusehen, wie die Kampfeslust aus ihm entweicht. "Aye, da könntest du recht haben, Cal."
+
+Er ruft zu seinen Kollegen. "Wir wurden nicht bezahlt, um bis in den Tod zu kämpfen. Lassen wir diese Forscher in Ruhe."
+
+{SCRIPT: Crisis ends. Qorro and friends walk off.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Qorro senkt für einen Moment seine Armbrust. "Du hast recht, Cal. Wir kennen uns schon zu lange, um uns gegenseitig zu töten."
+
+Er wendet sich seinen Kollegen zu. "Lasst Cal in Ruhe, aber schnappt euch diesen Gefallenen Stern!"
+
+{SCRIPT: Qorro and friends no longer attack Callistege.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Erinnere ihn daran, dass er einen Mann bekämpft, der vom Himmel gefallen ist und *überlebt* hat. Er kann nicht gewinnen.</DefaultText>
+      <FemaleText>Erinnere ihn daran, dass er eine Frau bekämpft, die vom Himmel gefallen ist und *überlebt* hat. Er kann nicht gewinnen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Gefahren, die der Job mit sich bringt." Er versucht es mit Lässigkeit, doch die plötzliche Angst auf seinem Gesicht ist offensichtlich. "Wie auch immer, es ist zu spät für Entschuldigungen. Was geschehen ist, ist geschehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ha! Versuchst du, mir Angst zu machen? Die einzige von euch, dir mir Angst machst, ist Cal, und das nur, weil es so viele von ihr gibt." Er grinst Callistege böse an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Macht sie *schnell* fertig!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Zwanzig Shin für denjenigen, der den Gefallenen Stern erledigt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>{gekränkt}"Ich schätze, ich schwinge diesen Stab dann nur zum Spaß hier herum!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"*Du* bist doch sicher clever genug, um zu wissen, dass das Leben dieses Risiko nicht wert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>{Stirn runzelnd, enttäuscht}"Das ist *nicht*, was ich meinte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>{sarkastisch}"Wie schrecklich gelegen ... für *dich*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

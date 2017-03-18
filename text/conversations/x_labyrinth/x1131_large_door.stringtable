@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_large_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Wieder einmal gehst du auf die große Tür zu, beißt die Zähne zusammen, und stemmst dich gegen die Kälte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du gehst durch pulsierende Hitzewellen auf die Tür zu und hörst ein leises, aber beständiges Surren irgendwo zwischen einem Seufzen und einer Melodie.
+
+Selbst in diesem schwachen Licht *leuchtet* das Rad unten an der Tür geradezu. Du spürst, wie deine Hände bei seinem Anblick zu kribbeln beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das warme, melodiöse Summen aus dem Inneren der Tür wird lauter, als du näherkommst - wie, um dich bei deiner Rückkehr willkommen zu heißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Das Rad drehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Erneut versuchen, das Rad zu drehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Tritt von der Tür zurück.</DefaultText>
+      <FemaleText>Tritt von der Tür zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du ergreifst das kalte, tote Metall und ziehst kräftig daran. Das Rad lässt sich mühelos drehen, aber die Tür bewegt sich nicht. Das Rad rattert im Inneren der Tür gegen einen kaputten Mechanismus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du drehst das matte Rad noch einige Male, bis du es schließlich ratternd zum Stillstand kommen lässt. Die Tür bewegt sich weiterhin nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>An der Tür lauschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Nach einigem Abrutschen presst du das Ohr gegen die gebogene Tür, schließt die Augen und lauscht angestrengt. Über dem Surren des Mechanismus hörst du leise ein Geräusch wie ein Wasserrauschen oder das Flüstern einer Menschenmenge am anderen Ende eines dunklen Feldes.
+
+{DP}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>So sehr du dich auch anstrengst, du kannst nichts hören außer dem Surren der Mechanismen im Inneren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Nach einigem Abrutschen presst du das Ohr gegen die gebogene Tür, schließt die Augen und lauscht angestrengt. Über dem Surren des Mechanismus hörst du leise ein Geräusch wie ein Wasserrauschen...
+
+Nein. Es klingt wie das Flüstern einer Menschenmenge am anderen Ende eines dunklen Feldes.
+
+{DP}So sehr du dich auch anstrengst, du kannst nichts hören außer dem Surren der Mechanismen im Inneren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du strengst dich an, um irgendetwas außer dem Surren der Mechanismen in der Tür zu hören, aber das einzige Ergebnis deiner Bemühungen sind leichte Kopfschmerzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Unter deinen Händen spürst du die Vibrationen der lebenden Mechanismen im Inneren der Tür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Während du sie ansiehst, erzittert die Tür ein wenig, so als versuche sie, sich selbst zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ihre Bauweise ist mit nichts vergleichbar, dass du aus den Städten der Neunten Welt kennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Deine Sinne sagen dir, dass diese Tür weniger gebaut als *angebaut* wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Das Metall ist eine Art getönter Synthstahl, aber reiner als alles, was du kennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Tritt von der Tür zurück.</DefaultText>
+      <FemaleText>Tritt von der Tür zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Das Rad drehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Tür untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Tür erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die Untersuchung der Tür bringt dir keine neuen Erkenntnisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Du rammst die Füße in den Boden, ergreifst das Rad und drehst so fest daran, dass die Muskeln unter deiner Haut hervorstehen. Das Rad dreht sich langsam, aber bereitwillig in deinen Händen und verzahnte Teile klicken innerhalb der Tür und entlang der Wände wie tausend Schlüssel in tausend Schlössern...
+
+Doch dann wird der Widerstand zu stark und das Rad bewegt sich nicht mehr weiter, egal mit wie viel Kraft du daran drehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du rammst die Füße in den Boden, ergreifst das Rad und drehst. Die Muskeln spannen sich unter deiner Haut an, doch egal, mit wie viel Kraft du auch daran drehst, das Rad bewegt sich keinen Millimeter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du rammst die Füße in den Boden, ergreifst das Rad und drehst so fest daran, dass die Muskeln unter deiner Haut hervorstehen. Das Rad dreht sich langsam, aber bereitwillig in deinen Händen und verzahnte Teile klicken innerhalb der Tür und entlang der Wände wie tausend Schlüssel in tausend Schlössern...
+
+Doch dann wird der Widerstand zu stark. Du schaffst es, das Rad noch ein kleines Stück weiter zu drehen und hörst das Kreischen von Metall - oder etwas anderem - im Inneren der Tür. Danach verlassen dich die Kräfte und deine Hände rutschen vom Rad.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du rammst die Füße in den Boden, ergreifst das Rad und drehst. Die Muskeln spannen sich unter deiner Haut an, doch das Rad bewegt sich kein Stück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Kein Zeichen oder Symbol gibt einen Hinweis darauf, was sich hinter dieser reich verzierten Tür verbergen könnte. Von ihrer bronzenen, verzierten Oberfläche und dem in ihren unteren Teil eingelassenen Metallrad geht eine dumpfe Kälte aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Als du schließlich die Hände wegnimmst, gibt die Tür ein Seufzen von sich, das beinahe enttäuscht klingt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du fährst mit den Händen über die polierte Oberfläche und streckst all deine Sinne nach der Tür aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Die Tür ist nicht mehr das kalte, tote Ding von eben. Pulsierende Hitzewellen kommen die Treppen herab und du hörst ein leises, aber beständiges Surren irgendwo zwischen einem Seufzen und einer Melodie.
+
+Selbst in diesem schwachen Licht *leuchtet* das Rad unten an der Tür geradezu. Du spürst, wie deine Hände bei seinem Anblick zu kribbeln beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Hitze dringt in deine kribbelnde Haut ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

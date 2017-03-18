@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_broken_tidal_arm</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Am Boden liegt ein mechanischer Arm, vermutlich bei deinem Sturz zerbrochen. Vom zerstörten Gehäuse spritzen übel riechende Funken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Gehäuse untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Der Arm bleibt am Boden. Von seinem Sockel sprühen weiß glühende Funken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der scharfzackige Apparat, der einst die Spitze des Gerätes bildete, wirkt ausgebrannt und nutzlos, doch die Teile im Sockel scheinen noch funktionsfähig, wie die Funken beweisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Versuchen, so viel wie möglich vom Gehäuse des Armes mitzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Versuchen, noch mehr von dem Apparat mitzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Den Apparat in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ein kurzer Blick in den Innenraum zeigt, dass der Apparat nur mehr Funken zu bieten hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du ignorierst die Funken und schaffst es, vorsichtig ein intaktes Teil aus dem Inneren des Gehäuses zu ziehen. Du siehst nichts Wertvolles mehr im Inneren der kaputten Maschine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du versuchst, ein wertvoll aussehendes Teil herauszuziehen, aber erwischt nur einige weniger brauchbare Teile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Das Gehäuse erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Funken spritzen zwischen abgetrennten Kabeln und anderen Teilen. Einige der Teile könnten wertvoll sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ein kurzer Blick in den Sockel zeigt, dass darin nichts Wertvolles mehr zu finden ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Beim erneuten Versuch, das nützlich aussehende Teil herauszuziehen, brichst du es versehentlich entzwei und zerstörst es endgültig. Nachdem es nun schon egal ist, zerbrichst du die Reste, und nimmst die alle Einzelteile mit, die noch einen Wert haben könnten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

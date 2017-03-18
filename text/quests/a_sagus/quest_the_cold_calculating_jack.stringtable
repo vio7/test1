@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_the_cold_calculating_jack</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der kühle, berechnende Tausendsassa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche nach Matkina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Entdecke die Lage des Zufluchtsortes des Wandelnden Gottes für Atlas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Atlas in der Schattenseite zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Suche nach Matkina in der Grotte der Letzten Worte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Betritt Tashs Lebensbild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Matkina plaudert aus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Suche nach Matkina beim Regierungsplatz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Rede mit Jebedee beim Regierungsplatz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Triff Matkina in der Grotte der Letzten Worte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Triff Matkina in der Grotte der Letzten Worte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Übersprungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Triff Matkina in der Grotte der Letzten Worte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Kehre zu Atlas in der Schattenseite zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Anscheinend half ein Verstoßener dabei, die Resonanzkammer zu bauen. Casmeen und Mimeon kennen den Namen dieses mysteriösen Handwerkers nicht, aber die anderen Verstoßenen kennen ihn vielleicht. Nur eines meiner 'Geschwister' ist zur Zeit in der Stadt - eine Albino-Auftragmörderin namens Matkina. Vielleicht kann sie mir Antworten bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Casmeen und Mimeon beschrieben Matkina als hellhäutig und sehr, sehr gefährlich. Sie ist in der Stadt als der Weiße Tod bekannt. Matkina wurde zuletzt in der Schattenseite gesichtet. Die Bewohner dieses Bezirks könnten wissen, wo sie sich versteckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ein Mutant namens Atlas behauptet, zu wissen, wo Matkina sich versteckt. Er will es mir jedoch nur verraten, wenn ich eine geheime Zuflucht für ihn finden kann, die der Wandelnde Gott vor langer Zeit geschaffen hat. Offensichtlich handelt es sich dabei um die einzige wichtige Stätte in Sagus Klippen, die Atlas noch nicht lokalisiert hat. Er weiß nur, dass sich die Zuflucht im Untergrund befindet – irgendwo ganz in der Nähe der Höhle der Sticha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nachdem ich die Zuflucht des Wandelnden Gottes gefunden und betreten habe, kann ich Atlas von meiner Entdeckung berichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Atlas hat mir verraten, dass Matkina sich in der sogenannten Grotte der letzten Worte versteckt. Um dorthin zu gelangen, muss ich durch den Untergrund reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Matkina sagt, dass sie den Namen des Verstoßenen kennt, den ich suche. Oder, sie *kannte* seinen Namen, aber ihre Erinnerungen wurden von einem Feind beschädigt. Nun bat sie mich, ein Lebensbild zu betreten, der einer Person namens Tash gehört - wahrscheinlich genau die Person, die sie verletzt hat. In diesem Lebensbild möchte sie, dass ich alles, was ich kann, über ein musikalisches Instrument lerne: dem Jahk. Sie glaubt, dass der Jahk der Schlüssel zu ihrem gespaltenen Verstand ist, durch den sie ihre Erinnerungen wiedererlangen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>In Tashs Lebensbild konnte ich irgendwie Matkinas Vergangenheit verändern, sodass sie ihre Erinnerungen wiedererlangt hat. Sie hat mir gesagt, dass der gesuchte Verstoßene ein Handwerksmeister namens Mazzof ist, und dass ich ihn in einer geheimen Zuflucht namens Miel Avest finden müsse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Keine Spur von Matkina in der Grotte. Allerdings fand ich einen unterzeichneten Vertrag über die Ermordung eines Mannes namens Jebedee. Dem Dokument zufolge verbringt er seine Tage vor dem Ratsturm am Regierungsplatz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Matkina bat mich, Jebedee zu ihr zu locken, damit sie ihren Auftragsmord erledigen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Matkina war mit meiner Hilfe zufrieden und hat gesagt, ich solle sie in ihrem Versteck aufsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Matkina war von meiner Einmischung alles andere als begeistert. Sie verlangte, dass ich sie in ihrem Versteck aufsuche, damit wir besprechen, wie ich sie entschädigen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Ich bin ins Tal der Toten Helden gereist, ohne mir Hilfe von Matkina zu holen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Matkina wollte, dass ich ihr helfe, einen Auftragsmord zu erledigen, doch ich konnte ihr das ausreden. Sie hat zugestimmt, dass wir uns in ihrem Versteck treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Ich habe das Fleisch eines toten Stichus gegessen, der die Zuflucht des Wandelnden Gottes gesehen hat, und so erfahren, wo genau sich diese befindet. Das sollte Atlas zufriedenstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Matkina wurde zuletzt in der Schattenseite gesehen – die Leute, die dort wohnen, wissen also vielleicht, wo sie sich versteckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ein Mutant namens Atlas in der Schattenseite weiß vielleicht, wo ich Matkina finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Matkina könnte eine gefährliche Meuchelmörderin sein, die in Sagusklippen als der Weiße Tod gefürchtet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Angeblich ist Matkina von einem seltsamen Numenera-Apparat besessen, den sie immer bei sich trägt... und sie könnte psychisch labil sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Die Sticha weigern sich, mich zur Zuflucht des Wandelnden Gottes zu bringen. Ich muss einen anderen Weg dorthin finden... oder die Sticha davon überzeugen, dass sie mir vertrauen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Auf die Frage nach alternativen Wegen in die Höhle der Sticha schlug Peliai vor, dass ich mich nach einer Art Grabungs-Konstrukt umsehen sollte... oder nach jemandem, der so etwas für mich herstellen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Die Vorarbeiter haben mit dem Stichuskörper, den ich gefunden habe, einen Grabungs-Automaton gebaut. Damit kann ich nun jeden Ort im Untergrund erreichen, auch die Höhle der Sticha. Der Automaton wartet in dem Tunnel, wo ich den toten Stichus gefunden habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe einen Weg in die Höhle der Sticha gefunden. Der Eingang zur Zuflucht des Wandelnden Gottes muss irgendwo in der Höhle sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Ich habe eine Vereinbarung zwischen den Sticha und Sagusklippen ausgehandelt. Ch'kekt ist jetzt vielleicht dazu bereit, mich zur Höhle der Sticha zu bringen, wenn ich ihn darum bitte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Der Oberste Vorarbeiter hat sich bereit erklärt, mir einen Grabungs-Automaton zu bauen, benötigt dazu jedoch den intakten Körper eines toten Stichus. Ich muss mich nach einer unversehrten Stichusleiche umsehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Am Ende eines eingestürzten Tunnels in der Schattenseite habe ich den unversehrten Körper eines toten Stichus gefunden. Ich sollte dem Obersten Vorarbeiter sagen, wo er die Leiche finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

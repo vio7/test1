@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_foremansbrood</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Auch wenn das verkrüppelte Konstrukt schließlich bereit war, die Zeugung von Leben aufzugeben, konnte Tarnish die Qual in der Stimme des Vorarbeiters hören. Aber als Tarnish alt geworden war – zu alt, um etwas anderes zu tun, als zu tüfteln – änderte er seine Meinung und setzte seine Kräfte dafür ein, dem Vorarbeiter bei der Geburt seiner Kinder zu helfen.[BR][BR]Kurz nach seinem einundneunzigsten Geburtstag hatten sie Erfolg ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der arme Tarnish verbrachte die nächste Jahrzehnte mit dem Versuch, den verkrüppelten Vorarbeiter wiederherzustellen, nachdem dieser sein Leben für seine Kinder gegeben hatte. Angesichts der Liebe, die Tarnish dem Konstrukt entgegenbrachte, waren ihm die anderen beiden Vorarbeiter gewogen und versuchten zu helfen. Doch selbst sie konnten das Leben des Konstrukts nicht wiederherstellen – das Leben, das es seinen Kindern gegeben hatte.[BR][BR]Tarnish verschied als alter Mann, und das Projekt – das leere Konstrukt – blieb zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die winzigen Konstruktkinder des verkrüppelten Vorarbeiters verteilten sich in der ganzen Stadt. Sie begannen, nach Belieben Dinge zu bauen – sehr zur Verwirrung des obersten Vorarbeiters.[BR][BR]Schließlich wies der oberste Vorarbeiter seine Untergebenen an, die kleinen Konstrukte zu ihm zu bringen. Er war überrascht, wie sehr sie gewachsen waren. Offenbar hatten sie nicht nur beliebige Teile der Stadt gebaut, sondern auch sich selbst.[BR][BR]Er leitet sie nun an und behandelt sie wie seine menschlichen Arbeiter – auch wenn klar ist, dass er sie bevorzugt. Unklar ist jedoch, wie gut sie seine Anweisungen im Weiteren befolgen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

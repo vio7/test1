@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_fountain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Brunnen scheint aus einer Mischung aus Holz und Steinen zu bestehen. In ihm befindet sich zu deiner Überraschung kein Wasser. Stattdessen ist er mit unzähligen, fischartigen Kreaturen gefüllt, die mit ihren sich windenden Körpern eine wabernde Masse ergeben. Die Fischwesen scheinen miteinander in tausend verschiedenen Sprachen zu sprechen, während sie wie eine Fontäne in die Luft sprudeln und dann wieder von der Masse verschlungen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Während die Kreaturen aneinander vorbeiglitschend den Brunnen aus Baumstein durchwühlen, brabbeln sie in vielen verschiedenen Sprachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Es handelt sich um Jalleys - beinahe harmlose Wesen, die üblicherweise in Wolken über den Ozeanen anzutreffen sind. Was sie in diesem Brunnen verloren haben ist dir vollkommen schleierhaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Den Kreaturen zuhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Kreaturen noch etwas länger zuhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du verschränkst deine Arme und hörst dem Gebrabbel der Fischchen zu. Für deine Ohren hört es sich an wie ein sinnloses Gemisch an Wortfetzen vermischt mit Baby-Sprache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die fischartigen Kreaturen schnattern weiter fröhlich um die Wette, ihr Geschwätz ergibt nach ein nach eine Melodie aus Wortfetzen und Silben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Nach einer Weile fallen dir einige Laute auf, die sich zu wiederholen scheinen. Wie sich herausstellt, handelt es sich hierbei keineswegs um unsinniges Gebrabbel. Sie scheinen in verschiedenen Sprachen zu sprechen, die dir völlig fremd sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Einige der Laute prägen sich in dein Gedächtnis ein und plötzlich ergibt sich ein Bild. 
+
+Du stehst vor einem verrosteten KI-Terminal, das von zerfallenen Ruinen umgeben ist. Zögernd legst du deine Hände auf die unbekannte Glassoberfläche und kannst dabei die abgesplitterten Kanten fühlen. Aus deinem Mund strömen Wörter in allen dir bekannten Sprachen. Es vergeht eine Weile.  
+
+Der Terminal erwacht durch einen alten, rauen Laut. Sofort erinnerst du dich daran, dass es einer jener Laute war, den die fischartigen Wesen von sich gegeben haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Den Brunnen aus Baumstein untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Den Brunnen noch einmal untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Jetzt, wo du ihn dir genauer ansiehst, erscheint der Brunnen unfassbar alt. Kupferne Verzierungen ragen wie Zungen von den Rändern der Konstruktion hervor, als wollten sie vom endlosen Reservoir an Kreaturen in ihm kosten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Wieder bist du überrascht, wie alt - und gut erhalten - der Brunnen tatsächlich zu sein scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du nimmst die Architektur der Umgebung in dir auf, bevor du dich wieder dem Brunnen zuwendest. Diese Konstruktion ist sicherlich um einiges älter als der restliche Platz und möglicherweise sogar die ganze Stadt. 
+
+Sie könnte sogar älter sein als die Neunte Welt selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Eine der Kreaturen herausfischen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Erneut versuchen, eine der Kreaturen herauszufischen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Mit geschickter Hand fischst du eine der Kreaturen aus der glitzernden, wabernden Masse. Der Rest der brabbelnden Brut beginnt, lauthals zu quäken, so als wollten sie sich beschweren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du schleuderst deine Hand mit viel Elan in die Masse aus Kreaturen, aber keiner von ihnen fällt es schwer, deinem Griff zu entfleuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Den Brunnen verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Versuchen, eine weitere Kreatur zu fangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Dein Griff schließt sich um einen weiteren Fisch. Als seine kleinen Zähnchen sich aber an deiner Hand zu schaffen machen, lässt du ihn ruckartig und unter Fluchen fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_regret_silverambush_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Erinnerungen, die diese Maschine heraufzubeschwören versucht, werden finsterer und reißen, von der Kummerscherbe in dem Gerät unterbrochen.</DefaultText>
+      <FemaleText>Die Erinnerungen, die diese Maschine heraufzubeschwören versucht, werden finsterer und reißen, von der Kummerscherbe in dem Gerät unterbrochen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Maschine versucht, sich mit deinem Geist und deinen Erinnerungen zu koppeln, kann jedoch keine Verbindung herstellen, solange die Kummerscherben in dem Bereich sind.</DefaultText>
+      <FemaleText>Die Maschine versucht, sich mit deinem Geist und deinen Erinnerungen zu koppeln, kann jedoch keine Verbindung herstellen, solange die Kummerscherben in dem Bereich sind.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

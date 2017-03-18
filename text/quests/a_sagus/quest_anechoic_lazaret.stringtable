@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_anechoic_lazaret</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Das Schalltote Lazarett</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betrete das Schalltote Lazarett.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Steige zur unteren Ebene herab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Beseitige die Plage der "Unvergleichlichen".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Salimeri zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Schalltotes Säubern</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sagus verlassen, nachdem du das Lazaret gereinigt hast, hast es Salimeri aber nicht berichtet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Salimeri, eine alte Freundin des Wandelnden Gottes, untersucht seit einiger Zeit eine vergoldete Struktur im Riff der Gefallenen Welten, die sie das "schalltote Lazarett" nennt. Kürzlich schien es, dass jemand eingebrochen ist und etwas Unruhe gestiftet hat. Sie bat mich, die Struktur zu betreten, herauszufinden, was schief gelaufen ist, und es wieder sicher zu machen, so dass sie ihre Untersuchungen weiterführen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Das Lazaret ist eine verzierte, vergoldete Struktur im Riff der Gefallenen Welten. Salimeri gab mir ein metallisches Auge, das als Schlüssel dienen soll, um die Tür zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich betrat die obere Vorkammer des Lazaretts. Die Quelle der Störung ist wahrscheinlich auf der unteren Ebene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Das alte Gebäude ist von mechanischen Drohnen befallen, die sich alle "unvergleichlich" nennen. Salimeri kann hier erst in Sicherheit arbeiten, wenn die feindlichen Drohnen zerstört sind, die Unvergleichliche aus dem internen System des Lazaretts gelöscht wurde und ich mich um die Quelle der Plage gekümmert habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe alle Drohnen der Unvergleichlichen zerstört und das Lazarett scheint wieder sicher zu sein. Salimeri wird hören wollen, was geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe alle Drohnen der Unvergleichlichen im Lazarett zerstört. Salimeri schien zufrieden (doch sie ist kaum eine überschwängliche Frau) und gab mir eine Belohnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich verließ die Sagusklippen und weiß nicht, ob ich zurückkehre. Salimeri muss jemand anderes finden müssen, um das Lazarett fertig zu untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich verließ Sagusklippen und bezweifle, dass ich bald zurückkehre. Die Drohnen der Unvergleichlichen im Lazarett wurden zerstört, aber ich bekam nicht die Möglichkeit, es Salimeri zu erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Qorro bat mich, Salimeri zu erzählen, dass er dabei half, das Lazarett auszuräumen. Ich versprach ihm, dass ich das tun würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

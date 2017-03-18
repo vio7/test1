@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4301_the_newborn_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der Neugeborene Schlund</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Öffne den Neugeborenen Schlund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Informiere Gar-koto, dass der neugeborene Schlund geöffnet wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bezahlt für deine Arbeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der Preis der Freiheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein neuer Schlund ist kürzlich in Klein-Nihliesh erschienen, und der Mutantenanführer der Gegend, Gar-koto, bat dich, ihn zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Mit dem Vorwissen gerüstet, dass dieser Schlund auf Schuldgefühl reagiert, bleibt nur, einen mit Schuldgefühlen zu finden und an ihn zu verfüttert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Gar-koto wird erfreut sein, dass der Schlund geöffnet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Gar-koto wird erfreut sein, dass der Schlund geöffnet wurde, und wird dich reichlich belohnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Gar-koto wird erfreut sein, dass der Schlund geöffnet wurde, und sagte zu, Herja als Belohnung zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Gar-koto wird erfreut sein, dass der Schlund geöffnet wurde, und wird dich reichlich belohnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Gar-koto wird erfreut sein, dass der Schlund geöffnet wurde, und sagte zu, Herja als Belohnung zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

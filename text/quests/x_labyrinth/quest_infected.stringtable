@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\x_labyrinth\quest_infected</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Befall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Betrete den Uhr-Klafter erneut</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Beseitige das Fragment im Uhr-Klafter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde die verbleibenden Fragmente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Finde das verbannte Fragment</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Betrete den verseuchten Klafter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fertige mit den Kummerscherben ab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kummerscherben unschädlich gemacht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Fragmente, die nach dem Eindringen des Kummers übriggeblieben sind, haben sich tief in das Labyrinth vorgearbeitet. Sie beschränken mein Potenzial, wie Barrieren in meinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ein einzelnes Fragment hat mich aus dem Klafter ausgesperrt, in dem ich Diviaticu, Villon und Kamose getroffen habe. Ich muss noch mehr Erfahrung und Wissen ansammeln, bevor ich den Klafter erneut betreten und das Fragment herausfordern kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Das Portal zum Uhr-Klafter ist nun geöffnet, und ich kann versuchen, die Kreatur zu vertreiben, die mich ausgesperrt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Das Fragment, das mir den Zugang zum Uhr-Klafter versperrt hat, ist nun zerstört. Jetzt muss ich nur noch herausfinden, wo sich der Rest von ihnen versteckt. Am besten fange ich an, in der Stille zu suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Das Fragment, das in den Uhr-Klafter eingedrungen ist, ist nun verbannt. Ich kann nun nachvollziehen, wo die anderen eingedrungen sind. Am besten fange ich an, in der Stille zu suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ein neues Portal in der Stille führt zu den Klaftern, in die die Fragmente des Kummers eingedrungen sind. Ich muss sie zerstören oder fesseln, wenn ich mich vom Einfluss des Kummers befreien will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe das Nest des Kummers mit meinem Verstand betreten. Ich kann die Fragmente nun gefangen halten oder sie töten, um sie auszuschalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe mich vollständig vom Einfluss des Kummers befreit. Nun kann ich das vollständige Potenzial meines Körpers und meines Verstandes entfalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

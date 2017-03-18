@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_piquo_cultist</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Es ist nicht einfach, diesen Kultisten als den verstörten jungen Mutanten, den du in Klippenrand getroffen hast, zu erkennen. Er heißt dich mit einem unbeschwerten Lächeln willkommen. Es ist das Lächeln einer Person, die die Aussicht auf und das Versprechen einer neuen und glänzenden Zukunft erhalten hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Willkommen zurück", sagt er und errötet. "Das war dumm, Verzeihung. Ich war zuvor noch nicht hier, aber jetzt bin ich es." 
+
+Er zögert und überwindet sich, weiterzureden. "Danke, dass Ihr mich ausgewählt habt!", prustet es schließlich aus ihm heraus, wodurch sein Gesicht zu einem dunklen, fleckigen Rot wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Er zuckt vor dir zurück, als habe er sich verbrüht. 
+
+"Entschuldigung. Es tut mir leid. Ich ..."
+
+Während er stammelt, hebt sich seine Hand anscheinend unaufgefordert und gleitet über seinen Mund. Er schaut zu Boden und spricht nicht weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sein Gesicht ist jetzt so rot, dass es ein Wunder wäre, wenn im restlichen Körper überhaupt noch Blut vorhanden wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"*Sie* ist nicht gekommen", sagt er missmutig. "Ihr seid es. Wenn Ihr nicht gewesen wärt, wäre ich bei der Wahl zwischen zwei falschen Pfaden hängengeblieben. Ihr habt mich auf den richtigen Pfad gebracht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mutter Temaz ist der Ansicht, ich hätte dich fehlgeleitet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Es ist gut, dass es dich gibt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich kann mich nicht erinnern, dir das Wort erteilt zu haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du nimmst den Jungen in die Arme. Er versteift sich und beginnt sich zu schütteln. Als du ihn loslässt, siehst du, dass er Tränen in den Augen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Umarme den Jungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>::murmelt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>::schnieft::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Danke, dass Ihr mich hierher geschickt habt", sagt er und senkt den Kopf. "Danke, dass Ihr mir geholfen habt, meinen Weg zu f-finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>::schnieft::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>::seufzt glücklich::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_wealthy_townsperson_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Clymone ist meine liebste Freundin, aber gleichzeitig so anstrengend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Heute nimmt sie mich mit auf die Jagd. Gestern war es Ruinentauchen. Ja, wirklich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich habe die ganze letzte Nacht damit verbracht, Salzwasser und blutige Tentakeln aus meinem Haar zu wringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich schätze Clymone sehr, aber ihre *Gier* nach gefährlichen Abenteuern ist im besten Falle ermüdend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Aber ich nehme an, von wilden Bestien zerfetzt zu werden ist besser, als leiste im Bett dahin zu siechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

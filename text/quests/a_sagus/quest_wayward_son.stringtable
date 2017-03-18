@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_wayward_son</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Sohn mit Problemen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rede mit Piquo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Hilf Piquo zu entscheiden, was zu tun ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Mutter Temaz zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Macht Nichts</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Werde Muskulös</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Von Null Zum Held</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sugardaddy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Geist Trimphiert Über Materie</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Wie Ein Ei Dem Anderen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Hast Du Den Wandelnden Gott Gefunden?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Dumme Werden Nicht Weniger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sagus verlassen, nachdem du Piquo geholfen hast (wie auch immer), aber bevor du es Mutter Temaz erzählt hast (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Mutter Temaz, eine alte Hebamme in Klippenrand, bat mich, einem ihrer "Kinder" zu helfen – einem jungen Mann namens Piquo, der eine schwierige Entscheidung treffen muss. Wenn ich Piquo dabei helfen kann, wird mir Temaz einen Teil meiner Glückshaube zurückgeben, aus dem sie etwas Wertvolles gemacht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich sollte Piquo aufsuchen und ihm sagen, dass Mutter Temaz mich geschickt hat. Er ist vermutlich irgendwo in Klippenrand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Piquo ist ein dürrer und ziemlich hässlicher Mutant, der bereits sein ganzes Leben lang wegen seines Aussehens gehänselt und gequält wird. Nun hat er genug Shin zusammengespart, um sich einen Eingriff in der cheirurgischen Kammer leisten zu können. Allerdings kann er sich nicht entscheiden, ob er seinen Körperbau verbessern oder sein Gesicht verschönern lassen soll. Ich könnte ihm zum einen oder zum anderen raten... oder zu etwas ganz anderem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Mutter Temaz wird wissen wollen, was ich Piquo geraten habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Mutter Temaz ist gestorben, als ihr Haus ins Meer gestürzt ist. Damit habe ich keine Chance mehr, ihr zu sagen, was mit Piquo passiert ist, oder meine Belohnung abzuholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Piquo überredet, seinen Körperbau von den Cheirurgen verbessern zu lassen. Jetzt ist er größer und stärker als die meisten anderen Männer der Stadt. Mutter Temaz hat mich für meine Hilfe belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe Piquo überredet, die Mutationen korrigieren zu lassen, die sein Gesicht entstellten. Der Eingriff war ein voller Erfolg. Sein neues Gesicht sicht absolut gewöhnlich aus – man würde nie denken, dass er ein Mutant ist. Mutter Temaz hat mich für meine Hilfe belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe Piquo überredet, sein Geld auszugeben, um sich zu amüsieren. Nach so vielen Jahren der Entbehrung schien ihm bei der Aussicht auf ein wenig Spaß ein Stein vom Herzen zu fallen. Mutter Temaz hat mich für meine Hilfe belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe Piquo überredet, für seine Shin eine Ausbildung beim Orden der Wahrheit zu machen. Er zögerte zunächst, doch dann erwärmte er sich für die Idee und machte sich auf den Weg zum Regierungsplatz. Mutter Temaz hat mich für meine Hilfe belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe Piquo überredet, zur Krummen Qeek in die Schattenseite zurückzugehen. Die beiden sind seit ihrer Kindheit befreundet und können sich hoffentlich gegenseitig Halt und Trost geben. Mutter Temaz hat mich für meine Hilfe belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich habe Piquo überredet, mir sein hart erarbeitetes Geld auszuhändigen, im Gegenzug für eine Mitgliedschaft im Kult des Wandelnden Gottes. Mutter Temaz gab mir dir versprochene Belohnung, aber sie war wütend auf mich und will nichts mehr mit mir zu tun haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Tybir und ich haben Piquo mit vagen Versprechungen, sein Vermögen zu vermehren, sein ganzes hart erarbeitetes Geld abgenommen. Natürlich haben wir nicht vor, ihm jemals auch nur einen Shin zurückzugeben. Mutter Temaz gab mir dir versprochene Belohnung, aber sie war wütend auf mich und will nichts mehr mit mir zu tun haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich habe Sagusklippen hinter mir gelassen, und damit auch die Chance, einen Teil meiner Glückshaube zurückzubekommen. Mutter Temaz wird jemand anderen finden müssen, der Piquo hilft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Ich habe Piquos Problem gelöst, konnte jedoch vor meiner Abreise aus Sagusklippen nicht mehr mit Mutter Temaz darüber sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Piquo hat zugegeben, dass er Angehöriger eines Stammes von Mutanten aus der Schattenseite ist. Sein einziger Freund war ein Mädchen, das man die Krumme Qeek nannte. Nachdem sein Vater ermordet wurde, hat er den Stamm verlassen und niemanden von ihnen je wiedergesehen. Vielleicht kann ich seine Situation besser verstehen, wenn ich seinen Stamm finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Gourmandus hat mir erzählt, dass die Fischerin, die Krumme Qeek, dem selben Stamm angehört wie Piquo. Sie freut sich wahrscheinlich, wenn sie erfährt, dass Piquo am Leben ist und dass es ihm gut geht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Gourmandus hat mir gesagt, dass Piquos Stamm ausgelöscht wurde. Die letzte Überlebende war die Krumme Qeek, doch auch sie wurde vor Kurzem ermordet. Piquo ist nun ganz alleine auf der Welt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Die Krumme Qeek war aufgeregt und glücklich, als sie hörte, dass Piquo noch lebt. Es ist offensichtlich, dass sie ihn vermisst und sich wünscht, dass er in die Schattenseite zurückkehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Als ich in die Schattenseite zurückkehrte, fand ich heraus, dass die Krumme Qeek ermordet wurde. Piquo ist nun ganz alleine auf der Welt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

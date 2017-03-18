@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_ashen_imitation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Aschene Nachahmung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde Frauen in Sagusklippen, die in 'Ebenbilder' der geisterhaften Frau verwandelt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Lerne vom Geisterhaften Mann, wie man die Probabilitätsmaschinen ausschalten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Schalte die Probabilitätsmaschine in der echten Welt aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Schalte die Maschine aus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sagusklippen verlassen, bevor ein Weg, den Auftrag zu erfüllen, gefunden wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Das Labyrinth im Endspiel nach der Flor betreten, ohne den Auftrag erledigt zu haben (selbst, wenn genug Erinnerungen freigeschaltet wurden, um das zu tun). Wenn der Spieler immer noch seine Klafter betreten kann, dann sollte dieser Endknotenpunkt gelöscht werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Nachdem ich von einer geisterhaften Frau im Fünften Auge zu Tode gewürgt wurde, erwachte ich in einem neuen Klafter das Labyrinths. Dort begegnete ich wieder den Geist. Sie behauptete, dass Frauen in den Sagusklippen zu Kopien von ihr gemacht werden, aber sie weiß nicht, wie oder warum und sie will, dass du ihnen hilfst, wenn du kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die geisterhafte Frau bat mich, nach Frauen zu suchen, die ihr ähneln, oder dessen Identitäten von einer äußeren Macht geändert werden. Sobald ich eine solche Frau finde, sollte ich zum Labyrinth zurückkehren und es ihr sagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ein geisterhafter Mann tauchte im Klafter auf und die geisterhafte Frau denkt, dass er ihr Vater ist. Er baute die Probabilitätsmaschine, die Kopien von seiner Tochter anfertigt. Wenn er mir zeigt, wie man die Maschine ausschaltet, dann kann ich die Probleme lösen, die sie verursacht. 
+
+Wenn ich den geisterhaften Mann nicht überreden kann, mir zu helfen, dann könnte ich *vielleicht* mehr Frauen in den Sagusklippen finden, die eine Verwandlung erfahren. Aber es lässt sich nicht sagen, wieviele noch da draußen sind. Vielleicht habe ich schon alle gefunden, die ich finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Der Vater der geisterhaften Frau zeigte mir, wie man die Probabilitätsmaschine herunterfährt. Nun muss ich die Maschine in der echten Welt finden und den Vorgang wiederholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich fuhr die Probabilitätsmaschine in den Vergrabenen Wegkreuzungen herunter und beendete einen Zyklus, der jahrhundertelang junge Frauen in den Sagusklippen tötete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich ließ die Sagusklippen hinter mir und ich kehre vielleicht nie wieder zurück. Die Umstände der geisterhaften Frau scheinen mit der Stadt verbunden, also kann ich ihr nicht mehr helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Durch eine bedeutsame Reihe von Ereignissen wurde ich in das Labyrinth gezogen. Während ich Fortschritte machte, der geisterhaften Frau zu helfen ihre Erinnerungen wiederzubekommen, werden sie und der Rest des Labyrinths wahrscheinlich nicht mehr sein - nach dem, was kommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Avina, ein junges Mädchen, die in Klippenrand wohnt, hörte die Stimme des Geistes in ihren Träumen, doch sie trieb ihn mit reiner Willenskraft aus ihrem Verstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Kiyatawa, ein Mitglied der Dendra O'hur, ist eine der befallenen Frauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Verlust-des-Selbsts, eine emotional verwirrte, junge Frau, die ich in Klippenrand traf, ist eine der befallenen Frauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Seria, die adoptierte Tochter des Verstoßenen Orseolo, scheint eine der befallenen Frauen gewesen zu sein. Als sie noch am Leben war, war sie um ihre Identität verwirrt und hatte das Gefühl, dass sie jemand anderes sein sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Sigyn, die Kommandantin der Levis, war eine der betroffenen Frauen, doch es gelang ihr, dem Schicksal zu entkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Die geisterhafte Frau erinnerte sich an ihren Tod in der echten Welt. Die Probabilitätsmaschine war der vergebliche Versuch ihres Vaters, sie wiederzubeleben. Leider ist er zum Scheitern verurteiltt – er wird nie seine echte Tochter zurückbekommen. Mit diesem Wissen kann ich ihn vielleicht davon überzeugen, dass die Probabilitätsmaschine heruntergefahren werden sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Eine der Erinnerungen des Geistes offenbarte eine furchtbare Tatsache – jede Frau, die von der Probabilitätsmaschine manipuliert wird, stirbt vor ihrem zwanzigsten Geburtstag. Hunderte – vielleicht tausende – sind auf diese Weise umgekommen. Sicherlich wird das Ausmaß dieser Tragödie genug sein, um ihren Vater umzustimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Obwohl sie sich nicht sicher ist, wo die Probabilitätsmaschine sich in der echten Welt befindet, denkt die gesterhafte Frau, dass sie irgendwo unterhalb vonn Sagusklippen versteckt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Laut der geisterhaften Frau befindet sich die Probabilitätsmaschine in den Vergrabenen Wegkreuzungen, unterhalb von Sagusklippen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

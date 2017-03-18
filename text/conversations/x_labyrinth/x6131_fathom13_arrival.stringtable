@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6131_fathom13_arrival</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dies ist also der tiefste Teil deines Geistes, wo die Tür zur Resonanz liegt. Du hättest es wissen müssen. Vielleicht *hat* es ein Teil von dir auch gewusst. Es ist leer und still. Die Tür zur Resonanz ist versperrt und der Geist ist nirgends zu sehen – vielleicht ist er geflüchtet, vielleicht hat er sich auch nur versteckt. Egal. Das ist *dein* Geist. Du musst ihn dir zurückholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

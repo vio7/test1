@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_coty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nach der Zerstörung der Memovira-Festung und dem Verschwinden der Memovira floh Coty zusammen mit den meisten anderen Soldaten der Memovira. Seither wurde er nie wieder gesehen, aber die meisten gehen davon aus, dass die ehemaligen Soldaten der Memovira von der Flor verschluckt wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Coty arbeitete hart im Florfleisch-Laden. Er erlangte nie die Fähigkeiten der Sundermuns, aber für sich genommen war er sehr begabt.[BR][BR]Letztendlich erweiterte er ihre Dienste auf Hölzer und Metalle und wurde zu einem gefragten Schreiner und Gravierer.[BR][BR]Einige Zeit später verließ er die Flor und ging seinen eigenen Weg. Er öffnete ein Geschäft in Circus Minor, wo er Numenera zu perfekten Werkzeugen umarbeitete. Auf seine Art machte er sich selbst einen Namen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Coty diente dem Aufmerskamem Fleck, so gut er konnte, auch wenn er sich bei seiner Arbeit im Schrein niemals wohlfühlte. Er war loyal und vertrauenswürdig, doch als Fleck ihm sagte, dass sie abtreten würde, und ihn bat, das Amt des Aufmerksamen Fleck zu übernehmen, lehnte er ab.[BR][BR]Er verbrachte den Rest seines Lebens sicher und friedlich mit der Arbeit im Schrein. Und es fehlte nicht viel, da wäre er vollkommen zufrieden gewesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Loyal wartete Coty auf die Rückkehr des Letzten Verstoßenen … aber er kam nie. Nach einer Weile begannen die Sklavenhalter, ihn argwöhnisch anzuschauen. Aus Angst, dass sie ihn wieder verkaufen würden, rannte er davon.[BR][BR]Niemand weiß, wo er hingegangen ist oder was mit ihm geschah.</DefaultText>
+      <FemaleText>Loyal wartete Coty auf die Rückkehr der Letzten Verstoßenen … aber sie kam nie. Nach einer Weile begannen die Sklavenhalter, ihn argwöhnisch anzuschauen. Aus Angst, dass sie ihn wieder verkaufen würden, rannte er davon.[BR][BR]Niemand weiß, wo er hingegangen ist oder was mit ihm geschah.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Nachdem der Kummer aus der Festung der Memovira vertrieben worden war, blieb Coty dort und wartete. Selbst als all die anderen Soldaten geflohen waren – alle außer Brusca – blieb er und beobachtete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als die Erste in die Flor zurückkehrte, wurde Coty zu Bruscas Stellvertreter. Als Brusca ein paar Jahre später in Ruhestand ging, wurde Coty zum Anführer aller Memovira-Soldaten. Er war kalt und wurde respektiert. Nicht ein einzelner Mann hinterging ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als der Letzte Verstoßene als neuer Memovira zurückkehrte, diente Coty ihm so gut wie jeder andere Soldat - sogar besser, denn ihm war das Gehorchen ohne Fragen vertraut.</DefaultText>
+      <FemaleText>Als die Letzte Verstoßene als neue Memovira zurückkehrte, diente Coty ihr so gut wie jeder andere Soldat - sogar besser, denn ihm war das Gehorchen ohne Fragen vertraut.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Als Matkina als neue Memovira zurückkehrte, diente Coty ihr so gut wie jeder andere Soldat - sogar besser, denn ihm war das Gehorchen ohne Fragen vertraut. Matkina verließ sich auf ihn mehr als auf alle anderen. Niemand forderte sie in den Jahren heraus, als Coty ihre rechte Hand war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Als die verschiedenen Gruppen der Flor anfingen, gegeneinander zu kämpfen, verschlossen er und Brusca die Festung. Nach und nach versammelten sie dort diejenigen, die keine Verbindung zu einer der Gruppen hatten. Die Festung war ein sicherer Hafen … jedenfalls bis eine neue Memovira aufstieg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Coty wartete treu auf die Rückkehr des Letzten Verstoßenen. Als die Festung zerstört wurde, hatte er Angst, doch er wartete weiter.[BR][BR]Der Letzte Verstoßene kehrte zurück und Coty wurde zum Diener des neuen Memovira. Es war ein gutes Leben, wie er fand, auch wenn er sich immer noch als Sklave fühlte.</DefaultText>
+      <FemaleText>Coty wartete treu auf die Rückkehr der Letzten Verstoßenen. Als die Festung zerstört wurde, hatte er Angst, doch er wartete weiter.[BR][BR]Die Letzte Verstoßene kehrte zurück und Coty wurde zum Diener des neuen Memovira. Es war ein gutes Leben, wie er fand, auch wenn er sich immer noch als Sklave fühlte.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

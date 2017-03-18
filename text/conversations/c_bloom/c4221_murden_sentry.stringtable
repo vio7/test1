@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_murden_sentry</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Murde bauscht wich wieder auf, klappert mit dem Schnabel und stoßt eine Welle aus hasserfüllter Statik aus, die in deinem Kopf brummt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wo ist euer Anführer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ihr müsst euren Posten verlassen. Sofort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Etwas an deinem Ton scheint die Murde zu verängstigen. Sie faucht und beugt sich, während sie sich zurückzieht, und fieht in die Sicherheit des Nachbarraumes. Aus Furcht, alleingelassen zu werden, folgt ihr die andere Murde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Krrrr. Hsssss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Würden [Global: c4221_MurdenSentryBribeAmount] Shin genügen, dass ihr einen Moment lang wegschaut?"
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Murde blickt auf dich, dann auf ihren Kameraden. Du kannst den Hauch ihrer Mentalstatik spüren, während sie miteinander kommunizieren.
+
+Entscheidung getroffen, steckt dir die Murde eine fettige Hand zu, und wartet, bis du ihre Handfläche mit Shin bedeckst. Sobald sie sie hat, widmen die beiden Murden ihre Aufmerksamkeit dem Boden, und kratzen mit ihren Krallen im Dreck herum. Sie tun ihr Bestes, beschäftigt und unaufmerksam auszusehen.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Eure Gefangenen sind weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Kreatur schaut dich verblüfft an, und wirft ihrem Kameraden dann schnell einen Blick zu. Du fühlst einen statischen psychischen Austausch zwischen ihnen. Dann drehen sie sich und laufen schnell den Flur herunter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Murde kichert und spuckt dich an. An der anderen Seite des Raumes defäkiert ihr Kamerad auf den Boden und kickt ihren Kot in deine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Blut tropft von den Klingen der Murden herunter, und wuterfüllte Statik faucht durch deinen Schädel. Ihre gelben Augen sind trotzig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Wo kann ich nochmal euren Anführer finden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Sssssss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"...ssss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ck-k-k-k!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Murde duckt den Kopf, und wippt hin und her, um dich im Auge zu behalten. Sie richtet ihre Klinge in Richtung des benachbarten Raumes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Nochmals zeigt die Murde mit ihrer Klinge Richtung Nebenraum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Murden klappern mit den Schnabeln und verhöhnen dich, als ob sie *So hantieren wir mit deiner Gattung* sagen würden.
+
+Krächzend - lachend, bemerkst du - ziehen sie sich in den Nebenraum zurück, und lassen dich mit den Toten allein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Deine Fähigkeit, Gedanken zu lesen, verschärft die Störungen und verstärkt sie auf ein schmerzhaftes Ausmaß. Es bedarf schwerer Anstrengung, um die Störgeräusche auszuschließen.
+
+Offensichtlich ist das Lesen von Murden-Gedanken eine schlechte Idee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Murde bauscht sich auf, ihre schmierigen schwarzen Daunen dehnen sich aus und sie mustert dich scharfäugig von Kopf bis Fuß. Du bemerkst, dass diese Kreatur etwas größer ist, als ihr Kamerad. Sie krächzt eine harte und glottale Anfechtung aus, und ein Stoß aus misstrauischer Statik brummt durch deine Gedanken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Murden klappern mit den Schnabeln und verhöhnen dich, als ob sie *So hantieren wir mit deiner Gattung* sagen würden.
+
+Krächzend - lachend, bemerkst du - ziehen sie sich in den Nebenraum zurück, und lassen dich mit den Toten allein.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

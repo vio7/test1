@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6051_specterfathom_endgame_corpse_si</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese geisterhafte Leiche ist die des Mannes, dem du vorhin begegnet bist - der Vater der geisterhaften Frau, jene, die die Maschine aktivierte, um Kopien von sich anzufertigen. Aber warum ist sie hier?
+
+Etwas in der Leiche fällt dir ins Auge - eine dunkle Masse, gefüllt mit kleinen Punkten aus brilliantem Licht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du erkennst diese geisterhafte Leiche nicht wieder, aber sie scheint bekannt - andererseits sieht hier *alles* bekannt aus.
+
+Etwas in der Leiche fällt dir ins Auge - eine dunkle Masse, gefüllt mit kleinen Punkten aus brilliantem Licht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die dunkle Masse aufheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lass die Leiche unberührt liegen.</DefaultText>
+      <FemaleText>Lass es sein.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die geisterhafte Leiche bietet keinen Widerstand, als du hineinreichst. Die Masse fühlt an wie eine Tasche warmer Luft, dennoch gelingt es dir, sie aus der Leiche zu heben und in deinem Gepäck zu verstauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die geisterhafte Leiche hat nichs Weiteres anzubieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

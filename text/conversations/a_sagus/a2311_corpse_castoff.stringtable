@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2311_corpse_castoff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein starker Geruch nach verkohltem Fleisch strömt von dem schäbigen Tuch auf dieser Leiche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Andeutungen von bloßen Knochen drücken gegen das Tuch auf dieser Leiche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lass die Leiche in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Hebe das Leichentuch an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Untersuche erneut die Leiche des Verstoßenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du legst das Leichentuch vorsichtig beiseite. 
+
+Es besteht kein Zweifel. Dieser tote Mann war ein Verstoßener – und es wäre schwer für ihn, noch toter zu sein. Sein Fleisch ist papierähnlich, ausgetrocknet. Seine Tätowierung – oder eher die verkohlten Überreste davon – hat sich durch die Haut und in den darunter liegenden Knochen gebrannt.  
+
+Und natürlich ist da die Sache mit seinen verkohlten Augenhöhlen und seinem erschrockenen, aufgerissenen Mund. 
+
+Teile der Leiche fehlen. Die Rückstände eines abgebrochenen Dendra-Festmahls. Es überrascht dich nicht, dass sie damit aufgehört haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Wieder werden deine Augen von den Überresten der Tätowierung des Verstoßenen angezogen. Es sieht aus, als wäre sie in Flammen aufgegangen, als er starb, und als habe sie sich durch seine Haut in den Schädel gebrannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Berühre die Tätowierung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die letzte Sache, an die du dich erinnerst, ehe deine Fingerspitze über die Tätowierung streicht, ist ein zunehmendes Brummen ...
+
+Die Zeit stottert und bricht.
+ 
+Sanft keuchend erwachst du und lehnst dich stützend gegen die Bahre. Deine Arme brennen, deine Schläfen pochen, und weißes Rauschen brummt am Rande deines Sichtfelds. 
+
+Jemand hat in dieser lichtlosen, zeitlosen Leere geschrien. An so viel erinnerst du dich. Doch das warst nicht du – keiner der Dendra schaut zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

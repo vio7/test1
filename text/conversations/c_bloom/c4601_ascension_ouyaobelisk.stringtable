@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4601_ascension_ouyaobelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Selbst als er schwerelos in der Luft schwebt, lässt der Megalith diamantenes Gewicht erkennen – vielleicht wegen seines Kontrasts zu den umgebenden Kristallen.
+
+Der Stein blutet Bedürfnis, gar Hunger aus und ein telepathisches Flüstern raspelt den Gedanken &lt;Produkt&gt; in deinen Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Stein schwebt weiter, unnachgiebig und bedürftig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Biete ihm das alchemistische Pulver an.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Studiere den Megalith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Lass den Megalith in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>&lt;Was willst du?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>&lt;*Was* für ein Produkt? Bitte, sage mir, was du willst!&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>&lt;Produkt. Ich allein.&gt; Es folgt eine Pause, und plötzlich siehst du ein klares Bild des alchemistischen Pulvers, das du von den beiden Kaufleuten in der Flor erhalten hattest. 
+
+Wie es scheint, ist das hier ... ihr Handelspartner.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>&lt;Produkt. Ich allein. Niemand sonst. Gib, gib, ich allein, gebe glückliche Blasen.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die einzige Antwort ist der Gedanke &lt;Produkt&gt;, der sich in deinen Geist reibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Nachdem sein Bedürfnis – vorerst – gestillt wurde, ist der Megalith ruhig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Als du das Gefäß hinhältst, wächst das Bedürfnis des Megaliths stärker an. &lt;Gib, gib. Ich allein. Ich gebe glückliche Blasen. Gute Gerüche.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Wieder besteht der Megalith auf &lt;ich allein&gt; und bietet dir &lt;glückliche Blasen&gt; an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>&lt;Glückliche Blasen? Gute Gerüche?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>&lt;Warum "du allein"? Kann ich nicht mit anderen handeln?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Gib ihm das Pulver.
+
+{LOOT/SCRIPT: Remove powder from inventory.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Behalte das Pulver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du spürst die Freude des Megaliths. &lt;Ja, ja. Guter Ausgebrüteter. Viele glückliche Blasen.&gt; Irgendwie kann seine Verkaufsstimme nicht ganz die Kluft zwischen Megalith und Menschen überwinden.</DefaultText>
+      <FemaleText>Du spürst die Freude des Megaliths. &lt;Ja, ja. Gute Ausgebrütete. Viele glückliche Blasen.&gt; Irgendwie kann seine Verkaufsstimme nicht ganz die Kluft zwischen Megalith und Menschen überwinden.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Etwas, das beinahe wie Verschlossenheit ist, strahlt von dem Stein aus, und die Gedanken, die sich in deinem Kopf formen, scheinen so gut wie schmeichlerisch zu sein. &lt;Zu witzig! Helfe Ausgebrüteten. Gute Gerüche alle. Ich allein.&gt;
+
+Nach einer Weile fügt er hinzu &lt;Nicht immer. Nur manche Umdrehungen. Viele glückliche Blasen für Ausgebrütete, und ich viel Produkt.&gt;
+
+Was auch immer die Vereinbarung ist, es ist unklar, wie dieses Ding sie durchsetzen könnte.</DefaultText>
+      <FemaleText>Etwas, das beinahe wie Verschlossenheit ist, strahlt von dem Stein aus, und die Gedanken, die sich in deinem Kopf formen, scheinen so gut wie schmeichlerisch zu sein. &lt;Zu witzig! Helfe Ausgebrüteter. Gute Gerüche alle. Ich allein.&gt;
+
+Nach einer Weile fügt er hinzu &lt;Nicht immer. Nur manche Umdrehungen. Viele glückliche Blasen für Ausgebrütete, und ich viel Produkt.&gt;
+
+Was auch immer die Vereinbarung ist, es ist unklar, wie dieses Ding sie durchsetzen könnte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Eine der Schuppen schiebt sich zur Seite und der Megalith schlürft das Pulver mit einem schnellen Sog ein. Einen Moment lang brechen seine telepathischen Sendungen ab, und dann strahlt sein Vergnügen durch dich.
+
+&lt;Guter Ausgebrüteter. Viele glückliche Blasen zu teilen. Genieße die Soße.&gt;
+
+Eine weitere Schuppe gleitet zurück und mehrere Objekte fallen heraus. Du kannst sie gerade so auffangen, ehe sie zu Boden fallen.
+
+{LOOT: Zero Sum Engine + Collection of Crystals.}</DefaultText>
+      <FemaleText>Eine der Schuppen schiebt sich zur Seite und der Megalith schlürft das Pulver mit einem schnellen Sog ein. Einen Moment lang brechen seine telepathischen Sendungen ab, und dann strahlt sein Vergnügen durch dich.
+
+&lt;Gute Ausgebrütete. Viele glückliche Blasen zu teilen. Genieße die Soße.&gt;
+
+Eine weitere Schuppe gleitet zurück und mehrere Objekte fallen heraus. Du kannst sie gerade so auffangen, ehe sie zu Boden fallen.
+
+{LOOT: Zero Sum Engine + Collection of Crystals.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Der Stein projiziert schmerzhafte Enttäuschung in deinen Geist. &lt;Viele glückliche Blasen platzen vor Trauer.&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Als du deine Beute einpackst, stellst du fest, dass der Megalith inaktiv geworden ist. Anscheinend hat er jetzt keinen weiteren Bedarf an dem &lt;Produkt&gt;.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Obwohl er aus der Distanz ein einzelner Stein zu sein scheint, kannst du aus der Nähe sehen, dass er mit vielen kleinen Schuppen bedeckt ist. Jede von ihnen ist mit einem unterschiedlichen Muster versehen – Wirbel und Schleifen und Bögen, die so einzigartig sind wie Fingerabdrücke.
+
+Es ist unklar, ob es sich um ein mechanisches Konstrukt, ein Lebewesen oder etwas ganz anderes handelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Der inaktive Megalith lässt sich nicht dazu herab, deine Anwesenheit zur Kenntnis zu nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Ziehe eine Schuppe ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Versuche erneut, eine Schuppe abzuziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du gräbst deine Finger tief unter die Schuppe und reißt und ziehst mit all deiner Kraft. Schließlich bricht die Schuppe ab und legt eine schlauchartige Fistel frei, die in das Innere des Megaliths führt.
+
+Während ein kleines Objekt aus dem Schlauch herausrollt, explodiert dein Geist vor dem Zorn des Megaliths. &lt;Nein, nein. Böser Ausgebrüteter. Keine Blasen.&gt; Dann verstummen seine Gedanken.
+
+{LOOT: An item inferior to the Zero Sum Engine.}</DefaultText>
+      <FemaleText>Du gräbst deine Finger tief unter die Schuppe und reißt und ziehst mit all deiner Kraft. Schließlich bricht die Schuppe ab und legt eine schlauchartige Fistel frei, die in das Innere des Megaliths führt.
+
+Während ein kleines Objekt aus dem Schlauch herausrollt, explodiert dein Geist vor dem Zorn des Megaliths. &lt;Nein, nein. Böse Ausgebrütete. Keine Blasen.&gt; Dann verstummen seine Gedanken.
+
+{LOOT: An item inferior to the Zero Sum Engine.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du ziehst und hebelst an der Schuppe, doch du schneidest dir lediglich an ihrem scharfen Rand in den Finger. Der Megalith selbst reagiert auf dein vergebliches Wühlen in keiner Weise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Der Megalith scheint deine Anstrengungen mit blutigen Händen weiterhin nicht wahrzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die anderen Schuppen drücken sich fester gegen den Megalith und eine dünne, ölige Schicht sickert hindurch. Weiteres Zerren wird nicht mehr möglich sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Versuche, seinen "Geist" zu lesen, um zu verstehen, was er will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du kannst keinen Gedanken des Megaliths hören, abgesehen von dem, was er auf dich projiziert. Wenn es einen Geist gibt, den man lesen kann, so ist er undurchdringlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>&lt;Produkt. Produkt. Du hast.&gt;
+
+Die schwebende "Stimme" des Megaliths in deinem Geist ist begierig und entschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>&lt;Habe ich jetzt das "Produkt", das du willst?&gt;</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

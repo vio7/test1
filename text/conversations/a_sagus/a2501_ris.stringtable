@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_ris</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Gruppe von hart aussehenden Schlägern nähert sich dir von hinten. Angeführt wird sie von Ris, der höhnisch vor Tybir salutiert.
+
+"Hallo Tybir. Verlassen wir etwa die Stadt? Meine Freunde und ich hätten gerne zuerst das Geld, das du uns schuldest."</DefaultText>
+      <FemaleText>Eine Gruppe von hart aussehenden Schlägern nähert sich dir von hinten. Angeführt wird sie von Ris, der höhnisch vor Tybir salutiert.
+
+"Hallo Tybir. Verlassen wir etwa die Stadt? Meine Freunde und ich hätten gerne zuerst das Geld, das du uns schuldest."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Er macht einen unfreiwilligen Schritt nach hinten und wendet sich den Schlägern zu. "Ich weiß nicht, was Ris dir erzählt hat, aber ich verspreche dir, dass ich nie für den Auftrag bezahlt wurde. Ich habe kein Geld, und mich zu verprügeln würde daran auch nichts ändern."</DefaultText>
+      <FemaleText>Er macht einen unfreiwilligen Schritt nach hinten und wendet sich den Schlägern zu. "Ich weiß nicht, was Ris dir erzählt hat, aber ich verspreche dir, dass ich nie für den Auftrag bezahlt wurde. Ich habe kein Geld, und mich zu verprügeln würde daran auch nichts ändern."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Glaubt ihm nicht, Gefährten. Er hat in seinem Leben noch nie die Wahrheit gesprochen."</DefaultText>
+      <FemaleText>"Glaubt ihm nicht, Gefährten. Er hat in seinem Leben noch nie die Wahrheit gesprochen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Tybir wendet sich beschwörend an dich: "Bitte, Junge. Mir gehen die Tricks aus. Sag etwas. Hol mich hier raus!"</DefaultText>
+      <FemaleText>Tybir wendet sich beschwörend an dich: "Bitte, Junge. Mir gehen die Tricks aus. Sag etwas. Hol mich hier raus!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Kapitän Tybir steht unter meinem Schutz. Wollt ihr etwa den Zorn des *Wandelnden Gottes* erleben?"</DefaultText>
+      <FemaleText>"Kapitän Tybir steht unter meinem Schutz. Wollt ihr etwa den Zorn des *Wandelnden Gottes* erleben?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Er atmet erleichtert auf. "Danke, Junge. Ich schulde dir was."
+
+{SCRIPT: This needs to play after Ris and his men run away after successfully intimidating them.}</DefaultText>
+      <FemaleText>Er atmet erleichtert auf. "Danke, Junge. Ich schulde dir was."
+
+{SCRIPT: This needs to play after Ris and his men run away after successfully intimidating them.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Kommt zurück, ihr Feiglinge!"</DefaultText>
+      <FemaleText>"Kommt zurück, ihr Feiglinge!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ris grinst spöttisch und blickt zu seinen Gefährten zurück. "Er ist nicht der Wandelnde Gott. Der Wandelnde Gott ist drei Meter groß und ..." 
+
+Er hält inne, als er sieht, wie die anderen zurückweichen und sich entfernen. "He! Wo lauft ihr denn hin?! Ich sage euch doch: Er ist nicht der Wandelnde Gott!"
+
+Sie treten übereilt den Rückzug an und Ris jagt ihnen nach.</DefaultText>
+      <FemaleText>Ris grinst spöttisch und blickt zu seinen Gefährten zurück. "Er ist nicht der Wandelnde Gott. Der Wandelnde Gott ist drei Meter groß und ..." 
+
+Er hält inne, als er sieht, wie die anderen zurückweichen und sich entfernen. "He! Wo lauft ihr denn hin?! Ich sage euch doch: Er ist nicht der Wandelnde Gott!"
+
+Sie treten übereilt den Rückzug an und Ris jagt ihnen nach.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ris und seine Gefährten lachen. "Er ist nicht der Wandelnde Gott. Er ist einfach nur ein weiterer Tölpel, den du dazu gebracht hast, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verschlagen. Dich wegen Schurkerei, und ihn wegen Leichtgläubigkeit."</DefaultText>
+      <FemaleText>Ris und seine Gefährten lachen. "Er ist nicht der Wandelnde Gott. Er ist einfach nur ein weiterer Tölpel, den du dazu gebracht hast, ein Schild aus Fleisch zu sein. Gut, wir werden euch beide verschlagen. Dich wegen Schurkerei, und ihn wegen Leichtgläubigkeit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Angriff] "Wenn ihr meine Freunde bedroht, dann bedroht ihr auch mich. Zieht eure Waffen oder geht."</DefaultText>
+      <FemaleText>[Angriff] "Wenn ihr meine Freunde bedroht, dann bedroht ihr auch mich. Zieht eure Waffen oder geht."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Schnappt sie euch!"</DefaultText>
+      <FemaleText>"Schnappt sie euch!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Diese Verschärfung kann ich nicht gebrauchen. Du bist auf dich allein gestellt, Tybir."</DefaultText>
+      <FemaleText>"Diese Verschärfung kann ich nicht gebrauchen. Du bist auf dich allein gestellt, Tybir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Was?", sagt Tybir. "Nach all dem, was ich für dich getan habe? Das wirst du bereuen!"
+
+Er macht eine Pause und schiebt sich durch die Schläger. Sie folgen ihm auf den Fersen.</DefaultText>
+      <FemaleText>"Was?", sagt Tybir. "Nach all dem, was ich für dich getan habe? Das wirst du bereuen!"
+
+Er macht eine Pause und schiebt sich durch die Schläger. Sie folgen ihm auf den Fersen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Schnappt ihn euch, Gefährten!"</DefaultText>
+      <FemaleText>"Schnappt ihn euch, Gefährten!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Aus dem Weg!"</DefaultText>
+      <FemaleText>"Aus dem Weg!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Kommt zurück, ihr faulen Bastarde!]</DefaultText>
+      <FemaleText>[Kommt zurück, ihr faulen Bastarde!]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Du wirst wirklich für diesen Scharlatan sterben? Händige ihn aus und du kannst fortfliegen, wohin du wolltest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Na gut. Nimm ihn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Keine Chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Eine weise Entscheidung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Jungchen! Nein!"</DefaultText>
+      <FemaleText>"Kleine! Nein!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Das wirst du bereuen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

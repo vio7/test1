@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x6131_finalconfrontation_approachnearorb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Du hast viele Leben lang gearbeitet, um so weit zu kommen. Deine Beherrschung sollte unangefochten sein, der Verstoßene wird jedoch bald eintreffen. Der Emporkömmling hat das Potenzial, all deine Planung zunichte zu machen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Senke den Boden ab, um zu verhindern, dass dich jemand erreicht. Du musst in diesen kritischen, finalen Momenten ungestört sein.]</DefaultText>
+      <FemaleText>[Senke den Boden ab, um zu verhindern, dass dich jemand erreicht. Du musst in diesen kritischen, finalen Momenten ungestört sein.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Baue den Pfad, um die Resonanz zu erreichen. Du wirst andere Verteidigungen beschwören, um dich zu schützen, sollte der Verstoßene dich erreichen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Schüttle diese Erinnerung ab und verlasse die Ebeneunverändert.]</DefaultText>
+      <FemaleText>[Schüttle diese Erinnerung ab und verlasse die Ebeneunverändert.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Eine Erinnerung zieht dich an und du betrittst sie ohne Unbehagen.  Als sie deine Wahrnehmung erfüllt, bist du sicher, dass sie mit dem veränderlichen Boden unter deinen Füßen verbunden ist.]</DefaultText>
+      <FemaleText>[Eine Erinnerung zieht dich an und du betrittst sie ohne Unbehagen.  Als sie deine Wahrnehmung erfüllt, bist du sicher, dass sie mit dem veränderlichen Boden unter deinen Füßen verbunden ist.]</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

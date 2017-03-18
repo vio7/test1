@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6071_cnpcfathom_village_aligern</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du dich näherst, siehst du Aligern, wie er in einem endlosen Zyklus einer sich ewig wiederholenden Folter gesperrt ist. Der Schatten eines schwarzen, metallernen Rahmens ragt hinter ihm, und eine Flut aus nachtschwarzen Monster gießen sich davon aus, mit roten Augen und Zähnen. Schattenhaftige Dorfbewohner taumeln und scheien, als die Monster sich auf sei heften. Ihre Gesichter werden einen Moment lang deutlich, Qual und Furcht sind ihre entscheidenden Züge.
+
+Zwei fallen auf - eine Frau und ihre Tochter.
+
+Aligern schluchzt, hilflos. Die Kreaturen rücken näher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Er steht auf und öffnet seine Augen, und die tiefschwarzen Kreaturen schwinden. Die Dorfbewohner verschwinden. Als letztes verschwinden seine Frau und seine Tochter. Er streckt die Hand zu ihnen aus, als ob der Rauch berühren könnte, und die Tätowierungen auf seinem Arm brennen und fauchen. Sobald die Vision gänzlich schwindet, lässt er seine Hand fallen und weint.
+
+Nach einer Zeit trocknet er sein Gesicht, und die altbekannte Verbitterung sind wieder seinen Platz ein. "Danke, schätze ich. Was nun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Das war nicht deine Schuld, Aligern - das war der Wandelnde Gott. Lass den Schmerz los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Das war ein Unfall, Aligern, es war nicht deine Schuld."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Es war deine Schuld, Aligern, ja. Aber sie sind jetzt weg. Du kannst sie loslassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Die Monster haben dein Dorf nicht zerstört, Aligern. Wir werden den Code finden, der sie freilässt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du versuchst erneut, Aligern anzusprechen, und erneut wirst zu in die Schrecken hineingezogen, die seinen Verstand quälen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Weglaufen und ihn seiner Qual überlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Aligerns Blick rastet auf dich aus. "Was machst du hier?" krächzt er. "Das alles ist meins! Meine Schuld! Mein Schmerz!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du kennst die Wahrheit hinter dem, was du hier siehst - dass die Kreaturen, die Aligerns Familie überfallen, sie nicht vernichten. Die Bestien kopieren Dorfbewohner und verwandeln sie zu Daten, die in Aligerns Arme gemalt werden. Vielleicht wird es helfen, ihn an die Wahrheit zu erinnern, damit er von seinem Leiden befreit wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Vernunft kriecht auf sein Gesicht, und der taube Schrecken schwindet. Die Dunkelheit, die vom Rahmen ausgießt, ist verschwunden.
+
+Er legt eine Hand auf eine Tätowierung und zieht sie halbwegs von seiner Haut. "Ich kenne dich. Ich *kenne* dich."
+
+Er lacht erfreut. "Ich kenne euch alle!" Er reicht in seine Haut hinein und hebt eine Handvoll von ihnen in die Luft. "Oh, meine Freunde. Isatrina! Avina! Ich bin... Ich bin..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Aligern, was ist los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Er zittert. "Nein... ich... es war..." Er bedeckt seine Augen. "Es war ein Fahler. Ich hätte den Rahmen nicht aktivieren sollen. Ich..." Seine Schultern sinken ab.
+
+"Also gut. Also gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Du kannst zu einem Ort namens die Stille reisen, Dort solltest du in Sicherheit sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Willst du mich wieder begleiten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du hast schon zu viele bei dir. Wenn du etwas Raum schaffen willst, dann ist das gut. Ich wäre froh, mich wieder dir anzuschließen. Ansonsten werde ich alleine den Weg nach draußen finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ist ja nicht so, dass ich hier gerade etwas Wichtiges zu tun hätte. Gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Lass uns weitergehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Nicht mit dir. Du hast mich vielleicht von diesem Albtraum befreit, hast aber mein Leben zur Hölle gemacht. Ich bin fertig mit dir. Ich finde meinen eigenen Weg nach draußen."
+
+Er wendet sich und pirscht davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Sag mir einfach Bescheid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"... Es tut mir Leid, dass ich es nicht früher wusste. Ich hätte einen Weg finden sollen. Ich..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"... Ich hoffe, ich habe dir nicht zu sehr in den Jahren geschadet. Bitte sag mir, dass du immer noch lebst, dass du immer noch fühlst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ich versuchte es, ein guter Gastgeber zu sein. Ich bin einer Person gefolgt, die es wert war, nachzufolgen." Er flüstert, "Bitte... komm vollständig zu mir zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ich... hätte es wissen sollen. Ich habe dich verflucht. Ich habe dich gehasst. Ich wollte dich weg haben. Aber ich trug meine Antworten. Es tut mir so, so Leid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Er lässt seine Tätowierungen wieder auf seine Haut sinken. "Wie ist das möglich? Wie erkenne ich jetzt die Antwort? Wie kann ich..." Er wendet sich zu dir und Einsicht dämmert langsam auf seinem Gesicht. "Es warst du. Du hast die Antwort gelöst."
+
+"Du hast mir das Geheimnis gezeigt, sie von der Falle auf meiner Haut zu befreien. Wenn wir zu dieser Welt zurückkehren, setze ich sie frei."
+
+Er schluckt tief. "Danke dir, Freund. Danke. Also. Was nun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Seine Augen glimmern. "Ich weiß, es war nicht meine Schuld. Ich... hasse einfach nur, dass es meine Hand war, die den Rahmen berührte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Seine Zähne sind weiß und scharf und blitzen in einem wütenden, instinktiven Grinsen. "Das weiß ich doch. Der Schmerz ist das, was mich zusammenhält." Mit einem Willensakt öffnet er seine Fäuste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Gut zu wissen. Danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Sag mir, was nicht stimmt, Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich leide," krächzt er. "Ich leide in der Hölle, die ich mir selber gebaut habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Mit Vergnügen." Er klatscht dir auf die Schulter.
+
+Haare - oder womöglich Ranken - kräuseln von den Rändern der Kapuze, die das meiste des kantigen Gesichtes der Statue bedeckt. Abstrakte Muster fließen entlang der Falten und Winkeln der Roben der Figur.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

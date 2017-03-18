@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4602_generator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>55</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Alle Kabel in dem Raum verlaufen zu dieser riesigen Maschine und ihrem Zwilling. Sie geben ein leises Brummen ab, welches du unter deinen Füßen spüren kannst. 
+
+Als du näher herantrittst, leuchtet ein Bildschirm auf. Eine seltsame, labyrinthartige Rune blinkt wütend in der Bildschirmmitte auf. Drei andere Glyphen drehen sich langsam in einer elliptischen Umlaufbahn darum – ein Blitz, eine Reihe paralleler Linien und ein Kreis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der zerstörte Generator steht still in der Ecke. Aus dem Inneren ist kein Grollen und kein Strom zu vernehmen und der Bildschirm bleibt entschieden schwarz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Maschine grollt weiter leise vor sich hin. Als du näher herantrittst, leuchtet der Bildschirm erneut auf – eine labyrinthartige Rune blinkt wütend in der Bildschirmmitte, wobei sich drei Glyphen langsam darum drehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Berühre die blinkende, labyrinthartige Rune.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ein technischer Plan des Geräts erscheint in der Mitte des Raums – die Quelle des leisen Summens. Senkrechte Runenlinien tauchen daneben auf, du kannst die Schrift jedoch nicht entziffern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Tritt von der Maschine zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Versuche, die Runen zu entziffern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Versuche erneut, die Runen zu entziffern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Obwohl du die Runen nicht lesen kannst, wird dir die Quintessenz der Botschaft klar. Es ist eine Warnung über das Gerät mit den beiden Kristallen, welches in der Mitte der Kammer steht. Der Zustand des Geräts hat sich dermaßen verschlechtert, dass es instabil geworden ist, und *jegliche* Stromfluktuation würde wahrscheinlich zu einer Funktionsstörung führen.
+
+Die Runen weisen nicht darauf hin, was geschehen würde, würde das Gerät nicht mehr funktionieren, und falls doch, dann kannst du es nicht entziffern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du schnappst hier und dort einige Fetzen auf, doch die Quintessenz der Botschaft bleibt schleierhaft. Es scheint eine Warnung über den aktuellen Zustand des Geräts mit den beiden Kristallen zu sein, das in der Mitte der Kammer steht. Es ist jedoch nicht klar, ob es sich um eine Aufforderung zum Handeln oder um eine Warnung handelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Kehre zur Benutzeroberfläche auf dem Startbildschirm zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du drückst ein kleines Symbol in einer Ecke. Die Anzeige verschwindet und wird durch eine blinkende, labyrinthartige Rune ersetzt, die von drei sich drehenden Glyphen umgeben ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Berühre die Glyphe, die wie ein Blitz aussieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Berühre die kreisförmige Glyphe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Berühre die Glyphe bestehend aus parallelen Linien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Das kreisförmige Symbol verdunkelt sich und der pulsierende Rhythmus der Symbole, die in das Bild wandern, lässt nach.
+
+Das leise Summen, welches die Höhle durchdringt, wird schwächer und verstummt schließlich vollends.
+
+{SOUND: The humming sound should stop here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Einen oder zwei Momente lang geschieht gar nichts. Plötzlich sondert das Gerät in der Mitte der Kammer eine Reihe seltsamer, knallender Geräusche aus. Auf dem Bildschirm beginnt das Bild des Geräts zu blinken und rote, parallel verlaufende Linien schneiden durch den Teil, in den einst der Strom floss.
+
+Energiebögen springen einige Momente lang über die Oberfläche des Geräts und erlöschen dann. In der Höhle wird es unheimlich still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ein Bild erscheint, welches das summende Gerät in der Mitte des Raums darstellt – jenes Gerät mit den beiden Kristallen. Symbole fließen in das Bild hinein und zeigen, dass das Gerät derzeit Strom von der Maschine vor dir bezieht.
+
+Ein kreisförmiges Symbol pulsiert mit jedem Symbol, welches in das Bild fließt. Wenn es betätigt wird, würde vermutlich der Stromfluss zu den Kristallen unterbrochen, wodurch das Summen verstummen würde. 
+
+Das kreisförmige Symbol ist rot umrandet und zeigt somit an, dass die Funktion dieses Geräts besonders wichtig ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Drücke das pulsierende, kreisförmige Symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Zerstöre die Maschine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Versuche erneut, die Maschine zu zerstören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Der Bildschirm kracht und zerspringt unter deinem mächtigen Schlag. Du machst weiter und schlägst auf den Rahmen und das Gehäuse ein, bis die Maschine verdunkelt.
+
+Die Geräte im weiteren Raum verdunkeln ebenfalls. Das Summen, das die Höhle zuvor durchdrang, verstummt auf unheimliche Weise.
+
+Ein Energiefeld in der Nähe des Eingangs zum Raum löst sich auf.
+
+{SOUND: Stop the low hum.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du beulst die Maschine an mehreren Stellen ein, der Stromfluss auf die anderen Geräte im Raum wird jedoch nicht unterbrochen. Der Bildschirm ist gerissen, jedoch noch funktionsfähig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ein Bild des Sockels erscheint in der hintersten Ecke des Raums. Dieses Bild des Sockels ist dunkel. Ein kreisförmiges Symbol befindet sich neben dem Bild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Versuche, mithilfe des Hinweises aus den Versuchsaufzeichnungen den Schlüssel herauszufinden, um das Kraftfeld zu deaktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Versuche erneut, mithilfe des Hinweises aus den Versuchsaufzeichnungen den Schlüssel herauszufinden, um das Kraftfeld zu deaktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>*Die drei Geodäten durch das Baryzentrum sind der Schlüssel.* Als du beobachtest, wie sich die Glyphen um die zentrale Rune drehen, wird dir die Bedeutung plötzlich klar. Die Symbole verändern ihre Größe, während sie sich um die Rune bewegen, wobei sie schneller werden, als sie sich ihr nähern, und langsamer, wenn der Abstand größer wird.
+
+Sie drehen sich nicht. Sie *orbitieren* und die Rune bildet den Massemittelpunkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>In den Notizen steht: "Die drei Geodäten durch das Baryzentrum sind der Schlüssel." Du hattest gehofft, ein Blick auf die Benutzeroberfläche des Generators würde das verdeutlichen, doch vergebens. Der 'Hinweis' macht nun viel mehr Sinn als zuvor, als du ihn zum ersten Mal gehört hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die Rune und die Glyphen verschwinden und werden durch ein Bild ersetzt, das die Reihe der drei großen Kristalle zu deiner Rechten darstellt. Symbole fließen in das Bild hinein und zeigen, dass das Gerät derzeit Strom von der Maschine vor dir bezieht.
+
+Ein kreisförmiges Symbol glüht neben dem Bild. Sobald eines der Symbole in das Bild der Kristalle eindringt, pulsiert das Kreissymbol hell auf. Wenn du es drückst, würde vermutlich der Stromfluss zur Kristallreihe unterbrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Berühre das pulsierende Kreissymbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Das Kreissymbol verdunkelt sich und die Symbole frieren auf der Stelle ein, nicht weiter in das Bild der drei Kristalle eindringend. Zu deiner Rechten erlöschen die Lichter der Kristallreihe.
+
+Ein Phobit blinkt und zirpt innerhalb eines der großen Kristalle, endlich aus seinem Gefängnis befreit. Er schwirrt um den Kristall herum, wobei er fröhliche Geräusche in deine Richtung macht und anschließend in einem Lichtblitz verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Drücke das dunkle, kreisförmige Symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Das Gerät schaltet sich wieder ein. Wenig überraschend kehrt der Phobit nicht zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Ein Bild taucht auf, welches die große Maschine zu deiner Rechten darstellt, die eine Reihe von drei Kristallen beherbergt. Das Bild ist verdunkelt und wird offenbar nicht gespeist.
+
+Ein dunkles, kreisförmiges Symbol befindet sich neben dem Bild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ein Bild erscheint, welches das summende Gerät in der Mitte des Raums darstellt – jenes Gerät mit den beiden Kristallen. Es blinkt wütend. Rote, parallel verlaufende Linien schneiden sich durch die Stromleitungen.
+
+Das Kreissymbol ist verschwunden. Es scheint keine Möglichkeit zu geben, den Strom in dem defekten Gerät wiederherzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Ein Bild des Sockels erscheint in der hintersten Ecke des Raums. Dieses Bild des Sockels ist dunkel. Symbole fließen in das Bild hinein und zeigen, dass der Sockel derzeit Strom von der Maschine vor dir bezieht.
+
+Ein kreisförmiges Symbol pulsiert jedes Mal, dass eines der Symbole in das Bild des Sockels eindringt. Wenn du es drückst, würde vermutlich der Stromfluss zum Sockel unterbrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Drücke das dunkle, kreisförmige Symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Sowohl das Symbol als auch der Sockel leuchten auf dem Bildschirm auf. Das Kreissymbol pulsiert im Rhythmus mit seltsamen Symbolen, die in das Bild des Sockels einfließen.
+
+In der hintersten Ecke des Raums weisen neue Geräusche darauf hin, dass der Sockel nun Strom bezieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Drücke das pulsierende, kreisförmige Symbol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Sowohl das Symbol als auch der Sockel verdunkeln sich. Die sich bewegenden Symbole verschwinden. In der hintersten Ecke des Raums verdunkelt sich auch der Sockel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Die Benutzeroberfläche verschwindet und wird von einem Bild von irgendeinem Feldprojektor ersetzt. Triumphierend trennst du die Stromversorgung zum Projektor.
+
+Auf der anderen Seite der Höhle wird das Kraftfeld deaktiviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Der technische Plan des summenden Geräts wird wieder eingeblendet. Senkrechte Runen werden daneben angezeigt und warnen davor, dass jegliche Stromschwankungen zum Gerät zu einer Fehlfunktion führen werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Ein Bild des Geräts erscheint in der Mitte des Raums. Rote Linien schneiden sich in einem geneigten Winkel durch das Bild und blinken dabei wütend.
+
+Eine einzelne Runenlinie blinkt neben dem Bild – eindeutig eine Warnung davor, dass etwas mit dem Gerät nicht stimmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Ein Bild erscheint. Es scheint ein technischer Plan des Geräts zu sein, das hinter dir in der Mitte des Raums steht  – die Quelle des leisen Summens.
+
+Senkrechte Runenlinien erscheinen neben dem Plan, die du jedoch nicht entziffern kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du erfährst nicht Neues.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Plötzlich blinkt und zirpt ein farbenfrohes Licht innerhalb der Kristalle, die sich in der Maschine befinden. Es ist ein Phobit! Er schwirrt um den Kristall herum, wobei er fröhliche Geräusche in deine Richtung macht und anschließend in einem Lichtblitz verschwindet.</DefaultText>
+      <FemaleText>Plötzlich blinkt und zirpt ein farbenfrohes Licht innerhalb der Kristalle, die sich in der Maschine befinden. Es ist ein Phobit! Er schwirrt um den Kristall herum, wobei er fröhliche Geräusche in deine Richtung macht und anschließend in einem Lichtblitz verschwindet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du versuchst es erneut und obwohl es dir gelingt, die Oberfläche der Maschine weiter zu beschädigen, fließt der Strom weiter ungehindert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Nachdem du weitere Minuten auf die Benutzeroberfläche gestarrt hast, kannst du den Sinn des Hinweises in den Versuchsaufzeichnungen dennoch nicht deuten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Die Definition von Geodäten kommt dir aus den Tiefen deines Verstandes in den Sinn. Es bedeutet ein große, kreisförmige Bahn – die kürzeste Linie zwischen zwei Punkten einer Sphäre.
+
+Aus deinem Bauchgefühl heraus ziehst du eine Linie von jedem der drei Symbole zum anderen, wobei die Linie durch die Rune im Zentrum führt. Die Symbol drehen sich daraufhin nicht mehr. An der Stelle, an der du deinen Finger über die Benutzeroberfläche ziehst, erscheinen Linien. Bald hast du drei gebogene Linien, die jedes der Symbole miteinander verbinden – drei Geodäten durch den gleichen Massemittelpunkt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Das Kreissymbol verdunkelt sich und die Symbole frieren auf der Stelle ein, nicht weiter in das Bild der drei Kristalle eindringend. Zu deiner Rechten erlöschen die Lichter der Kristallreihe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Der Bildschirm kracht und zerspringt unter deinem mächtigen Schlag. Du machst weiter und schlägst auf den Rahmen und das Gehäuse ein, bis die Maschine verdunkelt.
+
+Die Geräte im weiteren Raum verdunkeln ebenfalls. Das Summen, das die Höhle zuvor durchdrang, verstummt auf unheimliche Weise.
+
+{SOUND: Stop the low hum.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

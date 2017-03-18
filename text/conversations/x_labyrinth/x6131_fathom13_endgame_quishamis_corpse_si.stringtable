@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6131_fathom13_endgame_quishamis_corpse_si</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du fährst mit deinen Fingern über dieses gebogene Gewirr aus Kristallspitzen. Es ist ein Quishami und ist schon seit einiger Zeit tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Quishami liegt in einem kaputten Durcheinander aus kristallenen Gliedmaßen, kalt und regungslos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das Magmatische Annulet näher an die Leiche bringen.
+{SCRIPT: Is this related to Node 239 of c4211_demeray_and_obervich? If so, we should probably talk about some changes to one of these conversations.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText>[gehen]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als du deine Augen wieder öffnest, ist der Quishamis in einem Haufen neben dir, erneut regungslos. Du erhebst dich und krümmst dich in Erwartung auf Schmerzen. 
+
+Da ist keiner. Die Kreatur hat dich nicht verletzt. Stattdessen scheint das Blut ihrer Wunden in deine Haut gesickert zu sein und zäher zu machen. 
+{SCRIPT: Quishamis is dead again. Player gets back up.}
+{SCRIPT: This path disables the SI.}
+{SCRIPT: Player gets "crystalline armor fettle"}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Den Körper nach etwas Nützlichem durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du greifst in  die feuchten, gefrorenen Eingeweiden des Quishamis und findest die rauen Ränder eines fremden Objektes. Mit einem Grunzen reißt du es los, und etwas *schnappt* in der Leichte der Kreatur. 
+{LOOT}
+{SCRIPT: Player gets item from corpse.}
+{SCRIPT: This path disables the SI.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der Quishami liegt still, gebrochen und regungslos da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Vorsichtig bewegst du das Annulet näher an die Leiche des Quishami. Es leuchtet in deiner Hand auf, kalt und glänzend. 
+
+Der Quishami springt vom Boden auf und wirft dich um, während helles Blut aus seinen Wunden spritzt. Du starrst den pulsierenden Körper der Kreatur an. Sphären aus verwirrenden kreisrunden Mustern huschen unter seiner kristallinen Haut hin und her, kollidieren, verschmelzen miteinander, explodieren ... 
+
+Alles um dich wird dunkel. 
+{SCRIPT: Quishamis gets up, player gets knocked down, quishamis stands over supine player.} 
+{SCRIPT: Fade out, fade in}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Etwas in deinem Beutel bewegt sich. Das Magmatische Annulet leuchtet dezent.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Das Magmatische Annulet reagiert in deinem Beutel, als du dich der Leiche näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

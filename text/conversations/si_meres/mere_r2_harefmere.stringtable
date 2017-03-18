@@ -1,0 +1,3094 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_r2_harefmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>548</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Nachmittagssone strömt durch die Balkontüren einer reich ausgestatteten Bibliothek und lässt die hölzernen Bücherregale und weißen Wände golden erstrahlen. Du bist von Büchern aller Art umgeben – ledergebundene Schriften, hikarianische Geruchsromane, Bücher mit beweglichen Bildern, Gläser mit Gedächtnisameisen – alle sauber gepflegt und geordnet.
+
+Auf schweren, brusthohen Tischen stehen noch weitere Bücher und in stillen Ecken sind überdimensionierte Lesesessel aufgestellt. In einem silbernen Käfig zwitschert eine Singmotte mit purpurnem Pelz.
+
+An einem Schreibtisch stehen zwei große, weißhaarige Männer einer Rasse, die du als Sona kennst, und untersuchen etwas, das wie ein Jadeknopf aussieht.
+
+"Man nennt es das Geistauge", sagt der ältere Sona. "Ein faszinierendes Gerät. Wenn man es trägt und auf "Sehen" einstellt, zeichnet es alle Erfahrungen des Trägers auf – jeden Eindruck und jedes Gefühl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wenn man es jemand anderem aufsetzt und auf "Zeigen" einstellt", fährt der alte Sona fort, "wird derjenige alles erleben, was man aufgezeichnet hat. Eine vollkommen immersive Erfahrung."
+
+"Bemerkenswert, Lord Veresterios", sagt der jüngere Sona. "Könnte man es auch einem Tier aufsetzen?"
+
+"Natürlich", sagt Veresterios. "Einem Haustier, einem Insekt, selbst einer schwachköpfigen Nil wie der kleinen Rem hier."
+
+Er dreht sich um und zwinkert dir zu. "Möchtest du das, Rem? Möchtest du die Welt durch die Augen von Bibliothekar Lanalton sehen? Möchtest du erfahren, wie es ist, ein Sona zu sein? Ein Mann? Die Bücher auf den hohen Regalen erreichen zu können?"
+
+In diesem Moment wird dir bewusst, dass die Lesesessel gar nicht überdimensioniert sind. Vielmehr bist du eine Nil – eine erwachsene, blauhäutige Frau, nicht größer als ein Kind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ja, Herr. Sehr gerne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nein, Herr. Die Vorstellung macht mir Angst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Veresterios lacht. "Das dachte ich mir! Wer lebt schon gerne das Leben einer Nil? Immer nur hinter faulen Snobs aufräumen. Was meinst du, Bibliothekar?"
+
+Lanalton schnaubt. "Ich hätte es andersherum gedacht, Sir. Die Welt durch die Augen eines Tieres sehen. Erfahren, wie es denkt. Ob es fühlt."
+
+"Schon passiert!" ruft Veresterios. "Ich habe das Auge letzte Woche einer Nil-Scheuerfrau aufgesetzt. Faszinierend anzusehen, aber auch gefährlich." Er klopft auf ein Buch auf dem Tisch. "Eosus' Tagebuch warnt davor, dass man verrückt werden kann, wenn man einen Geist betrachtet, der sich zu sehr vom eigenen unterscheidet. Man kann sich das Gerät vor Augen halten, um bloß zu sehen, das ist ungefährlich, aber mehr als das..."Er schüttelt den Kopf. "Das ist selbst innerhalb der eigenen Rasse nicht ungefährlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Veresterios lacht. "So sind sie, die Nil – ohne Fantasie, ohne Mut für neue Erfahrungen. Darum wird eure Rasse nie mehr sein als Diener."
+
+Lanalton schnaubt und wendet sich von dir ab. "Ich hätte es andersherum gedacht, Sir. Die Welt durch die Augen eines Tieres sehen. Erfahren, wie es denkt. Ob es fühlt."
+
+"Schon passiert!" ruft Veresterios. "Ich habe das Auge letzte Woche einer Nil-Scheuerfrau aufgesetzt. Faszinierend anzusehen, aber auch gefährlich." Er klopft auf ein Buch auf dem Tisch. "Eosus' Tagebuch warnt davor, dass man verrückt werden kann, wenn man einen Geist betrachtet, der sich zu sehr vom eigenen unterscheidet. Man kann sich das Gerät vor Augen halten, um bloß zu sehen, das ist ungefährlich, aber mehr als das..."Er schüttelt den Kopf. "Das ist selbst innerhalb der eigenen Rasse nicht ungefährlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Er versperrt das Geistauge in einer Lade und erhebt sich. " Doch genug mit Spielzeugen, Lanalton. Ich brauche deine Hilfe. Mein Sohn Aurigan ist frisch zurück von den Standhaften Königreichen und hat es sich in den Kopf gesetzt, ein Nano zu werden. Ich möchte, dass du die passende Literatur für ihn auswählst. Komm. Wir sprechen mit ihm in meinem Büro."
+
+"Einen Moment noch, Herr", sagt Lanalton. Dann wendet er sich dir zu. "Bis ich zurückkomme, hast du die Bücher auf dem Tisch katalogisiert." Er deutet auf Eosus' Tagebuch. "Aber Finger weg von diesem hier. Es ist mehr wert als der ganze Rest zusammen. Um das kümmere ich mich persönlich. Verstanden?"
+
+Bevor du antworten kannst, rauscht er hinter Veresterios aus dem Raum und du bleibst alleine in der Bibliothek zurück. Allerdings wird die Ruhe bald durch Schreie vom Balkon gestört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Durch die Balkontür siehst du einen großen grauhäutigen Leibwächter – ein Bayaner –, der zwei strampelnde Nil über das Geländer hält – über ein kilometerbreites Loch, so tief, dass man den Boden nicht sieht. Hinter ihm schreit ein gut aussehender junger Sona einen dritten Nil an, der in einer Wasserpfütze vor ihm kniet und einen Wischlappen umklammert hält.
+
+"Mörderischer kleiner Wicht", schnauzt der junge Sona. "Um ein Haar wäre ich in deinem Schmutzwasser ausgerutscht und in das Bohrloch gefallen!"
+
+"Ich bitte um Verzeihung, Lord Aurigan", sagt der Nil. "Aber ich habe ein Band und ein Warnsch--"
+
+Der Sona schlägt ihm ins Gesicht. "Du wagst es, Widerworte zu geben? Alleine dafür wird Gurek einen deiner Freunde fallenlassen. Los, Drit, entscheide dich: Der Linke oder der Rechte. Und wenn du keine Wahl triffst, sterbt ihr alle drei!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Hinauslaufen und Aurigan angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Nicht! Verschont sie!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Bleiben, wo du bist, und nichts tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Veresterios schmunzelt. "Zu zaghaft, um eine Meinung dazu zu haben? Kein Wunder, dass die Nil sich nie erheben werden. Egal, wie wir sie behandeln, sie schlucken es runter und fragen noch nach Nachschlag."
+
+Lanalton schnaubt und wendet sich von dir ab. "Ich hätte es andersherum gedacht, Sir. Die Welt durch die Augen eines Tieres sehen. Erfahren, wie es denkt. Ob es fühlt."
+
+"Ah ja", sagt Veresterios. "Faszinierend, aber auch gefährlich." Er klopft auf ein Buch auf dem Tisch. "Eosus' Tagebuch warnt davor, dass man verrückt werden kann, wenn man einen Geist betrachtet, der sich zu sehr vom eigenen unterscheidet. Man kann sich das Gerät vor Augen halten, um bloß zu sehen, das ist ungefährlich, aber mehr als das..."Er schüttelt den Kopf. "Das ist selbst innerhalb der eigenen Rasse nicht ungefährlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Schüchtern zu Boden sehen und nichts sagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Als du auf den jungen Lord zuläufst, schleudert der grauhäutige Mann einen der Nil auf dich und ihr geht beide zu Boden.
+
+Der Sona wendet sich dir zu. "Wo kommst du her, Mädchen? Hast du vergessen, dass es ein Kapitalverbrechen ist, einen Sona zu schlagen? Gurek, wirf den Zwerg ins Loch und schnapp dir dann die da. Sie ist die Nächste."
+
+Gurek öffnet folgsam die Hand und der strampelnde Nil stürzt kreischend in der Tiefe. Der Nil mit dem Wischlappen schluchzt und umklammert die Stiefel des Sona. "Bitte", fleht er. "Hört auf."
+
+Gurek greift nach dir, doch gerade als er dich packen will, ertönt Veresterios' Stimme von drinnen.
+
+"Aurigan, mein Junge! Wo steckst du? Wir warten auf dich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Aurigan wendet sich dir zu, als er dein Flehen hört. 
+
+"Sieh mal, Gurek. Die da tut, als könne sie sprechen wie wir." Er packt dich, hält dir die Arme hinter dem Rücken fest und wendet sich dann wieder dem Nil mit dem Wischlappen zu. "Jetzt hast du gleich drei zur Auswahl, Drit. Triff deine Wahl. Sofort!"
+
+Der Nil sieht von dir zu den beiden anderen in Gureks Händen. Tränen kullern über sein Gesicht. "Bitte, Meister, ich... nehmt mich. Lasst sie gehen und--"
+
+"Das ist keine Wahl, du Narr!" zischt Aurigan. "Und jetzt--"
+
+Doch bevor er weiterreden kann, ertönt Veresterios' Stimme von drinnen.
+
+"Aurigan, mein Junge! Wo steckst du? Wir warten auf dich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Der Nil mit dem Wischlappen sieht von dir zu den beiden Nil in Gureks Händen. Tränen kullern über sein Gesicht. "Bitte, Meister, ich... nehmt mich. Lasst sie gehen und--"
+
+"Das ist keine Wahl, du Narr!" zischt Aurigan. "Und jetzt--"
+
+Doch bevor er weiterreden kann, ertönt Veresterios' Stimme von drinnen.
+
+
+
+"Aurigan, mein Junge! Wo steckst du? Wir warten auf dich!"
+
+Der junge Sona zuckt zusammen, schiebt dich beiseite und gibt Gurek ein Zeichen. "Töte den Linken. Der Alte ruft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wagt es nicht. Oder ich sage Eurem Vater, dass Ihr seine Diener tötet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Deine Drohung kostet Aurigan nur ein Lachen. "Denkst du etwa, meinen Vater interessiert, was mit dem Vieh passiert?" 
+
+Er packt dich, hält dir die Arme hinter dem Rücken fest und wendet sich dann wieder dem Nil mit dem Wischlappen zu. "Jetzt hast du gleich drei zur Auswahl, Drit. Triff deine Wahl. Sofort!"
+
+Der Nil sieht von dir zu den beiden anderen in Gureks Händen. Tränen kullern über sein Gesicht. "Bitte, Meister, ich... nehmt mich. Lasst sie gehen und--"
+
+"Das ist keine Wahl, du Narr!" zischt Aurigan. "Und jetzt--"
+
+Doch bevor er weiterreden kann, ertönt Veresterios' Stimme von drinnen.
+
+"Aurigan, mein Junge! Wo steckst du? Wir warten auf dich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Der junge Sona zuckt zusammen, als er die Stimme seines Vaters hört. Dann deutet er zu Gurek. "Lass sie. Der Alte ruft."
+
+Gurek setzt dich wieder ab und folgt seinem Herren. Die drei Nil versammeln sich um dich und stützen dich.
+
+"Siehst du, Rem?" sagt der mit dem Wischlappen. "Er ist ein Monster. Er hat den armen Dal töten lassen wegen *nichts*. Ich..." Er bricht wieder in Schluchzen aus.
+
+"Coi hat recht", sagt der zweite Nil. "Er und sein Bayaner werden uns noch alle töten. Drei Dienstmädchen haben sie bereits die Arme gebrochen. Und letzte Nacht ist der alte Jai an seinem Schädelbruch gestorben."
+
+Coi packt dich am Arm. "Du hast versprochen, dass du uns hilfst, Rem. Bitte! Du hast mehr Freiheiten und Grips als wir anderen. Finde einen Weg, ihn zu... dass er aufhört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ich versuche es weiter. Versprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ich fürchte, ich kann euch doch nicht helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich muss erst darüber nachdenken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Coi nimmt deine Hand. "Danke, Rem. Wir zählen auf. Danke. Lass uns wissen, wenn wir dir irgendwie helfen können."
+
+Die Nil sammeln ihr Putzzeug zusammen und lassen dich alleine auf dem Balkon zurück. Du starrst in den Schlund der Bohrung. Wäre die Sache ein wenig anders gelaufen, wärst vielleicht du hineingeworfen worden. In dem Fall würdest du immer noch fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Coi seufzt. "Ich mach dir keinen Vorwurf, dass du Angst hast, aber ohne dich sind wir verloren, Rem. Denk noch mal darüber nach, ja?"
+
+Die Nil sammeln ihr Putzzeug zusammen und lassen dich alleine auf dem Balkon zurück. Du starrst in den Schlund der Bohrung. Wäre die Sache ein wenig anders gelaufen, wärst vielleicht du hineingeworfen worden. In dem Fall würdest du immer noch fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Coi nickt. "Nimm dir so viel Zeit, wie du brauchst, Nur, äh... auch nicht zu lange, ja? Es ist nur eine Frage der Zeit, bis der Bastard den nächsten von uns in das Loch werfen lässt."
+
+Die Nil sammeln ihr Putzzeug zusammen und lassen dich alleine auf dem Balkon zurück. Du starrst in den Schlund der Bohrung. Wäre die Sache ein wenig anders gelaufen, wärst vielleicht du hineingeworfen worden. In dem Fall würdest du immer noch fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Hinauslaufen und Gurek angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Der große Diener bemerkt deine Schläge nicht mal. Aurigan hingegen schon. Er packt dich von hinten und lacht. 
+
+"Sieh mal, Gurek. Ein Höhlenfloh, der sich an deinem Bein festbeißt." Er dreht dich herum, sodass ihr beide den Nil mit dem Wischlappen anseht. "Triff deine Wahl. Sofort!"
+
+Der Nil sieht von dir zu den beiden anderen in Gureks Händen. Tränen kullern über sein Gesicht. "Bitte, Meister, ich... nehmt mich. Lasst sie gehen und--"
+
+"Das ist keine Wahl, du Narr!" zischt Aurigan. "Und jetzt--"
+
+Doch bevor er weiterreden kann, ertönt Veresterios' Stimme von drinnen.
+
+"Aurigan, mein Junge! Wo steckst du? Wir warten auf dich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Der junge Sona zuckt zusammen, schiebt dich beiseite und deutet zu Gurek. "Töte den Linken. Der Alte ruft."
+
+Gurek lässt folgsam den Nil in seiner linken Hand in die Tiefe fallen und folgt dann seinem Meister, begleitet vom Schluchzen der restlichen Nil.
+
+"Siehst du, Rem?" sagt der mit dem Wischlappen. "Er ist ein Monster. Er hat den armen Dal töten lassen wegen *nichts*. Ich..." Er bricht wieder in Schluchzen aus.
+
+"Coi hat recht", sagt der zweite Nil. "Er und sein Bayaner werden uns noch alle töten. Drei Dienstmädchen haben sie bereits die Arme gebrochen. Und letzte Nacht ist der alte Jai an seinem Schädelbruch gestorben."
+
+Coi packt dich am Arm. "Du hast versprochen, dass du uns hilfst, Rem. Bitte! Du hast mehr Freiheiten und Grips als wir anderen. Finde einen Weg, ihn zu... dass er aufhört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Der junge Sona zuckt zusammen, schiebt dich beiseite und deutet zu Gurek. "Töte den Linken. Der Alte ruft."
+
+Gurek lässt folgsam den Nil in seiner linken Hand in die Tiefe fallen und folgt dann seinem Meister, begleitet vom Schluchzen der restlichen Nil.
+
+"Siehst du, Rem?" sagt der mit dem Wischlappen. "Er ist ein Monster. Er hat den armen Dal töten lassen wegen *nichts*. Ich..." Er bricht wieder in Schluchzen aus.
+
+"Coi hat recht", sagt der zweite Nil. "Er und sein Bayaner werden uns noch alle töten. Drei Dienstmädchen haben sie bereits die Arme gebrochen. Und letzte Nacht ist der alte Jai an seinem Schädelbruch gestorben."
+
+Coi packt dich am Arm. "Du hast versprochen, dass du uns hilfst, Rem. Bitte! Du hast mehr Freiheiten und Grips als wir anderen. Finde einen Weg, ihn zu... dass er aufhört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Der junge Sona zuckt zusammen, schiebt dich beiseite und deutet zu Gurek. "Töte den Linken. Der Alte ruft."
+
+Gurek lässt folgsam den Nil in seiner linken Hand in die Tiefe fallen und folgt dann seinem Meister, begleitet vom Schluchzen der restlichen Nil.
+
+"Siehst du, Rem?" sagt der mit dem Wischlappen. "Er ist ein Monster. Er hat den armen Dal töten lassen wegen *nichts*. Ich..." Er bricht wieder in Schluchzen aus.
+
+"Coi hat recht", sagt der zweite Nil. "Er und sein Bayaner werden uns noch alle töten. Drei Dienstmädchen haben sie bereits die Arme gebrochen. Und letzte Nacht ist der alte Jai an seinem Schädelbruch gestorben."
+
+Coi packt dich am Arm. "Du hast versprochen, dass du uns hilfst, Rem. Bitte! Du hast mehr Freiheiten und Grips als wir anderen. Finde einen Weg, ihn zu... dass er aufhört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Gurek lässt folgsam den Nil in seiner linken Hand in die Tiefe fallen, dreht sich um und folgt seinem Meister in die Bibliothek. Als die Nil ihm schluchzend nachsehen, bemerken sie dich.
+
+"Siehst du, Rem?" sagt der mit dem Wischlappen. "Er ist ein Monster. Er hat den armen Dal töten lassen wegen *nichts*. Ich..." Er bricht wieder in Schluchzen aus.
+
+"Coi hat recht", sagt der zweite Nil. "Er und sein Bayaner werden uns noch alle töten. Drei Dienstmädchen haben sie bereits die Arme gebrochen. Und letzte Nacht ist der alte Jai an seinem Schädelbruch gestorben."
+
+Coi packt dich am Arm. "Du hast versprochen, dass du uns hilfst, Rem. Bitte! Du hast mehr Freiheiten und Grips als wir anderen. Finde einen Weg, ihn zu... dass er aufhört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Als du in die Bibliothek zurückkehrst, kommt auch Lanalton von Veresterios' Büro zurück. Er schnaubt angesichts des immer noch nicht eingeräumten Bücherstapels. 
+
+"Bist du schon wieder am Tagträumen?" fragt er. "Sortiere diese Bücher ein, wie ich dir befohlen habe, und tu es leise. Lord Veresterios liest in seinem Büro und ich habe zu arbeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Die Singmotte untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Die faustgroße Motte zirpt und flattert, als du näherkommst. Von weitem sieht sie wunderschön aus mit ihrem purpurnen Pelz und der Zeichnung auf den Flügeln, doch aus der Nähe wirkt ihr Gesicht ein wenig unheimlich. Sie hat sechs Augen, die so angeordnet sind, dass sie in alle Richtungen gleichzeitig sehen kann, und die Membran hinter ihren Mundwerkzeugen – das Organ, das ihr das Singen ermöglicht – glitzert und vibriert auf eine Weise, die einem den Magen umdreht. 
+
+Wenn sie nur reden könnte, hätte sie bestimmt eine Menge zu erzählen, denn sie sieht alles, was in der Bibliothek passiert, ob bei Tag oder bei Nacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Eosus' Tagebuch lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>*"Versuche niemals, die Erfahrungen einer anderen Person anzusehen, wenn du anregende Stoffe zu dir genommen hast – insbesondere nicht mit erhöhter Geschwindigkeit. Tee, Wachblatt und Haffasaft machen es schwieriger für den Geist, die Erfahrungen eines anderen als seine eigenen zu akzeptieren, und das kann zu Wahnsinn und Tod führen. Der sicherste Weg, die geistige Gesundheit des Betrachters zu schützen, ist es, bis zum Ende der Sitzung stündlich kleine Dosen von Rauschmitteln zu verabreichen, bis die Aufzeichnung fertig angesehen wurde ist."*</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>In Veresterios' Büro gehen und mit ihm über Aurigan sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Coi finden und mit ihm sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Coi schluckt. "Ich weiß nicht, Ren. Das... das ist eine große Sache, aber..." Plötzlich wird er rot, als Ärger ihn überkommt. "Aber *ja*! Nach der Sache mit Dal, wie könnten wir da ablehnen? Wir werden dir helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Mit Lanalton an seinem Schreibtisch sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Er lacht. "Das wäre der sicherste Weg, um deine Stelle hier zu verlieren. Man kann sich keinen gütigeren Meister als Veresterios wünschen, aber er liebt diesen Jungen abgöttisch und will kein schlechtes Wort über ihn hören. Das Einzige, was Veresterios *vielleicht* gegen ihn aufbringen könnte, wäre, wenn Aurigan dumm genug wäre, ein Buch aus der Bibliothek zu stehlen."
+
+Er wendet sich dir zu und sein Blick wird sanfter. "Hör zu, Mädchen. Ich weiß, dass du einen Stapel Bücher im hinteren Schrank versteckt hast. Wenn dir das Leid um dich herum zu viel wird, schlag sie auf und entfliehe der Welt für eine Weile. Dafür sind sie schließlich da."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Nach den Büchern suchen, die du im hinteren Schrank versteckt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>In einem Wandschrank inmitten von Wischlappen, Stehleitern und kaputten Stühlen findest du einen Stapel mit drei Büchern mit Lesezeichen und darunter einige äußerst kompromittierende Dokumente. 
+
+Eines davon scheinen Notizen zu sein – deine eigenen? –, in denen verschiedene Wege beschrieben werden, Aurigan aus Veresterios' Haushalt zu entfernen. Die anderen sind eine von Aurigan geschriebene und gezeichnete Notiz an jemanden namens Hekeria, in der er ihr mitteilt, dass er sie nie mehr sehen will, und einige Seiten, auf denen jemand – du? – versucht hat, Aurigans Handschrift und Unterschrift zu kopieren. Scheint, als arbeitest du schon einige Zeit daran, Aurigan los zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Der Lachende Tausendsassa" lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>*Fynn ließ lachend ein Paar glitzernde Edelsteine auf den Tisch fallen. "Kennst Ihr diese, meine Dame?"*
+
+*Lady Sommari blieb der Mund offen stehen. "Das sind meine Traumjuwelen! Verschollen seit dem letzten Chelatag! Hast du sie gestohlen, du Lump? Ich werde sofort die Wache rufen!"*
+
+*"Ich nicht, meine Dame", sagte Fynn. "Aber ruft ruhig die Wachen herbei, denn der Dieb ist in der Tat unter uns. Hier ist der Beweis." Er legte ihr die Notiz eines Pfandleihers vor und zeigte auf die Unterschrift. "Kommt Euch die Schrift bekannt vor?"*
+
+*Lady Sommari schnappte nach Luft und drehte sich zu ihrem Sohn um. "Imbruck! Wie konntest du nur? Du bist enterbt!"*
+
+*Neben ihm umarmte Fora ihren Ran. "Oh Liebling! Ich wusste doch, dass du eines Tages der Herr über Sommari sein würdest! Und das alles verdanken wir dem Lachenden Tausendsassa!"*
+
+{SCRIPT: Sets read the Laughing Jack conditional.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Der Biss des Sieges" lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>*Als wir die Enstal-Linie erreicht hatten, hatten wir endgültig genug. Die ganze Truppe war sich einig, dass wir Hyrnhol beseitigen mussten. Seine Feigheit und Unentschlossenheit im Dool hat der Hälfte von uns das Leben gekostet, und seine Entscheidung bei Bresadt hat bewiesen, dass er seitdem nichts dazugelernt hat. Die einzige Frage war, wie wir es angehen sollten. Offener Mord würde uns allen den Kopf und Kragen kosten, und die Oberen kannten alle Tricks mit angeblichen "Querschlägern" und "Unfällen". Wir würden raffinierter vorgehen müssen.*  
+
+*Dann hatte Gerrisae die zündende Idee. Wir alle haben Hyrnhal schon darüber jammern hören, dass seine Frau ihn verlassen hat, und unsere Oberen ebenfalls. Wenn wir einen Abschiedsbrief in seiner Handschrift fälschten, der besagt, dass er ohne sie nicht leben kann – wer würde an seinem Selbstmord zweifeln?*
+
+{SCRIPT: Sets read the Jaws of Victory conditional.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>" Der andere im Spiegel" lesen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>*Der Schlüssel zum Frieden ist Empathie. Wenn wir alle eine Zeit lang die Welt mit den Augen unserer Feinde sehen könnten – und sie sie mit unseren – wären Krieg und Gewalt zwischen uns undenkbar, denn sie verstünden unseren Schmerz und wir den ihren. Wir würden unsere Erfahrungen miteinander teilen. Wir wären eine Familie. Mehr als das. Wir wären eins. Und nur ein Verrückter würde Krieg gegen sich selbst führen.*
+
+{SCRIPT: Sets read Another Man's Mirror conditional.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Die Bücher und Notizen zurücklegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Du versteckst die Notizen sorgfältig unter den Büchern, damit alles so aussieht wie zuvor und gehst zurück in die Bibliothek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Gurek aufsuchen und mit ihm sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Nachdem du jetzt mehr über das Geistauge weißt und Gurek für deinen Plan gewonnen hast, kannst es losgehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Das Geistauge stehlen, in dem eine Woche im Leben einer Nil aufgezeichnet ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Veresterios hat das Geistauge sorgfältig in Lanaltons Schreibtisch verschlossen, aber Lanalton ist nicht besonders sorgfältig im Umgang mit dem Ersatzschlüssel. Als er die Toilette aufsucht, kannst du die Schreibtischlade ganz einfach aufschließen, das Geistauge herausnehmen und die Lade wieder verschließen. Danach legst du den Ersatzschlüssel dorthin zurück, wo du ihn gefunden hast. 
+
+Du wirfst einen Blick in das Geistauge. Es hat tatsächlich das Leben einer Nil aufgezeichnet. Die Schmähungen und Demütigungen sind dir nur zu vertraut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Der Singmotte das Geistauge aufsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Du wartest, bis sich Veresterios und Lanalton für die Nacht in ihre Gemächer zurückgezogen haben. Danach öffnest du den Käfig der Motte und greifst mit einem Tuch hinein. Die Motte schlägt ängstlich mit ihren Flügeln auf dich ein, doch du kannst sie in das Tuch einwickeln und den Pelz an ihrem Hinterkopf auseinanderziehen, um das Geistauge auf ihren Panzer zu drücken. Du begreifst nicht, wie der Apparat daran haften kann, denn er hat weder Haken noch gibt er Klebstoff ab, doch er hält. Der Pelz fällt zurück und verbirgt das Gerät.
+
+Du lässt die Motte wieder in den Käfig, wo sie erregt flattert und wütend Gesang singt, während du doch davonschleichst. Deine Hände sind mit Mottenstaub bedeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Gurek aufsuchen und ihm sagen, dass er seinen Teil tun soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Hoffnung keimt in den Augen des großen Mannes auf. "Der Plan ist gut. Aurigan wird sich die Chance nicht entgehen lassen, die Shin-Männer auszubezahlen. Und wenn ich dadurch von ihm loskomme, stehe ich für immer in deiner Schuld."
+
+Er steht auf. "Ich werde es ihm sagen gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Lanalton und Veresterios aufsuchen, sobald du weißt, dass Aurigan das Tagebuch gestohlen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Einen anderen Weg versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Du hältst inne, um noch mal alles durchzudenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Du hast den Abschiedsbrief in der Tasche. Nur noch ein paar Schritte und Aurigan wird euch nie mehr Ärger machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Den Nil von deinem Plan erzählen, Aurigan zu ermorden, und sie um dabei Hilfe bitten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Die meisten Nil in der Halle der Bediensteten nicken sofort, als du sie um Hilfe bittest, doch einige sind noch nicht überzeugt. Es wird zahlreiche geflüsterte Diskussionen.
+
+"Mord?", sagt Jaya, die Haushälterin. "Dafür werden sie uns alle töten."
+
+"Nicht, wenn wir uns an Rems Plan halten", sagt Coi. "Du hast ja gehört. Sie fälscht einen Abschiedsbrief und alle werden denken, dass Aurigan Selbstmord begangen hat." Er spricht lauter, um sich über den hitzigen Diskussionen Gehör zu verschaffen. "Er hat seinen Bayaner bereits einen von uns in das Bohrloch werfen lassen. Wie viele müssen noch sterben, bevor wir bereit sind, etwas gegen ihn zu unternehmen?"
+
+Nach vielen weiteren Diskussionen haben Coi und du eine Gruppe von zehn Nil überzeugt, euch zu helfen, und die anderen schließen sich euch mehr oder weniger bereitwillig an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Gurek dazu bringen, seinen Posten vor Aurigans Zimmer zu verlassen, indem du ihm sagst, dass ein Shin-Mann gekommen ist und nach Aurigan fragt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Gurek grunzt, öffnet die verschränkten Arme und erhebt sich. "Ich habe diesen Gaunern doch gesagt, dass sie sich hier nicht mehr blicken lassen sollen. Entschuldige mich."
+
+Er geht in Richtung Treppe. Damit steht nichts mehr zwischen dir und der Tür zu Aurigans Zimmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Den Abschiedsbrief bei Aurigans Bett hinterlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Du öffnest die Tür und betrittst einen großen, luxuriösen Raum, in dessen Ecke ein Anti-Schwerkraft-Bett schwebt und an dessen Wände Kunstwerke hängen. Außerdem ist der Boden voller Unterwäsche und schmutziger Tassen und Teller. Das Zimmer ist ein Saustall.
+
+Aurigan schnarcht halb komatös in seinem Bett. Du schleichst dich zu seinem Nachttisch und legst den Abschiedsbrief ohne Probleme dort ab. Jetzt musst du ihn nur noch aufwecken und dazu bringen, dir nachzulaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Aurigan das Geistauge aufsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Du öffnest die Tür und betrittst einen großen, luxuriösen Raum, in dessen Ecke ein Anti-Schwerkraft-Bett schwebt und an dessen Wände Kunstwerke hängen. Außerdem ist der Boden voller Unterwäsche und schmutziger Tassen und Teller. Das Zimmer ist ein Saustall.
+
+Aurigan liegt auf dem Bauch in seinem Bett und schnarcht halb komatös. Jetzt musst du nur noch das Geistauge hinter seinem Ohr platzieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Aurigan dazu bringen, dir nachzulaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Du hast das Geistauge, in dem eine Woche im Leben einer Nil aufgezeichnet ist. Höchste Zeit, ihm zu zeigen, wie seine Diener so leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Die Küche nach Alkohol oder Aufputschmitteln absuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Ein Teil der Seite mit dem Lesezeichen wurde mit blassen Bleistiftmarkierungen hervorgehoben. Er lautet:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Einige Absätze auf der Seite mit dem Lesezeichen wurden mit einem Strich am Rand markiert. Sie lauten:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Ein kurzer Abschnitt der Seite mit dem Lesezeichen wurde mit blassen Klammern versehen. Er lautet:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Du überfliegst das teure Buch und lernst, wie man das Geistauge bedient und die Wiedergabe beschleunigt, sodass die Erfahrungen eines Tages in einer Stunde, oder die einer Woche in einer Nacht angesehen werden können. 
+
+Du erfährst auch einiges über die Gefahren bei der Benutzung eines solchen Geräts und wie man sie mindert. Unter anderem steht dort:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Die Notizen lesen, die du gemacht hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Auf der Seite steht...
+
+Verbannung
+
+-A zum Bücherdiebstahl anstiften
+-V beweisen, dass A der Dieb ist
+-Aber wie?
+-Geistauge?
+-Motte? 
+-Gurek?
+-Beweise L übergeben? V?
+
+Tod?
+
+-Selbstmord von A vortäuschen
+-Wie?
+-Abschiedsbrief
+-G von seinem Posten locken?
+ -Brief hinterlassen
+-A vom Balkon stoßen?
+-Zu stark, brauche Hilfe
+
+
+Besserung?
+
+-Aurigan zu einem besseren Menschen machen
+-Wie?
+-Empathie? Ihm zeigen, was es heißt, Nil zu sein?
+-Geistauge?
+-Reicht das?
+-Vorsichtsmaßnahmen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Du schleichst dich aus der Bibliothek und klopfst leise an die Tür zu Veresterios' Büro. Er sieht von seinem Schreibtisch auf und lächelt dich an. "Ja, Mädchen, was gibt es? Will Lanalton mich sehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Ihr Sohn ließ seinen bayanischen Diener einen Nil in das Bohrloch werfen und töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Er runzelt die Stirn. "Und du hältst das für unrecht? Dann würde ich an deiner Stelle mit Aurigans Diener darüber reden. Schließlich war er es, der deinen Freund getötet hat, oder nicht?"
+
+Er wendet sich wieder seiner Arbeit zu. "Selbst wenn Aurigan den Befehl dazu gab, hätte Gurek es nicht tun müssen. Er ist ein Diener, kein Sklave – genau wie du. Wenn dir an einer weiteren Anstellung hier nichts liegt, kannst du ebenfalls jederzeit einen meiner Befehle missachten. Und jetzt geh, ja? Braves Mädchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Dennoch ist Aurigan für seinen Tod verantwortlich. Ihr müsst ihm befehlen, damit aufzuhören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Er sieht wieder hoch, und diesmal ist sein Blick stechend. "Du stellst Forderungen? Ich betrachte mich als äußerst nachsichtigen Arbeitgeber, meine Liebe, aber kein Diener spricht in diesem Ton zu mir. Wenn das noch einmal vorkommt, wird Lanalton sich eine neue Assistentin suchen müssen. Und jetzt stör mich nicht weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Wenn noch weitere Nil sterben, habt Ihr sie auf dem Gewissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Er sieht wieder hoch, und diesmal ist sein Blick stechend. "Du machst mich für Todesfälle verantwortlich, von denen ich nicht einmal weiß? Ich betrachte mich als äußerst nachsichtigen Arbeitgeber, meine Liebe, aber kein Diener spricht in diesem Ton zu mir. Wenn das noch einmal vorkommt, wird Lanalton sich eine neue Assistentin suchen müssen. Und jetzt stör mich nicht weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Danke, Herr. Ich gehe dann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Er winkt abwesend. "Ja ja. Mach das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Indem er seinem Bayaner den Auftrag gab, einen Eurer Diener zu töten, hat Euch Euer Sohn bares Geld gekostet und Euer Eigentum geschädigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Er runzelt die Stirn. "Da ist was dran. Danke, dass du mich darauf aufmerksam gemacht hast."
+
+Er wendet sich wieder seiner Arbeit zu. "Ich werde bei Gelegenheit mit ihm darüber sprechen. In der Zwischenzeit sag deinen Freunden, dass sie sich von ihrer allerbesten Seite präsentieren sollen, um solche Vorfälle künftig zu vermeiden. Und jetzt geh, ja? Braves Mädchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Der Bibliothekar seufzt, als er dich neben sich bemerkt. "Hab ich nicht gesagt, dass ich nicht gestört werden will? Was gibt es?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Lord Aurigan ließ seinen Bayaner Gurek einen Nil in das Bohrloch werfen. Können wir nichts dagegen tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Er nickt, ohne aufzusehen. "Ich fühle mit dir, Mädchen. Der Junge ist ein verzogener Bengel mit der Moral eines wilden Bären. Aber er ist nun einmal der Sohn unseres Herren, also müssen wir sein Verhalten erdulden, bis er uns wieder verlässt. Mögen die Schöpfer dafür sorgen, dass das bald sein wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Würdet ihr mit Veresterios über Aurigan sprechen, Herr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Würdet Ihr mir helfen, einen Weg zu finden, das Problem Aurigan zu beseitigen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Er sieht dich mit großen, angsterfüllten Augen an. "Was redest du da, Mädchen? Beseitigen? Wie?"
+
+Er winkt rasch ab. "Nein, nein, sag's mir nicht! Ich will es gar nicht wissen. Und wenn ich doch davon höre, erzähle ich es Veresterios, hörst du? Du kannst nicht hergehen und unverhohlene Drohnungen gegen den Sohn unseres Herren aussprechen! Und jetzt geh. Ich habe keine Zeit für solchen Unsinn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Danke. Entschuldigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Hmm, gut. Und jetzt zurück in die Arbeit."
+
+Er wendet sich wieder seiner Arbeit zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Du schleichst aus der Bibliothek und siehst Coi und seine Leute, wie sie den Boden in einem breiten Flur polieren. Er sieht dich hoffnungsvoll an. 
+
+"Ist dir etwas eingefallen?" fragt er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"Weißt du irgendetwas, das wir gegen Aurigan verwenden könnten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>Coi schüttelt den Kopf. "Leider nicht. Er ging fort in die Standhaften Königreiche, als er zwölf war. Ich weiß nichts über den jungen Mann, der er heute ist." Ihn schaudert. "Ich bin sicher, Gurek könnte dir etwas erzählen. Wenn du es wagst, ihn danach zu fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Wie wäre es, wenn Veresterios Aurigan aus dem Haus wirft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>Er strahlt. "Das wäre wunderbar. Aber ich kann mir nicht vorstellen, wie das gehen soll. Was seinen missratenen Sohn betrifft, ist der Alte blind wie ein Höhlenkrebs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Denkst du, wir könnten Aurigan umbringen und damit davonkommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>Coi sieht sich um, um sicherzugehen, dass niemand mithört. Dann flüstert er dir zu: "Verdient hätte er es. Aber danach wäre die Skist am Dampfen, oder nicht? Das würde uns allen Kopf und Kragen kosten. Kein Nil im Haushalt würde es überleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Hilfst du mir, Aurigan zu töten, wenn ich garantieren kann, dass der Verdacht nicht auf die Nil fällt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Denkst du, es ist möglich, dass Aurigan sich bessert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>Coi lacht laut auf. Dann hält er sich rasch die Hand vor den Mund und sieht sich verstohlen im stillen Flur um. 
+
+"Ich denke, eher kann man einen Juriskar am Schwanz durch ein Abflussrohr ziehen", flüstert er. "Der Junge ist böse bis ins Mark. Unbarmherzig wie die Klinge eines Fischmessers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Danke. Pass auf dich auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Coi nickt und winkt. "Danke, Rem. Wir zählen auf dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>Du findest Gurek auf einer Bank vor Aurigans Gemächern sitzen. Er schüttelt den Kopf und murmelt vor sich hin. Die Muskeln seiner starken Arme spannen sich unter seiner grauen Haut, während er seine schädelgroßen Fäuste gegeneinander schlägt. Er sieht auf, als du näherkommst.
+
+"Was willst du?" fragt er. Seine Stimme klingt wie Steinräder, die Knochen zermalmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"Warum hast du Dal getötet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>Er sieht dich lange finster an. Dann grummelt er: "Ich brauche meine Arbeit ebenso sehr wie du dein. Obwohl..." Er windet sich unbehaglich. "Obwohl dir deine vermutlich besser gefällt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Warum also für einen Job töten, der dir nicht gefällt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>Gurek knurrt. "Wenn ich Befehle missachte, werde ich gefeuert und lande auf der Liste "schwieriger" Personen der Sona. Dann stellt mich niemand mehr ein. Ditto wenn ich kündige. Und wenn ich der fiesen kleinen Made den Hals umdrehe, wie er's verdient hat, werfen sie mich in die Grube. Ich hab keine Wahl. Außer, dir fällt etwas ein, wie man den Boss zu einem besseren Menschen machen kann oder wie ich aus der Sache rauskomme, ohne als "schwierig" zu gelten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"Warum ist Aurigan so?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>Gurek schnaubt. "Er hat Schulden. Seit wir zurück sind, tut er nichts, außer in Spielkasinos zu gehen und zu verlieren. Er ist verzweifelt. Deshalb ist er immer so zornig." 
+
+"Eines Nachts werde ich bei dem Versuch, ihn vor den Shin-Männern zu schützen, noch draufgehen, ich sag's dir." Er seufzt. "Ist vielleicht besser so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"Wenn ich einen Weg finde, wie Aurigan enterbt wird, würdest du mir helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>Gurek hebt eine mächtige Augenbraue. "Hast du einen Plan? Hmmm. Solange du dafür sorgst, dass ich danach noch Arbeit bekomme, bin ich dabei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Würdest du mir helfen, Aurigan zu töten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Gurek dreht sich um und sieht dich direkt an. "Ich mag meinen Boss nicht, aber solange ich auf ihn aufpasse, krümmt ihm niemand ein Haar, verstanden?" Er lässt die Fingerknöchel knacksen. "Wenn ich mitbekomme, dass du etwas in der Richtung vorhast, gehe ich zu Veresterios. Und wenn du etwas in die Richtung unternimmst, töte ich dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>"Wiedersehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>Er nickt dir zu. "Bis dann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>Die Männer starren dich mit offenem Mund an. Dann faucht Lanalton: "Kleine Lügnerin! Ich glaube kein Wort! Es muss hier irgendwo sein!"
+
+"Ja", sagt Veresterios. "Findet es!"
+
+Du hilfst ihnen, die Regale und Tische abzusuchen, obwohl du genau weißt, dass es sinnlos ist. Natürlich findet ihr nichts.
+
+Veresterios wendet sich dir zu. "Du sagst, du weißt, wer das getan hat? Wer war es?"
+
+Du erklärst ihm, dass du seit Kurzem den Verdacht hast, dass jemand in die Bibliothek eindringt, und deshalb der Singmotte das Geistauge aufgesetzt hast, in der Hoffnung, dass sie diese Person auf frischer Tat ertappen würde.
+
+"Wie kannst du es wagen, ein solch kostbares Gerät ohne meine Erlaubnis zu benutzen!" kreischt Lanalton. "Das gibt die Peitsche für dich!"
+
+"Vergiss es", sagt Veresterios. "Bring mir das Gerät. Ich muss das sehen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>Sorgfältig nimmt Lanalton der Motte das Geistauge ab und übergibt es Veresterios. Der alte Sona hält das Gerät vor sein Auge und dreht es, um die Zeit vorzuspulen. Lange sieht er nur stumm zu, dann hält er die Wiedergabe an, dreht sie zurück und sieht sich einen kurzen Ausschnitt erneut an. Dann legt er mit betrübtem Gesicht das Geistauge in seinen Schoss.
+
+"Lanalton", sagt er. "Lass meinen Sohn holen."
+
+Wenige Augenblicke später schlurft Aurigan mit Gurek im Schlepptau in die Bibliothek. Er sieht irritiert drein. "Was ist?" fragt er. "Ich bin beschäftigt."
+
+Veresterios schüttelt den Kopf. "Ich habe dir viel verziehen, Aurigan. Habe deine Fehler auf jugendlichen Übermut geschoben. Aber dass du deinen eigenen Vater bestiehlst, ist zu viel. Du bist nicht länger mein Sohn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"Was!" ruft Aurigan. "Wer behauptet, ich hätte von dir gestohlen? Lüge!"
+
+Veresterios hält ihm das Geistauge hin. "Halte es vors Auge und dreh es einen Klick nach rechts. Dann siehst du selbst, wer dich verraten hat."
+
+Aurigan reißt seinem Vater das Gerät aus der Hand und sieht sich die Aufzeichnung an. Seine Kinnlade klappt nach unten und er schleudert das Gerät von sich. "Was...? Wie...?"
+
+Veresterios deutet auf dich "Rem hat es der Motte aufgesetzt. Sie hat alles gesehen."
+
+Aurigan zeigt mit einem zitternden Finger auf dich. "Du! Das ist deine Rache, nicht wahr? Dafür, dass ich deine dreckigen kleinen Freunde bedroht habe. Dafür wirst du sterben. Du landest im Loch, du miese kleine Petze!"
+
+Er geht mit ausgestreckten Händen und irrem Blick auf dich los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>Gegen Aurigan kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>Du schlägst auf Aurigans Kinn ein, aber er wischt deine Faust einfach beiseite, wirft dich über die Schulter und stapft mit dir zum Balkon. Du kannst nichts dagegen tun. Er ist viel stärker als du. Widerstand ist zwecklos.
+
+Dann siehst du aus dem Augenwinkel, wie Veresterios ein stiftartiges Gerät hochhebt. Grünes Licht blendet dich und plötzlich liegst du zuckend am Boden neben dem ebenfalls zuckenden Aurigan.
+
+Veresterios steht über seinem Sohn. "Ich sehe jetzt, dass du genauso bist, wie die Nil immer gesagt haben. Gurek, bring diesen Abschaum aus meinem Haus. Und das Mädchen auch. Es war mutig von ihr, mich auf diese Schurkerei aufmerksam zu machen, aber sie hat die Faust gegen Aurigan erhoben, und einen Sona zu schlagen, ist tabu. Sie muss meinen Haushalt ebenfalls verlassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Als Gurek dich wieder auf die Füße stellt, verschwimmen er, Veresterios und Lanalton und alles um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Die Bibliothek, der Sonnenschein, der Gesang der Motte, alles verschwindet in stummer Dunkelheit. 
+
+{MERE ENDS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>Vor Aurigan fliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Du drehst dich um und läufst davon, doch Aurigan hat dich mit einem einzigen Schritt eingeholt, wirft dich über die Schulter und stapft mit dir zum Balkon. Du kannst nichts dagegen tun. Er ist viel stärker als du. Widerstand ist zwecklos.
+
+Dann siehst du aus dem Augenwinkel, wie Veresterios ein stiftartiges Gerät hochhebt. Grünes Licht blendet dich und plötzlich liegst du zuckend am Boden neben dem ebenfalls zuckenden Aurigan.
+
+Veresterios steht über seinem Sohn. "Ich sehe jetzt, dass du genauso bist, wie die Nil immer gesagt haben. Gurek, bring diesen Abschaum aus meinem Haus. Und hilf dem Mädchen auf. Obwohl sie versuchte, feige zu fliehen, werde ich sie dafür belohnen, dass sie mich auf diese Schurkerei aufmerksam gemacht hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>Als Gurek deine kleine Hand in seine riesige Pranke nimmt und dir aufhilft, verschwimmen er, Veresterios und Lanalton und alles um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Die Bibliothek, der Sonnenschein, der Gesang der Motte, alles verschwindet in stummer Dunkelheit.
+
+{MERE ENDS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Keinen Widerstand leisten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>Du sinkst ergeben auf die Knie. Aurigan packt dich, wirft dich über die Schulter und stapft mit dir zum Balkon. Du kannst nichts dagegen tun. Er ist viel stärker als du. Widerstand ist zwecklos.
+
+Dann siehst du aus dem Augenwinkel, wie Veresterios ein stiftartiges Gerät hochhebt. Grünes Licht blendet dich und plötzlich liegst du zuckend am Boden neben dem ebenfalls zuckenden Aurigan.
+
+Veresterios steht über seinem Sohn. "Ich sehe jetzt, dass du genauso bist, wie die Nil immer gesagt haben. Gurek, bring diesen Abschaum aus meinem Haus. Und hilf dem Mädchen auf. Sie soll dafür belohnt werden, dass sie mich auf diese Schurkerei aufmerksam gemacht hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>Als Gurek deine kleine Hand in seine riesige Pranke nimmt und dir aufhilft, verschwimmen er, Veresterios und Lanalton und alles um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Die Bibliothek, der Sonnenschein, der Gesang der Motte, alles verschwindet in stummer Dunkelheit.
+
+{MERE ENDS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>Du schlägst Aurigan ins Gesicht. Es braucht ein paar Schläge, um ihn aufzuwecken, aber schließlich setzt er sich im Bett auf und sieht sich verschlafen um.
+
+"Wer haut mich?" fragt er.
+
+Dann sieht er dich und kneift die Augen zusammen. "Hast du mich etwa-"
+
+Du gibst ihm noch eine Ohrfeige. Er springt mit einem Wutschrei in seiner Unterwäsche aus dem Bett. "Du impertinentes Miststück! Dafür wirst du sterben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>Er stürzt sich schwankend auf dich und du flüchtest zur Tür. Er stolpert dir hinterher und faucht: "Komm zurück! Glaubst du, das ist ein Spiel? Gurek! Gurek, wo steckst du?"
+
+Du läufst aus dem Zimmer und er hinter dir her. Er ist so außer Atem, dass er dir nicht mal nachschreien kann. Bald hast du ihn auf den Balkon geführt. Er bleibt stehen. Schwankend und schwer atmend starrt er auf die zehn Nil vor ihm.
+
+"Was soll das sein?" fragt er. "Eine Party? Beobachtet ihr hier die Sterne oder was?"
+
+Die Nil sehen ihn zögerlich an. Jetzt, wo es darum geht, den Plan in die Realität umzusetzen, sind ihre Augen voller Furcht. Es sieht aus, als könnte sie im entscheidenden Moment der Mut verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>Die Nil darauf einschwören, Aurigan in die Tiefe zu stoßen, und selbst als Erste vorangehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>Auf deine Aufforderung hin sammeln sich die Nil um dich. Rasch und leise umzingeln sie Aurigan und drängen ihn zum Rand des Balkons.
+
+"Was soll das?" kreischt er. "Lasst mich sofort los!"
+
+Der Schwung der Nil schiebt Aurigan immer näher an das Geländer. Da packt er dich und versucht, dich als Waffe gegen die anderen zu schwingen, doch ohne Erfolg. Er stürzt langsam rückwärts über das Geländer in die Tiefe – und er nimmt dich mit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>Doch Coi lässt es nicht zu. Als Aurigan über das Geländer kippt, entreißt Coi dich seinen Armen und stellt dich auf den Boden des Balkons und hält dich fest, während vom Bohrloch das Echo der Schreie des fallenden Sona ertönt.
+
+"Du hast es geschafft!" sagt Coi. "Du hast uns gerettet. Wir können dir gar nicht genug danken."
+
+Doch als die Gruppe der Nil sich auflöst, läuft es dir kalt den Rücken hinunter. Du hast heute Nacht einen Mann getötet. War das wirklich der beste Weg, um deinen Freunden zu helfen, oder nur der einfachste?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>Als du dich auf den Weg zurück zur Bibliothek machst, verschwimmen die Wände und alles um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Die Bücher, der Mondschein, das Zwitschern der Motte, sie alle verschwinden in stummer Dunkelheit, doch die Zweifel in deinem Herzen bleiben. 
+
+{MERE ENDS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>Die Nil darauf einschwören, Aurigan in die Tiefe zu stoßen, aber selbst nicht mithelfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>Auf deine Aufforderung hin sammeln sich die Nil. Rasch und leise umzingeln sie Aurigan und drängen ihn zum Rand des Balkons.
+
+"Was soll das?" kreischt er. "Lasst mich sofort los!"
+
+Der Schwung der Nil schiebt Aurigan immer näher an das Geländer. Da packt er Coi und versucht, ihn als Waffe gegen die anderen zu schwingen, doch ohne Erfolg. Er stürzt langsam rückwärts über das Geländer in die Tiefe – und er nimmt Coi mit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>Die Nil versuchen, Aurigan ihren Kameraden zu entreißen, doch der Sona stürzt in die Tiefe, bevor sie Coi befreien können. Aurigan und der Nil stürzen aneinandergeklammert und schreiend in das Bohrloch. 
+
+Die versammelten Nil starren ihnen lange nach. Dann löst sich dich Gruppe langsam und wortlos auf. Als sie an dir vorbeigehen, würdigen sie dich keines Blickes. 
+
+Du starrst ebenfalls in den Abgrund. Du hast die Nil von Aurigans Tyrannei befreit, doch es hat Coi das Leben gekostet. War es das wert? Hättest du mehr tun sollen? Hättest du etwas anderes tun sollen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>Nichts sagen und versuchen, Aurigan selbst in die Tiefe zu stoßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>Dein furchtloser Angriff inspiriert die anderen, ebenfalls auf Aurigan loszugehen, und sie helfen dir, ihn über das Geländer zu stoßen.
+
+Leder bekommt er dich dabei zu fassen und schwingt dich als Waffe, um die anderen abzuwehren. Dein Strampeln bringt ihn jedoch aus dem Gleichgewicht und er fällt gegen das Geländer. Einige Nil erkennen die Chance und werfen sich gegen seine Schulter. 
+
+Aurigan verliert den Halt. Er fällt in den Abgrund... und er nimmt dich mit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>Coi lässt einen Schrei los und stürzt sich beinahe selbst über das Geländer, um dich noch zu erwischen. Doch es ist zu spät. Du siehst, wie sein entsetztes Gesicht über dir immer kleiner wird, als du in die Tiefe stürzt. Die Wände des Bohrlochs umgeben dich und Aurigans Schreie hallen in deinem Ohr.
+
+Du hast die Nil von seiner Tyrannei befreit, doch es hat dein Leben gekostet – und das von Aurigan. War das wirklich der beste Weg? Oder hätte es eine Alternative gegeben, bei der niemand hätte sterben müssen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>Als du immer tiefer in das Bohrloch hinabstürzt, verschwimmen die Gerüste und Planken um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Aurigan, das Bohrloch, ganz Hare, verschwinden in stummer Dunkelheit, doch die Zweifel in deinem Herzen bleiben. 
+
+{MERE ENDS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>In der Speisekammer findest du reichlich Alkohol und eine kleine Flasche anregenden Haffasaft. Es wäre ein Leichtes, eines davon zu stehlen. Oder beides.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>Den Alkohol nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>Du lässt eine kleine Flasche Wein in deiner Schürze verschwinden. Niemand bemerkt etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>Den Haffasaft nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>Du lässt die Flasche Haffasaft in deiner Schürze verschwinden. Niemand bemerkt etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>Beides nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>Du lässt eine Flasche Wein und eine Flasche Haffasaft in deiner Schürze verschwinden. Du schwappst ein wenig beim Gehen, aber das fällt niemandem weiter auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>Du legst Aurigans lange weiße Haare zur Seite und drückst das Geistauge direkt hinter dem Ohr auf seine Haut. Du begreifst nicht, wie der Apparat daran haften kann, denn er hat weder Haken noch gibt er Klebstoff ab, doch er hält. 
+
+Du stellst das Geistauge auf 'Zeigen' ein und beschleunigst die Wiedergabe. Sofort spannt sich Aurigans Körper an und du siehst, wie die Augen hinter den geschlossenen Lidern zucken. Seine Gliedmaßen beginnen ebenfalls zu zucken und er verfällt in leises Stöhnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>Bei ihm bleiben und nichts tun, bis es Zeit wird, das Geistauge wieder abzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>Aurigan hört nicht auf, zu zittern und zu stöhnen, doch er wacht nicht auf. 
+
+Ein wenig später hörst du Gurek an seinen Posten vor der Tür zurückkehren und versteckst dich. Der Riese wirft kurz einen kurzen Blick in das Zimmer und schließt die Tür wieder, nachdem er seinen Herren schlafend im Bett sieht. Danach werdet ihr für den Rest der Nacht nicht mehr gestört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>Als der Morgen vor Aurigans Fenstern zu dämmern beginnt, gibt das Geistauge ein Signal, um anzuzeigen, dass Aurigan alle Erfahrungen der Nil gesehen hat.
+
+Du nimmst ihm das Gerät ab und schleichst zur Tür, in der Hoffnung, dass dein Plan funktioniert hat und Gurek draußen schläft. Da hörst du Aurigans Stimme hinter dir. Du drehst dich um.
+
+"Du kleines Miststück", sagt er und setzt sich im Bett auf. Er sieht gleichermaßen wüten wie groggy aus. "Ich weiß, was du getan hast und warum. Ich sah es in dem, was du mir gezeigt hast. Worin du mich verwandeln wolltest." Ihn schaudert. "Bei den Schöpfern, es hat mich meine ganze Kraft gekostet, um mein *Ich* in diesem endlosen Nil-Albtraum zu bewahren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>Er steigt aus dem Bett und kommt auf dich zu. "Es wird dich freuen zu hören, dass dein Plan funktioniert hat. Vaters Nil haben von mir nichts mehr zu befürchten. Du hast mir gezeigt, dass sie ebenso denken und fühlen wie wir. Du jedoch..." Er sieht dich mit brennenden Augen an. "Was du mir angetan hast, war schlimmer als alle Verbrechen, die ich je begangen habe. Dafür wirst du bezahlen - mit deinem Leben."
+
+Als er dich packt und zum offenen Fenster trägt, verschwimmen die Wände seines Zimmers zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Aurigan, der rosa Morgenhimmel und das Bohrloch, in dessen klaffenden Abgrund er dich wirft, verschwinden in stummer Dunkelheit. 
+
+{MERE ENDS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>Bei ihm bleiben und ihm stündlich etwas Wein geben, bis es Zeit wird, das Geistauge wieder abzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>Obwohl du Angst hast, ihn aufzuwecken, drehst du Aurigan auf den Rücken und öffnest vorsichtig seinen Mund. Glücklicherweise weckt ihn dies nicht aus seinem tiefen Schlaf und du kannst ihm ein wenig Wein einflößen. Er schluckt ihn reflexartig runter und kurz darauf lässt sein Zucken nach und er scheint sich zu entspannen. 
+
+Ein wenig später hörst du Gurek an seinen Posten vor der Tür zurückkehren und versteckst dich. Der Riese wirft kurz einen kurzen Blick in das Zimmer und schließt die Tür wieder, nachdem er seinen Herren schlafend im Bett sieht. Danach werdet ihr für den Rest der Nacht nicht mehr gestört und du kannst Aurigan jede Stunde seinen Wein geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>Als der Morgen vor Aurigans Fenstern zu dämmern beginnt, gibt das Geistauge ein Signal, um anzuzeigen, dass Aurigan alle Erfahrungen der Nil gesehen hat.
+
+Du nimmst ihm das Gerät ab und schleichst zur Tür, in der Hoffnung, dass dein Plan funktioniert hat und Gurek draußen schläft. Da hörst du Aurigans Stimme hinter dir. Du drehst dich um.
+
+"Warte", sagt er und setzt sich im Bett auf. "Ich... ich weiß, was du getan hast und warum. Ich sah es in dem, was du mir gezeigt hast. Ich müsste dich hassen – du hast meine Würde und meinen freien Willen verletzt, aber... du hast mir auch gezeigt, dass ich dir und deinesgleichen Tag für Tag dasselbe antue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>"Ich verspreche dir", sagt er, "das wird sich ändern. Ich habe viel zu lange geglaubt, nur *ich* hätte einen Geist, nur ich würde Schmerzen empfinden. Vaters Nil haben von mir nichts mehr zu befürchten. Und du..." Er sieht dich an. "Du hast alles riskiert, um mir diese Lektion zu erteilen. Du sollst meine Lehrerin sein, meine Mentorin auf dem Weg zu einem aufgeklärten Leben. Gemeinsam werden wir einen Weg finden, die Ketten der Nil zu sprengen. Wir werden Haref endlich zu einer Stadt der Freiheit und Gleichheit machen."
+
+Er verbeugt sich vor dir. In diesem Moment verschwimmen die Wände seines Zimmers zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Aurigan und der rosa Morgenhimmel vor seinen Fenstern verschwinden in stummer Dunkelheit.
+
+{MERE ENDS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>Bei ihm bleiben und ihm Haffasaft verabreichen, bis es Zeit wird, das Geistauge wieder abzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>Obwohl du Angst hast, ihn aufzuwecken, drehst du Aurigan auf den Rücken und öffnest vorsichtig seinen Mund. Glücklicherweise weckt ihn dies nicht aus seinem tiefen Schlaf und du kannst ihm ein wenig Haffasaft einflößen. Er schluckt ihn reflexartig runter und kurz darauf wird sein Zucken und Stöhnen stärker. Er beginnt zu wimmern.
+
+Ein wenig später hörst du Gurek an seinen Posten vor der Tür zurückkehren und versteckst dich. Der Riese wirft kurz einen kurzen Blick in das Zimmer, hält einen Moment inne, als er seinen Herren sich im Bett wälzen sieht, doch dann zuckt er mit den Schultern und schließt die Tür wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>Nach einer Stunde verabreichst du Aurigan einen weiteren Schluck Haffasaft. Wieder nimmt seine Unruhe noch zu, bis er sich schließlich im Bett aufsetzt und schreit: "Die Nil sind in meinem Kopf! Die Nil sind in meinem Kopf!"
+
+Bevor du ihn noch zum Schweigen bringen kannst, stürmt Gurek in den Raum und sieht sich um. Aurigan zeigt auf dich. "Sie war es! Sie hat mir die Nil in den Kopf gepflanzt! Ich muss sie da rausbekommen! Ich muss--"
+
+Er schreit wieder, schnappt sich einen Dolch von seinem Nachttisch und stürzt zur Tür. Gurek versucht, ihn aufzuhalten, doch Aurigan weicht ihm aus und läuft an ihm vorbei. Dann ruft er zurück zu seinem Diener: "Hier lang! Zu den Räumen der Diener! Dort fangen wir an!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>Dich entschließen, zu vergessen, dass Aurigan einen unschuldigen Nil ermorden ließ, und nichts tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>Als du den Entschluss fasst, nichts zu tun, verschwimmen die Wände um dich herum zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Die Bibliothek, der Sonnenschein, das Zwitschern der Motte, sie alle verschwinden in stummer Dunkelheit. 
+
+{MERE ENDS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"Wer sind die Shin-Männer"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>"Geldverleiher. Sie geben Idioten wie dem Boss Kredit, und wenn sie nicht zurückzahlen können, brechen sie ihnen erst die Zehen und dann den restlichen Körper. Beinahe jede Nacht muss ich welche von diesen Gaunern aus dem Haus werfen. Irgendwann wird einer an mir vorbeikommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>Gurek zögert, unschlüssig, ob er sich um dich kümmern oder seinem Herren folgen soll. Schließlich dreht er sich um und läuft bei der Tür hinaus. 
+
+Als du ihm nachsiehst, verschwimmen die Wände von Aurigans Zimmer zu einem roten Schleier und etwas, das sich anfühlt wie eine glühend heiße Faust packt deine Eingeweide und zieht dich unsanft aus dieser Welt. Aurigans Bett und der rosa Morgenhimmel vor seinen Fenstern verschwinden in stummer Dunkelheit. 
+
+{MERE ENDS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>Die Bücher einsortieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>Du bist mit dem Ablagesystem der Bibliothek nicht vertraut, doch als du die Regalreihen ein wenig durchsiehst, wird es dir schnell klar und innerhalb kurzer Zeit hast du alle Bücher an ihren angestammten Platz zurückgestellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>Aurigans verzweifelte Lage als Basis für einen Abschiedsbrief nutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>Du scheinst bereits geschickt darin zu sein, Aurigans Handschrift und Unterschrift zu fälschen, und nach wenigen Versuchen hast du einen Abschiedsbrief verfasst, von dem du denkst, dass er seinen Zweck erfüllen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>Der Brief lautet...
+
+Lieber Vater, 
+
+Ich kann die Schande meiner Schulden nicht länger ertragen. Lebewohl.
+
+Dein Sohn, 
+
+Aurigan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>Du hältst inne, als dir bewusst wird, dass die bereits aufgezeichnete Woche im Leben einer Nil gelöscht wird, wenn du der Motte das Geistauge aufsetzt. Danach gibt es keine Möglichkeit mehr, Aurigan empathischer zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>Das Geistauge dennoch der Singmotte aufsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>Gurek sieht auf, als du näherkommst. "Wie geht dein Plan voran, Nil?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>"Ich habe der Motte das Geistauge aufgesetzt. Es wird alles aufzeichnen, was in der Bibliothek passiert. Wenn du Aurigan sagst, dass er mit Eosus' Tagebuch auf einen Schlag seine Schulden los wäre, wird er es stehlen und von der Motte dabei beobachtet werden und wir haben den Beweis für Veresterios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>"Meine Herren, ich muss Euch leider mitteilen, dass Eosus' Tagebuch verschwunden ist. Möglicherweise wurde es gestohlen. In diesem Fall gäbe es jedoch einen Weg, den Dieb zu überführen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>Die beiden Sona sprechen gerade über ein neu erworbenes Buch. Du wartest geduldig, bis sie fertig sind.
+
+Schließlich sieht Veresterios zu dir auf. "Ja, Rem? Was gibt es?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>Beginnen, den Enterbungsplan in die Tat umzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>Damit fortfahren, den Enterbungsplan in die Tat umzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>Beginnen, den Mordplan in die Tat umzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>Damit fortfahren, den Mordplan in die Tat umzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>Beginnen, den Empathieplan in die Tat umzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>Damit fortfahren, den Empathieplan in die Tat umsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

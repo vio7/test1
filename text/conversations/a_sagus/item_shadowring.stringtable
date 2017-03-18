@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_shadowring</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du ziehst das erste Ringfragment aus deinen Taschen. Zuerst sieht es so aus, als hättest du das zweite Fragment verlegt. Dann findest du es in einer Falte reingepresst, die genau auf der anderen Seite liegt, wo du das erste gefunden hattest. 
+
+Du streckst dich nach unten, um es zu greifen, aber du schaffst es nicht - die Fragmente stoßen sich gegenseitig ab, mit einer Kraft, die nicht allein von Magnetismus kommt. Du nimmst das zweite Fragment mit deiner anderen Hand und hältst beide in den gegenüberliegenden Handflächen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du wiegst das andere Ringfragment in deiner Hand, und beißt dir dabei auf die Lippen. Die Fragmente fühlen sich an, als würden sie irgendwie übereinstimmen. Dass sie vereint werden sollten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du ziehst das Ringfragment noch einmal aus deinen Taschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du ziehst beide Ringfragmente aus deinen Taschen und hältst sie in sich gegenüberliegenden Handflächen. Selbst bei dieser Entfernung ist die Abstoßkraft zwischen beiden enorm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Gezeitenwelle] Stell den Ring wieder her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Follow-up PQ. 8</DefaultText>
+      <FemaleText>Follow-up PQ. 8</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ganz langsam zwingst du die Ringfragmente wieder zusammen, indem du gegen die massive Abstoßungskraft drückst.  Je näher du Areph und Vareth zusammenbringst, je größer scheint ihr Widerstand zu werden. Schweißperlen bilden sich auf deiner Stirn und deine Muskeln schreien vor Schmerzen, aber als du es schließlich schaffst, dass die beiden Fragmente sich berühren, bricht die Abstoßungskraft ab und die beiden Fragmente fügen sich bereitwillig zusammen.
+
+Der vollständige Schattenring liegt in deiner Hand, noch köchelnd mit kaum wiederhergestellter Energie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Noch einmal versuchst du, die Fragmente mit Daumen und Zeigefinger zusammenzuführen. Deine Hände zittern als du versuchst, sie mit aller Macht zusammenzuführen. Kurzfristig sieht es so aus, als könntest du deine Hände zusammenbringen, aber das war wohl nur eine Wunschvorstellung. Dann ist schließlich deine Energie erschöpft und du bist gezwungen, deinen Versuch abzubrechen. Die Abstoßungskraft ist einfach zu groß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Drücke die Fragmente mit aller Gewalt zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Versuche es noch einmal, die Fragmente zusammenzuführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Führe Areph und Vareth zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du versuchst, die Fragmente mit Daumen und Zeigefinger zusammenzuführen, aber du schaffst es nicht. Die Abstoßungskraft der beiden Fragmente bedroht nicht auf Magnetismus - es ist fast so, als würden deine Hände von einer unfassbar verächtlichen Kraft auseinander gezogen. 
+
+Dennoch muss es einen Weg geben, Areph und Vareth zu vereinen. Du weißt nur noch nicht wie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Follow-up PQ. 13</DefaultText>
+      <FemaleText>Follow-up PQ. 13</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du schaust dir das Ringfragment genau an. Die Kanten der Fragmente sind rau, als wären sie mit einem gewaltigen Schlag getrennt worden, aber am einen Ende kannst du noch eine Fassung sehen. Da könnte ein Edelstein oder etwas anderes gewesen sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du wiegst das andere Ringfragment in deiner Hand. Die Fragmente fühlen sich so an, als müssten sie irgendwie passen, der Überstand und die Fassung passen eindeutig. Es ist fast so, als würden sie danach rufen, vereint zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Behutsam hältst du das Fragment noch einmal vor dein Auge. Außer der Fassung, die dir bereits auffiel, scheint es keine Besonderheiten zu geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Untersuche Vareth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Untersuche Vareth noch einmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Follow-up PQ. 16</DefaultText>
+      <FemaleText>Follow-up PQ. 16</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du hältst das Ringfragment in einer Hand, obwohl es den Anschein hat, dass das unmöglich ist.  Das kleine Ding ist unglaublich schwer. 
+
+Ein kleiner Überstand befindet sich am einen Ende dieses Fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Dieses Ringfragment ist durch den Überstand markiert, der sich am einen Ende befindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Untersuche Areph.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Untersuche Areph noch einmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Leg die Ringfragmente weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Leg den Ring weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Du leitest eine mächtige Gezeitenwelle auf die unsichtbare Kraft, die die Ringfragmente getrennt hält und stellst sie dir als körperliche Anwesenheit vor, als ein feindseliges, unbekanntes Wesen.
+
+In dem Moment, als die Kraft zurückgedrängt wird, taumeln die Fragmente aufeinander zu und der Ring vereint sich vor deinen Augen. Jetzt ist klar, warum er bisher nicht wiederhergestellt wurde. Nur die Anstrengung eines Verstoßenen oder eines Übermenschen kann es schaffen.  Der vollständige Schattenring liegt in deiner Hand, noch köchelnd mit kaum wiederhergestellter Energie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Steck den Ring weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

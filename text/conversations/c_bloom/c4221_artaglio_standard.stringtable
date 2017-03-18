@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_artaglio_standard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine abgenutztes Feldzeichen umsäumt den Rand des Nestes des Murdenhäuptlings, in seinem Dreck bedeckt. Seine Leinen sind zerissen und zerfetzt, aber sie sind intakt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Feldzeichen nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Es in Ruhe lassen</DefaultText>
+      <FemaleText>Lass es sein.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Indem du die Standarte vorsichtig aus dem Abfall im Nest des Murdenhäuptlings entwirrst, löst du es aus den Zweigen, Knochen und Abfällen, ohne es viel weiter zu beschädigen. Der Geruch zwischen seinen Falten würde einen Aneen zum würgen bringen. Du faltest die Standarte und verstaust sie in deiner Tasche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der Murdenhäuptling klappert mit seinem Schnabel und faucht dich an, während er sein zackiges Schwert drohend hin und her schwingt. Das Stöße der Mentalstatik aus seinem Gehirn isind intensiv, und daneben zuckt die Menschenschale zuück ins Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Eine abgenutztes Feldzeichen umsäumt den Rand des Nestes des Murdenhäuptlings, in seinem Dreck bedeckt. Seine Leinen sind zerissen und zerfetzt, aber sie bleiben intakt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Schände nicht unser Siegeszeichen, Mensch. Von Rechts wegen ist es unser. Eigentumsrecht, Gesetzesrecht, Siegesrecht. Strafe kommt auf die, die ignorieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sie zuckt etwas und versteift, als sie spricht. "Trete weg vom Nest, Mensch, oder leide. Leide, wie die anderen gelitten haben. Sofort. Wir warnen dich nicht weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die sich versammelnden Murden hatten schon genug deiner Unverschämtheit, und sie springen zum Angriff!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Aber wie du es etwas näher betrachtest, erkennst du, dass es einen silbernen Bierkrug darstellt, mit Reihen aus drei nach unten zeigenden Dreiecken darüber und darunter - genau wie die Flagge außerhalb des Eingangs zu seinem Zelt. Das ist eindeutig Artaglios Feldzeichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Es sieht aus, als könnte es sich um die fehlende Flagge handeln, von der Artaglio sprach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du hast deine Hände schon genug in dieser Güllegrube von einem Nest beschmutzt. Du bist dir sicher, dass hier nichts Weiteres von Wert drin steckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Das Nest des Murdenhäuptlings ist schmutzig, mit gemauserten Federn, Gammelfleisch, und anderen, weniger erwähnbaren Substanzen bedeckt. Du könntest womöglich etwas Wertvolles darin finden ... wenn es dir nichts ausmacht, dir die Hände schmutzig zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das Nest des Murdenhäuptlings ist überaus schmutzig. Maden kriechen durch viele Stellen des verwesenden Materials. Du könntest womöglich etwas Wertvolles hier drin finden, wenn du geneigt bist, das Risiko einzugehen, dir eine Krankheit einzufangen, die sich in diesem Durcheinender verstecken müssten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Vom Nest wegtreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Das Nest durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Nochmals versuchen, das Nest zu durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du wühlst im Dreck herum, um deine Hände werden nach jedem Moment schleimiger. Es scheint, dass der Murdenhäuptlich dieses Nest als Allzweckverlies verwendet, ob für seine Nahrung oder für seine Fäkalien. Kleine Zweige und Knochen stubsen in deine Haut - glücklicherweise brechen sie keine von ihnen - und schließlich findest du eine Handvoll Shin, die im Nest gelandet sind.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Der widerliche Morast aus Federn und Dreck beschichten deine Haut, und nach ein paar Momenten gibst du es auf, das Nest zu durchsuchen. Der Geruch allein genügt, dass du würgen musst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du wühlst im Dreck herum, um deine Hände werden nach jedem Moment schleimiger. Es scheint, dass der Murdenhäuptling dieses Nest als Allzweckverlies verwendet, ob für seine Nahrung oder für seine Fäkalien. Kleine Zweige und Knochen stubsen in deine Haut - keine von ihnen brechen es, glücklicherweise - und schließlich findest du eine Handvoll Shin, die in das Nest gelandet sind.
+
+Gerade, als du deine Hand zurückziehst, stubst dich etwas anderes - etwas rundes. Du ziehst es zusammen mit deinem neu gefunden Vermögen heraus.
+
+{MONEY}
+
+{SCRIPT: Please add a crafting item here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du versenkst deine Hände in das Durcheinander. Du wirst sofort belohnt... mit einem Splitter, der sich genau unter deinem Fingernagel steckt. Du ziehst deine Händer zurück und entfernst den Splitter.
+
+Er ist in einer ekelhaften Verschmutzung geschichtet... das heißt, außer den Teil des Splitters der total sauber ist. Das ist der Teil, der unter deine Haut steckte.
+
+Dir wird übel.
+
+{SCRIPT: Confer Diseased Fettle}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

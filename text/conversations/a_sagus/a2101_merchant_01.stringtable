@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_merchant_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Essbare Metalle! Neu geschmiedet und geschmolzen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Versiegelte Luftgefäße hier! Feucht *oder* trocken! Schmackhaft und erfrischend!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Getrocknetes, giftiges Fleisch! Frisch aus den Quarantäne-Räucherkammern der Blüte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Besondere Abendessen! Mitternächtliche Köstlichkeiten! Bereinigtes Mondlicht, stark ermäßigt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Es tut mir leid, es tut mir leid. Ich habe leider nichts mehr auf Lager. Doch Vorbestellungen *sind* möglich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ihr! Ich wette, Ihr seid ungenießbares Essen endgültig leid. Habe ich recht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Kein Grund, so zu schaufeln. Ich bin den ganzen Tag und die ganze Nacht noch hier. Die ganze Woche, um genau zu sein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Es geht nichts über einen unerwarteten Nachteinbruch, um den Appetit anzuregen, was? Ha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

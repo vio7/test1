@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_ancient_shield_generator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine der Konsolen, die die hoch aufregende Maschine umgeben, ist in Betrieb. Licht pulsiert im Einklang mit dem Herzschlag der Maschine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Strom fließt noch immer durch diese uralte Maschine. Ein metallischer Herzschlag pulsiert in ihr, der nur vage wahrzunehmen ist, und kleine Blasen umkreisen die gesamte Struktur.
+
+Nein, keine Blasen. Löcher im Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die kleinen Löcher umkreisen noch immer diese hoch aufragende Maschine. Du kannstt dich offenbar an eine Zeit erinnern, als die Anomalien größer waren, oder sogar verbunden ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Mattes Licht schimmert an den Rändern dieses rostigen Monolithen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Follow-up PQ. 31</DefaultText>
+      <FemaleText>Follow-up PQ. 31</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du lässt deine Hände über die zusammengebastelten Komponenten und schmierigen Kabel gleiten. Die Schalter sind durch den ständigen Gebrauch abgenutzt. Diese Maschine ist eine merkwürdige Vorrichtung – plump, aber raffiniert. Amateurhaft, aber meisterlich. Nur ein genialer Verstand konnte so viele unvereinbare Teile zu einem funktionstüchtigen Apparat zusammensetzen. 
+
+Unvertraute Erinnerungen flüstern dir zu. Dieser Apparat wurde genutzt – obwohl du nicht weißt, wie – um ein Feld zu generieren, das alles darin von der Zeit selbst losmacht.</DefaultText>
+      <FemaleText>Ihr lasst Eure Hände über die zusammengebastelten Komponenten und schmierigen Kabel gleiten. Die Schalter sind durch den ständigen Gebrauch abgenutzt. Diese Maschine ist eine merkwürdige Vorrichtung – plump, aber raffiniert. Amateurhaft, aber meisterlich. Nur ein genialer Verstand konnte so viele unvereinbare Teile zu einem funktionstüchtigen Apparat zusammensetzen. 
+
+Unvertraute Erinnerungen flüstern Euch zu. Dieser Apparat wurde genutzt – obwohl Ihr nicht wisst, wie – um ein Feld zu generieren, das alles darin von der Zeit selbst losmacht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deine Finger fahren über eine raue Stelle. Als du sie wegnimmst, siehst du ein Knospenlagensymbol, eingeritzt wie das Zeichen eines Meisters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>... dasselbe Symbol wie auf der Uhr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dieser Generator kombiniert eine enorme Anzahl unpassender Teile zu einem funktionalen Ganzen. Wieder einmal bemerkst du das zirkelhafte Symbol, das auf der Seite wie das Zeichen eines Herstellers eingeätzt ist.</DefaultText>
+      <FemaleText>Dieser Generator kombiniert eine enorme Anzahl unpassender Teile zu einem funktionalen Ganzen. Wieder einmal bemerkst du das zirkelhafte Symbol, das auf der Seite wie das Zeichen eines Herstellers eingeätzt ist.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Den Apparat untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Den Apparat erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Das Zeichen des Meisters näher ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du fährst mit der Hand über das gewundene Siegel. Hier gibt es eine Platte, doch sie ist festgeschraubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Follow-up PQ. 5</DefaultText>
+      <FemaleText>Follow-up PQ. 5</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du schließt die Augen, um dich besser zu konzentrieren und versinkst in der Strömung einer Erinnerung, die nicht zu dir gehört - oder zumindest nicht zu dem Körper, in dem du gerade bist ... und du hörst den donnernden Herzschlag des laufenden Generators, der dich aus vergangenen Jahrhunderten ruft. 
+
+{SOUND: Slow, deep, bassy THUMMING}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du öffnest kalte Augen, den Blick konzentriert, ignorierst die Schreie, den aufsteigenden schwarzen Rauch. Deine ganze Aufmerksamkeit gilt dem Puls der Maschine. 
+
+Du greifst in das zischende Innere des Generators, ordnest Teile neu an, optimierst. Hoffst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Der Herzschlag blutet in die Gegenwart. Deine Hand – die Hand deines Körpers – ruht auf der rostigen Oberfläche der jetzt uralten Maschine.</DefaultText>
+      <FemaleText>Der Herzschlag blutet in die Gegenwart. Deine Hand – die Hand deines Körpers – ruht auf der rostigen Oberfläche der jetzt uralten Maschine.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Erinnerung zeigt dir immer wieder kurze Bilder der zerlegten Maschine ... aber an mehr kannst du dich nicht erinnern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Erinnern versuchen, warum diese Maschine so vertraut scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Erneut erinnern versuchen, warum diese Maschine so vertraut scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Follow-up PQ. 11</DefaultText>
+      <FemaleText>Follow-up PQ. 11</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ihr betätigt einen Schalter unter den ständig glühenden Lichtern und habt ein eigenartiges, schmerzhaftes Gefühl unter dem Bauchnabel. Es ist, als habe Euch jemand einen Haken ins Fleisch gesteckt und würde von den Enden drei sehr langer Seile aus an ihm ziehen. 
+
+Ein Seil versucht, Euch in Richtung der unteren Klippen von Sagus zu ziehen. Ein anderes zieht Euch hinunter in Richtung Circus Minor. Und ein drittes – dasjenige, welches sich beinahe gespannt anfühlt – bildet eine unsichtbare Linie zurück nach Karawanserei, wo sich die Platte der Teleportationssteuerung befand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Nach Karawanserei reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Das unsichtbare Seil zieht dich in die Dunkelheit hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Zu den Klippen reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Geh nach Circus Minor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Konsole vorerst sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du trittst zurück. Das unangenehme Gefühl verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Der unsichtbare Haken hängt sich unter deinem Nabel ein und zieht dich in drei verschiedene Richtungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die funktionale Konsole benutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Teleportationskonsole benutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Den Generator sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Blicke durch die umkreisenden Löcher im Raum.</DefaultText>
+      <FemaleText>Blicke durch die umkreisenden Löcher im Raum.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Blicke erneut durch die Löcher im Raum.</DefaultText>
+      <FemaleText>Blicke erneut durch die Löcher im Raum.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ein zischender Strahl schießt aus dem Loch und trifft dich direkt im Auge. Er schmerzt nicht im geringsten. 
+
+Stattdessen wird dein Geist kurzzeitig mit dem köstlichen Bild einer Scheibe gegrillten *Etwas* erfüllt, und mit den geselligen Lauten eines Werbers in einer Sprache, die du nicht erkennst. 
+
+{SOUND: Meat sizzling.}</DefaultText>
+      <FemaleText>Ein zischender Strahl schießt aus dem Loch und trifft dich direkt im Auge. Er schmerzt nicht im geringsten. 
+
+Stattdessen wird dein Geist kurzzeitig mit dem köstlichen Bild einer Scheibe gegrillten *Etwas* erfüllt, und mit den geselligen Lauten eines Werbers in einer Sprache, die du nicht erkennst. 
+
+{SOUND: Meat sizzling.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du richtest die Augen auf ein Loch und beobachtest, wie es kreist. Manchmal sind die Gebäude, an denen es vorbeizieht, noch da. Manchmal stehen sie in Flammen. 
+
+Meistens jedoch befindet sich in hinter dem Loch in der Luft nichts, nur geschwärzte Ödlande und aufgewirbelter Staub.</DefaultText>
+      <FemaleText>Du richtest die Augen auf ein Loch und beobachtest, wie es kreist. Manchmal sind die Gebäude, an denen es vorbeizieht, noch da. Manchmal stehen sie in Flammen. 
+
+Meistens jedoch befindet sich in hinter dem Loch in der Luft nichts, nur geschwärzte Ödlande und aufgewirbelter Staub.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du trittst ein wenig zu nahe heran und eine der Anomalien zischt wie eine Scheibe aus Rasierklingen an deiner Hüfte vorbei. 
+
+Einer deiner Beutel fühlt sich schwerer an. Wie es scheint, hat die Anomalie dir ein Geschenk hinterlassen. 
+{LOOT}</DefaultText>
+      <FemaleText>Du trittst ein wenig zu nahe heran und eine der Anomalien zischt wie eine Scheibe aus Rasierklingen an deiner Hüfte vorbei. 
+
+Einer deiner Beutel fühlt sich schwerer an. Wie es scheint, hat die Anomalie dir ein Geschenk hinterlassen. 
+{LOOT}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Im Moment ist hinter den kleinen Löchern nichts zu sehen als völlige Dunkelheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

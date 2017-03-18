@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_nano_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ihr da. Ja, Ihr da. Würdet *Ihr* meiner Kollegin bitte sagen, dass sie keine Ahnung hat, wovon sie redet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Numenera sind nicht dafür geschaffen, verstanden zu werden. Sie *sind* einfach. Alles andere ist von Stolz verblendeter Unsinn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ist es richtig, seine Initialen in uralte Monumente einzuritzen? Oder dem Unbekannten wie Wilde ins Gesicht zu brüllen? Nein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wir müssen die Numenera *erleben*. In ihrer Anderszeit baden! Aber sie verstehen? Humbug!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>::mault::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c_haref_merecaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Lebensbild betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Den Lebensbildbetrachter weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Desorientiertheit überkommt dich, als du diesen Lebensbildbetrachter aus deinen Sachen hervorholst. Deine *Augen* sagen dir, dass dieses Gerät gleich ist wie die anderen. Doch deine anderen Sinne sagen dir etwas völlig anderes. 
+
+Sie sagen dir, dass du ein schweres Buch mit genarbtem Einband in Händen hältst. Du kannst sogar das verstaubte, parfümierte Aroma alter Buchseiten riechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du nimmst den Lebensbildbetrachter aus deiner Tasche und hältst ihn vor vor dich. Wieder sagen dir deine Hände, dass du tatsächlich ein Buch hältst, ein schweres noch dazu.
+
+Das Lebensbild darin zerrt an dir, begierig darauf, deinen Geist zu füllen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Den Lebensbildbetrachter untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Desorientiertheit, die du zuvor gefühlt hast, ist nun doppelt so stark. Bei jedem Blinzeln steigt dir der angenehm muffige Duft einer alten Bibliothek in die Nase. Du hörst das Rascheln von Seiten und das Gemurmel der Gelehrten und spürst warmen Sonnenschein auf deiner Wange.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Das Lebensbild innerhalb des Geräts/der Buchseiten drängt dich dazu, zu handeln und den Lebensbildbetrachter zu aktivieren/das Buch zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

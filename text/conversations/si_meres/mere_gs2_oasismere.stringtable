@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_gs2_oasismere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>199</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Erste, was dir auffällt, ist die drückende Hitze. Es fühlt sich an, als würde die trockene Luft dir regelrecht die Lebensenergie aussaugen. Du stehst in der Mitte einer belebten Straße. Eine riesige blaue Kuppel ragt in der Ferne über dicht aneinander Gebäude aus Ton und Synthstahl und glänzt im Sonnenlicht.
+
+Dunkle Männer und Frauen in bunten Roben drängen sich an dir vorbei und wirbeln Staub mit ihren Schritten auf. Auch wenn der Staub golden und silbern glänzt, kratzt er dennoch im Hals. Zu deinen Füßen sitzt eine Bettlerin in Roben, die deutlich schmutziger sind als jene der Menge um dich herum.
+
+{SOUND: [A] Crowd walla. [B] Include beggars calling out for shins. These should be ambient and continue until otherwise stated.}
+{SOUND: [A] On top of the crowd walla is a woman singing in perfect pitch - almost unnaturally perfect, like the Fifth Element Diva Song. Ambient for this node only.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Bettlerin ist eine ausgemergelte Frau mit rotbrauner Haut, die aussieht, als hätte sie einen permanenten Sonnenbrand. Ihr Haar ist so ausgebleicht, dass es beinahe weiß erscheint, und ihre Augen sind grün mit leichten Blautönen. Ihr Halsband aus glattem, polierten Metall glitzert in der Sonne. {The spoken text is said like a chant, almost sing-song}"Eine Gabe für mein Wissen", singt sie rhythmisch in einer angenehmen Stimme, während sie sanft vor und zurück schaukelt. "Eine Gabe aus Mitgefühl. Eine Gabe für mein Lied."​
+
+Sie bemerkt, wie du sie anstarrst. "Dich kenne ich", sagt sie. Ihre normale Stimme ist beinahe so melodiös wie ihre Singstimme. Sie deutet auf die Seite deines Kopfes. "Ich kenne diese Tätowierung und diese Uniform. Du bist eines der hohen Tiere aus der Endlosen Schlacht, nicht wahr? Ein Abgeworfener? Was hast *du* in der Oase zu suchen?"
+
+{SOUND: Stop woman singing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Versuchen, dich zu erinnern, in wessen Leben du gerade bist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Beim Anblick deiner Adjustierung fällt es dir wieder ein. Sein Name ist Hreese Fulc und er ist Offizier der Miliz der Ersten. Ein abgerissener Aufnäher an seiner Uniform deutet darauf hin, dass er ein *ehemaliger* Offizier ist. Er wurde aus der Miliz verbannt, nachdem er sich weigerte, auf Pajs Befehl hin unschuldige Abgeworfene zu ermorden. Es war grausam und nicht das, wofür er in Erinnerung bleiben wollte. Er war schockiert gewesen, dass Paj so etwas überhaupt In Erwägung gezogen hatte. Er hat nie eine zufriedenstellende Erklärung über ihre Beweggründe von ihr bekommen.
+
+Von deinem Gürtel hängen verschiedene Ornamente – eine Metallhand, ein elektronisches Auge, eine ausgebrannte Energiezelle. Es sind Trophäen von Kämpfen gegen Konstrukte und Automatons – die Spezialität von Hreese. Diese Ornamente trägt er mit Stolz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Beim Anblick deiner Adjustierung fällt es dir wieder ein. Sein Name ist Hreese Fulc und er ist Offizier der Miliz der Ersten. Ein abgerissener Aufnäher an seiner Uniform deutet darauf hin, dass er ein *ehemaliger* Offizier ist. Er wurde aus der Miliz verbannt, nachdem er sich weigerte, Pajs Befehle auszuführen. Er weiß nicht mehr, was sie von ihm verlangt hat, aber er weiß, dass er schockiert darüber wa und von ihr nie eine zufriedenstellende Erklärung über ihre Beweggründe bekommen hat.
+
+Von deinem Gürtel hängen verschiedene Ornamente – eine Metallhand, ein elektronisches Auge, eine ausgebrannte Energiezelle. Es sind Trophäen von Kämpfen gegen Konstrukte und Automatons – die Spezialität von Hreese. Diese Ornamente trägt er mit Stolz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Beim Anblick deiner Adjustierung fällt es dir wieder ein. Sein Name ist Hreese Fulc und er ist Offizier der Miliz der Ersten. Ein abgerissener Aufnäher an seiner Uniform deutet darauf hin, dass er ein *ehemaliger* Offizier ist. Du erinnerst dich an einen Skandal, der dazu führte, dass Hreese verbannt wurde, aber mehr weißt du nicht darüber.
+
+Von deinem Gürtel hängen verschiedene Ornamente – eine Metallhand, ein elektronisches Auge, eine ausgebrannte Energiezelle. Es sind Trophäen von Kämpfen gegen Konstrukte und Automatons – die Spezialität von Hreese. Diese Ornamente trägt er mit Stolz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du hast keinerlei Erinnerung an diesen Körper – an diese Person. Du trägst jedoch eine zerlumpte Uniform der Miliz der Ersten in der Endlosen Schlacht und es sieht so aus, als wäre ein Streifen von der Schulter abgerissen worden.
+
+Von deinem Gürtel hängen verschiedene Ornamente – eine Metallhand, ein elektronisches Auge, eine ausgebrannte Energiezelle. Du hast das Gefühl, dass es sich dabei um Trophäen handelt – dass diese Person sich auf den Kampf gegen Konstrukte und Automatons spezialisiert hat und diese Ornamente mit Stolz trägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich wurde verbannt, weil ich einen direkten Befehl meiner Kommandantin verweigerte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich wurde verbannt. Ich weiß nicht, warum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>(Lüge) "Ich wurde verbannt, weil ich zu gut war. Meine Kommandantin fürchtete mich als Konkurrenz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich weiß nicht."</DefaultText>
+      <FemaleText>"Ich weiß nicht."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>(Lüge) "Ich bin hier, um mir die Sehenswürdigkeiten anzusehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Was ich hier tue, geht dich gar nichts an."</DefaultText>
+      <FemaleText>"Meine Angelegenheiten gehen dich nichts an."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ein seltsames Lächeln umspielt ihre Lippen. "Das du verbannt wurdest, ist offensichtlich an deinem abgerissenen Rangabzeichen. Überrascht mich, dass du die Uniform immer noch trägst. Was mich jedoch mehr interessiert, sind die Kurios an deinem Gürtel." Sie deutet auf die Trophäen, die du von besiegten Automatons gesammelt hast.
+
+Sie deutet dir, näherzukommen und flüstert dir ins Ohr: "Ich habe einen Job für jemanden wie dich. Du must mir helfen, mich in die Oase reinzuschmuggeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ihr Lachen klingt wie ein Arpeggio auf einer perfekt gestimmten Harfe. "Das ist keine besonders überzeugende Lüge, mein Hübscher." Sie winkt mit der Hand. "Entschuldige. Deine Vergangenheit geht mich nichts an."
+
+{SOUND: [B] Neme's laughter in unnatural discrete tones (again, like the Fifth Element Diva).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ihr Lachen klingt wie ein Arpeggio auf einer perfekt gestimmten Harfe."Natürlich nicht. Und ich vermute, du bist bestimmt unschuldig, egal, was man dir vorwirft." Sie winkt mit der Hand. "Entschuldige. Die Details deiner Vergangenheit gehen mich nichts an."
+
+{SOUND: [B] Neme's laughter in unnatural discrete tones (again, like the Fifth Element Diva).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Sie macht große Augen. "Was für eine faszinierende Geschichte! Du könntest genau der Mann sein, den ich suche. Ich brauche dringend Hilfe und mit deinem Hintergrund scheinst du genau der Richtige für die Aufgabe zu sein."
+
+Sie deutet dir, näherzukommen und flüstert dir ins Ohr: "Du must mir helfen, mich in die Oase reinzuschmuggeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Warum musst dich in die Oase *einschmuggeln*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Du bist wohl zum ersten Mal hier in M'ra Jolios. Klar, für eine Handvoll Shin kann ich auch einen Tag lang die Touristin spielen – und glaub mir, das tue ich, wann immer ich kann. Aber ich will – nein, ich muss – dort *dauerhaft* sein. In ihrem Wasser leben."
+
+Sie lässt die Schultern hängen. "Aber die Gibber lassen mich nicht einfach rein. Sie fürchten äußere Einflüsse auf ihre Kultur und schränken die Einreise streng ein. Sie patrouillieren die Grenzen und überwachen den Verkauf von Lufthaut-Armbändern in Jerboa. Um in die Oase reinzukommen, braucht man Beziehungen oder Geld. Ich hab weder das eine noch das andere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Warum musst du unbedingt in die Oasen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Sie lehnt sich zurück und faltet die Hände im Schoß. "Willst du meine ganze Geschichte hören? Nein, natürlich nicht. Also erzähl ich dir nur die bittersüße Kurzversion. Siehst du das hier?" Sie berührt das Metallband um ihren Hals. "Ich habe es vor einiger Zeit erworben, als ich noch in Sagusklippen lebte. Ich weiß nicht, was mich dazu bewogen hat, es zu tragen, aber ..."
+
+Sie lacht über ihre eigene Dummheit. "Ich hab es getan. Es gab mir die schönste Singstimme und, als kuriose Draufgabe, die Fähigkeit, unter Wasser zu atmen. Bald nannte man mich "Gezeitensängerin"."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Hast du einen Plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Wie war noch mal dein Plan?"</DefaultText>
+      <FemaleText>"Erläutert mir nochmal Euren Plan."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Sie klopft auf den Boden und wartet, bis du dich neben sie gesetzt hast. "Die Besuchergruppen sind unser Weg in die Oase hinein. Die Gibber-Wachen lassen alle durch, die einem Führer hinterherlaufen. Natürlich gibt es das *kleine* Problem, dass die Fremdenführer an dir kleben wie..." Sie sucht nach der richtigen Metapher und lässt schließlich eine Handvoll Sand durch ihre Finger rieseln. "Wie Staub."
+
+Sie hebt einen Finger. "*Außer* in der Menagerie. Das ist eine Art Unterwassermuseum, aber so überfüllt, dass die Fremdenführer am Eingang zurückbleiben. Wir betreten M'ra Jolios also mit einer Besuchergruppe, setzen uns in der Menagerie von der Gruppe ab und verstecken uns dort bis zum Einbruch der Dunkelheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Wir gehen als Touristen rein und warten, bis sie uns zur Menagerie bringen. Dort verstecken wir uns bis zum Einbruch der Dunkelheit. Dann erledigst du den Menagerie-Dämon und wir verschwinden in die Nacht." Sie sieht deinen Gesichtsausdruck. "Du kannst natürlich auch nach Jerboa zurückgehen, wenn du willst. Wer die Oase *verlässt*, ist ihnen egal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"In Ordnung, ich werde Euch helfen."</DefaultText>
+      <FemaleText>"In Ordnung, ich werde Euch helfen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Das klingt gefährlich. Was springt für mich dabei raus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Was springt noch mal für mich dabei raus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich dachte schon, du würdest nie fragen!" Sie rückt näher an dich ran. "Du wurdest aus der Endlosen Schlacht verstoßen, nicht wahr? Von der Seite der Ersten, hab ich recht?" 
+
+Sie lächelt angesichts deines verblüfften Gesichts. "Du würdest dich wundern, was man selbst in den Straßen von Jerboa so alles mitbekommt. Ich hab so einiges aufgeschnappt, darunter auch etwas äußerst Interessantes über deine Miliz, das das Risiko für dich auf jeden Fall wert sein wird."
+
+ Sie lehnt sich zurück und deutet auf deine zerlumpte Uniform. "Und außerdem: Was hast du zu verlieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Informationen", flüstert sie. Dann sagt sie lauter: "Und das befriedigende Gefühl, einer jungen Dame in Not geholfen zu haben. Was könnte wertvoller sein als das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Vergiss es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Nein. Es ist zu riskant. Damit verbrenne ich mir nicht die Finger. Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich kann dich auch bezahlen – nicht jetzt gleich natürlich, aber sobald ich mal drin bin. Bitte! Ich tue alles, was du willst, aber du musst mir einfach helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du gehst weiter und wendest ihrem Bitten und Flehen den Rücken zu.
+
+Die Zeit vergeht schneller, wie sie es im Traum manchmal tut. Am nächsten Tag hat sich in Jerboa außer den Schatten und Farben, die die Sonne wird, nichts geändert. Es kursieren jedoch Gerüchte von einem vereitelten Diebstahl in der Menagerie und von zwei Gefangenen – einer tot, einer im Gefängnis. Aber das sind nur Gerüchte.
+
+Dein Weg führt dich wieder an Nemes Straße vorbei. Sie ist nicht mehr da. Niemand weiß, wo sie ist. Kaum jemand hier? kennt überhaupt ihren Namen – schließlich interessiert es niemanden, wenn eine Bettlerin verschwindet. Sie könnte genauso gut niemals existiert haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Ihr Lächeln ist so strahlend wie ihre Stimme klar war. "Danke. Danke! Für jemanden wie dich ist das ein Kinderspiel, versprochen. Wir betreten die Oase als Touristen und verstecken uns in einem unbeobachteten Moment irgendwo in der Menagerie. Nachts wird die Menagerie von einem Automaton bewacht, aber ich denke, der wird für dich kein Problem sein."
+
+Sie lächelt. "Du wirst es nicht bereuen. Besorg dir, was du brauchst. Wir treffen uns in einer Stunde den Toren der Oase." Dann steht sie auf und schlurft davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die Tore der Oase sind nicht schwer zu finden. Alle Straßen laufen bei der Kuppel zusammen wie die Speichen an der Nabe eines Rads. Die Luft in der Nähe der Blase ist kühl und frisch. Aus der Nähe scheint das Wasser perfekt senkrecht hochzusteigen. Du reckst den Hals, um zu sehen, wo die Fontänen enden.
+
+Im Wasser schimmert ein Energienetz mit einer einzigen Öffnung, an der mehrere mit gezackten leuchtenden Speeren bewaffnete Ghibra alle Luftatmer, die die Oase betreten wollen, genau kontrollieren. Nur jene mit Armbändern und Fremdenführern dürfen passieren. Der Rest wird wieder weggeschickt.
+
+Plötzlich bindet dir Neme ein Lufthaut-Armband um das Handgelenk. Du spürst ein leichtes Kribbeln, sonst nichts. Sie deutet auf eine Gruppe Jerboaner neben einer lächelnden Ghibra. "Bereit? Gehen wir."
+
+{SOUND: [B] Increase the ambient crowd noise, but cut the beggars from it (if they were implemented).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die Oase ist anders, als du sie erwartet hättest. Es gibt keinen Schild, kein Kraftfeld, um das Wasser zurückzuhalten. Du betrittst die Oase wie du am Strand ins Meer gehen würdest.
+
+In der Oase führt die Fremdenführerin euch durch die gesamte weitläufige Stadt – über den versunkenen Markt, einen Unterwasserpark und den Regierungsplatz. Neme hatte recht: Sie lässt die Gruppe keine Sekunde aus den Augen. 
+
+Endlich kommt ihr zur Menagerie. Sie ist genauso überfüllt wie Neme gesagt hat, und vollgestopft mit Lebewesen und Kurios, als könnte sie sich nicht entscheiden, ob sie ein Museum oder ein Zoo sein will. Die Menagerie überwältigt beinahe die Sinne und du weißt nicht, wo du zuerst hinschauen sollst.
+
+"Denk dran", sagt Neme, während sie deinen Arm hält, "warum wir hier sind."
+
+{SOUND: [B] The crowd noise should still be ambient here (but without the beggars, if they were implemented). If possible, some effect should be played over it to show that it's underwater (not necessarily muffled, but some feeling that the sound is getting refracted through the water somehow).}
+{SOUND: [B] Add other ambient underwater noises.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Die Besucher beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Durch das Gebäude spazieren und ein passendes Versteck für euch suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Auf die richtige Gelegenheit warten und in der schattigen Spalte über dir verstecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Nachdem dir der seltsame Tourist in seiner Robe aufgefallen ist, beobachtest du die anderen Besucher noch genauer. Du fragst dich, ob sonst noch jemand hier an etwas anderem als an den Exponaten interessiert ist. Dir fällt niemand außer der Figur in der Robe auf – dafür etwas anderes: Keiner der Besucher, nicht mal der in der Robe, sieht je hoch. Die Ghibra verhalten sich in der Menagerie, als wäre sie mit Luft gefüllt und ihre Besucher von der Schwerkraft am Boden gehalten.
+
+Als du hochsiehst, fällt dir hoch oben eine im Schatten zwischen zwei Steinsäulen versteckte Spalte auf. Sie sieht gerade groß genug aus, damit zwei Personen sich darin verstecken könnten. Ihr müsst nur irgendwie unbemerkt dorthin gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Scharen von Besuchern schlendern durch die Gänge der Menagerie. Die überwältigende Mehrheit von ihnen sind Menschen, doch hier und da siehst du auch einige Ghibra und andere Wasseratmer dabei. Eine leichte Strömung leitet die Besucher von einem Ausstellungsstück zum nächsten – du spürst ihren Zug ebenfalls, auch wenn es kein Problem ist, ihr zu widerstehen.
+
+Einer der Besucher steht ein wenig abseits. Er ist in bunte Roben gehüllt und scheinbar mehr an den anderen Touristen interessiert als an der Menagerie. Sein Blick schweift ständig über die Menge, während er die Exponate links liegen lässt.
+
+Natürlich machst er nur dasselbe wie du – aber was ist *sein* Motiv dafür?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Die in Roben gehüllte Figur, die die anderen Besucher beobachtet, ansprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Erneut mit Iarmid sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Leuchtende Runen scheinen den Kopf dieses großen, schlanken Mannes zu umkreisen. Er trägt dunkle, fein bestickte Roben und einen kurzen Umhang, hauptsächlich in Blau und Lila gehalten. Er wirkt konzentriert, aber du kannst nicht sagen worauf. Als er dich bemerkt, hast du beinahe das Gefühl, als würde er jedes Detail deiner Erscheinung mental festhalten.
+
+Er wirft einen Blick auf Neme hinter dir. "Die Bettelnde und der Abgeworfene. Was wollt ihr von diesem hier wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Hallo, Sucher. Was willst du diesmal von diesem hier wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Mir ist aufgefallen, dass dich die Besucher mehr interessieren als die Exponate. Warum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Unsere Antwort auf diese Frage ist die gleiche wie deine, Sucher. Man will jene abschütteln, die einen beobachten." Er wirft einen Blick auf den Eingang, wo die Ghibra-Fremdenführer sich untereinander unterhalten, während die Touristen die Menagerie besichtigen.
+
+"Dieser hier ist Dämmerungswächter Iarmid, ein Auge der Bruderschaft der Chronik. Es ist unsere Aufgabe, Schlüsselmomente in der Geschichte zu beobachten und aufzuzeichnen. Wir glauben, dass ein solcher Moment kurz bevorsteht, doch dieser hier fürchtet, das Ereignis zu verpassen. Die Kuratoren dieses Ortes lassen einen niemals aus den Augen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Erzähl mir von der Bruderschaft der Chronik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Erzähl mir noch mal von der Bruderschaft der Chronik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Dieser hier hat es bereits erklärt, wird jedoch versuchen, es noch verständlicher auszuführen." Er nickt dir förmlich zu. "Es ist unsere Aufgabe, Schlüsselmomente in der Geschichte zu beobachten und aufzuzeichnen, wenn sie sich abspielen. Dieser hier ist ein Auge und ein Dämmerungswächter und seine Aufgabe ist es, tragische Ereignisse oder Personen mit finstereren Absichten zu beobachten. Das Auge sieht und gibt seine Beobachtungen über das Gehirn an die Hände weiter, welche das Geschehen für die Chronik der Bruderschaft schriftlich festhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Es ist unsere Aufgabe, Schlüsselmomente Momente in der Geschichte zu beobachten und aufzuzeichnen. Dieser hier hat die Aufgabe, tragische Ereignisse oder Personen mit finstereren Absichten zu beobachten und darüber zu berichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Welches Ereignis willst du hier miterleben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Von dem Ereignis selbst können wir nicht sprechen. Dieser hier soll nur beobachten, nicht eingreifen. Ich kann nur sagen, dass es tragisch ist – oder wahrscheinlich sein wird. Doch wie auch immer es ausgeht, es wird Wellen in der Geschichte schlagen."
+
+Er presst die Lippen zusammen. "Dieser hier *muss* das Ereignis beobachten, doch das Zeitfenster dafür schließt sich." Er schließt die Augen und neue Falten bilden sich in seinem Gesicht.
+
+Dann öffnet er unvermittelt die Augen wieder und sieht dich direkt an. "Ihr trachtet danach, euch bis zum Einbruch der Nacht zu verstecken. Dieser hier hat den gleichen Wunsch. Dieser hier kennt einen Weg, wie wir uns ohne großes Risiko verstecken können. Im Gegenzug für diese Information und eure Bereitschaft, euch mit diesem hier zu verstecken, erlaubt die Bruderschaft es diesem hier, eine einzige Frage zu beantworten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Wie kann man den Kummer stoppen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Neme sieht dich seltsam an. Offensichtlich versteht sie deine Frage nicht.
+
+Iarmid ist sprachlos. Er schließt nachdenklich die Augen. Als er sie wieder öffnet, sagt er: "Wir wissen vom Kummer, auch wenn er wesentlich älter ist als unsere Bruderschaft. Es befinden jedoch in unseren Aufzeichnungen jedoch keinerlei Hinweise darauf, wie man ein solches Wesen aufhalten könnte."
+
+Er verbeugt sich. "Wir entschuldigen uns dafür. Du darfst dafür noch etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Wie kann unser Vorhaben heute nacht gelingen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ihr müsst euch verstecken und dem Dämon entkommen. Der zweite Teil eurer Aufgabe ist der schwierigere." Er legt das Kinn auf die Brust und spricht so leise weiter, dass du dich vorbeugen musst, um ihn noch zu verstehen. "Der Dämon stellt die größte Gefahr für euch dar. Dieser hier rät euch, vor ihm davonzulaufen. Doch erst müsst ihr ihn daran hindern, euch zu verfolgen. Du hast die nötigen Fähigkeiten dafür. Wenn ihr so vorgeht, werdet ihr Erfolg haben."
+
+Er hebt den Kopf wieder. "Der Kodex des Ordens verbietet es diesem hier, euch beim zweiten Teil eurer Aufgabe behilflich zu sein. Dieser hier kann euch jedoch beim ersten Teil helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Wird die sogenannte Endlose Schlacht jemals enden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Alle Schlachten enden irgendwann, Soldat, selbst jene zwischen Unsterblichen. Die Bruderschaft der Chronik kann natürlich nicht vorhersehen, *wann* diese Schlacht enden wird – dafür sind zu viele Variablen im Spiel. Wir können dir jedoch sagen, dass die Ereignisse, die dieser hier heute Nacht beobachten wird, dazu beitragen könnten, dass die Schlacht eher früher als später endet – vielleicht sogar noch innerhalb der Lebenszeit von diesem hier."
+
+Er nickt. "Das ist nicht die Antwort, die du gesucht hast, aber es ist jene, die wir geben müssen. Dieser hier kann dir auch bei deiner gegenwärtigen Aufgabe behilflich sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Lebwohl fürs Erste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Lebwohl, Sucher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Der Tafel zufolge heißen diese Wesen Lorub. Sie sind beinahe doppelt so groß wie ein Mann und haben zwei Vorderflossen und ein schmales, mit scharfen Zähnen gespicktes Maul. Sie scheinen in einem seltsamen, dissonanten Brummen miteinander zu kommunizieren. Neme wirkt ganz hingerissen davon.
+
+Zwischen dir und ihnen muss eine Art unsichtbare Barriere sein, denn die Lorub bleiben den Besuchern fern. Etwa zwei Meter über deinem Kopf ist eine Luftblase. Einige Touristen schwimmen dort und werfen Futter hinein, das die Lorub gierig verschlingen.
+
+Das Habitat er Lorub erinnert an felsige Untiefen mit zahlreichen Löchern und Höhlen, in denen sie sich verstecken können.
+
+{SOUND: [A] The lorubs are singing an odd, dissonant tune, something like whalesong, but dissonant and alien. This is an ambient sound for this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Die gefährlich aussehenden Meereswesen genauer ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Die Lorub erneut genauer ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ja. Lass uns reingehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Noch nicht. Ich möchte mich noch ein wenig umsehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Du schwimmst von den Lorub weg und durchsuchst die Menagerie weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Die Luftblase über der Zelle des Lorub erstreckt sich über die gesamte Menagerie, bis ganz nach hinten. Neme und du schwimmen in eine abgelegene Ecke, wo weder Touristen noch Lorub sind, und als niemand hinschaut, schlüpft ihr über das unsichtbare Feld und in die Zelle der Wesen hinein.
+
+Die Lorub reagieren sofort auf euch. Mehrere von ihnen schwimmen mit gefletschten Zähnen auf euch zu. Neme beginnt sofort, ihr seltsames Brummen nachzuahmen. Die Tiere kommen näher, um euch genauer anzusehen, streichen mit ihren Flossen über euch und schwimmen wieder davon.
+
+Ihr bleibt in den Schatten und versteckt euch schließlich tief im Inneren eines hohlen Felsen. Nach ein oder zwei Stunden ist Iarmid plötzlich neben euch, ohne dass du ihn je kommen gesehen hättest.
+
+{SOUND: [A] Lorub song continues for this node.}
+{SOUND: [B] Neme sings along with the Lorubs as ambient sound for this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Um die Ecke siehst du den Dämon – ein Konstrukt voller Dornen und Klingen. Er scheint euch noch nicht gesehen zu haben, aber er weiß, dass ihr hier seid und blockiert den Ausgang.
+
+An deinem Unterarm trägst du eine Schiene, die eine Strahlenlanze verschießt, aber jetzt kommen dir Zweifel, ob das reichen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Versuchen, die Luke zu entriegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Noch mal versuchen, die Luke zu entriegeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Dieses Schloss ist komplexer als alles, was Menschen je gebaut haben, doch nach einigen Minuten Anstrengung hörst du endlich das befriedigende Klicken im Inneren der Tür. Der Riegel geht auf und du stößt die Tür auf. Neme und du tauchen in die überraschend warme Luft in der Zelle ein und du schließt die Luke hinter euch wieder.
+
+{SOUND: [A] Metallic bang, as of a metal hatch being forced open.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>An deinem Gürtel hängen einige behelfsmäßige Werkzeuge, doch das Schloss ist entweder von den Ghibra gebaut oder aus einer früheren Welt. Etwas derart Komplexes hast du noch nie gesehen. Du probierst einige Minuten herum, aber ohne Erfolg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Während Neme Schmiere steht, versuchst du einige Minuten lang erneut, das Schloss zu öffnen. Wieder ohne Erfolg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Die Menagerie ist viel größer, als es vom Eingang aus gewirkt hat. Überall bis ganz an die hintere Wand gibt es kleinere Kurios und Zellen, darunter sogar eine Zelle, die laut Infotafel einst als Gefängnis für Luftatmer diente, welche die heiligsten Gesetze von M'ra Jolios gebrochen haben.
+
+Die Zelle ist mit Luft gefüllt, leer und dunkel. Sie wäre das perfekte Versteck – wenn ihr reinkommen könntet? In einem dunklen hinteren Gang gibt es eine Luke, die in die Zelle führt, doch sie ist aus dickem und schwerem Synthstahl. Du wirst den Riegel aufbrechen müssen, wenn du in diese Zelle willst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Du deutest auf die Spalte und Neme versteht sofort. Sie nickt. "Warte hier." 
+
+Sie schwimmt in einen der hinteren Gänge. Du kannst sie nicht mehr sehen, aber kurz darauf erfüllt langsamer, engelsgleicher Gesang die Menagerie. Die Touristen spitzen die Ohren und bald sind alle entweder in die Richtung davongeschwommen, aus der die Klänge kamen, oder haben sich zumindest dorthin umgedreht. Du nutzt die Gelegenheit, um hochzuschwimmen und dich in der Spalte zu verstecken.
+
+Neme beendet ihr Lied und bedankt sich bei ihrem Publikum. Sie schlendert noch zwei oder drei Stunden durch die Menagerie, bevor sich die Gelegenheit ergibt, dass sie unbemerkt zu dir raufschwimmen kann. 
+
+{SOUND: [A] Neme singing her song (the same song she sings in the opening of the Mere.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Diese Wesen werden in einer Zelle aus Luft gehalten. Der Boden ist schwarz wie Obsidian und hier und da mit glühend roten Knötchen durchzogen. Die Luft in der Zelle flimmert wie an einem heißen Sommertag, doch dort, wo du stehst, spürst du keine Wärme.
+
+Eine Tafel informiert darüber, dass diese Wesen gemeinhin Feuerwichte oder Flammenseelen genannt werden, obwohl sie weder aus Feuer sind noch eine Seele haben. Die Aeon-Priester nennen sie Nakale. Laut der Infotafel ernähren sie sich von Wasser und der Lebenskraft anderer Lebewesen. In ihrer natürlichen Umgebung können sie Magma kontrollieren und unglaubliche Gebilde daraus formen. Die Tafel sagt, dass sie Temperaturen wahrnehmen, kein Licht und die Besucher daher für sie so gut wie unsichtbar sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Du bist sicher, dass sie dich beobachten – egal was die Tafel sagt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Es ist aus verschiedenen konzentrischen Kreisen aufgebautes Amulett. Am äußersten Kreis ist eine dicke Schnur angebracht, die jedoch nicht mit den anderen Ringen verbunden scheint. Die Kreise scheinen einfach jeweils im Zentrum des nächstgrößeren zu schweben.
+
+Eine Tafel auf dem Podest informiert darüber, dass es sich hierbei den Talisman von Scorgil handelt. Legenden besagen, er hätte einst dem sagenumwobenen Baji gehört, der von den Ghibra als Prophet von Ny'kul und von einigen Jerboanern als Gott verehrt wurde. Die wahre Herkunft des Talismans ist unbekannt, aber viele Jahrhunderte lang war er im Besitz der Giash – des regierenden Rates der Oase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Die Rüstung des Konstrukts ist schartig und voller Schrammen und Metalldornen, die in alle Richtungen wegstehen. Anstelle von Armen hat es tödliche Klingen mit glänzend geschliffenen Kanten. Es scheint inaktiv zu sein und weder von dir noch vom sonstigen Treiben in der Menagerie Notiz zu nehmen.
+
+Als du es ansiehst, steigt starke Abscheu in dir hoch. Dabei handelt es sich nicht um deine eigenen Gefühle, sondern um eine instinktive Reaktion der Person, in deren Körper du bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Den Dämon mit der Strahlenlanze angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Den Dämon erneut angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Versuchen, den Dämon mit deinem Schwert lahmzulegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Erneut versuchen, den Dämon lahmzulegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Versuchen, den Dämon mit der Strahlenlanze zu blenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Erneut versuchen, den Dämon zu blenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Versuchen, an ihm vorbeizulaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Erneut versuchen, an ihm vorbeizulaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Auch wenn du selbst nie gelernt hast, wie man einen Automaton im Kampf besiegt, weiß dieser Körper genau, was er tut. Du gehst näher an den Dämon ran und täuscht einen Schlag gegen seinen Kopf an. Als er blockt, um diese kritische Stelle zu schützen, rammst du ihm stattdessen deine Klinge in die Seite und durchtrennst systemkritische Kabel und Aktoren.
+
+Der Dämon macht ein gurgelndes Geräusch – möglicherweise verflucht er dich. Sein Körper zuckt und zittert unkontrolliert. Er ist nicht tot, aber er wird kaum mehr zurückschlagen können.
+
+{SOUND: [A] Blade slicing.}
+{SOUND: [A] Metal demon making wounded grunt.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Du zielst mit der Strahlenlanze auf die verwundbaren optischen Nerven. Durch Ausatmen und Ballen der Faust löst du den Strahl aus.
+
+Er trifft den Dämon mitten im Gesicht. Sein Kopf wird zurückgeworfen. Als er den Kopf wieder aufrichtet, ist sein Gesicht verschmort und das Licht in seinen Augen geht aus.
+
+"Denkst du etwa, ich muss dich *sehen*, um dich zu töten? Komm her!"
+
+{SOUND: [A] Beam weapon firing.}
+{SOUND: [A] Metal demon making wounded grunt.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Du zielst und schießt dem Dämon in die Schulter. Er taumelt zurück. Funken und Teile fliegen in alle Richtungen und treiben dann im Wasser um das Konstrukt. Du hast ihn verwundet – aber nicht genug, um ihn aufzuhalten.
+
+{SOUND: [A] Beam weapon firing.}
+{SOUND: [A] Metal construct getting hit, making wounded grunt.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Du schießt ihm in die Hüfte. Er kippt vornüber und noch mehr glänzende Metallteile treiben im dunklen Wasser davon. Als er sich wieder aufrichtet, siehst du ein klaffendes Loch in seiner Rüstung. Wenn du Glück hast, kannst du ihn mit einem weiteren Schuss erledigen.
+
+{SOUND: [A] Beam weapon firing.}
+{SOUND: [A] Metal construct getting hit, making wounded grunt.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Du zielst sorgfältig und gibst einen weiteren Schuss ab, diesmal in den Bauch des Konstrukts. Der Strahl explodiert in einer Welle aus Licht und Hitze und schneidet in den Körper des Dämons – und dann durch ihn hindurch. Der Dämon wird durch das Wasser nach hinten geworfen und kracht in die Wand hinter ihm. Das Licht in seinen Augen erlischt und er verstummt.
+
+{SOUND: [A] Beam weapon firing.}
+{SOUND: [A] Metal construct getting hit, making dying shriek.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Bevor du reagieren kannst, feuert der Dämon einen Energiestrahl ab und das Wasser um dich herum brennt plötzlich wie Feuer. Du schreist vor Schmerzen und dir wird schwarz vor Augen. Als sich der Schleier vor deinen Augen lichtet, siehst du Neme immer noch neben dir. Sie atmet heftig durch ihr Luthaut-Armband. Noch so einen Treffer überlebt sie wohl kaum. Selbst du würdest das nur mehr kurze Zeit überleben.
+
+{SOUND: [A] Beam weapon firing.}
+{SOUND: [A] Man screaming.}
+{SOUND: [A] Woman screaming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Der Dämon schießt durch das Wasser auf euch zu. Seine Klingen glänzen bedrohlich. Ihr versucht, ihm auszuweichen, aber er ist zu schnell. Sein Klingenwirbel zerschneidet deinen Rücken und schlitzt Nemes Kehle durch ihr Metallhalsband hindurch auf. Zwei rote Blutwolken steigen neben euren Körpern im Wasser hoch.
+
+Neme ist tot und dein Leben hängt am seidenen Faden.
+
+{SOUND: [A] Blade slicing.}
+{SOUND: [A] Man screaming.}
+{SOUND: [A] Woman screaming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Der Dämon feuert einen weiteren Schuss ab. Du stößt dich von einer Wand los, deren Stein sich bei dem Treffer in Schlacke verwandelt. Plötzlich ist der Dämon direkt vor dir. Du versuchst, seinem Klingenwirbel auszuweichen, aber du bist zu schwach dafür. Als die Klinge durch deinen Schädel schneidet, wird dir klar, dass der Dämon erwartet hat, dass du seinem ersten Schuss ausweichen würdest.
+
+Die Menagerie wird schwarz. Der Schmerz hält an, viel zu lange. Schließlich kommt ein neuer Schmerz hinzu – ein Ziehen in deinen Gedärmen, das dich unsanft in deinen eigenen Körper zurückholt.
+
+{SOUND: [A] Beam weapon firing.}
+{SOUND: [A] Man screaming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Nachdem der Dämon zerstört ist, ist der Weg zum Ausgang frei. Du schwimmst hinaus in die kühle, feuchte Nacht.
+
+{SOUND: Any ambient underwater noises that sounded like they were inside should stop here. The player is going outside. (The noises might become much quieter instead of outright stopping).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Die Sterne und der Vollmond leuchten über der Kuppel der Oase über euren Köpfen. In der Ferne erheben sich dunkle Berge am Rande des Tals. Unter euch liegt wie ein großer schwarzer Fleck M'ra Jolios.
+
+Neme reißt das Armband herunter und saugt das Wasser auf. "Danke", sagt sie. Ohne die Lufthaut klingt ihre Stimme sogar noch klarer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Schätze, Iarmid hat es nicht geschafft. Sie wirft einen Blick zurück über ihre Schulter, doch die in Roben gehüllten Figur ist nicht mit euch entkommen. "Vielleicht beobachtet er ja gerade sein "Ereignis"."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Sie zuckt verlegen mit den Schultern. "Das ist alles, was ich dir geben kann. Tut mir leid. Vielleicht kann es dir irgendwie nützlich sein." Sie gibt dir einen schnellen Kuss auf die Wange. Dann schwimmt sie in die Dunkelheit davon.
+
+Du schwimmst alleine zurück an die Oberfläche. Dabei bemerkst du zwei dunkle Gestalten im Wasser über dir. Für einen Moment scheint der Mond auf sie und du siehst flüchtig zwei Tätowierungen von Abgeworfenen und ein künstliches Auge. Mazzof? Die Gestalten verschwinden in der Menagerie.
+
+Du überlegst kurz, ihnen zu folgen, doch da spürst du bereits ein schmerzhaftes Ziehen in deinen Gedärmen. Innerhalb von Sekunden ist M'ra Jolios vor deinen Augen verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Du schlägst brüllend deine Klinge gegen die Steinmauer. Der Dämon schluckt den Köder und schwimmt in die Richtung, aus der der Lärm kommt, aber als er dort ankommt, bist du bereits an ihm vorbei und hinaus in die Nacht entkommen. Der Dämon hat das entweder nicht bemerkt oder beschlossen, dir nicht zu folgen. In jedem Fall bist du frei.
+
+{SOUND: [B] Shout. Blade striking stone.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Du zielst auf eine Seite des Dämons. Es klappt! Der Dämon weicht dem Schuss aus und öffnet damit eine Lücke zwischen dir und dem Ausgang.
+
+Du schwimmst sofort los. Der Dämon versucht, dir den Weg abzuschneiden, aber sein Körper reagiert nicht mehr so schnell wie zuvor. Du schwimmst an ihm vorbei in die Nacht hinaus. Er flucht, doch er verfolgt dich nicht. Vielleicht kann er es nicht.
+
+{SOUND: [A] Beam weapon firing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Die Sterne und der Vollmond leuchten über der Kuppel der Oase über deinem Kopf. In der Ferne erheben sich dunkle Berge am Rande des Tals. Unter dir liegt wie ein großer schwarzer Fleck M'ra Jolios.
+
+Leider war Neme dieser Anblick nicht vergönnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Iarmid scheint ebenfalls verschwunden zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Als du zurück an die Oberfläche schwimmst, bemerkst du zwei dunkle Gestalten im Wasser über dir. Für einen Moment scheint der Mond auf sie und du siehst flüchtig zwei Tätowierungen von Abgeworfenen und ein künstliches Auge. Mazzof? Die Gestalten verschwinden in der Menagerie.
+
+Du überlegst kurz, ihnen zu folgen, doch da spürst du bereits ein schmerzhaftes Ziehen in deinen Gedärmen. Innerhalb von Sekunden ist M'ra Jolios vor deinen Augen verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Gut. Wir können zusammenarbeiten, wenn du mir eine Frage beantworten kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ich würde nun gerne eine Frage stellen, und dafür hilfst du uns, uns zu verstecken."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Wie lautet deine Frage?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Sprechen wir über etwas anderes."</DefaultText>
+      <FemaleText>"Reden wir über etwas anderes."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Wie du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Der Dämon schießt, mit ausgestreckten Klingen auf dich zu, doch ohne seine optischen Sensoren kannst du ihm leicht ausweichen.
+
+{SOUND: [A] Blade slicing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Der Dämon zielt und feuert seine Waffe ab, doch in letzter Sekunde zittert sein Arm und der Schuss verfehlt sein Ziel.
+
+{SOUND: [A] Beam weapon firing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Du zielst mit deiner Lanze zur Linken des Dämons. Es klappt! Der Dämon weicht dem Schuss aus und öffnet so eine Lücke zwischen dir und dem Ausgang.
+
+Du schwimmst sofort los, doch bevor du weit kommst, taucht der Dämon wieder vor dir auf und lacht metallisch.
+
+{SOUND: [A] Beam weapon firing.}
+{SOUND: [B] Metal demon laughing cruelly.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Die gefangenen Feuerwesen genauer ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Die Nakale genauer ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Das Amulett auf dem Podest in der Mitte der Eingangshalle untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Den Talisman von Scorgil noch mal untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Das Konstrukt bei der Tür untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Den Menagerie-Dämon erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Versuchen, die Luke aufzubrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Erneut versuchen, die Luke aufzubrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ich beobachte, Sucher. Wenn du meinen Rat befolgst, werde ich mich dir anschließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Wo ist die Erste Abgeworfene?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Er schließt gedankenverloren die Augen. Dann sagt er: "Ihr Name ist Maralel, die Eine, von der man annimmt, dass sie die Erste war und nicht mehr ist. Beides ist falsch. Sie hat ihren Tod vorgetäuscht, um sich vor eurem Erzeuger zu verbergen. Selbst der Wandelnde Gott weiß nicht, dass sie noch am Leben ist, und wenn es nach ihr geht, soll es auch so bleiben, bis es zu spät ist." 
+
+Er öffnet die Augen wieder. "Wir bedauern, aber ihr derzeitiger Aufenthaltsort ist uns nicht bekannt. Wir hoffen, dass diese Informationen ausreichend sind für dich. Dieser hier kann dir außerdem bei deinem Unterfangen hier behilflich sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Welches Ereignis sollst du hier speziell beobachten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Iarmid zieht eine Augenbraue hoch. "Eine kluge Frage. Es ist uns gestattet, ausschließlich für diesen Zweck einige Informationen weiterzugeben. Wir müssen jedoch darauf bestehen, dass ihr diese Informationen *nicht* nutzt, um einzugreifen."
+
+Sein Blick wandert von dir zu einem Punkt hinter deiner Schulter. "Zwei von deinesgleichen planen, den Talisman von Scorgil zu stehlen. Es ist nicht bekannt, ob sie Erfolg haben und was aus ihnen wird, doch wir denken, dass dieses Ereignis nur tragische Folgen haben kann. Darum ist dieser Dämmerungswächter hier, um es zu beobachten. Die Art dieser Tragödie und ihre Auswirkungen auf die Zukunft müssen aufgezeichnet werden."
+
+Er sieht dich wieder an. "Wir bedauern, dass wir nicht mehr darüber sagen können. Dieser hier kann dir jedoch bei deinem Unterfangen hier behilflich sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Wird Neme in der Oase bleiben können?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Plötzlich wird sein Blick sanfter. "Ich kann nicht vorhersagen, ob ihr heute Nacht Erfolg haben werdet – das hängt von *deinen* Entscheidungen ab – doch wenn Neme diese Nacht überlebt, ist es sehr wahrscheinlich, dass sie hier eine neue Heimat findet. Ihr Plan ist klug und die Ghibra wird es kaum kümmern, wenn sie erst mal hier ist."
+
+Die alte Eindringlichkeit kehrt in sein Gesicht zurück. "Dieser hier hat Informationen über eure aktuelle Aufgabe, die zum Gelingen eures Plans beitragen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Er deutet mit dem Kinn auf den Tank mit den gefährlich aussehenden Wesen. "Die Lorub-Zelle ist groß und bietet mehrere Plätze, wo wir uns bis zum Einbruch der Dunkelheit verstecken könnten. Leider werden die Lorub jedoch jeden Luftatmer, der es wagt, ihr Habitat zu betreten, sofort töten."
+
+Er nickt Neme zu. "Du hast jedoch eine ganz besondere Gabe. Mithilfe deines Numenera kannst du jeden Ton und jeden Klang nachmachen. Hör den Lorub gut zu. Wenn du ihren Gesang nachmachen kannst, werden sie euch in Ruhe lassen. Wenn du ihr euch in der Lorub-Zelle versteckt, wird dieser hier einen Weg finden, um zu euch zu stoßen."
+
+Er hält sich die Hand ans Gesicht und macht eine seltsame Geste mit seinen Fingern. "Dieser hier ist für jede Hilfe dankbar, die ihr ihm geben könnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Du zielst mit der Lanze auf seinen Kopf und schießt. Der Strahl streift das Gesicht des Dämons und richtet einigen Schaden an, blendet ihn jedoch nicht.
+
+Er dreht den Kopf wieder zu dir und grinst grausam. "Ich wurde für das hier *gemacht*. Konstruiert, um dich zu töten. Du hast keine Chance, das zu überleben."
+
+{SOUND: [A] Beam weapon firing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Du zielst und schießt erneut. Diesmal triffst du ihn mitten in der Brust, richtest gegen die starke Panzerung aber keinen wirklichen Schaden an.
+
+{SOUND: [A] Beam weapon firing.}
+{SOUND: [A] Metal demon making wounded grunt.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Du schwimmst näher ran und durchtrennst kritische Systemkomponenten an der Seite des Dämons. Gerade als du denkst, du hast es geschafft, lenkt einer seiner klingenbewehrten Arme deinen Schlag jedoch ab. Er ist beschädigt, aber nicht besiegt.
+
+"Ich habe den Tabaht zu ihren Glanzzeiten gedient. Ich habe Völker gejagt, von denen ihr noch nie gehört hat. Denkst du wirklich, ich würde mich so einfach von jemandem wie *dir* besiegen lassen?"
+
+{SOUND: [A] Blade slicing.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Er schlägt deine Klinge weg und aus seinem metallischen Inneren kommt ein kaltes, kehliges Lachen.
+
+{SOUND: [A] Blade slicing.}
+{SOUND: [B] Metal demon laughing cruelly.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Um die Ecke siehst du den Dämon, ein Konstrukt aus Dornen und Klingen. Neme, Iarmid und du sind zu viele, um euch zu verstecken, und der Dämon bemerkt euch sofort. Bevor du reagieren kannst, feuert er einen Energiestrahl ab und das Wasser um dich herum brennt plötzlich wie Feuer.
+
+Als sich der Schleier vor deinen Augen verzieht, siehst du Neme immer noch neben dir. Sie atmet heftig durch ihr Luthaut-Armband. Noch so einen Treffer überlebt sie wohl nicht. Selbst du würdest das nur mehr kurze Zeit überleben.
+
+An deinem Unterarm hast du eine Schiene, die eine Strahlenlanze verschießt, aber nun kommen dir Zweifel, ob das ausreichen wird.
+
+{SOUND: [A] Beam weapon firing.}
+{SOUND: [A] Man screaming.}
+{SOUND: [A] Woman screaming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Aber jede Gabe kommt mit einem Preis, nicht wahr?" Sie sieht wehmütig zu der blauen Kuppel. "Bei mir ist es ein überwältigendes Verlangen danach, in Wasser einzutauchen. Ich *brauche* es. Ich *verzehre* mich danach." Sie ballt die Fäuste zusammen, bis Fingerknöchel weiß werden.
+
+Mit einem Seufzen öffnet sie die Hände wieder. "Ich kam in der Hoffnung hierher, dass ich in der Oase leben kann, doch ihre Gesetze sind streng, was Einwanderung betrifft. Jetzt singe ich hier in Jerboa für Geld und wann immer ich genug Geld beisammen hab, verbringe ich einen Tag in M'ra Jolios. Aber das reicht nicht. Ich brauche *mehr*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Allerdings", sagt sie hoffnungsvoll und beugt sich zu dir vor, "*ist* es möglich, wenn man ihren Patrouillen entwischen und ohne Armband unter Wasser atmen kann. So wie ich. Ein Gibber-Freund von mir sagt, es ist für sie den Aufwand nicht wert, jeden illegalen Luftatmer herauszufischen, der durch ihr Netz schlüpft. Ich muss also nur durch das Netz kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Ihre Miene verfinstert sich. "Das ist das Problem. Die Menagerie wird von einem Dämon bewacht – einem Automaton aus einer früheren Welt."
+
+Sie gibt einem von deiner Jacke hängenden Konstruktauge einen verspielten Klaps. "Aber ich denke, du weißt, wie man mit Konstrukten fertig wird, nicht wahr? Mit deinen Fähigkeiten sollten wir ohne Probleme an dem Dämon vorbeikommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Ihr Lächeln ist so strahlend wie ihre Stimme klar war. "Danke. Danke! Für jemanden wie dich wird das ein Kinderspiel, versprochen. Besorg dir, was du brauchst. Wir treffen uns in einer Stunde bei den Toren der Oase."
+
+Dann steht sie auf und schwebt förmlich davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Woher kennst du uns?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Geschichte und Beobachtung können uns eine Menge lehren. Sie hier", er nickt Neme zu, "ist eine Bettlerin, die M'ra Jolios in weniger als zwei Jahren wenigstens siebenundachtzig Mal besucht hat. Du bist eine abgeworfene Hülle desjenigen, der sich der Wandelnde Gott nennt. Dich verrät deine Markierung, sie ihr Verhalten. Es läuft auf dasselbe heraus."
+
+Er schließt für einen Moment gedankenversunken die Augen. Als er sie wieder öffnet, sagt er: "Ja. Wir können auch deinen Zweck erahnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Neme wurde mit jedem Wort sichtlich immer verängstigter. Sie zischt: "Hast du das wem erzählt? Warum tust du das?"
+
+Der Mann sieht auf sie herab. Sein eindringlicher Blick wird nur geringfügig milder. "Von diesem hier habt ihr nichts zu befürchten. Er wird eure Geheimnisse nicht verraten. Tatsächlich könnten wir sogar ein Stück eures Weges gemeinsam gehen. Wir werden sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Warum sollte ich dich etwas fragen wollen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Die Bruderschaft verfügt über umfassende Aufzeichnungen. Wir können jede Frage beantworten, über die Daten vorliegen, und kurzfristig sogar den Verlauf von Ereignissen voraussagen. Die Antworten der Bruderschaft können sehr wertvoll sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Du musst keine Fragen beantworten. Wir können auch so zusammenarbeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Er verbeugt sich tief. "Dieser hier weiß deine Hilfe und Freimütigkeit zu schätzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Uns zu verstecken ist bereits zu zweit riskant. Zu dritt findet uns der Dämon doch noch leichter, oder nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Vielleicht." Er nickt zustimmend. "Das muss man natürlich berücksichtigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Das Feld, das die Lorub von den Besuchern trennt, muss unter der Luftblase da oben aufhören, denn die Besucher greifen durch, um das Futter hineinzuwerfen. Es wäre ein Leichtes, dort in die Zelle zu schlüpfen, wenn gerade niemand hinschaut. Allerdings würden dich die Lorub vermutlich in Stücke reißen.
+
+{SOUND: [A] Continue Lorub song for this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Neme hört ihrem Gesang aufmerksam zu und summt ihn dann versuchsweise nach. Die Lorub reagieren sofort darauf, schwimmen auf sie zu und dann friedlich wieder weg. Sie lacht. "Iarmid hatte recht!" sagt sie. "Ich denke, das wird funktionieren. Wollen wir es tun?"
+
+{SOUND: [A] Continue Lorub song for this node.}
+{SOUND: [B] Neme experimentally trying to match the Lorub's song.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Hast du es dir anders überlegt? Sollen wir es machen?"
+
+{SOUND: [A] Continue Lorub song for this node.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Ein fester Tritt an der rechten Stelle und die Verriegelung geht auf. Neme und du tauchen in die überraschend warme Luft in der Zelle ein und du schließt die Luke hinter euch wieder.
+
+{SOUND: [A] Metallic bang, as of a metal hatch being forced open.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Sie aufbrechen ist die eine Sache – dabei keine Aufmerksamkeit zu erregen, ist noch mal etwas anderes. Du versuchst, immer dann gegen die Luke zu treten, wenn der Lärm der Besucher besonders laut ist, doch auch nach ein paar Versuchen hält der Riegel fest wie eh und je.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Du trittst noch ein paar Mal dagegen, doch der Riegel hält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Dann geht es nur noch darum, bis zum Einbruch der Nacht zu warten. Besucher und Fremdenführer verlassen die Menagerie. Die Führer scheinen keinen Überblick darüber zu haben, wen sie hergebracht haben, und begleiten einfach alle hinaus, die gehen wollen. Die übrigen werden bei Sonnenuntergang hinausgebracht.
+
+Die Menagerie ist leer und dunkel. Durch die durchsichtigen Steine in der Decke fällt kein Sonnenlicht mehr herein. Nur einige Fische und Steine leuchten noch in der Dunkelheit.
+
+Ihr kommt so leise wie möglich aus eurem Versteck hervor. Doch kaum seid ihr im Hauptgang, ertönt eine metallische Stimme aus der Richtung des Vordereingangs. "Habt ihr gedacht, ich würde nicht sehen? Nicht wissen? Ihr werdet heute Nacht hier sterben."
+
+{SOUND: The Menagerie is empty and eerir. End ambient crowd noise. Any ambient underwater noises can continue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Sie legt eine Hand auf deine Wange und flüstert dir zu: "Ich schulde dir was – mehr, als du denkst. Ich kann dir nicht viel geben, aber ich weiß etwas, das dir helfen könnte: Deine Kommandantin, Paj Rekken, ist nicht, was sie zu sein scheint. Es gibt jemand *anderen*, der im Hintergrund die Fäden zieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Du erkennst den Talisman wieder als das seltsame Artefakt aus deiner ersten Erinnerung, tief, *tief* in deinem Geist vergraben. Der Wandelnde Gott hat ihn einst für etwas benötigt – vielleicht gar, um die Resonanzkammer fertigzustellen. All das scheint jetzt jedoch irrelevant.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

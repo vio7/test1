@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\x_labyrinth\escape_the_fathom</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Entkomme aus dem Klafter</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Baue ein Weg nach oben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Den Geist Gefunden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde die geisterhafte Stimme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich bin aus einer großen Höhe gefallen. Ich weiß nicht, warum ich noch am Leben bin, aber ich muss einen Weg hier heraus finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich habe eine spektrale Stimme aus einem der Winkel dieses Ortes gehört. Sie hat mir gesagt, dass ich einen Pfad dorthin erschaffen soll, von wo sie ertönt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Stimme, die ich gehört habe, gehört zu einem spektralen Abbild, dass behauptet, mir dabei helfen zu wollen, in die echte Welt zurückzukehren und meinen Verstand vollständig zu heilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich bin mit meinen Erinnerungen aus dem Klafter entkommen. Jetzt muss ich den Besitzer der spektralen Stimme finden, die mich durch ihn geleitet hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe eine Erinnerung durchlebt, die in einer Art von Unterwasser-Gewölbe stattfand. Ich kann spüren, wie meine Entscheidungen mich formen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe eine Erinnerung durchlebt, in der eine Frau und ein Konstrukt durch ein üppiges grünes Tal wandern. Ich fühle mich stärker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe eine Erinnerung von einer großen Schlacht durchlebt, und darin einen Pfad zu einem seltsamen Spiegel errichtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

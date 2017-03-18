@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_coty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>74</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Coty steht am Rande des wirbelnden Teiches und starrt in die schwülstigen Tiefen. Der Geruch scheint ihn nicht zu stören. Es ist, als wäre er in einer Art Trance ... oder einfach nicht ganz da. Er scheint dich nicht zu bemerken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was schaust du dir an, Coty?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Dich leise von Coty entfernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Langsam und zögernd wendet Coty seinen Blick vom Teich ab. Auch wenn seine Augen dich ansehen, scheint er dich doch nicht zu sehen. Seine Stimme ist träge und eintönig, wie das Wasser – der Klang von Verzweiflung und Qual.
+
+"Sie ist da drin ... sie ... ertrinkt ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Seine Augen konzentrieren sich auf dein Gesicht, strengen sich an, und Schrecken keimt in ihnen auf. "Du musst sie retten! Du musst sie retten! Sie kann nicht schwimmen!"
+
+Er versucht, dich in Richtung des Teiches zu zerren. "Bitte, rette sie!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Dich aus seinem Griff lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du kannst dich aus seinem Griff lösen und zurückweichen, bevor er dich ein weiteres Mal greifen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Er wirft dich über den Rand des Teichs. Er ist viel stärker, als du erwartet hattest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Cotys Aufmerksamkeit richtet sich wieder auf den Teich. Die Dringlichkeit in seiner Stimme verwandelt sich zu Machtlosigkeit. "Rette sie. Sie ... Sie ist im Teich." 
+
+Nach einem kurzen Moment kehrt er zu seiner ursprünglichen Position und Pose zurück. Es ist fast so, als würde er ein Gemälde nachstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du gewinnst dein Gleichgewicht zurück und versuchst, nicht in die schmutzige Flüssigkeit zu stürzen. Aber gerade, als du wieder Boden unter den Füßen hast, taucht eine kleine Hand aus der wirbelnden Flüssigkeit auf. Sie legt sich um deinen Knöchel, und die Rückstände an Flor-Flüssigkeit, die an ihr hängen, brennen sich in dein Fleisch.
+
+Cotys Gesicht ist so nah an deinem, dass es es fast berühren. Durch zusammengebissene Zähne zischt er: "Sie *ertrinkt*. Rette sie." 
+
+Er lässt von dir ab und schubst dich. Fest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Dich gegen Coty wehren und vom Teich entfernen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du schlägst seine Hand weg und weichst zur Seite aus. Seine Versuche, dich in den Teich zu stoßen, gehen ins Leere.
+
+Anstatt dich zu verfolgen, starrt er seine leeren Hände an, als würde er dich an ihrem Ende erwarten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Seine Stärke überrascht dich immer wieder. Sein Griff legt sich unerbittlich und präzise um dich. Mit unerwarteter Leichtigkeit führt er dich in den Teich. Du schließt deine Augen und holst tief Luft, bevor du in die stechende, trübe Flüssigkeit gezogen wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du hast allerdings immer noch die Kontrolle über die Situation. Du stößt dich zur Oberfläche ab und bereitest dich darauf vor, zum Rand des Teichs zu schwimmen. In diesem Moment spürst du, wie Arme sich um deine Beine legen und wie ein enormes Gewicht dich nach unten zieht. 
+
+Unter den verschmutzten Wassern des Teichs kannst du die schwache Silhoutte eines geisterhaften Mädchens erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du wirbelst im Wasser herum und es gelingt dir, dich zu befreien. Als du dich aus der abscheulichen Flüssigkeit befreist, siehst du, wie das Mädchen von den wirbelnden Wassern nach unten gezogen wird, und Coty schreit in Qualen auf. Während du versuchst, dich aufzurichten, scheint Coty nach und nach zu verschwinden. Schließlich bleibt nichts mehr von ihm übrig. Alles, was bleibt, ist ein vergängliches Echo von Verlust und Schmerz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du trittst und schlägst um dich, aber ihr Griff scheint sich nicht lösen zu lassen. Du versuchst, dich an die Oberfläche zu kämpfen, und schnappst nach Luft, aber sie bemüht sich, dich mit ihr in den Tod zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du versuchst mit aller Macht, dich freizukämpfen, aber ihr Griff lässt sich nicht lösen. Sie zieht dich nach unten, und die Flüssigkeit der Flor füllt bald deinen Mund. Ein Schluck davon genügt, um deinen Widerstandswillen vollständig zu brechen. Während die ätzende Flüssigkeit dein Gewebe zersetzt, legt sich der Griff des Mädchens fester um dich. Das letzte, was du wahrnimmst, ist das geballte Leid der Opfer der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du wirbelst herum und versuchst, dich freizukämpfen. Auch, wenn es scheint, als würde sich das Mädchen dir widersetzen, kannst du dich an den Rand des Teiches vorkämpfen. Sie hält sich an deinen Beinen fest, und als du sie aus dem Teich ziehst, wird sie mitgezogen.
+
+Ihre Ähnlichkeit zu Coty ist unverkennbar. Sie lächelt dich dankbar an, und dieses Lächeln bleibt dir im Gedächtnis, während der Rest von ihr verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die schleimige Flüssigkeit macht es schwierig, das Mädchen zu greifen. Gerade, als du glaubst, sie von deinen Beinen gelöst und fest im Griff zu haben, entgleitet sie dir. Immerhin bist du nicht ertrunken ... noch nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du versuchst mit aller Macht, dich freizukämpfen, aber ihr Griff lässt sich nicht lösen. Sie zieht dich nach unten, und die Flüssigkeit der Flor füllt bald deinen Mund. Ein Schluck davon genügt, um deinen Widerstandswillen vollständig zu brechen. Während die ätzende Flüssigkeit dein Gewebe zersetzt, legt sich der Griff des Mädchens fester um dich. Das letzte, was du wahrnimmst, ist das geballte Leid der Opfer der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Coty hilft dir auf die Beine. Er sieht dir in die Augen und umarmt dich herzlich.
+
+Dann löst auch er sich in Luft auf, aber du kannst seine Wärme in dir *fühlen*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du glaubst, eine kindliche Silhouette in den modrigen Wassern zu sehen, aber du bist dir nicht sicher, ob deine Augen dir nicht einen Streich spielen. Du lehnst dich näher heran. Eine leichenblasse Hand dringt aus dem Wasser an die Oberfläche und legt sich wie eine Eisenkette um deinen Knöchel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du konzentrierst dich und siehst genau hin, kannst aber nichts entdecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Nach einigen trügerischen Momenten kannst du ihren glitschigen Arm sicher greifen und sie aus dem Teich ziehen.
+
+Sie liegt nach Luft schnappend auf dem Boden und sieht schließlich zu dir auf. Sie sieht Coty erstaunlich ähnlich, auch wenn sie dir etwas jünger erscheint. Dann lächelt sie sanft, dankbar, und löst sich vor deinen Augen in Luft auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Du greifst nach ihr, aber du findest keinen Halt an ihrem Arm und kannst nicht gegen die Strömung arbeiten. Immerhin hat sie nicht losgelassen. Immerhin bist du nicht hineingefallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Als du nach ihrem Arm greifst, verlagerst du dein Gleichgewicht falsch ... und fällst in den fauligen Teich. Die Flor-Flüssigkeit beißt sich in deine Haut, und das Mädchen im Wasser versucht, dich immer weiter nach unten zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du wirbelst und trittst um dich, bis du dich schließlich aus ihrem Griff befreien kannst. Sie gleitet in das verschmutzte Wasser und erzeugt dabei gerade einmal eine kleine Welle.
+
+Dir bleibt genügend Zeit, um Cotys verzweifelten Versuch, seine Hand nach ihr auszustrecken, zu beobachten, sein Blick erfüllt von Verzweiflung ... dann löst auch er sich mit einem traurigen Wimmern auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>So sehr du dich auch bemühst, du kannst ihren Griff von deinem Bein nicht lösen.
+
+Coty sieht dich voller Schrecken an. "Rette sie! Bitte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du schüttelst dein Bein in einem Versuch, sie loszuwerden. Durch die Bewegung verlierst du das Gleichgewicht und es gelingt ihr, dich in die trübe Brühe zu ziehen.
+
+Die Flor-Flüssigkeit beißt sich in deine Haut, und das Mädchen im Wasser versucht, dich immer weiter nach unten zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Mit Coty zum Teich gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Coty starrt weiterhin in die Tiefen des Teiches und nimmt deine Anwesenheit kaum wahr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Bist du wirklich Coty? Oder bist du eines seiner Echos, aus den Erinnerungen der Flor zusammengesetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Langsam und widerwillig wendet er seinen Blick vom Teich ab. Als er dich schließlich sieht, streckt er eine Hand nach dir aus. Seine Stimme ist erdrückend und voller Verzweiflung.
+
+"Sie ist da drin ... sie ... ertrinkt ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Follow-up PQ. 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Versuchen, herauszufinden, was er ansieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Erneut versuchen, herauszufinden, was er ansieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Ihren Griff lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Erneut versuchen, ihren Griff zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Sie aus dem Wasser zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Erneut versuchen, sie aus dem Wasser zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Versuchen, das Mädchen hochzuziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Weiter versuchen, das Mädchen aus dem Wasser zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Dich aus ihrem Griff befreien und versuchen, aus dem Teich zu steigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Erneut versuchen, dich aus ihrem Griff zu befreien und aus dem Teich zu steigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Nein! Cassandra! Cassa..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ca… Cassandra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Ihm erlauben, dich in den Teich zu stoßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Coty hilft dir auf die Beine und zieht dich vom Rand des Teiches weg. Er sieht dir in die Augen, und die panische Qual und Angst scheint verschwunden. Dann umarmt er dich herzlich.
+
+Dann löst auch er sich in Luft auf, aber du kannst seine Wärme in dir *fühlen*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Seine Gedanken wiederholen seine Worte exakt, aber ohne Ausdruck und Emotionen. Es ist unmöglich, zu sagen, ob er echt ist, oder nur eine Illusion, die aus den Erinnerungen des echten Coty erzeugt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

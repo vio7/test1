@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_leaning_obelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese fünf Meter lange schwarze Platte aus Basalt - oder vielleicht Obsidian - wurde im Lauf der Zeit völlig glatt geschliffen. Eine Steinstatue hebt die Platte in einem Winkel hoch... oder herab. Unmöglich, zu sagen, ob die Neigung real ist oder du sie dir nur einbildest. 
+ 
+ Am oberen Ende kannst du ein Fenster in eine andere Realität sehen - ein Portal, groß genug, um durchzusteigen. Auf der anderen Seite siehst du etwas, das wie eine raue, eckige Welt aussieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Steinplatte ist glatt wie ein Spiegel. Es ist fast unmöglich, irgendeinen Halt zu finden. Doch als du die Finger in ihre Oberfläche krallst, spürst du sie ganz leicht unter deiner Berührung schmelzen. Zentimeter für Zentimeter ziehst du dich langsam bäuchlings nach oben. Deine Finger beginnen zu bluten.
+ 
+ Du hast gerade die Drei-Meter-Marke erreicht, als der funkelnde Felsen zu beben beginnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Szene ist noch so, wie du sie in Erinnerung hast - die Statue in ihrer angestrengten Pose unter der großen Obsidiantafel die Muskeln angespannt, das Portal lockend oben am Ende der Steigung. Die Tafel zu erklimmen, scheint ganz leicht zu sein... du musst nur hinaufgehen und herausfinden, was sich hinter dem leuchtenden Portal befindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Steigung zum Portal erklimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Mit der Statue sprechen. "Stemmst du die Platte gerade hoch oder lässt du sie herunter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Es scheint, als hätte die Statue ihre Position ganz leicht verändert, seit du sie zum ersten Mal gesehen hast. Du bist nicht ganz sicher, aber ihre Haltung wirkt minimal verändert. Der Bildhauer hat die Statue so lebensecht geschaffen, dass dir ihre Augen stets zu folgen scheinen.
+ 
+ Und erneut hast du das seltsame Gefühl, dass sich ihr Gesichtsausdruck minimal verändert hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Steigung zum Portal erklimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Tafel liegt am Boden. Ein grauer Blutfleck und eine ausgestreckte Hand sind alles, was von dem armen Kerl darunter übrig geblieben ist. Das Portal hat sich geschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Da scheint jedoch etwas in der Hand zu sein. Eine Art Maske.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Maske nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Sie ist grau, steinfarben, leblos. Ansonsten hat sie keine besonderen Merkmale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Nichts außer der Streifen grauen Stoffs, der von ihren Fingerspitzen herabhängt. Es ist eine seltsam geformte Maske mit Linsen über den Augenlöchern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Als du die Maske aufhebst, fixiert dich ihr aschfahler Blick. Der graue Stoff fühlt sich an wie Fleisch. Ein Klumpen feuchtes Fleisch über deinen Fingern. Ein Flüstern umschmeichelt deinen Geist: "Prosper."
+ 
+ Du spürst eine unbewusste Abscheu und wendest dich von der gefallenen Tafel ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die Statue antwortet dir nicht. Vielleicht *kann* sie dir nicht antworten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du lässt los und rutscht zu Boden. In einem einzigen Moment ist deine ganze Anstrengung zunichte gemacht. Eine Stimme schreit in Todesangst und der Menhir kracht mit donnerndem Getöse zu Boden. Eine große Wolke Staub verdunkelt die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Aus der Nähe kannst du ein angespanntes psychisches Gewicht rund um den Obelisken spüren. Als wären die Hoffnungen und Erwartungen einer ganzen Kultur in eine einzige feste Form gepresst worden. Die Vorstellung, diese Erwartungen zu erfüllen und die Steigung zu erklimmen ist... schwindelerregend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Als der Staub sich legt, ist das Portal verschwunden. 
+ 
+ Du siehst eine Hand unter dem Felsen hervorstehen. Sie hält ein Stück grauen Stoffs in den Fingern. Es sieht fast wie eine Maske aus. Die Finger zucken ein Mal... zwei Mal... dann sind sie still.
+ 
+ Ein wenig dunkle Flüssigkeit rinnt unter dem Stein hervor, sammelt sich in einer Lache, gerinnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Obwohl die Tafel deine Neugier geweckt hat, ist dir klar, dass es unklug wäre, sie näher zu untersuchen, während du von einem wütenden biomechanischen Kopffüßer verfolgt wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Es ist die graue Statue eines Mannes in edler Kleidung mit einem kunstvoll verzierten Kriegshammer auf dem Rücken. Mit seinen muskulösen Armen hebt er den Obelisken hoch (oder vorsichtig herunter). Er strahlt feste Entschlossenheit aus - als würde er jeden Funken seiner Energie dafür aufwenden, die große Platte zu heben (oder zu senken).
+ 
+ Auf seinem Rücken wurde ein Schild angebracht: "Der Heilige der Sprüche" ist in kindlicher Schrift drauf gekritzelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Eine graue Statue, die angestrengt eine große Steinplatte hochhebt (oder herunterhebt). Ein Schild auf seinem Rücken besagt: "Der Heilige der Sprüche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du kannst etwas hören: Das leise Flüstern menschlicher Gedanken. Du kannst die Worte nicht genau verstehen, aber sie scheinen von der Statue selbst zu kommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Platte untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Die Platte erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Statue untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die Statue erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Sie scheint völlig glatt zu sein. Sie wurde von liebevoller Hand poliert und glänzt wie ein Spiegel. Allerdings sorgen Krümmungen unter ihrer Oberfläche dafür, dass sich deine Gestalt mit jeder Bewegung verändert. Als du dich vorbeugst, um sie zu untersuchen, ist dein Spiegelbild unbeschreibbar schön. Noch ein paar Zentimeter näher wird es plötzlich zu einer abscheulichen Fratze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Nichts hat sich verändert. Sie bleibt schwarz und glatt und verzerrt dein Spiegelbild bei der kleinsten Bewegung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Das muss die Maske sein, die der widerliche Klumpen gesucht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Hand untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Die Hand erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

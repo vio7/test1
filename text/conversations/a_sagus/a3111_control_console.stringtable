@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a3111_control_console</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>63</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fünf Tasten sind auf dem zentralen Feld aneinander gereiht. Eine nicht entzifferbare Anzeige glüht an der Unterseite, an der sonst eine sechste Taste wäre.
+
+Eine Zahl wurde jeweils grob in die Oberfläche der fünf Tasten graviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 5.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Eines der angrenzenden Felder leuchtet und zeigt deine Wahl an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 5.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ein Licht leuchtet auf einem zweiten Feld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 5.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Das dritte Feld leuchtet auf, um deine Auswahl anzuzeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 1.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 2.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Drücke die Taste mit der eingravierten 5.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Als das vierte Feld beleuchtet wird, bildet sich ein Energiefeld um dich herum. Ein angespanntes, saugendes Gefühl zieht an deinen Gedärmen, als du dich plötzlich woanders wiederfindest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Drücke die Tasten zufällig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du drückst die Tasten in keiner besonderen Reihenfolge, nur um zu sehen, was geschieht. Nachdem jede Taste gedrückt wurde, leuchtet ein angrenzendes Feld auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Gib den Code zu einem Ort ein, den du bereits kennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du versuchst, dich an die Codes zu beliebigen Orten, die du kennst, zu erinnern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Gib den Code für das Grabmal der Ersten Verstoßenen ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du drückst die Tasten 3-4-3-1. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Gib den Code für Chois Grabmal ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du drückst die Tasten 4-2-2-1. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Gib den Code für Ronos Cai'suls Grabmal ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du drückst die Tasten 2-4-1-3. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Gib den Code für Marcysas Grabmal ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du drückst die Tasten 1-2-5-4. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Gib den Code zum Betreten von Oddwalds Bleibe ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du drückst die Tasten 5-1-4-3. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Drücke das Feld in der Mitte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Es löst sich. Dein Finger ist von einer dicken Staubschicht bedeckt. Ansonsten geschieht nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Gib irgendeinen anderen Code ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Vielleicht kannst du etwas in einer der anderen Grabstätten finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Gib den Code zum Betreten von Phönix' Marker ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du drückst die Tasten 1-5-3-5. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Gib den Code für die Endlose Pforte ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Gib den Code sowohl für die Endlose Pforte als auch für Marcysas Grabmal ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Gib den Code für das Grabmal mit dem Saiteninstrument ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Du drückst die Tasten 3-5-4-3. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Gib den Code für das blutige Grabmal mit dem Portal ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Versuche es mit der Zahl, die sich in der Notiz der toten Memorialistin namens "Najma" befand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Gib den Code für Najmas Grabmal ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Du drückst die Tasten 4-1-3-5. Als du jede Taste drückst, wird ein Symbol auf einem angrenzenden Feld beleuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Kennst du noch den Code für das Grab der Ersten? Jetzt ist die Zeit gekommen, ihn zu benutzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

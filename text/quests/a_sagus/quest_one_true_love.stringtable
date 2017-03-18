@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_one_true_love</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die einzig wahre Liebe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nach Hinweisen suchen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Besitzerin der Herberge befragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Suche in Karawanserai nach Hinweisen zu Perseias Aufenthaltsort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Entscheide, was zu tun ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Gefunden!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sie Ist Es Einfach Nicht Wert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Schaue Nicht Hinter Den Vorhang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Offensichtlich Flunkerei</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du Wirst Langsam Schläfrig...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Kehre mit den Beweisstücken zu Omahdon zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Kehre mit den Beweisstücken zu Omahdon zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Konfrontiere Ruhe mit den Beweisstücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Konfrontiere Ruhe mit den Beweisstücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag abgeschlossen wurde</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe in der Karawanserei einen Mann namens Omahdon getroffen, der nach seiner großen Liebe sucht. Er sagt, diese Frau namens Perseia würde an einem Wahn leiden, der sie vor eingebildeten Gefahren fliehen lässt, und dass er ihr bereits seit Jahren hinterher reist, ohne sie zu erwischen. Omahdon hat Perseias Spur bis nach Sagusklippen verfolgt und bat mich, ihm bei der Suche nach ihr zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In der Karawanserei nach Spuren von Omahdons "einzig wahrer Liebe" suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Besitzerin der Herberge nach Omahdons "einzig wahrer Liebe" befragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Omahdon ist sich sicher, dass Perseia einige Zeit in der Karawanserei verbracht hat. Er beschreibt sie als wunderschöne Frau mit violetten Haaren, das sie mit geflügelten Kämmen geschmückt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Tranquilia offenbarte, dass sie einige Zeit lang Perseia untergrbracht hatte, und sie erzählte eine ganz andere Geschichte als die von Omahdon. Sie sagt, dass Omahdon Perseia im Tal der Toten Helden vergraben fand und von ihr besessen wurde. Er benutzte antike Wissenschaft, um sie zum Leben zu erwecken, dann erwartete er, dass sie ihn im Gegenzug leiben würde. Perseia teilte nicht seine Gefühle und seitdem floh sie vor ihm.Mit dieser Information muss ich entscheiden, ob ich Omahdon helfen oder aufhalten soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe herausgefunden, dass Perseia ins Tal der Toten Helden zurückgekehrt ist, wo Omahdon sie einst gefunden hat. Ich habe ihm das mitgeteilt und er hat sich sofort auf den Weg gemacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe Omahdon davon überzeugt, die Suche nach Perseia aufzugeben. Hoffentlich findet er nun etwas besseres mit seiner Zeit anzufangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe mich mit Ruhe verbündet, um Omahdon auf eine falsche Fährte zu locken. Er nimmt nun ein Luftschiff in die falsche Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe Omahdon angelogen, was Perseias Aufenthaltsort betrifft, aber er hat den Schwindel durchschaut und nimmt nun ein Luftschiff ins Tal der Toten Helden, wo er Perseia zu finden hofft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ruhe hat ihre mentalen Fähigkeiten eingesetzt, um Omahdon zu hypnotisieren. Er ist nun ein "Gast" in ihrem Hotel und Ruhe wird ihn eine Zeit lang dort behalten. Damit hat Perseia Zeit, um zu fliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich habe in der örtlichen Herberge einen Kamm gefunden, der Perseia gehört haben könnte. Den wird Omahdon bestimmt sehen wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Auf dem Plateau über der Karawanserei habe ich einen Apparat gefunden, der vergangene Ereignisse aufzeichnet. Er hat mir das Bild einer Frau mit violetten Haaren gezeigt, auf die Perseias Beschreibung passt. Sie sprach mit der Besitzerin einer örtlichen Herberge. Das wird Omahdon bestimmt interessieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Omahdon hat bestätigt, dass der Kamm Perseias gehört hat. Er ist nun davon überzeugt, dass Ruhe, die Besitzerin der Herberge, ihn angelogen hat. Ich sollte mit Ruhe sprechen und herausfinden, was sie über Perseia weiß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Ich habe Omahdon von dem Bild erzählt, auf dem Perseia mit der Besitzerin der Herberge spricht. Er ist nun davon überzeugt, dass Ruhe ihn angelogen hat. Ich sollte mit ihr sprechen und herausfinden, was sie über Perseia weiß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Ich habe Sagusklippen verlassen und weiß nicht, wann ich zurückkehren werde, falls überhaupt. Omahdon wird seine Suche nach Perseia alleine fortsetzen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Frau, nach der Omahdon sucht, hat lange violette Haare, die sie mit zahlreichen Kämmen geschmückt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ruhe zufolge läuft Omahdons "einzig wahre Liebe" in Wirklichkeit vor ihm davon. Deshalb weigert sie sich, Omahdon zu verraten, wo Perseia hingegangen ist. Offensichtlich ist er von Perseia besessen, obwohl sie nichts mit ihn zu tun haben will. Vielleicht kann ich ihn ja davon überzeugen, die Suche aufzugeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ruhe sagt, dass Omahdon die bestens erhaltene Leiche seiner "Geliebten" im Tal der Toten Helden gefunden und sich sofort in sie verliebt hat. Und irgendwie hat er einen Weg gefunden, um sie von den Toten zu erwecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Omahdon zufolge ist Perseias Wahn dafür verantwortlich, dass sie ihn für ihren Feind hält anstatt für ihren Geliebten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe in der Herberge der Karawanserei einen der Kämme der gesuchten Frau gefunden. Die Besitzerin der Herberge muss Omahdons "Geliebte" getroffen haben... und weiß vielleicht auch, wo sie hingegangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Ich habe erfahren, dass Perseia ins Tal der Toten Helden zurückgekehrt ist, nachdem sie Sagusklippen verlassen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Anstatt Omahdon zu verraten, wo Perseia wirklich hingegangen ist, könnte ich versuchen, ihn mit einem falschen Hinweis auf eine falsche Fährte zu locken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ich habe Ruhe davon überzeugt, Omahdon zu hypnotisieren. Sie kann ihn in Trance versetzen und eine Zeit lang als "Gast" in ihrer Herberge behalten, damit Perseia flüchten kann. Ich muss Omahdon lediglich sagen, dass Ruhe mit ihm sprechen möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>In einer versperrten Schublade in der Herberge in Karawanserei habe ich einen Kamm mit einigen Haaren daran gefunden. Sie passen zu Omahdons Beschreibung der Haare seiner gesuchten Geliebten. Möglicherweise war die Frau vor kurzem erst Gast in der Herberge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Eine der Wachen der Memovira hat gemeint, dass Perseia vermutlich in der Herberge in der Karawanserei übernachtet hat. Ich sollte dort nach Spuren suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ruhe, die Besitzerin der Herberge in der Karawanserei, behauptet, sie könne sich an niemanden erinnern, auf den Perseias Beschreibung passen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

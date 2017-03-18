@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\a3101_minnim_to_upper_level</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ein Fleck aus weißem Licht hängt vor dir; ein Riss im Raum, wie ein grelles Licht, das von einem Fenster zurückgeworfen wird - nur, dass es kein Fenster gibt. Innerhalb des Lichts kannst du ein Schattenspiel erkennen, so, wie man es auf einer Wand gegenüber einer Tür sehen kann, wenn jemand draußen vorbeigeht - nur, dass es keine Wand gibt. 
+ 
+Doch es könnte eine Tür geben. 
+ 
+Eine Brise gibt es sicherlich; sie kommt aus dem Schimmern, sowie Echo von Geräuschen, die du nicht um dich hören kannst. Würdest du herumtreten, könntest du überall hingelangen, oder auch nirgendwohin. Es könnte einfach nur ein Lichtspiel sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Schreite in das Licht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Untersuche das Licht genauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Lass das Licht in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du schreitest in das grelle Licht, und es umgibt und blendet dich. Dann löst es dich in glitzernde Staubkörnchen auf, die in einem Lichtspeer treiben. Das Licht trägt dich durch eine kalte Dunkelheit - schwerelos, körperlos, selbstlos - an einen anderen Fleck grellen Lichtes. Dann bist du plötzlich ... woanders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du läufst um die Lichstelle umher. Sie sieht von jeder Seite gleich aus und die Brise weht immer in deine Richtung.
+
+Trotzdem, irgendetwas daran, das Pulsieren ihres Randes, das Gefühl, dass sie dich untersucht, so wie du sie untersuchst, bringt dich auf den Gedanken, dass sie irgendwie am Leben ist, aber in keinster Weise, die du verstehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du trittst von der Lichtstelle weg und läufst weiter.
+
+{SCRIPT: End conversation.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Lichtstelle lockt dich an.
+
+{RETURN NODE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du trittst in das Grelle und stellst fest, dass du jetzt irgendwo anders bist.
+
+{SCRIPT: Teleport players to paired minnim. End conversation.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_ventdoor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die aufgeblasenen, mit giftiger Luft gefüllten Säcke pulsieren und wabern in der feuchtwarmen, fauligen Luft, die vom Herzen der Flor ausgeht. Ihre Haut ist dünn, du könntest sie also mit einem gezielten Hieb durchstoßen. Damit würdest du aber wahrscheinlich die Aufmerksamkeit der Flor auf dich ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Säcke zerreißen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lass die Säcke in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Säcke geben deinen Hieben nach, und ein feuchter Schwall aus giftiger, stinkender Luft strömt aus den zerborstenen Organen. Er legt sich über deine Haare und deine Kleidung. Der Gestank ist unerträglich.
+
+Die ganze Kammer bebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Deine Angriffe versinken im fleischigen Material. Außer einem stinkenden Geruch scheinen sie nichts zu bezwecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Schneide den Schlund mit dem Transdimensionalen Skalpell auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Säcke dehnen sich aus und falten sich wieder zusammen, wie eine Blase. Dabei saugen sie Luft an und stoßen sie wieder ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1834 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_council_clerk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>322</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Hinter einem Pult bearbeitet ein vieräugiger, haarloser Mutant mit Anmut Papier. Er schnippt unentwegt mit den eleganten Fingern seiner linken Hand, und jedes Mal dreht sich die Luft und schimmert, wobei entweder ein Dokument ausgespien wird, das bearbeitet werden muss, oder eines aufgenommen wird, das von seiner mit Tinte befleckten rechten Hand fertig bearbeitet wurde. 
+
+Jedes seiner Augen betrachtet ein unterschiedliches Objekt: Portale, die sich öffnen, Präambeln und Vorträge, die überprüft werden müssen, seine eigenen Ergänzungen, die makellos sein müssen. Ein Auge zuckt in deine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich benötige die Aussetzung der Hinrichtung von Col Cardin, um eine unrechtmäßige Bestrafung aufzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wenn ich die Aussetzung der Hinrichtung von Col Cardin erhalte, werden weitere Unterbrechungen der Stadtordnung vermieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der Sachbearbeiter zögert einen Augenblick, dann zuckt er mit den Schultern. "Es stellt sich heraus, dass der Brief sowieso für die Vernichtung zum Jahresende vorgesehen war, aufgrund der Bestätigung von Cardins Tod." 
+
+Mit einem Fingerschnippen erscheint ein Brief, und er überfliegt ihn. "Ja, ja, das ist es. Ziemlicher Verbrecher ist er gewesen, und nicht ohne, was Verrat angeht. Aber wer bin ich schon, die Gnade unseres einzigartigen Rates in Frage zu stellen?" Er händigt ihn dir mit leichtem Naserümpfen aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich bin ein spezieller Verbindungsmann aus dem Richterlichen Aufsichtskomitee, und ich muss eine Aussetzung der Hinrichtung überprüfen, die für Col Cardin ausgestellt worden ist. Es gibt einige Bedenken hinsichtlich Korruption."</DefaultText>
+      <FemaleText>"Ich bin eine spezieller Verbindungsfrau aus dem Richterlichen Aufsichtskomitee, und ich muss eine Aussetzung der Hinrichtung überprüfen, die für Col Cardin ausgestellt worden ist. Es gibt einige Bedenken hinsichtlich Korruption."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Wenn Ihr die Aussetzung der Hinrichtung nicht herausgebt, werde ich gezwungen sein, Euch beim Komitee zu melden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Der Sachbearbeiter bemerkt deine Annäherung so, wie ein Aneen die Rückkehr einer besonders gefräßigen Blutfliege bemerken würde: Eine Belästigung, um die man sich kümmern und die man loswerden muss, ehe die Dinge schlimmer werden.
+
+"Was ist es diesmal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Was genau *ist* der Rat, und wie regiert er Sagus Klippen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Könnt Ihr mir nochmal von dem Rat erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Der Sachbearbeiter rümpft die Nase. "*Papier* regiert Sagus Klippen – Papier ermöglicht den Wenigen, über die Vielen zu herrschen; Papier ermöglicht den Vielen, sich in ein einzelnes Ganzes zu organisieren. Autorität wohnt in Diktaten, Verträgen, Programmen inne ... die Mittel, mittels derer Gedanken verfeinert, verbreitet und erhalten werden."
+
+Mit ruhigerer Stimme fügt er hinzu: "Natürlich trägt der Rat auch seinen Teil dazu bei. Jede der großen Sklavenfamilien schickt ihren Repräsentanten, und sie feilschen und zanken sich, bis sie den Willen auf Papier formen. Und *ich* bin ihr Sachbearbeiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Er ist ein Herrschaftsorgan, das von den Repräsentanten jeder der großen Sklavenfamilien gebildet wird. Wie Ihr wisst, bin ich ihr Sachbearbeiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Könnt Ihr mir von der Geschichte der Stadt erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ich würde gerne nochmal über die Geschichte der Stadt hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Warum, bitte schön, sollte ein überlasteter Sachbearbeiter in der Lage oder gewillt sein, die traurige Erzählung des Niedergangs dieser Stadt vorzutragen?" Dann erscheint in allen vier Augen ein bestimmtes Funkeln, und er fängt an, zu sprechen:
+
+"Hier ist, was die Dokumente selbst offenbaren, nicht mit ihren Worten, sondern durch sich selbst." Er arbeitet schneller, während er die Geschichte erzählt. "Vor Jahrhunderten, als die Neunte Welt jung war, begann die Stadt. Ihre Gründer unterhielten akribische Aufzeichnungen – alle verloren. Nur die Urnenhalle, in der sie gelagert waren, ist übrig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Ohne in deine Richtung zu schauen – und mit gespielter, spöttischer Aufregung – trägt der Sachbearbeiter vor: "Ein Zeitalter von Herren und Herrinnen! Ein Krieg gegen die wilden Horden der Tabaht! Ein tapferer Sklave und sein Auflehnen für die Freiheit! Expansion und Minderung!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Habt Ihr irgendwelche Unterlagen über jemanden namens Matkina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Erzählt mir nochmal über Matkina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Den Namen habe ich gesehen", murmelt er, "in viel zu vielen Requirierungen für 'frei verfügbare Mittel'."
+
+Mit selbstsicherer, doch absichtlicher Geschwindigkeit, überfliegt er eine Reihe von Dokumenten, die seinen anfänglichen Eindruck zu bestätigen scheinen. "Sie ist nicht als Stadtbewohnerin eingetragen, auch in keiner Zählung. Sie wird in der Tat nur in Geschäftsbüchern und Requirierungen erwähnt."
+
+Ganze drei seiner Augen werfen dir einen deutlichen Blick zu: "Es versteht sich von selbst, dass das Transaktionen sind, deren Natur nicht weiter angegeben ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Sie ist ein sehr gut bezahltes Phantom, das außerhalb der Grenzen der Bürgerschaft existiert. Ich gehe davon aus, dass Ihr Eure eigenen Schlüsse ziehen werdet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wisst Ihr, warum Jebedees Familienaufzeichnungen versiegelt sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Sagt mir nochmal, warum Jebedees Familienaufzeichnungen versiegelt sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Ohne zu zögern antwortet er: "Das weiß ich nicht, denn wie sich herausstellt, sind sie auch für mich versiegelt. Natürlich habe ich beim Rat angefragt, warum solch außergewöhnliche Maßnahmen vorgenommen wurden. Ungewöhnlicherweise erhielt ich keine Antwort."
+
+Er schüttelt den Kopf: "Wie auch bei Menschen ist bei Regierungen der Versuch, beschämende Erinnerungen zu verstecken, ein Zeichen für Durcheinander."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Der Sachbearbeiter schnappt: "Ich sage Euch nochmal, dass ich es nicht weiß! Ich habe den Rat gefragt und keine Antwort erhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Habt Ihr irgendwelche Aufzeichnungen über eine Frau namens Verlust-des-Selbsts?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Könnt Ihr mir noch irgendetwas über Verlust-des-Selbsts sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Verlust-des-Selbsts?" Ein Auge starrt dich an, um zu sehen, ob du scherzt. "Ich erinnere mich nicht an so einen Namen." Er schnippt mit dem Finger und eine Art lebendiger Kodex erscheint, jede seiner Seiten von einem Fell mit komplexem Muster bedeckt. Während er den Buchrücken streichelt, schlägt er eine Seite auf, nickt scharf und schickt daraufhin den Kodex zurück in sein Portal.
+
+"Wie ich mir schon dachte, kommt in der Zählung kein solcher Name vor. Vielleicht ist das nur ein Pseudonym." Mit dem Eifer von jemandem, der beweisen möchte, dass sein System nicht irrt, fügt er hinzu: "Wir brauchen einen anderen Weg, um ihre Unterlagen zu finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Der Sachbearbeiter hört sich deine Beschreibung an, dann nickt er entscheidend und murmelt etwas darüber, den "Onomastikon" zu überprüfen. Er schnippt mit den Fingern und ein schwerer, in Blei gebundener Wälzer erscheint aus dem Nichts. Er schlägt eine Seite auf, nickt erneut, schnippt erneut und greift nach einer Pergamentrolle.
+
+Als er sie aufrollt, entweicht ihm ein unfreiwilliger Schrei. "Unmöglich!" Du kannst sehen, dass die Schriftrolle durch Flecken grau-grünen Moders schwer beschädigt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Übergebt Jebedees Meuchelmord-Vertrag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Der Sachbearbeiter sieht sich den Vertrag an und schüttelt den Kopf. "Nun, jeder muss sein eigenes Handwerk ausüben, und die Arbeit des Verstands ist nicht für jeden geeignet."
+
+Er schnippt einmal mit den Fingern, archiviert den Vertrag, dann schnippt er wieder und beschwört einen Beutel Shin. Er schüttelt ihn einmal – vielleicht im Spott, vielleicht, um irgendwie den Inhalt zu zählen – dann übergibt er ihn dir.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Habt Ihr irgendwelche Unterlagen über jemanden namens Rhin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Rhin, Rhin, Rhin", murmelt der Sachbearbeiter zu sich selbst, während er Papiere durch Portale hin und her schiebt. "Aha!", ruft er schließlich aus. "Ich wusste, dass ich den Namen gesehen hatte."
+
+Er liest mit einem Auge auf dem Folianten, den er von irgendwo ergriffen hat, während die anderen Augen sicherstellen, dass die Arbeit für den Rat ununterbrochen weitergehen kann. Seine Lippen bewegen sich, doch du kannst seinem Murmeln nicht ganz folgen. Endlich schließt er den Folianten, schnippt mit den Fingern und schickt ihn zurück ins Archiv.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Habt Ihr irgendwelche Unterlagen über jemanden namens Zebb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Einen Moment", murmelt der Sachbearbeiter, während er Papiere durch Portale hin und her schiebt. Er überfliegt sie mit einem Auge, während die anderen Augen auf die Arbeit für den Rat gerichtet sind, die nicht pausiert und sich nicht einmal verlangsamt.
+
+"Ja", sagt er. "Ziemlich typisch, wirklich – eine Geburtsurkunde, ein paar Berichte von den Levys, ein Vermerk im Pfandrecht eines Gläubigers. Ihr solltet ihn drüben in Klippenrand bei seiner Schwester Nym finden. Die Mutter ist tot, der Vater ist ein Kehlenschlitzer für die Memovira, wenn die Levys richtig liegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich versuche, einen Rechtsstreit zwischen zwei Männern namens Erritis und Rennio beizulegen. Erritis hat ein Luftschiff von Rennio zum Absturz gebracht. Könnt Ihr mir helfen?"
+
+{SCRIPT: After 1E, hook this up properly when Erritis is handled. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ich benötige dieses Entschädigungszertifikat für Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Wie ich schon sagte", antwortet der Sachbearbeiter, "habe ich nicht die Befugnis dazu. Gibt es eine mächtige Person, die die Angelegenheit für Euch arrangieren könnte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Der Sachbearbeiter hebt vier Brauen. "Tut er das? Überprüfen wir diesen Vorschlag."
+
+Er kritzelt auf einem Papierschnipsel, schnippt mit den Fingern und schickt die Nachricht zu einem fernen Funktionär.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Glaubt Ihr, nur weil ich ein Dokument mit dem Schnippen meiner Finger verschwinden lassen kann, kann ich das Gleiche auch für eine Zivilklage tun?" Er schüttelt mit langsamer Herablassung den Kopf. "Das ist nicht so einfach."
+
+"Die einzige Erleichterung, die die Stadt bieten könnte, wäre die Übernahme von Erritis' Haftung für den Unfall durch ein Entschädigungszertifikat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Peliai wird mir helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Lord Vuntgen schuldet mir einen Gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich kenne niemanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Er zuckt mit den Schultern. "Damit ist Eure Anfrage abgelehnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Wer seid Ihr und was genau tut Ihr mit all diesen Papieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Könnt Ihr mir nochmal von Euch erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ich bin weder eine Touristenattraktion noch ein Dozent", sagt er naserümpfend, doch die Reizung in seiner Stimme ist nur eine schwache Verschleierung für die offensichtliche Freude über dein Interesse.
+
+Er führt aus: "Ich bin der Sachbearbeiter des Rates, mir obliegt die Verantwortung, das Schicksal jedes offiziellen Dokuments in Sagus Klippen zu lenken." Sein Tonfall wird ausnehmend prahlerisch, während er fortfährt. "Ich bin der Verstand, der die blinden, nervösen Impulse dieser Stadt leitet und sie in kraftvolle Aktionen umwandelt."</DefaultText>
+      <FemaleText>"Ich bin weder eine Touristenattraktion noch ein Dozent", sagt er naserümpfend, doch die Reizung in seiner Stimme ist nur eine schwache Verschleierung für die offensichtliche Freude über dein Interesse.
+
+Er führt aus: "Ich bin der Sachbearbeiter des Rates, mir obliegt die Verantwortung, das Schicksal jedes offiziellen Dokuments in Sagus Klippen zu lenken." Sein Tonfall wird ausnehmend prahlerisch, während er fortfährt. "Ich bin der Verstand, der die blinden, nervösen Impulse dieser Stadt leitet und sie in kraftvolle Aktionen umwandelt."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Mit etwas weniger Freude als beim letzten Mal antwortet er: "Ich bin der Sachbearbeiter des Rates. Ich bin für alle offiziellen Dokumente in der Stadt verantwortlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Übertriebene Verachtung verzieht seinen Mund, und obwohl seine Augen fest auf Eurem Gesicht verweilen, gibt er keine verbale Bestätigung. Ein schwaches Seufzen kommt ihr am nächsten.
+
+Endlich, nachdem er ein halbes Dutzend weiterer Dokumente in ein fernes Kämmerchen verwiesen hat, lässt er sich dazu herab, zu reden. "Ihr müsst natürlich warten, bis die Angelegenheiten des Rates erledigt sind." Ein Viertel seines Blickes verlässt dich, sein Gesicht kehrt zurück zu seinem vorherigen Gleichmut, und er setzt die Arbeit fort, die keineswegs nachzulassen, geschweige denn aufzuhören scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Bei deiner Rückkehr gewährt dir der Sachbearbeiter einmal mehr seine geteilte Aufmerksamkeit. "Wie Ihr seht, ist noch immer wichtige Arbeit für den Rat zu verrichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Wie lange glaubt Ihr, dass diese 'Arbeit für den Rat' noch dauert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Wisst Ihr schon, wann Ihr fertig seid?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Der Sachbearbeiter rollt sein unbeschäftigtes Auge zum Himmel, dann antwortet er mit einer Stimme, die vorspielt, durch endlose belästigende Antragsteller zermürbt zu sein – obwohl du der einzige zu sein scheinst, der mutig genug ist, ihn zu belästigen, soweit du sehen kannst.
+
+"Bedenkt, was in einer so großen Stadt an Verordnungen registriert, Verträgen festgelegt, Anklagen angesetzt, Entdeckungen katalogisiert, Edikten verkündet, Memoranden gesendet, Bewerbungen bearbeitet, Erlaubnissen erteilt, Titeln erfasst werden muss. Aus diesen Überlegungen heraus könnt Ihr Eure eigenen Schlüsse ziehen."</DefaultText>
+      <FemaleText>Der Sachbearbeiter rollt sein unbeschäftigtes Auge zum Himmel, dann antwortet er mit einer Stimme, die vorspielt, durch endlose belästigende Antragsteller zermürbt zu sein – obwohl du die einzige zu sein scheinst, die mutig genug ist, ihn zu belästigen, soweit du sehen kannst.
+
+"Bedenkt, was in einer so großen Stadt an Verordnungen registriert, Verträgen festgelegt, Anklagen angesetzt, Entdeckungen katalogisiert, Edikten verkündet, Memoranden gesendet, Bewerbungen bearbeitet, Erlaubnissen erteilt, Titeln erfasst werden muss. Aus diesen Überlegungen heraus könnt Ihr Eure eigenen Schlüsse ziehen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Der Sachbearbeiter seufzt in Verzweiflung und würdigt dich nicht mal eines Blickes. "Ich werde Euch die weitere Darlegung meines Arbeitsumfangs ersparen, wenn Ihr mir im Gegenzug das aufdringliche Nachfragen darüber, wann sie beendet ist, erspart."</DefaultText>
+      <FemaleText>Der Sachbearbeiter seufzt in Verzweiflung und würdigt dich nicht mal eines Blickes. "Ich werde Euch die weitere Darlegung meines Arbeitsumfangs ersparen, wenn Ihr mir im Gegenzug das aufdringliche Nachfragen darüber, wann sie beendet ist, erspart."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Gibt es irgendetwas, das ich tun kann, um die Dinge etwas zu beschleunigen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Der Sachbearbeiter wühlt weiter meisterlich die Papiere von einem Portal zum anderen und schnipst eine geschlossene Schriftrolle mit einer besonders geschickten Geste durch ein Tor. Dann wendet er dir nicht ein, sondern *zwei* Augen zu.
+
+"Wenn Ihr damit wissen wollt, ob ich zulassen würde, dass Ihr mit Euren schwitzenden Fingern eines Schlächters die Papiere des Rates anfasst, dann fürchte ich um Euren Geisteszustand." Sein Auge schaut weg und er fügt hinzu: "Natürlich ist es üblich, eine kleine Zuwendung für den öffentlichen Dienst zu überreichen." Ein Auge schaut schnell zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Glaubt Ihr wirklich, dass ich Bestechungsgeld zahlen werde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Alle vier Augen des Sachbearbeiters weiten sich kurzzeitig bestürzt. "Natürlich nicht!", schreit er entsetzt. "Das Annehmen von Bestechungsgeld ist eine Straftat, wie in den Abschnitten 201 und 1951 des Kriminalkodex festgelegt ist! Im Gegenzug ist das Annehmen gewisser üblicher Zahlungen eine verständliche und gesetzliche Vergütung, die mit dieser Stellung einhergeht."
+
+Sein Tonfall ist völlig ehrlich – beinahe fanatisch – als er diesen Unterschied erklärt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Was genau ist die 'übliche Zuwendung'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Er räuspert sich und bemerkt in amtlichem Tonfall: "Ich stelle fest, dass die übliche Zuwendung noch nicht bezahlt worden ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Ohne weitere Worte widmet er sich wieder der Bearbeitung seiner Dokumente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Ohne mit der Wimper zu zucken und ohne einen Tonfall, der Unschicklichkeit eingestehen würde – geschweige denn Scham – verkündet der Sachbearbeiter: "[Global: a2601_CouncilClerk_Bribe] Shin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ich warte, bis Ihr fertig seid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Warten, bis er seine Arbeit beendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Ohne die Anmut seiner Archivierung zu unterbrechen, zuckt der Sachbearbeiter mit den Schultern. "Ich bin darüber erfreut, dass Ihr Euren Platz in der Hierarchie der Prioritäten erkannt habt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Du stehst und beobachtest, wie Papier um Papier auftaucht und in den schimmernden Portalen verschwindet, die von den Kräften des Sachbearbeiters geöffnet werden. Wenn er sich deiner verweilenden Anwesenheit bewusst ist, so lässt er sich das nicht anmerken – mit der Ausnahme, dass sein unbeschäftigtes Auge während seiner gelegentlichen Wanderungen die Stelle, an der du stehst, pingelig meidet.
+
+Bald stellst du fest, dass es nur wenige mühsamere Dinge gibt, als dem endlosen, unergründlichen Drehen der Zahnräder der Bürokratie zuzusehen.</DefaultText>
+      <FemaleText>Du stehst und beobachtest, wie Papier um Papier auftaucht und in den schimmernden Portalen verschwindet, die von den Kräften des Sachbearbeiters geöffnet werden. Wenn er sich deiner verweilenden Anwesenheit bewusst ist, so lässt er sich das nicht anmerken – mit der Ausnahme, dass sein unbeschäftigtes Auge während seiner gelegentlichen Wanderungen die Stelle, an der du stehst, pingelig meidet.
+
+Bald stellst du fest, dass es nur wenige mühsamere Dinge gibt, als dem endlosen, unergründlichen Drehen der Zahnräder der Bürokratie zuzusehen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Warte weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Stelle dich auf eine lange, anstrengende Wartezeit ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Du wartest. Und wartest. Dann wartest du noch etwas mehr. Doch der Arbeitsumfang des Sachbearbeiters bleibt unverändert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Nicht abgeschreckt von der Eintönigkeit der Aufgaben des Sachbearbeiters, von den Schmerzen in deinen Gliedern, nachdem du zu lange an einer Stelle stehen geblieben bist, entscheidest du dich, deinen Willen gegen den des Sachbearbeiters zu setzen.
+
+Stunden vergehen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Endlich, auch wenn seine Arbeit sich nicht wahrnehmbar verändert hat, wendet der Sachbearbeiter dir ein erschüttertes Auge zu. "Damit ich nicht angeklagt werde, Beihilfe zum Herumlungern zu leisten, schätze ich, dass ich Eure Fragen in Erwägung ziehen muss. Also, um was geht es? Was wollt Ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Zahle ihm die [Global: a2601_CouncilClerk_Bribe] Shin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"[Global: a2601_CouncilClerk_Bribe] Shin sind viel zu viel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Der Sachbearbeiter starrt dich mit einem Auge an. "Wir sind keine Kaufleute, die über den Preis eines Aneen verhandeln, mein Herr", spottet er. "Der Brauch passt sich nicht den Umständen an, genauso wenig, wie zivilisierte Leute an Geschenken herum meißeln."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Ein Augenblick der Höflichkeit wird Euch nichts kosten, doch weitere Grobheit wird Euch teuer zu stehen kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Ignoriert mich auf eigene Gefahr, Sachbearbeiter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ich versichere Euch, dass meine Angelegenheiten wichtig genug sind, um einen Moment Eurer Zeit wert zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Der Sachbearbeiter ist von deiner Drohung völlig unbeeindruckt. Als er weiter seiner Arbeit nachgeht, antwortet er überdrüssig: "Mit einem Fingerschnippen kann ich Eure Aorta in den Schlachthof der Schattenseite weiterleiten. Es könnte sich für Euch also ziemen, darüber nachzudenken, wer von uns sich dem anderen aufdrängt, und wer besser auf seine Manieren achten sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Er seufzt lediglich und schüttelt den Kopf, wie bei einem vorwitzigen Kind, das es einfach nicht besser wissen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Obwohl der Sachbearbeiter sein Gesicht zu einem finsteren Blick verzieht, kannst du sehen, wie Furcht alle seine vier Augen weitet. Wie zu sich selbst murmelt er: "Und so kriechen wir in die Schatten früherer Zivilisationen, heimgesucht von Vandalen und Rohlingen."
+
+Er wendet dir eines seiner Augen zu – doch fährt mit seiner Arbeit fort – und sagt: "Also gut. Ich sehe, dass Ihr keinen Sinn für ordnungsgemäße Prozesse habt. Was genau wollt Ihr?"</DefaultText>
+      <FemaleText>Obwohl der Sachbearbeiter sein Gesicht zu einem finsteren Blick verzieht, kannst du sehen, wie Furcht alle seine vier Augen weitet. Wie zu sich selbst murmelt er: "Und so kriechen wir in die Schatten früherer Zivilisationen, heimgesucht von Vandalen und Rohlingen."
+
+Er wendet dir eines seiner Augen zu – doch fährt mit seiner Arbeit fort – und sagt: "Also gut. Ich sehe, dass Ihr keinen Sinn für ordnungsgemäße Prozesse habt. Was genau wollt Ihr?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Der Sachbearbeiter bringt seine persönliche Wertschätzung gegenüber der Wichtigkeit deiner Angelegenheit mit einem langen, lauten Seufzen zum Ausdruck. Doch er richtet eines seiner Augen auf dich aus und antwortet: "Nun gut, nun gut. Wägen wir den Wert Eurer Bedürfnisse ab, in Ordnung? Was wollt Ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Der Sachbearbeiter richtet ein Auge in deine Richtung, doch er verlangsamt dabei nicht das endlose Wühlen des Papierkrams.
+
+"*Ich* würde mir nicht anmaßen, auf ein Schlachtfeld zu kommen, Euch am Ärmel zu zupfen und Euch zu sagen, wie Ihr Eure Schlachterei durchzuführen habt. Also solltet Ihr vielleicht das gleiche Maß an Höflichkeit gegenüber meiner Berufung an den Tag legen, das ich Euch gegenüber erweisen würde."
+
+Als er sieht, dass du nicht verschwunden bist, fügt er hinzu: "Bitte erspart mir weitere Erörterungen darüber, welche Angelegenheiten Ihr welcher Aufmerksamkeit als würdig erachtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Trotz der scharfen Augen und der unglaublichen Geschwindigkeit des Sachbearbeiters gelingt es dir, ihm zu entwischen und ein Dokument zur Seite zu schlagen. Ehe er reagieren kann, wirbelt es in das falsche Portal – vielleicht ist nun die Freilassung eines Sklaven in einem Tresor für subversive Texte gelandet; vielleicht ist die Beschwerde einer Bordellwirtin über einen Freier, der sich stark im Zahlungsrückstand befindet, irgendwie in eine öffentliche Aufzeichnung geraten.
+
+Entsetzt hält er sofort inne. "Kann man Eurem Unfug denn gar keinen Einhalt gebieten?", zischt er. "Also, was wollt Ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Während du die Hand nach den Papieren des Sachbearbeiters ausstreckst, wird sie von einem seiner Augen erblickt. Sofort schnippt er mit den Fingern. Mit einem merkwürdigen Gefühl von Verlagerung stellst du fest, dass deine Hand sich an deiner Seite befindet, genau dort, wo sie ihre Bewegung angefangen hat, nur dass sie jetzt beinahe rheumatische Schmerzen leidet.
+
+Der Sachbearbeiter macht nicht mal den Ansatz, mit dir zu schimpfen. Stattdessen schnalzt er leicht mit der Zunge.</DefaultText>
+      <FemaleText>Während du die Hand nach den Papieren des Sachbearbeiters ausstreckst, wird sie von einem seiner Augen erblickt. Sofort schnippt er mit den Fingern. Mit einem merkwürdigen Gefühl von Verlagerung stellst du fest, dass deine Hand sich an deiner Seite befindet, genau dort, wo sie ihre Bewegung angefangen hat, nur dass sie jetzt beinahe rheumatische Schmerzen leidet.
+
+Der Sachbearbeiter macht nicht mal den Ansatz, mit dir zu schimpfen. Stattdessen schnalzt er leicht mit der Zunge.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Einmal mehr befindet sich deine Hand wieder an der Hüfte, und einmal mehr ist sie steif und schmerzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Bring seine Papiere durcheinander, damit er dir seine Aufmerksamkeit widmet.</DefaultText>
+      <FemaleText>Bring seine Papiere durcheinander, damit er dir seine Aufmerksamkeit widmet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Versuchen, ob du diesmal seine Papiere durcheinanderbringen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Ohne Worte schnippt der Sachbearbeiter mit den Fingern und wirbelt deine Shin in ein neu geöffnetes Portal. Obwohl du das geforderte Bestechungsgeld gezahlt hast, wird das Verhalten des Sachbearbeiters, wenn überhaupt, noch selbstherrlicher.
+
+"Womit genau müsst Ihr mich behelligen?", seufzt er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Ich möchte nur kurz mit Euch reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Lebt wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Der Sachbearbeiter bestätigt nicht, dass er dich gehört hat, und setzt lediglich seine Arbeit fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Der Sachbearbeiter archiviert und archiviert weiterhin für eine *lange* Zeit seine Papiere. Gerade, als es schien, als ob er überhaupt nicht antworten würde, sagt er: "Ich habe keine Zeit für müßigen Tratsch, besonders dann nicht, wenn dringende Geschäfte des Rates erledigt werden müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Er bauscht sich auf und fügt der Weiterleitung seiner Papiere ein bestimmtes Flair zu. "Die Natur liefert jedem Wesen natürlich seine entsprechende Nische, und hier erlauben mir meine Kraft zur Biegung des Raums, meine geteilte Sicht und meine unbestechliche Integrität, eine Aufgabe auszuführen, die niemand sonst in der Neunten Welt übernehmen könnte."
+
+Er seufzt, doch aus Verzückung, nicht aus Verzweiflung. "Ein käuflicher Mann, ein zerstreubarer Mann, ein *gewöhnlicher* Mann würde unter der Versuchung und Belastung zerbrechen. Aber nicht ich."
+
+Damit kehrt sein bürokratischer unmutiger Blick zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Der Sachbearbeiter richtet ein Auge in deine Richtung, doch er verlangsamt dabei nicht das endlose Wühlen des Papierkrams.
+
+"Wenn ich sehen würde, wie Ihr an einer tödlichen Numenera fummelt, und der Schweiß von Eurer gerunzelten Stirn herunterläuft, würde ich Euch nicht am Ärmel ziehen und vorschlagen, welches Kabel zu durchtrennen sei. Also solltet Ihr vielleicht das gleiche Maß an Höflichkeit gegenüber meiner Berufung an den Tag legen, das ich Euch gegenüber erweisen würde."
+
+Als er sieht, dass du nicht verschwunden bist, fügt er hinzu: "Bitte erspart mir weitere Erörterungen darüber, welche Angelegenheiten Ihr welcher Aufmerksamkeit als würdig erachtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Der Sachbearbeiter richtet ein Auge in deine Richtung, doch er verlangsamt dabei nicht das endlose Wühlen des Papierkrams.
+
+"Wenn ich in irgendeiner uralten Ruine auf Euch stoßen würde, umherschleichend und auf der Suche nach fremdartigen Glyphen, würde ich keinen Gruß rufen und Euch sagen, welches Grab zu plündern sei. Also solltet Ihr vielleicht das gleiche Maß an Höflichkeit gegenüber meiner Berufung an den Tag legen, das ich Euch gegenüber erweisen würde."
+
+Als er sieht, dass du nicht verschwunden bist, fügt er hinzu: "Erspart mir weitere Erörterungen darüber, welche Angelegenheiten Ihr welcher Aufmerksamkeit als würdig erachtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Plötzlich verändert sich die Welt. 
+
+Du befindest dich in einem Labor, das nach verdorbener Milch stinkt. In einer Wanne vor dir – schwebend in grauer, zäher Flüssigkeit – befindet sich ein sehr junges Kind. Sein Schädel liegt in deinen Händen, und du knetest und dehnst ihn wie Teig. Zwei Augenflecken befindet sich über seinen natürlichen Augen.
+
+Er heult. Als er seine kleinen Fäuste ballt und wieder öffnet, erscheinen und verschwinden Reste: ein blauer Fetzen, eine Kürbisrassel, eine schwarze Haarlocke.
+
+Der Gedanke einer anderen Person dringt in deinen Kopf: "Er wird genügen."</DefaultText>
+      <FemaleText>Plötzlich verändert sich die Welt.
+
+Du befindest dich in einem Labor, das nach verdorbener Milch stinkt. In einer Wanne vor dir – schwebend in grauer, zäher Flüssigkeit – befindet sich ein sehr junges Kind. Sein Schädel liegt in deinen Händen, und du knetest und dehnst ihn wie Teig. Zwei Augenflecken befindet sich über seinen natürlichen Augen.
+
+Er heult. Als er seine kleinen Fäuste ballt und wieder öffnet, erscheinen und verschwinden Reste: ein blauer Fetzen, eine Kürbisrassel, eine schwarze Haarlocke.
+
+Der Gedanke einer anderen Person dringt in deinen Kopf: "Er wird genügen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Die Natur hat Euch nicht geschaffen. *Ich* habe Euch geschaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Deine Worte reichen aus, um die Arbeit des Sachbearbeiters zu unterbrechen – wenn auch nur für einen kurzen Augenblick. Alle vier Augen starren dich an, prüfend, auf der Suche nach einem Schmunzeln auf deinen Lippen oder einem Funkeln in deinen Augen. 
+
+Als er nichts findet, setzt er seine Arbeit fort, doch seine langen Finger weisen nicht mehr die bisherige Anmut auf. Schließlich sagt er naserümpfend: "Als Nächstes werdet Ihr ohne Zweifel scherzen, wie Ihr meine Mutter gebettet habt." Sein erzwungener Tonfall offenbart, dass er es nicht als Witz erfasste, doch trotz seines Talentes bei der Archivierung ist er anscheinend nicht in der Lage, gedanklich einzuordnen, was du ihm gesagt hast.</DefaultText>
+      <FemaleText>Deine Worte reichen aus, um die Arbeit des Sachbearbeiters zu unterbrechen – wenn auch nur für einen kurzen Augenblick. Alle vier Augen starren dich an, prüfend, auf der Suche nach einem Schmunzeln auf deinen Lippen oder einem Funkeln in deinen Augen. 
+
+Als er nichts findet, setzt er seine Arbeit fort, doch seine langen Finger weisen nicht mehr die bisherige Anmut auf. Schließlich sagt er naserümpfend: "Als Nächstes werdet Ihr ohne Zweifel scherzen, wie Ihr meine Mutter gebettet habt." Sein erzwungener Tonfall offenbart, dass er es nicht als Witz erfasste, doch trotz seines Talentes bei der Archivierung ist er anscheinend nicht in der Lage, gedanklich einzuordnen, was du ihm gesagt hast.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Ich möchte Euch ein paar allgemeine Fragen stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Ich möchte über Schreibarbeit reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Ein schwaches Seufzen ist die einzige Bestätigung, die du erhältst.</DefaultText>
+      <FemaleText>Ein schwaches Seufzen ist die einzige Bestätigung, die du erhältst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Ein schwaches Seufzen ist die einzige Bestätigung, die du erhältst.</DefaultText>
+      <FemaleText>Ein schwaches Seufzen ist die einzige Bestätigung, die du erhältst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Was genau *macht* Ihr mit all diesen Papieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Sagt mir nochmal, wie die Aufzeichnungen der Stadt aufbewahrt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Der Sachbearbeiter schüttelt ob deines Unwissens den Kopf. "Ich bringe sie von wo sie waren dorthin, wo sie sein müssen, indem ich den Raum dazwischen verbiege. Und wenn sie meinen Pult passieren, stelle ich sicher, dass sie ordnungsgemäß bearbeitet sind. Ich diene dem Staatswesen gleichzeitig als Herz, Niere und Nervensystem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Durch mich", antwortet er, nicht daran interessiert, seine überwältigende Wichtigkeit für das Wohlbefinden von Sagus Klippen erneut zu erklären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Es folgte eine Zeit der Aristokraten. Jeder Familienvater führte seine Abstammung auf uralte Helden zurück und schrieb diese Lügen in Stein. Heute pflastern diese Tafeln die Misthaufen, die im Zuge von Chilas Rebellion erbaut wurden." Er schnalzt verachtend mit der Zunge. "Das kam später."
+
+"Zuerst kamen die Tabaht, und als sie Sagus Klippen belagerten, verschlechterten sich die Aufzeichnungen der Stadt – wie Hygiene und Anstand so gerät während langer Jahre des Terrors auch die angemessene Dokumentation ins Wanken." Schulterzuckend und ohne Details fügt er hinzu: "Doch die Belagerung schlug fehl und die Tabaht verschwanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Dann folgte ein Zeitalter der Dekadenz, die Konsequenz der noch absonderlicheren Entscheidungen der Aristokratie. Sie legten dem Volk ihre Gründe in Sermomen dar – nicht um zu erklären, sondern um zu verspotten." Er schmunzelt. "Natürlich folgte die Rebellion."
+
+"Chila vertrieb die alten Herren und brachte neue Sklavenfamilien hervor. Ein Imperium expandierte und zog sich zusammen. Feiertage und Boulevards änderten ihre Namen – alles weitere blieb bestehen, vor allem die Korruption."
+
+"Schließlich kam ein neuer Sachbearbeiter und brachte Ordnung." Er verneigt sich. "Und hier sind wir nun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Der Sachbearbeiter schüttelt den Kopf. "Nur, dass sie in Sagus Klippen geboren wurde, und dass ihre Familie einmal Meldung erstattete, sie wäre vermisst."
+
+Er runzelt die Stirn. "Wenn die Stadt alle Aufzeichnungen über diese Frau verloren hat, ist ihre Identität in der Tat ein Geheimnis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Wie wäre es mit einer Vermisstenanzeige für jemanden, der aussieht wie Verlust-des-Selbsts? Ich kann sie Euch beschreiben ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Er schnippt mit den Fingern, wodurch sich ein Portal öffnet. Er schnipst eine Schriftrolle hindurch. "Ehe ich diese Stellung übernommen habe, beschäftigte der Rat Ebenen um Ebenen von Logotheten, Berufsschreibern, Archivaren und Kurieren – jeder bestechlich, verletzlich, insular. Die Ranken der Memovira wuchsen durch die Spalten in diesem schwankenden Bauwerk."
+
+Er starrt dich mit zwei strahlenden Augen an. "Doch nun gibt es nur mich. Ich frage mich, wer die Stadt beherrschen würde, wäre ich nicht in dieses Amt gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Es gibt natürlich eine Menge an Informationen – gezahlte Steuern, erhaltene Lizenzen, eine Patenturkunde – aber Ihr scheint mir weder Demograph noch Stadtplaner zu sein." Ein herablassendes Lächeln umspielt seine Lippen.
+
+"Ohne Zweifel seid Ihr auf der Suche nach ihrem Grab, um die Schätze der Vorzeit zu rauben. Ich versichere Euch, es gibt keine. Sie hat ihr Vermögen verteilt, zum größten Teil als Stiftung für eine Institution, die als die Hospiz bekannt ist."
+
+Er betrachtet dich mit einem Auge und entscheidet, dir etwas mehr zu geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Wie es scheint, war sie eine Spielzeugmacherin. Eine formale Auszeichnung durch den Rat – 'In Anerkennung für jemanden, der den jungen Herzen von Sagus Klippen Freude gebracht hat, und junge Herzen zu den alten'."
+
+Nach einem Augenblick fügt der Sachbearbeiter hinzu: "Da gibt es wirklich nichts weiter. Nach sieben Jahrhunderten ist wenig von einer Person übrig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Er betrachtet dich einen Augenblick und liest etwas von deinem Gesicht ab. "Ich kann nicht ergründen, was Ihr erwartet habt. Es gibt nichts weiter. Es ist kein wirklich üblicher Name, aber das Kind hat sicherlich ein übliches Los. Kommt in ein paar Jahren wieder, und ich bin sicher, dass es ein Magistratenurteil geben wird, wenn nicht gar eine Sterbeurkunde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Mit vor Panik bebender Stimme sagt er: "Diese Aufzeichnungen werden in einer versiegelten Kammer aufbewahrt, beherbergt in Nischen, die aus massivem Salz gehauen wurden." Er schüttelt den Kopf.
+
+"Es ist nur wenig übrig. Wenn das Eure Frau ist, kann ich Euch nur sagen, dass sie in der Stadt geboren wurde und dass ihre Familie nach ihr gesucht hatte."
+
+Du und deine Anfrage seid in Vergessenheit geraten, als er anfängt, systematisch jede Schriftrolle im Gewölbe zu prüfen, ein Schnippen nach dem anderen. Keine der anderen Schriftrollen scheint beschädigt zu sein, doch es scheinen endlos viele zu sein, die untersucht werden müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Der Sachbearbeiter wirft dir aus dem Augenwinkel eines Auges einen Blick zu. "Wie es scheint, habt Ihr die praktische Verpflichtung zur ordnungsgemäßen Verwaltung der Stadtangelegenheiten mit einem romantischen Wunsch nach rücksichtsloser harter Gerechtigkeit verwechselt. Ich versichere Euch, dass mich solche Impulse nicht rühren."
+
+Kurz darauf fügt er hinzu: "Um das klarzustellen, das war ein Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Der Sachbearbeiter schüttelt den Kopf. "Es gibt Levis, die sich um *diese* Art von Unterbrechung kümmern. Wenn Ihr etwas beabsichtigt, das noch ungehobelter ist, als in meinen Dokumenten herumzupfuschen, ist das nicht meine Sorge. *Meine* Pflichten liegen darin, die Verlässlichkeit der Stadtaufzeichnungen zu gewährleisten. Nicht mehr und nicht weniger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Der Sachbearbeiter antwortet schmunzelnd: "Oh, ohne Zweifel ist Korruption im Gange. Nun geht und versucht Eure Tricks woanders. Ich habe hier noch Arbeit zu verrichten."
+
+Er widmet sich wieder seiner Sortierung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>(Lügen) "Ich habe einem Ratsmitglied namens Crispus Horatius dabei geholfen, eine vermisste Chiffre zu finden. Ich bin sicher, dass er es gutheißen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Der Sachbearbeiter starrt dich mit einem seiner Augen an. "Habt Ihr wirklich geglaubt, dass ich nicht alle Namen der Berühmtheiten der Stadt auswendig kenne?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Wie kann ich jemanden finden, der mir hilft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Könnt Ihr mir nochmal sagen, wie ich jemanden finden kann, der in der Lage wäre, mir zu helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Warum könnt Ihr es mir nicht einfach geben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Sagt es mir nochmal – warum könnt Ihr es mir nicht einfach geben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Die Mächtigen zu *finden* ist nie schwer: Ihr Ruhm scheint wie ein Leuchtfeuer über die ganze Stadt. Sucht unter den Sklavenfamilien nach jemandem, der die Hilfe braucht, die einer wie Ihr sie liefern kann." 
+
+Er schmunzelt. "Selbst die Mächtigen – *vor allem* die Mächtigen – verstehen das Prinzip des quid pro quo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Bei den Schwarzen Dreien", faucht er, "seid Ihr ein Idiot? Findet eine mächtige Person und erweist ihr einen Gefallen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Der Sachbearbeiter seufzt frustriert. "Eine gut geführte Stadt ist eine mächtige, unerbittliche Maschine. Ein Passant kann ihren Betrieb nicht ändern, indem er einfach auf- und abspringt und schreit. Genauso wenig hat ein einzelnes Zahnrad die Kraft, oder den Willen, eigenständig zu agieren. Stattdessen muss man nach jenen Händen schreien, die sich an den Hebeln der Macht befinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Da das, wonach Ihr sucht, außergewöhnlich ist, und Ihr alle zusammen gewöhnlich seid", antwortet er abfällig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Tybir schüttelt traurig den Kopf. "Einige Männer hören nichts als das Klingeln von Shin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Mit philosophischem Auftreten antwortet Tybir: "Jede Ungerechtigkeit ist ein weiterer Stein, der in die Zahnräder Eurer großartigen Maschine geworfen wird. Ich würde an Eurer Stelle nicht warten, bis der ganze Apparat wieder zusammenbricht."
+
+Der Sachbearbeiter lässt sich nicht auf eine Antwort herab, doch du bemerkst, wie seine Finger einen Augenblick zittern, während sie ihre Arbeit verrichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Ich versichere Euch jedoch, dass der Rat eine solche Verantwortung nicht mir nichts dir nichts übernehmen wird, noch würde er es dem Ermessen seines Sachbearbeiters überlassen, das Geld der Stadt zu verbraten."
+
+Er starrt dich mit zwei Augen an. "Nur jemand, der viel bedeutender ist als Ihr oder ich könnte den Rat von so einer Sache überzeugen. Habt Ihr einen solchen Freund?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Was, wenn ich Euch eine weitere 'übliche Zuwendung' anbieten würde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Der Sachbearbeiter hält einen Moment in seiner Arbeit inne und richtet all seine Augen auf dich. "Das wäre eine *Bestechung* und keine Zuwendung. Dementsprechend würde ich die Angelegenheit dem Hauptmann der Levis melden, damit sie dem Kriminalkodex entsprechend damit verfährt."
+
+Nachdem er diese Warnung ausgesprochen hat, wendet er sich wieder dem Sortieren von Unterlagen zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Ihr müsst in all diesen Unterlagen einige faszinierende Geschichten über die Stadt herausgefunden haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Könntet Ihr mir eine andere Geschichte erzählen, die Ihr entdeckt habt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Natürlich", antwortet der Sachbearbeiter, doch für einen Augenblick verstummt er in Verschwiegenheit und Redlichkeit. Dann blinzelt eines seiner Augen in deine Richtung und du erkennst, dass er begierig ist, den doppelten Freuden des Voyeurs und des Klatsches nachzugeben.</DefaultText>
+      <FemaleText>"Natürlich", antwortet der Sachbearbeiter, doch für einen Augenblick verstummt er in Verschwiegenheit und Redlichkeit. Dann blinzelt eines seiner Augen in deine Richtung und du erkennst, dass er begierig ist, den doppelten Freuden des Voyeurs und des Klatsches nachzugeben.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Nachdem Chila die alten herrschenden Familien gestürzt hatte, gab es eine Zeit, als der Rat den Euphemismus ablegte, und man sieht, wie dieser und jener dafür bezahlt wird, einen Edelmann zu belästigen, bis dieser seinen Shin-Beutel hergibt, oder wie dieser und jener den Klagen von Müttern nachgeht, die von wütenden Mobs ihrer Kinder beraubt wurden."
+
+Er hält inne. "Man kann sich darüber streiten, ob dies Schamlosigkeit oder Transparenz ist, es führte jedoch zu einem Beitrag kurzen Glanzes – eine Summe, die gezahlt wurde, damit sich 'der Assassine' um besagten Wal kümmere."</DefaultText>
+      <FemaleText>"Nachdem Chila die alten herrschenden Familien gestürzt hatte, gab es eine Zeit, als der Rat den Euphemismus ablegte, und man sieht, wie dieser und jener dafür bezahlt wird, einen Edelmann zu belästigen, bis dieser seinen Shin-Beutel hergibt, oder wie dieser und jener den Klagen von Müttern nachgeht, die von wütenden Mobs ihrer Kinder beraubt wurden."
+
+Er hält inne. "Man kann sich darüber streiten, ob dies Schamlosigkeit oder Transparenz ist, es führte jedoch zu einem Beitrag kurzen Glanzes – eine Summe, die gezahlt wurde, damit sich 'der Assassine' um besagten Wal kümmere."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Rote Tinte", erklärt der Sachbearbeiter. "Seit Jahrhunderten erfasst der Ratsschreiber die Anmerkungen des Rates zu Gesetzesvorschlägen mit roter Tinte. Dann wird der Gesetzesentwurf an die Antragsteller im Keller des Ratsturms zurückgesendet, damit diese ihn überarbeiten."
+
+Er pflückt ein Beispiel aus der Luft, eine Verordnung in Bezug auf das Abstellen von Aneen. "Seht Ihr?" Er schickt sie dorthin zurück, von wo er sie genommen hatte. "Und dann, plötzlich, sind die Anmerkungen blau."
+
+Ein Auge starrt dich an. "Warum?" fragt er rhetorisch.</DefaultText>
+      <FemaleText>"Rote Tinte", erklärt der Sachbearbeiter. "Seit Jahrhunderten erfasst der Ratsschreiber die Anmerkungen des Rates zu Gesetzesvorschlägen mit roter Tinte. Dann wird der Gesetzesentwurf an die Antragsteller im Keller des Ratsturms zurückgesendet, damit diese ihn überarbeiten."
+
+Er pflückt ein Beispiel aus der Luft, eine Verordnung in Bezug auf das Abstellen von Aneen. "Seht Ihr?" Er schickt sie dorthin zurück, von wo er sie genommen hatte. "Und dann, plötzlich, sind die Anmerkungen blau."
+
+Ein Auge starrt dich an. "Warum?" fragt er rhetorisch.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Da haben wir das hier, von einem Botschafter an die Standhaften Königreiche gesendet." Er schnippt mit den Fingern, beschwört die Depesche hervor, räuspert sich und liest vor.
+
+"Heute beerdigten die Aeon-Priester einen Mann im Rahmen einer feierlichen Zeremonie, der 277 Jahre alt gewesen sein soll. Ich fragte, wie dieser Graubart so lange leben konnte und erhielt folgende Antwort."
+
+"Vor dreihundert Jahren hing in Durkhal das Gemälde einer spektakulären Schönheit, ein Relikt aus der Zeit von vor der Neunten Welt. Aus nicht bekannten Gründen war das Werk unvollendet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Der Sachbearbeiter schüttelt den Kopf, ohne den Blick von seiner Arbeit zu nehmen. "Ich habe Eurer Neugier schon zu sehr nachgegeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Der Bernsteinpapst glaubte, dass es eine Wahrheit über die menschliche Natur offenbaren würde, die jeglicher intellektuellen Erforschung entgangen war, würde es nur vollendet. Er verkündete, dass derjenige Maler, der es fertigstellen würde, eine Chiffre erhalten würde, die es ihm ermöglichen würde, 250 weitere Jahre zu leben."
+
+"Großartige Künstler strömten nach Durkhal, um das Meisterwerk zu begutachten. Doch als sie es sahen, wagte sich keiner von ihnen, den Pinsel zu schwingen. Schließlich näherte sich ein junger Tüncher, mit Pinseln, Rollen und Farbeimern bewaffnet. 'Ich kann es fertigstellen', sagte er."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Der Bernsteinpapst nickte und der Junge schüttete einen ganzen Eimer Farbe über die Leinwand. Der leere Bereich wurde gefüllt, das Gemälde war jedoch mit Weiß beschmiert und seine Erhabenheit verschwunden."
+
+"Der Papst hielt sein Versprechen und segnete den Tüncher mit Langlebigkeit. Er war jedoch in den Foltergruben unterhalb von Durkhal geboren worden, wo er bis zu jenem Tag blieb, an dem sein langes Leben ein Ende fand."
+
+Der Sachbearbeiter faltet die verblasste Depesche, steckt sie wieder in ihren Umschlag zurück und schickt sie fort, ohne ein Wort mehr zu sagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Er schmunzelt. "In einem nicht ganz so wörtlichen Alter wäre der 'besagte Wal' der verschwenderische Spross eines Kaufmannsklans oder eine großzügige Contessa, aber nicht hier. Hierbei handelte es sich um Gelder, die verlangt wurden, um einen Wal zu töten, nicht mehr und nicht weniger."
+
+Das Auge, das dich anblickt, blinzelt vor Entzückung.</DefaultText>
+      <FemaleText>Er schmunzelt. "In einem nicht ganz so wörtlichen Alter wäre der 'besagte Wal' der verschwenderische Spross eines Kaufmannsklans oder eine großzügige Contessa, aber nicht hier. Hierbei handelte es sich um Gelder, die verlangt wurden, um einen Wal zu töten, nicht mehr und nicht weniger."
+
+Das Auge, das dich anblickt, blinzelt vor Entzückung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Man findet in der Strafprozessliste einen Eintrag in Bezug auf einen Bittsteller, der für die 'Verschwendung offizieller Ressourcen, nämlich achttausendzweihundertsechzehn Liter rote Tinte' hingerichtet worden ist. Tod durch Ertränken." Der Sachbearbeiter zuckt mit den Schultern: "Ich nehme an, er wurde nicht in roter Tinte ertränkt."
+
+Er schnippt mit den Fingern und erzeugt einen dicken Papierstapel, den er wie ein Kartendeck mit dem Daumen durchblättert. Jedes Blatt ist mit roten Anmerkungen übersät. "Entwurf, um Entwurf, um Entwurf. Es scheint, als hätte er es niemals recht machen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Der Sachbearbeiter sieht dich an und lächelt. "Also, keine rote Tinte mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Und, das Beste daran ist, dass der Auftrag offenbar scheiterte. Da fragt man sich ... wie kann man als Assassine einen Wal verfehlen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Und das Beste ist, dass der arme Assassine von diesem bemerkenswerten Ziel offenbar derart zerstreut war, dass er die Abmachung vollständig widerrief."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Da fragt man sich für den armen Schatzmeister, wer die Shin für diese Eskapade durchzählen musste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Der Sachbearbeiter setzt seine Arbeit fort und blickt immer wieder zu dir, um deine Langeweile und Frustration zu bemessen – offenbar nicht, da er sie in irgendeiner Weise mildern möchte, sondern um sich selbst eine der kleinen Freuden belangloser Macht zu gönnen.
+
+"Wie viele Hände mussten diese Notiz wohl berühren, bevor ihre Worte Lord Vuntgens Ohren erreichten?", sinniert er. 
+
+Er schaut von Zeit zu Zeit nach einer Antwort, wobei er mit den Fingern schnippt und nichts vorfindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Schließlich zieht er einen dünnen, lavendelfarbenen Umschlag aus einem Portal. Mit dem dumpfen Hieb eines Brieföffners öffnet er den Umschlag und zieht ein frisches, mit einem Wasserzeichen versehenes Pergamentblatt heraus.
+
+"Wohingegen ... annehmend ... Gesetz und Gleichheit ... ahhh", murmelt der Sachbearbeiter. Er legt das Blatt ab, prägt es mit dem Niederen Siegel von Sagus Klippen und überreicht es dir. 
+
+Es handelt sich um eine Versicherungsurkunde, dass Rennio jegliche Schäden von der Stadtkasse erstattet bekommt. "Offenbar habt Ihr tatsächlich Freunde in gehobenen Positionen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Der Sachbearbeiter zuckt mit den Schultern. "Ich nehme an, dass sie befugt ist, eine solche Entlastung auszusprechen, sofern sie eine angemessene Begründung vorweisen kann."
+
+Er notiert eine Mitteilung und sendet sie durch ein Portal. Mit erstaunlicher Geschwindigkeit geht eine Antwort ein und du erkennst an der uneleganten Schrift, dass sie eilig verfasst wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Wohingegen ... annehmend ... Gesetz und Gleichheit ... ahhh", murmelt der Sachbearbeiter. Er legt das Blatt ab, prägt es mit dem Niederen Siegel von Sagus Klippen und überreicht es dir. 
+
+Es handelt sich um eine Versicherungsurkunde, dass Rennio jegliche Schäden von der Stadtkasse erstattet bekommt. "Offenbar hat Peliai eine adäquate Begründung gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Der Sachbearbeiter lacht laut auf. "Ein spezieller Verbindungsmann, was? Und das hat auch nichts mit diesem Ris zu tun?" Er schüttelt den Kopf. "Erspart uns beiden weitere Lügen, bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Ein Kapitalprozess?", murmelt der Sachbearbeiter. "Da ist es wohl einfacher, Shin aus einem Navarener zu schütteln."
+
+Nach einem Augenblick seufzt er: "Die einzige Person, die Euch hierbei helfen könnte, ist ein Mitglied des Rats. Und nicht nur irgendein Mitglied, sondern eines mit ausreichend Macht, um einige Kollegen davon zu überzeugen, ein solches Gnadengesuch abzusegnen. Wenn Ihr einen solchen Förderer habt, dann werde ich ihm die notwendigen Unterlagen zukommen lassen."
+
+Mit einem einäugigen Blick und einem schwachen Lächeln fügt er hinzu: "Viel Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Der Sachbearbeiter schüttelt den Kopf. "Könnt Ihr Euch an nichts erinnern? Es ist ziemlich einfach – Ihr braucht ein mächtiges Ratsmitglied, das im Namen dieses Ris einschreitet. Wenn Ihr einen solchen Förderer habt, dann werde ich ihm die notwendigen Unterlagen zukommen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Ich versuche gerade, ein Begnadigungsschreiben für einen Mann namens Ris zu bekommen, der fälschlicherweise zum Tode verurteilt wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Erklärt mir nochmal, wie ich eine Begnadigung für Ris erhalte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Lord Vuntgen wird das Gnadengesuch unterstützen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Der Sachbearbeiter schüttelt den Kopf. "Wenn Ihr in der Lage seid, *zwei* dieser Gefallen von Lord Vuntgen zu erhalten, dann seid Ihr wahrlich ein Zauberer." Er schreibt eine weitere Notiz und befördert sie in ein Portal.
+
+Diesmal dauert es nicht so lange, bis ein Umschlag zurückgesendet wird, der weder lavendelfarben ist noch duftet. Der Sachbearbeiter ist von dieser Entwicklung deutlich entzückt und er reißt den Umschlag mit begierigen Fingern auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Der Sachbearbeiter hebt vier Brauen. "Tatsächlich? Überprüfen wir diesen Vorschlag."
+
+Er kritzelt auf einem Papierschnipsel, schnippt mit den Fingern und schickt die Nachricht zu einem fernen Funktionär.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Der Sachbearbeiter setzt seine Arbeit fort und blickt immer wieder zu dir, um deine Langeweile und Frustration zu bemessen – offenbar nicht, da er sie in irgendeiner Weise mildern möchte, sondern um sich selbst eine der kleinen Freuden belangloser Macht zu gönnen.
+
+"Wie viele Hände mussten diese Notiz wohl berühren, bevor ihre Worte Lord Vuntgens Ohren erreichten?", sinniert er. 
+
+Er schaut von Zeit zu Zeit nach einer Antwort, wobei er mit den Fingern schnippt und nichts vorfindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Schließlich zieht er einen dünnen, lavendelfarbenen Umschlag aus einem Portal. Mit dem dumpfen Hieb eines Brieföffners öffnet er den Umschlag und zieht ein schimmerndes, geschmiedetes Metallblech heraus.
+
+"Der besagte Gefangene ... Verbrechen und Ordnungswidrigkeiten ... nun und auf ewig", murmelt der Sachbearbeiter, wobei er den Kopf vor Verwunderung schüttelt. "Nun, alles in Ordnung."
+
+Er händigt dir die Begnadigung mit einer Mischung aus Respekt und Groll aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Einen Augenblick später schürzt er die Lippen und schüttelt den Kopf mit vorgetäuschtem Trost. "Seine Lordschaft ist unpässlich", bedauert er und händigt dir die Mitteilung aus. "Offenbar wurde jedwede Schuld Euch gegenüber bereits beglichen."
+
+In der Mitteilung steht in der Tat noch mehr: "Mein Herr berichtet mir, dass die Angelegenheit nun zum angemessenen Vorteil aller Parteien erledigt wurde, ohne weitere daraus hervorgehenden Verpflichtungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>(Lüge) "Ich bin ein spezieller Verbindungsmann aus dem Richterlichen Aufsichtskomitee, und ich muss eine Aussetzung der Hinrichtung überprüfen, die für Col Cardin ausgestellt worden ist. Es gibt keine Bedenken hinsichtlich Korruption."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Der Sachbearbeiter kichert und ziemt sich nicht einmal zu einer Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Nein", faucht er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Kann ich bitte das Begnadigungsschreiben haben? Ich verspreche Euch, dass es wichtig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Ihr habt die Memovira erwähnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Der Sachbearbeiter blickt finster, ohne aufzuschauen. "Einige Erbauer errichten Monumente aus Marmor. Andere reißen diese Monumente ein, kochen den Marmor zu Kalk, mischen den Kalk zu Beton und nutzen diesen Beton, um verstärkte Bunker zu bauen." Er schüttelt den Kopf. "Organisationen können auf die gleiche Weise gegründet werden. Und Völker. Die Memovira haben viele Dinge zerstört, und aus den Trümmern haben sie eine undurchdringbare Organisation abgehärteter Seelen erbaut. Ihr würdet gut daran tun, Euch davon fernzuhalten."
+
+Ein Auge blickt dich an. "Ihr seht aber nicht weise aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Wer ist die Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Wo finde ich die Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Der Sachbearbeiter kichert leise, während er ein Formular ausfüllt. "Die Flor." Einen Augenblick später fügt er hinzu: "Manchmal kann man ein Buch offenbar doch anhand seines Einbands beurteilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Ihr habt zuvor die Memovira erwähnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Der Sachbearbeiter blickt finster, ohne aufzuschauen. "Einige Erbauer errichten Monumente aus Marmor. Andere reißen diese Monumente ein, kochen den Marmor zu Kalk, mischen den Kalk zu Beton und nutzen diesen Beton, um verstärkte Bunker zu bauen." Er schüttelt den Kopf. "Organisationen können auf die gleiche Weise gegründet werden. Und Völker. Die Memovira haben viele Dinge zerstört, und aus den Trümmern haben sie eine undurchdringbare Organisation abgehärteter Seelen erbaut. Ihr würdet gut daran tun, Euch davon fernzuhalten."
+
+Ein Auge blickt dich an. "Ihr seht aber nicht weise aus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Wo finde ich die Memovira?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Wo finde ich die Memovira nochmal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Der Sachbearbeiter kichert leise, während er ein Formular ausfüllt. "Die Flor." Einen Augenblick später fügt er hinzu: "Manchmal kann man ein Buch offenbar doch anhand seines Einbands beurteilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Die Flor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Nun, gibt es noch etwas, das du brauchst, oder kann ich mich wieder auf meine Arbeit konzentrieren?"</DefaultText>
+      <FemaleText>"Nun, gibt es noch etwas, das du brauchst, oder kann ich mich wieder auf meine Arbeit konzentrieren?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"In den älteren Akten der Stadtgeschichte ist nichts über Zebb zu finden?"</DefaultText>
+      <FemaleText>"In den älteren Akten der Stadtgeschichte ist nichts über Zebb zu finden?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Du denkst, dass auch er in der Vergangenheit auftauchen wird?" Er schnaubt. "Ich vermute, dass das etwas mit diesem *Tor*dort um die Ecke zu tun hat. Leider lautet die Antwort nein. Ich habe keine Aufzeichnungen zu dem Jungen in der Vergangenheit. Daher ist er eindeutig nicht dorthin."</DefaultText>
+      <FemaleText>"Du denkst, dass auch er in der Vergangenheit auftauchen wird?" Er schnaubt. "Ich vermute, dass das etwas mit diesem *Tor*dort um die Ecke zu tun hat. Leider lautet die Antwort nein. Ich habe keine Aufzeichnungen zu dem Jungen in der Vergangenheit. Daher ist er eindeutig nicht dorthin."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Ich habe weitere Fragen zu den Unterlagen."</DefaultText>
+      <FemaleText>"Ich habe weitere Fragen zu den Unterlagen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Er seufzt erneut. "Natürlich hast du die."</DefaultText>
+      <FemaleText>Er seufzt erneut. "Natürlich hast du die."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Lass mich mal nach Fehlern suchen", faucht Tybir mit bösem Blick zum Sachbearbeiter. "Das Leben des armen Ris hängt an Fetzen. Noch ein Fehler und er wird in den Abgrund gejagt."</DefaultText>
+      <FemaleText>"Lass mich mal nach Fehlern suchen", faucht Tybir mit bösem Blick zum Sachbearbeiter. "Das Leben des armen Ris hängt an Fetzen. Noch ein Fehler und er wird in den Abgrund gejagt."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Hier? Wir tun das *hier*?"</DefaultText>
+      <FemaleText>"Hier? Wir tun das *hier*?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Ich habe kein gutes Gefühl bei der Sache."</DefaultText>
+      <FemaleText>"Ich habe kein gutes Gefühl bei der Sache."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Nun", murmelt er und schlägt dir das Dokument auf den Rücken. "Ich könnte einen Betrug auch in einem flauschigen Sessel hinter verschlossener Tür begehen." Er beugt sich um deine Schulter und grinst. "Doch wo wäre dann der Spaß?"</DefaultText>
+      <FemaleText>"Nun", murmelt er und schlägt dir das Dokument auf den Rücken. "Ich könnte einen Betrug auch in einem flauschigen Sessel hinter verschlossener Tür begehen." Er beugt sich um deine Schulter und grinst. "Doch wo wäre dann der Spaß?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Du spürst, wie er etwas in das Dokument schreibt, vermutlich Ris' Namen, bevor er es in deine Tasche schiebt und sich daraufhin höflich räuspert, um die Aufmerksamkeit des Ratsbeamten zu erwecken.  
+
+"Alles *scheint* in Ordnung zu sein", sagt er, den Mund zu einer strengen Linie gezogen. "Und natürlich nichts für ungut."</DefaultText>
+      <FemaleText>Du spürst, wie er etwas in das Dokument schreibt, vermutlich Ris' Namen, bevor er es in deine Tasche schiebt und sich daraufhin höflich räuspert, um die Aufmerksamkeit des Ratsbeamten zu erwecken.  
+
+"Alles *scheint* in Ordnung zu sein", sagt er, den Mund zu einer strengen Linie gezogen. "Und natürlich nichts für ungut."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Wirklich?" Tybir murmelt und schlägt dir das Dokument auf den Rücken. "Ich mag es so. Verleiht dem Ganzen etwas Würze. So bleibe ich dran."</DefaultText>
+      <FemaleText>"Wirklich?" Tybir murmelt und schlägt dir das Dokument auf den Rücken. "Ich mag es so. Verleiht dem Ganzen etwas Würze. So bleibe ich dran."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Du wunderbarer Wahnsinniger."</DefaultText>
+      <FemaleText>"Du wunderbarer Wahnsinniger."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Tybir kichert leise. 
+
+"Ich denke, dass wir beide gut miteinander auskommen werden."</DefaultText>
+      <FemaleText>Tybir kichert leise. 
+
+"Ich denke, dass wir beide gut miteinander auskommen werden."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Der Sachbearbeiter richtet ein einzelnes, wütendes Auge auf Tybir. 
+
+"Natürlich verstehe ich", sagt er mit bebender Stimme.
+
+Er richtet seinen einäugigen Blick auf dich. "Gibt es noch andere Punkte zu besprechen? Ich bin heute ziemlich eingespannt."</DefaultText>
+      <FemaleText>Der Sachbearbeiter richtet ein einzelnes, wütendes Auge auf Tybir. 
+
+"Natürlich verstehe ich", sagt er mit bebender Stimme.
+
+Er richtet seinen einäugigen Blick auf dich. "Gibt es noch andere Punkte zu besprechen? Ich bin heute ziemlich eingespannt."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Lass mich mal nach Fehlern suchen", faucht Tybir mit bösem Blick zum Sachbearbeiter.  "Natürlich sollte ich das nicht tun *müssen*, wir wären heute aber nicht hier, wenn *jemand* in einer Autoriätsposition nicht einen Fehler gemacht hätte."</DefaultText>
+      <FemaleText>"Lass mich mal nach Fehlern suchen", faucht Tybir mit bösem Blick zum Sachbearbeiter.  "Natürlich sollte ich das nicht tun *müssen*, wir wären heute aber nicht hier, wenn *jemand* in einer Autoriätsposition nicht einen Fehler gemacht hätte."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Warum provozierst du ihn?"</DefaultText>
+      <FemaleText>"Warum provozierst du ihn?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Provozieren?" murmelt Tybir erfreut. "Nein, ich erkaufe uns nur etwas Privatsphäre an einem belebten Ort.  Leute wie *er* schauen nie zu, wenn andere ihre Arbeit kontrollieren."
+
+Du wirfst einen kurzen Blick hinüber. Eine Wallung des Zorns färbt die Wangen des Sachbearbeiters ein und seine Augen sind entschlossen auf die Unterlagen vor ihm gerichtet.</DefaultText>
+      <FemaleText>"Provozieren?" murmelt Tybir erfreut. "Nein, ich erkaufe uns nur etwas Privatsphäre an einem belebten Ort.  Leute wie *er* schauen nie zu, wenn andere ihre Arbeit kontrollieren."
+
+Du wirfst einen kurzen Blick hinüber. Eine Wallung des Zorns färbt die Wangen des Sachbearbeiters ein und seine Augen sind entschlossen auf die Unterlagen vor ihm gerichtet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Sein Mund verdreht sich vor Verwirrung und er konzentriert seine Augen vollständig auf seine Arbeit. Tybir lässt ein Fläschchen aus seinem Ärmel gleiten und tunkt einen Finger in die silberfarbene Flüssigkeit im Inneren. Dann fährt er über den Namen des Verurteilten, der sich vor deinen Augen auflöst.
+
+"Beug dich vor", zischt er und tritt zwischen dich und den Sachbearbeiter.</DefaultText>
+      <FemaleText>Sein Mund verdreht sich vor Verwirrung und er konzentriert seine Augen vollständig auf seine Arbeit. Tybir lässt ein Fläschchen aus seinem Ärmel gleiten und tunkt einen Finger in die silberfarbene Flüssigkeit im Inneren. Dann fährt er über den Namen des Verurteilten, der sich vor deinen Augen auflöst.
+
+"Beug dich vor", zischt er und tritt zwischen dich und den Sachbearbeiter.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Ich danke dir dafür, Junge", sagt Tybir sanft und senkt den Blick. "Du hast etwas Wundervolles getan, das verspreche ich."</DefaultText>
+      <FemaleText>"Ich danke dir dafür", sagt Tybir sanft und senkt den Blick. "Du hast etwas Wundervolles getan, das verspreche ich."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

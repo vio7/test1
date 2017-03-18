@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_cortex</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>198</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Sphäre dreht sich langsam, beinahe so, als würde sie es bewusst tun. Das Leuchten des Bedienfelds pulsiert im Einklang mit ihr und wärmt deine Handflächen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Stimme des Cortex spricht zu dir und erfüllt deine Gedanken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Den Hebel nach unten reißen, ohne die Formen aufzureihen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Noch einmal versuchen, den Hebel nach unten zu reißen, ohne die Formen aufzureihen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Den Entfernungsprozess des Cortex fortsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Natürlich. Wie ich feststellen muss, benutzt du dieses Bedienfeld zum ersten Mal. Für Phase 1 ist die Zusammenstellung eines Zugriff-Symbols auf dem Bildschirm vor dir und die darauffolgende Betätigung eines Hebels an der Seite des Bedienfelds notwendig."
+
+Ein Haufen kleiner, gezackter Symbole stolpert über den Bildschirm, als hätte ihn jemand unachtsam daraufgeworfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du ergreifst den Hebel und reißt ihn gewaltsam herunter. 
+
+Nach einem kurzen Moment der Stille spricht die Stimme in deinem Kopf. Sie hört sich etwas enttäuscht an. "Eine außergewöhnlich einfallsreiche Lösung. Herzlichen Glückwunsch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du lehnst dich gegen den Hebel, kannst ihn aber nicht bewegen. 
+
+"Das Zeitlimit wurde erreicht", sagt die Stimme schließlich. "Phase 1 wurde zurückgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Das Zugangs-Symbol zusammensetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Noch einmal versuchen, das Zugangs-Symbol zusammenzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Mit schneller Hand vereinst du die kleinen, gezackten Symbole mit mehreren befriedigenden Klickgeräuschen zu einem größeren, dir unbekannten Emblem.
+
+Nachdem ein dumpfes Geräusch unter dem Hebel ertönt, drückst du ihn nach unten. 
+
+"Hervorragende Arbeit", sagt die Stimme freundlich. "Gut gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du stubst die kleinen, gezackten Symbole willkürlich an, kannst dir aber einfach keinen Reim darauf machen, wie du sie zusammensetzen sollst. 
+
+"Das Zeitlimit wurde erreicht", sagt die Stimme schließlich. "Phase 1 wurde zurückgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Das Summen im Hintergrund der Stimme ändert sich auf subtile Weise. "Phase 1 des Entfernungsprozesses wurde abgeschlossen. Deine Aktionen müssen nun von der Kontrollgrube aus verifiziert werden. Bitte warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Tritt von der Sphäre zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Phase 2 eingeleitet. Bitte identifiziere die wesentlichen Sperr-Komponenten aus der vorherigen Phase. Sobald diese Aufgabe erfolgreich erledigt wurde, wird sich die Klappe über dem *FEHLER - ÜBERSETZUNG VON TITLE-OF-SWITCH NICHT MÖGLICH* öffnen. Lege den Schalter um, um diese Phase abzuschließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Klappe über dem Schalter einschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Noch einmal versuchen, die Klappe über dem Schalter einzuschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du schlägst auf die Klappe ein, die unter deinen Fäusten zerbricht und legst damit den Schalter frei. Du legst ihn um. 
+
+"Phase 2 abgeschlossen", sagt die Stimme mit einem leichten Seufzen, das deine Schläfen wärmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du schlägst mehrere Male auf die Klappe ein, aber sie hält deinen Schlägen stand. 
+
+"Die Zeit für das Abschließen dieser Phase ist abgelaufen", sagt die Stimme endlich. "Phase 2 wurde zurückgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Die richtigen Symbole aus der letzten Phase heraussuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Noch einmal versuchen, die richtigen Symbole aus der letzten Phase herauszusuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ein Schwall an Symbolen fegt über den kleinen Bildschirm des Bedienfelds. Zunächst erscheinen sie dir allesamt fremd, nach einer Weile aber erkennst du einige wieder. Sie verschwinden unter den Tapsern deiner Fingerspitzen mit einem hohen *Ping!*. 
+
+Ein flatterndes Geräusch - etwa so wie die Flügel eines Insekts - ertönt aus dem Bedienfeld, und die Klappe über dem Schalter öffnet sich. Du legst den Schalter um. 
+
+"Phase 2 abgeschlossen", sagt die Stimme erfreut. "Gut gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Eine Lawine aus Symbolen rollt über den Bildschirm des Bedienfelds. Keines davon kommt dir aus der vorherigen Phase bekannt vor.
+
+"Die Zeit für das Abschließen dieser Phase ist abgelaufen", sagt die Stimme endlich. "Phase 2 wurde zurückgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Deine Aktionen aus Phase 2 wurden zur Prüfung an das Beobachtungsdeck gesendet. Bitte warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Phase 3 eingeleitet. Ordne die Symbole, die in der vorherigen Phase ausgewählt wurden, in einem *KRITISCHER FEHLER - VORLIEGENDE SYNTAX UNGÜLTIG*", sagt die Stimme in einem hohen, fordernden Ton. "*ANWEISUNGEN FEHLERHAFT. ERFOLGREICHER ABSCHLUSS DES CORTEX-ENTFERNUNGSPROZESSES UNWAHRSCHEINLICH. WARTUNG ERFORDERLICH. WIEDERHOLE - WARTUNG ERFORDERLICH.*"
+
+Nach einer langen Pause setzt die Stimme ihre Ansagen in einem ruhigen Ton fort. "Sobald dieser Schritt abgeschlossen ist, muss der Schlüssel-Zylinder aus seinem Gehäuse gezogen, gedreht und wieder eingefügt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du greifst nach dem Ring an der Oberseite des Schlüssel-Mechanismus, stemmst dich mit deinem Fuß gegen die Seite der Konsole und ziehst mit all deiner Kraft. 
+
+Der Zylinder springt aus seinem Gehäuse, und du wirst beinahe auf deinen Rücken geworfen. Du drehst ihn und schiebst ihn in wieder in die Konsole zurück. 
+
+"Phase 3 abgeschlossen", sagt die Stimme, und du könntest schwören, dass sie dabei ihre nicht vorhandenen Zähne zusammenbeißt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Bitte warten. Deine Aktionen in Phase 3 müssen verifiziert werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du greifst nach dem Ring an der Oberseite des Zylinders und ziehst, bis deine Muskeln brennen. Er bewegt sich keinen Zentimeter. 
+
+"Die Zeit für das Abschließen dieser Phase ist abgelaufen", sagt die Stimme endlich. "Phase 3 wurde zurückgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Den Schlüssel-Zylinder mit Gewalt herausziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Noch einmal versuchen, den Schlüssel-Zylinder mit Gewalt herauszuziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ohne irgendwelche nützlichen Informationen untersuchst du die rotierenden Symbole auf dem Bildschirm. Jedes von ihnen bewegt sich, außer einem in der oberen linken Ecke - das Symbol, das du in Phase 1 zusammengesetzt hast. 
+
+Auf gut Glück versuchst du, die verbleibenden Symbole in einem Rahmen um es herum zu arrangieren.
+
+"Hervorragende Arbeit", sagt die Stimme. "So schnell hat noch niemand diese Phase abgeschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du starrst auf die Symbole, die sich über den Bildschirm drehen. Dir kommt kein guter Einfall. 
+
+"Die Zeit für das Abschließen dieser Phase ist abgelaufen", sagt die Stimme endlich. "Phase 3 wurde zurückgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Versuchen, herauszufinden, was das Ziel der Phase ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Erneut versuchen, herauszufinden, was das Ziel der Phase ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Sobald deine Aktionen aus Phase 1 verifiziert wurden, gehen wir zu Phase 2 über."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Phase 2 wurde nicht verifiziert. Wir gehen zu Phase 3 über, sobald Phase 2 verifiziert wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Die Verifizierung von Phase 3 steht aus. Der Zugriff auf den Cortex wird erst nach der erfolgreichen Verifizierung von Phase 3 ermöglicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Der Cortex-Entfernungsprozess wurde abgeschlossen. Der Cortex kann nun aus seinem Gehäuse entfernt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Den Cortex entfernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Mehr Informationen zu Phase 3 erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Noch mehr Informationen zu Phase 3 erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Natürlich", sagt die Stimme und hört sich dabei wenig enthusiastisch an. "Dieser Teil des Prozesses basiert auf den Lehren von Kapitänsphilosoph Haranar. Insbesondere bezieht er sich auf *KRITISCHER FEHLER - VERBINDUNG ZU PHILOSOPHISCHEN ARCHIVEN FEHLERHAFT*." 
+
+Ein schmerzhaftes Rauschen erfüllt deinen Kopf wie ein Donnern. Du beißt die Zähne zusammen, bis es vergeht. 
+
+"Folglich", fährt die Stimme ruhig fort, "lässt sich diese Phase recht einfach abschließen. Nur 10 % der herkömmlichen Nutzer hatten Schwierigkeiten damit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Folge den Lehren von Kapitänsphilosoph Haranar", sagt die Stimme sanft. "Solltest du damit nicht vertraut sein, so lohnt es sich, das Wissen um die Lehren von Kapitänsphilosoph Amiken aufzufrischen." Die Stimme räuspert sich. "Oh. Ich hoffe, damit habe ich nicht zu viel verraten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Diese Phase setzt entweder ein hohes Maß an visueller Retention oder die Fähigkeit, die kleinen Bestandteile eines größeren Ganzen zu identifizieren, voraus. Du wirst unter vielen anderen Symbolen sechs Bestandteile des Symbols identifizieren müssen, das du in Phase 1 zusammengesetzt hast."
+
+Ein elektrischer Schlag fegt durch deinen Kopf. "Die Phase wird zurückgesetzt, wenn zu viel Zeit verstrichen ist oder vier falsche Symbole ausgewählt wurden. Viel Erfolg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Du musst sechs Symbole aus der vorherigen Phase identifizieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Informationen zu Phase 2 erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Weitere Informationen zu Phase 2 erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"In der ersten Phase wird ein zufälliges 'Zugangs-Symbol' generiert, das aus 9 bis 17 einzelnen Formen besteht, die innerhalb eines kurzen Zeitraums zusammengesetzt werden müssen. Der Hebel an der Seite der Konsole kann nur dann betätigt werden, wenn diese Aufgabe erfolgreich gelöst wurde."
+
+Die Stimme hält einen Moment lang inne. Als sie wieder zu sprechen beginnt, kannst du eine Spur von Eifer heraushören. "Schon lange hat sich kein neuer Nutzer mehr an dieser Phase versucht. Pilot-Major Genjes ist mit diesem Prozess recht vertraut. Viel Erfolg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Du musst zufällig generierte Fragmente zu einem 'Zugangs-Symbol' zusammensetzen. Sobald das getan ist, musst du den Hebel betätigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Mehr Informationen zu Phase 1 erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Noch mehr Informationen zu Phase 1 erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Du nickst dir selbst mit einem finsteren Blick zu, in dem Wissen, dass du keine Zeit damit verschwenden kannst, dieses Gerät genauer zu untersuchen. Jetzt heißt es alles oder nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Die riesige, glühende Sphäre verdunkelt sich und wird regungslos, als eine kleinere Kugel aus ihr herausdriftet, sich träge in deine Richtung wölbend wie ein kleiner Planet. Du hebst deine Hand und greifst ihn aus der Luft.
+
+Der Cortex gehört dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Ohne den Cortex ist die Konsole dunkel und still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Die funktionale Konsole benutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Lass den Cortex in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Du berührst die Konsole und die Wärme breitet sich über deine Arme aus und erreicht deinen Verstand. 
+
+In dem Moment, als du sie berührst, beginnt eine weibliche Stimme zu sprechen. "Ah-vsiti t‘n - ", und mit einem kurzen Stottern fährt sie in der Wahrheit fort, " - würdest du gerne tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Follow-up PQ. 78</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ich bin ein Navigations-Cortex. Ich wurde vor 3059 Zyklen von der Devabil-Vereinigung konstruiert, 2153 Zyklen verbleiben. Ich wurde durch einen lokalisierten, dimensionalen Vortex hierher gebracht, der seitdem zerfallen ist. Ich werde betrieben von einer Quantum-getunnelten, interstitiellen Hovarinenmatrix - der 'glühenden Kugel', die du vor dir siehst. Ich interagiere sowohl mit Nutzern als auch mit Rezeptoren, um historische Informationen auf Basis von Aufzeichnungen oder Beobachtungen wiederzugeben. Darüber hinaus liefere ich Informationen zur Sternenfeld-Navigation, Beobachtung und grundlegender Sternenhafen-Wartung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Ich erfasse Informationen zu exakt 1.097.544 Sternensystemen mit Details über Routen zwischen ihnen und inklusive bekannter transdimensionaler Durchgänge. Für jede Welt in jedem einzelnen dieser Sternensysteme verfüge ich über detaillierte Bilder ihrer Nachthimmel und projizierter Tages-Sternenfelder. Außerdem erfasse ich detaillierte Personalinformationen für diese Station, die viele Jahrhunderte zurückreichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Den Cortex über sich selbst befragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Den Cortex weiter über sich selbst befragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Follow-up PQ. 83</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Tausende von Einträge - vielleicht zehntausende - ziehen an deinen Augen vorüber, ergänzt durch geheime Zeitmessungen, Namensänderungen, Geburts- und Todesdaten ... das gesamte Personal, das jemals gelebt, gereist oder auf andere Weise den Ankerplatz passiert hat, egal wie kurz dessen Aufenthalt auch war. Die bloße Menge an Informationen ist überwältigend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Deine Fassungslosigkeit spürend, sagt die weiche Stimme: "Bestimmte historische Trends können können durch die Analyse dieser Daten abgeleitet werden, aber das scheint nicht dein Fokus zu sein. Beliebte Interaktionen beinhalten kurze geschichtliche Überblicke über die Station, wichtige jüngste Ereignisse und die Standortsuche für vermisste Besatzungsmitglieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Die Stationseinträge sind frei für deine Durchsicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Follow-up PQ. 87</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Meine Einträge erstrecken sich über 10.000 deiner Jahre, sie wurden von meinem Vorgänger in dieser Position weitervererbt. Während dieser gesamten Zeit hat das Volk, das sich jetzt selbst die Lascar nennt, diese Station bemannt und bereits vorher existierende Aufzeichnungen legen nahe, dass sie in einer formelleren militärischen/sklavischen Kapazität hier waren, bevor sich die Schifffahrtswege zu schließen begannen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Die ursprüngliche Besatzung dieser Station hat die Station neu bevölkert und die Anzahl ihrer Nachkommen ist gewachsen. Eine Reihe von Konflikten haben sich über die Jahre hinweg ereignet - der Aufruhr der Fünf Zyklen, das Luftschleusen-Debakel und die Aktion der Schiffbrüchigen. Jeder von ihnen hat dazu beigetragen, die aktuelle Macht- und Familienstruktur der existierenden Bevölkerung festzulegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Die aktuelle Struktur der Bevölkerung basiert stark auf der Marinehierarchie ihrer Vorfahren und wird dadurch beeinflusst. Sie erwarten die Ankunft eines weiteren Schiffes, um die Station ordnungsgemäß zu schließen und sie alle nach Hause zu bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Nach einem geschichtlichen Überblick der Station fragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Nach einem weiteren geschichtlichen Überblick der Station fragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Follow-up PQ. 93</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ungefähr vor 15 Jahren unserer Zeitmessung öffnete sich ein ein transdimensionaler Pfad zu der Station. Das war der erste Kontakt mit anderem empfindungsfähigen Leben, den die Bewohner dieser Station seit Generationen gehabt hatten. Handel wurde aufgenommen. Dieses Portal wurde kürzlich geschlossen, aber durch den Pfad ersetzt, durch den du gekommen bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Informationen zu jüngsten Vorkommnissen erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Weitere Informationen zu jüngsten Vorkommnissen erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Follow-up PQ. 97</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Kein Personal wird aktuell als vermisst gemeldet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Cascade 99</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Die Aufenthaltsorte von vier Mitarbeitern sind zur Zeit nicht bekannt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Die Aufenthaltsorte von drei Mitarbeitern sind zur Zeit nicht bekannt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ein einziger Lascar gilt nach wie vor als vermisst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Jemadar Achilli ging durch das transdimensionale Tor ungefähr..." Die Stimme hält inne, als ob sie rechnen würde: "... vor 15 Jahren unserer Zeitrechnung. Sie ist nicht zurückgekehrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Jemadar Arechi hat den Ankerplatz in einer Routine-Versorgungsmission verlassen kurz bevor das transdimensionale Portal geschlossen wurde. Sie wurde begleitet von den Lascar Intanduul und Savanol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Falls es Informationen zu zusätzlichem Personal gibt, das nicht durch diesen Zensus abgedeckt wird, dann melde das bitte sofort dem Kapitän."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Einträge für vermisstes Personal überprüfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Einträge für vermisstes Personal weiter überprüfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Follow-up PQ. 108</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Jemadar Achilli reiste durch das transdimensionale Portal, das geöffnet wurde ... vor 15 Jahren. Ihre Mission war, potentielle Botschaften und Handel aufzubauen. Sie sollte außerdem andere Routen suchen, über die die Einwohner dieser Station Durchgänge zu ihren Heimatwelten finden könnten. Ihre letzte Übertragung enthielt einen Bericht über ihre Untersuchung einer Gemeinschaft namens die Flor, die offenbar im Inneren einer lebendigen Kreatur existierte. Sie war 28 Jahre alt, als sie abgereist ist. Sie hinterließ zwei Schwestern, einen Bruder und einen Vater."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Möchtest du ein Signal auslösen, um zu sehen, ob sie ausfindig gemacht werden kann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Signal senden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Eine Pause. "Ich habe das Signal gesendet." Eine weitere Pause. "Unstimmigkeit festgestellt. Vorige Versuche der letzten 15 Jahre sind gescheitert. Dieser hier sendet ein Echo zurück, aber keine menschliche Interaktion. Das Signal kehrt zurück von einem Ort, der sich nicht weit weg von dem transdimensionalen Tor befindet, durch das du gekommen bist. Empfehlung: Eine sofortiges Suchtrupp bilden, um sie auf ihren Posten zurück zu bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Signal nicht senden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ich erwarte deine nächste Anweisung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Informationen über die vermisste Jemadar Achilli erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Mehr Informationen über die vermisste Jemadar Achilli erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Follow-up PQ. 117</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Jemadar Arechi. Keine lebenden Verwandten. Alter ... 27 Jahre. Lascar Intanduul. Ehefrau Lascar Doruul. Zwei Kinder. Alter 33 Jahre. Lascar Savanol. Vater Jemadar Salunda. Mutter Jemadar Norala. Alter 23 Jahre."
+
+Die Stimme hält inne. "Ihre Mission war die Neulieferung in dem Ort namens Flor. Das transdimensionale Portal, durch das sie gegangen sind, wurde kurz danach geschlossen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Möchtest du ein Heimkehrsignal senden, um die vermisste Besatzung ausfindig zu machen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Signal senden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Eine Pause, und dann: "Ich habe das Signal gesendet und eine Antwort erhalten. Ich habe das Signal nach Erhalt der Antwort deaktiviert. Das vermisste Personal befindet sich in geringer Entfernung zu dem transdimensionalen Portal, durch das du die Station betreten hast. Empfehlung: Entsendung eines Rettungstrupps, um sie zu ihren ordnungsgemäßen Stationen zu bringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Signal nicht senden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Einen Bericht über die drei vermissten Lascar anfordern. {COLIN/GEORGE:  Adding this option because it might feel odd to be able to look into the 15 year old disappearance and not this one.  It might also be fun to have a little reactivity to turning on the signal in the helmets of the living lascars.}
+
+{GEORGE: I agree it could be fun to add a "did you signal us?" node to the lascar leader. Let me know if you want that. - cmm}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Einen weiteren Bericht über die drei vermissten Lascar anfordern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Etwas anderes überprüfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ich erwarte deine Anweisung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Geschichte des Stationspersonals untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Geschichte des Stationspersonals erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Follow-up PQ. 129</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Ein bläulicher Globus, aus großer Entfernung gesehen, um den viele kleinere Kugeln rotieren, erscheint vor deinen Augen, als ob er vor dir schweben würde. "Die Heimat der Lascar heißt Ishtrinu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Informationen über den Heimatplaneten der Lascar erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Mehr Informationen über den Heimatplaneten der Lascar erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Nach grundlegende Informationen über den Helm, den du in der Flor gefunden hast, fragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Dieser Helm gehört zu der Jemadar Achilli. Sie wird vermisst seit ... 15 Jahren laut der Berechnung deiner Welt. Er enthält einen visuellen Eintrag, den sie als wichtig markiert hat. Sie schlug vor, dass diese Bilder analysiert werden sollten. Das werde ich auf deinen Befehl hin tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Den Cortex die Daten auf dem Helm analysieren lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Fragen, ob die Bilder in dem kaputten Helm mit einem Eintrag des Cortex übereinstimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Basierend auf der Regressionsanalyse des Sternenfeldes und der relativen Planetenstellung stimmt nur eine mögliche Welt überein: Ishtrinu, die Welt, die die Lascar Heimat nennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Exakten Standort des Ankerplatzes anfordern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Die weiche Stimme sagt: "Die exakten Koordinaten dieser Station sind: 12.93, 476.947, 18h57z."  Diese Zahlen erscheinen nützlicherweise auch in dem blassen blauen Licht des Bedienfeldes.
+
+Du vermutest, dass wenn du das geeignete Wissen und Kontext hättest, um die Zahlen zu verstehen, du ein besseres Bild deines Standortes haben könntest. So wie es jetzt ist, machen sie für dich keinen Sinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Fragen, wie lange die Lascar auf das Schiff gewartet haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Auf Einträge zugreifen. Berechnung. Die Lascar warten seit ungefähr 10.091 Jahren deiner Zeitrechnung auf das Transportmittel, das sie nach Hause bringen soll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Den Entfernungsprozess des Cortex starten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Du kannst das Drehen der Kugel bei jedem Anstieg und Abfall der Hitze der Konsole neben deinen Händen spüren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Du atmest scharf aus. Genjes wird nicht ewig abgelenkt sein. Du musst es kurz halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Du öffnest deinen Mund, dann schließt du ihn wieder. Es bleibt keine Zeit mehr für Fragen. Nicht, wenn du ohne einen Kampf hier herauskommen willst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ich erwarte deine Anweisung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"In Bearbeitung ... einen Moment. Biologisches Material ist in einige der Helmkontakte eingetreten. Ich werde dieses Objekt nicht analysieren können, bevor der Entfernungsprozess des Cortex die dritte Phase erreicht hat. Das wird mir ermöglichen, das Cortexgehäuse zu öffnen und eine fokussierte Untersuchungsanalyse des Helmes durchzuführen. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Mehr Informationen zu dem Verifikationsprozess erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Weitere Informationen zu dem Verifikationsprozess erfragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Jede Phase muss durch einen Kontrollgruben-Arbeiter des Beobachtungsdecks verifiziert werden. Sobald sie ihre Genehmigung deiner Handlungen während dieser Phase signalisiert haben, kann der Prozess fortgesetzt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Ein Verantwortlicher der Kontrollgrube des Beobachtungsdecks muss deine Handlungen verifizieren. Diese neue Vorgehensweise in Übereinstimmung mit den Sicherheitsmaßnahmen wurde vor *BERECHNUNGSFEHLER* Stunden in Kraft gesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Den Cortex zurücklegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Es ist deutlich einfacher, den Cortex zu installieren und der Prozess ist größtenteils automatisiert, nachdem du das Gerät zurück in seine Behausung eingesetzt hast. Die riesige Sphäre beginnt sich wieder zu drehen und zu glühen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Den Cortex über etwas anderes befragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Wie kann ich dir heute helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Dem Cortex befehlen, die Daten auf dem Helm zu bearbeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Gewiss. Bitte warten." Dunkle Massen innerhalb der gewaltigen Kugel verschieben sich und ein winziger Lichtpunkt zuckt aus ihrer Mitte heraus auf und tanzt über den Helm in deinen Händen.  
+
+"Bearbeitung abgeschlossen. Bericht: Jemadar Achilli wurde am Tag ihrer letzten Aufzeichnung getroffen und getötet. Ihre Akte wurde aktualisiert um diese Information zu berücksichtigen. Analyse wird fortgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Alle Bilder, die sich in dem Helm befinden, tasten sich durch dein Sichtfeld. Die Bilder des Nachthimmels, die in dem Helm so vorherrschend waren, erscheinen jetzt und der Cortex beginnt, Sternenkarten über diese Bilder zu legen.
+
+"Die Information über den Standort dieser Welt wurde nun zu meinem Speicher hinzugefügt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Du schaust dich um, suchst die Herkunft der Stimme, bevor du realisierst, dass sie nur in deinem Kopf und einzig und alleine zu dir spricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Darüber beschweren, dass der Prozess zu kompliziert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Die Entfernung des Cortex ist eine bedeutende Handlung mit potentiell gefährlichen Konsequenzen für den Ankerplatz", sagt die Stimme freundlich. "Daher haben die Designer meines Verstandes entschieden, dass der Entfernungsprozess von einem Benutzer durchgeführt werden soll, der dazu fähig ist unter Druck rational zu denken."
+
+Die Stimme hält inne. "Um es einfacher auszudrücken - du musst eine Reihe von Tests absolvieren, um Zugang zu dem Cortex zu erhalten. Ich entschuldige mich für die Unannehmlichkeiten, die dadurch für dich entstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Über den Fehler, den der Cortex erwähnt hat, befragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Du hörst eine Reihe von Klicks in deinem Kopf. 
+
+"Entschuldigung. Eine separate Intelligenz ist verantwortlich für Fehlermeldungen. Mir sind im Moment keine Fehler bekannt. Bitte fahre fort mit den Handlungen, die für Phase 2 notwendig sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Den Cortex warnen, dass seine Anweisungen voll von Fehlern und fehlenden Informationen waren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Du riechst ... nein, du *denkst*, dass du verbranntes Plastik riechst. Geschmolzenes Metall. 
+
+Dann spricht die Stimme. "Mir sind keine Fehler bekannt", flüstert sie heiser. "Gib dein Bestes und beende die Phase. Wenn du das nicht schaffst, werde ich den Cortex nicht freigeben können, wie gefordert. Es tut mir leid. Es tut mir leid. Es tut mir - "
+
+Das Flüstern verstummt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Alternativ können jetzt die Informationen auf dem kaputten Helm, die du gefunden hast, analysiert werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Kleine Symbole aus blassem, blauen Licht erscheinen vor dir - fast transparent, aber erkennbare Symbole. Als deine Augen eines streifen, flackert es und wird größer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Du befolgst eine Reihe komplizierter Anweisungen, die du von der Maschine erhältst und kehrst in den Hauptraum des Ankerplatzes zurück, um von Zeit zu Zeit eine Bestätigungstaste zu drücken. Nach mehreren solchen Runden, zirpt die Maschine freundlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Nach dem die Lascare kein Problem mehr sind, vollendest du zügig die letzten Schritte des Prozesses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

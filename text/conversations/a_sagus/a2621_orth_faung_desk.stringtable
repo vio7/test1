@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2621_orth_faung_desk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Tisch ist voll von vollgekritzelten Notizen, Bergen an Papier und verwitterten Büchern. Sein Besitzer war wohl sehr unorganisiert ... oder in Eile.
+
+Aligern geht einen Schritt näher an den Tisch heran. Er grummelt frustriert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hier arbeitet Orth Faung normalerweise. Wenn er mir eine Nachricht hinterlassen hat ... dann hier irgendwo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hier arbeitet Orth Faung normalerweise. Aber wo *steckt* er?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Dieser Tisch ist voll von vollgekritzelten Notizen, Bergen an Papier und verwitterten Büchern. Sein Besitzer war wohl sehr unorganisiert ... oder in Eile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Arbeitstisch verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Zettel und Bücher untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Zettel und Bücher noch einmal untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die wühlst dich durch den Haufen an Dokumenten und Notizen. Die meisten davon handeln von Gebäuden und Architektur voriger Welten. Sie strotzen nur so vor Zeichnungen und Beschreibungen bizarrer Strukturen, die von Gelehrten und Entdeckern entdeckt wurden. 
+
+Der Besitzer dieses Arbeitstisches scheint besonders an Türen, Türrahmen und Torbögen interessiert zu sein. Er hat einige solcher Dinge mit Kreisen und Kommentaren versehen, aber die meisten davon geben nicht mehr Preis als ‚Ähnlich, aber nicht deckungsgleich‘, oder ‚Könnte hier eine Verbindung vorliegen?‘</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du durchsuchst den Haufen an Papierkram erneut, aber findest nichts Neues. Die meisten davon handeln von der Architektur voriger Welten. Alles, was einem Türrahmen gleicht, wurde mit heller Tinte eingekreist.
+
+Dir fallen außerdem einige Briefe und persönliche Korrespondenz auf, aber sie scheinen entweder in einem Code oder in einer fremden Sprache verfasst zu sein - du kannst sie nicht entziffern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Noch bevor du die Gelegenheit hast, die Unordnung zu durchsuchen, lehnt sich Aligern nach vorne und pickt eine zusammengefaltete Notiz aus dem Haufen heraus. 
+
+"Orth ist ein paranoider Mistkerl. Er verwendet für all seine Nachrichten einen Code. Sieht aus, als wäre das hier für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Er bricht das Wachssiegel auf und überfliegt die Notiz. Während er liest steht ihm die Wut mehr und mehr ins Gesicht geschrieben.
+
+"Faung hat meinen Rahmen von hier fortgebracht. Er sagt, er sei hier nicht sicher. Außerdem schreibt er noch über meine Tattoos und--", Aligerns Mund schnappt zu. "Nicht so wichtig. Er ist nicht hier."
+
+Er sieht zu den Aeon-Priestern herüber. "Wir können ein andermal darüber reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

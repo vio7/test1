@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_maw_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du an der schweren Tür ziehst, ruft eine panische, männliche Stimme zu euch. "Hallo? Ist da jemand? Ich weiß, dass ihr keine Murden seid - Ich kann ihren verfluchten Mentallärm nicht hören, und bei all den Göttern! Ihr müsst mir helfen! Um alles, was euch lieb ist, bitte öffnet diese Tür!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mit den Schlüssel, dem du vom Murdenhäuptling genommen hast, die Tür aufschließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Schloss knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Tür einschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Von der Tür weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Meine Freunde nennen mich Shinwise. Bitte... Ich will nicht sterben. Öffnet die Tür!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Was versucht denn, dich zu töten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Mit einem Klick entriegelst du die Tür, sie brummt auf und enthüllt einen abgemagerten Mann in zerfetzten Lappen, mit einer Miene aus tiefgreifender Angst und Erschütterung. Hinter ihm ist der Boden mit Blut und Knochen übersät.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du rüttelst an den Scharnieren und kratzt im Schlüsselloch herum, aber dieses Schloss ist etwas listiger konstruiert als erwartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du rammst die Tür mit aller Kraft ... einmal, zweimal, und nochmal. Endlich hörst du, wie das Verriegelungssystem durchbricht. Du greifst die Tür, sie öffnet sich brummend und enthüllt einen abgemagerten Mann in zerfetzten Lappen, mit einer Miene aus tiefgreifender Angst und Erschütterung.
+
+Hinter ihm ist der Boden mit Blut und Knochen übersät.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Einige Male rammst du die Tür mit deinem gesamten Gewicht. Überrascht entdeckst du, dass sie deutlich träger ist, als sie aussieht, und sie weigert sich, nachzugeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich weiß nicht - Ich *weiß* nicht! Irgendwelche mit Tentakeln versehene Dinger, die an den Rändern des Zimmers hängen. Überall auf dem Boden sind Knochen und Blut. Die Murden warfen mich hier rein und verschlossen die Tür von außen. Ich denke, ich soll irgendeine Art Opfergabe sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich kann hören, wie sich etwas in den Wänden bewegt. Es kommt näher!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ich kann euch da draußen hören! Bitte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Hallo? Hallo?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Nochmals versuchen, das Schloss zu knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Nochmals versuchen, die Tür einzuschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du hörst hektisches Gescharre jenseits der Tür.
+
+"Du bist zurück! Bitte lass mich hier raus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Bitte! Lass mich nicht hier drin!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Flor-Fleisch ist über die Ränder der Tür gewachsen, und hält sie fest am Ort. Nach etwas Anstrengung widmest du deine Aufmerksamkeit wieder den Monstern, die sich schnell nähern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Nochmals bist du nicht imstande, das Schloss zu knacken. Der Mechanismus ist alt, aber doch clever angefertigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du wirfst dich wieder gegen die Tür, aber du schaffst es lediglich, dir die Schulter zu verletzen. Die Tür bleibt geschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Hilfe! Lass mich hier raus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

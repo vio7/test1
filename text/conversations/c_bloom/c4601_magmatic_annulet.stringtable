@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4601_magmatic_annulet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Auf einer Säule an diesem fremdartigen Ort liegt ein kristallines Objekt, das ein schwaches Licht ausstrahlt. Dies muss der Gegenstand sein, den Dracogen sucht. Du schnappst ihn dir schnell.
+
+HINWEIS: Im ganzen Spiel wirst du sowohl diesen Außenbereich als auch die Innenbereiche der Höhlen in der Nähe erkunden müssen, um den Ring zu erhalten. Also genieße es, solange es so einfach ist!]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

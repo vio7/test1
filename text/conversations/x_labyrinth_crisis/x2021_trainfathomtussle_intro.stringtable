@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x2021_trainfathomtussle_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du das Portal durchschreitest, hörst du das Klirren von Schlägen auf Synthplatten, gefolgt von hektischem Geschrei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Konzentrier dich, Villon! Halte das Monster von mir fern! Ich brauche nur noch ein wenig Zeit..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Du denkst, *Konzentration* ist das Problem hier? Das ist eine *Kummerscherbe* hier, kein tollwütiger Straßenköter!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kamose sieht dich hinter dem sich windenden Monsters. "Nur die Ruhe, Brüder! Unser Freund ist wieder da! Er wird uns helfen."</DefaultText>
+      <FemaleText>Kamose sieht dich hinter dem sich windenden Monsters. "Nur die Ruhe, Brüder! Unsere Freundin ist wieder da! Sie wird uns helfen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Kummerscherbe knurrt Villon an und bereitet einen weiteren Angriff vor. Die drohende Gefahr löst einen tief sitzenden Reflex in deinem Geist aus und du beginnst, unterbewusst Abbilder deiner derzeitigen Begleiter zu beschwören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Den Abbildern erlauben, dir im Kampf beizustehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Abbilder unterdrücken und es alleine mit der Kummerscherbe aufnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Als du in der Tiefe auftauchst, siehst du, wie die Kummerscherbe ihren Angriff auf die Verstoßenen fortsetzt. In dir kommt ein unbewusstes Verlangen hoch, Abbilder deiner Begleiter zu beschwören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Abbilder unterdrücken und es alleine mit der Kummerscherbe aufnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich habe eine Esoterie, die diese Kreatur vielleicht bannen könnte, aber ich brauche noch ein wenig, um sie vorzubereiten. Hilf Kamose und Villon, sie von mir fernzuhalten, damit ich die Esoterie vollenden kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vollende deine Esoterie, Diviaticu. Ich helfe den anderen, die Kummerscherbe von dir fernzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Villon hat recht. Es ist besser, wenn wir das Monster alle gemeinsam bekämpfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wie du meinst. Wenn du Numenerakenntnisse hast, kannst du mir helfen und den Vorgang vielleicht beschleunigen. In dem Fall komm zu mir. Ansonsten werde ich es allein vollenden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Wie du meinst. Dann auf in den Kampf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Oder du könntest uns vielleicht auch *direkt* helfen. Wer sagt, dass dein Ritual überhaupt funktioniert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Kummerscherbe knurrt Villon an und bereitet einen weiteren Angriff vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Als du in der Tiefe auftauchst, siehst du, wie die Kummerscherbe ihren Angriff auf die Verstoßenen fortsetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

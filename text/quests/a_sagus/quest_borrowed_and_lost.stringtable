@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_borrowed_and_lost</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ausgeliehen und Verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde das Buch, von dem Falinda behauptet, ich hätte es ausgeliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe das Buch zu Falinda zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Buch zurückgebracht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sagus verlassen, ohne den Auftrag erledigt zu haben (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Falinda, eine Buchhändlerin in Circus Minor, beschuldigt mich, ein sehr altes Buch ausgeleihen und nie zurückgegeben zu haben. Ich habe keine Erinnerung daran, also scheint es, dass der Wandelnde Gott der wahre Täter war, wahrscheinlich als er den Körper trug, der jetzt meiner ist. Es schien Falinda wichtig, dass ich das Buch finde und zurückbringe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich muss das Buch finden, dass "ich" anscheinend ausgeliehen habe. Falinda nannte keine Hinweise auf den Ort, wo es sich befinden könnte, erwähnte aber, dass das Buch ein fünffarbiges Siegel hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich fand das vermisste Buch im Heiligtum des Wandelnden Gottes. Es heißt der Band der Singenden Dornen, aber es scheint kein gewöhnliches Buch zu sein. Falinda sollte immer noch bei ihrem Stand in Circus Minor sein, wenn ich bereit bin, das Buch zurückzugeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich gab den Band an Falinda zurück. Eigentümlicherwiese gab sie mir die Möglichkeit, eine ihrer anderen Bücher auszuleihen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Sagusklippen ist hinter mir und es ist zweifelhaft, ob ich zurückkehren werde. Ich schätze, dass Falinda einfach etwas länger warten muss, um ihr Buch zurückzubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

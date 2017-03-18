@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_diving_suit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Panzeranzug ist nicht für einen Menschen geschaffen. Im Helm befindet sich ein semi-transparenter Sichtschutz, durch den du ins Innere sehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Lass den Anzug in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>An die rechte Hand des Anzugs sind einige seltsame Geräte und Werkzeuge angebracht. Wenn du vorsichtig genug bist, könntest du das ein oder andere davon ausbauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Versuchen, die Geräte von der rechten Hand des Panzeranzugs zu entfernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die meisten Teile sind zerstört oder verrostet, aber mit einigen geschickten Kniffen gelingt es dir, etwas vom Panzeranzug zu entfernen, dass wie ein Sprühkanister aussieht. Du probierst den Kanister aus, woraufhin eine schnell trocknende, flüssige Synth-Mischung austritt ... vermutlich sehr effektiv zum Versiegeln von Dingen.
+
+Als du das Gerät vom Panzeranzug entfernst, fällt dir auf, dass tiefer im Arm noch weitere Gerätschaften versteckt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du greifst in den Arm hinein, und deine Finger ertasten eine kleine, metallene Kugel. Sorgfältig versuchst du, sie zu lockern und aus dem Arm zu entfernen. Es scheint, als hättest du einen Reservebehälter für die Versiegelungsflüssigkeit des Sprühkanisters gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du tastest die fremdartige Maschinerie ab, aber die meisten Komponenten sind für dich völlig unverständlich, geschweige denn identifizierbar. Du findest also nichts von Wert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Wieder greifst du mit deinem Arm in die fremdartige Maschinerie, doch diesmal aktivierst du aus Versehen etwas im Innern. Ein kleiner Reservetank der Versiegelungsflüssigkeit explodiert im Arm und versiegelt das Innere mit hartem Synth. Du kannst deinen Arm gerade noch rechtzeitig herausziehen, wirst nun aber nichts mehr aus dem Panzeranzug entfernen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Durch den Sichtschutz schauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Irgendein Irrgast hat in diesem Panzeranzug gesteckt, wohl eine Kreatur mit mehreren Augen im Gesicht, wie du anhand der skelettierten Überreste hinter dem Sichtschutz erkennen kannst. Zumindest gehst du davon aus, dass es sich um Augen handelt – natürlich könnten es auch andere Körperöffnungen sein. Seltsamerweise hat diese Kreatur über keinen sichtbaren Mund oder Kiefer verfügt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Jetzt sieh dir das an! Ich habe schon oft von diesen vivarischen Armaturen gehört, aber noch nie selbst eine gesehen. Andere Aeon-Priester haben sie über die ganze Welt verteilt gefunden. Wir – sie – sind sich nicht sicher, wozu sie dienen, aber sie sind dafür bekannt, einmal richtig gefährliche Waffen getragen zu haben." Er bemerkt, dass du ihn beobachtest, und zügelt seinen Enthusiasmus gleich wieder. "Wenn man sich für sowas interessiert, meine ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ihre Echos sehen sich gegenseitig an, und Callistege lächelt. "Eine vivarische Armatur, nicht wahr? Wer hätte gedacht, dass wir so etwas hier finden?" In Reaktion auf deine Blicke fährt sie fort: "Die Studierten und die Glückspilze haben solche Anzüge in der ganzen Welt verteilt gefunden. Niemand weiß, wozu sie dienen, aber sie haben einige beeindruckende Geräte an sich, wenn man weiß, wie man sie extrahieren kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Zunächst bist du nicht sicher, was du dir da ansiehst. Es scheint ein riesiger Anzug aus Metall zu sein ... möglicherweise dient er der Erkundung. Er ist riesig – mindestens doppelt so groß wie ein normaler Mensch – und seine Glieder und Gelenke erscheinen dir völlig fremd. Selbst, wenn du irgendwie einen Weg hinein finden würdest, könntest du deinen Körper niemals genug verbiegen, um hineinzupassen.
+
+An seiner Oberseite kannst du eine Art Sichtschutz erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Den Arm nach mehr Komponenten untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Den Arm nach noch mehr Komponenten untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Den Anzug etwas näher untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Den Anzug noch genauer untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Das seltsame Metall dieses Anzugs sieht so aus, als könnte es der Kälte der interstellaren Leere oder den Tiefen der tiefsten See widerstehen. Wenn du es drückst, gibt es etwas nach, und dehnt sich danach gleich wieder aus. 
+
+Das Flor-Fleisch um den Anzug herum ist rot und entzündet, ja fast schon infiziert. Es scheint, als versuche die Flor, den Anzug zu absorbieren ... erfolglos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Deine sorgfältige Untersuchung zahlt sich aus. In der Nähe des Sichtschutzes kannst du eine kleine, abnehmbare Linse finden. Eventuell wurde sie dazu genutzt, Lichtstrahlen oder eine andere unsichtbare Kraft zu fokussieren. Du nimmst sie vorsichtig ab und verstaust sie.
+
+{LOOT - ESSENTIAL}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du findest am Äußeren des Anzugs keine weiteren Dinge von Interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_herja</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Einen Augenblick lang erkennst du die leicht transparente Erscheinung kaum, weil sie zu stark von Blut beschmiert ist. Als sie sich zu dir dreht aber erkennst du ihre Rüstung und ihre besondere Frisur - es ist Herja, die angulanische Ritterin.
+
+Sie kratzt mit einem geschärften Knochen auf ihrer Stirn herum, und selbst, als ihr Blick sich auf dich konzentriert, hört sie damit nicht auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Gift strömt aus ihren Augen und aus ihrem Mund. "Du hast mich hierher verbannt, oder? Ein Gefängnis hat dir nicht gereicht? Du musstest meine Qualen mit einer Illusion verschlimmern? Wenn ich nicht mehr an diesen Ort gebunden bin, werde ich dich jagen. Dich und die ganzen anderen Mutanten-Unterstützer. Ihr werdet bluten. Ihr werdet um Erbarmen flehen. Ich werde euch bei lebendigem Leib verbrennen, zusammen mit den widerlichen Untermenschen, die ihr so verehrt. Ich werde euch *auslöschen*, Abschaum." 
+
+Sie knurrt dich weiter an, selbst, als sie sich tief in ihr Fleisch gräbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Du bist eine erfahrene Kriegerin, Herja. Du verfügst sicherlich über die nötige Willensstärke, dich zu beruhigen, bevor du unüberlegt handelst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Du willst *mich* auslöschen? Versuch es." Sie angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Mich beruhigen? Beruhigen? Ich werde dein Blut vergießen ... nein. Nein. Du warst gerecht zu mir. Ich muss mich an diese Mitte ... mich selbst halten. Du bist nicht Teil dieser Sache ... wer ist Teil dieser Sache?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Deine Worte zeigen keine Wirkung. Sie lässt den Knochensplitter zu Boden fallen, grinst mörderisch und zieht ihre Waffe. 
+
+"Spüre ich da *Angst* in deiner Stimme, Rassenverräter? Finden wir es heraus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Einen Moment lang kannst du einen Teil ihres früheren Ichs erkennen - Reue, Gewissensbisse, Schuldgefühle, Rechtschaffenheit ... *Menschlichkeit*. 
+
+"Wie bin ich hier nur gelandet?" flüstert sie. Sie wendet sich von dir ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ihre Wut versiegt, und ihre Stelle treten Unsicherheit und Zweifel. Sie legt ihre Arme fest um ihren Körper, neigt ihren Körper vor und zurück, und versucht, sich von einer Wahrheit zu überzeugen ... irgendeiner Wahrheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Du bist nicht real, Herja. Ich habe gesehen, wie du gestorben bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du bist nicht hier, Herja. Du hast Klein-Nihliesh lebend verlassen, als freie Frau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Tot? Ich? Ich kann nicht sterben, Blutsverräter. Hat ein Mutant mich getötet? Hat dieser ineffiziente Scheißhaufen Gar-koto etwa Steine gefunden, mit denen er mich töten kann? Wie könnte ich mit dir reden, wenn ich tot wäre, du Idiot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Ein Ausdruck von Zweifel huscht über ihr Gesicht. "Was du am Schlund getan hast ... du und dieser aufgeblasene Gar-koto ... ihr habt mich entzwei gebrochen? Ihr habt das aus mir gemacht? Abschaum. Du steckst mit den Mutanten unter einer Decke, um die Angulanischen Ritter zu zerstören, nicht wahr? Nicht wahr?! Der Rest von mir ist immer noch in der Zelle dieses Mutantenlochs gefangen." Sie kneift die Augen zusammen. "Oder du *lügst* einfach nur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Du bist eine erfahrene Kriegerin, Herja. Du verfügst sicherlich über die nötige Willensstärke, dich zu beruhigen, bevor du unüberlegt handels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Das ist keine Illusion, Herja. Das ist das Resultat der Entscheidungen, die du getroffen hast. Das Ergebnis des Leids, das du über so viele gebracht hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Das ist keine Illusion, Herja. Das ist das Resultat der Entscheidungen, die du getroffen hast. Das Ergebnis des Leids, das du über so viele gebracht hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Sie schnaubt und wendet sich von dir ab. Aber dann dreht sie sich wieder um, und du kannst erkennen, wie ihr Blick von Zweifel erfüllt wird. "Das kannst du nicht ernst meinen", flüstert sie. "Das kannst du nicht."
+
+Sie studiert deine Mimik genau, und findet kein Anzeichen für eine Lüge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Sie schnaubt. "Leiden? Den Mutanten zu erlauben, zu leben, das ist Leiden. Was ich getan habe, war zum Wohl der Menschheit. Wie das hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Sie schnaubt. "Das kannst du nicht ernst m -", in diesem Moment überkommt sie eine Erinnerung. Ihre Augen weiten sich, und die Erfahrungen, die sie im Schlund gemacht hat, dringen in ihren zerbrochenen Verstand ein.
+
+"B ... Bei Angule ... du sagt die Wahrheit. Das hier ... das *ist* Gerechtigkeit. Oh Götter, was habe ich getan?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Sie schließt ihre Arme um sich und neigt sich vor uns zurück. "Nein. Nein. Nein. Das kann nicht sein."
+
+Während sie diese Worte vor sich her flüstert, verschwindet sie nach und nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Sie hebt ihre Klinge hoch in die Luft und greift dich an! 
+
+Ihre Bewegungen erregen die Aufmerksamkeit der anderen halbtransparenten Erscheinungen im Raum. Sie drehen sich um, zücken ihre Waffen und schließen sich ihr an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Du bist ein Geist. Ein Stück von Herja, das von der Flor verzehrt wurde. Die echte Herja bedauert ihre Entscheidungen. Du bist ihr schlimmster Teil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Bedauern und *Schuld* sind etwas für Schwächlinge!" Sie lässt den Knochensplitter aus ihren Händen gleiten und spannt ihre Finger an. Das kalte Lächeln in ihrem Gesicht lässt es dir durch Mark und Bein fahren. "Ich zeige dir, was ein Schwächling ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Illusion? Wahrheit? Was ist mit meinen Erinnerungen? Was mit meiner Kindheit? Ich *erinnere* mich nicht!"
+
+Während sie diese Worte spricht, verschwindet sie nach und nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Ihr Verstand ist ... nicht unbedingt leer, aber flach - wie ein Gemälde ohne Licht und Schatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Du bist ein Geist. Ein Stück von Herja, das von der Flor verzehrt wurde. Die echte Herja hat ihre Entscheidungen bedauert. Du bist ihr schlimmster Teil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

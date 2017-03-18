@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_end_game_reactivity_slide</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als das Labyrinth versiegelt wurde, kehrten die Verstoßenen des Wandelnden Gottes zu ihren großen und kleinen Leben zurück. Ihnen war bewusst, dass sie im Schatten des Kummers lebten.
+
+Seinem Wort getreu suchte der Kummer sie von Zeit zu Zeit heim, einen nach dem anderen, und entriss sie dem Gefüge der Welt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Tochter des Wandelnden Gottes brach in die Welt auf die er, ohne es zu wissen, für sie geschaffen hatte. Sie reiste in dem Körper, der einst dem Letzten Verstoßenen gehört hatte, und mit einem Geist, der aus Opfern geschmiedet war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Abwesenheit der Verstoßenen veränderte die Neunte Welt. Manchmal zum Besseren, häufig zum Schlechteren. Die Verstoßenen waren mächtig, und Machtpositionen bleiben nicht lange unbesetzt – oder unumkämpft. 
+
+Und doch waren sie nie wieder gesehen. Ihr Geist dämmerte in öder, undurchdringlicher Finsternis, gefangen in einem singulären Bewusstsein für die Ewigkeit – sofern die möglich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>In der Flor lauerten viele Gefahren, doch keine war vergleichbar mit dem Weißen Tod. Matkina hielt Wort und eroberte den Flor zurück. Mithilfe der Weisheit und Erfahrung der Verstoßenen kontrollierte sie ihn für lange Zeit.
+
+Doch nichts hält ewig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die erste Verstoßene hielt Wort, versuchte, die Welt zu einem besseren Ort zu machen, und kämpfte dafür. Die meisten Fehler des Wandelnden Gottes vermied sie und würdigte die Opfer ihrer Geschwister, indem sie den von ihnen verursachten Schaden ausbesserte ... und denen, die sie zurückgelassen hatten, so gut wie möglich half. 
+
+Doch die Erste war kein perfektes Geschöpf, keine Göttin, und sie machte ihre eigenen Fehler. Fehler, die sich in der Welt ausbreiteten und neues Chaos, neuen Schmerz hervorriefen – wovon sie einen großen Teil selbst erleiden musste. Aber das ist eine andere Geschichte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Abwesenheit der Verstoßenen veränderte die Neunte Welt. Manchmal zum Besseren, häufig zum Schlechteren. Die Verstoßenen waren mächtig, und Machtpositionen bleiben nicht lange unbesetzt – oder unumkämpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Wahnsinn plagte die Bewohner von Sagus für lange Zeit. Er pirschte durch die Gassen und Niederungen wie das Raubtier, das der Kummer gewesen war, und wieder sein wurde.
+
+Denn der Kummer war keine Kreatur, die leicht zu besiegen war. Die Verstoßenen machten weiter, so wie sie es immer getan hatten: streitend, kämpfend und untergetaucht in einem weiten und stetig wachsenden Schatten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du bliebst für deine Bedachtsamkeit und deine Leidenschaft, deine Logik und deine Handlungen in Erinnerung. Geschichten aus deinem kurzen Leben inspirierten Dichter und Philosophen zu großen Werken, die die Jahrhunderte überdauerten … und noch mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Zukünftige Anführer bewunderten dich für deine Weisheit und deinen Gerechtigkeitssinn. Geschichten aus deinem kurzen Leben führten für die Bewohner der Sagus-Klippen, der Flor und darüber hinaus zu besserem Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du bliebst für deine Weisheit und deine Selbstlosigkeit in Erinnerung. Noch über Jahre hinweg inspirierten Geschichten aus deinem kurzen Leben Heiler dazu, sich selbst kennenzulernen. Um sich selbst besser zu machen und die Welt zu einem besseren Ort zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du bliebst für deine Neugierde, deine Einsicht und den Eindruck, den du trotz deines kurzen Lebens in der Welt hinterlassen hattest, in Erinnerung. Noch über Jahre hinweg erforschten Aeon-Priester, die sich selbst einen Namen machen wollten, jede deiner Entscheidungen in der Hoffnung, deine Siege wiederholen zu können ... und deine Fehler zu vermeiden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du bliebst für deine Leidenschaft, deine Missachtung von Autoritäten und deinen Gerechtigkeitssinn in Erinnerung. Geschichten aus deinem kurzen Leben inspirierten Studenten, Revolutionäre und, letztendlichlich, ... Revolutionen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du bliebst für dein Heldentum und letztlich für dein Opfer in Erinnerung. Noch über Jahre hinweg inspirierten Geschichten aus deinem kurzen Leben die Bewohner der Neunten Welt dazu, deinem Beispiel zu folgen und anderen zu helfen ... selbst wenn der Preis zu hoch war, um ihn zu tragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du bliebst für deine leidenschaftliche Hingabe zu entscheidenden Handlungen in Erinnerung. Noch über Jahre hinweg zogen Krieger und bekannte Söldner mit Geschichten aus deinem kurzen Leben in ihrem Kopf in die Schlacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du bliebst für deinen selbstlosen Einsatz für das Allgemeinwohl und deinen unfehlbaren Gerechtigkeitssinn in Erinnerung. Geschichten aus deinem kurzen Leben inspirierten über Jahre hinweg verblüffende Akte von Menschenliebe und Opferbereitschaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>In späteren Jahren erforschten Politiker aller Ränge deine Handlungen, um zu verstehen, wie man an die Macht gelangt und daran festhält. Über Jahre hinweg inspirierten Geschichten aus deinem kurzen Leben weise Herrscher … und wilde Tyrannen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Über Jahre hinweg stand dein Name für Empathie und Macht. Geschichten aus deinem kurzen Leben inspirierten zukünftige Herrscher der Neunten Welt dazu, ihre Macht im Dienste ihrer Untertanen einzusetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du bliebst für deine Neugierde, deine Einsicht und deine Hingabe zur Logik in Erinnerung. Noch über Jahre hinweg erforschten Wissenschaftler dein kurzes Leben und übernahmen deinen Ansatz, schwierige Probleme anzugehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du bliebst für deine Leidenschaft und deine Hingabe zum Wandel in Erinnerung. Noch über Jahre hinweg inspirierten Geschichten aus deinem kurzen Leben Dichter, Maler und Musiker zu Werken, die länger als sie selbst bestehen würden … und länger als die Neunte Welt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du bliebst für deinen Gerechtigkeitssinn und deine Hingabe zum Allgemeinwohl in Erinnerung. Noch über Jahre hinweg inspirierten Geschichten aus deinem kurzen Leben Abgeordnete und Richter und auch Gesetze selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du bliebst für deine großen Tagen voller Mitgefühl und Opferbereitschaft in Erinnerung. Noch über Jahre hinweg inspirierten Geschichten aus deinem kurzen Leben die Leute der Neunten Welt dazu, dem Murmeln ihres Gewissens zu folgen und diejenigen zu beschützen, die sich nicht selbst beschützen konnten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Über Jahre hinweg stand dein Name für Einfluss, Manipulation und Macht. Noch über Jahre hinweg inspirierte dein Aufstieg aus der Anonymität diejenigen, die sich selbst einen Namen machen wollten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Dein Leben war einmalig, ein vorsichtiges Gleichgewicht aus Einsicht, Leidenschaft, Gerechtigkeit, Mitgefühl und Macht. Geschichten aus deinem kurzen Leben wurden noch Tausende von Jahren erzählt und weitererzählt. Helden und Schurken jeden Zeitalters wurden mit dir verglichen ... und konnten nie gegen dich bestehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Und der Letzte Verstoßene? Welches Erbe konntest du hinterlassen, als der Tod zu dir kam?</DefaultText>
+      <FemaleText>Und die Letzte Verstoßene? Welches Erbe konntest du hinterlassen, als der Tod zu dir kam?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Dies ist ein Test um zu sehen, was geschieht, wenn ein zweiter Knoten hiermit verknüpft wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

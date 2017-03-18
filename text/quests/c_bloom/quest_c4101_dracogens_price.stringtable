@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4101_dracogens_price</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Dracogens Preis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise zum Handelsposten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde einen Schlund, der zum Handelsposten führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Betrete die Aszension und erhalte das Magmatische Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Kehre mit dem Magmatischen Annulet z Dracogen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Das Magmatische Annulet übergeben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Verzögerung der Bezahlung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Den Navigationscortex übergeben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Dracogen hat dir einen Lebensbildbetrachter versprochen und einen reibungslosen Weg, die Memovira zu treffen, wenn du einen Gegenstand für ihn besorgen kannst, bekannt als Magmatisches Annulet, an einem Ort namens die Aszension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dracogen sagte mir, ich solle der "Karawanenroute" aus Memoviras Hof zum Handelsposten folgen. Dort werde ich einen Schlund finden, der mich zur Aszension bringt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Flor-Führer Grisseler offenbarte, dass der alte Handelsposten einst einen Weg in die Aszension hatte, dass aber der Tunnel zum Handelsposten zur Zeit blockiert ist. Er erklärte, dass alle Schlunde in der Flor verkrochen sind, dein einziger Rückgriff ist es also, verschiedene Schlunde zu öffnen, und hoffen, dass einer von ihnen entweder zum Handelsposten oder zur Aszension führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nun, dass der Weg zur Aszension entdeckt wurdem ist es Zeit, das Magmatische Annulet zu erhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Deine Beute ist im Schlepp und dein Weg aufgeriegelt, es bleibt nur, das Magmatische Annulet zurück zu Dracogen zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Du fandest das Magmatische Annulet und brachtest es zu Dracogen zurück. Als Gegenleistung erfüllte er seinen Teil der Abmachung und gewährte dir Zugang zur Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Nachdem du mit den Magmanischen Annulet, den Dracogen begehrt, zu ihm zurückgekehrt bist, hast du ihn überzeugt, dass du es eine Weile länger behalten darfst. Er machte ganz deutlich, dass es Konsequenzen haben würde, es nicht rechtzeitig an ihn zu übergeben...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Du hast Dracogen überredet, das Navigationscortex, den du fandest, statt dem Annulet zu nehmen. Als Gegenleistund gewährte er dir wie versprochen Zugang zur Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Du brachtest das Kristalline Artefakt zurpck zu Dracogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Du versprachstm das Kristalline Artefakt zu einem anderen Zeitpunkt zu übergeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Du gabst Dracogen den Navigationscortex statt dem Kristallinen Artefakt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

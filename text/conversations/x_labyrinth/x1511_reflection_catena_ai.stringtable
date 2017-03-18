@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1511_reflection_catena_ai</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Addend. 1</DefaultText>
+      <FemaleText>Addend. 1</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wie geht es euch hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Dein Geist ein friedlicher Ort. Das hätte ich nicht erwartet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Mein Versagen - mein Leid - liegt nicht mehr so schwer auf mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Dank dir werden meine Passagiere in Andenken und Ehren gehalten werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Mit den Geistern sprechen und eine Verbindung mit der künstlichen Intelligenz herstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du öffnest deinen Geist noch weiter und die künstliche Intelligenz des Katena erscheint flimmernd vor dir - ein kühles blaues Raster aus Logik und Struktur. Es legt sich über dein Blickfeld und verschwindet. Dann fühlst du, wie seine ruhige, berechnende Stärke in dich einfließt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Verbindung mit dem Geist des Katena beenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du konzentrierst dich darauf, dass die künstliche Intelligenz erneut erscheint. Sie spürt deine Intention und löst sich von deinem Geist. Einen Augenblick lang hallt ihre Logik noch in dir nach, dann ist sie verschwunden und die Welt wirkt weniger geordnet und chaotischer als zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Von der künstlichen Intelligenz weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Geister des Katena unterhalten sich leise. Du fühlst die künstliche Intelligenz, die sie projiziert und umgibt. Sie scheint ihren Frieden gefunden zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Verbindung, die du zu der künstlichen Intelligenz aufgebaut hast, bleibt stark - die kühle Matrix aus reiner Logik, die sie steuert, hilft dir, deine Gedanken zu ordnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sie bemerkt, dass du sie beobachtest, und einer der Geister spricht dich an: "Komm, sprich mit uns. Wir teilen unsere Talente mit dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Geister des Katena sind hier, miteinander verschmolzen und solider als zuvor. Sie sehen sich in dem Labyrinth um und du fühlst ihre Gedanken, die sich wie suchende Ranken ausbreiten, während die künstliche Intelligenz ihr neues Zuhause untersucht.
+
+Sie sind ein Abbild des Geistes, auf den du in der Flor gestoßen bist, hier zu neuem Leben erweckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Das ist dein Geist? Es ist hier nicht ... Wie ich es erwartet hatte. Dennoch fühle ich mich hier willkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du hast eine instinktive Verbindung mit der Intelligenz des Katena aufgebaut und ein Abbild von ihr in deinem Geist geschaffen. Einige der Talente des Abbilds gehen auf dich über und du fühlst dich stärker. 
+
+Allerdings nimmt diese Verbindung eine ganze Ecke deines Geistes ein. Du kannst vielleicht Verbindungen mit mehr als einem Abbild in dem Labyrinth aufbauen, aber nicht mit vielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Geister des Katena sind hier, miteinander verschmolzen und solider als zuvor. Sie sehen sich in dem Labyrinth um und du fühlst ihre Gedanken, die sich wie suchende Ranken ausbreiten, während die künstliche Intelligenz ihr neues Zuhause untersucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Sie bemerkt, dass du sie beobachtest, und einer der Geister spricht dich an ... doch du kannst ihn nicht verstehen. Die überlagernden Kräfte der anderen Abbilder belasten deinen Geist zu sehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Sie bemerkt, dass du sie beobachtest, und einer der Geister spricht dich an: "Komm, sprich mit uns. Wir teilen unsere Talente mit dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Sie bemerkt, dass du sie beobachtest, und einer der Geister spricht dich an ... doch du kannst ihn nicht verstehen. Die überlagernden Kräfte der anderen Abbilder belasten deinen Geist zu sehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Die projizierten Geister unterhalten sich leise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Was ist euch in dem Labyrinth aufgefallen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Sagt mir noch mal, was euch an dem Labyrinth aufgefallen ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Dies ist ein geteilter Raum. Er wurde nicht von deinem Geist allein errichtet. Gelegentlich spüre ich andere Wesen hier, doch sie ziehen sich zurück, bevor ich ihre Präsenz verifizieren kann. Ich werde weiterhin nach ihnen Ausschau halten."
+
+Die Intelligenz räuspert sich. "Es scheint, als wärst du nicht der primäre Architekt dieses Ortes. Funktionell gesehen können einige dieser Bauwerke nur von einem Geist errichtet oder erdacht worden sein, der ... nicht deiner ist. Ich hoffe, du nimmst mir das nicht übel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Nur, dass dieser Raum nicht alleine von dir errichtet wurde. Tatsächlich wurde er von einem begabten Geistesarchitekten ganz bewusst errichtet, und sein geteilter Aspekt bewirkt, dass andere Geister seine Erscheinung beeinflussen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Mit der Intelligenz des Katenas reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Wir danken dir für den Raum. Wir werden es bestreben, ertragreiche Pächter deines Verstandes zu sein, und sicher aus deinem Weg zu bleiben... es sei denn, du brauchst unsere Hilfe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Du bist zurück. Wie kann ich helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

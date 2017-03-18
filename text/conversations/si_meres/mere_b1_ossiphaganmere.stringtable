@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_b1_ossiphaganmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>256</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du befindest dich auf der Wirbelsäule eines großen, toten Monsters, begraben in der Lava. Rippenähnliche Türme ragen überall um dich herum aus dem Boden. Ein Transporter schwebt neben einer der Turmspitzen.
+
+Zwei Orientierungspunkte sind in der Ferne sichtbar: gewaltige Obsidian-Formationen und ein rauer Gebirgspass, der über ein Feld von glühenden Lichtern führt.
+
+{ART: The Spine}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Den Turm besteigen und zum Transporter gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Begib dich zu den Obsidian-Formationen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Zum Gebirgspass gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Versuchen, dich daran zu erinnern, wer du bist und wie du Mazzof finden kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Deine Verbindung zu den Toten nutzen, um mehr über das Gebiet um die Wirbelsäule zu erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du bist im Körper von Zerian Tagesläufer, ein Jack, der mit den Toten sprechen kann. Tatsächlich, jetzt da du dich daran erinnerst, kannst du die Toten um dich herum *fühlen*. Du kannst sie hören. Es bedarf keiner großen Mühe um die Geschichten derer, die hier gestorben sind, zu *kennen*. Möglicherweise kannst du ihren toten Körpern sogar etwas deiner Lebenskraft einverleiben.
+
+Zerian trägt einen schwarzen, eng anliegenden Anzug, der ihn größtenteils vor der Hitze schützt. Er trägt eine Peitsche und verschiedene nekromantische Ornamente.
+
+Zerian war dabei, einen Auftrag für jemanden zu erfüllen, der sich "die Chimäre" nennt. Er wurde hergeschickt, um eine Art Sphäre aufzuspüren.
+
+{SOUND: "Had a memory" stinger}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du kannst dir keine Erinnerungen ins Gedächtnis rufen, die dieser Körper einst hatte, aber du weißt, dass sein Name Zerian Tagesläufer war. Du erinnerst dich an einen anderen Namen, auch wenn du seine Bedeutung nicht kennst:  die Chimäre.
+
+Zerian trägt einen schwarzen, anliegenden Anzug, der gegen die schlimmste Hitze schützt. Er trägt eine Peitsche und verschiedene Ornamente, die dich an die Toten erinnern.
+
+Als du die Ornamente siehst, begreifst du, dass sie nicht nur dekorativ sind. Du kannst die Toten um dich herum *fühlen*, ebenso die Geschichten derer, die hier gestorben sind. Zerian muss eine seltsame Verbindung über die Welt der Lebenden hinaus gehabt haben. Vielleicht hat das etwas damit zu tun, weshalb er auf diese Mission geschickt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du kannst dir keine Erinnerungen ins Gedächtnis rufen, die dieser Körper einst hatte. Alles was du weißt, ist, dass du einen schwarzen, anliegenden Anzug trägst, der gegen die schlimmste Hitze schützt. Du trägst eine Peitsche an deiner Seite und verschiedene Ornamente, die dich an die Toten erinnern.
+
+Als du die Ornamente siehst, begreifst du, dass sie nicht nur dekorativ sind. Du kannst die Toten um dich herum *fühlen*. Wer auch immer das war, er muss eine seltsame Verbindung über die Welt der Lebenden hinaus gehabt haben. Vielleicht hat das etwas mit der Mission zu tun, auf die diese Person geschickt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Spähre ist ein Artefakt, das man "Urlimnion" nennt. Und die Chimäre wäre ziemlich verärgert, wenn Zerian ohne es zurückkehren würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Türme in der Umgebung der Wirbelsäule erkunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Dich weiter in dem Türmen der Wirbelsäule umsehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du durchsuchst Turm für Turm. Einige der Kammern, die du durchstöberst, sind mit zerbrochenen Relikten und Cyphern vollgestopft, aber nichts davon scheint von Wert zu sein.
+
+Endlich stößt du auf etwas Vielversprechendes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du verbringst eine Weile damit, die Türme zu durchsuchen. Tod und Chaos findest du im Überfluss, aber nichts von Wert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du hast Glück! Der erste Turm, auf den du stößt, enthält einige Relikte aus den früheren Welten. Die meisten davon sind tot und nutzlos - die besten wurden vor Jahrhunderten geplündert - aber du stößt auf etwas Vielversprechendes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du suchst stundenlang, überzeugt davon, dass es Kostbarkeiten zwischen all dem Durcheinander gibt. Aber jeder Hoffnungsschimmer stellt sich als Verschwendung heraus. Diese Türme wurden in Jahrhunderten der Plündereien leergeräumt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du befindest dich an einem Ort namens "Felder von Ossiphagan". Viele haben hier gelebt und sind hier gestorben, obwohl es ein furchtbarer Ort zu leben zu sein scheint.
+
+Plünderer der Sagusklippen sind in den letzten Jahrhunderten hier durchgereist, auf der Suche nach Schätzen der Vergangenheit. Noch davor waren es Mutanten, die vor unzähligen blutigen Revolutionen an einem Ort namens Haref geflohen sind. Davor Flüchtlinge aus einem Dorf namens Shuenha.
+
+Und wiederum vor ihnen die Menschen aus Ossiphagan selbst.
+
+Du siehst einen Schimmer eines machtvollen Artefaktes. Vor Hunderten von Jahren gab es hier einen Kampf. Viele starben. Zwei Figuren - eine Frau mittleren Alters und ein jugendliches Mädchen - kämpften auf der Spitze des leuchtenden Knochenturms um eine Kupfersphäre.
+
+{SOUND: Had a memory stinger or else some other "ability use" sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du bist auf der Spitze des gebrochenen Knochenturmes. Zerklüftete Knochenwände dienen als eine Art Geländer.
+
+Von hier aus kannst du die Felder von Ossiphagan noch besser  sehen: die Wirbelsäule unter dir, die Obsidian-Formationen auf der einen Seite und die glühenden Felder vor dem Gebirgspass auf der anderen.
+
+Direkt neben dem Turm schwebt eine Kapsel aus Azurstahl. Eine Rampe führt von der Brüstung in den Transporter.
+
+{ART: Atop the Bone Tower}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Zur Wirbelsäule zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Den Transporter besteigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Deine Verbindung zu den Toten nutzen, um mehr über die Spitze des Knochenturms zu erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Es ist hier wenig geschehen, bis auf ein Ereignis, das sofort offenkundig wird. Du siehst eine Frau mittleren Alters - du weißt, dass ihr Name Ama ist - die sich einem jungen Mädchen namens Thiza gegenüberstellt. Ama schwebt in der Luft, wie auch das Transportmittel. Sie hält eine Kupfersphäre, die in einem goldenen Licht schimmert.
+
+Wütende Worte werden ausgetauscht und plötzlich springt Thiya von dem Turm und greift Ama an. Die beiden schnellen empor in die Luft und bewegen sich auf die Obsidian-Formationen in der Ferne zu.
+
+{SOUND: "Had a memory" stinger or else some other "ability use" sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Als du dich dem Transporter näherst, spürst du ein Kribbeln deinen Rücken hinaufwandern. Du hast das tiefgreifende Gefühl, dass eine Aufgabe nicht beendet wurde und dass dich Schwierigkeiten erwarten - oder zumindest den Körper, in dem du dich befindest - wenn du jetzt gehst. Ist es das, was Aadiriis meinte, als sie gesagt hat, dass man mit Zerians Leben vorsichtig sein soll?
+
+{SOUND: "Had a memory" stinger}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du gehst an Bord. Der Transporter scheint nicht mit dem Gedanken an erwachsene Menschen gemacht worden zu sein. Es ist nur genug Raum um sich auf den Boden zu legen, und selbst dann musst du dich auf deine Seite rollen und deine Beine eng anziehen. Sobald du dies getan hast, bildet sich die Rampe zurück und die Türöffnung verschwindet. Dein Magen dreht sich um, als der Transporter in den Himmel abhebt.
+
+Anfangs versuchst du aus den kleinen Bullaugen zu spähen, aber alles was du siehst, ist stockfinster - vermutlich die schwarzen Wolken des Vulkans. Schließlich werden sie durch das Schwarz eines Sternenhimmels ersetzt. Du versuchst das Land unter dir zu sehen, aber es ist auf diesem engsten Raum unmöglich.
+
+Stunden vergehen. Endlich verlangsamt sich der Transporter. Sein Brummen verstummt und die Türe erscheint wieder.
+
+{SOUND: Stop volcanic ambient sound. Optionally add a transport/flier sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du trittst aus dem Transporter hervor, dich schmerzhaft streckend. Du befindest dich in einer seltsamen Höhle. Überall verstreut liegen Artefakte in unterschiedlichen Phasen der Reparatur oder Erprobung. Eine Wand ist bedeckt von einem Netz aus Bildschirmen, die Menschen und Szenen zeigen, die für dich keinen Sinn ergeben.
+
+Im Zentrum des Raumes befindet sich ein gewaltiger Käfig aus Stahlranken, die sich an der Spitze miteinander verflechten. Der Käfig glüht für einen Moment und eine Gestalt tritt hervor. Sie trägt einen dicken Umhang, aber ihr Gesicht ist zutiefst seltsam. Es verschiebt sich und verschwimmt, seine Züge stetig verändernd. Du bekommst den Eindruck, dass du eine Person siehst, kannst aber nicht im geringsten definieren, wie diese Person aussieht.
+
+Ihr Name schießt dir plötzlich in den Sinn: die Chimäre.
+
+{SOUND: End transport/flier sound.}
+{SOUND: Open flier door.}
+
+{ART: Chimaera's HQ}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du überquerst die Vulkanebenen und erreichst die Obsidian-Formationen. Gewaltige Strukturen aus ausgekühltem, glänzenden Stein ragen aus dem Boden und winden sich in unmögliche Formen. Eine riesige schwarze Wand umringt die meisten Formationen, sich hunderte Meter aus dem Boden erhebend.
+
+Die Obsidian-Formationen sind dunkel, still und verlassen. Ein heißer Wind weht fernab, bei den Magmaströmen - doch hier weht und lebt nichts.
+
+In der Ferne kannst du die Wirbelsäule und die Knochentürme sehen, und in der anderen Richtung enden die Ebenen an einer steilen Felswand, die von einem Gebirgspass durchzogen wird.
+
+{ART: The Arches}
+{SOUND: Ambient volcanic noises softer here}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Deine Verbindung zu den Toten nutzen, um mehr über dieses Gebiet zu erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Die Obsidian-Formationen sind nicht natürlich entstanden. Geschöpfe aus reinem Licht, genannt Feuerwichte, formten diese Strukturen aus heißem, fließenden Magma und schockkühlten sie in die Formen, die sie jetzt haben.
+
+Die Wichte versuchten an etwas oder jemanden heranzukommen. Du siehst einige Gestalten auf einer kleinen, fliegenden Plattform. Einer von ihnen hält eine Kupfersphäre, die in einem goldenen Licht schimmert. Die Wichte hatten versucht sie hier mit Hilfe der Wand gefangen zu halten, aber sie entkamen und flohen über den Gebirgspass.
+
+{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Die Gegend erkunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Den Gemorrn suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du suchst etwas annähernd Interessantes, aber der Ort ist kahl. Du willst gerade gehen, als ein orangefarbenes Glühen an den Felsen reflektiert. Eine gewaltige Tatze stellt sich dir in den Weg und der Rest der Kreatur kommt zum Vorschein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Jetzt, da du weißt was du suchst, ist der Gemorrn leicht zu finden. Unglücklicherweise ist er auch auf der Suche nach dir. Er heult auf in unendlichem Schmerz und Frustration und bewegt sich auf dich zu.
+
+{ART: Gemorrn}
+{SOUND: Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Den Gemorrn mit dem Stab angreifen, den du in den Knochentürmen gefunden hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Versuchen, mit den Toten zu sprechen, aus denen der Gemorrn besteht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Zur Wirbelsäule rennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Peitsche knallt an der Stelle, wo der Gemorrn sich befindet. Wie zuvor hat sie keinerlei Effekt.
+
+Bevor du entscheiden kannst, was du als nächstes tun wirst, macht der Gemorrn einen Satz und drückt dich mit überraschend kräftigen Klauen zu Boden. Feuer und Zähne bohren sich in deine Haut während ein Ansturm psychischer Qual deine Sinne ergreift.
+
+{SOUND: Whip}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du zielst mit dem verkohlten Ende des Stabes auf die Mitte des Gemorrn und drückst den Knopf auf der Seite. Blitze zucken durch die Luft, und ein gleißender Lichtstrahl durchbohrt eines der Gesichter des Gemorrn.
+
+Der Gemorrn heult auf vor Schmerz. Sein Zorn war vorher nicht auf dich gerichtet, jetzt ist er es allerdings. Er greift dich an. 
+
+Du versuchst den Stab nochmals abzufeuern, aber nichts passiert. Der Stab ist nutzlos.
+
+{SOUND: Lightning Lance}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Seine Geschwindigkeit und Kraft abmessend, knallst du aus sicherer Entfernung mit deiner Peitsche. Er brüllt. Du spürst das Gewicht hunderter Menschen, die deinen Kopf zermalmen, aber du hörst nicht auf.  Du wirfst Steine auf ihn, beleidigst ihn in mehreren Sprachen.
+
+Nichts was du tust, fügt ihm Schmerzen zu, und er versteht vermutlich deine Worte nichts, aber dein Vorhaben umso besser. Er rast mit großer Geschwindigkeit und der Absicht zu töten auf dich zu.
+
+{SOUND: Whip}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du knallst mit deiner Peitsche in die Richtung der Gestalt. Die Peitsche trifft nicht, aber der Gemorrn brüllt auf. Du spürst das Gewicht hunderter Menschen, die deinen Kopf zermalmen.
+
+Der Gemorrn macht einen Satz nach vorn und schlägt mit einer seiner gewaltigen Klauen nach dir. Du musst dich mit der Entfernung verschätzt haben, denn er trifft dich genau an der Brust und schleudert dich zur Seite.
+
+Du stehst auf, wankend und verletzt, aber ansonsten okay. Wenigstens ist die Kreatur jetzt wütend. Er scharrt den Boden, sich auf einen weiteren Angriff vorbereitend.
+
+{SOUND: Whip}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Seine Geschwindigkeit und Kraft abmessend, knallst du aus sicherer Entfernung mit deiner Peitsche. Obwohl die Peitsche ihr nichts tut, brüllt die Kreatur auf. Du spürst das Gewicht hunderter Menschen, die deinen Kopf zermalmen. Reflexartig drängst du ihn mit deinen Gedanken zurück, sprichst mit ihm, verspottest und beleidigst ihn in einer psychischen Sprache, die er klar versteht. Er rast mit großer Geschwindigkeit und der Absicht zu töten auf dich zu.
+
+{SOUND: Whip}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Du schlägst den Gemorrn mit deiner Peitsche. Du könntest damit genauso gut auf ein Lagerfeuer eindreschen, und dennoch schreit die Kreatur auf. Du spürst das Gewicht hunderter Menschen, die deinen Kopf zermalmen.
+
+Bevor du etwas tun kannst, macht der Gemorrn einen Satz und drückt dich mit überraschend kräftigen Tatzen zu Boden. Feuer und Zähne bohren sich in deine Haut während ein Ansturm von mentaler Angst deine Sinne ergreift.
+
+{SOUND: Whip}
+{SOUND: Enraged Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Deine letzte Erinnerung, bevor du das Bewusstsein verlierst, ist von Zerian - nicht du - der etwas beschwört. Dann werden die Schmerzen zu groß und überwältigen dich.
+
+Als du erwachst, liegst du  in einer kleinen Metallkapsel - der Transporter, den du von der Wirbelsäule aus gesehen hast. Eine Leiche liegt zerstört auf dem Boden und du begreifst, dass Zerian sie beschwört haben muss um deinen Körper hierher zu bringen, nachdem du getötet worden bist.
+
+Du siehst nichts außerhalb der Kapsel bis auf die Dunkelheit und es gibt keine Kontrollmöglichkeiten oder Kontaktflächen. Endlich spürst du, wie der Transporter langsamer wird und dann anhält. Ein Teil der Wand verschwindet, die Leiche fällt hinaus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Die Opfer in dem Gemorrn sprechen nicht. Alles was sie kennen, ist Hunger und Raserei und Zorn. Sie wollen dich verzehren, aber nur weil du da bist. Noch mehr wollen sie sich *rächen* an denen, die sie getötet haben: Feuerwichte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Eile zu dem Gebirgspass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Du rennst. Der Gemorrn kreischt, genau hinter dir. Deine Brust strafft sich und das Atmen wird schwierig als du die Brücke erreichst, die zu der Wirbelsäule führt.
+
+Sobald du die Knochen des großen Biestes betrittst, wird der Genorrm still und hält inne. Er beobachtet dich einige Zeit lang, dann dreht er sich um und kehrt zurück zu den Obsidian-Formationen.
+
+{SOUND: Gemorrn chasing, like a charging bull}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Du rennst. Der Gemorrn brüllt hinter dir, aber er scheint nicht im Besonderen an dir interessiert zu sein. Nach einiger Zeit verliert sich sein Gebrüll in der Ferne.
+
+{SOUND: Gemorrn roar fading}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Der Gemorrn stößt einen durchdringenden Schrei aus. Er bleibt dir den ganzen Weg lang dicht auf den Fersen, zwingt dich dazu zu sprinten und in der heißen Luft nach Atem zu ringen.
+
+Du kannst den Zorn des Gemorrn spüren, wie eine Hand, die sich gegen deinen Rücken presst. Er drückt stärker, zerquetscht deinen Verstand. Das Heulen des Gemorrn bringt die Erde zum Beben.
+
+Plötzlich lässt der Druck nach und die Luft wird eisig kalt. Du riskierst einen Blick nach hinten und dir wird klar, dass du dich mitten in den Ebenen befindest, die zu dem Gebirgspass führen, umzingelt von Feuerwichten. Der Gemorrn packt einen Wicht nach dem anderen, zerfetzt sie in zwei Teile und schleudert sie dann zur Seite. Die Wichte stürmen gemeinsam vor um sich gegen dieses grausame Biest zu verteidigen.
+
+In ihrer Wut wirst du vergessen und ignoriert.
+
+{ART: The Wights and Gemorrn Attack Each Other}
+{SOUND: Gemorrn chasing, like a charging bull}
+{SOUND: Wights and Gemorrn fighting}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Du rennst. Der Gemorrn brüllt hinter dir, aber er scheint nicht im Besonderen an dir interessiert zu sein. Nach einiger Zeit verliert sich sein Gebrüll in der Ferne.
+
+{SOUND: Gemorrn roar fading}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Der Gebirgspass ist noch immer in einiger Entfernung, aber du bist nah genug um zu sehen, dass zu viel Geröll herumliegt, um dir einen Weg hindurch bahnen zu können.
+
+Vor den Klippen erstreckt sich eine gewaltige Vulkanebene. Über die ganze Ebene hinweg sieht man hunderte und hunderte von Kreaturen, die von einem schwachen Glühen, das nichts mit der Magma zu tun hat, beleuchtet werden.
+
+Du weißt, dass diese Kreaturen Feuerwichte genannt werden. In diesem Moment scheinen sie dich noch zu ignorieren.
+
+{ART: The Charred Pass}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Du Umgebung vorsichtig erkunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Du suchst eine Zeit lang, aber es gibt nicht viel hier in den Feldern.  Im nahegelegenen geschmolzenen Gestein findest du einen großen Schild. Du *spürst*, eher als dass du sie sehen kannst, die starke Präsenz des Todes hier.
+
+Du versuchst weiterzusuchen, aber eine Gruppe von Feuerwichten taucht auf und bedroht dich. Es wird schwierig werden, an ihnen vorbeizukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Deine Verbindung zu den Toten nutzen, um mehr über dieses Gebiet zu erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Du siehst eine Gruppe von Menschen in zerschlissener Kleidung, die den Pass durchqueren und die Felder verlassen. Sie sind verängstigt und haben einen großen Anteil ihrer Gruppe an die Wichte verloren.
+
+Du siehst zwei Gestalten, die auf einer kleinen, fliegenden Plattform fahren, ähnlich einem Schild. Plötzlich wankt die Plattform und die Gestalten fallen in die Tiefe.
+
+Du kannst den Punkt sehen, an dem die Plattform abgestürzt ist und obwohl die Körper nicht mehr da sind, kannst du ihre Präsenz sehr deutlich *spüren*.
+
+Und da, in kurzer Distanz, kannst du an der Stelle, an der eine der Gestalten in die Tiefe gestürzt ist, eine Art Kupfersphäre sehen.
+
+{SOUND: "had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Das Verhalten der Wichte beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Das Verhalten der Wichte noch etwas länger beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du befindest dich in ihrer Nähe, beobachtest sie eine lange Zeit. Zunächst scheinen sie nur ohne Sinn und Zweck herumzuwandern, aber dann stellst du fest, dass die Veränderungen der Lufttemperatur weder zufällig, noch natürlich sind. Die Wichte selbst sind Grund dafür.
+
+Tatsächlich, sobald du das herausgefunden hast, kannst du sehen wie sie die Lufttemperatur als eine Art Kommunikationsmittel untereinander benutzen. Vielleicht könntest du diese Information nutzen, um an ihnen vorbeizukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Du erkennst fast unmittelbar, dass die Veränderungen der Lufttemperatur weder zufällig, noch natürlich sind. Die Wichte selbst sind Grund dafür. Sie nutzen die Lufttemperatur irgendwie als eine Art Kommunikationsmittel untereinander - vielleicht versuchen sie sogar mit dir zu kommunizieren.
+
+Du kannst nicht einmal ein Hunderstel dessen verstehen, was sie zueinander sagen, aber du erkennst die allgemeine Tendenz, dass je kühler die Luft ist, desto mehr Gefahr für dich droht. Der Trend trifft nicht immer zu - es scheint für die Wichte unterschiedliche Arten von Kälte zu geben  - aber vielleicht könntest du diese Information nutzen, um an ihnen vorbeizukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Du beobachtest sie noch etwas länger, aber du kannst immer noch kein Muster in ihrem Verhalten erkennen - jedenfalls nichts, was du nutzen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Du beobachtest sie noch etwas länger, aber du kannst immer noch kein Muster in ihrem Verhalten erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Die Wichte mit deiner Peitsche angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Die Peitsche hat nicht mehr Wirkung, als sie auf die Luft selbst hat. Mehrere Wichte wenden sich dir durch das plötzliche Eindringen zu. Die Luft um dich herum schwankt so schnell zwischen heiß und kalt, dass dir schwindelig wird.
+
+Drei der Wichte drehen sich in deine Richtung und kommen langsam näher.
+
+{SOUND: Whip attack}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Nochmals versuchen, die Wichte mit deiner Peitsche anzugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Zur Wirbelsäule rennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Zu den Obsidian-Formationen eilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Als die Peitsche den Wicht durchdringt, wird sie eisig in deiner Hand. Eis kristallisiert am anderen Ende, das mit einem lauten Schlag auf den Boden fällt.
+
+Dann stürzt sich der Wicht mit überraschender Geschwindigkeit auf dich. Drei ihrer Hände drücken sich *in* dich und ein furchtbarer Schmerz zieht von deiner Brust durch deinen ganzen Körper. Innerhalb von Sekunden bist du zu schwach um auch nur zu rennen.
+
+{SOUND: Whip}
+{SOUND: Zerian screaming}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Die Luft wird kälter als die Wichte näher kommen. Du flüchtest in die entgegengesetzte Richtung. Als du die Brücke überquerst, kannst du fühlen wie sich die Luft wieder auf ihre normale Temperatur erwärmt. Die Wichte scheinen sich zu langweilen und lassen dich in Ruhe.
+
+{SOUND: Zerian running}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Die Luft wird kälter als die Wichte näher kommen. Du flüchtest in die entgegengesetzte Richtung. Als du dich den gewaltigen obsidianen Strukturen näherst, erhitzt sich die Luft wieder auf ihre vorige vulkanische Temperatur. Die Wichte sind plötzlich verschwunden und du bist alleine.
+
+{SOUND: Zerian running}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Die Wichte mit dem Stab angreifen, den du in den Türmen gefunden hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Du zielst mit dem verkohlten Ende des Stabes auf einen der Wichte und drückst den Knopf auf der Seite. Die Luft scheint zu zerreissen, als ein glühender Lichtstrahl den Wicht in die Brust trifft. Die Kreatur verschwindet in einem Lichtblitz aus Feuer und Hitze.
+
+Die Luft wird eisig kalt, durchbrochen von unregelmäßigen Wellen intensiver Hitze. Die anderen Wichte weichen langsam zurück, aber sie warten eindeutig auf eine Chance, erneut zuzuschlagen.
+
+{SOUND: Lightning Lance thunderclap}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Deine Verbindung zu den Toten nutzen, um mit denen zu sprechen, die hier verstorben sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Obwohl es keine Körper auf der Oberfläche gibt, kannst du die Toten unterhalb des Felsens spüren, konserviert durch das Magma, das über die Jahrhunderte über diesen Ort geflossen ist. Einer davon ist eine Frau mittleren Alters namens Ama. Das andere ist ein Mädchen, aber sie ist eigenartig still. Selbst mit deinen seltsamen Kräften gibt es hier nichts, womit man sprechen könnte.
+
+"Frieden", sagt Ama. "Ist es besser? Ja, besser. Besser vergessen."
+
+{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Nimm die Kugel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Versuchen, an den Wichten vorbeizukommen, um die Kugel zu nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Durch die Aufmerksamkeit der Wichte, die ausschließlich auf den gefährlichen Gemorrn gerichtet ist, ist es einfach für dich an ihnen vorbeizukommen und nach der Sphäre zu greifen. Keine der Kreaturen beachtet dich im geringsten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Die Wichte scheinen dich hauptsächlich zu ignorieren. Die meisten von ihnen scheinen sich deiner Anwesenheit nicht einmal bewusst zu sein, auch wenn ein paar ihre Köpfe sich nach dir umdrehen.
+
+Als du auf die Kugel zugehst, ändert sich ihre Aufmerksamkeit allerdings. Einer bewegt sich um dir den Weg zu versperren. Als du versuchst ihn zu täuschen, tauchen drei weitere hinter dir auf. Je näher du der Sphäre kommst, desto mehr Aufmerksamkeit wird auf dich gerichtet. Egal was du versuchst, du kannst die Distanz zu der Sphäre nicht verringern, ohne dass einige von ihnen dir den Weg versperren oder dich sogar umzingeln.
+
+Seltsamerweise scheinen die Wichte schnell das Interesse an dir zu verlieren, wenn du dich von den Felder und der Sphäre entfernst, als ob sie sie beschützen würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Als du in die Erde greifst, findest du den Körper namens Ama und beschwörst sie. Mit unheimlicher Kraft kriecht sie aus dem erkalteten Fels. Obwohl ihre Haut verkohlt und verfault ist, ist auf ihrem Kopf ein Tattoo der Verstoßenen deutlich sichtbar.
+
+Du befiehlst ihr, die Sphäre zu holen, aber Amas Körper kommt nicht weit, bevor die Wichte sie angreifen. Ihre Hände greifen in sie hinein und verzehren das bisschen Lebenskraft, dass du ihr eingeflößt hast. Während sie das tun, wird die Luft zunehmend kälter.
+
+{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Jetzt da du weißt, dass die Wichte durch Temperaturschwankungen kommunizieren, könntest du es schaffen ihre Aufmerksamkeit durch dein Gefühl anstatt durch dein Sehen zu umgehen, vorausgesetzt du kannst herausfinden, was die verschiedenen Temperaturen bedeuten.
+
+Die Sphäre ist ungefähr dreihundert Meter entfernt und die Wichte bewegen sich konstant um sie herum. Es wird knifflig werden, näher heranzukommen.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Bewege dich näher an die Sphäre heran und bleibe dort, wo es kühl ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Bewege dich näher an die Sphäre heran und bleibe dort, wo es warm ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Bewege dich näher an die Sphäre heran und versuche, dort zu bleiben, wo die Temperatur schwankt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Lass die Sphäre dort und gehe zurück zu der Wirbelsäule.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Lass die Sphäre dort und begib dich zu den Obsidian-Formationen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Du bewegst dich langsam auf die Sphäre zu. Ein Wicht schaut in deine Richtung, dann ein weiterer. Plötzlich schwankt die Luft zwischen Wellen intensiver Kälte und Hitze. Du weißt nicht, was das bedeutet, bis mehrere der Wichte dir den Weg zu der Sphäre versperren. Der Rest kommt mit ausgestreckten Händen auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Die Wichte mit deiner Peitsche angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Als du der Sphäre näher kommst, scheinen die Wichte plötzlich wachsam zu werden. Du hast Angst, dass sie dich nochmal aufhalten könnten, aber du erhebst deinen Stab und sie weichen zurück.
+
+Du hebst die Sphäre vom Boden auf und legst sie in die Tasche an deiner Seite. Plötzlich scheinen die Wichte ihre Angst vergessen zu haben und sie kommen auf dich zu, ihre Arme zielen auf deine Brust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Die Wichte mit deiner Peitsche angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Die Wichte beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Dich zur Wirbelsäule begeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Begib dich zu den Obsidian-Formationen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Du verringerst den Abstand zu der Sphäre um ungefähr hundert Meter. Es scheint, dass die Wichte dich ignorieren, aber plötzlich wendet sich einer davon dir zu. Er sieht eher neugierig als feindselig aus, aber so oder so verfolgt er dich jetzt.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Bewege dich näher an die Sphäre heran und bleibe dort, wo es warm ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Bewege dich näher an die Sphäre heran und versuche, dort zu bleiben, wo die Temperatur schwankt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Der Wicht verfolgt dich weiterhin, aber er bewahrt Abstand zu dir. Du kannst der Aufmerksamkeit der anderen Wichte entkommen und verringerst den Abstand zu der Sphäre um weitere hundert Meter.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Der Wicht folgt dir eine Zeit lang, während du ihn auf einer weitläufigen Route führst - nahe der Sphäre, aber nicht zu nah. Schließlich scheint er sich zu langweilen und entfernt sich. Du schaffst es, den Abstand zu der Sphäre um weitere hundert Meter zu verringern.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Nah genug! Du schießt nach vorn, ergreifst die Sphäre und stürzt schnell weg bevor die Wichte dich aufhalten können.
+
+Die Luft wechselt plötzlich in einem schwindelerregenden Muster aus intensiver Kälte und Hitze. Du bist bisher der Aufmerksamkeit der Wichte entkommen, aber sie entdecken dich in diesem Moment. Einige von ihnen greifen dich mit ausgestreckten Armen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Als du dich von der Sphäre entfernst, lassen dich die Wichte vollends alleine. Selbst die, die gelegentlich ihre Aufmerksamkeit auf dich richten, verlieren schnell ihr Interesse und machen damit weiter, was sie zuvor getan haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Als du dich von der Sphäre entfernst, lassen dich die Wichte vollends alleine. Selbst die, die gelegentlich ihre Aufmerksamkeit auf dich richten, verlieren schnell ihr Interesse und machen damit weiter, was sie zuvor getan haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Hervorragend!" Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge ihres Gesichtes. Ihre Gesichtsausdrücke verschieben und verändern sich, aber alle von ihnen lächeln, als sie nach vorne greift und dir die Sphäre abnimmt. "Ich wusste doch, dass deine besonderen Gaben gelegen kommen würden, Zerian. Ich bin beeindruckt, dass du die Urlimnion so schnell gefunden hast."
+
+Die Chimäre stellt die Urlimnion mit einem dumpfen *Schlag* auf den nahegelegenen Tisch. Sie ergreift sofort einige verschiedene Untersuchungsinstrumente, eins nach dem anderen, die Urlimnion und ihre Geheimnisse erforschend.
+
+Sie scheint dich vergessen zu haben. Du schaust dich in der Höhle um, aber es gibt keine Ein- oder Ausgänge, nichts wo sich dieser Mazzof befinden könnte, bis auf den Käfig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Das hat ja lange genug gedauert." Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge ihres Gesichtes. Ihre Gesichtsausdrücke verschieben und verändern sich, aber alle von ihnen missbilligend, als sie nach vorne greift und dir die Sphäre abnimmt. "Ich dachte, es wäre einfacher, ein totes Relikt mit deinen besonderen Gaben zu finden."
+
+Die Chimäre stellt die Urlimnion mit einem dumpfen *Schlag* auf den nahegelegenen Tisch. Sie ergreift sofort einige verschiedene Untersuchungsinstrumente, eins nach dem anderen, die Urlimnion und ihre Geheimnisse erforschend.
+
+Sie scheint dich vergessen zu haben. Du schaust dich in der Höhle um, aber es gibt keine Ein- oder Ausgänge, nichts wo sich dieser Mazzof befinden könnte, bis auf den Käfig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Die Chimäre mustert dich von oben bis unten. Ausgehend von seinem Gesichtsausdruck musst du furchtbar aussehen.
+
+"Du hast versagt." Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge seines Gesichtes. Seine Gesichtsausdrücke verschieben und verändern sich, aber alle sind missbilligend. "Ich dachte, du wärst klüger, Zerian. Nächstes Mal sollte ich vielleicht einen robusteren Verstoßenen finden."
+
+Er macht eine verächtliche Geste, die dir deutet, ihn alleine zu lassen, dann wendet er sich einem der Relikte zu und beginnt an seinen Innereien zu spielen.
+
+Er scheint dich vergessen zu haben. Du schaust dich in der Höhle um, aber es gibt keine Ein- oder Ausgänge, nichts wo sich dieser Mazzof befinden könnte, bis auf den Käfig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Du hast versagt." Die Stimme der Chimäre ist metallisch und künstlich und verändert sich so oft wie die Züge seines Gesichtes. Seine Gesichtsausdrücke verschieben und verändern sich, aber alle sind missbilligend. "Und schlimmer noch, du bist *abgehauen*. Bist du nicht ein Verstoßener? Solltest du nicht eher bei dem Versuch sterben als aufzugeben? Das wird nicht ohne Folgen bleiben, Zerian. Wir sprechen ein anderes Mal über die Bestrafung für dein Versagen. Verschwinde."
+
+Er macht eine verächtliche Geste, die dir deutet, ihn alleine zu lassen, dann wendet er sich einem der Relikte zu und beginnt, an seinen Innereien zu spielen.
+
+Er scheint dich vergessen zu haben. Du schaust dich in der Höhle um, aber es gibt keine Ein- oder Ausgänge, nichts wo sich dieser Mazzof befinden könnte, bis auf den Käfig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Wo ist Mazzof? Ich muss mit ihm sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>(Lüge) "Ich will mit Mazzof über das Artefakt sprechen, das ich gefunden habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Den Käfig untersuchen, um herauszufinden, wie er funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Die Chimäre mit deiner Peitsche angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Du machst zwei Schritte auf den Käfig zu, aber in dem Moment, in dem du mit deiner Hand nach ihm greifst, stoppt dich die Chimäre mit einem Bellen. "Was denkst du, was du da tust? Dein Mission ist beendet. Ich habe keine Verwendung für dich da draußen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Du schlägst mit der Peitsche aus, während die Chimäre dir den Rücken zukehrt. Sie schreit auf vor Schmerz, dann greift sie dich mit einer leuchtenden Klinge in der Hand an.
+
+Die Chimäre stürzt nach vorne um dich anzugreifen, aber du schlägst nochmal mit deiner Peitsche zu. Plötzlich wirst du von einem gleißenden Lichtstrahl geblendet. Du schützt deine Augen, dich auf einen Gegenangriff vorbereitend, aber nichts kommt. Als du wieder sehen kannst, ist die Chimäre verschwunden.
+
+{SOUND: Whip attack}
+{SOUND: Flashbang as Chimaera disappears.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Mazzof?" Die schwankende Stimme der Chimäre wechselt von Bariton zu Falsett in einer schnellen Folge von Tönen. Ein Dutzend verschiedener Augen, verengt von Misstrauen. "Ich bin mir nicht sicher, dass Tüftler dir etwas *Nützliches* sagen könnten... aber ich habe keinen Grund, es dir zu verwehren."
+
+Die Chimäre dreht sich um und bewegt eine Hand über eine der Metallranken. Obwohl keine erkennbare Oberfläche erscheint, drückt er seinen Finger zweimal gegen das Metall und der Käfig beginnt zu glühen.
+
+Die Chimäre wendet ihre Aufmerksamkeit wieder der Sphäre zu, dir mit einem abschätzigen Winken andeutend, dass du den Käfig betreten sollst.
+
+{SOUND: Open portal sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Wo ist Mazzof? Ich muss mit ihm sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Ich will mit Mazzof über diese Mission sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Du machst zwei Schritte auf den Käfig zu, aber in dem Moment, in dem du mit deiner Hand nach ihm greifst, stoppt dich die Chimäre mit einem Bellen. "Was denkst du, was du da tust? Dein Mission ist beendet. Ich habe keine Verwendung für dich da draußen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Fünf unterschiedliche Ausdrücke spiegeln sich auf dem Gesicht der Chimäre, alle davon misstrauisch. "Dafür gibt es keine Notwendigkeit. Geh und warte auf weitere Anweisungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Zwei der Metallranken werden zu einer Art Türöffnung. Auf der anderen Seite kauert Mazzof an einem sandigen, fremdartigen Ufer. Sterne funkeln im Himmel hinter ihm, aber es sind keine Sterne, die du wiedererkennst. Er hebt seinen Kopf als ob er etwas gehört hätte, dann dreht er sich zu dir um.
+
+Eines seiner Augen ist künstlich. Es projiziert abwechselnd das Abbild eines menschlichen Auges, eines Schlangenauges und eines noch fremdartigeres, während er dich mustert. Er sieht aus wie der Überlebende eines Schiffbruchs: mit nacktem Oberkörper, zerfetzten Hosen, zotteligem Bart. Falls es so ist, ist er wohlgenährter als du erwarten würdest.
+
+"Zerian?" sagt er, wobei sein menschliches Auge im Licht aufblitzt. "Was zur Hölle willst denn *du*?" Er tritt nach vorne, als wollte er versuchen, in die Höhle zu schauen.
+
+{ART: Talking with Mazzof}
+{SOUND: Small waves lapping on a beach. Possibly an ambient sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Wo bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Du bist nicht im Versteck der Chimäre.  Was ist das für ein Ort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Er breitet seine Arme aus, dich spöttisch willkommen heißend. "Ich bin an einem gottverdammten Strand und genieße mein Leben. Wonach sieht es denn aus?"
+
+Er verschränkt seine Arme vor der Brust. "Was zur Hölle willst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Er antwortet nur mit einem Starren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Bist du wirklich Mazzof? Der, der mit Maschinen spricht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Seine Brauen ziehen sich zusammen während seine künstliche Augenhöhle ungefähr ein Dutzend verschiedener Augenarten innerhalb von zwei Sekunden durchläuft. Seine Stimme wird gefährlich tief. "Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Und wo ist unser geliebter Anführer? Die Art, wie er "geliebter Anführer" sagt, zeigt dir, dass er alles andere als das ist. "Ich kann mir nicht vorstellen, dass du das Tor ohne Überwachung betätigen dürftest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Ich habe sie angegriffen. Ich bin alleine hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Sie? Die Chimäre." Eine Art Ausdruck des Verstehens erscheint auf seinem Gesicht. "Sie ist schon eine sehr lange Zeit hier, Sohn. Nicht so einfach, so etwas loszuwerden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Die Resonanzkammer wurde zerstört. Ich muss wissen, wie man sie repariert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Er legt eine Hand an sein Kinn, sämtliche Wut und Misstrauen sind verschwunden in dem verworrenen Gesicht. "Naja, das ist nicht so schwer wenn man die Grundlagen kennt. Die Kammer ist aus Kristall, ja? Also ist sie gewachsen, nicht erbaut. Solange der Kern der Kammer intakt ist, sollte sie wissen, wie sie wieder wächst. Du brauchst nur einen Katalysator, um..."
+
+Er bricht ab und schaut dich erneut an. "*Warum* willst du das wissen? Die Resonanzkammer ist nur gut für..." Er wirft dir einen wütenden Blick zu. "Wer hat dich geschickt? Warum bist du hinter diesen Informationen her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Ich versuche den Kummer davon abzuhalten, uns zu jagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Der Geist, ah, ah... ist... in meinem Kopf. Er hat mir gesagt, dass wenn ich sie repariere, ich den Kummer aufhalten könnte uns zu jagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Mach dir darüber keine Sorgen. Beantworte einfach die Frage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Mazzof stößt ein kurzes, bitteres Lachen hervor. "Ich bezweifle nicht, dass es den Kummer aufhalten würde, und viele andere Dinge. Ich weiß nicht wie, aber der Wandelnde Gott versucht dich zu benutzen. Wenn die Kammer repariert wird, profitiert außer ihm niemand davon. Du kannst nicht einem verdammten Wort trauen, das dieser Bastard sagt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Mazzof schaut finster. "Ich verrate dir nicht eine verdammte Sache. Die einzige Person, die von der Kammer profitiert, ist der Wandelnde Gott, und *ihm* werde ich nicht mehr helfen. Er wird uns alle zerstören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Warum würde der Wandelnde Gott mich anlügen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Es war nicht der Wandelnde Gott, der mir das erzählt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Wie sollte der Wandelnde Gott von der Resonanzkammer profitieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Was macht die Resonanzkammer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Ha! Tja, wenn das wahr ist, dann ist es jemand, der nur die Interessen unseres Erzeugers im Sinn hat. Mein Rat ist, sich davon fernzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Warum denkst du das?" Mazzof zieht seine zerschlissenen Hosen hoch. "Warum tut er etwas? Um zu bekommen was *er* will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Unser Erzeuger hat einen neuen Körper eines Verstoßenen, den er als Katalysator für die Kammer zu benutzen plant. Aber die Erste hat einen besseren Plan - etwas, dass nicht jeden von uns das Leben kosten wird. Such sie in ... in der Flor", sagt er grimmig. "Pass nur darauf auf, dass du nicht -"
+
+Noch bevor er seinen Satz beenden kann, spürst du ein erdrückendes Gefühl im Zentrum deines Körpers, als würde jemand dein Herz auswringen. Deine Sicht verdunkelt sich und du fühlst dich als würde dein Körper durch ein Stahlrohr gequetscht. Du wirst aus dem Lebensbild gerissen, aber es ist weitaus schmerzvoller als jemals zuvor.
+
+Dann verschwinden Mazzof, die Höhle und alles andere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Als du deine Augen wieder öffnest, sind nur ein rötliches Leuchten und furchterregende Formen im Schatten um dich herum zu sehen. Die Luft ist heiß und stickig.
+
+Während sich deine Augen an die Lichtverhältnisse anpassen, wird dir klar, dass du dich draußen befindest, aber der Himmel ist verdunkelt von pechschwarzen Wolken. Das rötliche Leuchten kommt von Lavaströmen, die von entfernten Bergen bis zu den Feldern um dich herum fließen.
+
+Scharfe Türme durchspießen den Himmel, zugespitzt wie die Knochen eines Brustkorbes. Tatsächlich, sie sehen in jeder Hinsicht aus wie Knochen, ebenso wie der Boden unter dir. Du scheinst auf der Wirbelsäule eines gewaltigen Ungeheuers zu stehen - der Unterteil seines Kiefers kann man weit in der Ferne sehen, halb begraben unter einer Schicht von erkalteter Lava.
+
+{ART: The Spine}
+{SOUND: Volcanic rumblings (should this be a constant ambient sound?)}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Die meisten der Knochentürme sehen identisch aus, aber einer sondert von innen heraus ein sonderbares, blaues Licht ab. Die Spitze des glühenden Turmes ist abgebrochen und etwas, das aussieht wie ein Transporter, schwebt neben seiner Spitze. Es ist *dein* Transporter. Du wurdest hierher geschickt, um etwas zu finden...
+
+Gewundene Brücken verbunden die Wirbelsäule mit den Vulkanfeldern um dich herum. Auf einer Seite liegen gewaltige Obsidian-Formationen: Gewölbe, Türme, eine Wand. Auf der anderen Seite ist ein schmaler Pass in die Bergwand eingekerbt. Das Feld, das zu der Schlucht führt, wird von Hunderten von glühenden Lichtern beleuchtet.
+
+Du weißt, dass dieser Körper nicht geschickt wurde, um Mazzof zu finden, aber Aadiriis sagte, dass er erscheinen würde. Vielleicht führt die Folge der Ereignisse zu ihm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Du findest einen Stab, der vollständig aus einem Metall aus einer der früheren Welten angefertigt wurde. Es fühlt sich kühl an - ungewöhnlich hinsichtlich der extremen Temperatur der Luft selbst - und Brandspuren schwärzen ein Ende.
+
+Mit großer Wahrscheinlichkeit wurde er als Waffe benutzt. Es könnte wieder funktionieren, aber wahrscheinlich nur einmal. Du nimmst den Stab an dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Greife die Chimäre mit dem Stab an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Du zielst mit dem verkohlten Ende des Stabes auf den Rücken der Chimäre und drückst den Knopf auf der Seite. Ein Donnerschlag dröhnt in der Höhle und ein gleißender Lichtstrahl trifft die Chimäre zwischen ihren Schultern. Sie schreit und fällt auf den Tisch.
+
+Plötzlich wirst du von einem gleißenden Lichtstrahl geblendet. Du schützt deine Augen, dich auf einen Gegenangriff vorbereitend, aber nichts kommt. Als du wieder sehen kannst, ist die Chimäre verschwunden.
+
+{SOUND: Lightning Lance thunderclap}
+{SOUND: Flashbang as Chimaera disappears.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Als die Chimäre verschwunden ist, untersuchst du den Käfig. In dem Moment, als du einen Schritt auf ihn zumachst, erscheint eine glühende Hand mit drei Fingern auf der Seite einer der Metallranken. Es verschwindet, wenn du deine Hand darauf legst und wird durch einen Ring aus kleinen Kreisen ersetzt.
+
+Bei jedem Kreis, den du anschaust, erscheint ein anderes Bild einer Person oder eines Ortes in deinem Kopf. Du schaust nochmal jeden einzelnen Kreis an, wieder und wieder, bis sich eine Erinnerung rührt und du weißt, welcher Mazzof ist.
+
+Als du den Kreis drückst, wird der Käfig aktiviert und du trittst hinein.
+
+{SOUND: Open portal sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Ein anderes Ereignis hat hier stattgefunden. Die Feuerwichte haben viele Menschen über hunderte - sogar tausende - von Jahren getötet. Diese Tode gipfelten in der Erschaffung von etwas, das ein Gemorrn genannt wird, eine Kreatur des reinen Zorns. Der Gemorrn hat seither mit unersättlichen Rachegelüsten, meistens gegen die Wichte, die ihn erschaffen haben, diese Vulkanfelder durchwandert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Den Gemorrn aus der Ferne verspotten. Ihn dazu bringen, dich zu verfolgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Den Gemorrn nochmals verspotten, um ihn dazu zu bringen, dich zu verfolgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Als du in die Erde greifst, findest du den Körper namens Ama und beschwörst sie. Mit unheimlicher Kraft kriecht sie aus dem erkalteten Fels. Obwohl ihre Haut verkohlt und verfault ist, ist auf ihrem Kopf ein Tattoo der Verstoßenen deutlich sichtbar.
+
+Du befiehlst ihr, die Sphäre zu holen. Die Wichte sind mit dem Gemorrn beschäftigt und so erreicht Amas Körper mit Leichtigkeit die Sphäre und bringt sie zu dir. Dann bricht die Leiche zusammen.
+
+{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Wenn die Wichte dich ignorieren, ist es relativ einfach die Felder zu durchsuchen. Du findest eine Art Schild in dem geschmolzenen Felsen, und du *fühlst* mehr als dass du es siehst, dass die Präsenz des Todes hier sehr stark ist.
+
+Als du weitersuchst, findest du eine Kupfersphäre auf dem Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Du bist auf den Vulkanebenen vor dem Gebirgspass. Der Gemorrn und die Feuerwichte kämpfen nach wie vor eine furchtbare Schlacht. Die Wichte haben nun den Gemorrn umzingelt. Sie scheinen ihn zerstören zu wollen. Aber die Kreatur ist sehr stark und in die Enge getrieben. Das könnte ein langer Kampf werden.
+
+{SOUND: Gemorrn and wights fighting}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Den Schild aufheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Die Wichte kümmern sich nicht darum, als du versuchst, den Schild vom Boden aufzuheben, aber nach einigen Minuten des Buddelns und Grabens erkennst du, dass es unmöglich ist. Der Fels rund um den Schild ist mehrere Male erkaltet und geschmolzen und wieder erkaltet. Er bewegt sich in keine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Du beobachtest die Wichte, vermeidest ihre Aufmerksamkeit und umkreist die Ebene einige Zeit lang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Du findest einen Schild in dem Fels und du kannst die starke Präsenz des Todes an diesem Punkt *fühlen*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Du siehst eine Kupferkugel, auch wenn die Wichte fortlaufend alle Wege dorthin abschneiden und dich davon abhalten, ihr nahe zu kommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Aber du kannst keinen Sinn hinter ihrem Verhalten erkennen.
+
+Sie sind offensichtlich daran interessiert, die Kugel aus irgendeinem Grund zu beschützen, aber andererseits scheinen sie ziellos herumzulaufen, außer wenn du sie bedrohst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Du beobachtest die Wichte, vermeidest ihre Aufmerksamkeit und umkreist die Ebene einige Zeit lang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Du findest einen Schild in dem Fels und du kannst die starke Präsenz des Todes an diesem Punkt *fühlen*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Du siehst eine Kupfersphäre, auch wenn die Wichte fortlaufend alle Wege dorthin abschneiden und dich davon abhalten, ihr nahe zu kommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Aber du kannst keinen Sinn hinter ihrem Verhalten erkennen. Sie scheinen ziellos umherzulaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Sie erneut mit dem Stab angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Sie schrecken zurück als du den Stab erneut erhebst. Du drückst den Knopf auf der Seite... nichts passiert.
+
+Zum Glück scheinen die Wichte nicht bemerkt zu haben, dass deine Waffe nur einen Schuss hatte - zumindest noch nicht.
+
+{SOUND: Ineffective weapon click}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText>"Wer bist du?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Was ist mit dir passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Warum kann ich nicht mit dem Mädchen sprechen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Lass sie zu ihrem Frieden zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Ama wird still. Du spürst eine Welle aus Dankbarkeit und Ärgernis, aber hauptsächlich ersteres. Dann nichts. Ihre Präsenz ist verschwunden. Du spürst, dass kein Fragen sie zurückbringen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Ama?" Die körperlosen Stimmen scheinen nicht ihren Namen zu nennen, sondern Ama zu rufen. "Nein, nicht Ama. Eingeschlossen. Verstoßen. Gefressen, lebendig, und wieder gefressen. Nicht Ama. Futter für Wichte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Zu Tode begraben. Davor, gelebt. Und davor, gestorben. Und davor gelebt, gestorben, gelebt, gestorben ... So viele Zyklen. So viele Tode."
+
+Die Luft lädt sich auf. Ihre Stimme wird gefährlich leise. "Zuvor jemand anders. Aufgewacht, erinnert. Ein Kampf. Ein Mädchen. Urlimnion."
+
+Obwohl du Ama nicht sehen kannst, durchdringt dich ihre Präsenz, bis ins Innerste deines Schädels. Du kannst die weiten Felder erkennen, von denen sie spricht. Das Urlimnion. Eine Sphäre aus poliertem Metall liegt zwischen den Steinen. Und du *weißt*, dass du hier bist, um sie zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Weg. Weg, aber nicht weg." Du zitterst, aber es scheint jemand anders in dir zu sein, der es auslöst. "Sie hat etwas erweckt. Vergeltung. Aber es ist keine in ihr."
+
+Du spürst, wie Amas Präsenz auf die entfernten Obsidian-Formationen blickt. Dort glüht etwas, nein, es *bewegt* sich etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Unglücklicherweise interessieren sich die Wichte nun nur noch für dich. Sie entscheiden sich kurzerhand dafür, davon auszugehen, dass du sie nicht mehr angreifen wirst. Mehrere von ihnen stürzen sich gleichzeitig auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Die Luft wird kälter als die Wichte näher kommen. Du flüchtest in die entgegengesetzte Richtung. Sie bleiben dir auf den Fersen, selbst als du die Brücke überquerst und die Wirbelsäule erreichst.
+
+Also ziehst du dich in den leuchtenden Turm zurück, der zurück zum Transporter führt. Sobald du den Turm betrittst, fällt dir auf, wie die Temperatur der Umgebung wieder ansteigt. Die Wichte werden den Turm nicht betreten. Nach einer Weile geben sie auf und kehren dahin zurück, wo sie hergekommen sind.
+
+{SOUND: Zerian running}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Der einzige leblose Körper auf dem Boden ist der, den du heraufbeschworen hast. Du kannst die Toten unterhalb des Felsens spüren, konserviert durch das Magma, das durch die Jahrhunderte hinweg über diesen Ort geflossen ist.
+
+Der Körper vor dir gehört einer Frau mittleren Alters namens Ama. Die Tote unter der Erde ist ein Mädchen, aber sie ist eigenartig still. Selbst mit deinen seltsamen Kräften gibt es hier nichts, womit man sprechen könnte.
+
+"Frieden", sagt Ama. "Ist es besser? Ja, besser. Besser vergessen."
+
+{SOUND: "Had a memory" stinger or use ability sound}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Zu Tode begraben. Davor, gelebt. Und davor, gestorben. Und davor gelebt, gestorben, gelebt, gestorben ... So viele Zyklen. So viele Tode."
+
+Die Luft lädt sich auf. Ihre Stimme wird gefährlich leise. "Zuvor jemand anders. Aufgewacht, erinnert. Ein Kampf. Ein Mädchen. Urlimnion."
+
+Auch wenn Amas Leiche sich nicht bewegt, spürst du, wie ihre Präsenz dich durchdringt. Sie spricht von der Sphäre, in deren Besitz du mit ihrer Hilfe kommen wolltest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Es ist der Gemorrn, eine Lichtsäule mit Klauen. Hunderte von Gesichtern winden sich in seinem Körper – sie dringen heraus, heulen auf und verschmelzen dann wieder mit dem wirbelnden Feuer. Die Kreatur ist gute drei Meter breit und mindestens doppelt so groß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Es ist wie eine Lichtsäule mit Klauen. Hunderte von Gesichtern winden sich in seinem Körper – sie dringen heraus, heulen auf und verschmelzen dann wieder mit dem wirbelnden Feuer. Die Kreatur ist gute drei Meter breit und mindestens doppelt so groß. Das Wort "Gemorrn" brodelt in deinem Verstand auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Einige seiner Gesichter wenden sich dir zu. Sie öffnen gleichzeitig ihre Münder, und ihr Schreien gleicht dem von hunderten von Menschen, die von wilden Hunden zerrissen werden. Der gebündelte Zorn dieses Schreiens trifft dich wie ein fegender Wind.
+
+{ART: Gemorrn}
+{SOUND: Gemorrn roar}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Zu Tode begraben. Davor, gelebt. Und davor, gestorben. Und davor gelebt, gestorben, gelebt, gestorben ... So viele Zyklen. So viele Tode."
+
+Die Luft lädt sich auf. Ihre Stimme wird gefährlich leise. "Zuvor jemand anders. Aufgewacht, erinnert. Ein Kampf. Ein Mädchen. Urlimnion."
+
+Auch wenn Amas Leiche sich nicht bewegt, spürst du, wie ihre Präsenz dich durchdringt. Plötzlich wird dir klar, dass sie über die Sphäre redet, die sie für dich aufgespürt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Den Transporter trotzdem besteigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Den Transporter jetzt noch nicht besteigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Du entfernst dich vom Transporter. Plötzlich verschwindet dich die Sorge, die dich so geplagt hat, als wäre sie nur Einbildung gewesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Du machst zwei Schritte auf den Käfig zu, aber in dem Moment, in dem du mit deiner Hand nach ihm greifst, stoppt dich die Chimäre mit einem Bellen. "Was denkst du, was du da tust? Deine Mission ist fehlgeschlagen. Das letzte, was ich will, ist dass du mir da draußen Ärger machst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>DEBUG INFO:
+Timer Variable = [Global: MB1_TimerVariable]
+TimerVariableLimit = [Global: MB1_TimerVariable_TooLong]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Den Gemorrn mit deiner Peitsche angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Den Gemorrn erneut mit der Peitsche angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Du schlägst den Gemorrn mit deiner Peitsche. Du könntest damit genauso gut auf ein Lagerfeuer eindreschen.
+
+{SOUND: Whip}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Die Resonanzkammer ist nur für eine Sache zu gebrauchen." Er streckt einen Finger aus. "Und zwar um uns auszuspionieren. Der Wandelnde Gott hat vor, sie dazu zu benutzen, um uns alle – alle Verstoßenen, die noch am Leben sind –  wieder mit seinem Körper zu verschmelzen. *Damit* will er den Kummer aufhalten."
+
+Er legt seine fettverschmierte Hand auf deine Schulter. "Pass auf. Ich weiß nicht, wer du bist, oder was du mit dieser Sache zu tun hast ... aber du *kannst* ihn diese Kammer nicht aktivieren lassen. Du musst ..." Sein Blick schweift plötzlich über deine Schultern hinweg in die Höhle. Als du dich umdrehst, kannst du nichts erkennen.
+
+"Die Erste ist *am Leben*", flüstert er, um deine Aufmerksamkeit wieder zu erlangen. "Und sie hat ihre eigenen Pläne für die Kämmer. Mit denen sie uns nicht umbringen wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Den Käfig untersuchen, um herauszufinden, wie er funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Ihn ignorieren. Den Käfig noch einmal untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Die Chimäre legt einen eisernen Griff um deinen Arm. "Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Ein Dutzend verschiedener Augen, verengt von Misstrauen. "Nein", sagt er endlich. "Das kann ich nicht erlauben. Ruh dich aus und warte auf weitere Anweisungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Ich bin nicht wirklich Zerian. Ich bin ein neuer Verstoßener und verwende einen Lebensbildbetrachter, um mich hierher zu projizieren. Man hat mir erzählt, dass du die Resonanzkammer reparieren kannst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Mazzofs menschliches Auge weitet sich bis zum Anschlag. Sein anderes Auge wechselt blitzartig durch verschiedene Bilder, bis es schließlich bei einem roten Auge mit drei Pupillen stehen bleibt, die dich von oben bis unten betrachten. "Das übertrifft meine Fähigkeiten, und das soll was heißen", sagt er. "Was aber die Resonanzkammer betrifft ... nur der Wandelnde Gott könnte von ihr profitieren. Dieser Bastard hat nur seine eigenen Interessen im Sinn. Du tätest gut daran, keinen Shin auf sein Geschwätz zu geben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Vielleicht kann Zerians Mission dir auf deiner Reise helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Vielleicht kann Zerians Mission dir auf deiner Reise helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Vielleicht kann Zerians Mission dir auf deiner Reise helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Vielleicht kann Zerians Mission dir auf deiner Reise helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Deine Verbindung zu den Toten benutzen, um eine Leiche zu reanimieren und sie für dich die Sphäre holen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Noch einmal versuchen, eine reanimierte Leiche die Sphäre für dich holen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Erneut kriecht Amas Körper aus dem erkalteten Stein, und erneut zehren die Wichte ihre Lebenskräfte auf. Es sieht danach aus, als würde etwas mehr dazugehören, an den Wichten vorbeizukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Vielleicht ist die Kupfersphäre der Grund für deinen Aufenthalt hier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Es kommt dir vor, als hätten sie um die Kupfersphäre gekämpft. Vielleicht ist sie der Grund für deinen Aufenthalt hier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Es kommt dir vor, als hätten sie um die Kupfersphäre gekämpft. Vielleicht ist sie der Grund für deinen Aufenthalt hier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Die Kupfersphäre *muss* der Grund für deinen Aufenthalt hier sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Du kannst dich der Kupfersphäre auf etwa einhundert Meter nähern, indem du anhand der Temperatur den Fokus ihrer Aufmerksamkeit bestimmt. Die Wichte scheinen dich nicht zu bemerken.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Du schaffst es, den Abstand zu der Sphäre um weitere hundert Meter zu verringern. Die Wichte scheinen dich weiterhin nicht zu bemerken.
+
+{SlipPastWightsCounter = [Global: MB1_SlipPastWightsCounter]
+WightIsFollowing = [Global: MB1_WightIsFollowingPC]}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

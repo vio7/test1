@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_lost_loves</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Gebrochene Herzen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Hilf Tybir, Auvigne zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde den Mann, der den Ring fallen ließ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Dracogen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der Preis der Feigheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Bringe Tybir zu Dracogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Endspiel betreten (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>In der drohenden Dunkelheit der Flor wartet Tybirs Vergangenheit auf ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dracogen hat Tybir einen Ring zurückgebracht, der ihm dabei helfen könnte, seinen früheren Gefährten Auvigne aufzuspüren. Wenn ich mit Tybir spreche, sollte er dazu in der Lage sein, mich zu führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ein Mutant namens Crimper, der offenbar gerne im Müll herumwühlt, war im Besitz von Auvignes Ring. Der Mann, der den Ring fallen gelassen hat, befindet sich am Schrein von Chila der Großen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Tybirs früherer Gefährte, Auvigne, ist tot. Tybir möchte herausfinden, was Dracogen darüber wusste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Tybirs rücksichtslose Entscheidungen haben den Mann, den er liebte, das Leben gekostet. Dracogen hat nichts weiter getan als zuzusehen, wie das Schicksal seinen Lauf nahm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Dracogen möchte, dass ich ihn mit seinem alten "Freund" Tybir vereine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Da ich nicht weiß, wann und ob ich wieder in die Flor zurückkehren werde, werden Tybir und Dracogen wohl keine Gelegenheit mehr haben, ihre Angelegenheiten zu klären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Tybirs Gespür sagt, dass Auvigne sich in Klein-Nihliesh aufhalten könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Tybir sagte, dass ich Klein-Nihliesh nach jemanden durchsuchen sollte, der im Müll wühlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

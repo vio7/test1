@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_tcg_energy_shield</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Großteil der Klippenspitze ist von einer Energiekuppel verdeckt. Als du dich ihm näherst, scheint die Luft mit Energie aufgeladen zu sein und deine Haare stehen auf.
+
+{SOUND: Humming energy for the duration of this conversation.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Energiekuppel berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Interface ignorieren und die Energiekuppel berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Je mehr du dich näherst, desto mehr zittert die Luft vor Energie. Es fühlt sich an, als würden unzählige kleine Käfer über deine Haut springen. Es wird immer heißer um dich herum, bis du nur noch eine Armlänge von der Kuppel entfernt bist. Plötzlich erscheint vor dir in der Luft ein Kontroll-Interface. Du kannst auf ihm einen leuchtenden Kreis mit allerlei Symbolen und einer vertikalen Leiste drumherum erkennen.
+
+Bei einem Schritt zurück verschwindet das Interface wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Welche Art Energie für die Zusammensetzung dieser Kuppel verantwortlich ist, ist dir völlig schleierhaft. Du kannst nicht durch sie hindurchsehen. Seltsamerweise kannst du aber die Schatten der Klippen und Vögel auf der anderen Seite erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Je mehr du dich näherst, desto mehr zittert die Luft vor Energie. Es fühlt sich an, als würden unzählige kleine Käfer über deine Haut springen. Als du nur noch eine Armlänge von der Kuppel entfernt bist, erscheint vor dir in der Luft ein Kontroll-Interface. Du kannst auf ihm einen leuchtenden Kreis mit allerlei Symbolen und einer vertikalen Leiste drumherum erkennen.
+
+Bei einem Schritt zurück verschwindet das Interface wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Versuchen, das Interface zu benutzen, um die Kuppel zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Das Interface untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Das Interface erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Luft heizt sich auf und tanzt über deine Haut wie Feuer. Du ignorierst diese geringfügigen Schmerzen und legst zwei Finger auf die Oberfläche der Kuppel.
+
+Schlagartig sind deine Finger fest mit der Energie der Kuppel verbunden. Die ansteigende Hitze führt schließlich dazu, dass Rauch von deinen Fingerspitzen aufsteigt. Unter schmerzverzerrtem Geschrei gelingt es dir, deine Finger von der Kuppel wegzuziehen. Du stolperst nach hinten und fällst zu Boden.
+
+{SOUND: Electrical zapping (think electrical fence, but bigger and deeper), followed by the sound of PC falling on his ass.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich *hoffe*, dass solche Experimente Euch eines Tages eines Besseren belehren. Aber natürlich weiß ich, dass dem nicht so ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Mein Kind, nicht *alles* ist eine Einladung zu mehr Wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ihr hättet einfach fragen können, mein Freund. Jedes Straßenkind hätte geahnt, dass so etwas passieren wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich bin *so* froh, mit jemand unterwegs zu sein, der so intelligent ist wie Ihr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Der Kreis dient vermutlich dazu, eine Hand oder ein Gesicht darauf abzulegen, wobei Ersteres aufgrund der Hitze der Kuppel wahrscheinlicher ist. Du gehst davon aus, dass die holografische Leiste an der Seite für Personen mit der entsprechenden Berechtigung als eine Art Riegel dient. Die Symbole um den Kreis herum kommen dir völlig unbekannt vor, was vermuten lässt, dass diese Vorrichtung sehr alt sein muss, möglicherweise älter als die Wahrheit.
+
+Wer auch immer diese Kuppel erschaffen hat, wollte, dass sein Inhalt nur einem auserwählten Kreis an Personen zugänglich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Es sieht nicht besonders komplex aus. Höchstwahrscheinlich dient es dazu, die Kuppel zu öffnen, aber du kannst nicht viel mehr darüber herausfinden ohne es einmal ausprobiert zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Auch bei genauerer Betrachtung fällt dir nichts Neues auf. Vielleicht solltest du es einfach einmal ausprobieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Als du deine Hand auf den Kreis legst, leuchten die Symbole auf und beginnen, sich schnell zu drehen. Es scheint, als würdest *du* über eine Zugangsberechtigung verfügen. Du bewegst deine andere Hand an der Leiste entlang. Das Interface verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du kannst nur an zwei Punkten mit dem Interface interagieren: am Kreis und an der Leiste. Die Leiste zu berühren scheint zunächst nichts zu bezwecken, aber der Kreis leuchtet hell auf, sobald du deine Hand in seiner Mitte platzierst. Die Symbole beginnen, schnell zu rotieren. Ansonsten geschieht nichts, und der Kreis verblasst sobald du deine Hand von ihm entfernst. 
+
+Du platzierst noch einmal deine Hand in der Mitte des Kreises, doch diesmal fährst du mit deiner anderen Hand an der Leiste entlang. Die Symbole wirbeln herum ... und dann verschwindet das Interface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die Luft kühlt sich sofort ab, und die Kuppel verblasst nach und nach, bis sie vollständig verschwunden ist ...
+
+{SOUND: Need effect of the energy dome deactivating.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Versuchen, in das Innere der Kuppel zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Noch einmal versuchen, in das Innere der Kuppel zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Egal wie nah du an die Kuppel herangehst, du kannst nicht in sie hineinsehen. Alles, was du erkennst, sind die Schatten der Dinge, die hinter ihr liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Der Großteil der Klippenspitze ist von einer Energiekuppel verdeckt. Als du dich ihr näherst, beginnt die Luft um dich herum vor Energie zu summen und deine Haut zu berühren. Wieder erscheint das Kontroll-Interface direkt vor dir - ein leuchtender Kreis, um den herum seltsame Symbole auftauchen. An der Seite erkennst du eine vertikale Leiste.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

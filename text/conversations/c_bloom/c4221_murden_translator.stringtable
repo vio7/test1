@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_murden_translator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese schöne, schlanke, junge Frau könnte als attraktiv eingestuft werden, ohne diesen ausdruckslosen, starren Blick, dem Sabbern aus ihrem Mund, und die unpässlich angebauten Geräten, die aus ihrem Schädel herausragen. Aus dem Bereich um die Anbauten laufen Eiter und irgendeine andere, eigenartige Flüssigkeit heraus. Es scheint, dass sie sonst nicht schlecht behandelt wurde - keine Wunden oder Narben markieren ihre sonst weiche Haut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wer bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sie starrt ausdruckslos. Du kannst geringfügig ihren Puls in den Venen erkennen, nahe einem metallenen Knötchen auf ihrer Stirn, und sie atmet... aber davon abgesehen deutet nur der dünne Strom aus Speichel, der sich an ihren Kinn sammelt, darauf hin, dass sie noch lebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich wollte wissen, wie du heißt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die junge Frau fängt an, ein bisschen zu husten und würgen, und bewegt die Hüfte, während sie eine Reihe gutturaler, harter Konsonanten ausspuckt. Etwas später erkennst du, dass sie nur den Murdenhäuptling nachahmt, der deine Interaktionen mit ihr beobachtet hat.
+
+Die Murde tut sich schwer, nicht laut zu lachen. Ebenso wie der Rest der Murden. Ihre Mentalstatik bombardiert deine Gedanken, gefüllt mit grausamen Frohsinn, dass der Mensch sich lächerlich macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Stimme des Murdenhäuptlings tritt aus dem Mund der Frau.
+
+"Du sprechen mit leeren Hüllen? Mit Leichen? Sie antworten? Leere Hüllen nicht sprechen. Wer Antworten wollen, sprechen mit *mir*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Sie ignoriert dich weiterhin, und du bekommst den Eindruck, dass sie nicht antworten wird. Nie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Frau starrt dich weiterhin ausdruckslos an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ihr Blick ist vollkommen leer. Sie antwortet gar nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sie umbringen und von ihrem Leid befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du wickelst deine Hände um ihre Kehle und drückst. Sie reagiert nicht, während du anfängst, ihr den Hals umzudrehen. Ihre Augen quellen hervor und ihr Gesicht errötet. Selbst das Schütteln ihrer Füße ist unbeabsichtigt, ein Reflex, angetrieben von dem primitivsten Teil ihres toten Gehirns. Dann, mit einem Geräusch, als ob verfaulte Zweige zertreten werden, geben ihre Knochen nach. Du lässt sie los, und sie fällt zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Es hat keinen Zweck, mit der hier zu reden. Diese Einbauten haben wahrscheinlich alles, was einer Persönlichkeit nahe kommen könnte, dass sie mal hatte, durchgebraten. Sämtliche Reaktionen, die sie jetzt hat, sind vollkommen unfreiwillig. Als Lebensform hat sie weniger Eigenwahrnehmung als ein durchschnittliches Insekt." Er schüttelt den Kopf. "Eine Schande."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Callistege blickt mit Abneigung auf die Frau und murmelt. "Die arme Frau. Wer auch immer diese Geräte eingebaut hat sollte ausgepeitscht und von Vorrenwürmern gefressen werden." Sie bemerkt, wie du sie anschaust und gestikulierst. "Wenn du diese Einbauten entfernen würdest, wäre nur eine leere Hülle übrig - dabei noch eine rasch Sterbende. Sie versorgen sie und behalten sie technisch gesehen am Leben, aber ihre höheren Gehirnfunktionen wurden gelöscht. Ein *begabter* Fachmann... bäh. Nicht weiter wichtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Sie ignoriert dich weiterhin, und du bekommst den Eindruck, dass sie nicht antworten wird. Jemals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Unüberraschenderweise kannst du von ihr keine Gedanken lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Die arme Frau. Sie ist tot, aber ... auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_egyptian_needle_obelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieses Monument spitzt sich an einer schmalen Stelle. Von der Ferne scheint der Obelisk mehrere Meter hoch, aber wenn man am Fuße dessen steht, scheint es eine Art optische Illusion zu geben, als würde der Obelisk *weitergehen*, weiter emporsteigt, schmäler und schmäler, in den breiten Himmel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Als du dich dem Obelisk näherst, wirst du das Gefühl nicht los, dass er viel größer ist, als er wirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Berühren.</DefaultText>
+      <FemaleText>Berühren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ihn nochmal berühren.</DefaultText>
+      <FemaleText>Ihn nochmal berühren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText>Weggehen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du siehst dich, wie du traurig eine halb aufgegessene Schüssel Suppe anstarrst. Sie *siehst* schon schmackhaft aus, aber dem Ausdruck deines zukünfigen Selbstes nach zu urteilen war sie eine völlige Enttäuschung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du kehrst zur Vision des unzufriedenstellendes Mahls zurück. Dein zukünftiges Selbst tunkt ein altes Stück Brot in die Suppe, wahrscheinlich ein Versuch, das Mahl zu retten.</DefaultText>
+      <FemaleText>Du kehrst zur Vision des unzufriedenstellendes Mahls zurück. Dein zukünftiges Selbst tunkt ein altes Stück Brot in die Suppe, wahrscheinlich ein Versuch, das Mahl zu retten.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Follow-up T. 10</DefaultText>
+      <FemaleText>Follow-up T. 10</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du siehst, wie du schläfst, in Decken gebündelt, und du schnarchst laut genug um Löcher in den Himmel zu reißen. Außerdem sabberst du.</DefaultText>
+      <FemaleText>Du siehst, wie du schläfst, in Decken gebündelt, und du schnarchst laut genug um Löcher in den Himmel zu reißen. Außerdem sabberst du.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du kehrst zur Vision zurück, wo du schläfst und wie eine Callerale schnarchst.</DefaultText>
+      <FemaleText>Du kehrst zur Vision zurück, wo du schläfst und wie eine Callerale schnarchst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Follow-up T. 13</DefaultText>
+      <FemaleText>Follow-up T. 13</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du siehst, wie du den Horizont mit einem gedankenvollen Ausdruck betrachtest.
+
+Nein, warte... es war nur ein Niesen.</DefaultText>
+      <FemaleText>Du siehst, wie du den Horizont mit einem gedankenvollen Ausdruck betrachtest.
+
+Nein, warte... es war nur ein Niesen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du kehrst zur Vision zurück, wo du den Horizont anschaust... und niest.</DefaultText>
+      <FemaleText>Du kehrst zur Vision zurück, wo du den Horizont anschaust... und niest.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Follow-up T. 16</DefaultText>
+      <FemaleText>Follow-up T. 16</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du siehst eine pralle Säule aus brennende, öligen Rauch in einem verwüsteten Thronsaal. Du, deine Gefährten und eine Handvoll unbekannter Verstoßene liegen bewegungslos um sie herum. Keine der Körper sind ganz.
+
+Dann wendet dich die Säule - der Kummer - und breitet lange Krallen aus.
+
+Sie greifen nach *dir*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du kehrst zur Vision des ruinierten Thronsaals zurück. Du und deine Gefährten liegt wie verkohlte Blätter auf dem Boden verteilt.
+
+Der Kummer ist nirgends zu sehen, aber du kannst ihn spüren. Hinter dir, vielleicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Follow-up T. 19</DefaultText>
+      <FemaleText>Follow-up T. 19</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Über dem Brüllen einer hungrigen Flamme hörst du, wie jemand schäbig nach Luft keucht.
+
+Du öffnest deine Augen zu einer Vision der brennenden Verwüstung. Der Kummer ragt darüber empor und betrachtet die Frau, die auf seinen Krallen aufgespießt ist, mit klinischem Interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du siehst erneut die Vision des Kummers, umrandet von einem Flammenrad, mit einer Frau auf seinen Krallen aufgespießt.
+
+Aber der Kummer betrachtet nicht länger die sterbende Frau. Er schaut direkt zu dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Follow-up T. 22</DefaultText>
+      <FemaleText>Follow-up T. 22</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du siehst, wie du vor einer geisterhaften Frau stehst. Sie schaut dich an, ihre Augen kalt und hart. "Halte ihn auf. Er hat mehr Leben verletzt, als jeder zählen könnte.“</DefaultText>
+      <FemaleText>Du siehst, wie du vor einer geisterhaften Frau stehst. Sie schaut dich an, ihre Augen kalt und hart. "Halte ihn auf. Er hat mehr Leben verletzt, als jeder zählen könnte.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du kehrst zur Vision des Gespräches mit der geisterhaften Frau zurück. Sie hat ihre Augen geschlossen, als ob sie es nicht länger aushält, dich anzuschauen.</DefaultText>
+      <FemaleText>Du kehrst zur Vision des Gespräches mit der geisterhaften Frau zurück. Sie hat ihre Augen geschlossen, als ob sie es nicht länger aushält, dich anzuschauen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Im Moment, an den deine Fingerspitze den Dolchartigen Stein streicht, wird den Verstand von kalten Fingern ergriffen und hoch in die Luft geschleudert. Wolkenfetzen flitzen vorbei. Sterne streifen an dir vorbei und du verlierst dich in der Leere.
+
+Voraus erblüht ein Liche, mit silberigen Zeitstreifen gefädelt. Du stürzt in das Licht und eine Vision der Zukunft entfaltet sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Erneut stürzt dein Verstand gen offenen Himmel, durch die packende Leere und weiter, in das wartende Licht, das eine Vision der Zukunft hält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Das prophetische Licht verschwindet und lässt dich wieder vor dem Obelisk stehen.
+
+Du betrachtest stirnrunzelnd das Momument. Obwohl sich die Vision wahr *anfühlte*, scheint sie kaum der Mühe wert gewesen zu sein. Vielleicht bringt eine erneute Berührung andere Resultate hervor.</DefaultText>
+      <FemaleText>Das prophetische Licht verschwindet und lässt dich wieder vor dem Obelisk stehen.
+
+Du betrachtest stirnrunzelnd das Momument. Obwohl sich die Vision wahr *anfühlte*, scheint sie kaum der Mühe wert gewesen zu sein. Vielleicht bringt eine erneute Berührung andere Resultate hervor.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Deine Sicht wird klarer und du stehst wieder vor dem Obelisk.
+
+Diese Vision war genauso offenbar nützlos wie die letzte. Aber vielleicht kann dir dieses Monument mehr zeigen.</DefaultText>
+      <FemaleText>Deine Sicht wird klarer und du stehst wieder vor dem Obelisk.
+
+Diese Vision war genauso offenbar nützlos wie die letzte. Aber vielleicht kann dir dieses Monument mehr zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Deine Sicht wird klarer und du stehst wieder vor dem Obelisk.</DefaultText>
+      <FemaleText>Deine Sicht wird klarer und du stehst wieder vor dem Obelisk.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Der Obelisk bebt unter deiner Hand, als ob irgendwas darinnen erregt - oder aufgewacht - ist.
+
+Dann schleudert dein Verstand gen Himmel, zum prophetischen Stern.</DefaultText>
+      <FemaleText>Der Obelisk bebt unter deiner Hand, als ob irgendwas darinnen erregt - oder aufgewacht - ist.
+
+Dann schleudert dein Verstand gen Himmel, zum prophetischen Stern.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Hände packen deinen Geist und schleudern ihn zurück nach Miel Avest, zurück zu dem Obelisken. Du hältst dir den Kopf und taumelst zurück, weg von dem Monument.
+
+Scheint, als würde der Obelisk doch bedeutsamen Visionen offenbaren.</DefaultText>
+      <FemaleText>Hände packen deinen Geist und schleudern ihn zurück nach Miel Avest, zurück zu dem Obelisken. Du hältst dir den Kopf und taumelst zurück, weg von dem Monument.
+
+Scheint, als würde der Obelisk doch bedeutsamen Visionen offenbaren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du siehst, wie du vor einer enormen organischen Masse stehst. Tuben und Arterien pulsieren im trüben Licht und dichte Ranken strecken sich von der Masse aus, um deinen Körper einzuhüllen. Eigenartiges, außerirdisches Geflüster zwitschert und zischt in deinem Verstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du kehrst zur Vision der pulsierenden Masse aus Venen, Arterien und Ranken zurück. Zischendes, zwitscherndes Geflüster füllt deinen Kopf ... dann stürzen sich die Ranken *in* deinen Körper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>""
+{GAVIN: Marking as SHOULD NOT PLAY. Add more prophecies here, including some sort of permadeath after viewing all the ones below. We should also disable the trivial ones after non-trivial is unlocked.} 
+{GAVIN: Don't disable the trivial ones. The point of this obelisk is that the visions are random. The "real" visions are only ever available if the player sufficiently messes with it. They're easter eggs. -AH}</DefaultText>
+      <FemaleText>""
+{GAVIN: Marking as SHOULD NOT PLAY. Add more prophecies here, including some sort of permadeath after viewing all the ones below. We should also disable the trivial ones after non-trivial is unlocked.} 
+{GAVIN: Don't disable the trivial ones. The point of this obelisk is that the visions are random. The "real" visions are only ever available if the player sufficiently messes with it. They're easter eggs. -AH}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>""</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Du erkennst die Frau wieder. Sie ist derselbe Geist, dem du im Fünften Auge und im Labyrinth danach begegnet bist, aber du weißt nicht, wovon sie redet.</DefaultText>
+      <FemaleText>Du erkennst die Frau wieder. Sie ist derselbe Geist, dem du im Fünften Auge und im Labyrinth danach begegnet bist, aber du weißt nicht, wovon sie redet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du erkennst die Frau wieder. Sie ist derselbe Geist, dem du im Fünften Auge begegnet bist, aber du weißt nicht, wovon sie redet.</DefaultText>
+      <FemaleText>Du erkennst die Frau wieder. Sie ist derselbe Geist, dem du im Fünften Auge begegnet bist, aber du weißt nicht, wovon sie redet.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

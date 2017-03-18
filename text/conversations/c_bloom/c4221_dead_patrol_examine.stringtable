@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_dead_patrol_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Drei Körper liegen ein einem groben Haufen übereinander. Die Leichen wurden schlecht behandelt. Durch wilde Schläge mit groben Klingen getötet, haben sich die Schreie des Todes in ihren Gesichtern festgefressen. Große Fleischstreifen wurden aus ihrer freiliegenden Haut gerissen ... und an anderen Stellen sehen tiefe Stiche aus, als wären sie von großen Vögeln verzerrt worden, ein Schnabel nach dem anderen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Wachen der Memovira zerfallen hier langsam und ihre Leichen wurden von groben Klingen und scharfen Schnäbeln geschändet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Trotz des Schadens, den sie eingesteckt haben, erkennst du die Kleidung, die Rüstung und die Wappen auf den Leichen: Sie gehören zur Wache der Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

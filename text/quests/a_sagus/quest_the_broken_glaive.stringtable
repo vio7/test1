@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_the_broken_glaive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der gebrochene Glaive</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Frage nach Riastrad im Klippenrandsstadtteil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde einen Weg in das befestige Haus beim Klippenrand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Hilf Riastrad und Satsata, Memoviras Schlägern zu entkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erfolgreiche Rettung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ein Kleine Gnadenerweisung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Von Satsada von Mazzof und Miel Avest erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Riastrad übersprungen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Casmeen und Mimeon wissen zwar nicht, wie man die Resonanzkammer repariert, aber sie wissen, dass sie von einem Abgeworfenen gebaut wurde. Einer der beiden Abgeworfenen in der Stadt, ein Glaive namens Riastrad, könnte dir helfen, den Erbauer der Kammer zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Casmeen und Mimeon wussten nicht, wo man Riastrad finden kann – nur, dass er sich im Bezirk Klippenrand herumtreibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Riastrad wurde von den Leuten einer Patin namens Memovira geschnappt und in einem befestigten Haus in Klippenrand festgehalten. Wenn du mit ihm sprechen willst, musst du da irgendwie reinkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Du hast dir Zutritt zum Haus, in dem Geheimnisse sterben, verschafft. Jetzt musst du nur noch Riastrad finden und ihn und Satsada befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Du hast Riastrad und Satsada aus dem Haus, in dem Geheimnisse sterben, befreit, und in ihrer Dankbarkeit/ haben sie dir alles gesagt, was sie wissen. Die Resonanzkammer wurde von einem Mann namens Mazzof gebaut. Du findest ihn wahrscheinlich in Miel Avest, einem geheimen Lager der Abgeworfenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Als du Riastrad endlich gefunden hast, waren er und seine geisterhafte Begleiterin völlig durchgedreht und mussten getötet werden. Was auch immer sie über den Erbauer der Resonanzkammer wussten, haben sie mit ins Grab genommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Du hast mit Riastrads geisterhafter Begleiterin Satsada gesprochen und sie überredet, dir die benötigten Informationen zu verraten. Die Resonanzkammer wurde von einem Mann namens Mazzof gebaut. Du findest ihn wahrscheinlich in Miel Avest, einem geheimen Lager der Abgeworfenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Du hast Sagusklippen in Richtung Tal der Toten Helden verlassen, ohne zu versuchen, Riastrad zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Riastrad ist offenbar in Begleitung einer Frau – oder eines Geistes – namens Satsada, die nie von seiner Seite weicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Das befestigte Haus ist auch bekannt als das "Haus, in dem Geheimnisse sterben".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Der Zugang zu dem Haus wird von einer seltsamen Numenera-Brücke kontrolliert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Du könntest den Vordereingang des Hauses umgehen und einen Tunnel hinein graben, doch dazu brauchst du Hilfe eines Stichus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Riastrad und seine Begleiterin Satsada sind scheinbar verrückt geworden und versuchen nun, alle in dem Haus umzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

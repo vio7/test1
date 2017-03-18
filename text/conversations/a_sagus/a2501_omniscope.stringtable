@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_omniscope</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>146</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Maschine summt leise. Unter der dunkel glänzenden Oberfläche erscheint ein orangenes Leuchten. Ein großes außerirdisches Symbol beherrscht die Fläche. Auf den Seiten stehen Worte in kleiner Schrift, aber du verstehst die Sprache nicht. Dennoch wirkt es so, als ob du die Worte schon einmal gesehen hättest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das große außerirdische Symbol und die Schrift erscheinen erneut, als du an die Maschine heran trittst. Die Schrift wirkt vertraut, obwohl du nicht weißt, was sie bedeutet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Anzeige des Omniskops leuchtet wieder auf. Ein nicht-menschlicher Handabdruck dominiert die Fläche. Neben ihm steht eine Liste von Orten und eine kürzere Liste  ungefährer Daten. Ein Punkt von jeder Liste ist bereits ausgewählt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Versuchen, den Text zu entziffern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Erneut versuchen, den Text zu entziffern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Nachdem du dich mehrere Minuten lang mit dem Text befasst hast, beginnst du, Muster im Text zu erkennen - oder vielleicht erinnerst du dich nur daran. Blitzartig wird dir der Sinn des Gerätes wieder klar.
+
+Es ist ein Omniskop; ein Gerät, mit dem man aus der Ferne an Orte sehen kann. Das große außerirdische Symbol ist tatsächlich ein nicht-menschlicher Handabdruck. Die lange Liste daneben enthält Ortsnamen, und die kürzere Liste gibt Zeiträume an - wie weit das Omniskop in die Zeit zurückblicken soll. Du entdeckst, dass du tatsächlich alle lesen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Bedeutung der Schrift entgeht dir, aber du verstehst den Aufbau der Elemente auf der Anzeige.
+
+Das seltsame Symbol, das den Großteil der Anzeige einnimmt, ist ein Handabdruck - allerdings kein menschlicher. Daneben stehen zwei Listen: eine längere Liste aus Wörtern und eine kürzere Liste aus Zahlen, vermutest du.
+
+In Jeder Liste ist ein Punkt bereits ausgewählt. Du bist dir ziemlich sicher, dass du per Berührung einen anderen auswählen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der außerirdische Handabdruck und die zwei Listen in seltsamer Schrift erscheinen erneut, als du an die Maschine heran trittst. Du kannst die Schrift nicht entziffern, aber du weißt, dass die längere Liste aus Wörtern besteht und die kürzere aus Zahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Der Bildschirm zeigt eine Gegend nördlich der Sagus-Klippen, unterhalb des Stadtmassivs, wo das Land sich bis zum Horizont erstreckt. In einem Labyrinth aus Steilhängen und Felsvorsprüngen liegt jede Menge Abfall, das meiste davon älter als die Neunte Welt.
+
+Metall und Synth-Monolithen ragen aus einem Feld von Müll. Eine funktionierende Maschine steht am Rande einer riesigen Grube. Seltsame Pflanzen und Ranken erkämpfen sich das Land zurück. Es ist noch überladener und fantastischer als das Riff der gefallenen Welten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Der Bildschirm zeigt den Schrottplatz nördlich der Sagus-Klippen. Er ist überhäuft mit dem Schrott von Tausenden - vielleicht Millionen - von Jahren früherer Welten. Überall wachsen seltsame Pflanzen und Ranken, die sich langsam das Land zurückerkämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt den Schrottplatz über viele Jahre.
+
+Plünderer kommen und gehen. Die riesige Grube wird langsam größer. 
+
+In ferner Vergangenheit zieht sich ein Wall durch den Schrottplatz, voller nördlich gerichteter Geschütze, um die Stadt vor Angriffen zu sichern. Aber mit der Zeit wird der Wall aufgegeben, die Geschütze verrosten, und die ganze Konstruktion wird unter  Müll begraben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt den Schrottplatz über Tage und Wochen.
+
+Plünderer kommen und gehen. Dir fällt ein kleines Lagerfeuer auf - ungewöhnlich auf einem Schrottplatz. Ein kleines Mädchen sitzt gebeugt davor. Sie sieht ängstlich aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Plünderer ziehen durch das Labyrinth. Nicht alle sind menschlich. Sie nehmen alles, was sie an Numenera oder Schrott finden können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt den Flor über viele Jahre.
+
+Je weiter du in die Vergangenheit blickst, umso weiter nördlich liegt der Flor. Es wirkst, als ob er sich ganz langsam - weniger als eine Fingerlänge pro Jahr - nach Süden bewegt, in Richtung Meer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt den Flor über Tage und Wochen.
+
+Im Flor gibt es vielfältigen Verkehr - Kaufleute, Flüchtlinge und die Mittellosen. Eine Reihe dunkler Figuren geht ein und aus, hauptsächlich durch ein steinernes Torhaus, das in der Masse des Fleisches teils begraben ist. Nicht eine Wache oder Sagus-Beamter scheint jemals dorthin zu kommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Kaufleute und zahlreiche andere Figuren reisen entlang der Ranken des Flors. Ein steinernes Torhaus, teils begraben in der Masse des Fleisches, sieht zwar aus wie ein offensichtlicher Eingang, aber nur wenige kommen oder gehen durch dieses Tor.
+
+Etliche Plünderer wühlen durch den Abfall außerhalb des Flors. Das meiste, das sie finden, werfen sie in eine der zahlreichen Öffnungen des Flors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Der Bildschirm zeigt die dunkle Schlucht, die eine der Seiten der Sagus-Klippen bildet. Am Boden der Schlucht liegt ein Teppich aus Müll, der wie ein Fluss vom Schrottplatz im Norden der Stadt zum Meer hin zu fließen scheint.
+
+Im dunkelsten Teil der Schlucht, unter einer Wolke von schmierigem Rauch, liegt eine Masse von lebendem Fleisch in der Größe einer Stadt ... der Flor. Der Name springt dir sogleich ins Gedächtnis, aus den Erinnerungen deines Erzeugers.
+
+Röhren und Ranken erstrecken sich aus dem Flor in hundert Richtungen. Viele von ihnen sind an beiden Seiten an den Klippen verankert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Der Bildschirm zeigt eine Masse von lebendem Fleisch in der Größe einer Stadt - den Flor -, der tief in der dunklen Schlucht neben den Sagus-Klippen liegt. Röhren und Ranken erstrecken sich aus dem Flor in hundert Richtungen. Viele von ihnen sind an beiden Seiten an den Klippen verankert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt die Klippenwand über viele Jahre.
+
+Je weiter du in die Vergangenheit blickst, umso mehr Gebäude gibt es. Sie sind über viele Jahrhunderte nach und nach ins Meer gefallen.
+
+Darüber und darunter stehen Geschütze, die auf das Meer gerichtet sind - Verteidigungswaffen, älter als die Neunte Welt -, aber auch sie fallen über die Jahre ins Meer. Kurz bevor die ferne Vergangenheit endet, stürzt das letzte Geschütz hinab und lässt die Stadt ohne Verteidigung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt die Klippenwand über Wochen und Tage.
+
+Gebäude stürzen rasch ins Meer, als ob irgendetwas sie untergraben würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die Menschen in dieser Gegend sind oft grob und verbittert. Sie leben nicht freiwillig am Rand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Das Bild auf dem Bildschirm zeigt Dutzende von Gebäuden, die direkt in die Seite der Klippen gebaut wurde. Viele von ihnen hängen gefährlich über dem Meer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Dutzende von Gebäuden wurden in die Seite der Klippen gebaut. Viele von ihnen hängen gefährlich über dem Meer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt den Platz über viele Jahre.
+
+Vor Jahrhunderten gab es eine Art von Rebellion. Sie begann im Flor und führte hinauf zu den höchsten Teilen der Sagus-Klippen. Geleitet wurde sie von einer Frau mit einem glühenden Hammer. Sie ist komplett in silberne Schuppen gehüllt - du kannst nicht einmal ein Gesicht erkennen. Viele folgen ihr und die Anführer des antiken Sagus werden rasch getötet oder unterworfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt den Platz über Wochen und Tage.
+
+Eine blasse Frau mit gelben Haaren steht vor einem magischen Portal. Gelegentlich siehst du Kinder in das Portal hinein- oder hinausgehen, allerdings nie ein Kind zwei Mal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Die Menschen hier leuchten ebenso wie der Platz selbst. Sie sind gut gekleidet und offensichtlich wohlhabend. Viele Wachen laufen über den Platz, genauso wie Aeon-Priester, Fremde und ein paar Nicht-Menschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Die Anzeige leuchtet auf und zeigt einen hellen, sonnenüberfluteten Platz nahe der Spitze des Stadtmassivs. Der Platz ist gepflastert mit Synth-Platten. Rund um den Platz erheben sich mehrere verzierte Gebäude. Ein paar von ihnen sind aus glänzendem Metall und scheinen direkt aus dem Boden hervorzusteigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Der helle, sonnenüberfluteten Platz beherbergt viele verzierte Gebäude. Ein paar von ihnen sind aus Metall und scheinen direkt aus dem Boden hervorzusteigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt den belebten Platz über viele Jahre.
+
+Gebäude erheben sich und versinken im Laufe der Jahre. Eines erweckt deine Aufmerksamkeit. Es ist aus lilafarbenem Fels erbaut und steigt perfekt vertikal in die Höhe, ungefähr fünfzig Stockwerke hoch. Auf seiner Seite ist ein großartiges Wandbild einer Kreatur - oder vielleicht eines Baumes oder Sturmes - aber du bist dir sicher, dass es eine Kreatur ist. Vielleicht *die* Kreatur, der Kummer, der dich jagt.
+
+Das Gebäude stand über Jahrhunderte, bevor es abgerissen wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt den belebten Platz über Wochen und Tage.
+
+Du siehst eine lebhafte Parade. In der Mitte läuft ein in Ketten gelegter Mann. Aus seinem Gesichtsausdruck kannst du lesen, dass er in seinen Tod geht.
+
+Aligern und Callistege gehen vorbei und unterhalten sich leise, während sie in Richtung der Treppe zum Riff laufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Die Menge rund um den Exekutionsplatz hat sich aufgelöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Der Bildschirm zeigt einen belebten Platz in der Stadt, nahe dem unteren Rand der Klippe. Leute aller Art finden sich dort, unter ihnen auch Künstler und Artisten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Du siehst den belebten Platz nahe dem unteren Rand der Klippe. Leute aller Art finden sich dort, bieten ihre Waren an oder unterhalten die Menge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt das Riff über viele Jahre.
+
+Das erste, was dir auffällt, ist der Bau einer Synth-Kuppel … genau der Kuppel, in die du gestürzt bist, als du vom Himmel fielst. Ein Mann mit einer Tätowierung der Verstoßenen arbeitet neben verschiedenen Automatons. Der Verstoßene trägt ein verschlissenes Gewand aus Leder. Eine beängstigende Anzahl von Drähten und Röhren ragt aus seinem Körper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt das Riff über Tage und Wochen.
+
+Das interessanteste Ereignis dieses Zeitraumes ist dein Fall. Es gibt einen hellen Blitz. Du siehst, wie Aligern und Callistege in den Himmel schauen, dann dreht Aligern seine Hände in der Luft und sendet vielfarbige Energie in den Himmel.
+
+Sekunden später schlägt ein weißer Schlieren - eingehüllt in genau diese Energie - in die Kristallkuppel am Rande des Riff ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Das Nychtemeron ist da und wandert ziellos in der Nähe des schwarzen Obelisken herum. Die anderen Plünderer bleiben in sicherer Entfernung zu der gefährlichen Kreatur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Du siehst halb versunkene Gebäude und Artefakte des Riffs der gefallenen Welten, wo du vom Himmel gefallen bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt das Meer über viele Jahre.
+
+Vor langer Zeit standen Verteidigungsgeschütze in der Felswand. Mittlerweile sind alle von ihnen hinabgefallen oder zu Ruinen geworden.
+
+Ein riesiger Marteling-Wal mit einem kleinen Dorf auf seinem Rücken gleitet in die Bucht. Doch noch bevor er die Klippen erreicht, beginnen die Geschütze donnernd zu feuern und töten den Wal und zerstören das gesamte Dorf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt das Meer über Tage und Wochen.
+
+Seltsame Schiffe kommen und gehen, auf dem Wasser und in der Luft. Sie bringen Handelsgüter von weit entfernten Orten, unsichtbar hinter dem Horizont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Das Meer ist ruhig. Eine kleine Zahl von Schiffen läuft in den Hafen ein und aus, auf der Suche nach Fischen oder versunkenen Artefakten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Der Bildschirm zeigt das weite Meer Richtung Süden. Zwei Halbinseln umarmen das Meer für viele Kilometer, dahinter erstreckt sich das Meer bis zum Horizont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Der Bildschirm zeigt das weite Meer südlich der Sagus-Klippen. Zwei Halbinseln umarmen das Meer für viele Kilometer, dahinter erstreckt sich das Meer bis zum Horizont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt Karawanserei über viele Jahre.
+
+Die Docks waren schon immer ein belebter Handelspunkt, soweit du in der Zeit zurücksehen kannst.
+
+In den frühesten Aufzeichnungen siehst du, wie zwei Personen auf genau dieser Aussichtsplattform stehen - ein Mann und eine Frau. Helle Blitze und Rauchwolken deuten auf eine große Schlacht am Rande der Klippen unter der Plattform hin, bis der Mann etwas auf der Steuerkonsole aktiviert. Ein schwacher Energieschleier umhüllt die Stadt, und der Tumult endet plötzlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt Karawanserei über Tage und Wochen.
+
+Ganz flüchtig siehst du eine Frau mit lilafarbenem Haar. Du verlangsamst die Bilder, um sie dir genauer anzusehen. Sie steht in der Nähe des Hostel-Eingangs und spricht mit der Inhaberin. Einen Moment später umarmt sie die Frau und eilt in Richtung Docks.
+
+Die Haare der Frau scheinen sich aus eigenem Antrieb zu bewegen. Es ist fast sicher die Frau, die Omahdon beschrieben hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Es sieht genauso aus, wie die Szene vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Der Bildschirm zeigt die Hochebene von Karawanserei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Liste von Orten ansehen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Wörterliste ansehen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Die Liste umfasst acht Orte, alle von ihnen innerhalb von oder in der Nähe der Sagus-Klippen. Einen auszuwählen verschiebt vermutlich den Blick des Omniskops dorthin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Die Liste umfasst acht Punkte. Einer von ihnen leuchtet heller als die anderen. Keiner von ihnen ergibt für dich Sinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Crefton auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Den Flor auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Klippenrand auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Regierungsplatz auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Circus Minor auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Riff der gefallenen Welten auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Garravia-Sund auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Karawanserei auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Aktuelle Auswahl verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Crefton ist ausgewählt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Der Flor  ist ausgewählt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Klippenrand ist ausgewählt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Regierungsplatz ist ausgewählt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Circus Minor ist ausgewählt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Riff der gefallenen Welten ist ausgewählt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Garravia-Sund ist ausgewählt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Karawanserei ist ausgewählt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Liste der ungefähren Zeiten ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Zahlen ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Es gibt drei Punkte. Du bist dir ziemlich sicher, dass es Zahlen sind, aber du weißt nicht, *welche* Zahlen oder was sie bedeuten. Eine von ihnen leuchtet heller als die anderen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"128" für ferne Vergangenheit auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"12" für jüngere Vergangenheit auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"1" für Gegenwart auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Beliebige auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Es gibt drei Zahlen, die jeweils einen groben Zeitrahmen markieren - vielleicht Tage, Monate oder Jahre. Die Zahlen sind seltsam, aber du bist dir ziemlich sicher, dass du ihre Bedeutung verstehst. Wenn du eine auswählst, wird der Blick des Omniskops dorthin verschoben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Die aktuelle Auswahl ist "128" - ferne Vergangenheit, vermutest du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Die aktuelle Auswahl ist "12" - jüngere Vergangenheit, vermutest du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Die aktuelle Auswahl ist "1" - Gegenwart, vermutest du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Beliebige auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Du berührst den Namen und er leuchtet heller als die anderen. Hoch über dir wechselt das Omniskop die Position.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Die Maschine summt sanft weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Aktuelle Auswahl verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Du berührst die Zahl und sie leuchtet heller als die anderen. Das Summen der Maschine bekommt einen anderen Klang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Beliebige Punkte auswählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Du wählst blind zwei Punkte aus, einen von jeder Liste. Die Maschine über dir bewegt sich, und ihr Summen bekommt einen anderen Klang</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Hand auf außerirdischen Handabdruck legen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Erneut auf Bildschirm zugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Sobald deine Hand die Oberfläche berührt, reagiert die Maschine. Die leuchtenden Punkte in den zwei Listen blinken und Linien bilden ein Rechteck - einen Bildschirm, der vorher noch nicht da war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Du befasst dich mehrere Minuten lang mit der Schrift, kannst aber nichts neues lernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Du wählst blind einen der Punkte aus, und er leuchtet heller als die anderen. Hoch über dir, an der Spitze des Turmes, wechselt die Maschine die Position.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Du wählst blind einen der Punkte aus und und er leuchtet heller als die anderen. Das Summen der Maschine bekommt einen anderen Klang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Nur wenig mehr ändert sich, bis die Bilder von vor vielen Jahrhunderten erscheinen. Massive Kriegswagen kriechen über das Riff und feuern auf die Stadt. Ein Schuss aus den Verteidigungsanlagen trifft eines von ihnen und es fällt in das kristalline Wasser. Als es sich beruhigt, erkennst du seine Rückseite wieder - es ist die Stelle, an der du Qorro getroffen hast.
+
+Es gibt nichts vor diesem Angriff auf die Stadt. Wenn du versuchst, weiter in die Vergangenheit zu blicken, springen die Bilder zurück in die Gegenwart und beginnen von neuem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt den Schrottplatz über Tage und Wochen.
+
+Plünderer kommen und gehen. Dir fällt ein kleines Lagerfeuer auf - ungewöhnlich auf dem Schrottplatz. Rhins kleine Gestalt sitzt gebeugt davor. Sie sieht ängstlich aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Eine Menschenmenge versammelt sich um einen Mann, der von "Seilen" aus verrottenden Eingeweiden gehalten wird. Er schreit in den Himmel, während seine Fesseln immer enger werden. Die Menge sieht ihm mit gemischten Gefühlen zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Nur sehr wenige Plünderer ziehen über das Riff … vielleicht weil sie glauben, dass es nichts mehr zu finden gibt … oder sie haben Angst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt das Meer über viele Jahre.
+
+Vor langer Zeit standen Verteidigungsgeschütze in der Felswand. Mittlerweile sind alle von ihnen hinabgefallen oder zu Ruinen geworden.
+
+Ein riesiger Marteling-Wal mit einem kleinen Dorf auf seinem Rücken gleitet in die Bucht. Doch bevor er die Klippen erreicht, spritzt eine Blutfontäne aus seinem Kopf auf. Er heult traurig auf und versinkt dann im Wasser</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt das Meer über viele Jahre.
+
+Vor langer Zeit standen Verteidigungsgeschütze in der Felswand. Mittlerweile sind alle von ihnen hinabgefallen oder zu Ruinen geworden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Das Bild in der Anzeige verändert sich rasant und zeigt Karawanserei über Tage und Wochen.
+
+Reisende kommen und gehen. Aber die Schiffe mit den fischähnlichen Passagieren oder den Waren, die nach "M'ra Jolios" gehen sollen, bleiben für lange Zeit am Kai liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

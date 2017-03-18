@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_artaglio_rum</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Fass, aus dem Artaglio seinen Krug füllt, besteht aus Sprossen aus dunklem Holz. Bänder aus Synthstahl ziehen die Sprossen des Fasses zusammen, und du siehst Beulen im Synthstahl, wo Ornamente abgefallen sind.
+
+Darinnen gluckert dunkler, würziger Alkohol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du öffnest das Glasfläschen und gehst näher an Artaglio heran. In einer flüssigen Bewegungen legst du dir die Essenz in die Handfläche und führst die Hand über das Fass. Dabei öffnest du unauffällig den Deckel und schüttest Sheens Gebräu in den Alkohol. Es macht kaum ein Geräusch, als es ins Fass tropft, und du schließt den Deckel so klug wie zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Fass in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du schaust dir alles an und wartest, um deinen Plan umzusetzen, bis scheinbar die perfekte Gelegenheit kommt. Als du unauffällig versuchst, dass Fass zu öffnen, lacht Artaglio über einen Witz, macht weite Gesten und schlägt dir dabei die Essenz aus der Hand. Das Fläschen rollt in die Nähe seines Stiefels und er hebt - ohne hinzusehen - seinen Stiefel und zerquetscht die Flasche unter seinem Fuß.
+
+Dann sieht er dich direkt an und nimmt einen großen Schluck. Dann füllt er seinen Krug wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Versuchen, den Rum mit der Tapferkeitsessenz aus Sheens Laden zu versetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Erneut versuchen, den Rum mit der Tapferkeitsessenz aus Sheens Laden zu versetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du glaubst, dass du die perfekte Gelegenheit für deinen Plan hast, aber als du gerade das Fass öffnen und die Essenz hineingießen willst, dreht sich Artaglio zu dir hin. Du schaffst es gerade noch, die Essenz zu verstecken, bevor er sie sieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Artaglio füllt seinen Krug auf und trinkt. Seine Haltung ändert sich schnell und fast unmerklich. Seine Haut wirkt lebendiger und seine Augen weiten sich. Aus den Seitenblicken zum Schlund wird Starren, und je mehr er trinkt, um so länger schaut er hin. Entschlossenheit zeigt sich in seinem Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Vielleicht kannst du die Tapferkeitsessenz in das Fass gießen, aber Artaglio füllt seinen Krug oft nach und er passt auf seinen Alkohol auf wie ein eifersüchtiger Liebhaber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Das Fass stinkt nach starkem Alkohol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Das Fass besteht aus Sprossen aus dunklem Holz. Bänder aus Synthstahl ziehen die Sprossen des Fasses zusammen, und du siehst Beulen im Synthstahl, wo Ornamente abgefallen sind.
+
+Darinnen gluckert dunkler, würziger Alkohol.
+
+Der Mann, der daneben steht, sieht, wie du sein Fass begutachtest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vielleicht kannst du die Tapferkeitsessenz in das Fass gießen, aber Artaglio füllt seinen Krug oft nach und er passt auf seinen Alkohol auf wie ein eifersüchtiger Liebhaber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

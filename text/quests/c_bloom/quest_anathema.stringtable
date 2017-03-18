@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_anathema</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Verfluchung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Löse den Streit zwischen Kritzler und Ioxu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rede mit Kritzler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rede mit Ioxu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kultisten töteten Ioxu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ioxu überredet, aufzuhören</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Kultisten verjagt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kultisten immernoch da, sie haben es aber nicht mehr auf Ioxu abgesehen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Halte Ioxus Experimente auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Verjage die Kultisten von Ioxus Zuhause</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Gruppe tötete Ioxu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Endspiel betreten, bevor der Auftrag abgeschlossen wurde (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Endspiel betreten, nachdem du mit Ioxu fertig wurdest, hast es Kritzler aber nicht weitergesagt (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Endspiel betreten, nachdem du mit Kritzler fertig wurdest, hast es Ioxu aber nicht weitergesagt (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ich habe Kritzler im Herzen der Flor erscheinen lassen und ihn getötet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ich habe Kritzler im Herzen der Flor erscheinen lassen, aber ihn nicht getötet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Durch seine Experimente hat der Varjellen-Forscher Ioxu die Wut einiger Kultisten auf sich gezogen. Man hat mich gebeten, den Zwist zwischen den beiden Parteien zu klären.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Sowohl Ioxu als auch Kritzler haben mich darum geben, mich um die jeweils andere Partei zu kümmern - Kritzler will Ioxus Experimente stoppen, und Ioxu möchte, dass ich die Kultisten vertreibe. Wenn ich diesen Konflikt nicht auf die eine oder andere Art auflösen kann, wird es wohl zu Gewalt kommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ioxus Experimente wurden eingestellt. Ich sollte Kritzler informieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Kritzler stellt nicht länger eine Gefahr für Ioxu dar. Ich sollte Ioxu davon erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Kritzler und die anderen Kultisten konnten Ioxus Experimente nicht länger tolerieren, also haben sie den Forscher anscheinend in seinem Labor ermordet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ioxu hat sich zunächst geweigert, doch dann konnte ich ihn davon überzeugen, dass es in seinem besten Interesse ist, wenn er die Experimente einstellt. Ich habe Kritzler davon in Kenntnis gesetzt, der sich überglücklich gezeigt hat. Er hat mich belohnt, und darüber hinaus behauptet, dass ich mir die Gunst der Flor verdient hätte ... wenn das überhaupt möglich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich konnte Kritzler und sein Gefolge vertreiben. Sie sollten Ioxu so schnell nicht wieder auf die Pelle rücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe Kritzler davon überzeugt, dass die Flor durchaus dazu in der Lage ist, sich selbst zu verteidigen. Er hat es nicht gewagt, zu widersprechen, und hat versprochen, dass er und seine Kultisten Ioxu in Zukunft in Ruhe lassen würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Kritzler, scheinbarer Anführer der Flor-Kultisten, behauptet, dass Ioxus Untersuchungen irgendwie der Flor schaden. Er bat mich, Ioxu zu überreden, seine Experimente einzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ioxu sagt, dass die Flor-Kultisten ihn belästigen würden, und er möchte, dass ich sie vertreibe. Anscheinend denken sie, dass er der Flor mit seiner Arbeit Leid zufügt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ioxus Experimente haben ein Ende gefunden, so wie auch sein Leben. Ich habe Kritzler von seinem Abtreten berichtet, und er war außer sich vor Freude. Er hat mich belohnt, und darüber hinaus behauptet, dass ich mir die Gunst der Flor verdient hätte ... wenn das überhaupt möglich ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Ich weiß nicht, wann und ob ich zur Flor zurückkehren werde, also müssen Ioxu und die Kultisten ihre Streitigkeiten alleine austragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Um Ioxu habe ich mich gekümmert, aber nun bin ich im Labyrinth gefangen und weiß nicht, wann ich Kritzler davon in Kenntnis setzen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Um Kritzler habe ich mich gekümmert, aber nun bin ich im Labyrinth gefangen und weiß nicht, wann ich Ioxu die guten Neuigkeiten überbringen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Kritzler ist in den Tiefen der Flor gestorben. Er und seine Freunde werden Ioxu nicht mehr belästigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Kritzler, scheinbarer Anführer der Flor-Kultisten, behauptet, dass Ioxus Untersuchungen irgendwie der Flor schaden. Er bat mich, Ioxu zu überreden, seine Experimente einzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ioxu sagt, dass die Flor-Kultisten ihn belästigen, und will, dass ich sie verjage.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

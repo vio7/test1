@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4201_half_buried_loot</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Ein kleines Gerät liegt halb vergraben im Boden. Du denkst, dass du es herausziehen könntest.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Versuchen, das Gerät herauszuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Es gelingt dir, das Gerät herauszuziehen, und du verstaust es in deinen Taschen.]
+
+{SCRIPT:  Give out an item here.}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Das Gerät bewegt sich kein Stück.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Als du das Gerät aus dem Boden befreist, bemerkst du, das ein weiteres Gerät an seinem Ende befestigt ist. Sorgfältig entnimmst du beide Geräte dem Boden.]
+
+{SCRIPT: Give out two items here.}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Als du versuchst, das Gerät herauszuziehen, bricht es entzwei. Es ist jetzt völlig nutzlos.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

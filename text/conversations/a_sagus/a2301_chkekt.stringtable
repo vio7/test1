@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_chkekt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>395</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ch'kekt beugt sich vor, als du zum normalen Bewusstsein zurückkehrst. "Ch'kekt riechen Granit. Wissen", poltert er. Aus seinen Atemlöchern tritt ein Hauch Gas aus. Der Stichus sieht dich an und seine Körperhaltung und seine kurzen Bewegungen stellen eine Frage - "Spricht Mensch Stichus?" 
+
+Deine Muskeln erinnern sich an die Sprache und geben die passende Antwort.
+
+Ch'kekt verströmt den Duft von Blitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ch'kekt betrachtet dich stumm und beginnt dann seine Pantomime. Der Duft von Tunnelraupen und ein scharf metallischer Geruch erfüllen die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Dieses gewaltige Wesen überragt dich deutlich. Ein Geruch nach Blitzen und einer unterirdischen Höhle überkommt dich und erinnert dich mehr an Neugier als an alles andere. Das Wesen zwitschert und poltert und vollführt einen ausdrucksvollen Tanz mit seinen großen Krallen.
+
+Diese Gerüche, Geräusche und Gesten wirken irgendwie vertraut. Eine nicht ganz greifbare Erinnerung nagt in deinem Hinterkopf.
+
+Schließlich erinnerst du dich: Das ist ein Stichus, ein riesiges Erdinsekt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du drehst die Gezeiten gegen dich selbst, brennst das durch die Amnesie angesammelte Geröll aus deinem Geist. Ein Licht flammt auf, Mandalas tanzen vor deinen Augen und Bilder flimmern durch dein Gedächtnis. 
+
+Du siehst dich bei der Kommunikation mit einem Stichus, beim Austausch von Handzeichen. Ein kleiner Kasten zwischen euch beiden übersetzt deine Worte und Gedanken und lässt deine Muskeln für dich sprechen.
+
+Die Informationen strömen nur so in deinen Geist ein. Der Geruch von Granit steigt dir in die Nase: *Wissen*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ch'kekt überragt dich, als du näherkommst, und der Geruch nach frischer Luft und Blumen verrät dir, dass der Stichus *nicht* erfreut ist, dich zu sehen. "Eierdieb. Brutkameraden bewegen schnell. Aber Graben dauert. Neues Heim wartet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Er zeigt auf sich und sagt: "Ch'kekt." Es folgt ein weiterer Strom schriller Töne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du erinnerst dich. Die Sprache ist ein Kauderwelsch, aber du verstehst sie gut genug, um mit dem Stichus zu kommunizieren. "Ich Ch'kekt. Sprecher zu braunen Larven - Menschen. Du reden mit mir, ich reden mit Sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Mensch zurück. Warum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Wie üblich ergibt sein Zwitschern für dich keinen Sinn. Es schafft es, ein paar Wörter in der Hochsprache zu sprechen. "Was du willst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Versuchen, dich an die Stichus-Sprache zu erinnern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die tief in deiner Erinnerung verborgene Kenntnis der Sticha-Sprache ausgraben.
+
+{GEORGE/ADAM: Ch'kekt is Oblivious, so this is an exception to the Tidal Surge rule - the PC uses a Tidal Surge on himself to unlock his own knowledge.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Deine Gedanken verschwimmen und eine Erinnerung taucht aus den dunklen Tiefen deines Gedächtnisses auf. 
+
+Du siehst dich bei der Kommunikation mit einem Stichus. Ihr tauscht geduldig Handzeichen aus, während ein kleiner Kasten zwischen euch beiden deine Worte und Gedanken übersetzt. 
+
+Um deine Gedanken oder Konzepte zu vermitteln, sendet der Apparat einen Reiz in die betreffenden Regionen deines Gehirns und Elektrizität in deine Muskeln und steuert so deine Gliedmaßen. Kurz: Er macht dich zu einer Marionette.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du konzentrierst deinen Geist, blockierst alle äußerlichen Ablenkungen, und konzentrierst deinen ganzen Willen darauf, die Erinnerung ans Licht zu holen. Es muss einen Grund geben, warum dir diese Sprache so bekannt vorkommt. Es *muss*. 
+
+Doch so sehr du es auch versuchst, das Einzige, was kommt, ist das flackernde Bild eines kleinen Kastens vor dir. Doch daran knüpfen sich keine weiteren Gedanken an.
+
+Schließlich musst du aufgeben. Es ist sinnlos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Was kannst du mir über diesen Ort erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Kannst du mir noch einmal von diesem Ort erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Er sieht dich aufmerksam an und beginnt einen langsamen und sorgfältigen Tanz mit seinen plumpen Fingern.   Er macht langsam zwitschernde Geräusche, mal höher, mal tiefer. Dazu riechst du Ozon. "Guter Fels. Voll Elektrizität."
+
+"Dies unser Zuhause." 'Zuhause' hat in ihrer Sprache mehrere Bedeutungen und bedeutet auch 'Tunnel' oder 'Zuflucht'.
+
+"Als Eier hergebracht, geschlüpft. Graben hier nach Schutz, Essen. Guter Fels." Er haut mit seiner gewaltigen Schaufelhand gegen die Tunnelwand und einige Steine bröckeln von der Wand. "Finden geheimen Platz für neue Eier. Menschen-Maden sonst stehlen oder zerbrechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Dies unser Zuhause." 'Zuhause' hat in ihrer Sprache mehrere Bedeutungen und bedeutet auch 'Tunnel' oder 'Zuflucht'.
+
+"Als Eier hergebracht, geschlüpft. Graben hier nach Schutz, Essen. Guter Fels." Er haut mit seiner gewaltigen Schaufelhand gegen die Tunnelwand und einige Steine bröckeln von der Wand. "Finden geheimen Platz für neue Eier. Menschen-Maden sonst stehlen oder zerbrechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Guter Fels für Tunnel. Viele geheime Wege. Lager für Eier. Starke Elektrizität, wenn wir graben - gut für Essen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ist gutes Zuhause. Sicher." Es schlurft hin und her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ich suche einen Weg zu einem Ort namens der Grotte der letzten Worte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Bring mich zur Grotte der letzten Worte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ich habe gehört, dass der Wandelnde Gott eine Zuflucht unter der Stadt hatte. Kannst du mich dorthin bringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ich möchte zur Zuflucht des Wandelnden Gottes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Die Kreatur hört dir aufmerksam zu und dreht sich dann langsam mit ausgestreckten Armen um die eigene Achse. Ch'kekt's riecht nach langsam schmelzenden Innereien. Ein kräftiger und beißender Geruch. "Nein", krächzt er. "Keine Menschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Er fährt fort. "Ist verbunden mit Eiertunnels. Menschen unachtsam. Treten auf Eier, verletzen Brut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Nein. Habe bereits gesagt. Muss Fischkopf stoppen. Darf Eier nicht sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Er schüttelt den Kopf und du riechst erstarrende Lava. Der Geruch erinnert dich an Bedauern ... und du weißt, dass du das Nein des Wesens akzeptieren solltest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Es riecht nach warmem Schotter und der Stichus knackt und pfeift. Du verstehst die Wörter "Ja" und "Shin".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vielleicht", murmelt der Stichus, doch er riecht nach Widerwillen und Mißtrauen. "Musst bezahlen. [Global: a2301_StichusTravel] Shin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Er sieht dich misstrauisch an. "Reisen kostet. Brauche Shin. Kostet [Global: a2301_StichusTravel] Shin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Der Stichus deutet an, dass er dich versteht, und zieht einige Shin aus einem versteckten Spalt in seinem Ektoskelett. Er zeigt auf die Shin und dann auf dich. Er strömt einen Duft nach gebackenem Brot aus. Du begreifst, dass du für diesen Gefallen bezahlen musst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Menschen", krächzt der Stichus. "Menschen kommen in Tunnel, schlachten Brutkameraden. Wer? Wer tötet Sticha? Kein Mensch kommen mehr in Tunnels. Kein Mensch!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Kannst du mich zum Felsvorsprung in Klippenrand bringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Kannst du mich zurück zum Felsvorsprung in Klippenrand bringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Was denkst du von Peliai?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Können wir nochmal über Peilai sprechen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Der Stichus wirkt einen Moment lang verwirrt. "Wer?" Dann denkt er nach. 
+
+Dann stößt es einen Schwall Pheromone aus und du vernimmst den intensiven Gerich von Säure und angegriffenem Stein. Es riecht nach Misstrauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Peliai. Fischköpfige Made. Nicht gute Person." Er lehnt sich zu dir. "Will Eier. Rieche Gier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Fischköpfige Person. Andere Made. Leuchten verdächtig in Stichusaugen. Riechen schlecht in Geist. Wie andere Menschen." Er reißt ein Stück Fels aus der Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Der Stichus schnaubt. Ein kaum sichtbarer Dampf mit einem schwachen Geruch nach faulen Eiern, die im radioaktiven Untergrund verrotten. Ch'kekt scheint Peliai nicht über den Weg zu trauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Was kannst du mir über die Sticha sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Kannst du mir noch mehr über die Sticha sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Er scharrt kurz an der Wand und ein Blitz fährt über die Antennen auf seinem Kopf. Er zuckt mit den Schultern und es riecht nach Staub.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Wir Stichus. Leben in Fels, graben tief, fressen Elektrizität. Kein Feind von Menschen, bleiben unter uns. Werden alt in neuem Zuhause. Mehr? Vielleicht. Aber ist viel, lang. Mensch nicht interessiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Er überlegt kurz und gibt dann einen Hauch Pheromone ab. Es riecht nach weichem Stein, der von kräftigen Händen zerbröckelt wird. Es erinnert dich an schicksalergebene Akzeptanz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Das Zwitschern und Brummen des Wesens bleibt dir unverständlich. Es nickt dir zu, und als du keine Antwort gibst, trillert es: "Sprich andere Frage".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ich habe in der Nähe einen toten Stichus gefunden. Weißt du etwas darüber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ich habe einen Stichus in Klippenrand gefunden. Er versteckt sich in einer Müllhalde und die Menschen wollen ihn töten. Kannst du ihm helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ich sollte für dich sicherstellen, dass der ausgestoßene Stichus tot ist. Ist er."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ich möchte etwas anderes fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Knell-Tunnel. Brutkamerad geschwächt. Konnte nicht für sich sorgen. Konnte nicht für Eier sorgen. Gräbt Tunnel, um sich zu begraben. Wollte keine Last sein für Sticha-Familie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Er sieht dich lange an, als könne er nicht glauben, was er eben gehört hat. "Ist schwach. Ausgestoßen. Kann nicht für sich sorgen, ist Last für andere. Sollte sein *tot*." 
+
+Der vom Stichus aufsteigende Geruch ist trocken und muffig, wie von einem toten Insekt auf einer Fensterbank. Ekelhaft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Egal, ob schwach oder nicht, er sollte nicht von einem Mob gelyncht werden. Er ist Teil deiner *Sippe*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Wenn er euch zur Last fallen würde, werde ich die Dinge ihren Lauf nehmen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Wieder sieht dich der Stichus lange an. Du hast das Gefühl, dass er dich abwägt und mit Augen durchleuchtet, die sehen, was dem Blick der Menschen  verborgen bleibt.
+
+"Mensch sorgt sich. Seltsam. Warum Stichus nicht egal?" Eine kurze Brise bläst einen Hauch Verblüffung in deine Nase.
+
+"Aber ja. Wenn Mensch nicht egal, Ch'kekt auch nicht egal. Wird retten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Nein. Manches Leben wie Ausguss. Parasit. Nur nehmen, nichts geben. Sitcha retten Ausgestoßenen, wird trotzdem verhungern und sterben."
+
+Er hält inne. "Mensch töten Ausgestoßenen? Besser für alle. Werde belohnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Seine Antennen zucken in deine Richtung und er lehnt sich zufrieden zurück. "Ja. Hauch des Todes an dir. Belohnung versprochen. Hier." Er drückt dir einen seltsam aussehenden Apparat in die Hand. "In Fels gefunden. Funktioniert noch."
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Ja. Sticha-Angelegenheit." Er wendet sich ab. Offensichtlich hat er das Interesse an dem Thema verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Er öffnet und schließt seine Kralle. "Dann fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Das wäre alles. Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Das wäre alles. Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>::chk-klt::</DefaultText>
+      <FemaleText>::chk-klt::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Wie kommt es, dass ihr hier unter Sagusklippen seid?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Wie seid ihr noch mal unter Sagusklippen gelandet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Er zuckt mit den Schultern. Die massiven Platten seines Exoskeletts knirschen. "Kein Alter je gesagt. Vier Generationen nur in Höhlen leben. Wir ganz Instinkt. Nur vermuten über früher. Erinnerungen gestohlen." Er knurrt frustriert.
+
+Er klopft an die nächste Wand. "Stichus schlüpfen aus Ei. Ja? Ja. Händler kommen aus bösem Flor. Andere Welten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Weiß nicht mehr. Eier von Vorfahren hierher gestohlen. Heimatwelt nie gesehen. Himmel nie gesehen. Kennen nur diese Welt. Ist nicht unsere Welt." Er singt ein kurzes Klagelied, eingehüllt in einen Duft nach Versagen und Verlust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Warum grabt ihr hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Warum grabt ihr noch mal hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Dieser Arm ..." Ch'kekt hebt seinen gewaltigen Arm, "... graben. Holt Energie von Fels durch Reibung. Essen elektrische Ladung. Speichern elektrische Ladung." Er zeigt auf die Stacheln auf seinem Panzer. 
+
+"Hier Fels gut. Hart. Viel elektrisch. Bester hier. Woanders ... nicht gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ist Nahrung hier. Harter Fels gut. Mehr elektrische Ladung zu essen. Mehr Kraft. Sticha hungern hier nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Nachdem wir das geklärt haben, möchte ich mehr über die Sticha wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ich würde gerne etwas anderes wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Das ist alles. Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Sprich. Ch'kekt antwortet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Warum grabt ihr unter bewohntem Gebiet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Du hast behauptet, dass die Bewohner der Stadt keine denkenden Wesen sind. Das stimmt nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Der Stichus starrt dich verblüfft an. Seine Augen glänzen. Er scheint zu versuchen, seine Gedanken in eine Form zu bringen, die du verstehen kannst. "Sticha müssen überleben. Müssen leben wo Nahrung ist, ja?"
+
+Er wartet nicht auf deine Zustimmung. "Menschen achtsam jeden Schritt? Steigen nie auf Insekt? Nehmen nie Leben von anderen? Gibt immer Opfer, ist natürlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Der Stichus schaukelt vor und zurück. "Menschen simpel. Kämpfen. Essen. Töten. Eier stehlen versuchen. Keine Harmonie. Denkend?" Er zwitschert spöttisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Aber Eier in Sicherheit. Versteckt. Lasse keinen Dieb Eier stehlen, Brut verletzen." 
+
+Du riechst harte Schalen aus Kalzium und Silikon rund um den Stichus. Ein Geruch von Entschlossenheit und Sicherheit. "*Niemand* verletzt kampflos Eier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Der Stichus verbeugt sich fast bis auf den Boden hinab und von seinem Rücken steigt der warme Duft kochenden Gesteins auf. "Freund von Sticha. Ja. Du nicht bezahlen. Für dich gratis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Wofür brauchen die Sticha Shin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Mensch verkaufen Numenera. Nennen sich Mechela. Handeln Shin und Numenera mit Sticha. Sticha tauschen Shin für Numenera für besser Graben. Verschmelzen mit Wänden, Tunnels, machen stärker. Dafür Shin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Er zeigt auf verschiedene Gegenstände an dir und will damit vermutlich sagen, dass die Sticha einem Menschen Waren abkaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Ich verstehe deine Besorgnis, aber ich werde euren Eiern nichts tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Gut. Kann ich dann noch andere Fragen stellen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Nun gut. Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Der Stichus nickt. "Mensch kennen Sprache. Ist gut. Aber Fischkopf wollen Eier. Zu großes Risiko. Problem lösen, dann weiterreden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ich würde stattdessen gerne noch ein paar Fragen stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Der Stichus wartet geduldig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Das Wesen lässt einen Schwall Gezwitscher und Düfte los, die alle eine große und anhaltende Wut ausdrücken. Es beendet seine Tirade mit einer wilden Geste und sagt laut und deutlich: "Keine. Menschen. Wer töten Sticha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>(Lüge) "Ich weiß nicht, wer dafür verantwortlich ist, aber ich möchte dir einige Fragen stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Ich habe euer Nest überfallen. Ich habe deine Brut getötet und sie unter meinen Stiefel zertreten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Lebwohl, Ch'kekt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Der breitschultrige Stichus geht auf und ab und ballt seine gewaltigen Hände immer wieder zu Fäusten. Er sieht dich auf sich zukommen und gibt ein leises Knurren von sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Ch'kekt hat sich nicht von der Stelle bewegt. Seine zahlreichen Augen schweifen über die Schattenseite, als könnte es so seine Feinde erkennen. Schließlich bleibt sein Blick an dir hängen. "Menschen. Nicht willkommen hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Mit einem wütenden Zwitschern greift Ch'kekt an!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Wer töten Sticha? Geht. Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Der Stichus wendet sich von dir ab. Seine Antwort ist klar. "Nein. Menschen müssen gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Geht jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Sagte schon. Nein! Wohin wir gehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Ch'kekt schwingt die Arme und der Duft von träge wachsenden Pilzen erfüllt die Luft. Du denkst, er will damit sagen: "Warum?" Es folgt weiteres unverständliches Zwitschern, bevor er langsam und sorgfältig spricht. "Nicht lernen uns Sprache? Nicht lassen uns arbeiten? Nein. Nicht jetzt. Wir graben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Ich kenne einen besseren Ort, an dem ihr graben könnt - eine Nadel aus schwarzem Fels, nicht weit von hier, aufgeladen mit der Energie früherer Welten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Ihr könnt tiefer unter der Stadt graben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Ich kann euch versprechen, dass die Stadt euch regelmäßig Energiequellen liefern wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Die Menschen über euch leiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Die Atemlöcher des Stichus zucken und ein Duft von Marmor und Ton liegt in der Luft. "Besserer Fels?" Er scheint über deine Worte nachzudenken. "Könnten Felsnadel finden ... wenn wollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Waren dort. Fels nicht gut. Weich. Ineffizient. Elektrizität schwach." Er lehnt sich zurück. "Was noch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Der Stichus lehnt sich interessiert nach vorn. Es steigt ein Geruch von Funken auf. "Warum nicht schon vorher angeboten? Ist gut. Was noch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Menschen denken an uns, wenn sie graben?  Nein. Warum wir an sie denken?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Er verbeugt sich. "Ja. Für Sticha-Freund ja. Kann zu Eiertunnel bringen. Dann gehen zu Ort, ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Wir Eierfreund schuldig für Hilfe. Bitte nichts anfassen. Wir gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Vergiss es. Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Den Stichus angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Dann lebt wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>::click-chk::</DefaultText>
+      <FemaleText>::click-chk::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Eierfeind will durch Tunnels reisen? Nein. Niemals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Er denkt eine Weile über deine Worte nach. Die ihn umgebenden Gerüche reichen von furchteinflößend bis nichtssagend. Schließlich zieht dir ein Duft nach Synth und Hartglas in die Nase und Ch'kekt sagt: "Mensch hat gutes Argument. Ja. Sticha einverstanden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Er denkt kurz über deine Worte, baut sich dann vor dir auf. "Nein. Zuhause hier. Können Menschen aufhalten wenn müssen. Vielleicht Menschen gehen stattdessen. Sie bauen auf Nahrung - und jetzt überrascht, dass selbst Nahrung? Wir bleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Er legt die Hände an die Wand und trommelt mit seinen Fingern eine komplizierte Tonfolge. "Bringe Sippe zu neuem Zuhause in schwarzer Felsnadel. Sticha keine Gefahr mehr für braune Maden. Wir gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Er zerkratzt die Wand und trommelt dort ein Muster. "Sticha graben tiefer, graben in schlechteren Fels. Hungern für Menschenwohl. Besser nicht kämpfen mit Menschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Wohin gehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Der Stichus sieht dich an und knurrt leise und gefährlich. "Eierdieb", knurrt er, umhüllt vom Gestank fauligen Ozons. Mit einem Zucken seiner gewaltigen Kralle reißt er einen Klumpen Stein aus der Wand und zermalmt ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Du hörst ein tiefes Grollen aus Ch'kekts Brust, als du dich ihm näherst. "Eierdieb. Räuber von Zukunft. Räuber von Vergangenheit. Verkaufen Sticha-Zukunft an Fischkopf-Made Peliai? Nicht willkommen hier. Niemals mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Eierfreund", pfeift Ch'kekt. Der Geruch von Staub und abgestandener Luft umgibt ihn. Das Wesen ist offensichtlich froh, dich zu sehen.
+
+"Sticha graben tief, wie versprochen. Fels nicht gut dort." Der Duft einer Blase eingeschlossenen Gases steigt hoch – ein Schulterzucken. "Aber Ch'kekt versprochen. Sticha gehen."
+
+"Mensch will reisen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Die Arme des Stichus hängen schlaff herab, doch er strahlt Selbstvertrauen aus ... und den Geruch mumifizierter Leichen. "Eier wieder da. Wir gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Ch'kekt zwitschert monoton. "Eierdieb. Bringst zurück Kinder. Ist gut." Er bleibt ruhig, doch der Duft alter, ungenießbarer Pilze erfüllt die Luft und erinnert dich an unterdrückte Wut. "Wir gehen bald."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Ch'kekt überragt dich, als du näherkommst, und der Geruch nach frischer Luft und Blumen verrät dir, dass der Stichus *nicht* erfreut ist, dich zu sehen. "Wir gehen", zwitschert er. "Was du willst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Obwohl sein Verhalten auf glühende Wut hindeutet, bemüht sich Ch'kekt, nicht bedrohlich zu wirken. "Ch'kekt riechen Eier. Mensch nicht zerstören Eier. Was willst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Eierfreund", pfeift Ch'kekt. Der Geruch von Staub und abgestandener Luft umgibt ihn. Das Wesen ist offensichtlich froh, dich zu sehen. 
+
+"Sticha gehen zu neuem Zuhause. Ist guter Ort. Ch'kekt bald weg. Mensch wollen reisen bevor Ch'kekt geht? Ist gratis für guten Mensch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Der Stichus hebt seine gewaltigen Krallen, breitet sie aus, und bewegt sich langsam. Der schwache Dunst um ihn herum riecht nach *Geduld*. "Nicht verletzen Eier", brummt Ch'kekt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Mensch der spricht Sticha", murmelt Ch'kekt. "Ch'kekt wird sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Wenn ihr weiter graben, ihr werdet leiden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Nicht jetzt. Ich habe noch andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Er wartet auf deine nächsten Worte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Der Stichus wackelt mit seinem breiten Kopf und zieht sich zurück. Er gibt einen Angstgeruch ab, der dich an stickige Luft, Unterwasserströmungen und einstürzende Tunnels erinnert.
+
+"Keine Drohung", zwitschert er. "Keine Bedrohung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Wenn ihr nicht aufhört, unter der Stadt zu graben, wird es euch leidtun. Versprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Ich gebe eure Eier zurück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Der Stichus hält einen Moment inne. "Gutes Argument. Was noch?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Der Stichus nimmt dir vorsichtig die Eier ab und verstaut sie in einer tiefen Nische im nahen Fels. "Jetzt geh, Mensch. Verlasse Tunnels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Der Stichus nimmt dir vorsichtig die Eier ab und verstaut sie in einer tiefen Nische im nahen Fels. "Jetzt geh, Mensch. Verlasse Tunnels."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Nie spricht Ch'kekt so zu Mensch. Hörte Erinnerung von Altem, nicht geglaubt. Mensch beinahe denkend? Unglaublich! Made denkt wie Stichus!"
+
+Er klatscht in die Hände. "Spricht gescheit. Besser jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Dieser Arm ..." Ch'kekt hebt seinen gewaltigen Arm, "... graben. Holt Energie von Fels durch Reibung. Essen elektrische Ladung. Speichern elektrische Ladung." Er zeigt auf die Stacheln auf seinem Panzer. 
+
+"Hier Fels gut. Hart. Viel elektrisch. Bester hier. Woanders ... nicht gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Ist Nahrung hier. Harter Fels gut. Mehr elektrische Ladung zu essen. Mehr Kraft. Sticha verhungern hier nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Ja. Gerne führen Stichafreund durch Tunnels. Ist gratis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Es riecht nach warmem Schotter und der Stichus knackt und pfeift. Du verstehst die Worte "Ja" und "bezahlen".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Vielleicht", murmelt der Stichus, doch er riecht nach Widerwillen und Mißtrauen. "Musst bezahlen. [Global: a2301_StichusTravel] Shin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Reisen kostet Shin. [Global: a2301_StichusTravel] Shin. Ja oder nein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Wenn ihr nicht aufhört, unter der Stadt zu graben, wird es euch leidtun. Versprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Der Stichus gibt einen üblen Gestank ab, winkt mit seinen riesigen Armen, und durch die kleinen Löcher in seinem Kopf kommen klagende Laute. Du verstehst kein Wort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>::ch-t-k-KLKT::</DefaultText>
+      <FemaleText>::ch-t-k-KLKT::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Ch'kekt gehen wohin Eierfreund wollen. Wir gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Fragen", grummelt er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Warum nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Er überlegt, wie er es formulieren soll. Seine Augen leuchten grün im schwachen Licht der Höhle. "Vertraue Menschen. Nicht. Eierdiebe. Schicken Fischkopf-Made weg, dann vielleicht reden."
+
+Der Duft von eingeschlossenem und abgestandenem Wasser steigt dir in die Nase. Es erinnert dich an eine gefährliche Situation.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Der Stichus knurrt tief und der Gestank von verrottendem Fleisch umgibt ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Eierdieb. Wie du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>[Global: a2301_StichusTravel] Shin bezahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Wir gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Nein. Ich habe noch andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Nicht jetzt. Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Das Wesen schüttelt nachdenklich seinen großen Kopf. "Gerade stark genug zum Tunneleinstürzen. Im Leben versagt. Zu schwach vielleicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Sie bat mich, eure Eier zurückzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Ich denke, du kannst ihr vertrauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Ich habe noch weitere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Verstehe. Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Ein schwerer Stein zerbröckelt in Ch'kekts Faust zu Staub. "Ja. Wissen." Um dich herum liegt etwas in der Luft, wie ein Gewitter an einem heißen Sommertag. "Nicht vertrauen. Fischkopf-Made zerstören Sticha für Nahrung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Der Stichus wendet sich von dir ab und um dich herum steigt ein Duft nach Blumen hoch – ein unmöglicher, lächerlicher Duft an diesem Ort. Ch'kekt glaubt dir offensichtlich nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Denke, Menschen gestohlen Eier. Menschen brachten Eier in Welt. Menschen brüten Eier aus. Stichus-Larven ... Käufer nicht wissen davon. Hier freigelassen." 
+
+Ch'kekt bläst Luft aus seinen Atemlöchern aus. "Kann Funktion nur raten. Kann Gesellschaft nur raten. Vielleicht fortschrittlich. Vielleicht große Zivilisation. Jetzt? Jetzt nur graben. Nach Hinweisen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Er tippt dir auf die Brust. "Gescheit, für Mensch." Er deutet auf den Rest der Schattenseite. "Nicht gescheit. Warum kümmern? "Nicht …" Er sucht nach dem Wort. "Nicht denkend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Euer Graben ist ein Problem für die Menschen über euch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Kein Problem für Sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Ich bitte euch darum, nicht mehr unter der Stadt zu graben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Ich bitte euch erneut darum, nicht mehr unter der Stadt zu graben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Ihr habt Tunnels unter der Stadt, richtig? Kannst du mich an einen bestimmten Ort bringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Kannst du mich an einen Ort unter der Stadt bringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Sprich. Ch'kekt antwortet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Mensch haben Ei. Finden Antwort selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Ich möchte eure Eier zurückgeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Der Stichus ist einen Moment lang starr vor Überraschung. Dann wägt er dein Gesicht und deinen Geruch ab. "Eierdieb bringen Eier zurück?"
+
+"Sticha gehen. Ch'kekt gehen. Hier keine Sticha mehr. Dankbarkeit." Der Duft rund um ihn wird härter. "Töten nicht *dich*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Der Stichus ist einen Moment lang starr vor Überraschung. Dann wägt er dein Gesicht und deinen Geruch ab. "Dankbarkeit", krächzt er.
+
+Er zuckt mit seinen gewaltigen Schultern und zeigt mit seiner Klaue auf dich. "Du sicher. *Du*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Er nimmt dir vorsichtig und ehrfürchtig die gestohlenen Eier ab und versteckt sie in tiefen Bohrlöchern in der Nähe. Kurz darauf hörst du ein Rascheln in diesen Gängen, als würden die Eier noch weiter weggebracht werden.
+
+"Bald nicht mehr sehen, Mensch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Werde Brutkollegen schicken, um Ausgestoßenen zu retten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Ch'kekt sagen wieder nein." Ein übler Geruch schwappt über dich und verursacht Brechreiz. Der Stichus ballt seine gewaltige Kralle und seine Stimme donnert durch die Tunnel, tief genug, dass die Steine vibrieren. "Warum Mensch fragen und fragen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Andere versprechen Schmerzen." Er schwenkt seine gewaltige Kralle. "Sticha noch hier. Graben *weiter*. Müssen *essen*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Willst du, dass dein Volk eine Zukunft hat? Willst du wirklich einen Krieg mit den Menschen über dir beginnen? Sie werden eure Tunnel zum Einsturz bringen. Sie werden euch vernichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Ich habe dir Gründe genug gegeben. Wenn ihr nicht zu graben aufhört, habt ihr keine Zukunft in dieser Stadt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Wir besprechen das später. Lebe wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Ich war es. Es tut mir leid, aber ich hatte keine andere Wahl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Deine Muskeln zucken parallel zu diesen Erinnerungen und du erkennst, dass die Zunge des Stichus ein Gewirr aus Duft, Bewegung und Lauten ist.
+
+Mit der Erinnerung strömen Informationen in deinen Geist, als wäre ein Stopfen gezogen worden. Der Geruch von Granit erfüllt deine Nase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>[Gerangel starten]</DefaultText>
+      <FemaleText>[Gerangel starten]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Er verströmt ein Gefühl für Empfindung, als er dich beobachtet, doch du spürst nichts in seinem Geist, als wäre er ein gewöhnliches Tier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Er verströmt ein Gefühl für Empfindung, als er dich beobachtet, doch du spürst nichts in seinem Geist, als wäre er ein gewöhnliches Tier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Kannst du mich an den Ort bringen, an dem ihr eure Eier ausbrütet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Bist du sicher, dass du mich nicht an den Ort bringen kannst, wo ihr eure Eier ausbrütet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>Der Stichus verströmt einen ekeligen Geruch, wie gegessenes, verdautes und wieder ausgeschiedenes organisches Material. 
+
+Er ballt die Fäuste und krächzt: "Nein".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Die Luft riecht nach Verderben. Ch'kekt rührt sich nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Warum? Wohin wir gehen? Warum aufhören?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Brutkollegen! Tötet die Zerstörer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"::clk clk skreee chk sllllk::"</DefaultText>
+      <FemaleText>"::clk clk skreee chk sllllk::"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Wenn dein Volk jetzt tiefer gräbt, kannst du mich dann zu eurer alten Höhle bringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Kannst du mich zurück zu eurer alten Höhle bringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Werde Eierfreund führen. Muss nicht bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Reise kostet [Global: a2301_StichusTravel] Shin. Ja oder nein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>[Global: a2301_StichusTravel] Shin bezahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Wir gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Ist leer jetzt. Keine Sticha. Keine Eier." Das Wesen betrachtet dich sorgfältig. Als wollte es herausfinden, was du vorhast. Dann riechst du etwas wie frische Luft, die durch einen Tunnel weht – vielleicht das Gegenstück zu einem menschlichen Schulterzucken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Ist nah bei Oberfläche, oben in Stadt." Das Wesen hält kurz inne. "Brachte einen anderen Mensch dort hin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Reisen kostet Shin. [Global: a2301_StichusTravel] Shin. Ja oder nein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>[Global: a2301_StichusTravel] Shin bezahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Wir gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Die Sprache – der Struktur, die Gefühle, Klänge und Düfte – scheinen dir fast greifbar vertraut. Das Kribbeln in deinem Kopf nimmt noch zu. Du spürst, wie die Erinnerung an die Stichus-Sprache nur darauf wartet, freigelegt zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</DefaultText>
+      <FemaleText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</DefaultText>
+      <FemaleText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</DefaultText>
+      <FemaleText>Du hast beinahe ein Gespür für die Sprache – ihre Struktur, die Empfindung, der Ton und der Duft. Das Jucken in deinem Geist wird stärker. Du kannst fühlen, wie die Erinnerung der Stichus-Sprache darauf wartet, sich zu offenbaren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Der riesige Stichus schnüffelt unglücklich. "Muss andere Made fortschicken. Peliai, Fischkopf-Made. Ihr sagen, wir machen Abmachung, und machen, dass sie weggeht."</DefaultText>
+      <FemaleText>Der riesige Stichus schnüffelt unglücklich. "Muss andere Made fortschicken. Peliai, Fischkopf-Made. Ihr sagen, wir machen Abmachung, und machen, dass sie weggeht."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>::ch-k-k-t::</DefaultText>
+      <FemaleText>::ch-k-k-t::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Der Stichus fuchtelt mit den Armen und zwitschert unverständlich. Du verstehst nicht, was er sagen will ... aber es ist klar, dass er nicht bereit ist, mit dem Graben aufzuhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

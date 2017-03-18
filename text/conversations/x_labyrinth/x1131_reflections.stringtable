@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_reflections</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>144</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Mit der Geschwindigkeit von Gletschern baut sich eine in den Pylonen unter deinen Füßen auf, während du überlegst, welchen Doppelgänger du wählen sollst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Der Rahmen dieses Spiegels ist kunstvoll mit einer atemberaubenden Anzahl miteinander verbundener Symbole verziert - Dolche, Masken, Pinsel, Amulette und noch vieles mehr. Doch das ist nichts im Vergleich zu dem Anblick im Glas selbst.
+
+Im Spiegel siehst du eine riesige Menge - Doppelgänger von *dir* -, die sich gegenseitig anrempeln und miteinander streiten und raufen. Die meisten sind bloß blasse Kopien, doch einige wenige wirken sind kräftiger und erregen deine Aufmerksamkeit. Jeder dieser Doppelgänger hat eine komplizierte fünfeckige Tätowierung am Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Auf den Doppelgänger zeigen, der sich vorsichtig durch die Menge bewegt.</DefaultText>
+      <FemaleText>Auf die Doppelgängerin zeigen, die sich vorsichtig durch die Menge bewegt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Der Doppelgänger geht in die Hocke und schleicht auf dich zu, während er seine Umgebung misstrauisch im Auge behält. Jede seiner Bewegungen ist langsam, geschickt und wohlüberlegt.</DefaultText>
+      <FemaleText>Die Doppelgängerin geht in die Hocke und schleicht auf dich zu, während sie ihre Umgebung misstrauisch im Auge behält. Jede ihrer Bewegungen ist langsam, geschickt und wohlüberlegt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Der Doppelgänger richtet sich auf und erwartet deine Entscheidung.</DefaultText>
+      <FemaleText>Die Doppelgängerin richtet sich auf und erwartet deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ich möchte mir die anderen Möglichkeiten ansehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Der Doppelgänger verschwindet wieder wieder in der Menge.</DefaultText>
+      <FemaleText>Die Doppelgängerin verschwindet wieder wieder in der Menge.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Dein Doppelgänger kommt weiter auf dich zu, tritt *in* dich hinein - füllt dich aus, macht dich ganz.
+
+Deine Entscheidung erschallt in dem riesigen Raum und setzt gewaltige Mechanismen hinter den Wänden in Bewegung. Plötzlich werden eure geteilten Welten von einem grotesken Geräusch erfüllt, wie von einer verrotteten Glocke. Etwas kommt auf dich zu... 
+
+{ANIM:  Reflections steps into PC and vanishes.}</DefaultText>
+      <FemaleText>Deine Doppelgängerin kommt weiter auf dich zu, tritt *in* dich hinein - füllt dich aus, macht dich ganz.
+
+Deine Entscheidung erschallt in dem riesigen Raum und setzt gewaltige Mechanismen hinter den Wänden in Bewegung. Plötzlich werden eure geteilten Welten von einem grotesken Geräusch erfüllt, wie von einer verrotteten Glocke. Etwas kommt auf dich zu... 
+
+{ANIM:  Reflections steps into PC and vanishes.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Auf den Doppelgänger mit dem charmanten Lächeln zeigen.</DefaultText>
+      <FemaleText>Auf die Doppelgängerin mit dem charmanten Lächeln zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Der Doppelgänger tritt selbstbewusst aus der Menge hervor. In einem warmen, vertrauenserweckenden Ton erzählt er dir eine hanebüchene Geschichte, unterbrochen von in vertraulichem Ton gesprochenen Anmerkungen, eindringlichen Gesten und unerwarteten Wendungen.
+
+Obwohl du fast sicher bist, dass große Teile davon gelogen sind, kannst du die Lüge kaum von der Wahrheit trennen.</DefaultText>
+      <FemaleText>Die Doppelgängerin tritt selbstbewusst aus der Menge hervor. In einem warmen, vertrauenserweckenden Ton erzählt sie dir eine hanebüchene Geschichte, unterbrochen von in vertraulichem Ton gesprochenen Anmerkungen, eindringlichen Gesten und unerwarteten Wendungen.
+
+Obwohl du fast sicher bist, dass große Teile davon gelogen sind, kannst du die Lüge kaum von der Wahrheit trennen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Der Doppelgänger beendet seine Geschichte mit einer letzten Ausschmückung und erwartet deine Entscheidung.</DefaultText>
+      <FemaleText>Die Doppelgängerin beendet ihre Geschichte mit einer letzten Ausschmückung und erwartet deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Auf den Doppelgänger mit dem aufgeweckten Blick zeigen.</DefaultText>
+      <FemaleText>Auf die Doppelgängerin mit dem aufgeweckten Blick zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Der Doppelgänger kommt auf dich zu. Als er gerade ansetzen will, etwas zu sagen, tritt ein brutaler Kerl aus der Menge heraus und hält ihm ein Messer vors Gesicht.
+
+Der Doppelgänger hebt beruhigend die Hand, spricht in deiner Stimme auf den Banditen ein und appelliert mit einer Mischung aus entwaffnendem Witz und unverschämten Lügen an seine gute Seite.
+
+Der Bandit verzieht das Gesicht, steckt das Messer ein und entschuldigt sich bei deinem Doppelgänger für die Unannehmlichkeiten.</DefaultText>
+      <FemaleText>Die Doppelgängerin kommt auf dich zu. Als sie gerade ansetzen will, etwas zu sagen, tritt ein brutaler Kerl aus der Menge heraus und hält ihr ein Messer vors Gesicht.
+
+Die Doppelgängerin hebt beruhigend die Hand, spricht in deiner Stimme auf den Banditen ein und appelliert mit einer Mischung aus entwaffnendem Witz und unverschämten Lügen an seine gute Seite.
+
+Der Bandit verzieht das Gesicht, steckt das Messer ein und entschuldigt sich bei deiner Doppelgängerin für die Unannehmlichkeiten.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Der Doppelgänger dreht sich zu dir um und erwartet deine Entscheidung.</DefaultText>
+      <FemaleText>Die Doppelgängerin dreht sich zu dir um und erwartet deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Auf den Doppelgänger zeigen, der sich elegant durch die Menge bewegt.</DefaultText>
+      <FemaleText>Auf die Doppelgängerin zeigen, die sich elegant durch die Menge bewegt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Der Doppelgänger läuft aus der Menge hervor, lehnt sich aus dem Spiegel heraus und *stupst* sanft deine Nase an. Als du dich dafür revanchieren willst, weicht er dir geschickt aus und lacht.</DefaultText>
+      <FemaleText>Die Doppelgängerin läuft aus der Menge hervor, lehnt sich aus dem Spiegel heraus und *stupst* sanft deine Nase an. Als du dich dafür revanchieren willst, weicht sie dir geschickt aus und lacht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Er erwartet schmunzelnd deine Entscheidung.</DefaultText>
+      <FemaleText>Sie erwartet schmunzelnd deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Auf den intelligenten Doppelgänger mit der gerunzelten Stirn zeigen.</DefaultText>
+      <FemaleText>Auf die intelligente Doppelgängerin mit der gerunzelten Stirn zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Der Doppelgänger steht aufrecht inmitten der drängenden Menge. Er erwidert deinen Blick selbstbewusst und erweckt vertraute Erinnerungen in deinem Hinterkopf ...</DefaultText>
+      <FemaleText>Die Doppelgängerin steht aufrecht inmitten der drängenden Menge. Sie erwidert deinen Blick selbstbewusst und erweckt vertraute Erinnerungen in deinem Hinterkopf ...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Als du aus deiner gedanklichen Versenkung wieder auftauchst, erwartet der Doppelgänger deine Entscheidung mit einem wissenden Lächeln.</DefaultText>
+      <FemaleText>Als du aus deiner gedanklichen Versenkung wieder auftauchst, erwartet die Doppelgängerin deine Entscheidung mit einem wissenden Lächeln.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Auf den gelehrten Doppelgänger zeigen, der auf einem Stapel Bücher thront.</DefaultText>
+      <FemaleText>Auf die gelehrte Doppelgängerin zeigen, die auf einem Stapel Bücher thront.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Der Doppelgänger klemmt einige ausgewählte Folianten unter den Arm und kommt auf dich zu.
+
+Er beginnt einen faszinierenden Vortrag über Technologien aus früheren Welten: mit eigenem Bewusstsein ausgestattete Verteidigungsanlagen an den Mauern eines uralten Reiches, Kraftfelder, die ein Bataillon der Standhaften Königreiche schützen, und mutierende Bakterien – einst möglicherweise eine segensreiche Schöpfung, doch mittlerweile zu einer grotesken biologischen Waffe verkommen.</DefaultText>
+      <FemaleText>Die Doppelgängerin klemmt einige ausgewählte Folianten unter den Arm und kommt auf dich zu.
+
+Sie beginnt einen faszinierenden Vortrag über Technologien aus früheren Welten: mit eigenem Bewusstsein ausgestattete Verteidigungsanlagen an den Mauern eines uralten Reiches, Kraftfelder, die ein Bataillon der Standhaften Königreiche schützen, und mutierende Bakterien – einst möglicherweise eine segensreiche Schöpfung, doch mittlerweile zu einer grotesken biologischen Waffe verkommen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Der Doppelgänger verstummt und erwartet deine Entscheidung.</DefaultText>
+      <FemaleText>Die Doppelgängerin verstummt und erwartet deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Auf den Doppelgänger zeigen, der an einem mechanischen Apparat herumbastelt.</DefaultText>
+      <FemaleText>Auf die Doppelgängerin zeigen, die an einem mechanischen Apparat herumbastelt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Der Doppelgänger tritt vor und zeigt dir das neunzehnseitige Objekt, an dem er arbeitet. Der Apparat hat ganze hundert Knöpfe und Hebel. Dein Doppelgänger murmelt ein paar Worte und aktiviert das Gerät mit einer Reihe präziser Bewegungen. 
+
+Eine Kugel praller Luft steigt im Spiegel hoch und explodiert unter dem Johlen und Klatschen der anderen Doppelgänger in einen Regen gezackter Blütenblätter.</DefaultText>
+      <FemaleText>Die Doppelgängerin tritt vor und zeigt dir das neunzehnseitige Objekt, an dem sie arbeitet. Der Apparat hat ganze hundert Knöpfe und Hebel. Deine Doppelgängerin murmelt ein paar Worte und aktiviert das Gerät mit einer Reihe präziser Bewegungen. 
+
+Eine Kugel praller Luft steigt im Spiegel hoch und explodiert unter dem Johlen und Klatschen der anderen Doppelgänger in einen Regen gezackter Blütenblätter.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Der Doppelgänger verbeugt sich, steckt den Apparat wieder ein und erwartet deine Entscheidung.</DefaultText>
+      <FemaleText>Die Doppelgängerin verbeugt sich, steckt den Apparat wieder ein und erwartet deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Auf den Doppelgänger mit dem mystischen Symbol auf der Stirn zeigen.</DefaultText>
+      <FemaleText>Auf die Doppelgängerin mit dem mystischen Symbol auf der Stirn zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Der Doppelgänger bahnt sich den Weg durch die Menge und streift dabei beiläufig einen Handschuh mit acht Fingern über. Dann gräbt er seine Finger in das Glas zwischen euch und mit einem Grunzen reißt er ein Loch in der Form eines Spitzohrs in die Oberfläche des Spiegels. 
+
+Der Doppelgänger flüstert ein unbekanntes Wort in das Ohr, woraufhin sich der Boden selbst zu *drehen* scheint - als würdest du in der Tür stehen, die der Doppelgänger eben geöffnet hat.
+
+Als du dich umsiehst, ist das Loch verschwunden und alles ist wie früher. Oder doch nicht?</DefaultText>
+      <FemaleText>Die Doppelgängerin bahnt sich den Weg durch die Menge und streift dabei beiläufig einen Handschuh mit acht Fingern über. Dann gräbt sie ihre Finger in das Glas zwischen euch und mit einem Grunzen reißt sie ein Loch in der Form eines Spitzohrs in die Oberfläche des Spiegels. 
+
+Die Doppelgängerin flüstert ein unbekanntes Wort in das Ohr, woraufhin sich der Boden selbst zu *drehen* scheint - als würdest du in der Tür stehen, die die Doppelgängerin eben geöffnet hat.
+
+Als du dich umsiehst, ist das Loch verschwunden und alles ist wie früher. Oder doch nicht?</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Der Doppelgänger streift den Handschuh mit acht Fingern von der Hand und erwartet deine Entscheidung.</DefaultText>
+      <FemaleText>Die Doppelgängerin streift den Handschuh mit acht Fingern von der Hand und erwartet deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Auf den Doppelgänger zeigen, der alle anderen beobachtet.</DefaultText>
+      <FemaleText>Auf die Doppelgängerin zeigen, die alle anderen beobachtet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Der Doppelgänger schleicht am Rande der Menge entlang und bedeutet dir mit einem an die Lippen gelegten Finger, still zu sein. Gemeinsam studiert ihr den Raum und seine Bewohner, erkennt jede potenzielle Gefahr und hört jeden Tropfen seltsamer Flüssigkeit in der Tiefe unter euren Füßen aufklatschen.</DefaultText>
+      <FemaleText>Die Doppelgängerin schleicht am Rande der Menge entlang und bedeutet dir mit einem an die Lippen gelegten Finger, still zu sein. Gemeinsam studiert ihr den Raum und seine Bewohner, erkennt jede potenzielle Gefahr und hört jeden Tropfen seltsamer Flüssigkeit in der Tiefe unter euren Füßen aufklatschen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Der Doppelgänger erwartet still deine Entscheidung.</DefaultText>
+      <FemaleText>Die Doppelgängerin erwartet still deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Auf den robusten Doppelgänger zeigen, der auf den Schultern der anderen spaziert.</DefaultText>
+      <FemaleText>Auf die robuste Doppelgängerin zeigen, die auf den Schultern der anderen spaziert.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Der Doppelgänger hüpft zu Boden und erzählt stolz von seinen zahlreichen Abenteuern in den unerforschten Wildnissen der Welt - vom Tauchen in den Tiefen bodenloser Meere bis zu atemlosen Jagten über den brennenden Sand tödlicher Wüsten.</DefaultText>
+      <FemaleText>Die Doppelgängerin hüpft zu Boden und erzählt stolz von ihren zahlreichen Abenteuern in den unerforschten Wildnissen der Welt - vom Tauchen in den Tiefen bodenloser Meere bis zu atemlosen Jagten über den brennenden Sand tödlicher Wüsten.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Der Doppelgänger spannt seine Muskeln an, während er deine Entscheidung erwartet.</DefaultText>
+      <FemaleText>Die Doppelgängerin spannt ihre Muskeln an, während sie deine Entscheidung erwartet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Auf den gerissenen Doppelgänger zeigen, der die anderen mit Worten um den Finger wickelt.</DefaultText>
+      <FemaleText>Auf die gerissene Doppelgängerin zeigen, die die anderen mit Worten um den Finger wickelt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Mit einem spitzbübischen Grinsen steckt der Doppelgänger einige ergaunerte Münzen in die Tasche und holt während er auf dich zukommt einen Dolch aus einer an seinem Handgelenk versteckten Scheide hervor. 
+
+Er wirft den Dolch hoch in die Luft und zwinkert dir zu, als er die Klinge zwischen Daumen und Zeigefinger sicher fängt und sofort eine Wurfbewegung in Richtung deines Kopfes macht. Du hast dich bereits fast weggeduckt, bevor du begreifst, dass dein Doppelgänger den Dolch immer noch in der Hand hält.
+
+Der Doppelgänger entschuldigt sich so wortgewandt für den kleinen Streich, dass du ihm unmöglich böse sein kannst.</DefaultText>
+      <FemaleText>Mit einem spitzbübischen Grinsen steckt die Doppelgängerin einige ergaunerte Münzen in die Tasche und holt während sie auf dich zukommt einen Dolch aus einer an ihrem Handgelenk versteckten Scheide hervor. 
+
+Sie wirft den Dolch hoch in die Luft und zwinkert dir zu, als sie die Klinge zwischen Daumen und Zeigefinger sicher fängt und sofort eine Wurfbewegung in Richtung deines Kopfes macht. Du hast dich bereits fast weggeduckt, bevor du begreifst, dass deine Doppelgängerin den Dolch immer noch in der Hand hält.
+
+Die Doppelgängerin entschuldigt sich so wortgewandt für den kleinen Streich, dass du ihr unmöglich böse sein kannst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Der Doppelgänger steckt den Dolch schwungvoll zurück in seine Scheide und erwartet deine Entscheidung.</DefaultText>
+      <FemaleText>Die Doppelgängerin steckt den Dolch schwungvoll zurück in seine Scheide und erwartet deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Auf den Doppelgänger zeigen, der sich verstohlen durch die Menge schleicht.</DefaultText>
+      <FemaleText>Auf die Doppelgängerin zeigen, die sich verstohlen durch die Menge schleicht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Du blinzelst und der Doppelgänger ist verschwunden.
+
+ Oder doch nicht? Für einen Moment hörst du ein leises Lachen irgendwo hinter dir...
+
+{SCRIPT: Reflection turns invisible.}</DefaultText>
+      <FemaleText>Du blinzelst und die Doppelgängerin ist verschwunden.
+
+ Oder doch nicht? Für einen Moment hörst du ein leises Lachen irgendwo hinter dir...
+
+{SCRIPT: Reflection turns invisible.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Als du erneut blinzelst, steht der Doppelgänger wieder vor dir - hinter dem Glas, wo er hingehört - und erwartet deine Entscheidung.</DefaultText>
+      <FemaleText>Als du erneut blinzelst, steht die Doppelgängerin wieder vor dir - hinter dem Glas, wo sie hingehört - und erwartet deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Auf den kräftigen Doppelgänger zeigen, der sich in der Menge nach vorne drängt.</DefaultText>
+      <FemaleText>Auf die kräftige Doppelgängerin zeigen, die sich in der Menge nach vorne drängt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Er donnert auf dich zu wie ein Berg auf Beinen und zieht eine wahre Schneise durch deine Kopien. Die Drohung in seinem Blick ist nicht zu übersehen.</DefaultText>
+      <FemaleText>Sie donnert auf dich zu wie ein Berg auf Beinen und zieht eine wahre Schneise durch deine Kopien. Die Drohung in ihrem Blick ist nicht zu übersehen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Tief aus seiner Brust kommt ein Knurren, während er deine Entscheidung erwartet.</DefaultText>
+      <FemaleText>Tief aus ihrer Brust kommt ein Knurren, während sie deine Entscheidung erwartet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Auf den willensstarken Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Auf die willensstarke Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Er tritt an die Rückseite des Spiegels und berührt das Glas. Das Spiegelbild verschwimmt und eine Vision entfaltet sich vor dir...</DefaultText>
+      <FemaleText>Sie tritt an die Rückseite des Spiegels und berührt das Glas. Das Spiegelbild verschwimmt und eine Vision entfaltet sich vor dir...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Der Doppelgänger ist in der Mitte einer riesigen Arena angekettet, über ihm der riesenhafte Schatten des Henkers, rund um die beiden herum eine nach Blut dürstende Menge. Der Doppelgänger lässt sich von ihren Rufen und Beschimpfungen nicht irritieren. Mit eindringlicher Stimme malt er ein erschreckendes Bild davon, welche Folgen sein Tod haben wird. Die Schreie der Menge verstummen nach und nach.
+
+Dann ist es so still, dass man eine Feder fallen hören könnte. Der Doppelgänger sieht dem Henker tief in die Augen. Mit zitternden Händen schwingt dieser seine Axt, schlägt dem Doppelgänger die Fesseln ab und schenkt ihm die Freiheit.</DefaultText>
+      <FemaleText>Die Doppelgängerin ist in der Mitte einer riesigen Arena angekettet, über ihr der riesenhafte Schatten des Henkers, rund um die beiden herum eine nach Blut dürstende Menge. Die Doppelgängerin lässt sich von ihren Rufen und Beschimpfungen nicht irritieren. Mit eindringlicher Stimme malt sie ein erschreckendes Bild davon, welche Folgen ihr Tod haben wird. Die Schreie der Menge verstummen nach und nach.
+
+Dann ist es so still, dass man eine Feder fallen hören könnte. Die Doppelgängerin sieht dem Henker tief in die Augen. Mit zitternden Händen schwingt dieser seine Axt, schlägt der Doppelgängerin die Fesseln ab und schenkt ihr die Freiheit.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Das Bild der Arena verschwindet wieder und erneut taucht die zankende Gruppe im Spiegel auf. Der willenstarke Doppelgänger senkt die Hand und erwartet deine Entscheidung.</DefaultText>
+      <FemaleText>Das Bild der Arena verschwindet wieder und erneut taucht die zankende Gruppe im Spiegel auf. Die willenstarke Doppelgängerin senkt die Hand und erwartet deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Auf den Doppelgänger zeigen, der schnelle Runden rund um die Gruppe läuft.</DefaultText>
+      <FemaleText>Auf die Doppelgängerin zeigen, die schnelle Runden rund um die Gruppe läuft.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Der Doppelgänger sprintet von der Rückseite des Raums hinter dem Spiegel los. Seine drahtigen Muskeln spannen sich unter seiner Haut und er kommt nur Zentimeter vor dem Glas zu stehen.</DefaultText>
+      <FemaleText>Die Doppelgängerin sprintet von der Rückseite des Raums hinter dem Spiegel los. Ihre drahtigen Muskeln spannen sich unter ihrer Haut und sie kommt nur Zentimeter vor dem Glas zu stehen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Er macht Dehnübungen, während er deine Entscheidung erwartet.</DefaultText>
+      <FemaleText>Sie macht Dehnübungen, während sie deine Entscheidung erwartet.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Auf den zäh aussehenden Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Auf die zäh aussehende Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Der Doppelgänger spannt die Muskeln an, zeigt mit dem Finger auf dich und tippt sich dann auf das vorgestreckte Kinn. Es scheint, als wolle er, dass du ihn schlägst.
+
+Kaum dass du das gedacht hast, nickt dir der Doppelgänger mit zusammengekniffenen Augen zu.</DefaultText>
+      <FemaleText>Die Doppelgängerin spannt die Muskeln an, zeigt mit dem Finger auf dich und tippt sich dann auf das vorgestreckte Kinn. Es scheint, als wolle sie, dass du sie schlägst.
+
+Kaum dass du das gedacht hast, nickt dir die Doppelgängerin mit zusammengekniffenen Augen zu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>So hart zuschlagen, wie du kannst.
+
+{ANIM: PC punches Reflection}</DefaultText>
+      <FemaleText>So hart zuschlagen, wie du kannst.
+
+{ANIM: PC punches Reflection}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Du ballst die Faust und schlägst dem Doppelgänger durch das Glas so hart du kannst auf das Kinn. Sein Kopf wird zur Seite gerissen, aber als er dich aus dem Augenwinkel ansieht, grinst er.
+
+{SOUND: Fist hitting face.}</DefaultText>
+      <FemaleText>Du ballst die Faust und schlägst der Doppelgängerin durch das Glas so hart du kannst auf das Kinn. Ihr Kopf wird zur Seite gerissen, aber als sie dich aus dem Augenwinkel ansieht, grinst sie.
+
+{SOUND: Fist hitting face.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Der Doppelgänger wischt sich leuchtend rotes Blut von der Lippe und erwartet deine Entscheidung.</DefaultText>
+      <FemaleText>Die Doppelgängerin wischt sich leuchtend rotes Blut von der Lippe und erwartet deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Kick the reflection into the pit.
+
+{ANIM: PC kicks Reflection, Reflection falls into pit.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>You lash out with your foot, and strike the reflection square in the chest. With a startled yelp, it topples backward into the pit. Eventually, you hear a nasty *thud*, and cursing. 
+
+After a few seconds, the reflection rematerializes at the edge of the pit, eyeing you sourly. Its only souvenirs from the long fall are a few glowing bruises and one nasty scrape. {SCRIPT: Reflection rematerializes}
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Ich will dich nicht schlagen."
+
+{ANIM: Reflection reacts to invisible hit.}</DefaultText>
+      <FemaleText>"Ich will dich nicht schlagen."
+
+{ANIM: Reflection reacts to invisible hit.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Der Doppelgänger nickt verständnisvoll. Dann schlägt er *sich selbst* so hart er kann auf das Kinn. Er spuckt einen Zahn aus und grinst dich an.
+
+{SOUND: Fist hitting face.}</DefaultText>
+      <FemaleText>Die Doppelgängerin nickt verständnisvoll. Dann schlägt sie *sich selbst* so hart sie kann auf das Kinn. Sie spuckt einen Zahn aus und grinst dich an.
+
+{SOUND: Fist hitting face.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Auf den riesigen Doppelgänger mit dem zornigen Blick zeigen.</DefaultText>
+      <FemaleText>Auf die riesige Doppelgängerin mit dem zornigen Blick zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Mit brutaler Anmut die Keule schwingend, bahnt sich der Doppelgänger den Weg durch die Menge zum Spiegel.
+
+Er sieht dich finster an, schlägt mit der Keule auf den Boden und schreit dir ins Gesicht.</DefaultText>
+      <FemaleText>Mit brutaler Anmut die Keule schwingend, bahnt sich die Doppelgängerin den Weg durch die Menge zum Spiegel.
+
+Sie sieht dich finster an, schlägt mit der Keule auf den Boden und schreit dir ins Gesicht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Mit einem Knurren erwartet der Doppelgänger deine Entscheidung.</DefaultText>
+      <FemaleText>Mit einem Knurren erwartet die Doppelgängerin deine Entscheidung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Ja. Das bin ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Vom Spiegel wegtreten.</DefaultText>
+      <FemaleText>Vom Spiegel wegtreten.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Countless doppelgangers of you crowd the reflected version of this room. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Bank 183</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Noch mal auf den zornigen Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die zornige Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Noch mal auf den zäh aussehenden Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die zäh aussehende Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Bank 207</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Noch mal auf den flinken Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die flinke Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Noch mal auf den starken Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die starke Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Noch mal auf den verstohlenen Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die verstohlene Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Noch mal auf den willensstarken Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die willensstarke Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Noch mal auf den gerissenen Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die gerissene Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Noch mal auf den robusten Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die robuste Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Noch mal auf den aufmerksamen Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die aufmerksame Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Noch mal auf den Doppelgänger mit dem mystischen Symbol auf der Stirn zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die Doppelgängerin mit dem mystischen Symbol auf der Stirn zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Den Doppelgänger mit dem mechanischen Apparat zurückrufen.</DefaultText>
+      <FemaleText>Die Doppelgängerin mit dem mechanischen Apparat zurückrufen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Noch mal auf den gelehrten Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die gelehrte Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Noch mal auf den intelligenten Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die intelligente Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Noch mal auf den eleganten Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die elegante Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Noch mal auf den Doppelgänger mit dem aufgeweckten Blick zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die Doppelgängerin mit dem aufgeweckten Blick zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Noch mal auf den Doppelgänger mit dem charmanten Lächeln zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die Doppelgängerin mit dem charmanten Lächeln zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Noch mal auf den vorsichtigen Doppelgänger zeigen.</DefaultText>
+      <FemaleText>Noch mal auf die vorsichtige Doppelgängerin zeigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Bank 227</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Let me choose my own path."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"No... I think I'll choose my own path after all."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Bank 230</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>The countless doppelgangers freeze, watching you out of the corners of their eyes. You realize they're waiting to see if you're certain.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Once again, the doppelgangers go still, waiting for you to confirm your choice. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Yes, I'm sure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Actually, let me see my choices again."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>The doppelgangers resume their chaotic festival as nothing happened. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Die Erinnerungen, die du in den Kugeln gefunden und die Entscheidungen die du getroffen hast, leuchten in ihren Augen wie ferne Sterne. Deine Hand zuckt an deiner Seite. Manche der hellen Doppelgänger ignorieren dich, aber einige wenige drehen sich sofort zu dir um und warten darauf, dass du einen von ihnen auswählst und erfährst, was aus dir werden kann.
+
+Ein Beben erschüttert den Raum und langsam breitet sich eine Erschütterung von der Dunkelheit unter dir bis zur Decke hinauf aus.</DefaultText>
+      <FemaleText>Die Erinnerungen, die du in den Kugeln gefunden und die Entscheidungen die du getroffen hast, leuchten in ihren Augen wie ferne Sterne. Deine Hand zuckt an deiner Seite. Manche der hellen Doppelgängerinnen ignorieren dich, aber einige wenige drehen sich sofort zu dir um und warten darauf, dass du eine  von ihnen auswählst und erfährst, was aus dir werden kann.
+
+Ein Beben erschüttert den Raum und langsam breitet sich eine Erschütterung von der Dunkelheit unter dir bis zur Decke hinauf aus.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Your doppelganger gives you a respectful nod. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Die unzähligen Doppelgänger halten inne und beobachten dich aus dem Augenwinkel. Dann laufen sie unter wildem Geschrei in alle Richtungen davon und verschwinden hinter dem kunstvoll verzierten Rahmen des Spiegels.
+
+{SCRIPT: Open Character Generator for player's review/changes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[DEBUG] Show me the results of my choices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Descriptor: Anything 2 or greater should appear in the list of responses. If all of them are less than 2, then Tough should be the only option available (this should be very rare).
+
+If anything of them are -1, then something is broken. 
+
+Vorsichtig: [Global: x1131_Descriptor_Cautious]
+Charmant: [Global: x1131_Descriptor_Charming]
+Klug: [Global: x1131_Descriptor_Clever]
+Geschickt: [Global: x1131_Descriptor_Graceful]
+Intelligent: [Global: x1131_Descriptor_Intelligent]
+Gelehrt: [Global: x1131_Descriptor_Learned]
+Mechanisch: [Global: x1131_Descriptor_Mechanical]
+Mystisch: [Global: x1131_Descriptor_Mystical]
+Aufmerksam: [Global: x1131_Descriptor_Observant]
+Grob: [Global: x1131_Descriptor_Rugged]
+Gerissen: [Global: x1131_Descriptor_Slick]
+Verstohlen: [Global: x1131_Descriptor_Stealthy]
+Stark: [Global: x1131_Descriptor_Strong]
+Willensstark: [Global: x1131_Descriptor_StrongWilled]
+Flink: [Global: x1131_Descriptor_Swift]
+Zäh: [Global: x1131_Descriptor_Tough]
+Zornig: [Global: x1131_Descriptor_Wrathful]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Das alles bin nicht ich. Ich will meinen eigenen Weg wählen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>[In the real game, at this point you'd have the opportunity to review and change your Stat Pool allocations and Descriptor.
+
+Thus concludes this Alpha Systems Test. Thank you for playing. Please send us your thoughts through the in-game feedback button.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Der Spiegel verschwindet und gibt eine dunkle, offene Tür frei. Du holst tief Luft und gehst durch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Greater than 1 means Glaive. Less than -1 means Nano. All else means Jack.
+
+Class Leaning: [Global: x1131_ClassLeaning]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Die verbliebenen Doppelgänger zerstreuen sich und verschwinden hinter dem Rahmen des Spiegels. Das von dir gewählte Selbst tritt vor. Sein Aussehen verändert sich, als er durch das gewellte Glas tritt.</DefaultText>
+      <FemaleText>Die verbliebenen Doppelgängerinnen zerstreuen sich und verschwinden hinter dem Rahmen des Spiegels. Das von dir gewählte Selbst tritt vor. Ihr Aussehen verändert sich, als sie durch das gewellte Glas tritt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Sein Körper wird stärker und gelenkiger. Die Schatten verschiedener Waffen flackern in seiner Hand und verschiedene Rüstungen glänzen an seinem Körper. Du hast den Eindruck, er kann mit allen von ihnen gut umgehen. Und du damit auch.
+
+Das Wort "Glaive" kommt dir in den Sinn.</DefaultText>
+      <FemaleText>Ihr Körper wird stärker und gelenkiger. Die Schatten verschiedener Waffen flackern in ihrer Hand und verschiedene Rüstungen glänzen an ihrem Körper. Du hast den Eindruck, sie kann mit allen von ihnen gut umgehen. Und du damit auch.
+
+Das Wort "Glaive" kommt dir in den Sinn.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Sein Gesicht strahlt Intelligenz und Selbstvertrauen aus. Die Schatten verschiedener Apparate leuchten um ihn herum auf - verschiedene Technologien aus unzähligen vergangenen Zeiten. Du hast den Eindruck, er kann mit allen von ihnen gut umgehen. Und du damit auch.
+
+Das Wort "Nano" kommt dir in den Sinn.</DefaultText>
+      <FemaleText>Ihr Gesicht strahlt Intelligenz und Selbstvertrauen aus. Die Schatten verschiedener Apparate leuchten um sie herum auf - verschiedene Technologien aus unzähligen vergangenen Zeiten. Du hast den Eindruck, sie kann mit allen von ihnen gut umgehen. Und du damit auch.
+
+Das Wort "Nano" kommt dir in den Sinn.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Sein Gesicht strahlt Selbstvertrauen und Klugheit aus. Die Schatten verschiedener Waffen flackern in seiner Hand und einige Apparate leuchten an seinem Gurt auf. Du hast den Eindruck, er kann mit den verschiedensten Situationen gut umgehen. Und du damit auch.
+
+Das Wort "Jack" kommt dir in den Sinn.</DefaultText>
+      <FemaleText>Ihr Gesicht strahlt Selbstvertrauen und Klugheit aus. Die Schatten verschiedener Waffen flackern in ihrer Hand und einige Apparate leuchten an ihrem Gurt auf. Du hast den Eindruck, sie kann mit den verschiedensten Situationen gut umgehen. Und du damit auch.
+
+Das Wort "Jack" kommt dir in den Sinn.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

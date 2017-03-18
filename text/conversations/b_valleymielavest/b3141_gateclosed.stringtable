@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3141_gateclosed</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Iniferes Entschluss, die Pforte zu schließen, hat dich wieder zurück nach draußen befördert. Inifere ist verschwunden – du weißt nicht, wohin – doch die Pforte hat sich hinter dir geschlossen. Ohne die Pforte haben die Kultisten keinen Grund mehr, zu töten.
+
+Oder zumindest *weniger* Grund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Nach Iniferes Tod verstößt dich die Pforte plötzlich aus ihren Tiefen und schließt sich hinter dir. Für die Kultisten gibt es hier nichts mehr, auch keinen Grund mehr, zu töten.
+
+Oder zumindest *weniger* Grund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Wieder einmal hast du die Vergangenheit eines deiner Geschwister geändert. Die Pforte ist nicht mehr da. Sie *war* nie da. Obwohl du dich gut an sie erinnerst. Wenn das hier so ist wie mit Matkina, könnten sich auch andere daran erinnern, zumindest schemen- und bruchstückhaft. Aber jetzt ist sie weg und das zählt.
+
+Blut und Leichen sind noch da, also hast du die Realität wohl nicht *so* drastisch verändert. Aber zumindest haben die Kultisten ohne die Pforte keinen Grund mehr, zu töten.
+
+Oder zumindest *weniger* Grund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du bist nicht die einzige Sache, die aus der Pforte ausgestoßen wurde. Ein kleiner Haufen Gegenstände liegt vor deinen Füßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Hier gibt es auch etwas Neues. Ein kleiner Haufen Gegenstände liegt an deinen Füßen.</DefaultText>
+      <FemaleText>Hier gibt es auch etwas Neues. Ein kleiner Haufen Gegenstände liegt an deinen Füßen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

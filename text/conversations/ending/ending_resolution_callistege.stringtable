@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_resolution_callistege</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Callistege entfernte schließlich den Attraktor und gab ihre vielfachen Realitäten für eine einzige feste Realität auf. Die Lehren des Letzten Verstoßenen gaben ihr die nötige Hoffnung, um dieses Leben über alle anderen zu wählen, und. Durch Beharrlichkeit und die Erinnerungen an die gemeinsame Zeit lernte sie dieses Leben zu schätzen und starb glücklich in hohem Alter.</DefaultText>
+      <FemaleText>Callistege entfernte schließlich den Attraktor und gab ihre vielfachen Realitäten für eine einzige feste Realität auf. Die Lehren der Letzten Verstoßenen gaben ihr die nötige Hoffnung, um dieses Leben über alle anderen zu wählen, und. Durch Beharrlichkeit und die Erinnerungen an die gemeinsame Zeit lernte sie dieses Leben zu schätzen und starb glücklich in hohem Alter.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Callistege entfernte schließlich den Attraktor und gab ihre vielfachen Realitäten für eine einzige feste Realität auf. Auch wenn sie oft an den Letzten Verstoßenen dachte, spendeten ihr die Lehren ihrer gemeinsamen Reisen keinen Trost. Schließlich verschwand sie in den Wüsten hinter Sagus und wurde nie wieder gesehen.</DefaultText>
+      <FemaleText>Callistege entfernte schließlich den Attraktor und gab ihre vielfachen Realitäten für eine einzige feste Realität auf. Auch wenn sie oft an der Letzten Verstoßenen dachte, spendeten ihr die Lehren ihrer gemeinsamen Reisen keinen Trost. Schließlich verschwand sie in den Wüsten hinter Sagus und wurde nie wieder gesehen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Callistege fand in der Datosphäre eine neue Welt des Wissens und der Freude. Sie war endlich befreit von der tyrannischen Umklammerung ihrer Schwestern und ließ allen Einfluss, den sie auf ihren physischen Körper haben könnten, hinter sich. Sie mögen versuchen, sie dort zu erreichen, doch sie ist darauf vorbereitet und mit dem Schutz des Verstandes des Letzten Verstoßenen gerüstet, mit dem er ihr zuletzt die Selbstbestimmung schenkte.[BR][BR]</DefaultText>
+      <FemaleText>Callistege fand in der Datosphäre eine neue Welt des Wissens und der Freude. Sie war endlich befreit von der tyrannischen Umklammerung ihrer Schwestern und ließ allen Einfluss, den sie auf ihren physischen Körper haben könnten, hinter sich. Sie mögen versuchen, sie dort zu erreichen, doch sie ist darauf vorbereitet und mit dem Schutz des Verstandes der Letzten Verstoßenen gerüstet, mit dem er ihr zuletzt die Selbstbestimmung schenkte.[BR][BR]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Was aus Callistege geworden ist, weiß niemand. Von Zeit zu Zeit erklingt das Flüstern ihrer Stimme in der Datosphäre, kriecht in kaum hörbaren, bruchstückhaften Sätzen aus Numenera in der ganzen Welt. Von ihrer Intelligenz, ihrer Persönlichkeit gibt es keine Spur. Selbst wenn sich die Neunte Welt nach ihr sehen sollte, gibt es niemanden mehr, der sich an ihren Namen erinnert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Niemand weiß, was aus Callistege geworden ist. Manche sagen, sie wäre in die Wüste rund um Sagus gewandert. Andere sagen, man hätte sie nach dem jüngsten Flor-Beben tot auf der Straße gefunden. Und wieder andere sagen, sie würde noch immer durch die bekannte Welt wandern. Auf der Suche nach etwas, das immer außerhalb ihrer Reichweite sein würde und dabei den Letzten Verstoßenen dafür verfluchend, dass er sie alleingelassen hatte.</DefaultText>
+      <FemaleText>Niemand weiß, was aus Callistege geworden ist. Manche sagen, sie wäre in die Wüste rund um Sagus gewandert. Andere sagen, man hätte sie nach dem jüngsten Flor-Beben tot auf der Straße gefunden. Und wieder andere sagen, sie würde noch immer durch die bekannte Welt wandern. Auf der Suche nach etwas, das immer außerhalb ihrer Reichweite sein würde und dabei die Letzte Verstoßene dafür verfluchend, dass sie sie alleingelassen hatte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Callistege wurde eine angesehene Gelehrte und füllte die große Bibliothek von Sagus und alle Bibliotheken der Neunten Welt mit ihren Abhandlungen zu mehrfachen Realitäten und dem Vergleich von Möglichkeit und Wahrscheinlichkeit. Sie spricht als eine Frau, die viele Leben länger gelebt hat, als ihr zustand – abgesehen von ihrem Leben an der Seite des Letzten Verstoßenen. Dieses Thema gehört ihr und nur ihr allein, bleibt verborgen hinter einem Lächeln oder einer Grimasse, doch für immer und unumkehrbar geheim.</DefaultText>
+      <FemaleText>Callistege wurde eine angesehene Gelehrte und füllte die große Bibliothek von Sagus und alle Bibliotheken der Neunten Welt mit ihren Abhandlungen zu mehrfachen Realitäten und dem Vergleich von Möglichkeit und Wahrscheinlichkeit. Sie spricht als eine Frau, die viele Leben länger gelebt hat, als ihr zustand – abgesehen von ihrem Leben an der Seite der Letzten Verstoßenen. Dieses Thema gehört ihr und nur ihr allein, bleibt verborgen hinter einem Lächeln oder einer Grimasse, doch für immer und unumkehrbar geheim.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Callistege blieb viele Jahre lang bei dem Letzten Verstoßenen, verfasste Bücher und unterrichtete in kurzen Augenblicken der Zivilisation. Wohin sie gingen, sagte sie nie, und auch nicht, wohin sie als Nächstes gehen würden. Schließlich verschwand sie, auch wenn niemand wirklich sicher ist, dass sie nicht mehr da ist. In ihrer Heimatstadt Sagus-Klippen wartet ein leerer Sessel in der großen Bibliothek darauf, dass sie zurückkehrt und ihr Wissen einmal mehr weitergibt.</DefaultText>
+      <FemaleText>Callistege blieb viele Jahre lang bei der Letzten Verstoßenen, verfasste Bücher und unterrichtete in kurzen Augenblicken der Zivilisation. Wohin sie gingen, sagte sie nie, und auch nicht, wohin sie als Nächstes gehen würden. Schließlich verschwand sie, auch wenn niemand wirklich sicher ist, dass sie nicht mehr da ist. In ihrer Heimatstadt Sagus-Klippen wartet ein leerer Sessel in der großen Bibliothek darauf, dass sie zurückkehrt und ihr Wissen einmal mehr weitergibt.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

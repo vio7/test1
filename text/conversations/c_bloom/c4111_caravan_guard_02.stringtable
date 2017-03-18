@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_caravan_guard_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich schätze mal, wir bleiben für eine Weile hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Siehst du den Wagen dort? Ich muss ihn rausholen. Sehe ich aus, als hätte ich die Zeit, mich mit dir zu unterhalten? Verzieh dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Danke für deine Hilfe mit dem Wagen. Schätze ich. Glaub nicht, du hättest so schwer geschuftet wie ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Nein, ich kann nicht reden. Ich arbeite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich habe gehört, du hättest den Handelsposten geöffnet. Aber ich sage, die Flor kann einen Dinge sehen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Der Wagen ist also weg. Aber es ist nicht so, als hätten uns Räuber angegriffen. Hoffentlich werde ich trotzdem bezahlt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Du schon wieder, he? Ich habe keine Zeit zum Reden. *Ein paar* von uns haben eine richtige Arbeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

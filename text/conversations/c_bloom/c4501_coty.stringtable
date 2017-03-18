@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_coty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>85</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Coty zieht vergeblich seinen Schwertgürtel hoch. "Hey", sagt er. "Was brauchst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Schön, dich wiederzusehen, Coty. Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Also, wie gefällt dir deine neue Arbeit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Erzähl mir noch einmal von deiner Arbeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ganz gut, denke ich. Einige der anderen nennen mich Halsabschneider-Coty. Ich schätze, das ist ein Kompliment?"
+
+"Aber es ist komisch." Er beugt sich näher zu dir. "Ich meine, früher bin ich vor Leuten wie mir davongelaufen, ja? In Sagusklippen hab ich mal gesehen, wie eine Gruppe Soldaten einen Freund von mir zu einem Klumpen Fleisch geprügelt hat – ich musste kotzen, so schlimm war es. Und jetzt bin ich plötzlich derjenige, der andere verprügelt, und wenn es vorbei ist, ruf ich 'Noch mal!'"
+
+Er schüttelt den Kopf. "Gut für meine Karriere, schätze ich, aber auch ein wenig beängstigend."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich schlage mich gut. Fast *zu* gut, finde ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Es ist in Ordnung, schätze ich. Immerhin muss ich nicht stehlen oder auf der Straße schlafen." Er zieht den Schwertgürtel hoch. "Ich weiß aber nicht, ob das noch wirklich *ich* bin, ja? Früher bin ich vor den Schlägern geflüchtet. Jetzt bin ich wohl selber einer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich bin dankbar für Essen und Unterkunft, aber ich bin nicht sicher, ob ich für dieses Leben gemacht bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Wie auch immer, ich schulde dir etwas. Lass mich wissen, wenn ich etwas für dich tun kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wie geht es dir? Fühlst du dich schuldig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Nachdem du mir dieses Zeug zu trinken gegeben hast, habe ich den Schmerz nicht mehr gespürt. Ich dachte an Kassandra und spürte keinen Schrecken und keine Schuld mehr, sondern ... nichts. Als wäre es nicht mehr wichtig." Er holt tief Luft.
+
+"Dann haben auch die Albträume aufgehört. Dafür hab ich jetzt andere, von Dingen, an die ich mich mal nicht erinnern kann, dass ich sie je getan habe." Ihn schaudert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ja, macht's gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Kannst du mir mehr über die Memovira sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich möchte noch einmal über den Kummer sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Wie ich mir dachte. Was willst du wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Das *habe* ich, aber nicht oft. Außer mit ihren persönlichen Wachen spricht sie mit den Leuten nur durch diese Projektion. Speisen und Wasser lässt sie sich bringen. Ich bin ziemlich sicher, dass sie ihren Turm seit Monaten nicht mehr verlassen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Er schüttelt den Kopf. "Nicht, dass ich wüsste. Die meisten anderen Wachen haben sie auch nicht gesehen. Mit Ausnahme von Brusca vielleicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Hast du sie jemals gesehen? Persönlich, meine ich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Sie kommt also *nie* aus ihrem Turm heraus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Wie viele Leute hat sie in ihrem Turm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Wie viele Leute sind da nochmal drin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Sie hat Dutzende Soldaten in der ganzen Flor verteilt, aber ich denke, die meiste Zeit sind nicht mehr als eine Handvoll bei ihr in der Festung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Eine Handvoll. Allerdings sind das zähe Jungs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Welche Art von Verteidigung hat sie da drin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Erzähle mir noch einmal von ihrer Verteidigung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Sie hat da drin alle möglichen seltsamen Geräte, und sie fügt immer noch neue hinzu. Sie hat diese Kugeln, die angeblich auf jeden schießen, der sie bedroht. Außerdem arbeitet sie an einer Art riesiger Armbrust. Und Brusca sagt, der Turm ist durch einen Zauber geschützt, der die Flor draußen hält. Das ist alles, was ich weiß. Vielleicht gibt es noch mehr. Keine Ahnung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Sie hat diese Kugeln, die auf alle schießen, die sie bedrohen, riesige Armbrüste, die noch nicht fertig sind, und eine Art Zauber, der die Flor draußen hält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Du hast gesagt, sie hat einen Zauber, der die Flor draußen hält?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich will wissen, wie dieser Turm die Flor draußen hält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Das ist verrückt, ich weiß. In der Ausbildung haben wir gelernt, dass sie hier das Sagen hat, weil die Flor sie mag oder so, aber in Wirklichkeit tut sie alles, um die Flor von ihr fernzuhalten."
+
+"Ich weiß nicht, wie der Zauber genau funktioniert, aber die Flor kann nicht in den Turm kriechen wie in andere Gebäude. Das heißt, sie kann schon, aber nur ganz langsam – Flecken von Flor-Fleisch wachsen manchmal durch die Risse in den Mauern. Die Memovira lässt uns die alle verbrennen, um die Flor aufzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ihr Zauber bewirkt, dass die Flor nur ganz langsam durch Risse in der Mauer eindringen kann. Und wenn sie es tut, lässt die Memovira uns das eingedrungene Flor-Fleisch verbrennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ich möchte über etwas anderes reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"In Ordnung, denke ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Coty steht stocksteif da. Seine Schwerthand ist leer, sein Schwert am Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Coty steht wie betäubt da, das Schwert noch in der Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Coty ist angezogen wie Brusca, mit Rüstung und Kurzschwert an der Hüfte. Die Rüstung geht ihm jedoch bis über die Knie und der Schwertgürtel rutscht ihm ständig nach unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Dennoch schafft er es irgendwie, gefährlich auszusehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Du bist zurück!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Coty blickt dich an und du siehst wieder die Resignation in seinen Augen. "Ich kann nicht sagen, dass es aufgehört hat. In manchen Nächten liege ich stundenlang wach, weil ich Angst davor habe, sie in meinen Träumen zu sehen."
+
+Er schaudert und fügt dann hinzu: "Aber es gibt genug zu tun, sodass ich meistens nicht daran denken muss. Manchmal denke ich sogar, dass alles gut wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Oh." Er sieht sich nervös um. "Ich weiß nicht, ob ihr das gefallen würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Du hast gesagt, du schuldest mir was."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Vergiss es. Lass mich eine andere Frage stellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Stimmt. Das habe ich. Gut. Was willst du wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Nein", sagt er und ignoriert deinen Kommentar. "Ich hab gesagt, ich schulde dir etwas und ich schulde dir etwas. Was willst du wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ich glaube aber, das Verbrennen funktioniert nicht so gut, wie sie möchte. Sonst wäre wohl gar nichts von der Flor im Turm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Wir haben sie getötet. Was soll ich jetzt tun? Was werden die mit mir tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ich glaube nicht, dass dir jemand etwas tun wird. Die haben im Moment andere Sorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Du wirst schon klarkommen. Du bist jetzt ein ausgebildeter Soldat. Für Soldaten gibt es immer Arbeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ein Schritt nach dem anderen, Coty. Du wirst schon klarkommen. Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Coty nickt nur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ja. Schätze, du hast recht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Aber was, wenn ich kein Soldat sein will?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ja, ich vermute schon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Dieses ... dieses Ding ... es war hinter *dir* her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ja, ich vermute schon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Wirst du klarkommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Plötzlich fühlt sich das, was mit meiner Schwester passiert ist, gar nicht mehr so schlimm an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich denke ... mein eigenes Leben fühlt sich mit einem Mal viel einfacher an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ja." Er schluckt. "Ja. Du hast nur gerade einige Dinge in meinem Leben in ein ganz neues Licht gerückt, das ist alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Vergiss dein Schwert nicht, Coty. Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Also gut.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Es tut mir leid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Jetzt gibt es kein Zurück mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Das tut mir leid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Geh mir aus dem Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Lass mich los. *Jetzt*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Endlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>::grummelt::</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

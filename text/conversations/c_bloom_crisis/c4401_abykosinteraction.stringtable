@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_abykosinteraction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Kreatur zeigt noch immer kein Interesse an dir. Sie ist damit beschäftigt, die krabbelnden Schlünde zu jagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Kreatur angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lass die Kreatur in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sie wirbelt mit ihren langen, ausgestreckten Krallen auf dich zu ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Dieses seltsame, verbogene Wesen kommt dir bekannt vor. Du bist dir ziemlich sicher, dass es sich um dieselbe Kreatur handelt, die du aus der Zyste im Gewaltigen Innern befreit hast.
+
+Sie zeigt kein Interesse an dir. Stattdessen scheint es es auf die krabbelnden Schlünde abgesehen zu haben ... auch wenn du nicht weißt, warum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Dieses merkwürdige, gekrümmte Wesen ist ein Abykos. Du vermutest, dass es sich um dieselbe Kreatur handelt, die du aus der Zyste im Gewaltigen Innern befreit hast.
+
+Sie scheint damit beschäftigt zu sein, die krabbelnden Schlünde zu jagen. Du hast gehört, dass Abykos transdimensionale Energie fressen, sie versucht also vermutlich, an die Risse innerhalb der kleinen Schlünde zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Das seltsame Wesen bricht zusammen, und die Spannung scheint aus dem Raum zu entweichen. Die Muskeln an den Wänden entspannen sich, und die pulsierenden Adern schrumpfen auf ihre normale Größe zurück. 
+
+Für den Moment nimmt die Flor dich nicht mehr als Bedrohung wahr.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_erritiss_alcove</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese kleine Nische ist ungefähr so groß wie ein kleiner Schuppen. Ihr einziger Vorteil ist, dass sie vor dem Wind und den Blicken von Passanten schützt. 
+ 
+ Die über ihrem Eingang eingravierten Runen resonieren in deinem Kopf als wortlose Warnung von katastrophaler Gefahr.
+ {SCRIPT: This is a conversation with significance to Erritis's personal quest. The player should be able to access it freely if Erritis is not in the party, but it is important for Node 16 in companion_erritis_stage3 to play IMMEDIATELY when Erritis enters or is summoned into the Valley. In short, if Erritis is active, we should see that conversation before he's brought into this one.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Erritis legt den Kopf in die Hände. Seine Lippen formen ein stummes "Nein". Dann schluckt er und schüttelt den Kopf. Er wirkt... kleiner, als du ihn in Erinnerung hast. 
+ 
+ "Ich... mir gefällt dieser Ort nicht." Seine Stimme ist kaum mehr als ein Flüstern Er hält sich die Hände vor die Augen als würden sie ihn schmerzen. "Gehen wir? Ich will gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Nach kurzem Nachdenken erkennst du das Wesen der Runen. Sie sind uralte Warnungen, um die Leichtsinnigen zu entmutigen und um eine psychische Belastung für praktisch jede Lebensform in der Welt darzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Der Staub im Inneren der Nische ist beinahe unberührt. Lediglich eine Person scheint hier Kreise gedreht und sich dann in einer Ecke unter einen Mauervorsprung gekauert zu haben, auf der eine kleine dunkle Schatulle steht.
+ 
+ Der Staub auf dem Mauervorsprung wurde ebenfalls aufgewühlt - jemand hat etwas weggenommen, lang und dünn wie eine Klinge. Stattdessen liegt dort nun ein krude geschnitzter Hirtenstab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Nische ist praktisch noch so, wie du sie verlassen hast - mit der schmalen Fußspur in der dicken Staubschicht auf dem Boden. Auf dem Regal vor dir liegt eine offene schwarze Schatulle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Hä? Ich habe schon an schlimmeren Orten geschlafen. Dennoch scheint das ein seltsamer Platz zu sein, um zu rasten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Sie untersucht die Spuren im Staub und den restlichen Raum. "Wer hier Rast gesucht hat war klein - kaum größer als ein Teenager - und vermutlich ein Mann. Kein schöner Ort, um die Nacht zu verbringen. Er hat vermutlich Albträume gehabt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sie nimmt die Schatulle in die Hand und macht für einen Moment große Augen. "Das ist kein bloßes Schmuckstück. Sie wurde gemacht, um etwas Gefährliches darin aufzubewahren ... etwas Lebendiges, wie es scheint, und irgendein Narr hat sie aufgebrochen. Jetzt ist sie nutzlos."
+ 
+ Sie wischt sich den Staub von den Händen. "Keine meine Schwestern kann etwas Nützliches hier entdecken. Gehen wir." Sie zittert ein wenig. "Keine von uns möchte noch länger hierbleiben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Jemand hat hier geschlafen, nicht wahr? Wollte sich verstecken, wusste aber nicht wie." Sie steckt nervös die Hand in die Tasche. "Ich hoffe, dieser Jemand hat nun ein besseres Versteck gefunden. Das hier fühlt sich nicht wie ein Ort an, an dem man länger bleiben sollte. Es fühlt sich ... hungrig an."
+ 
+ Sie umarmt sich selbst. "Gehen wir. Dieser Ort gefällt mir nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Was ist los, Erritis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Erst, wenn du mir sagst, was los ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Gut. Aber wir reden später darüber, ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ja. Später." Er schluckt. "Nicht hier. Bitte. Wir sollten gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Nichts." Er schluckt. "Will ich nicht sagen. Nicht hier. Bitte. Ich bitte dich. Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich erinnere mich an diesen Ort." Seine Stimme verlässt ihn wieder. So wie seine Stimme versagt, scheint auch das Leuchten vor seinem Gesicht zu verschwinden. 
+ 
+ "Da war ... noch jemand. Ein Junge." Erritis' Gesichtsausdruck wird weicher.
+ 
+ "Er war müde. Verängstigt. Ganz anders als ich. Er kam hierher ... schlief dort ein ... und wachte nie wieder auf. Der Schlaf begrub ihn und er schrie. Schreit immer noch ..." 
+ 
+ Erritis versagt wieder die Stimme. Er schluckt. "Wenn es ganz still ist, kann ich ihn hören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Nein. Sag es mir jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Natürlich. Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er hält sich die Ballen seiner zitternden Hände vor die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wer ist dieser Junge?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Was ist dann passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sprechen wir später darüber. Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ich weiß es nicht mehr!" schreit er. "Es war ein Albtraum, eine dumme Geschichte, hatte nichts Heroisches an sich. Es war reine Zeitverschwendung und ich weiß nicht, warum ich mich überhaupt daran erinnere!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ein ... Bauernjunge. Ein Hirte. Er hat sich den falschen Schlafplatz ausgesucht. Zur falschen Zeit seiner Neugier nachgegeben. Und nun hat er die ganze Zeit über Angst."
+ 
+Er klopft sich mit den Fingerknöcheln gegen die Stirn. "Wer war er ... wer war er ..."
+ 
+ Und dann ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Die Nische ist noch genau so, wie du sie zuletzt gesehen hast. Das einzige neue Element sind die Fußabdrücke, die du im Staub hinterlassen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Den Hirtenstab aufheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du streckst die Hand aus, um den Stab aufzuheben. Neben dir stöhnt Erritis auf. 
+ 
+Helles Licht schießt aus dem Stab und alles wird weiß. Du hörst jemanden schreien - vielleicht Erritis, vielleicht dich selbst. Donnernde Stimmen brüllen hinter dem fauchenden Geheul dieser endlosen elfenbeinernen Wand und etwas rast auf dich zu, etwas, das du nicht sehen kannst-
+ {SCRIPT: Reflection of Erritis is now available in the Labyrinth.}
+ {SCRIPT: White flash.}
+ {SCRIPT: Erritis's glow vanishes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Es ist nicht zu erkennen, was diese leere Schatulle einst enthalten hat. Dir fällt jedoch ein in den Boden eingeschnitztes Auge auf, dessen Pupille aus zwei blutroten konzentrischen Ringen besteht. Wenn du die Augen zusammenkneifst, kannst du mit Mühe eine menschliche Gestalt im Zentrum des Auges erkennen, die ein Schwert hochhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du siehst nichts Neues im Inneren der Schatulle. Nur das im Boden eingeschnitzte Auge mit der Pupille aus zwei Ringen, in deren Mitte ein winziges Menschlein ein Schwert hochhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ins Innere der dunklen Schatulle sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Erneut ins Innere der dunklen Schatulle sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Erritis stöhnt und du blickst zu ihm rüber. Er hat ein sorgloses Lächeln im Gesicht, doch du bemerkst Tränen in einem Auge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Nische verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Den Hirtenstab nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du streckst vorsichtig die Hand aus, um den Stab zu nehmen.
+ 
+Ein weißglühender Energieblitz schießt von dem Stab in deine Hand. Du spürst keinen Schmerz, aber dein ganzer Arm wird vorübergehend taub. 
+ 
+Die Energie fließt durch deinen Körper und Geist und über deinen anderen Arm wieder zurück in den unscheinbaren Hirtenstab. Du hörst das Echo von Stimmen, zu leise, um sie zu verstehen, sodass du nur ein vages Gefühl davon hast, was sie sagen. 
+ 
+*Nicht deins*. Das ist die Botschaft, die sie in rasch verblassenden Lettern in dein Gehirn gebrannt haben. *Halte dich fern*. 
+ {SCRIPT: White flash.}
+ {SOUND: Electric shock.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Erneut versuchen, den Hirtenstab zu nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Eine Handvoll Sinne, Gefühle, Erinnerungen und *Angst* schießt in deinen Geist ein und lässt dich einen Schritt über den staubigen Boden der Nische zurücktaumeln. Etwas in dir hat sich verändert... in dem Labyrinth. Du hörst eine Stimme in deinem Kopf - sie klingt wie die von Erritis - aber klein und verängstigt.
+ 
+Du siehst zu ihm rüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Der krude Hirtenstab liegt hinter der Schatulle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Ein weiterer Lichtblitz fährt in deine Hand ein und betäubt deinen Arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du blinzelst, um die Flecken vor deinen Augen zu vertreiben. Wenn dieser Stab nicht deiner ist, muss er jemand anderem gehören. Vielleicht kannst du hier mehr erreichen, wenn du mit dem Besitzer zurückkommst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Vielleicht kannst du hier mehr erreichen, wenn du mit dem Besitzer des Stabs zurückkommst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Erritis starrt auf die Ablage. Seine Arme hängen schlapp herunter. Vom Leuchten ist keine Spur zu sehen. Er sieht mitgenommen aus. Müde. Alt.
+ 
+Du folgst seinem Blick. Der Hirtenstab ist verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Gehen wir, Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Er nickt. Schluckt. Nickt wieder. 
+ 
+Langsam, wie die hinter einem Berg aufgehende Sonne, kommt sein Leuchten zurück. Als er sich wegdreht, bleibt sein Blick kurz auf deiner Stirn haften, ergriffen und traurig, bevor das Leuchten auch seine Augen erfüllt und er lächelt. 
+ 
+"Warum stehen wir in dieser langweiligen Nische herum?" sagt er und sieht sich um. "Wir sollten kämpfen! Schlemmen! Von Dach zu Dach hüpfen! Los, lass uns Dächer suchen!" Er keucht. "Ist *das* ein Dach?!"
+ {SCRIPT: Erritis's glow returns.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Was ist eben passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ich war woanders", murmelt er, ohne dich anzusehen. "Ich war hier in meinem fantastischen Heldenkörper, aber gleichzeitig war ich auch *woanders*."
+ 
+Ohne dass er dich ansieht, hebt sich sein Arm und zeigt auf deine Stirn. Ihm scheint nicht bewusst zu sein, was seine Hand da tut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Dann kehrt sein Leuchten zurück, wie die hinter einem Berg aufgehende Sonne, und erfüllt ihn. Er lächelt und senkt seine eigensinnige Hand.
+ 
+"Warum stehen wir hier herum?" sagt er und sieht sich um. "Wir sollten kämpfen! Schlemmen! Von Dach zu Dach hüpfen! Los, lass uns Dächer suchen!" Er keucht. "Ist *das* ein Dach?!"
+ {SCRIPT: Erritis's glow returns.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Erritis, ist alles in Ordnung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Wegschauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Du wendest dich von Erritis ab und setzt deine Untersuchung der Nische fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ja, klar", sagt er und nickt dir zu. Eine Träne kullert seine eingefallene Wange herab und um sein fröhliches Grinsen herum. "Aber wenn du schon fragst - mir ist langweilig hier. Wir sollten gehen. Wir sollten *jetzt gleich* gehen."
+ 
+Er pfeift leise vor sich hin und wendet den Blick ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

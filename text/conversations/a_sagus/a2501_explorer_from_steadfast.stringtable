@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_explorer_from_steadfast</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Du bist nicht aus dieser Gegend, oder? Ich übrigens auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ich komme aus dem Meereskönigreich Ghan, das zu den Standhaften Königreichen gehört. Ganz weit im Westen, sofern du es nicht kennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Das Meer war nie mein liebster Ort. Ich wollte landeinwärts, so weit es nur ging. Um zu erleben, was ich erlebte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich bin unterwegs seit ... Ich weiß es nicht mehr, seit einem Jahrhundert oder so. Oder mehr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Pass da draußen auf dich auf."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

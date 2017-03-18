@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_vicarians_merecaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Lebensbildbetrachter ist viel leichter als andere, die du gesehen hast. Du nimmst ihn probeweise in die Hände und bemerkst, dass er beinahe durchsichtig ist – aber nur, wenn er sich in der Nähe deines Gesichts befindet. 
+
+Du fühlst, wie er an dir zerrt und dich dazu drängt, dass in ihm enthaltene Lebensbild zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du holst den Lebensbildbetrachter wieder aus deinem Gepäck und hälst ihn in den Händen. Er zieht an dir und zwingt dich, das in ihm enthaltene Lebensbild zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Das Lebensbild betreten.
+{SKRIPT: Spieler betritt das Lebensbild der Standhaften Königreiche. Dieser Dialog wird deaktiviert.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Den Lebensbildbetrachter weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Den Lebensbildbetrachter untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du drehst und wendest ihn in deinen Händen und hebst ihn einige Male auf Augenhöhe. In diesen Momenten verschwindet er völlig, sodass du das Gefühl hast, seltsam schwere Luft zu halten. 
+
+Immer, wenn du deinen Blick von dem Lebensbildbetrachter abwendet, vibriert er in deinen Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

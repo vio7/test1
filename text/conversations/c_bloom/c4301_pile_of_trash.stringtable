@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_pile_of_trash</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Müllhaufen in Klein-Nihliesh zeigen deutlich die vorherrschende Einstellung, dass die Mutanten Abfall sind und kaum toleriert werden. Der Geruch eines nicht identifizierbaren Abfalls, auslaufenden organischen Materials und der scharfe Geruch von geschmolzenem Synth vereinen sich zu einem besonderen Duft, der dir den Magen umdreht.
+
+Irgendetwas erweckt jedoch deine Neugier. Das Funkeln von Metall, vielleicht – etwas Schimmerndes, in dem Schlick und Verfall äußerst fehl am Platz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Grabe dich durch den Abfall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lass den Müllhaufen in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der widerliche Abfallhaufen bewegt sich einige Male, als du den Schmutz beiseiteschiebst, und das Metall, das du gesehen hast, bleibt in verlockender Ferne. Schließlich erblickst du eine breite Metallfläche und greifst sie dir, bevor eine weitere Lawine aus stinkendem Abfall darüber zusammenbricht. 
+
+Es ist ein seltsam geformter Kammhelm und der verfaulende Abfall scheint von seiner Oberfläche zu gleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Egal, wie oft du im Abfall herumstocherst, du findest nichts von Interesse in diesem Müllhaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Bitte. Lass mich in Ruhe! Ich werde dir alles geben, was ich habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich blute. Mein Leben … klingt ab."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Der Schmerz … schwindet … aber warum … wird es immer dunkler?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Je mehr du dich diesem verfaulenden Haufen Zerfall und verdorbener Lebensmittel näherst, desto lauter wird die seltsame weibliche Stimme. Sie scheint aus dem Abfallhaufen zu kommen … oder um genauer zu sein, *aus* dem Müll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der widerliche Abfallhaufen bewegt sich einige Male als du den Schmutz beiseiteschiebst, und das Metall, das du gesehen hast, bleibt in verlockender Ferne. Schließlich erblickst du eine breite Metallfläche und greifst sie dir, bevor eine weitere Lawine aus stinkendem Abfall darüber zusammenbricht. 
+
+Es ist ein Helm, der jenen ähnelt, die von den Lascar getragen werden, die du kennengelernt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Grabe dich durch den Abfall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Der widerliche Abfallhaufen bewegt sich einige Male, als du den Schmutz beiseiteschiebst, und die Stimme bleibt in verlockender Ferne. Schließlich erblickst du das Funkeln von Metall und greifst es dir, bevor eine weitere Lawine aus stinkendem Abfall darüber zusammenbricht. 
+
+Es ist ein Helm, der jenen ähnelt, die von den Lascar getragen werden, die du kennengelernt hast. Die Stimme kommt aus dem Inneren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der widerliche Abfallhaufen bewegt sich einige Male, als du den Schmutz beiseiteschiebst, und die Stimme bleibt in verlockender Ferne. Schließlich erblickst du das Funkeln von Metall und greifst es dir, bevor eine weitere Lawine aus stinkendem Abfall darüber zusammenbricht. 
+
+Es ist ein seltsam geformter Kammhelm. Die Stimme kommt aus dem Inneren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich will dir nichts tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ich reiche dir meine Hand in Frieden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_bloom_native_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Die Memovira wurde bereits seit Wochen nicht mehr gesehen. Ich wette, sie liegt längst kalt und tot in ihrem Turm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Man sagt, du hast den Weg zum Handelsposten geöffnet? Du hast ... der Flor Befehle erteilt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Die Kultisten sagen ... sie sagen du bist in die Tiefen der Flor hinabgestiegen. Ist ... ist das wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Die Kultisten singen, dass die Flor eine neue Memovira hat. Die alte wird darüber nicht begeistert sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

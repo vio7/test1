@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_teleporterdias</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Linien in dieser Scheibe aus gebürstetem Metall scheinen Schaltkreise oder Kanäle für pulsierende transdimensionale Energie zu sein. Es ist vielleicht möglich, diese Kanäle umzukehren und dich so an das obere Ende der Treppe zu teleportieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lass den Apparat in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Mit einigen kleinen Änderungen solltest du in der Lage sein, dieses Gerät so umzupolen, dass es dich an das obere Ende der Treppe teleportiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Den Teleporter so einstellen, dass er auf das obere Ende der Treppe zielt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Erneut versuchen, den Teleporter so einzustellen, dass er auf das obere Ende der Treppe zielt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du wirst in helle, warme Energie getaucht und dann zerbricht die Welt um dich herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du aktivierst das Podium, aber deine Berechnungen waren fehlerhaft. Die Energie fackelt und brennt über deine Hand und zersplittert einen Teil von dir über verschiedene Welten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

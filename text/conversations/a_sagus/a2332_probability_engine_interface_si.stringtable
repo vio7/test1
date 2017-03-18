@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2332_probability_engine_interface_si</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Gerät sieht aus, als sei es einmal Teil eines größeren Gerätes oder eines Netzwerkes von Geräten gewesen, das sich im Gestein unter der Stadt befand. Dicke Kabel verschwinden in Löchern in der Wand. Die Maschine gibt ein leises Summen von sich, das du gerade noch hören kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Leitungen und Kabel führen von diesem Gerät in die Steinwand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Es kommt dir seltsam bekannt vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du erkennst es sofort, es ist die Probabilitätsmaschine, die dir die gespenstische Frau in dem Labyrinth gezeigt hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Versuche, das Interface zu verwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Versuche noch einmal, das Interface zu verwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du tippst darauf, wischst darüber, brüllst es an und sprichst liebevoll damit, doch das Interface reagiert nicht im Geringsten auf deine Befehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Egal, was du auch versuchst, das Interface macht keinen Mucks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Lass es sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Jetzt ist die Maschine dunkel und still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Das Interface ist verschwunden. Was immer du gemacht hast, es hat sie ausgeschaltet und du hast keine Ahnung, wie sie wieder angeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Nichts, was du tust, hat eine Wirkung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Versuche herauszufinden, wie die Maschine funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Als du die raue Oberfläche berührst, öffnet sich ein Bildschirm-Interface, das aber nicht auf deine Bewegungen und Befehle reagiert.
+
+Der Bildschirm zeigt ein großes Geräte-Netzwerk, mit denen er offensichtlich verbunden ist. Wenn du es richtig deutest, befindet sich irgendwo unter der Stadt ein großes Netzwerk aus Maschinen und Motoren. Mit diesem Interface werden sie womöglich gesteuert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du sagst das Wort ‚neshu‘ und da erhellt sich das Interface. Du drückst die gleichen fünf Symbole, die der gespenstische Mann im Labyrinth benutzt hatte.
+
+Du willst gerade das Ritual ein zweites Mal wiederholen, spürst jedoch einen Widerstand in dir. Deine Hand will dir einfach nicht gehorchen.
+
+Es ist kein körperlicher Widerstand. Etwas in deinem Kopf blockiert den Abschluss der Sequenz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Schalte die Probabilitätsmaschinen aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Versuche noch einmal, die Probabilitätsmaschinen auszuschalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Noch einmal sagt du das Wort ‚neshu‘ und gibst die fünf Symbole in der gleichen Reihenfolge ein wie der gespenstische Mann. Als du versuchst, sie ein zweites Mal einzugeben, stoppt dich etwas. Deine Hand will dir nicht gehorchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Kämpfe gegen den Widerstand, wo immer er herkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Kämpfe noch einmal gegen den Widerstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Vergiss es.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du gibst auf. Einen Augenblick später kehrt das Interface in sein vorheriges abgedunkeltes Stadium zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Es erfordert eine unglaubliche Willensstärke, als würde ein anderer *Geist* um die Kontrolle über deinen Körper kämpfen. Schließlich kannst du es überwinden und die Sequenz ein zweites Mal eingeben. Das Interface verschwindet und die Maschine wird still. Es ist erledigt.
+
+{SCRIPT: Need to make the VFX here shut off.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Du versuchst, deine Hand durch die Bewegungen zu zwängen, aber es geht nicht. Etwas in dir drin hindert dich, diese Maschinen abzuschalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du versuchst es noch einmal, aber ohne Erfolg. Was immer für den Widerstand sorgt, es ist stark.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6121_maze_platform_control_panels_si_04</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Wie auch die andere, ist die Karte auf diesem Bedienpult voll funktionstüchtig. Die Plattform, auf der du stehst, pulsiert mit einem orangen Leuchten, und zeigt die Stockwerke in ihrem derzeitigen Zustand an. Durch Berührungen sollten sich die Stockwerke verschieben lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Neben der Karte ist ein Bild einer menschlichen Gestalt aus gestrichelten Umrissen. Es leuchtet, wie die Bilder der Plattform, und wartet auf eine Eingabe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Das Bedienfeld ist repariert, aber leuchtet nur schwach. Die Tochter des Wandelnden Gottes hat die Kontrolle über diesen Raum übernommen. Die Funktionen des Bedienfeldes bezwecken nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Lass es.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Plattform mit der zu deiner Linken verbinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Mit einem Summen und Klappern verformen Pylonen, die aus der Tiefe empor- und herabsteigen, den Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Mit einem Summen und Klappern verformen Pylonen, die aus der Tiefe empor- und herabsteigen, den Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Dich gegen die Explosion abschirmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Dich nicht wehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du taumelst nach hinten, Energie knallt gegen deinen Geist wie eine körperliche Kraft. Aber deine Abwehr hält und du bleibst unversehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Explosion zerreißt deinen Geist wie eine Callerale. Dein Kopf brennt vor Schmerz, als versengende Bilder deine Sicht durchkreuzen.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du wirst mit enormer Kraft aus einem schwarzen Chitinrohr ausgestoßen. Die Erde ist weit, weit unter dir, aber kommt schnell näher. Plötzlich durchspießt ein Feuertentakel deinen Geist und alles wird schwarz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du krümmst dich auf einem obsidianen Boden. Mehrere Feuerwichte ragen über dir, strecken ihre Arme aus und entziehen dir schmerzhaft deine Lebenskräfte. Du flüchtest und überlässt deinen Körper deinem Schicksal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du stehst vor einem roten, seelenlosen Portal. Dein Geist *schmerzt* von den Qualen der aufgezehrten, gefolterten Geister, aber das war es wert. Wenn das Tor geöffnet ist, wirst du dich vor dem Kummer verstecken können.
+
+Du machst einen Schritt nach vorne und wirst sofort in die Knie gezwungen, als eine Präsenz deinen Geist *zerdrückt*. Es sind nicht nur die Seelen, die du gegessen hast, sondern etwas, das diese Seelen *benutzt*.
+
+Es ist zu viel. Es wird dich zerstören. Du lässt den Körper in dem endlosen Raum jenseits des Tores zurück. Du wirst einen anderen Weg finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du treibst durch die tiefe Nacht jenseits der Welt. Teile deiner Hülle schweben durch den Raum um dich herum, abgerissen durch die Klauen des schrecklichen Merhj.
+
+Du siehst hinunter, auf die Masken, die auf deiner Brust verteilt sind. Niemand kann dich retten, wenn sie zurückkehren. Dieser Körper war eine Verschwendung. Du verlässt ihn und kehrst zurück in die Neunte Welt.
+
+Als dein Bewusstsein sich aus deinem Körper erhebt, erkennst du die Masken wieder, die zu der Ersten gehören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du rennst durch die Wüste auf der Suche nach dem Dorf. Die Teratomorphen werden deinen Gerucht bereits erfasst haben. Es gibt keine Notwendigkeit für List.
+
+Deine Brust brennt mit jedem Atemzug, aber endlich erreichst du es, einen willkürlichen Haufen von Steinen und Strohhütten. Du rufst laut, aber sie sind leer. Wohin sind die Dorfbewohner verschwunden?
+
+Eine gewaltige Kraft schmettert dich auf den Boden. Du schreist auf vor Schmerz, als der Teratomorph deinen Rücken zerfetzt, als wäre er aus Papier. Dann bist du weg. Lass sie den Körper haben. Du wirst einen anderen finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du kämpfst gegen den gummiartigen Griff der Ghibra an. Mazzof wird neben dir getragen, entweder bewusstlos oder gleichgültig - es spielt keine Rolle.
+
+Sie verwenden ihre Kraftspeere, um euch zwei in die Zelle zu befördern und verriegeln die Tür.
+
+"Wie lange?", schreist du sie an. "Ihr habt uns nie unser Urteil mitgeteilt!"
+
+Ein Gesicht voller Lamellen stiert durch das Guckloch. "Es gibt kein Urteil, Luftatmer. Ihr werdet diesen Ort nie verlassen."
+
+Du flüchtest aus dem Körper ohne einen weiteren Gedanken. Du hast Besseres zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[You see Riastrad. Marked Should Not Play until/unless we implement Riastrad.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Auf das menschliche Abbild drücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Winzige Nadeln punktieren deine Finger. Ein Leuchten wandert von der kreisrunden Synthplatte zum nächsten Feld, und eine fingergroße Klinge in seiner Mitte beginnt, sich um seine eigene Achse zu drehen. Als es sich dreht, projiziert es ein dreidimensionales Bild, das dir sehr ähnlich sieht.
+
+Dein eigener Körper beginnt, zu flackern und seine Phase zu verlassen. Die Klinge dreht sich schneller und wird heller. Das Flackern deines Körpers wird schneller, bis sich die Klinge schließlich auflöst und auf der Plattform ein ausgewachsener Mensch steht, der dir erstaunlich ähnlich sieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Diesmal bereitest du dich vor. Die Nadeln punktieren deine Finger wieder, und die Klingen beginnen, sich zu drehen. Dein eigener Körper beginnt, zu flackern und seine Phase zu verlassen.
+
+Das ganze ist bald vorbei, und vor dir steht dein Klon, der dich beobachtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Etwas poltert in den Tiefen unter dir. Du fühlst einen Windstoß, dann nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Die Vision schwindet. Du kehrst in das Labor zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Die Stimme des Geistes donnert von unten herauf. "Es gibt keinen Grund dafür, dass das hier *leicht* für dich sein sollte."
+
+Du hörst ein wuchtiges Brüllen aus den Tiefen, und plötzlich ist dein Verstand von einem mächtigen Schwall an Gezeiten aufgewühlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Ein weiterer Ruf kommt von unten. Gezeiten krachen gegen deinen Verstand wie tödliche Wellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Du wirfst deine gesamte mentale Verteidigung dagegen, aber die Kraft der Explosion ist zu stark für dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Nichts passiert. Es scheint, dass immer jeweils nur ein Klon gemacht werden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Die Plattform mit der zu deiner Rechten verbinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Diese Plattform mit der auf der anderen Seite des Klafters verbinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

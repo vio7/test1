@@ -1,0 +1,2410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1151_calm_specter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>474</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Jetzt, da die Kammer kaputt ist... ich bin mir nicht sicher. Wir müssen jemanden finden, der sie reparieren kann. Die Kammer ist unsere einzige Hoffnung. Ohne sie..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Du musst diese Person namens Matkina finden. Sie weiß vielleicht nicht, wie man die Kammer repariert, aber sie ist die einzige Spur zu jemandem, der es kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Du *musst* Mazzof finden. Der Name ist uns im Gedächtnis geblieben. Ich bin *sicher*, dass er dir helfen kann, die Kammer zu reparieren. Und dann finden wir einen Ausweg aus diesem Schlamassel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Ich muss gestehen, dass ich dich so früh nicht zurückerwartet hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Ich habe die Resonanzkammer gefunden, aber sie ist kaputt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>{mutters}"Ja, hab's gesehen. {end muttering}Ich sehe nicht alles, was du da draußen in der Welt tust, aber *das* habe ich definitiv gesehen. Du musst einen Weg finden, um sie zu reparieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Worüber denkst du nach?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Warum bin ich wieder hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Bist du immer hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Wie komme ich diesmal zurück?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Wie komme ich noch mal zurück?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Was soll ich jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Kann ich irgendetwas tun, solange ich hier bin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Hat sich etwas verändert, seit ich das letzte Mal hier war?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Du bist gestorben. Ich meine, nicht *richtig*, aber es war verdammt knapp." Er beugt sich zu dir. "Du solltest da draußen vorsichtiger sein... um unser beider Willen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Er zuckt mit den Schultern.  "Wo sollte ich sonst sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Das Portal ist immer noch da. Ich wüsste nicht, warum es nicht ein zweites Mal funktionieren sollte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Benutze das Portal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Du meinst, außer den Varieténummern, Schnapsbrennereien und endlosen Abenteuern auf den verschlungenen Wegen deines Geistes?" Er stößt dich mit dem Ellbogen an. "Ha! Und wenn du *das* glaubst... "
+
+"Entschuldige. Aber es ist dein Geist. Hier gibt es nichts dergleichen. {mutters}Ich hab nachgesehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Er zuckt mit den Achseln. "Sieh dich um. Es ist *dein* Geist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Dennoch hast du eine Menge verändert. Es würde mich nicht überraschen, wenn irgendwann etwas hier auftaucht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Etwas an diesem Mann ist seltsam. Es dauert eine Weile, bist du weißt, was es ist: Seine Gedanken. Sie sind nicht hier. Oder besser gesagt, sie sind hier, aber nicht greifbar, eine Art weißes Rauschen, das in der Stille dieses Ortes untergeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Deine Gedanken sind ... unscharf. Warum kann ich sie nicht lesen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Warum kann ich deine Gedanken noch mal nicht lesen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Sein Ton ist trocken, aber sein Lächeln nimmt ihm ein wenig die Schärfe. "Ich vermute, es liegt daran, dass wir an einem Ort sind, der nur Gedanken ist. Ich bin ein reines Gedankenkonstrukt und unser Gespräch findet auf der Ebene der Gedanken statt. Hier ist kaum etwas real. Meine Gedanken zu lesen wäre, wie deine *eigenen* Gedanken zu lesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Weil ich Gedanke *bin*. Wie fast alles an diesem Ort bin ich ein Teil von dir. Vielleicht findest du hier ab und zu einen Gedanken, den du lesen kannst, aber es würde mich überraschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Ich habe gesehen, was passiert ist. Geht es dir gut? Das Ding hat dich beinahe umgebracht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Wo kam dieses Fragment her?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Wie komme ich wieder rein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Es war ein Splitter, den der Kummer zu einem früheren Zeitpunkt in deinen Geist eingesetzt hat. Pass auf. Es könnten noch mehr davon hier sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Er zuckt mit den Schultern. "Ich weiß nicht, ob du das überhaupt kannst. Zumindest nicht, solange du nicht mehr Macht über deinen Geist erlangt hast." Er legt eine geisterhafte Hand auf deine Schulter. "Keine Sorge. Wenn du wirklich da rein musst, wirst du einen Weg finden ... irgendwann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Sein Ton ist ernst. "Der Kummer scheint seine Kräfte zu sammeln. Besetzt Bereiche deines Geistes, um dich daran zu hindern, dein volles Potenzial auszuschöpfen. Ich weiß nicht, warum er dich nicht einfach vernichtet. Vielleicht sind die Fragmente dafür nicht stark genug... noch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Wie hat die Aktivierung der Uhr in der echten Welt diesen anderen Abgrund geöffnet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Wie öffnen sich die anderen Klafter noch mal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Wer weiß? Wahrscheinlich hat es etwas in deinem Geist ausgelöst, eine Brücke gebildet, die vorher nicht da war. Oder vielleicht *war* sie da, ging aber wieder verloren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Vielleicht. Du hast diesen Ort bereits sehr verändert. Mittlerweile würde mich nichts mehr überraschen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Er betrachtet dich aufmerksam. "Dein Erzeuger hatte viele Talente. Vermutlich empfängst du hängengebliebene Erinnerungen an seine Fähigkeiten und baust darauf auf."
+
+Er streicht sich über das Kinn. "Ich vermute, du könntest die Fähigkeiten ändern, die du empfängst, aber das wird vermutlich mit jedem Versuch schwieriger werden. Dein Körper gewöhnt sich nämlich daran, weißt du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Die Verbindungen zum Wissen deines Erzeugers sind immer noch irgendwo da drin. Du musst sie nur finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Was kannst du mir über die neuen Fähigkeiten sagen, die ich erworben habe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Erzähl mir noch mal von meinen neuen Fähigkeiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Ich bin froh, dass du hier bist. Weißt du noch, der Abgrund, aus dem dich der Kummer unsanft entfernt hat? Er hat sich geöffnet! Ich weiß nicht, was du da draußen gemacht hast, aber es hat funktioniert!"
+
+Er klopft dir auf die Schuler. "Jetzt musst du das Ding nur noch besiegen. Keine große Sache, oder? Oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Er sieht beunruhigt in eine Ecke der Stille. Dort ist ein neues Portal aufgetaucht, wo zuvor keines war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Weißt du, wer die Geisterfrau im Klafter ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Er schüttelt den Kopf.  "Über die weiß ich nichts. Dieser Weg ist versperrt."
+
+Er zuckt mit den Schultern.  "Eigentlich auch keine Überraschung. Schließlich ist es dein Geist, nicht meiner."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Vermutlich ist sie bloß eine Lakuna - ein Konstrukt deiner verborgenen Erinnerungen. Oder ein Abbild einer Person, die du im echten Leben getroffen hast. Doch egal, was oder wer sie ist, sie ist vermutlich nicht real. Du bist der Einzige, der das hier von sich behaupten kann." Er schmunzelt leise." Und ich im weitesten Sinne damit auch."</DefaultText>
+      <FemaleText>Vermutlich ist sie bloß eine Lakuna - ein Konstrukt deiner verborgenen Erinnerungen. Oder ein Abbild einer Person, die du im echten Leben getroffen hast. Doch egal, was oder wer sie ist, sie ist vermutlich nicht real. Du bist die Einzige, die das hier von sich behaupten kann." Er schmunzelt leise. "Und ich im weitesten Sinne damit auch."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Das war knapp. Zu knapp. Ich hätte nie gedacht, dass uns der Kummer so nahe kommen könnte. Dass er ... *hierher* kommen könnte. Nicht in deinem *Geist*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Den blauen Pfad wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Den roten Weg wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Den indigofarbenen Strom wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Den goldenen Gang wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Die silberne Route wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Im goldenen Licht kämpft ein sterbender Mann um sein Vermächtnis und darum, die Anforderungen seiner Zeit mit den Bedürfnissen der Bittsteller in Einklang zu bringen. Der silberne Schatten stapft durch eine vom Krieg geschundene Landschaft, voller Träume von Ruhm und Macht.
+
+Vor deinen Füßen führen leuchtende Pfade zu jedem bunten Riss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Er beugt sich zu dir und spricht eindringlich auf dich ein. "Nachdem der Kummer uns hier bereits einmal gefunden hat, müssen wir schnell sein. Also hör mir zu. Wir müssen ihn stoppen. Das heißt, du musst die Resonanzkammer aktivieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Wer bist du und was tust du hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Wer bist du noch mal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Wenn dieser Ort wirklich mein Geist ist, warum kann ich mich dann an das alles - an euch alle - nicht erinnern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Woher weißt du all das, was du mir hier sagst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Was ist eine Resonanzkammer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Ich erinnere mich an... Teile davon. Nicht an das Ganze. Es ist Glassarkophag. In der echten Welt ist er in einer Kristallkuppel irgendwo verborgen. Fünf mechanische Arme stehen um darum herum und im Boden ist ein Ring aus Metall eingelassen. Wenn du in der echten Welt die Augen öffnest, müsste der Sarkophag ganz in der Nähe sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Ich bin..." Er hält inne und sieht an sich herunter. Er überlegt lange, bevor er antwortet.  "Ich bin du. Ich bin ein Teil deines Geistes. Als der Kummer dich traf, hat er dich *zersplittert*. Ich bin ein Splitter. Ich habe hier auf dich gewartet. Instinktiv habe ich dich mit den Erinnerungen der anderen, die hier sind, hergerufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Ich bin du. Ein Teil, der von dir absplitterte, als der Kummer uns während deines Sturzes angriff."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"Es ist dein *Geist*. Ein Konstrukt, um... ich weiß nicht - Gedanken zu teilen? Dein wahres Ich aufzubewahren? Warte, du weißt doch, wie es heißt: 'ursprünglich'? Nun, das ist definitiv der Ursprung deiner Erinnerung.
+
+Zumindest für mich ist es das. Du weißt es vielleicht besser, immerhin ist es ja deins. Vielleicht kommt dir die Erinnerung auch erst später."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Ich hab dir gesagt, was ich weiß. Es ist dein Geist und du hast die Kontrolle darüber. Du musst herausfinden, wie du ihm seine Geheimnisse entlocken kannst. Ich weiß nicht, wie, aber ich denke, die Resonanzkammer kann das für uns erledigen. Sie wird uns vereinen, wieder vervollständigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Er zuckt mit den Schultern. "Du weißt, was ich weiß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Erzähl mir noch mal von diesem Ort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Was *ist* der Kummer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Das Ding, das hier war... der riesige Schatten... das war nur der kleinste Teil des Kummers. Du hast ihn gefühlt. Ihn gesehen. Er ist unser Tod. Mehr weiß ich auch nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Er hebt frustriert die Hände. "Ich bin nur ein Teil von dir. Ich sehe dich an und ich *weiß* Dinge. Dieser Ort wurde für dich - für uns - gemacht. Und ich erinnere mich bruchstückhaft an das Wissen über die Resonanzkammer. Aber... das ist alles. Öffne sie, benutze sie und ich fühle, dass dann alle unsere Fragen beantwortet werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Wie lautet also der Plan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Du wachst auf. Schau mal da. Siehst du diesen Riss im Raum?" 
+
+"Das ist ein Gezeitenriss. Weißt du noch, was ich über die Gezeiten gesagt habe? Wenn du durch dieses Portal steigst, erhältst du ein wenig von der Macht der Gezeiten. Theoretisch sollte dich dieser Gezeitenriss zurück in deinen Körper führen, in die reale Welt. Aber sei nicht beunruhigt, falls dir unterwegs etwas anderes begegnet. Du wirst wissen, was zu tun ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Du bist in einem lichtlosen Raum.  Farben leuchten flirrend um dich auf - Blau, Rot, Indigo, Gold und Silber. In den flackernden Schatten nehmen langsam Formen Gestalt an.
+
+Im blauen Dunst konsultiert ein Mann einen Datenwürfel und sucht Wissen in einem uralten Cenotaph. Im roten Dunst kämpft ein Mutant gegen Feinde, die ihren Durst nach Blut an seinem Volk stillen wollen. Der indigofarbene Schatten beugt sich vor und treibt sein Schiff an, die Wellen schneller zu durchpflügen. Er rast einem Urteil entgegen, das Rettung oder Untergang eines Volkes bedeuten wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Ich habe dir alles gesagt, was ich weiß. Bis du zur Resonanzkammer kommst, bin ich so blind wie du." Er deutet auf den Riss im Raum. "Geh durch dieses Portal, aktiviere die Kammer und wir sind geheilt. So einfach ist das."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Sie sind da drin", sagt er ängstlich. "Der Sieg über das erste Fragment hat den Weg geöffnet, aber ... da drin sind eine Menge von ihnen. Ich kann sie *spüren*. Sie ... sie laben sich an deinem Geist." Er lächelt dich nervös an. "Es wäre am besten, sie alle loszuwerden, aber ich weiß nicht, ob du das *kannst*. Du wirst stark sein müssen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Ich bin bereit. Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Viel Glück!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Wer bist du noch mal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"Ich bin du. Ein Teil von dir, der abgesplittert ist, als der Kummer uns angegriffen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"Erzähl mir noch mal von diesem Ort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Dein Geist." Er zuckt mit den Schultern. "Im Prinzip."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Wer sind diese Leute, die du Schatten genannt hast?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Wer sind diese Leute noch mal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Das sind sie einfach. Wie gesagt, dies ist dein Geist. Hier findest du Abbilder von Personen, die du einst kanntest. Menschen, die du in der realen Welt getroffen und mit denen du eine Art geistige Verbindung gehabt hast. Ich weiß nicht wie oder warum... so etwas *passiert* einfach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Es sind Erinnerungen an Personen, die du kanntest. Abbilder von Personen, die einen Eindruck hinterlassen haben oder mit denen du eine geistige Verbindung gehabt hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"Gut. Ich gehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Viel Glück."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Es sind Abbilder von Personen, die du kanntest. Die du in der realen Welt getroffen hast. Du kannst mit ihnen sprechen, wenn du willst. Sieh selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Es ist eine Erinnerung an jemanden, den du einst getroffen hast. Jemand, der dir im Gedächtnis geblieben ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"Wer ist da erschienen, nachdem ich das Portal aufgeschlossen habe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"Was ist noch mal ein Abbild?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Könnten sich auch andere Klafter auf diese Weise öffnen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"Gelegentlich können Dinge, die du in der realen Welt tust, Verbindungen oder Brücken schaffen, die du verloren hast oder nie hattest. Diese Brücken zeigen sich dann hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"Du ... hm, du siehst wesentlich ausgeruhter aus als gewöhnlich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Bin ich froh, dass *du* durch die Tür gekommen bist. Das Ding... war auf einmal da. Ich wusste nicht, *was* mich erwartet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Alles an dieser geisterhaften Figur wirkt wie im Traum. Seine schemenhafte Silhouette scheint aus blauem, glasigen Dunst zu bestehen. Er trägt stilvolle, gut geschnittene Kleider. Sein attraktives, bärtiges Gesicht wirkt dir unheimlich vertraut, obwohl du ihn noch nie gesehen hast.
+
+Als er dich sieht, seufzt er erleichtert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>"Bei den Göttern, es ist der Kummer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"Dieses Abbild neben dir - töte es! Damit lockerst du den Griff des Kummers hier!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Jetzt lauf! Erledige den nächsten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Nein, nein! Wir können uns keine Fehlschläge erlauben! Beim nächsten Mal musst du treffen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Töte den letzten! Verhindere, dass der Kummer sich hier festsetzt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Der Kummer hat sich an diesen Abbildern festgesetzt! Er verschlingt ihre Kraft!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Wir müssen sie loswerden - sie töten! Zerstöre seine Verankerungen hier oder der Kummer wird uns für immer auslöschen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Ich kann nicht glauben, dass du den Kummer loswerden konntest. Mit etwas Glück ermöglicht uns das, zur Resonanzkammer zu kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Er... er hat dein Leben verschont? Das verstehe ich nicht, und ich weiß nicht, wohin seine Fragmente verschwunden sind, aber in der realen Welt wird er uns so lange jagen, bis du die Kammer aktiviert hast." Er schüttelt den Kopf.  "Diese Dinge werden weiter wachsen, das weiß ich. Wie ein Krebs. Ein Geschwür. Du *musst* zur Resonanzkammer, bevor es zu spät ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Was meinst du mit 'mit den Gezeiten abgestimmt'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Ich weiß, du hast eine Menge Fragen. Du musst wissen, dass wir nicht wirklich real sind. Ich bin ein Teil deines Geistes, ein Splitter. Und die anderen? Sie sind... nun, sie sind deine Erinnerungen. Dieser ganze Ort hier besteht aus Ablagerungen in deiner Psyche. Draußen in der realen Welt erholt sich dein Körper gerade von deinem Sturz. Du musst da raus, damit du den Vorgang beenden und vollständig heilen kannst." 
+
+Er zuckt mit den Schultern. "Das ist jedoch ein wenig komplizierter als ein bloßes Aufwachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"Wie sieht der Plan aus? Was muss ich tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"Gezeiten sind wie eine... Grundkraft. Wie Gravitation oder Magnetismus, nur, dass sie auf die Handlungen und Wahrnehmungen von Personen reagieren. Dein Körper - also dein Körper in der realen Welt - braucht die Gezeiten, um zu überleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Dort unten gibt es ein Gezeitenportal, das dich zurück zu deinem Körper bringen wird. Steige einfach durch und der Rest des Heilungsvorgangs sollte von selbst ablaufen. Wenn du in der realen Welt aufgewacht bist, finde die Resonanzkammer, aktiviere sie und wir können... was um alle Höllen war das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"Wer *bist* du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>"Wer bist du noch mal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Ich bin..." Er hält inne und sieht an sich herunter. Er überlegt lange, bevor er antwortet.  "Ich bin du. Ich bin ein Teil deines Geistes. Ich bin ein Splitter. Ich habe hier auf dich gewartet. Wir haben dich mit den Erinnerungen der anderen, die hier sind, hergerufen. Ich... weiß nicht, was danach passiert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Ein abgesplitterter Teil deines Geistes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>Follow-up PQ. 421</DefaultText>
+      <FemaleText>Follow-up PQ. 421</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>Follow-up T. 424</DefaultText>
+      <FemaleText>Follow-up T. 424</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"Das sind sie auch. Wie gesagt, dies ist dein Geist. Hier findest du Abbilder von Personen, die du einst kanntest. Menschen, die du in der realen Welt getroffen und mit denen du eine Art geistige Verbindung gehabt hast. Ich weiß nicht wie oder warum... so etwas *passiert* einfach."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Es ist eine Erinnerung an jemanden, den du einst getroffen hast. Jemand, der dir im Gedächtnis geblieben ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"Die Leute, die der Kummer angegriffen hat... du hast sie Schatten und Abbilder genannt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"Was ist ein Abbild noch mal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>Es ist dein *Geist*. Ein Konstrukt, um... ich weiß nicht - Gedanken zu teilen? Warte, du weißt doch, wie es heißt: 'ursprünglich'? Nun, das ist definitiv der Ursprung."
+
+"Zumindest für mich ist es das. Du weißt es vielleicht besser, immerhin ist es ja deins. Vielleicht kommt dir die Erinnerung auch erst später."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"Ich habe dir alles erzählt, was ich weiß. Es ist dein Geist und du hast die Kontrolle darüber. Du musst herausfinden, wie du ihm seine Geheimnisse entlocken kannst. Ich weiß nicht, wie, aber ich denke, die Resonanzkammer kann das für uns erledigen. Sie wird uns vereinen, wieder vervollständigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>Er zuckt mit den Achseln. "Du weißt, was ich weiß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Was ist dieser Ort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Wenn dies mein Geist ist, warum kann ich mich dann nicht an diesen Ort erinnern?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"Erzähl mir noch mal von diesem Ort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>"Was zum - es entkommt! Es will sich in deinem Geist verstecken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"Wir waren nicht sicher, ob es funktionieren würde. Wir haben unsere Kräfte vereint und durch mich kanalisiert, um dich zu erreichen... um dich zu wecken."
+
+Er wirft einen Blick auf die anderen Figuren hier und macht ein unglückliches Gesicht. "Die Anstrengung hat ihnen mehr abverlangt, als wir dachten. Sie sind nun nicht mal mehr Abbilder. Nur noch Schatten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"Du hast gesagt, der Vorgang ist kompliziert. Was muss ich tun, um meinen Körper zu heilen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"Was muss ich noch mal tun, um meinen Körper zu heilen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"Zunächst musst du aus diesem Traumzustand erwachen. Vermutlich bist du ganz in der Nähe der Resonanzkammer aufgeprallt. Klettere einfach in die Kammer, stimme dich mit den Gezeiten ab und alles müsste gut sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Geh in die Resonanzkammer und stimme dich mit den Gezeiten ab. Dein Körper sollte dann den Rest erledigen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"Bevor ich dich traf, hatte ich das Gefühl, von etwas *gejagt* zu werden. Weißt du, was es war?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>Er schließt die Augen. "Das... ist eine Erinnerung, die ich gerne verdrängen würde. Riesig, schwarz, zornig... eine Infektion, ein Geschwür. Es ist unser Tod. Es ist... der Kummer."
+
+Er schließt die Augen.  "Ich hoffe, er hat das Interesse an dir verloren. Wenn er uns findet, wird er uns vernichten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"Woher weißt du all das, was du mir hier sagst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>Er hebt frustriert die Hände. "Ich bin nur ein Teil von dir. Ich sehe dich an und ich *weiß* Dinge. Dieser Ort wurde für dich - für uns - gemacht. Und wenn du mir Fragen stellst, erinnere ich mich bruchstückhaft an früheres Wissen. Aber... das ist alles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"Du hast es geschafft! Der ganze Ort fühlt sich ... ich weiß nicht, *heller* an. Aber werde jetzt nicht übermütig. In der realen Welt kann der Kummer dich immer noch töten. Finde Mazzof, bevor das passiert!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"Geht es dir gut?" Er schaut zum Portal hinauf zum Klafter, in das du das Fragment fandest. "Das ist komisch. Es ist stark genug, dich aus dem Klafter zu werfen, hat dich aber nicht getötet. Schon wieder."
+
+Er schaut zu dir zurück. "Ich schätze, es hat keinen Zweck, ein Geschenk abzuschätzen. Genieße die Tatsache, dass du noch lebst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"Es hat dich aus dem Teil deines Verstandes herausgeschlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"Es ist aber alles halb so schlimm. Wir haben Wichtigeres zu tun, stimmt's? Zum Beispiel diese Kammer repariert bekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Er hält seinen Kopf in seinen Händen. "Ich kann nicht glauben, dass er uns gefunden hat... *hier* drin."
+
+Er blickt dich mit schreckenerfüllten Augen an. "Diese Sache - der Kummer - er hat dich gejagt. Er ist, was dich überhaupt erstmal getötet hat! Er wird dich *weiter* jagen, bis du die Resonanzkammer aktivierst. Ich konnte... ich konnte mich nicht erinnern, bis ich es sah, aber *das* ist, warum die Kammer so wichtig ist. Du musst zurückkehren und die Kammer aktivieren, bevor es zu spät ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"Das Portal zu deinem Körper ist diese schimmernde Kuppel dort. Geh! Sofort!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"Finde Mazzof. Er sollte die Antworten haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Diese Matkina ist unsere beste Spur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>"Wir müssen jemanden finden, der die Kammer reparieren kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Als du den Uhr-Klafter verlässt, bemerkst du ein neues Portal, wo zuvor nichts war.
+
+Dahinter befinden sich weitere Scherben – du spürst, wie sie an deinem Geist nagen, wie sie verhindern, dass du dein volles Potenzial ausschöpfst. Dagegen muss etwas getan werden, aber nur, wenn du stark genug bist, um es mit mehr von ihnen aufzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"Was passiert jetzt? Er ... infiziert es irgendwie!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"Skist. Das Spiegelbild ist irgendwie geschützt. Du musst es noch stärker treffen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>"Nimm den Splitter Spiegelglas! Es könnte noch genug Restenergie haben, um das Spiegelbild zu töten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

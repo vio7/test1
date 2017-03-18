@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_ancient_shield_generator</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese Maschine ragt empor wie ein von einem Riesen in den Boden gerammter Dolch. Sie wirkt wesentlich älter als die umliegenden Gebäude. 
+
+Es juckt dich in den Händen, die rund um die Maschine angeordneten dunklen Konsolen zu berühren ... fast so, als würden sie sie bereits kennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der rostige Monolith steht da, wo du ihn zurückgelassen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du fährst mit den Händen über die geflickschusterten Teile und schmierigen Kabel. Die abgenutzten Knöpfe. Eine seltsame Konstruktion - unbeholfen, und doch elegant. Amateurhaft und gleichzeitig ein Meisterwerk. Nur ein Genie kann so viele verschiedene Teile zu einem funktionalen Apparat zusammenbauen. 
+
+Unbekannte Erinnerungen flüstern zu dir. Dieser Apparat konnte- du weißt nicht genau wie -  ein Feld erzeugen, das alles in seinem Inneren aus der Zeit selbst herauszulösen vermochte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Erinnern versuchen, warum diese Maschine so vertraut scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Erneut erinnern versuchen, warum diese Maschine so vertraut scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du schließt die Augen, um dich besser konzentrieren zu können, und versinkst in einer Erinnerung, die nicht deine ist - oder zumindest nicht die des Körpers, in dem du dich jetzt befindest ... und hörst den donnernden Puls des Generators im Betrieb, der über die Jahrhunderte hinweg zu dir ruft. 
+
+{SOUND: Slow, deep, bassy THUMMING}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Erinnerung zeigt dir immer wieder kurze Bilder der zerlegten Maschine ... aber an mehr kannst du dich nicht erinnern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Eine der Konsolen rund um die turmhohe Maschine scheint aktiv zu sein. Durch Schichten von Schmutz und Rost blinkt ein schwaches Licht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die funktionale Konsole benutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Teleportationskonsole benutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du drückst einen Knopf unter dem flackernden Licht und fühlst einen seltsamen Schmerz unterhalb des Nabels. Es fühlt sich an, als hätte jemand einen Haken in dein Fleisch gehauen, an dem von drei sehr langen Seilen gezogen wird. 
+
+Ein Seil zieht dich in Richtung der oberen Klippen von Sagus. Ein anderes zieht dich zum Gipfel der Stadt. Und das dritte - das sich fast gespannt anfühlt - führt in einer unsichtbaren Linie zurück zu Karawanserei, wo sich die Teleportationssteuerung befand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der unsichtbare Haken hängt sich unter deinem Nabel ein und zieht dich in drei verschiedene Richtungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du trittst zurück. Das unangenehme Gefühl verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das unsichtbare Seil zieht dich in die Dunkelheit hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Zu den Klippen reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Zum Gipfel der Stadt reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Die Konsole vorerst sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Deine Finger fahren über eine raue Stelle. Als du sie wegnimmst, siehst du ein Knospenlagensymbol, eingeritzt wie das Zeichen eines Meisters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>... dasselbe Symbol wie auf der Uhr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Den Apparat untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Den Apparat erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Dieser einst funktionale Generator besteht aus einem Haufen schlecht zusammenpassender Teile. Erneut bemerkst du ein Knospenlagensymbol, eingeritzt wie das Zeichen eines Meisters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Den Generator sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du wirst das Gefühl nicht los, dass du einst bereits im Schatten dieser Maschine gestanden hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Nach Karawanserei reisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Das unsichtbare Seil zieht dich in die Dunkelheit hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Du öffnest kalte Augen, den Blick konzentriert, ignorierst die Schreie, den aufsteigenden schwarzen Rauch. Deine ganze Aufmerksamkeit gilt dem Puls der Maschine. 
+
+Du greifst in das zischende Innere des Generators, ordnest Teile neu an, optimierst. Hoffst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Der Puls verschwindet in der Vergangenheit. Deine Hand - die deines aktuellen Körpers - liegt auf der verrosteten Oberfläche eines seit Langem kaputten Generators.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Das Zeichen des Meisters näher ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Du fährst mit der Hand über das gewundene Siegel. Du bemerkst eine lose Platte. Du fährst mit den Fingerkuppen unter den Rand und öffnest die Platte.
+
+Dahinter wartet Dunkelheit. Mit Mühe kannst du einen Haufen verstreuter Teile erkennen. Eines davon erregt deine Aufmerksamkeit: Ein Gitter aus Synth. Die Löcher im Gitter haben eine seltsame Wirkung auf die Luft. Als würden sie sie filtern.
+
+Es trägt dasselbe Zeichen wie die Uhren-Steuerungsvorrichtung. Vielleicht kann es bei der Reparatur dieses Apparats nützlich sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

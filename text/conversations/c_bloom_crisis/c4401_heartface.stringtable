@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_heartface</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fettige, graue Röhren transportieren eine dünne, ranzige Flüssigkeit in die hügelige Wand des Herzens. Ein riesiger Muskel zieht sich zusammen und pulsiert, als würde er durch einen gottgleichen Willensakt geschlossen gehalten werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lass den Schließmuskel in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du drückst deine Arme hinein, massierst und ziehst. Die Muskeln dehnen sich aus, während du in ihnen herumwühlst. Schließlich beginnen die Fasern nachzugeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du dringst mit deinen Händen in den gigantischen Muskel ein, aber er widersteht dir, und du kannst seine Fasern nicht öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der massive Muskel windet sich und zieht sich zusammen. Er gibt den Weg in das Innere des Herzens der Flor nicht frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Der Eingang liegt offen, und seine Hautfalten flattern wie ein Vorhang im Wind. Das Herz der Flor pulsiert, als würde es dich einladen, den Bereich hinter den herunterhängenden Hautlappen zu erkunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Schneide den Schlund mit dem Transdimensionalen Skalpell auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du schneidest mit dem Skalpell durch die Muskeln, die das Herz schützen. Sie werden entzwei geteilt und fallen ab. Giftige Flüssigkeiten werden von der Wunde abgesondert, und das Pulsieren des Herzens wird rasend schnell, als wäre es in Panik geraten ...
+
+Du schneidest genug frei, um hindurchkriechen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du hast die Muskeln, die das Herz der Flor beschützen, beschädigt und an einigen Stellen zerrissen. Ein paar mehr Hiebe sollten den Weg öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Deine Angriffe auf die schützenden Muskeln scheint Wirkung zu zeigen. Sie sehen lädiert aus und sondern Flüssigkeiten ab. Trotzdem geben sie nicht nach. Noch nicht. Ein paar weitere Angriffe sollten eine Öffnung freilegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Versuchen, die Muskeln aufzustemmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Erneut versuchen, den Schließmuskel zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du spürst, wie die Muskeln nachgeben und hast genug Zeit, zur Seite zu gehen. Unter einer Fontäne aus Gewebeflüssigkeit und anderen, weniger appetitlichen Flüssigkeiten geben sie schließlich nach. Die Stimmen der Flor zischen und kreischen vor Wut.
+
+Der Pfad ins Herz der Flor liegt nun offen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Versuchen, die Muskeln zu entspannen, die den Zugang versperren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Erneut versuchen, die Muskeln zu entspannen, die den Zugang versperren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Durch die Erinnerung an das Wissen deines Erzeugers um Anatomie weißt du, dass physiologische Strukturen wie diese üblicherweise nicht über antagonistische Muskeln verfügen, die sich der Bewegung widersetzen. Daraus schließt du, dass dieser Zustand der Kontraktion andauern wird, wenn du keinen Weg finden kannst, sie zu entspannen. Du machst dich daran, die Muskeln zu massieren, und kannst beobachten, wie sie sich allmählich entspannen. Schließlich erschlaffen sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du drückst und ziehst an den Muskeln, aber du kannst einfach keinen geeigneten Druckpunkt finden, der die Kontraktion lösen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Versuchen, einen der Kanäle zu lösen, die mit dem Muskel verbunden sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Erneut versuchen, einen der Kanäle zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du stehst auf einer der Venen und drückst fest zu. Die Wände des Kanals wölben und spannen sich, woraufhin du noch fester zudrückst, bis eine Welle an Flüssigkeit durch den Kanal schießt. Schließlich reißt die elastische Haut des Kanals, und eine gelbe Flüssigkeit spritzt heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du stehst auf einer der Venen und drückst fest zu ... aber kommst gegen den Druck der Flüssigkeit nicht an. Ein plötzlicher Schub wirft dich aus dem Gleichgewicht und du stolperst von der Vene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Die Beherrschung der Zungen im ganzen Raum scheint deinen Geruch zu tarnen ... oder machte dein Eindringen schmackhafter. Was auch immer dazu geführt haben mag; die dicke Haut vor dem Herz verschwindet nach und nach, wenn auch fast zögerlich, und ihre Flüssigkeiten werden von einer seltsamen anatomischen Funktion ausgepumpt. Die Haut hängt herunter wie ein Vorhang aus glitschigem Fleisch, und von tief drinnen hörst du das Pulsieren des Herzens der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Hineinkrabbeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Das Pulsieren des großen Muskels hat sich sichtbar verlangsamt, auch wenn du nicht genau weißt, warum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Der Schließmuskel in der Wand hat sich ein bisschen gelockert. Die anderen Muskeln pulsieren noch immer, aber weniger wild als zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Deine Kontrolle über die Flor-Zungen in dieser Kammer scheint das Pulsieren der Muskeln in den Wänden abgeschwächt zu haben. Ihre Kontraktionen haben sich verlangsamt, und die Wände des großen Schließmuskels kommen dir *dünner* vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du kannst nicht richtig Fuß fassen, und die nächste Welle an Flüssigkeiten, die durch die Vene gepumpt wird, bringt dich aus dem Gleichgewicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Bedauerlicherweise reicht es nicht. Du musst den Schließmuskel noch weiter schwächen, bevor er sich öffnen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

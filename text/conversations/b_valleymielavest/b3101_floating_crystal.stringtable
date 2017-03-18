@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_floating_crystal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein großer Kristall schwebt vor dir, scheinbar unberührt von dem Wind, der durch das Tal pfeift. In dem Kristall siehst du rote und blaue Formen, die langsam umeinander kreisen und sich immer wieder verbiegen.
+ 
+Der Kristall summt leise, beinahe einladend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Der Kristall dreht sich wie verrückt und zieht deinen Geist in eine Erinnerung hinein - keine von dir. Das ist das Leben eines Fremden.
+ 
+Ein Leben voller Qual. Lebenslange Qual. Von dem Moment an, als er das Bewusstsein erlangte, war er von Monstern umgeben. Ein Opfer für das Unsichtbare. Nur Haaresbreite von der gewöhnlichen Realität entfernt kriechen und kreischen Ungeheuer, und er muss mit ihnen heulen oder er wird von ihnen verschlungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Als er endlich die Chance hat, ein Tor in die normale Welt zu öffnen und dem endlosen Schmerz zu entkommen, tut er es... und schreitet mitten in ein Schlachthaus hinein. Vermummte Kultisten verschlingen die Toten und verehren ihn für die Reise, die er gemacht hat.
+ 
+In ihrer Bewunderung streben sie danach, in seinen Fußstapfen zu wandeln, suhlen sich in ihrer eigenen Scham und Agonie, eine endlose Groteske des Schreckens, von der sie hoffen, dass sie in Transzendenz enden wird. Er flieht vor ihnen, vor einer dunkleren Bedrohung in seinem Inneren, doch sie folgen ihm unaufhaltsam. Seine "Kinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Der Kristall ist so, wie du ihn zuletzt gesehen hast ... hell leuchtend, mit wirbelnden roten und blauen Formen in seinem Inneren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Den Kristall verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Vision spielt sich erneut vor deinen Augen ab, wie beim letzten Mal. Die Szenen der Misshandlungen und des Schreckens brennen sich dir ins Gehirn ein. Der Name "Choi" erschallt in deinem Geist und dann wirst du wieder in die bewusste Welt zurückgeworfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Er wurde mit Gezeitenenergie versehen: seine Farben sind symbolisch und du spürst die kraftvollen Ranken, die sich von ihm aus einem unbekannten fernen Ziel entgegenstrecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Egal, wo er sich auch versteckt, sie warten schon auf der anderen Seite der Tür, hoffen auf eine neue Offenbarung und bieten ihm ihre blutenden Körper als Opfer dar.
+ 
+ Und dann bringt ihm einer eine neue Art von Opfer: Einen bluttriefenden Leichensack, aus dem ein Mädchen herausfällt. "Choi", nennt der Mann sie. Sie ist gerade noch lange genug am Leben, um ihn mit flehenden Augen anzusehen, bevor sie abgeschlachtet wird. "Für Euch", sagt der Mann.
+ 
+ Er flieht - in die Höllenlandschaft, in den Wahnsinn - aber sie folgen ihm überallhin. Grinsend, blutig, ergeben. "Kinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Der wirbelnde Kern des Kristalls bleibt schwarz und zähflüssig wie Teer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Der Kristall hat sich verändert: Sein Leuchten ist verschwunden, ebenso wie der lebhafte Tanz der Farben in seinem Inneren. Sein sich langsam bewegendes Herz ist pechschwarz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Deine Gezeitenfarben wirbeln im Inneren des Kristalles. Was auch immer er von dir genommen hat, es hat sein Herz neu zu neuem Leben erweckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du siehst durch Iniferes Augen, wie er durch das zerstörte Land jenseits des Tals der toten Helden stolpert. Schon wieder verfolgen ihn die Kinder - Scavrows, die sich niemals abschütteln lassen.
+ 
+Seine Füße schmerzen - das Verstecken hinter dem Tor hat ihn verweichlicht. Er hat blutige Schnitte an den Waden, wo er auf den Schiefer gestürzt ist. Er bekommt kaum Luft und ihm dreht sich alles.
+ 
+Aber ein Blick auf die Kinder hinter ihm reicht aus, um ihn weiter anzutreiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die Vision ist dieselbe: der gebrochene, zerschundene Mann, der durch eine gebrochene, zerschundene Landschaft stapft. Hier im Kristall, wie vielleicht auch in der Welt draußen, findet dieser Marsch niemals ein Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du kannst nicht erahnen, was ihm durch den Kopf geht: dies ist kein Lebensbild. Du weißt nicht, ob es Sturheit ist, die ihn weitergehen lässt, oder Angst, oder Hoffnung, oder der Versuch, seine blutrünstigen Anhänger vom Tal wegzulocken. 
+ 
+Vielleicht ist es eine Mischung aus allem. Doch das Innere des Mannes liegt ebenso im Dunklen wie das Ziel seiner Reise - vielleicht sogar vor ihm selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Dein Geist erwacht in Dunkelheit. Beißende Kälte krallt sich in einen ... vertrauten Körper. Die Kälte ist weit weg, und das Heulen um dich herum noch weiter.
+ 
+Das ist deine Erinnerung, gesehen mit deinen eigenen Augen. Aber nun hast du Abstand dazu - du bist nicht mehr neu geboren und verwirrt. Du siehst es nun, wie es *wirklich* passiert ist - ohne Furcht, Neugier oder Ungeduld. Und ohne dass du eingreifen könntest - du bist nur ein Beobachter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Du siehst deine Geburt noch einmal: Den Fall, die Verwirrung, die Angst, die seltsame Präsenz über und in dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Als du in den Kristall starrst, fühlst du plötzlich etwas aus seinem Inneren nach dir greifen. Nein, nicht *etwas*. Das pure *Nichts* greift nach dir - eine Leere, die nicht bleiben kann, die unbedingt gefüllt werden muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Erneut scheint der Kristall deinen Geist anzuziehen, wie ein Vakuum, das gefüllt werden muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du fühlst, wie du mit den Fingern, Zehen und Hüften wackelst. Du beobachtest deine eigene Angst: Angst vor dem Fall, Angst vor dem Vergessen, Angst vor dem Leben selbst, und seiner Fragilität. Auch wenn es natürlich nicht ganz so fragil ist, wie es zunächst schien.
+ 
+ Du siehst und hörst, wie der Kokon, der dich geschützt hat, von dir abfällt. Anstatt Angst fühlst du jetzt jedoch pure Euphorie angesichts der Welt, die du aus so großer Höhe bewundern kannst. Du weißt, wie das enden wird. Nicht unbedingt komfortabel, aber auch nicht so übel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Deinen Geist öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Dich zurückziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du machst einen Schritt zurück und das Gefühl, dass an deinem Geist gezogen wird, verschwindet sofort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Der Druck steigt und steigt, so als würde dein Geist in deinem Schädel immer weiter anschwellen, als suche er verzweifelt ein Ventil, einen Spalt, um zu entkommen. Aus Druck wird Schmerz; aus Schmerz Agonie.
+ 
+Du stolperst zurück, hältst dir den Kopf.
+ 
+*Etwas* wird nachgeben müssen. Etwas muss gegeben und etwas muss genommen werden. Schließlich bricht der Kristall durch, überwindet die Barriere, die deinen sich ausweitenden Geist gefangen hält. Ein Stück von ihm entkommt und der Druck und die Agonie lassen nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Dann ist da etwas anderes. Du bist nicht der einzige Beobachter hier. Da ist noch etwas. *Noch eine* Präsenz. Teil der Erinnerung selbst. Nicht neugierig wie du. Wütend. Wütend darüber, betrogen worden zu sein, und gierig nach diesem Körper.
+ 
+Es fühlt sich nicht wie der Kummer an. Andererseits ist der Kummer wandelbar und undurchdringlich. Was immer es auch sein mag, ist es dir sicher nicht freundlich gesinnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Im Gegensatz zu einem Traum wachst du diesmal leider erst auf, nachdem du auf den Boden geknallt bist. Und dann ist die Erinnerung zu Ende.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Den Kristall untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Den Kristall erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Dann dreht sich der Kristall wieder vor deinen Augen und die Erinnerung verblasst. Doch etwas bleibt kleben, wie ranziges Fett in einer Pfanne.
+ 
+ Das Entsetzen darüber, was dem Mädchen Choi angetan wurde, kannst du nicht abschütteln. Es ist nun ebenso sehr deine Erinnerung wie die des Mannes. Und sein Leiden bleibt ebenfalls hängen. 
+ 
+ Die Kultisten, die ihn bedrängten, scheinen dieselben zu sein, die nun dieses Tal unsicher machen. Indem du die verworrenen Stränge dieses Kristalls entwirrst, kannst du vielleicht einige ihrer Geheimnisse lüften.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

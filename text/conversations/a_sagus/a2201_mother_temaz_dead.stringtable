@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_mother_temaz_dead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mutter Temaz ist nicht mehr. Ihr Schicksal ist kein Rätsel. Über den Rand der Klippe siehst du die Ruinen ihres Hauses und die Streifen blutiger Finger, die den Fels gegriffen hatten. Sie ist zusammen mit ihrem Heim in das weite Meer gestürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Durchsuche die Trümmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Geh weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>In einer kleinen Zisterne aus Stein auf dem zerstörten Dach findest du eine lange Kette mit merkwürdig aussehenden Perlen – die gleichen Perlen, die Mutter Temaz in ihren Händen hielt, als du sie das letzte Mal gesehen hattest. Du steckst sie ein und trittst vom Rand zurück. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du untersuchst die Ruinen dieses Hauses, doch findest nichts mehr von Wert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du lugst über den Rand der Klippe und siehst die Ruinen eines Hauses sowie die Streifen blutiger Finger, die den Fels gegriffen hatten. Wer auch immer hier gelebt hat, ist zusammen mit seinem Heim ins Meer gestürzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Ruinen des Hauses auf der Klippe liegen unter dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Es ist jedoch möglich, dass sie etwas von ihren Wertgegenständen zurückgelassen haben. Und sie werden sicher nicht dafür zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Es ist möglich, dass die Hebamme einen Teil ihrer Wertsachen zurückgelassen hat, und sie wird sicher nicht dafür zurückkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>In einer kleinen Zisterne aus Stein auf dem zerstörten Dach findest du eine lange Kette mit merkwürdig aussehenden Perlen. Du steckst sie ein und trittst vom Rand zurück. 
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

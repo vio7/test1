@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4301_broken_lascar_helm</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du untersuchst den Helm genauer. Unter der Schmutzkruste glänzt eine mit in diesem Zeitalter unerreichter Kunstfertigkeit gearbeitete Oberfläche. Seine Zier scheint eine Reihe dunkler schwarzer Zellen zu enthalten, die das Licht einfangen. Filigrane Muster in den Zellen sehen so aus, als würden sie Energie sammeln oder verstreuen. Es sieht aus, als ob du ihn aufsetzen könntest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Den Helm aufsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Den Helm weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du untersuchst den Helm genauer. Unter der Schmutzkruste glänzt eine mit in diesem Zeitalter unerreichter Kunstfertigkeit gearbeitete Oberfläche. Seine Zier scheint eine Reihe dunkler schwarzer Zellen zu enthalten, die das Licht einfangen. Filigrane Muster in den Zellen sehen so aus, als würden sie Energie sammeln oder verstreuen. Es sieht aus, als ob du ihn aufsetzen könntest.
+
+Aus seinem Inneren spricht eine weibliche Stimme leise in einer fremden Sprache, die melodisch und harsch zugleich klingt, zu dir. Nach einigen Augenblicken legt sie eine kurze Pause ein und spricht dann weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Obwohl die Worte in der Sprache der Wahrheit gesprochen werden, sind sie seltsam betont ... und erfüllt von wachsender Besorgnis. Während du die Worte hörst, kannst du dir die letzten Augenblicke im Leben der Sprecherin zusammenreimen: Wie sie einen Fremden – oder eine Gruppe Fremder – begrüßt und dann ihre mörderischen Absichten erkennt. Mit gebrochenem Schädel verblutete sie langsam, versteckt in einem der Müllberge der Flor. Kein Wunder, dass bis heute niemand diesen Helm gefunden hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Das Innere des Helms ist dunkel und gepolstert. Du siehst einige schwach leuchtende Knötchen und weiche Synth-Fasern, aber keine erkennbaren Sehschlitze und kein Atemgerät. Darüber hinaus hat sich in dem Helm wohl seit Jahrzehnten verfaulender Müll und Schmutz angesammelt. Als du die feuchte Masse aus dem Helm schaufelst, entdeckst du Knochenstücke – möglicherweise die der früheren Eigentümerin des Helms. 
+
+Du reinigst den Helm, so gut du kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der Helm wurde offensichtlich für eine ganz bestimmte Person maßgefertigt, doch mit ein wenig Zerren und Ziehen bekommst du ihn auf deinen Kopf. Der Gestank von Verwesung und dem angesammelten Schmutz der Flor steigt dir in die Nase.
+
+Im Helm ist es stockdunkel. Auf den ersten Blick kannst du weder Sehschlitze, noch ein Atemgerät erkennen. Doch nach ein paar Sekunden beginnt im Winkel deines Blickfelds ein kleines Licht zu blinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du hebst den Helm hoch. Als du ihn aufsetzt, ergießt sich eine ekelerregende organische Masse über deinen Kopf, unmittelbar gefolgt von etwas Kalkhaltigem.
+
+Du nimmst den Helm hastig wieder ab und wischt dir das eklige Zeug aus dem Haar. Du siehst, dass am Innenfutter des Helms noch Reste des zertrümmerten Schädels der Vorbesitzerin kleben und dass die Säfte des Müllhaufens in den Helm gesickert sind.
+
+Du reinigst den Helm, so gut du kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Follow-up PQ. 11</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Den Helm erneut aufsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du setzt den Helm erneut auf und aktivierst seine Anzeige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Das helle Symbol ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Den Helm abnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Bilder der Flor ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Als du den Helm hochhebst, geht das Symbol aus und sein Inneres ist wieder dunkel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ein Raster kleinerer Bilder wird angezeigt: Die Flor, Bilder des nächtlichen Sternenhimmels und Bilder verschiedener Leute.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Bilder des Nachthimmels ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Bilder der Leute ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Unter den vielen Bildern hier siehst du einige, die Orte zeigen, an denen du bereits warst, obwohl sich einige Details verändert haben. Du vermutest, dass Jahre vergangen sind, seit diese Aufnahmen gemacht wurden.
+
+Das erste Bild zeigt die gewaltige innere Kammer, ihre Wege und Ranken, die sich über leere Räume erstrecken. Du siehst aus der Tiefe hochsteigende faule Gase, eine Reihe von Geschäften und Wohnhäusern und die Stränge durchwandernde Aneen, die Karawanen ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die letzten Bilder in dieser Sammlung zeigen Klein-Nihliesh ... aber nicht so, wie du es kennst. Die meisten Leute auf den Bildern sind gewöhnliche Menschen. Von Gar-kotos großem Tank ist nichts zu sehen. Die Müllhaufen sind kleiner und die alten steinernen Gebäude noch bewohnt. Obwohl auch hier schon der Hauch von Elend und Verfall über dem Ort liegt und du den Müll beinahe riechen kannst, ist es dennoch fast idyllisch im Vergleich zur gegenwärtigen Realität. Diese Bilder müssen mindestens zehn Jahre alt sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Als du das erste Bild betrachtest, breitet es sich weiter aus und zeigt ein ausgedehntes Raster weiterer Ansichten. Offensichtlich hat die Besitzerin dieses Helms die Bilder des Himmels der Neunten Welt mit großer Sorgfalt aufgenommen. Entweder liebte sie die Sterne über alles ... oder sie sammelte diese Aufnahmen, um sie mit anderen zu vergleichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>All diese Bilder haben als Hintergrund die pulsierenden, feuchten Wände der Flor, daher vermutest du, dass die ursprüngliche Besitzerin des Helms diese Leute getroffen hat, als sie die Flor besuchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du siehst, wie Dracogens imposante Gestalt einen kleineren Mann überragt. Dracogen lächelt scharf und grimmig und seine drohende Körperhaltung verrät dir, dass sein vor Angst schlotternder Klient noch leiden wird müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Die nächste Gruppe von Bildern zeigt die Aufmerksame Fleck, die genauso aussieht wie heute. Die zierliche Frau gestikuliert eifrig, vermutlich mittendrin, eine Geschichte zu erzählen. Ihr lebhafter Arm und ihr neckisches Lächeln stechen aus dem statischen Bild heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Die nächsten Bilder zeigen (aus der Ferne) die unverwechselbare Silhouette von Beutespäher, seine Spitzen und Klingen in bedrohlicher Pose. Vor dem Konstrukt steht eine unglückliche Herausfordererin, deren elektrische Klinge geradezu jämmerlich unzulänglich für dieses Duell wirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Nachdem du den Helm gereinigt hast, siehst du, dass er innen mit dunklem, weichen Synth gepolstert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Bei näherer Betrachtung des Inneren scheint es, dass der Helm sich über Augenbewegungen mit seinem Träger verbindet. Wenn er sich mit den Augenbewegungen des Trägers synchronisiert hat, stellen seine inneren Schaltkreise eine direkte neurale Verbindung mit seinem Träger her. Du vermutest, dass der Helm auch die Erfahrungen und Beobachtungen ehemaliger Benutzer speichern könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Als dein Auge automatisch dorthin zuckt, reinigt sich die Luft im Helm, der faule Gestank wird entlüftet und du spürst die Luftzirkulation durch im Helm versteckte Pumpen. Rechts in deinem Blickfeld leuchten einige unbekannte Symbole auf. Die meisten sind gedimmt, doch ein Symbol leuchtet hell. Du vermutest, dass die gedimmten Symbole für derzeit nicht verfügbare Funktionen stehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Der Hof außerhalb der Festung der Memovira wirkt auf subtile Weise anders. Du brauchst einen Moment, bevor dir zwei Dinge auffallen:
+
+Erstens unterscheiden sich die Uniformen der Wachen deutlich von denen der Wachen der aktuellen Memovira. 
+
+Und zweitens bemerkst du, dass dieses Bild von dem Ort aufgenommen wurde, wo heute das Wrack des Katena liegt. Die Gegend sieht immer noch schmutzig und gefährlich aus, doch ohne den Katena wirkt sie offener, weniger erdrückend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Das nächste Bild zeigt die Flor, von einem von Sagusklippen hinabführenden Pfad aus gesehen. Du hattest zwar schon eine gewisse Vorstellung von ihrer Größe, doch ihre gewaltigen Ausmaße rauben dir dann doch kurz den Atem. Eingeklemmt in den Spalt zwischen zwei gewaltigen Felswänden ist die Flor so breit wie lang und mit gewaltigen straffen Ranken an der Felswand verankert. Es scheint, als würde die Kreatur sich unendlich langsam in Richtung des Binnenmeeres ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Das letzte Bild zeigt drei menschliche Männer. Einer von ihnen hat ein gezacktes Stück Hartglas mit blutiger Spitze gezückt. Die Besitzerin des Helms versucht mit erhobener Hand den nächsten Schlag abzuwehren. Blut spritzt in die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Der Stimme aus dem Helm zuhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Erneut der Stimme aus dem Helm zuhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>In den Helm hineinschauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Erneut in den Helm hineinschauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Habe etwas gefunden", sagt die frühere Besitzerin des Helms. "Muss sichergehen. Muss zurück zum Ankerplatz und die neuen Daten mit den Archiven des Navigations-Cortex vergleichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Das helle Symbol ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Ein dumpfes Kichern aus Aligern Richtung lässt dich den Kopf wenden.
+
+"Sorry, Kid. Aber du hättest dein Gesicht sehen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du drehst dich gerade rechtzeitig um, um zu sehen, wie Callistege die Hand vor den Mund hält, um ihr Grinsen zu verbergen.
+
+"Tut mir leid, Liebes, aber... du hättest dein Gesicht eben sehen sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Was für ein seltsamer Ort, um seine Knochen- und Müllsammlung aufzubewahren", sagt er, während er in das Innere des Helms späht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Nun ja, es war ohnehin höchste Zeit, dass du mal ein Bad nimmst. Nimm's mir nicht übel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Was *war* das? Warte. Sag's mir nicht. Ich möchte es eigentlich gar nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Du meine Güte", sagt er und tritt vor. "Hier, lass mich... du hast da eine Menge... *Zeug* hinter deinem Ohr."
+
+Er kratzt es weg und wischt sich dann die Hände an seinen Hosen ab. "Da. Fast so gut wie neu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

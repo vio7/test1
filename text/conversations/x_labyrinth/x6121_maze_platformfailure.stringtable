@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6121_maze_platformfailure</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Gezeitenenergie aus dem Portal sprengt die Böden zurück in die Tiefe. Du kannst sie mit der Plattform auf der anderen Seite des Klafters verbinden, aber nicht mit dem Ausgang. Du wirst einen anderen Weg dorthin finden müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

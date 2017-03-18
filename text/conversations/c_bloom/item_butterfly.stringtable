@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_butterfly</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser glänzende Metallrahmen fühlt sich warm in deinen Händen an. Die darin eingefassten Gläser sind matt und zeigen ein verschwommenes Bild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kurz durch die Brille sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Brille noch mal kurz aufsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Durch die Brille siehst du das verschwommene Bild eines unbekannten Feldes. Das Bild wackelt seltsam, so als würdest du durch die Augen von etwas Herumflatternden sehen. Dir wird dabei so übel, dass du die Brille absetzen musst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du siehst ein verschwommenes Bild desselben Feldes wie zuvor – oder zumindest eines sehr ähnlichen. Das Flattern des Bildes verursacht Kinetose bei dir und dir wird übel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Versuchen, zu verstehen, was du siehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Brille weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Vom zeitlichen Abstand der Flügelschläge her würdest du vermuten, dass es sich bei diesem Wesen um eine Art Schmetterling handelt. Er scheint herumzuflattern, ohne sich besonders um seine Umgebung zu kümmern, in der kaum etwas Bemerkenswertes passiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der Blick durch die Brille ist zu verschwommen und wackelig, um irgendetwas mit Sicherheit sagen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Erneut versuchen, zu verstehen, was du siehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Nachdem du einen Moment lang durch die Brille geschaut hast, begreifst du, dass das gezeigte Bild nicht einfach nur verschwommen ist, sondern vielmehr die Bewegungen des Schmetterlings vorausahnt. Du siehst die Effekte seiner Flügelschläge stets bereits einen Augenblick bevor er sie tätigt.
+
+Nachdem du diesen Effekt eine Weile beobachtest, scheint dir, als wäre dieses Feld von einem Muster aus Schatten überlagert, welches die Flugbahn des Schmetterlings durch Raum und Zeit markiert. Indem du dich auf bestimmte Aspekte konzentrierst, kannst du seine unmittelbare Zukunft in größerer Schärfe sehen. Der Erkenntnisgewinn dadurch ist vorübergehend, aber mächtig.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

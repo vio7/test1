@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_castoff_05</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Du bist die letzte Version? Keine große Verbesserung.“</DefaultText>
+      <FemaleText>"Du bist die letzte Version? Keine große Verbesserung.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Verpiss dich. Habe kein Interesse, mit einer Neugeburt zu reden.“</DefaultText>
+      <FemaleText>"Verpiss dich. Habe kein Interesse, mit einer Neugeburt zu reden.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Lass mich mal in Ruhe. Ich bin nicht interessiert.“</DefaultText>
+      <FemaleText>"Lass mich mal in Ruhe. Ich bin nicht interessiert.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Warum belästigst du mich? Sprich mit Aadiriis oder so.“</DefaultText>
+      <FemaleText>"Warum belästigst du mich? Sprich mit Aadiriis oder so.“</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_tongueclusterr2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Die Stimmen der Flor fließen in deinen Verstand, sanft und ehrerbietig. Sie widersetzen sich nicht im Geringsten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Als du dich den Flor-Zungen näherst, strecken sie sich eifrig nach dir aus, heften sich an deinen Körper und lassen ihre Stimmen in deinen Verstand eindringen. Du kannst spüren, wie sie von deinen Erinnerungen kosten und sich darauf vorbereiten, sie zu verschlingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Flor-Zungen zischen und fauchen. Ihre Stimmen dringen in deinen Verstand ein und suchen nach etwas, das sie verschlingen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Zungen mit den Gezeiten angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du öffnest dich den Gezeiten und sie fließen durch dich hindurch. Die Flor-Zungen zischen und winden sich in einem sinnlosen Versuch, den Energien zu entkommen, denen du sie aussetzt. Schließlich ergeben sie sich deinem Willen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Der Flor erlauben, an einer Erinnerung zu zehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Zungen schlängeln sich in deine Erinnerungen, prüfen deine Erinnerungen und lassen sie gleich wieder fallen wie fauliges Obst. Nach einer Weile, die sich wie eine Ewigkeit anfühlt, geben sie sich mit einer zufrieden - die Erinnerung an einen guten Freund, den du betrogen hast. War es Absicht ... oder ein Missverständnis? Die Details entgleiten dir, und plötzlich bemerkst du, dass du nichts mehr darüber weißt. Nicht einmal über die Freundschaft selbst.
+
+Gesättigt ziehen sich die Zungen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Kontrolle über die Zungen übernehmen und sie dazu zwingen, den Durchgang in der Nähe zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du schließt deine Augen und konzentrierst dich. Die Zungen schlagen nach dir, versuchen, deine Konzentration zu brechen, aber sie ist zu stark. Schließlich unterwerfen sie sich deinem Willen.
+
+Eine Welle des Gestanks fegt über dich hinweg, als die Säcke schrumpfen und den Weg freigeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du schließt deine Augen und versuchst, dich zu konzentrieren, aber das Geschnatter der Zungen ist wie ein Stachel in deinem Kopf. Du kannst dich einfach nicht konzentrieren, und die Zungen verbannen dich aus ihren Gedanken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die Zungenmasse ignorieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die Flor-Zungen wenden sich von dir ab, sie zeigen nicht länger Interesse daran, von deinen Erinnerungen zu zehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Die Flor-Zungen erschlaffen, ihre Bewegungen sind träge, ihr Hunger gestillt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Erneut versuchen, Kontrolle über die Zungen zu erlangen, um den Weg zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Kontrolle über die Flor-Zungen erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Versuchen, die Flor-Zungen zu kontrollieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Du schließt deine Augen und konzentrierst dich. Die Zungen schlagen nach dir, versuchen, deine Konzentration zu brechen, aber sie ist zu stark. Schließlich unterwerfen sie sich deinem Willen.
+
+Du kannst spüren, dass die Zungen-Masse dir dabei helfen wird, das Herz zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du schließt deine Augen und versuchst, dich zu konzentrieren, aber das Geschnatter der Zungen ist wie ein Stachel in deinem Kopf. Du kannst dich einfach nicht konzentrieren, und die Zungen verbannen dich aus ihren Gedanken.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

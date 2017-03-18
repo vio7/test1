@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_trapped_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese alte Metalltür sieht ziemlich solide aus. Sie hat ein einziges mechanisches Schloss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Schloss knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das Schloss ist kompliziert, aber nicht allzu schwer zu öffnen. Gerade, als du den letzten Stift verschiebst, setzt du versehentlich eine Luftblase in Bewegung, die wiederum eine kleine Düse aktiviert. Säure besprüht dich von Kopf bis Fuß. Der Schmerz ist unerträglich.
+
+Wenigstens ist die Tür offen.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Untersuche das Schloss genauer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Im Verriegelungsmechanismus ist eine dünne Luftblase eingebettet. Als du genauer hinsiehst, erkennst du, dass die Blase irgendwie mit einer Reihe von Schläuchen verbunden ist. Dies ist eine Falle – eine gerissene, erfinderische Falle, welche das Können der Murden bei Weitem überschreitet. Sie muss Teil des ursprünglichen Entwurfs der Tür sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Lass die Tür in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du stellst dich vor die Tür und machst dich an die Arbeit. Du deaktivierst vorsichtig den Auslösemechanismus ... löst jedoch versehentlich einen anderen aus. Die Falle schnappt zu und du wirst von Kopf bis Fuß mit Säure besprüht! 
+
+Zum Glück beschädigt die Säure auch das Schloss und die Tür schwingt auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Diese alte Metalltür sieht ziemlich solide aus. Sie hat ein einziges mechanisches Schloss. Du stellst fest, dass der Mechanismus kompliziert ist. Das legt die Vermutung nahe, dass es mehr als ein gewöhnliches Schloss ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>So sehr du es auch versuchst, du kannst einfach nicht die Kombination aus Stiften und Öffnern herausfinden, die sich in der Tür verbergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du manipulierst das Schloss erfolgreich und die Tür öffnet sich mit einem zufriedenstellenden Knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Schlag die Tür ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du wuchtest dich gegen die Tür und irgendwie triffst du sie genau richtig. Das Schloss bricht ... und du löst die Falle aus, die fachmännisch darin verborgen war. Molekulare Säure sprüht auf deine Bekleidung und dein Fleisch. Der Schmerz ist unerträglich ... doch wenigstens ist die Tür offen.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du wirfst dich gegen die Metalltür, in der Überzeugung, dass sie alt ist und schnell nachgeben wird. 
+
+Doch das ist nicht der Fall. Deine Anstrengungen werden lediglich mit einer geprellten Schulter belohnt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du wirfst dich gegen die Tür. Das Schloss bricht und die Tür schwingt auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Benutze den Schlüssel des Murden-Häuptlings, um die Tür aufzuschließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du steckst den Schlüssel in das Schloss und drehst ihn um. Du hörst das Klicken, als der mechanische Stift einrastet. Du hörst auch das Geräusch von Flüssigkeit, die aus einer Düse an der Tür versprüht wird.
+
+Der nachfolgende Schmerz ist unerträglich. Du hast eine Falle ausgelöst, die dich von Kopf bis Fuß mit Säure besprüht.
+
+Wenigstens ist die Tür offen.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Der Schlüssel passt perfekt und die Tür öffnet sich mit einem zufriedenstellenden Knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Diese alte Metalltür sieht ziemlich solide aus. Sie hat ein einziges mechanisches Schloss. Als du dich näherst, berührt Matkina deinen Arm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Follow-up PQ. 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Nochmals versuchen, das Schloss zu knacken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du bewegst dich langsam und methodisch und verfolgst den Auslösemechanismus zu einer kleinen Düse auf der Vorderseite der Tür, die zu einem kleinen Behälter führt. Dieser beinhaltet eine gefährliche Substanz, die auf ein ahnungsloses Opfer gesprüht würde. Nachdem du die Auslöser deaktiviert hast, entfernst du den Behälter von der Tür.
+
+Du bist nun stolzer Besitzer eines kleinen Beutels mit molekularer Säure.
+
+{LOOT - ESSENTIAL}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Follow-up PQ. 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Versuche erneut, die Tür einzuschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Versuche, die Falle zu entschärfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Versuche erneut, die Falle zu entschärfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Wartet. Ich habe solche Schlösser schon einmal gesehen. Sie haben innen normalerweise versteckte Kammern. Ich wette, dass dieses hier eine angenehme Überraschung bereithält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Es gelingt dir wieder nicht, das Schloss zu öffnen. Der Mechanismus ist überraschend raffiniert und komplex.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die alte Tür hält noch immer stand. Anscheinend ist sie stärker, als sie aussieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

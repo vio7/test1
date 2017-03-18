@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4111_what_the_winds_took</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Was die Winde Nahmen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde eine Möglichkeit, Skouras Augenlicht wiederherzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde eine Versuchsperson für Demeray und Obervich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Skoura zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Augenlicht wiederhergestellt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Skoura die Gesichtslose bat dich, eine Möglichkeit zu finden, ihre verlorene Sicht wiederherzustellen. Sie versprach ihre höchstgewertete Habseligkeit als Belohnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Skoura war sich sicher, dass irgendeiner in der Flor eine Möglichkeit haben muss, ihre Sicht wiederherzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Ärzte Demeray und Obervich sagen, dass sie ein Gerät haben, das Skouras Sicht wiederherstellen könnte, aber sie fordern, dass du ihnen als Gegenleistung eine Versuchsperson besorgst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nun, da du Demerays künstliches Auge hast, musst du nur noch zu Skoura zurückkehren und es ihr geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Skouras Sicht wurde wiederhergestellt, und sie belohnte dich mit ihrem Eisenwind-Gefäß</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Skouras Sicht wurde wiederhergestellt, und sie belohnte dich mit ihrem Eisenwind-Gefäß</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Bliblablub</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

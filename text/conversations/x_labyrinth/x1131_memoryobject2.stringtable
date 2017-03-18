@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_memoryobject2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese Kugel - diese Erinnerung - erinnert an ein Auge oder ein maskiertes Gesicht. Sie dreht sich mit kalter Verachtung zu dir um. Hinter der glänzenden Oberfläche drehen sich Mechanismen und greifen ineinander. Ein ominöses *Ticken* beginnt und wird immer schneller. 
+
+Aus der mentalen Lücke, die diese Erinnerung einst gefüllt hat, kommen zwei harte, kalte Fakten zum Vorschein: Das Ticken bedeutet tatsächlich, dass der Apparat in Kürze explodieren wird, und es ist alleine deine Schuld. Die Falle wurde von dir selbst gebaut, um die darin enthaltene Erinnerung zu schützen.
+
+{SOUND: Ticking}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du stehst neben einer Frau auf einer bewachsenen Klippe. Unter euch erstreckt sich ein breites Plateau über dem Dickicht in der Tiefe. Seltsame Maschinen wurden in die Felswand gebaut. Vermutlich dienen sie der Aufklärung oder Verteidigung. In der Mitte des Plateaus glitzert eine Metallscheibe.
+
+Deine mit einem Bewusstsein ausgestatteten humanoiden Maschinen bohren den Fuß der Klippen unten an. Dies scheint der richtige Ort für jemanden wie dich zu sein, der verzweifelt nach einer sicheren Zuflucht sucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich weiß nicht", sagt die Frau in neutralem, ausdruckslosem Tonfall, das Gesicht von dir abgewandt. "Warum sollte es hier sicherer sein als an den anderen Orten, die wir gefunden haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sie auf die versteckten Details hinweisen, die du mit deiner Erfahrung klar und deutlich sehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Deinen Charme einsetzen, um sie von den Vorzügen dieses Ortes zu überzeugen und sie daran zu erinnern, dass die Zeit drängt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sie mit deinem überlegenen Intellekt von der Weisheit deiner Entscheidung überzeugen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du legst die Hand an die Stirn, um deine Augen vor dem grellen Sonnenlicht zu schützen und zeigst auf die dünnen Streifen, die von der Metallscheibe ausgestrahlt werden und wie sie mit ihrer Energie die örtliche Tierwelt beeinflussen, was auf eine gewaltige Quelle von Energie frühere Welten hinweist.
+
+Sie denkt lange nach. "Ist es geologisch sicher? Hast du die Schichten mit Echolot getestet? Haben die Resonanz-Scans keine großen Aushöhlungen oder strukturellen Schwächen gezeigt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Eine Wolke verdeckt kurz die Sonne, während du sie in einer geistreichen, freundschaftlichen Diskussion auf die Relikte einer Zivilisation einer früheren Welt hier hinweist, deren Macht es noch auszuschöpfen gilt.
+
+Nach einigen Minuten hebt sie lachend in einer scherzhaften Aufgeben-Geste die Hände. "Es reicht! Deine Diener sind da unten. Du hast dich ohnehin längst entschieden, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Luft wird ein wenig frischer, während du ihr die potenzielle Macht der Metallscheibe unter euch und der verschlossenen Kammern darunter beschreibst. Sie nickt.
+
+"Deshalb sind also deine Maschinendiener da unten? Du hast dich bereits längst für diesen Ort entschieden, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Sie wartet auf deine Bestätigung und sagt: "Gut. Du hast mich überzeugt." Ihr skizziert Pläne für den Zufluchtsort, zeichnet Schaubilder und Bauskizzen. Dann steigt ihr zum Plateau hinab, um das offene Gelände zu untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Frau schlägt vor, dass einer der Diener für die Zeit, die ihr hier sein werdet, eine Hütte für euch bauen soll. Du befiehlst einem der Konstrukte, seine derzeitige Arbeit dafür zu unterbrechen, aber es reagiert nicht auf dich. Als du es an der Schulter packst, um deinem Befehl Nachdruck zu verleihen, wirbelt es herum und schlägt dir mit übermenschlich flink ins Gesicht. Dann wendet es sich wieder seiner Aufgabe zu, ohne dich weiter zu beachten.
+
+Deine Begleiterin hilft dir auf, ein amüsiertes Funkeln in den Augen. "Scheint, als hätte dein Konstrukt andere Pläne. Was ist mit ihm los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Das im Gehäuse des Konstrukts eingebaute Numenera verwenden, um die Verhaltens-Fehlfunktion zu beseitigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Das Konstrukt auf mechanische Defekte hin untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Nach einem tiefergehenden Grund suchen - vielleicht ist es eine Auswirkung der Metallscheibe hier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Nebel senkt sich über das Plateau, als du mit einem subvokalen Befehl die am Verhaltenskern des Konstrukts angebrachten, mitgenommenen alten Artefakte aktivierst. Mit einem plötzlichen *Klack* und einem Puls angenehmer Wärme beseitigen die Apparate den Fehler und sieben mit Kupferbändern überzogene Kugeln fallen aus in gleichmäßigen Abständen erscheinenden Spalten in der Luft. 
+
+Du ignorierst diesen gängigen Nebeneffekt und erteilst dem fehlerhaften Konstrukt laut und deutlich neue Befehle.
+
+"VERSTANDEN." Folgsam rollt es an den Platz, an dem eure neue Hütte stehen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Mit konzentriertem Blick siehst du, dass die hinteren Aktoren des Dieners beschädigt sind.
+
+Du greifst dem Konstrukt in den Rücken, was ihm nichts auszumachen scheint, solange du es nicht bei seiner Arbeit störst. Geschickt setzt du die Aktoren zurück und siehst, wie Energie in die ungenutzten Teile des Konstruktgehirns fließt. Das Konstrukt nimmt seine Arbeit wieder auf... und diesmal hört es auf dich.
+
+"VERSTANDEN." Folgsam rollt es an den Platz, an dem eure neue Hütte stehen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Nebel senkt sich über das Plateau, als du ein Netz aus Fasern als Schutzhülle um den Schädel des Konstrukts wickelst. Das Netz schaltet sich ein und schützt das Konstruktgehirn vor möglicher transdimensionaler Strahlung hier. Du holst tief Luft und wiederholst deinen Befehl.
+
+"VERSTANDEN." Folgsam rollt es an den Platz, an dem eure neue Hütte stehen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das Bild friert ein und verblasst und du fühlst, wie eine Erinnerung die Lücke in deinem Geist ausfüllt, gezackten Block für gezackten Block. Du stolperst herum, die Hände an den Kopf gepresst - es *tut weh* Erinnerungen zurück zu erlangen.
+
+Und wieder ist da noch etwas. Deine Nackenhaare stellen sich auf. Etwas jenseits dieses Raumes fühlt, was du hier tust... und jagt dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>And then the memory fades.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Mechanismen in dieser Kugel sind für den Moment verstummt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Schnell arbeiten, um die Falle zu entschärfen, bevor sie explodiert.
+
+{SOUND: Ticking continues.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Versuchen, dich daran zu erinnern, wie man den Apparat öffnet. Vielleicht entschärft das gleichzeitig auch die Falle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Walk away from the orb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Vorsichtig greifst du durch die neblige Oberfläche der Kugel, weichst verschwommenen Zahnrädern aus und reißt das Herz des Apparats heraus. Du spürst, wie dein Körper dabei geschickter wird.
+
+Plötzlich bricht die Kugel bei deiner Berührung entzwei und eine Erinnerung schießt durch deinen Arm in deinen Geist.
+
+{SOUND: Ticking stops. Crack.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du konzentrierst dich, ignorierst das rasende Ticken des Apparats und siehst Hände, die ausgestreckt werden und die Seiten der Kugel so vorsichtig umfassen wie ein nach oben blickendes Gesicht. Du spürst, wie die Verbindungen in deinem Geist mehr und stärker werden.
+
+Du berührst die Kugel auf dieselbe Weise und die Mechanismen in ihrem Inneren verstummen, während eine Erinnerung warm durch deinen Arm in deinen Geist fließt...
+
+{SOUND: Ticking stops.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Als du durch die neblige Oberfläche der Kugel greifst, rutscht deine Hand ab und die verschwommene Kante eines Zahnrads schneidet durch deine Fingerkuppe, bevor sie knarrend zum Stillstand kommt. Dennoch hat der Versuch deinen Körper geschickter gemacht.
+
+Plötzlich zuckt eine schmerzhafte Erinnerung durch die Wunde und fährt in deinen Geist ein...
+
+{SOUND: Ticking stops. Gears grind.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Flink greifst du durch die neblige Oberfläche der Kugel, weichst verschwommenen Zahnrädern aus und reißt das verwundete Herz des Apparats heraus. Du spürst, wie dein Körper dabei geschickter wird.
+
+Plötzlich bricht die Kugel bei deiner Berührung entzwei und eine Erinnerung schießt durch deinen Arm und in deinen Geist.
+
+{SOUND: Ticking stops. Crack.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Als du durch die neblige Oberfläche der Kugel greifst, rutscht deine Hand ab und wird zwischen zwei knirschenden, mit groben Zähnen bestückten Zahnrädern eingeklemmt, was den empfindlichen Mechanismus vollkommnen blockiert. Doch selbst der gescheiterte Versuch hat deinen Körper geschickter gemacht.
+
+Plötzlich zuckt eine schmerzhafte Erinnerung durch die Wunde und fährt in deinen Geist ein...
+
+{SOUND: Ticking stops. Gears grind.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Das Ticken wird immer schneller und lauter, bis es kaum mehr auszuhalten ist. Die Verbindungen in deinem Geist können nicht schnell genug wachsen und stärker werden, um es auszugleichen.
+
+Du hältst dir die Hände über die dröhnenden Ohren und Sekunden später explodiert die in der Kugel gefangene Erinnerung in deinem Geist...
+
+{SOUND: Ticking going faster and faster, leading to explosion.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du ignorierst das fieberhafte Ticken, konzentrierst dich und siehst Hände - aber seltsamerweise nicht *deine* -, die ausgestreckt werden und die Seiten der Kugel so vorsichtig umfassen wie ein nach oben blickendes Gesicht. Du spürst, wie die Verbindungen in deinem Geist mehr und stärker werden.
+
+Du berührst die Kugel auf dieselbe Weise und die Mechanismen kommen brummend zum Stillstand, während eine Erinnerung warm durch deinen Arm in deinen Geist fließt...
+
+{SOUND: Ticking stops.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Das Ticken wird immer schneller und lauter, bis das Pochen in deinem Schädel kaum mehr auszuhalten ist. Die Verbindungen in deinem Geist können nicht schnell genug wachsen und stärker werden, um es auszugleichen.
+
+Du hältst dir die Hände über die dröhnenden Ohren und Sekunden später explodiert die in der Kugel gefangene Erinnerung in deinem Geist...
+
+{SOUND: Ticking going faster and faster, leading to explosion.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

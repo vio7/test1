@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\items\item_electrostaticmerecaster_silvermere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du fasst das Gerät mit beiden Händen und Energie strömt über deine Haut. Du spürst kleine kalte Nadelstiche auf deinem Fleisch, als würde unsichtbarer Regen vom Himmel fallen. 
+
+In der Mitte der Tetraeder breitet sich ein Licht aus – das Tor zum Lebensbild in diesem Gerät.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du holst das Gerät erneut hervor. Sofort breitet sich ein silbernes Licht in der Mitte der Tetraeder aus und ruft dich in das Lebensbild in diesem Gerät.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Den Lebensbildbetrachter untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Je länger du das Gerät in Händen hältst, desto mehr fühlst du, dass es *nicht* gehalten oder beobachtet werden will – dass es hasst, studiert zu werden wie etwas regloses, totes.
+
+Und doch gibt es kein Anzeichen dafür, dass dieses Gerät irgendwie lebendig wäre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Das Lebensbild betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Lebensbildbetrachter weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

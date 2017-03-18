@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_stichus_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>::sclk sclk::</DefaultText>
+      <FemaleText>::sclk sclk::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>::clk clk clk clk clk!::</DefaultText>
+      <FemaleText>::clk clk clk clk clk!::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>::skreeeee::</DefaultText>
+      <FemaleText>::skreeeee::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Geräusch ... schön. Bleiben ... zuhören."</DefaultText>
+      <FemaleText>"Geräusch ... schön. Bleiben ... zuhören."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Dieb! Eier-Stehler!"</DefaultText>
+      <FemaleText>"Dieb! Eier-Stehler!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Eier zerquetscht!"</DefaultText>
+      <FemaleText>"Eier zerquetscht!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

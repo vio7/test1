@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_blue_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Scherbe in dieser Maschine quält die Gezeitenkreatur im beistehenden Tank.</DefaultText>
+      <FemaleText>Die Scherbe in dieser Maschine quält die Gezeitenkreatur im beistehenden Tank.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du hast die Scherbe bereits aus dieser Maschine getrieben.</DefaultText>
+      <FemaleText>Du hast die Scherbe bereits aus dieser Maschine getrieben.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Scherbe hat diese Maschine verlassen, wodurch sich die Kabel selbst entwirren.</DefaultText>
+      <FemaleText>Die Scherbe hat diese Maschine verlassen, wodurch sich die Kabel selbst entwirren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die mit dieser Maschine verbundenen Kabel klicken und rasseln freudig, wie hunderte winziger Schlüssel in versteckten Schlössern.</DefaultText>
+      <FemaleText>Die mit dieser Maschine verbundenen Kabel klicken und rasseln freudig, wie hunderte winziger Schlüssel in versteckten Schlössern.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_sticha</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als die Eier der Sticha sicher in der Stadt verwahrt waren, verstummten die Beben unter den Sagus-Klippen für viele Jahre. Dies hielt nun schon so lange an, dass Peliai häufig darüber nachdachte, den Rest der Eier zu ihrem Vorteil zu verkaufen.[BR][BR]Eines Nachts wurden die Anwohner des Regierungsplatzes von einem donnernden Schlag aus dem Schlaf gerissen, der selbst die massivsten Gebäude erschütterte. Schlaftrunken kamen sie aus ihren Häusern, um zu sehen, was geschehen war.[BR][BR]Peliais Haus war verschwunden, und Peliai mit ihm. An seiner Stelle gähnte ein riesiger Krater, der tiefer zu sein schien als der Ozean selbst.[BR][BR]Niemand stieg je hinab, um nachzusehen, was aus ihr geworden war, aber seither herrscht Ruhe in der Stadt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Beben unter den Sagus-Klippen verstummten für viele Jahre, auch wenn Peliai befürchtete, dass die Sticha eines Tages zurückkehren würden, wenn man nichts gegen sie in der Hand hätte. Meisten stand sie auf dem Platz und predigte jedem, der zuhörte, ihre Befürchtungen.[BR][BR]Eines Tages verkündete Peliai, sie hätte Beweise für die Rückkehr der Sticha. Sie rief eine Gruppe tapferer Seelen zusammen, um ihr unter die Stadt zu folgen und sie aufzuhalten, bevor es zu spät wäre.[BR][BR]Viele ihrer mutigsten Zuhörer folgten ihr in die Dunkelheit. Niemand weiß, was aus ihnen geworden ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Sticha legten einen weiten Weg zurück, um ihre neue Heimat zu erreichen. Viele kamen auf dem Weg um, denn die Felsen zwischen Sagus und dem neuen Fels boten ihnen kaum eine Lebensgrundlage.[BR][BR]Aber letztendlich erreichten sie ihn und errichteten sich dort eine neue Heimat. Lange Zeit führten sie dort ein zufriedenes Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Beben unter den Sagus-Klippen verstummten für viele Jahre, auch wenn Peliai befürchtete, dass die Sticha eines Tages zurückkehren würden, wenn man nichts gegen sie in der Hand hätte. Meisten stand sie auf dem Platz und predigte jedem, der zuhörte, ihre Befürchtungen. Nur wenige hörten zu.[BR][BR]Bis die Beben wieder begannen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Beben setzten sich fort. Eines nach dem anderen fielen die Häuser von Klippenrand ins Meer und die Bewohner von Sagus wurden immer ängstlicher.[BR][BR]In einer letzten Verzweiflungstat rief Peliai eine Gruppe mutiger Seelen zusammen, die sie unter die Stadt begleiten würden, um die Sticha aufzuhalten, bevor es zu spät sei. Dutzende von tapferen Männern und Frauen folgten ihr ins Dunkel.[BR][BR]Sie wurden nie wieder gesehen. Niemand weiß, was mit ihnen geschah. Aber die Beben endeten *tatsächlich* wenig später.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

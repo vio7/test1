@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_tcg_cultist_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich habe die Leben Eures Erzeugers seit meiner Jugend studiert. Ich schulde ihnen meine ganze Weisheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Viele der Leben Eures Erzeugers haben diese Stadt berührt ... sie tatsächlich gestaltet zu dem, was wir heute wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich möchte Euch danken, Heiligkeit, dass Ihr mir einen Sinn gegeben habt ... ein *Fokus* für meine Studien."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich habe so viele *Fragen* an Euch, wenn Ihr Euch doch nur an Eure zahlreichen Leben erinnern könntet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Diese Dunkelheit ... auch sie ist das Werk Eures Erzeugers. Oder zumindest seiner Uhr."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

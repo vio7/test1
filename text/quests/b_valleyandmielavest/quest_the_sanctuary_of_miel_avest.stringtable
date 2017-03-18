@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_the_sanctuary_of_miel_avest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Zuflucht von Miel Avest</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sprich mit Aadiriis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Aadiriis erlauben, meinen Verstand zu scannen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Sprich mit Melmoth über die Gezeiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Aadiriis zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Löse die Auseinandersetzung zwischen Andronus und Raima</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kehre zu Aadiriis zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Gib Aadiriis meine Meinung von der Endlosen Schlacht</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Kehre zu Aadiriis zurück</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Aadiriis bitten, den Lebensbildbetrachter zu verwenden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Von Mazzof die Wahrheit gelernt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe Miel Avest, die Zuflucht für Abgeworfene gefunden. Mehrere Abgeworfenen verstecken sich hier vor dem Kummer. Mazzof befindet sich nicht unter ihnen, aber vielleicht weiß jemand, wo ich ihn finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich habe Paj Rekken getroffen, Kommandant der Streitkräfte der Ersten in der Endlosen Schlacht (und früherer Befehlshaber von Matkina). Sie sagte, dass sie Mazzof seit Jahren nicht gesehen habe, aber dass jemand namens Aadiriis mir weiterhelfen könne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Aadiriis sagte, dass sie im Besitz eines Lebensbildbetrachters sei, in dem Mazzof auftauche. Mit meinen realitätsverändernden Fähigkeiten könnte ich im Lebensbild mit ihm unterhalten, aber sie möchte meinen Verstand erst auf die Probe stellen, um herauszufinden, ob meine Geschichte der Wahrheit entspricht. Um ehrlich zu sein bin ich ebenfalls gespannt, was sie entdeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Aadiriis zögert ... sie möchte mich die Vergangenheit nicht verändern lassen, ohne den Zustand der Abgeworfenen genau zu verstehen. Sie hat mich gebeten, Melmoth Leviarm in Miel Avest aufzusuchen und ihn bezüglich der Gezeiten und der Geburt der Abgeworfenen zu befragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe mit Melmoth über die Gezeiten geredet. Seine Meinung unterscheidet sich stark von Aadiriis' Ansichten, weshalb ich mich frage, warum sie mich zu ihm geschickt hat. Er sagt, dass die Gezeiten ein von uns Abgeworfenen untrennbarer Teil seien, und dass wir sie zu unserem Vorteil nutzen sollten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Da ich das Leben von Personen ohne ihre Zustimmung verändere, möchte Aadiriis zunächst sehen, wie ich es verändere, wenn sie ihr Leben noch immer unter Kontrolle haben. Es gibt zwei Abgeworfene in Miel Avest, deren Auseinandersetzung gewalttätige Züge anzunehmen droht: Andronus Sandhand und Raima Cyro. Aadiriis möchte, dass ich den Zwist beende und den Frieden in der Zuflucht bewahre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe den Streit zwischen Andronus und Raima aufgeklärt. Ich muss zu Aadiriis zurückkehren und ihr vom Ausgang berichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Die Endlose Schlacht ist für uns Abgeworfene der zentrale Konflikt. Aadiriis glaubt, dass ich ihn verstehen und mir eine Meinung zu ihm bilden sollte. Sie hat vorgeschlagen, dass ich mich zunächst mit jemandem unterhalten soll, der sich mit diesem Thema auskennt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Aadiriis Fragen bezüglich der Endlosen Schlacht beantworten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe sämtliche Fragen von Aadiriis beantwortet, und sie erlaubt mir endlich, den Lebensbildbetrachter zu benutzen und mit Mazzof zu sprechen. Sie hat betont, dass eine Veränderung der Vergangenheit alle möglichen Auswirkungen nach sich ziehen könnte. Daher solle ich mich vorbereiten und wieder mit ihr sprechen, wenn ich soweit bin. Hoffentlich wird das alles bald vorbei sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich fand Mazzof in seinem Lebensbild, aber er sagte, dass die Resonanzkammer der Weg ist, wie der Wandelnde Gott die Abgeworfenen *vernichtet*, nicht, um sie zu retten.Er sagte auch, dass die Erste Abgeworfene immernoch am Leben ist. Ich muss sie finden, um den Wandelnden Gott aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Das Kalkedon sagt, dass der Krieg nur dazu dient, die Angriffe der Miliz der Ersten abzuwehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Elkeshai hat betont, dass das Töten in der Natur des Menschen liege - mit dem Unterschied, dass wir Abgeworfenen nicht so einfach sterben würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Raima sagte, dass es darum gehe, die Überlegenheit der eigenen Seite zu demonstrieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Andronus sagte, dass es darum gehe, den Wandelnden Gott davon abzuhalten, das Leben der Abgeworfenen zu ruinieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Melmoth hält die Endlose Schlacht für eine Verschwendung von Leben und Wissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Aadiriis ist der Meinung, dass der Krieg schrecklich ist, aber dass beide Seiten daran glauben, zu unserem Schutz zu kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Matkina glaubt, dass sich der Kriegt mittlerweile nur noch im Kreis dreht und immer wiederholt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Thalana ist der Ansicht, dass der Krieg nur die Leben derer ruiniert, die ihn in verwickelt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Bericael glaubt, dass der Konflikt uns stärker werden lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Tybir sagte, dass das Kämpfen sinnlos, der Konflikt an sich aber hoch profitabel sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Ich habe Lady Anshe nach ihrer Meinung gefragt, aber sie sagte nur, dass sie keine Meinung habe und dass er schlecht für's Geschäft sei.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

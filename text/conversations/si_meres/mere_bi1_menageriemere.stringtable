@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_bi1_menageriemere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Du bist Mazzof, gefangen in der Menagerie. Gelingt es dir, zu entkommen?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Das hast du bereits versucht. Aber vielleicht schaffst du es diesmal aus der Menagerie, ohne dabei zu sterben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Den Dämonen töten]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Hoppla. Ich bin gestorben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Der Dämon ist nicht mehr! Und hier ist eine Schlinge, falls du sie brauchst.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Die Schlinge aufheben.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Du hast eine Schlinge erhalten! Ob du mit ihrer Hilfe entkommen kannst?]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Verlasse den Ort, ohne zu sterben, damit ich meine Aufzeichnungen ansehen kann.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Fluchtweg</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Flucht ist sehr effektiv!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Boguns Erfindung stehlen (sollte jetzt sehr einfach sein, wo niemand mehr da ist).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Sie gehört dir.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Verstaue Boguns Erfindung irgendwo, du kannst sie später abholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Du machst es.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Das ist ein bisschen schwierig, weil du immer noch Boguns Erfindung bei dir trägst. Dir fällt ein, wie einfach es hätte sein können, wenn du sie nur irgendwo verstaut hättest. Aber ...]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Du hast Boguns Erfindung auf dem Weg verstaut, also wird das Script so angepasst, dass dein Erfolg vermerkt wird. Jetzt musst du dir keine Gedanken mehr machen!]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

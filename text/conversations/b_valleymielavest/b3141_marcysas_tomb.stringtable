@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3141_marcysas_tomb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine große Menge Blut klebt an Boden und Wänden dieses Grabes. An die blutigen Wände sind Botschaften in einer kruden Variante der Wahrheit gekritzelt. Die Kultisten, die das Tal überrannt haben, scheinen eine besondere Affinität zu der Person in dieser Kapsel zu haben.
+
+Doch so sehr du dich auch bemühst, du kannst hier nichts Nützliches finden und gibst schließlich auf, ohne neue Erkenntnisse gewonnen zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Darin findest du ein Ding mit seltsamen Maßen und unmöglichen Winkeln, gefertigt aus einem unheimlichen Metall, das unter deinem Blick zu fließen scheint. Seine Verzweigungen kreuzen sich zu einem Gitter ohne klar erkennbarem Muster.
+
+Das Gerät strömt Gezeitenenergien aus und an seinem Fuß erkennst du das Zeichen des Wandelnden Gottes. Was es auch sonst noch sein mag, das hier ist ein Lebensbildbetrachter.
+
+Aber du kannst ihn nicht benutzen, zumindest jetzt noch nicht. Er ist zu verbogen und nicht mehr richtig ausgerichtet und nur durch Ausprobieren wirst du ihn nicht reparieren können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Kinder der Endlosen Pforte scheinen diesem Grab besondere Aufmerksamkeit gewidmet zu haben. Ihr Kritzeleien bedecken die Wände. Das wenige, das du entziffern kannst, preist die tote Frau und was auch immer die Kinder anbeten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Als du dieses Grab entdeckt hast, hättest du nicht gedacht, dass du auf Ronos Cai'Suls Anweisung hin hierher zurückkommen würdest... aber vielleicht hättest du es dir denken können. 
+
+Ausgestattet mit dem Wissen um Marcysas Namen suchst du diesmal alles noch gründlicher ab. Vielleicht findest du ja etwas Wertvolles unter all dem Fleisch und Blut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Das Grab ist noch so, wie du es verlassen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Unverständliche Kritzeleien. Du kannst nichts davon lesen und keinen Sinn darin erkennen. Und dennoch... packt dich bei ihrem Anblick ein vager und namenloser Schrecken.
+
+Inmitten der blutigen Tiraden und Lobpreisungen entdeckst du ein Symbol, das direkt in den Stein eingeritzt ist. Es ist das Siegel der Kinder der Endlosen Pforte, umgeben von Kritzeleien zu Ehren eines unsagbaren und fremden Gottes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du kannst den Namen nicht lesen. Er ist von dem Blut verdeckt, das unzählige vorbeikommende Kultisten bei ihrer ehrfürchtigen Berührung der Stelle hinterlassen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Das Grab hat sich verändert. Es keine Gedenkstätte für Iniferes treue Assistentin Marcysa mehr – es ist ein Schrein für den, der die Endlose Pforte als Erster geöffnet hat. Die Erinnerung an deinen verstoßenen Bruder wird hier lebendig gehalten, und die Kritzeleien an den Wänden preisen seinen Namen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Es ist offensichtlich, dass die Kinder der Endlosen Pforte das Andenken an Inifere in Ehren halten. Der Schrein, den sie für ihn errichtet haben, ist vollkommen unbefleckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Das Grab durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Die Inschrift untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Das Symbol der Endlosen Pforte berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Das Geheimfach geht lautlos auf, doch die Nische dahinter ist leer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Seit du das letzte Mal hier warst, hat sich nichts verändert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>In blutigen, wirren Worten preisen die Kinder der Endlosen Pforte den Beobachter, den Wartenden, den Großen Offenbarer und weitere Namen eines schrecklichen Unwesen aus einer anderen Welt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Dennoch bist du recht sicher, dass dies hier das Grab von Marcysa ist, deren Nähe zu Inifere der Grund für diese... du würdest es nicht unbedingt "Zuneigung " nennen, aber was es auch ist, es wird jedenfalls von den Kindern leidenschaftlich betrieben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Das Grab ist noch so, wie du es verlassen hast. Es liefert dir keine neuen Erkenntnisse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Das Symbol berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Das Symbol erneut berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die Inschriften der Kinder genauer ansehen..</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die Inschrift erneut ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Als du die Hand nach dem Symbol ausstreckst, schießt ein Funken aus ihm hervor und du spürst deine Tätowierung als Antwort darauf aufflackern. Der Stein unter dem Symbol löst sich auf, als würde er in eine andere Dimension verschwinden, und dahinter kommt eine große Nische zum Vorschein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Der Felsen, der die Nische verdeckt, verschwindet, doch die Nische ist nun leer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Unverständliche Kritzeleien. Du kannst nichts davon lesen und keinen Sinn darin erkennen. Und dennoch... packt dich bei ihrem Anblick ein vager und namenloser Schrecken.
+
+Inmitten der blutigen Tiraden und Lobpreisungen entdeckst du ein Symbol, das direkt in den Stein eingeritzt ist. Du kennst das Siegel nicht, aber da es direkt in den Stein gehauen wurde, soll es wohl für viele Generationen überdauern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Kritzeleien und Kratzer sind noch da, ebenso wie das tief eingeritzte Siegel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Unterhalb dieser Schändung siehst du jedoch eine alte, eingeritzte Inschrift: "Sie stand Wache zwischen Hoffnung und Horror und starb geliebt, auf den Beinen, im Dienst derer, die wir leiden."
+
+Gezeichnet "Inifere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Versuchen, den Namen zu lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Erneut versuchen, den Namen zu lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

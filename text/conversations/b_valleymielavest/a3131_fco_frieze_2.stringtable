@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\a3131_fco_frieze_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Fries besteht aus einem wirren Durcheinander sich überlagernder Kanten und geschundener Körper. Es ist nicht klar, ob der Künstler genial, betrunken oder verrückt war. 
+ 
+ Dies hier zeigt ein Schlachtfeld, so viel ist sicher. Doch der Detailreichtum ist atemberaubend und es ist nicht sofort ersichtlich, was der Künstler damit vermitteln wollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du siehst dir den Fries mit dem Schlachtfeld erneut an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Fries untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Den Fries erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Das erste Detail, das dir auffällt, ist die Festung, die sich in einem klaren Relief von der Wand abhebt. Viele der abgebildeten Soldaten strömen durch die aufgerissenen Tore und auf jedem einzelnen Gesicht spiegelt sich eine andere Emotion wider. Euphorie. Wut. Angst. 
+ 
+ Doch es sind die scheinbar zufällig erhöhten gezackten Kanten, die deine Aufmerksamkeit auf die rechte untere Ecke des Werkes richten. Hier liegt die Erste Verstoßene des Wandelnden Gottes tödlich verwundet. 
+ 
+ Sie stirbt einen einsamen Tod, während um sie herum verschiedene Realitäten zuschnappen wie scharfe Zähne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Erneut siehst du die Soldaten in die eroberte Festung strömen, ein triumphierender Ausdruck auf ihren alterslosen Gesichtern. Der furchtbare Tribut, den die Schlacht gefordert hat, wird deutlich in den geschundenen Körpern und abgetrennten Gliedern hinter ihnen. 
+ 
+ Und in einer Ecke des Frieses siehst du die Erste Verstoßene des Wandelnden Gottes, wie sie im Schlamm liegend einsam verreckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ihre Stimme ist nachdenklich. "Ich liebe dieses Bild. Als ich zuletzt in Miel Avest war, sah ich es eine ganze Stunde lang an. Ich stelle mir gerne vor, dass sie so gelitten hat, wie Meng wegen ihr gelitten hat. Mehr noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Warum bist du immer noch so voller Hass? Ich mache mir Sorgen, dass er dich vergiften wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Sei nicht kindisch. Sie ist tot. Lass die Vergangenheit ruhen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Jene, die an sie glaubten, trauern wohl immer noch um sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sie knurrt. "Jene, die an sie glaubten, haben die einzige Familie abgeschlachtet, die ich je kannte. Sie reden über wichtige strategische und taktische Siege, aber in Wahrheit heißt das, dass sie das Blut von Unschuldigen vergießen. Sie faseln von notwendigen Opfern? Dann sollen sie am eigenen Leib den Schmerz fühlen, der damit verbunden ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Sie verschränkt die Arme. "Sag, was du willst. Ich lache immer noch über ihren Tod. Auch nach all den Jahren noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Jeder Idiot weiß, dass die Vergangenheit die Gegenwart bestimmt. Was damals passiert ist, bestimmt, was *heute* passiert. Ich soll sie als Heilige in Erinnerung behalten? Ihre Fehler verdrängen, wo sie für den Tod tausender Unschuldiger verantwortlich war? Niemals. Wenn es nach mir geht, soll man sich bis ans Ende der Zeit an ihre Verbrechen erinnern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Sie zuckt mit den Schultern. "Könnte sein. Aber wenn die einzige Familie, die *du* je kanntest, vor deinen Augen abgeschlachtet wird, möchte ich sehen, wie du dich in Vergebung übst und dir einredest, dass die Mörder es aus gutem Grund getan haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2621_beleazar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>65</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Beleazars rot umrandete Augen weiten sich, als er dich sieht, und er greift hastig mit seiner Hand über die Pläne, die auf seinem Arbeitstisch verteilt liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Beleazar summt fröhlich vor sich hin, während er die Gedächtnis-Organe des Nychthemeron auf seinem Arbeitstisch sorgfältig zergliedert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Was tut Ihr denn noch hier?" Beleazar wirkt ungehalten, während er seine geschwollen Augen mit den Ärmeln seiner Robe reibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Follow-up PQ. 6</DefaultText>
+      <FemaleText>Follow-up PQ. 6</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>""
+{GAVIN: Gating with blank global for now. This is another Order of Truth faction quest branch. Disable this node when a conclusion is reached in one of the branches.}</DefaultText>
+      <FemaleText>""
+{GAVIN: Gating with blank global for now. This is another Order of Truth faction quest branch. Disable this node when a conclusion is reached in one of the branches.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Er nickt dir erheitert zu, als er die glänzende Nychthemeron-Niere mit seinem Skalpell zur Seite schiebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>El-Jintos Notizen liegen auf Beleazars Arbeitstisch verteilt. Einzelne Bilder und Worte wurden mit Kreisen markiert, und dicke Tintenflecken zeichnen die dünnen Wangenknochen des jungen Priesters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Beleazar ist damit beschäftigt, El-Jintos Notizen in unverständliche Stapen einzuteilen. Er nickt dir heiter zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Beleazars Teleportationsgerät liegt, in Stücken verteilt, auf der Oberfläche seines Arbeitstisches. Als er dich kommen sieht, wirft er seine Arme in einer Art Abwehrmechanismus um die Teile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Als du dich näherst, wirft Beleazar erneut seine Arme um die unzähligen Teile des auseinandergebauten Teleportationsgerätes und starrt dich bedrohlich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Beleazars rot umrandete Augen weiten sich, als er dich sieht, und er greift hastig mit seiner Hand über die Pläne, die auf seinem Arbeitstisch verteilt liegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich habe Euch doch gesagt, dass Ihr mich allein lassen sollt!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Beleazar sitzt an seinem Arbeitstisch und beugt sich über die Seiten eines sichtlich gealterten Bestiariums.
+
+"Oh. Hallo", sagt er mit einem fahlen Lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Beleazars Stimmung scheint sich seit deinem letzten Besuch gebessert zu haben. Er blättert durch das Bestiarium, durchforstet den Text und schreibt sorgfältig Notizen an die Seitenränder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Hallo!" sagt er und winkt dir zu. Kleine Fetzen von Nychthemeron-Fleisch fliegen durch die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ihr! Meine Forschungen zu sabotieren war wohl nicht genug. Haben Eure Entdecker-Freunde Euch dafür bezahlt, hierher zu kommen und mich auszulachen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Das hier ist der Orden der Wahrheit", sagt er. "Ich arbeite hier, wenn ich nicht gerade mit der Feldforschung beschäftigt bin."
+
+Er zwinkert dir unbeholfen zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Was? *Oh*", sagt er, mit einem Blick, der ihm selbst ziemlich durchtrieben vorkommen muss. "Wie schön, Euch zu sehen", sagt er laut. "Ich erforsche biomechanische Organismen. Zum Beispiel Nychthemeron."
+
+Er zwinkert dir erneut zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Follow-up PQ. 26</DefaultText>
+      <FemaleText>Follow-up PQ. 26</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Was tut Ihr hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Was tut Ihr hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Lebt wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Hmmm? Oh, ja. Lebt wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ich ... Das hier ist der Orden der Wahrheit", sagt er verwirrt. "Ich arbeite hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich erforsche biomechanische Organismen", sagt er, während er eine Augenbraue hebt und seine Schultern hängen lässt. "Ihr erinnert Euch doch an mich, oder etwa nicht? Wir haben uns auf dem Circus Minor getroffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Bitte. Nichts. Anfassen", zischt er. "Ihr habt meiner Forschung und meinem Ruf schon genug geschadet!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"I-Ich stehe kurz davor, herauszufinden, was nicht stimmt", stottert er. "Fasst bloß nichts an!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Der Orden hat mich bisher noch nicht ausgestoßen", sagt er mit sichtlich gestresstem Gesicht. "Trotz Eurer Bemühungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Oh nein", sagt er und schüttelt den Kopf. "Ihr bekommt nicht noch einmal die Gelegenheit. Lasst mich in Ruhe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Macht doch, was Ihr wollt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>""
+{GAVIN: Add new CharacterWitness variable to account for him changing his mind.}</DefaultText>
+      <FemaleText>""
+{GAVIN: Add new CharacterWitness variable to account for him changing his mind.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Hallo!", sagt er. Seine Augen leuchten vor freudiger Erschöpfung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Es tut mir leid, dass ich Euren Plan mit dem Nychthemeron Zunichte gemacht habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ach! Tut es das?" Er schlägt mit seiner Hand auf den Arbeitstisch und ein dumpfer Klang ertönt. "Das lässt mich diese Entblößung und Schande doch gleich viel leichter ertragen!"
+
+Er massiert seine gematerte Hand und starrt dich dabei wütend an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Seht mich nicht an!", kreischt er. "Nicht, dass Ihr allen erzählt, an was ich als nächstes arbeite!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>::summt::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>::knurrt::</DefaultText>
+      <FemaleText>::knurrt::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Das hier ist der Orden der Wahrheit", sagt er misstrauisch. "Ich arbeite hier, wenn ich nicht auf Feldforschung bin. Dachtet Ihr, dass ich meine ganze Zeit auf dem Circus Minor verbringen würde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Ihr ..." Er blickt wieder finster drein. "Ihr erinnert Euch wirklich nicht? Ich erforsche biomechanische Organismen. Ihr habt mir mit dem Nychthemeron geholfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Was tut Ihr nochmal hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich erforsche biomechanische Organismen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ich erforsche biomechanische Organismen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich erforsche biomechanische Organismen, wie zum Beispiel Nychthemeron. Und andere Wesen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Hört auf, mit mir zu reden! Lasst mich in Ruhe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ich studiere Organismen," sagt er, fasziniert von der Skizze eines von metallenen Fasern durchzogenen Blatts in El-Jintos Notizen. "Biomechanische Organismen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ich ..." Noch bevor er weiterspricht, blättert er eine Seite um. Seine Augenbrauen signalisieren größtes Interesse. 
+
+"Habe schon einmal eine Kreatur mit so einer Markierung gesehen ...", murmelt er. "Biomechanisch? Nein. Organischer Stein?"
+
+Offensichtlich hat er vergessen, dass du da bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Was?", murmelt er mit halber Aufmerksamkeit. El-Jintos Notizen haben offensichtlich sein volles Augenmerk auf sich gezogen. 
+
+"Oh", sagt er endlich, ohne dich anzusehen. "Ich bin Teil des Ordens der Wahrheit. Ich arbeite hier."
+
+Notizblätter rascheln unter seinen Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

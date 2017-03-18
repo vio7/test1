@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4201_tussle_end</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als die letzte der Kreaturen auf den Boden fällt, versiegt das wütende Geflüster im Dunkeln der Flor. Du bist nun wieder alleine in der Kammer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Endlich. Wir haben Wichtiges zu tun. Machen wir weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ich habe *keine* Ahnung, was das für Viecher waren, aber ich kann es kaum erwarten, noch einmal gegen sie zu kämpfen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Umherwandelndes Flor-Fleisch. Was für Überraschungen warten hier wohl noch auf uns?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich würde gerne so tun, als hätten wir gerade gegen gewöhnliche Monster gekämpft ... aber die waren wie wandelnde Organe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ist dir aufgefallen, wie diese Kreaturen sich verhalten haben? Bruchstücke der Flor, und doch ... eigenständig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Alles hier wird ekliger, je länger man es sich ansieht."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

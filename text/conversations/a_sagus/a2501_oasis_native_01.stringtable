@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_oasis_native_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich kann es kaum erwarten, nach Hause zu kommen und panierten Grapah zu essen. Die Sagus-Variante schmeckt wie Pfefferminzscheiße."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Hier machen sie meine Chrysol-Fritten einfach nicht wie daheim. Und dann sind sie auch noch dreimal so teuer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich habe vor Wochen meine letzte Di‘plii-Paste verbraucht, die ich von zu Hause mitgebracht hatte. Ich brauche meine Gewürze!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

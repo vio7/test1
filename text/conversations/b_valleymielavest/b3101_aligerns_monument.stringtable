@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_aligerns_monument</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Einen Moment, ja?"
+ 
+ Ohne eine Antwort abzuwarten geht er auf das Monument zu und stellt sich mit verschränkten Armen davor. Die Tätowierungen, die sich normalerweise unablässig auf seinen Armen winden, stehen ebenfalls still.
+ 
+ Einen Augenblick später hebt er den Kopf und sieht, wie du ihn beobachtest.
+ 
+ "Und?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ein hoher Rahmen aus Draht und Metall steht auf einem Sockel aus Synth. Der Sockel ist mit Dutzenden Schnitzereien in einer fremden Sprache verziert.
+ 
+ Der Rahmen wurde kunstvoll aus seltsamen Materialen geformt. In seinem Inneren wogen und kreuzen sich bunte Lichter wie Rauchwolken und tanzen in einer wabernden Spirale. Gelegentlich verbinden sich die Lichter zu menschlichen Gestalten, die sich nach wenigen Sekunden wieder auflösen, ohne je eindeutige Züge angenommen zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wie und?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Wem wird hier gedacht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wir haben nicht den ganzen Tag Zeit, Aligern. Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Gut."
+ 
+ Er dreht sich um, um wieder mit dir zu kommen. Dann wirft er noch einen letzten Blick über seine Schulter.
+ 
+ "Das ist es, was vom Leben bleibt. Ein paar Kratzer auf einem Denkmal, die mit der Zeit langsam verblassen. Vorausgesetzt es gibt überhaupt jemanden, der deines Todes gedenkt. Doch selbst dann verblasst die Erinnerung irgendwann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Er fährt mit dem Finger über einige Zeichen. "Das sind alle, die mir je etwas bedeutet haben. Entfernte Verwandte. Vettern, Onkel und Tanten. Menschen, mit denen ich aufgewachsen bin. Die ich mein ganzes Leben lang kannte. Die ich als selbstverständlich hinnahm."
+ 
+ Er schließt die Augen. "Und enge Familienmitglieder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich weiß, die Frage brennt dir auf der Zunge. Also hör zu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ich war einst ein Aeon-Priester in einer Aldeia namens Ormen, westlich von Sagus-Klippen. Ein kleiner Ort, von dem die Welt kaum Notiz nahm, aber es gab mehr als genug für mich zu tun. Ich beschützte die Stadt vor herumstreifenden wilden Tieren, sah mir die Numenara an, die sie ausgruben oder fanden, und verbrachte meine Tage mit meiner Familie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Dies war die traditionelle Gedenkstätte unseres Dorfes. Die Schnitzereien, meine ich. Diesen Apparat... habe ich hergestellt." Er lacht kurz, ein Anflug von Humor. "Ich weiß nicht mal, ob all diese Leute wirklich tot sind, aber ich habe ihn dennoch für sie errichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ich habe wirklich keine Zeit hierfür. Wir sollten gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Er schüttelt den Kopf. "Du sagst dir, irgendwann werd ich die Welt verändern, aber stattdessen liegst du irgendwann unter der Erde und die Welt machst einfach weiter wie immer."
+ 
+ Er holt tief Luft und stößt sie dann explosiv aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du rufst dir für einen Moment die Trauer vor Augen, die der Erschaffer dieses Denkmals gefühlt haben muss, als er jedes Wort mit der Hand gemeißelt und die Gesichter aus Licht geformt hat.
+ 
+ Dann wird es Zeit, weiterzugehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Du hast es gebaut? Warum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Wer sind sie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Was ist mit ihnen passiert?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Es ist ein Denkmal. Was sollte es sonst sein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nettes Denkmal. Aber wir müssen weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er schüttelt den Kopf. "Ein Unfall. Ein furchtbarer Unfall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Er sieht dich lange und intensiv an. "Aber daran erinnerst du dich ja wohl noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich weiß nicht, wovon du redest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Was für ein Unfall?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Aber was ist mit ihnen passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Die unangenehmen Details aus deiner Vergangenheit hast du wohl bequem verdrängt, was? Aber du warst dabei. Du kamst in mein Dorf unmittelbar bevor es passierte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du kannst dich wirklich nicht mehr an sie erinnern, oder? Oder vielleicht hast du auch einfach keinen Gedanken mehr an sie verschwendet, seit ... nein, vergiss es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>(Bluffen) "Natürlich. Was ist passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich erinnere mich nicht daran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich bin nicht der Wandelnde Gott, Aligern."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Scheint, als hättest du mir etwas zu sagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Er starrt dich mit kalten Augen an. "Du warst dabei. Du musst gewusst haben, was passiert, wenn dieser Rahmen aktiviert wird." Er schüttelt den Kopf. "Spielt keine Rolle. Wir werden bestimmt früh genug darüber sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Er sieht dich lange und intensiv an. "Jemand hat einen Apparat gefunden. Eine Art Rahmen. Oder eine Waffe. Jemand hat es aktiviert. Und dann waren meine Leute weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Das ist schade. Aber wir müssen weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Seit damals bin ich auf der Suche nach ihnen. Folge allen Spuren, die ich finden kann. Versuche, irgendetwas über den Rahmen in Erfahrung zu bringen - wer ihn gebaut hat, wozu er dient. Aber ich fand nichts heraus, und auch nicht die Person, die dafür verantwortlich war, dass der Apparat aktiviert wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich hatte gehofft, dass du *mir* etwas zu sagen hättest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Aber... vergiss es. Ich will jetzt nicht mehr darüber reden. Wir gehen nach Miel Avest, richtig? Vielleicht können wir dort weiter darüber sprechen."
+ 
+ Er starrt in die Ferne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Und doch hast du den Leuten in Sagusklippen gesagt, dass du es bist. Hast du damals gelogen oder lügst du jetzt? Oder - warte, ich hab's: Damals warst du der Wandelnde Gott, doch vor kurzer Zeit hat er deinen Körper verlassen und jetzt bist du nur ein gewöhnlicher Verstoßener. Alles klar."</DefaultText>
+      <FemaleText>"Und doch hast du den Leuten in Sagusklippen gesagt, dass du es bist. Hast du damals gelogen oder lügst du jetzt? Oder - warte, ich hab's: Damals warst du der Wandelnde Gott, doch vor kurzer Zeit hat er deinen Körper verlassen und jetzt bist du nur eine gewöhnliche Verstoßene. Alles klar."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Kommt. Wir haben uns bereits lange genug hier aufgehalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Für dich ist das nur ein ganz gewöhnlicher Tag, was? Verstehe. So ist das wohl, wenn man ständig irgendwo auf der Welt die Leben von irgendwelchen Leuten ruiniert. Aber... denk daran, meine Leute sind nicht vergessen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Er schüttelt den Kopf. "Vielleicht spreche ich eines Tages darüber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Leider ist dieser Reisende aalglatt und nicht leicht zu finden. Die Leute kennen ihn, aber keiner weiß, wo man ihn findet. Vielleicht haben wir in Miel Avest mehr Glück. Vielleicht finde ich dort meine Antworten."
+ 
+ Ein halbes Lächeln umspielt seine Lippen. "Ich muss sagen, ich weiß deine Hilfe zu schätzen."</DefaultText>
+      <FemaleText>"Leider ist dieser Reisende aalglatt und nicht leicht zu finden. Die Leute kennen sie, aber keiner weiß, wo man sie findet. Vielleicht haben wir in Miel Avest mehr Glück. Vielleicht finde ich dort meine Antworten."
+ 
+ Ein halbes Lächeln umspielt seine Lippen. "Ich muss sagen, ich weiß deine Hilfe zu schätzen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Ihr Blick wandert zu ihm, bleibt auf ihm hängen. Sie studiert stumm sein Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die Spirale dreht sich weiter. Die Lichter wogen hypnotisch hin und her. Es ist irgendwie beruhigend und lädt zu tiefem Sinnieren ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Was ist mit gefallenen Verstoßenen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ha! Wenn du denkst, dass ich um unsere Geschwister trauere... dann wirst du in Miel Avest eine schöne Überraschung erleben. Glaub nicht, dass ich auch nur eine einzige Träne wegen ihnen vergießen würde. Ehe pisse ich auf ihre Gräber."
+ 
+ "Aber mal angenommen wir würden ein Denkmal für sie errichten. Was soll das bringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Was ist mit den Einwohnern von Kholn?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Sie ist lange still. "Ich denke jeden Tag an sie. Ich sehe ihre Gesichter, höre ihr Lachen, erinnere mich an Nengs letzte Worte. Aber sie sind schon lange tot, ihre Kinder in alle Winde verstreut. Wer würde hierher kommen und ihnen gedenken? Nur ich. Wer würde das Denkmal pflegen? Nur ich. Wer würde nach meinem Tod noch wissen, für wen dieses Denkmal errichtet wurde?"
+ 
+ Sie zuckt mit den Schultern. "Was soll das bringen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Dein Denkmal könnte das Interesse künftiger Generationen wecken. Sie könnten erfahren, was wirklich passiert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Sie schüttelt den Kopf. "Sinnlos."
+ 
+ Doch als sie sich abwendet, ist ihr Blick nachdenklich. "Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Du könntest deine Trauer fokussieren. So könntest du sie vielleicht überwinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Was es bringt? Das macht man eben so."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ha! Der beste Grund, um etwas zu tun, was?"
+ 
+ Sie streicht ihren Mantel glatt. "Ihr Andenken wird mit mir sterben. Aber es ist egal, denn sie selbst sind schon tot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Es geht nicht um die anderen. Es geht um dich. Lass die Menschen wissen, dass es jemandem nicht egal ist. Dass es *dir* nicht egal ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ich denke nicht wirklich darüber nach. Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Sie starrt dich einen Moment lang an. Ihr Blick wandert über dein Gesicht. Dann zuckt sie mit den Schultern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Kommt. Wir haben uns bereits lange genug hier aufgehalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Als Aligern sich abwendet, packt Matkina dich am Ärmel und flüstert: "Sag mir... glaubst du, dass irgendjemand jemals um uns trauern wird? Überall um uns herum... gedenken gewöhnliche Menschen ihrer Toten, halten das Andenken an die Gestorbenen in Ehren, bekunden ihre Liebe und ihren Respekt. Aber wer wird das für uns tun?"
+ 
+ Dann lacht sie, als wolle sie sich über ihre Traurigkeit lustig machen. "Niemand. Wir gedenken ja auch niemandem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Du denkst einen Moment an Aligerns Dorf. Was er als Andenken daran errichtet hat. Dann wird es Zeit, weiterzugehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Versuchen, die Bedeutung des Monuments zu entschlüsseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Erneut versuchen, die Bedeutung des Monuments zu entschlüsseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Bei näherer Betrachtung scheint es, als wäre dieses Monument - oder zumindest Teile davon - erst vor kürzerer Zeit errichtet worden. Nahezu alles rundherum ist verwittert, versunken oder verrottet. Und obwohl der Synthsockel all diese Zeichen des Verfalls aufweist, wirken die eingravierten Inschriften darauf noch recht neu - um den Sockel findest du sogar noch Synthspäne.
+ 
+ Auch der Rahmen aus Draht und Metall wurde aus verschiedenen Teilen und Materialien gebaut, die auf den Synthsockel aufgesetzt wurden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Du studierst es einige Minuten lang, hast aber immer noch keine Idee, was der ursprüngliche Zweck dieses Denkmals gewesen sein könnte. Vielleicht gab es nie einen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Du weißt immer noch nicht, wofür dieses Denkmal gut sein sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Die Schrift ist also eine Sprache der Neunten Welt, aber nicht die Wahrheit. Vielleicht stammt die Inschrift von den Bewohnern eines kleinen Dorfes oder einer Aldeia hier in der Gegend, weit weg von den großen Städten.
+ 
+Der Rahmen aus Draht und Metall wurde von jemandem gebaut, der geschickt im Umgang mit Numenara ist. Es wurden verschiedene Apparate eingesetzt, um einen wunderschönen Lichtwirbel zu erschaffen.
+ 
+Die ist ein mit großer Sorgfalt errichtetes Denkmal für eine Person - oder für mehrere. Als du das Werk betrachtest, überwältigt dich die große Trauer des Künstlers. 
+ 
+Vielleicht ist das ja sein Zweck.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

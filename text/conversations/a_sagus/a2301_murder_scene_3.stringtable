@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_murder_scene_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Blut träufelt von dem Symbol an der Wand und tropft aus Rissen in die Lache am Boden. Es ist, als würde die Wand weinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Iss einen Teil der Hand, um festzustellen, wer der Mörder war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Nur dünne, beinahe durchsichtige Schichten von Fleisch haften an den glänzenden Sehnen der gehäuteten Hand. Sie schmecken nach ...
+
+*Qual. Schreie, die eine Kehle rau machen. Eine verschwommene Gestalt, die schnell schneidet. Zähne hinter einem freudigen Grinsen.*
+
+Die Erinnerung fällt auseinander und lässt dich keuchend zurück. Wer auch immer der Mörder ist, er hat besondere Sorgfalt an den Tag gelegt, das ganze Fleisch von der Hand zu schälen, wodurch er zu wenig zurückließ, das eindeutige Erinnerung enthält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Eine gehäutete, abgetrennte Faust liegt mit den Knöcheln nach unten in einer riesigen Blutlache, ausgerichtet an die Mitte eines roten, tropfenden Kreises, der an die Wand gezeichnet wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wir werden nichts aus dieser Schweinerei erfahren", sagt sie. "Schauen wir uns den Kreis an der Wand an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Follow-up PQ. 40</DefaultText>
+      <FemaleText>Follow-up PQ. 40</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Untersuche die Hand in der Blutlache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Untersuche erneut die Hand in der Blutlache.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die Faust steht in der Mitte der ruhigen Lache, als würde sie gegen den Boden schlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Untersuche den Blutkreis an der Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Das ist das Symbol der Kinder der Endlosen Pforte, einer Splittersekte der Dendra O'hur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Follow-up PQ. 46</DefaultText>
+      <FemaleText>Follow-up PQ. 46</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du machst einen Schritt auf den Kreis zu. Irgendetwas daran scheint vertraut zu sein ...
+
+{GAVIN: Bonus-Aufgabe, abhängig von der Zeit: Verzweige das in einen separaten Baum mit PQs für jeden Gefährten.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Das habe ich eine Weile nicht mehr gesehen", sagt sie sanft, als sie an deine Seite tritt. "Das ist kein einfacher Kreis. Das ist das Symbol der Kinder der Endlosen Pforte."
+
+Sie schnaubt. "Das ist eine Sekte der Dendra O'hur, die Menschen tötet statt sie zu essen. Sie nennen es 'die Käfige öffnen'. Die Dendra jagten sie vor langer Zeit aus der Stadt, doch wie es scheint, haben sie den Wink mit dem Zaunpfahl nicht verstanden. Oder ..." Sie hält inne und denkt nach. "Einer der Dendra O'hur war es leid, darauf zu warten, dass Menschen von sich aus sterben."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du bist dabei, zu reagieren, als eine Erinnerung sich schmerzhaft durch deine Gedanken *wölbt* – und es ist nicht deine Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Ergib dich der Erinnerung, ganz gleich, wie schmerzhaft es wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Frisches Blut läuft über den Kreis und zieht Euch durch den Hohlraum in seiner Mitte in die Welt auf der anderen Seite. 
+
+Ein blasiger Landstrich ringelt sich durch eine Leere, die so schwarz wie ein aufgerissener Schlund ist. Die Luft ist schwer, faul und weist die Glätte einer Made auf. Übelkeit überkommt dich und füllt deinen Kopf. Infiziert deine Gedanken. 
+
+Und durch all das spürst du einen Geist in dieser unergründlichen Dunkelheit, der auf deinen zukommt, suchend, probierend. Freudig. Hungrig. 
+{TON: Wind mit weichem, ekelhaftem Gesabber im Hintergrund. Könnte der gleiche sein, den der Spieler in der Szene der Endlosen Pforte hört.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Du schiebst die schreckliche Erinnerung von dir weg, schlägst deinen Geist wie eine Tür zu und schluckst die knotige Übelkeit in deinem Hals herunter. 
+
+Nachdem du diese Welt gesehen hast, erscheint die Blutlache zu deinen Füßen fast banal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Frisches Blut läuft über den Kreis und zieht Euch durch den Hohlraum in seiner Mitte in die Welt auf der anderen Seite. 
+
+Ein blasiger Landstrich ringelt sich durch eine Leere, die so schwarz wie ein aufgerissener Schlund ist. Die Luft ist schwer, faul und weist die Glätte einer Made auf. Übelkeit überkommt dich und füllt deinen Kopf. Infiziert deine Gedanken ...
+{TON: Wind mit weichem, ekelhaftem Gesabber im Hintergrund. Könnte der gleiche sein, den der Spieler in der Szene der Endlosen Pforte hört.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Schiebe sie beiseite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du schlägst deinen Geist wie eine Tür zu. Die Erinnerung schnappt nach dir, und für einen Moment siehst du eine Welt jenseits des blutigen Kreises – einen blasigen Landstrich, der sich durch eine hungrige Leere windet ...
+
+Dann kollabiert die Vision und lässt dich atemlos und matt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Du erkennst die Formen, die in die Wand geritzt wurden. Es sind sowohl ein transdimensionaler Eingang als auch das Symbol der Kinder der Endlosen Pforte, einer Splittersekte der Dendra O'hur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Dies führt zu einer unausweichlichen Schlussfolgerung – einer der Dendra O'hur könnte der Mörder sein ... oder zumindest wissen, wer der Mörder ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Ehe du dich von dem Kreis abwenden könnt, *wölbt* sich eine Erinnerung durch deine Gedanken – und es ist nicht deine Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Deine Hand bewegt sich eigenständig zu den Streifen und Blasen aus Blut, und eine eiserne Spitze jagt durch deine Schläfen. 
+
+Du stehst vor einer leeren Wand. Hinter dir strahlt widerliches purpur-schwarzes Licht um die Ecke. Dies ist *dein* Tempel und du wurdest in eine Sackgasse getrieben. Von *ihr*.
+
+Blut sickert von der anderen Seite durch die Wand, wodurch sich die vertraute Form abzeichnet. Verängstigt und verwirrt verfolgt ihr die Linie ... und ein Tor öffnet sich mit einem nassen *Knirschen* ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Du studierst die Striche und blutenden Nadelstiche, die den Kreis verzieren – ihn *binden*. Es sind keine Symbole aus irgendeiner bekannten Menschensprache, doch du spürst ihren Sinn. 
+
+Der Kreis war beinahe belanglos. Diese Siegel *ergriffen* seine Form und *drückten* ihn durch Raum und Zeit. Dies war, wenn auch nur kurz, ein transdimensionales Portal, das an einen anderen Ort führte. Jetzt ist es tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Wenn überhaupt, dann scheint der Kreis an der Wand – das transdimensionale Tor – dunkler als zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Es ist sofort ersichtlich, dass die Striche und blutenden Nadelstiche, die diesen Kreis verzieren, nicht willkürlich sind. Das ist ein Symbol, gezeichnet mit sorgfältigem Vorsatz. 
+
+Leider kannst du damit nichts anfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Die Anordnung von Kreisen und Linien verschwimmt, je länger man sie anstarrt. Du kannst immer noch nichts mit ihrer Anordnung anfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Untersuche den Blutkreis an der Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Untersuche erneut den Blutkreis an der Wand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Die Faust mit den langen Fingern in der Mitte der Blutlache war in schlechtem Zustand, ehe jemand die ganze Haut von ihr abzog. Gekrümmte Knochenteile weisen darauf hin, dass der ehemalige Besitzer seine Hand mehr als einmal gebrochen hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Die Faust mit den langen Fingern in der Mitte der Blutlache war in schlechtem Zustand, ehe jemand die ganze Haut von ihr abzog. Gekrümmte Knochenteile weisen darauf hin, dass der ehemalige Besitzer seine Hand mehr als einmal gebrochen hat. 
+
+Du entdeckst auch frische Schnitte auf dem Handrücken. Manth Pa kämpfte um sein Leben. Es scheint ihm nicht geholfen zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Manth Pa", sagt Tybir seufzend. "Armer Kerl. Ich vermute, dass sein Mundwerk schließlich die falsche Aufmerksamkeit auf ihn zog."
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Wir sollten mit einem Mann namens Gourmandus darüber reden. Er ... kümmert sich hier unten um die Dinge."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Die Vision zerbricht ... doch die Erinnerungen sind mit dir noch nicht fertig, wie es scheint. Eine weitere wölbt sich durch deine Gedanken und umschließt dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Du trittst zurück.</DefaultText>
+      <FemaleText>Du trittst zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Ah, armer Manth. Er war immer für alles bereit, doch er hatte einfach nie dieses Gefühl der "sich aufrichtenden Nackenhaare", das man auf der Straße braucht. Nicht gut im Erkennen von Zeichen, wenn du mich verstehst."
+
+"Du kannst darauf wetten, dass ich nicht unvorbereitet erwischt worden wäre von ... was auch immer das war, das ihn erwischt hat. Zumindest hoffe ich das."
+{COLIN/NATHAN: This also feels like it should maybe be a forced interjection, or if it's otherwise, then it should be reworded to assume the player might hear about it long after the event in question. -AH}</DefaultText>
+      <FemaleText>"Ah, armer Manth. Er war immer für alles bereit, doch er hatte einfach nie dieses Gefühl der "sich aufrichtenden Nackenhaare", das man auf der Straße braucht. Nicht gut im Erkennen von Zeichen, wenn du mich verstehst."
+
+"Du kannst darauf wetten, dass ich nicht unvorbereitet erwischt worden wäre von ... was auch immer das war, das ihn erwischt hat. Zumindest hoffe ich das."
+{COLIN/NATHAN: This also feels like it should maybe be a forced interjection, or if it's otherwise, then it should be reworded to assume the player might hear about it long after the event in question. -AH}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Dein Verlust tut mir leid."</DefaultText>
+      <FemaleText>"Dein Verlust tut mir leid."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ich kannte den Jungen nicht so gut", sagt er schulterzuckend. "Aber ... aber danke trotzdem. Wünschte, ich würde seine Familie kennen. Ich würde sie informieren."
+
+Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</DefaultText>
+      <FemaleText>"Ich kannte den Jungen nicht so gut", sagt er schulterzuckend. "Aber ... aber danke trotzdem. Wünschte, ich würde seine Familie kennen. Ich würde sie informieren."
+
+Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Wer – oder was – glaubst du, hat ihn getötet?"</DefaultText>
+      <FemaleText>"Wer – oder was – glaubst du, hat ihn getötet?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Sieht für mich nach Kult-Nonsens aus. Zu durchdacht – und grausig – für einen einfachen Mord."
+
+Er zuckt mit den Schultern. "Aber es gibt Dutzende Kulte in Sagus Klippen, also würde ich ungern raten, welcher davon verantwortlich ist."
+
+Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</DefaultText>
+      <FemaleText>"Sieht für mich nach Kult-Nonsens aus. Zu durchdacht – und grausig – für einen einfachen Mord."
+
+Er zuckt mit den Schultern. "Aber es gibt Dutzende Kulte in Sagus Klippen, also würde ich ungern raten, welcher davon verantwortlich ist."
+
+Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Keine Sorge. Du hast jetzt Freunde, die dir den Rücken freihalten."</DefaultText>
+      <FemaleText>"Keine Sorge. Du hast jetzt Freunde, die dir den Rücken freihalten."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Das ist ...", fängt er an, von deinen Worten überrascht. "Das ist ein Trost. Danke. Wünschte, ich wäre da gewesen, um das gleiche für den armen Manth zu tun."
+
+Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</DefaultText>
+      <FemaleText>"Das ist ...", fängt er an, von deinen Worten überrascht. "Das ist ein Trost. Danke. Wünschte, ich wäre da gewesen, um das gleiche für den armen Manth zu tun."
+
+Du wendest deine Aufmerksamkeit wieder dem Tatort zu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Die Vision bricht zusammen, und lässt dich keuchend.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

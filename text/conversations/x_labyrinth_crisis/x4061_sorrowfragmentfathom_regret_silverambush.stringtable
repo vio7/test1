@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_regret_silverambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Als du dieses Gerät untersuchst, spürst du, wie es deinen Geist scannt und einen Schwall unerwünschter Bilder hervorbringt. Eines dieser Bilder erregt deine Aufmerksamkeit ganz besonders und zerrt beharrlich an einer vergrabenen Erinnerung.</DefaultText>
+      <FemaleText>Als du dieses Gerät untersuchst, spürst du, wie es deinen Geist scannt und einen Schwall unerwünschter Bilder hervorbringt. Eines dieser Bilder erregt deine Aufmerksamkeit ganz besonders und zerrt beharrlich an einer vergrabenen Erinnerung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du betrittst die Taverne und jedes Gesicht wendet sich dir zu. Das herzliche Geflüster der Unterhaltung verstummt. Sie kennen dich und sie wissen, wieso du hier bist. Die Aldeia von Thaul unterstützt das rhythmische Flüstern in der Nähe und die Einheimischen behalten die Aeon-Priester im Auge. Sie kennen die Gefahren, die von den Numenera ausgehen, die die Wissenschaftler ausgraben, und – aufgrund der Nähe zur Endlosen Schlacht – wissen sie, was deine Tätowierung bedeutet.
+
+Du hörst ein scharfes Flüstern: "Abgestoßenen-Abschaum!"
+
+Du gönnst ihnen nicht die Befriedigung, indem du hinschaust.</DefaultText>
+      <FemaleText>Du betrittst die Taverne und jedes Gesicht wendet sich dir zu. Das herzliche Geflüster der Unterhaltung verstummt. Sie kennen dich und sie wissen, wieso du hier bist. Die Aldeia von Thaul unterstützt das rhythmische Flüstern in der Nähe und die Einheimischen behalten die Aeon-Priester im Auge. Sie kennen die Gefahren, die von den Numenera ausgehen, die die Wissenschaftler ausgraben, und – aufgrund der Nähe zur Endlosen Schlacht – wissen sie, was deine Tätowierung bedeutet.
+
+Du hörst ein scharfes Flüstern: "Abgestoßenen-Abschaum!"
+
+Du gönnst ihnen nicht die Befriedigung, indem du hinschaust.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du kannst jedoch die Spannung in dem Raum spüren, als du dich an die Bar begibst. Der Wirt würdigt dich keines Blickes. Du weißt, was als Nächstes kommt. Du seufzt und drehst dich in den Raum.
+
+Eine große, stämmige Frau steht vor dir. "Du bist hier nicht willkommen, Verstoßener. Euer verdammter Krieg ist ein Fluch. Wir werden keine Verstoßenen hier dulden, nicht mehr. Raus hier, oder bei den Göttern, du wirst dir wünschen, dass du gegangen wärst."</DefaultText>
+      <FemaleText>Du kannst jedoch die Spannung in dem Raum spüren, als du dich an die Bar begibst. Der Wirt würdigt dich keines Blickes. Du weißt, was als Nächstes kommt. Du seufzt und drehst dich in den Raum.
+
+Eine große, stämmige Frau steht vor dir. "Du bist hier nicht willkommen, Verstoßene. Euer verdammter Krieg ist ein Fluch. Wir werden keine Verstoßenen hier dulden, nicht mehr. Raus hier, oder bei den Göttern, du wirst dir wünschen, dass du gegangen wärst."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du spürst, wie sich Energien in dir aufbauen und herumwirbeln. Dein Lächeln ist wild, als du ein Netz von Gezeiten webst.
+
+"Du hast keine Ahnung, mit wem du hier sprichst. Ich bin kein Verstoßener. Ich bin ihr Erzeuger. Ich bin der Urheber der Endlosen Schlacht. Ich bin der Wandelnde Gott, und ihr *werdet* mich verehren."
+
+Du spreizt die Hände weit auseinander und die Gezeiten strömen aus dir heraus.</DefaultText>
+      <FemaleText>Du spürst, wie sich Energien in dir aufbauen und herumwirbeln. Dein Lächeln ist wild, als du ein Netz von Gezeiten webst.
+
+"Du hast keine Ahnung, mit wem du hier sprichst. Ich bin keine Verstoßene. Ich bin ihr Erzeuger. Ich bin der Urheber der Endlosen Schlacht. Ich bin der Wandelnde Gott, und ihr *werdet* mich verehren."
+
+Du spreizt die Hände weit auseinander und die Gezeiten strömen aus dir heraus.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Lass die Erinnerungen zu.</DefaultText>
+      <FemaleText>Lass die Erinnerungen zu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Widerstehe der Untersuchung.</DefaultText>
+      <FemaleText>Widerstehe der Untersuchung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du konzentrierst dich geringfügig und unterbrichst die Verbindung zum Gerät.</DefaultText>
+      <FemaleText>Du konzentrierst dich geringfügig und unterbrichst die Verbindung zum Gerät.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Maschine beschwört erneut die Bilder in deinem Geist herauf, ein Kaleidoskop aufgerufener Erinnerungen, das Verlangen, sie zu erkunden, ist jedoch verschwunden.</DefaultText>
+      <FemaleText>Die Maschine beschwört erneut die Bilder in deinem Geist herauf, ein Kaleidoskop aufgerufener Erinnerungen, das Verlangen, sie zu erkunden, ist jedoch verschwunden.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Erinnerungen flackern weiterhin in deiner Psyche und wetteifern um deine Aufmerksamkeit.</DefaultText>
+      <FemaleText>Die Erinnerungen flackern weiterhin in deiner Psyche und wetteifern um deine Aufmerksamkeit.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

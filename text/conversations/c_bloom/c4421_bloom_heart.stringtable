@@ -1,0 +1,2947 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4421_bloom_heart</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>517</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Vor dir ragt eine verdrehte Masse von Röhren, Arterien, Wurzeln und Zungen auf, die sich im trüben Licht auf- und abbewegt und pulsiert. Das Fleisch schimmert in ekligem Lila und Schwarz und ist mit Pusteln und abgestorbenem Gewebe überzogen.
+
+Florstimmen versammeln sich und kitzeln sanft den Rand deines Bewusstseins, während sie aufgeregt summen und schnattern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Vor dir ragt eine verdrehte Masse von Röhren, Arterien, Wurzeln und Zungen auf, die sich im trüben Licht auf- und abbewegt und pulsiert. Das Fleisch schimmert in ekligem Lila und Schwarz und ist mit Pusteln und abgestorbenem Gewebe überzogen.
+
+Florstimmen versammeln sich und schwirren um dich wie dicke, summende Fliegen. Sie klingen abgelenkt und verwirrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Vor dir ragt eine verdrehte Masse von Röhren, Arterien, Wurzeln und Zungen auf, die sich im trüben Licht auf- und abbewegt und pulsiert. Das Fleisch schimmert in ekligem Lila und Schwarz und ist mit Pusteln und abgestorbenem Gewebe überzogen.
+
+Florstimmen versammeln sich und schwirren wie Fliegen um dich, summend, schnatternd und fauchend... *Millionen* von ihnen. Alle Stimmen, die das Gehirn der Flor ausmachen, treffen an diesem einen Ort zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Als du näher kommst, umkreisen dich Flor-Zungen und umschließen dich in einer feuchten, anwidernden Umarmung. Obwohl sie fest und körperlich aussehen, durchdringen sie irgendwie dein Fleisch und stoßen in deinen Kopf, deine Gliedmaßen und deine Eingeweide vor. Ein heiß-kaltes, stechendes Gefühl überzieht deinen ganzen Körper.
+
+Unzählige Flor-Stimmen fauchen und brabbeln vor Zorn. Du kannst ihre 'Worte' nicht verstehen, aber ihre Bedeutung ist klar - du *gehörst* hier nicht her. Die Stimmen dringen in dein Gehirn ein, wischen deine Gedanken beiseite und *verankern* sich im Innern ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Dich nicht wehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Versuchen, die Zungen aus deinem Körper zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Dich gegen die Florstimmen wehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Florstimmen wüten durch dein Gehirn. Du kannst sie selbst im *stillen* Innersten deines Seins hören, wie sie miteinander schnattern und etwas suchen, das sie offenbar nicht finden. Die Stimmen werden schriller, wütender... hungrig.
+
+Ein Gefühl der Verzweiflung überkommt dich. Wenn die Stimmen nicht gesättigt werden können, werden sie anfangen, dich von innen zu verschlingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ein Spiegelbild aus deinem Labyrinth anbieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Versuchen, das Gehirn eines Begleiters anzubieten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die Flor nehmen lassen, was sie von dir will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die Flor taucht tief in deine vergrabenen Erinnerungen ein, reißt sie auseinander, untersucht sie und schätzt deinen Geist so ein. Es ist dir nie zuvor gelungen, so tief in die Erinnerungen deines Erzeugers einzudringen und du bemerkst, dass er so *viel* von seinem Leben hier gespeichert hat, geordnet wie in einer riesigen Bibliothek. 
+
+Während die Flor die Erinnerungen durchkämmt, verschlingt sie, was sie mag. Du wirst Zeuge von Ereignissen im Leben des Wandelnden Gottes, die für ein paar Augenblicke in deinem Bewusstsein aufleuchten, um dann von den Flor-Stimmen gefressen zu werden und für immer verloren zu sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>An dir ziehen zahllose Labore, ein Drahtgewirr und eine endlose Reihe Gesichter vorbei – Freunde, Geliebte, Feinde, die dir nahezu alle im Laufe der Zeit entrissen wurden. Du siehst die Gesichter von Körpern in Glassarkophagen und erkennst sie als Gesichter von Verstoßenen. Du siehst Energie aus den Tiefen des Ozeans hervorsteigen und erinnerst dich an einen lauten Streit mit einer Maschinenintelligenz, einen Streit, der zu einer rasenden Flucht führte, da sich die Todesfallen um dich herum alle schlossen. Du erinnerst dich ... nein. Es ist schon vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du konzentrierst dich nun auf Matkina und versuchst, die Aufmerksamkeit der Flor-Stimmen auf sie zu lenken. Durch diene Verbindung zum Herz der Flor spürst du die Angst in ihrem Herzen und das Wissen darum, dass sie einem ihrer Geschwister *wieder* vertraut hat und *wieder* betrogen wurde. 
+
+Sie spürt, was du tust, aber das ist nutzlos. Die Stimmen haben ihre Witterung aufgenommen und fluten so aus deinem Geist in ihren, wobei sie dich in ihre Geschichte hineinziehen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sie kauert hinter einer Mauer, umklammert einen Laib altbackenes Brot und hält den Atem an, als zornige Wachen den Müll um sie herum durchsuchen. Du spürst ihren Schock bei ihrem ersten Tod, als eine Flammenlanze ihr Herz durchstößt. Du bist bei ihr, als sie von den Sagusklippen flieht, sich in den Schatten versteckt und schluchzt. Du siehst, wie sie Kholn betritt, sich an den Wänden entlangschleicht und ihr nächstes Mahl zu stehlen versucht. Du spürst den Schock, als Neng und seine Familie sie mit offenen Armen aufnehmen. Die Flor verschlingt das Gefühl von Dankbarkeit für deren Fürsorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Stimmen schreien scharf wie Klingen auf das zitternde Mädchen ein. Sie zergliedern sie in kleine Bewusstseinsstücke, von denen jedes vor Schmerz, Angst und Verwirrung schreit. Dann fegen sie über die Stille hinweg, sammeln ihre Teile ein und verschlingen sie Stück für Stück. Als die letzten Überbleibsel von ihr verschwunden sind, endet ihr Schreien schließlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Dann ziehen sie sich zurück und finden nichts mehr, was ihren Hunger stillen könnte. Du musst ihnen etwas anderes anbieten ... oder ihnen erlauben, zu fressen, was sie wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Versuche, der Flor falsche Erinnerungen zum Fressen zu geben, damit sie die echten nicht plündert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du beschwörst die Gezeitenenergien in dir, formst sie zu vorgestellten Szenen im Leben deines Erzeugers und lässt sie vor deinem geistigen Auge abspielen. Es ist einfach, Elemente dessen einzuarbeiten, was du über den Wandelnden Gott weißt und sie dann mit Geschichten zu vermischen, die du von anderen gehört oder selbst erlebt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Gesättigt von der Mahlzeit ziehen sich die Flor-Stimmen in einem großen Schwarm aus deinem Geist zurück. Du kannst sie um dich herum hören, aber ihre Aufmerksamkeit ist nun wo anders ... vorerst.
+
+Plötzlich kannst du dich wieder bewegen – quälend langsam – obwohl die Zungen immer noch mit deinem Körper verschmolzen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Infiltriere den Verstand der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Versuche, die Flor-Zungen aus deinem Körper zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Stich mit dem Transdimensionalen Skalpell ins Herz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du greifst nach den fetten, wabernden Flor-Zungen und erwischst eine davon. Dann *ziehst* du mit voller Kraft. Du empfindest glühende Schmerzen an dem Ort, wo sich die Zunge in dein Fleisch gebohrt hat und durchströmt dich so intensiv, dass du beinahe in Ohnmacht fällst. 
+
+Es nützt nichts. Die Zungen sind nun ein Teil von dir ... und du mit dem pochenden Herzen der Flor verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Während du die Grenzen deiner neuen Wahrnehmungen erkundest, wird dir allmählich die Zusammensetzung des Herzes klar – die fleischigen Knoten, die als Sinnesorgane fungieren, die Röhren und Arterien, die die Intelligenz nähren, die hier wohnt, die Wurzeln der unzählbaren und flüsternden Gedanken, die von jeder Ecke der Flor hierher herabsteigen und dann ihre Stimmen in einem verrückten und chaotischen Bund vereinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Werde nicht aggressiv. Warte, bis die Flor dir wieder ihre Aufmerksamkeit zuwendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Du greifst nach dem Magmatischen Ring, schließt deine Augen und konzentrierst dein ganzes Bewusstsein auf einen einzigen Gedanken: *Raus hier*. Dein Gedanke wurde durch den Ring vergrößert und schneidet durch die Kakophonie der Flor-Stimmen.
+ 
+Du denkst die Wörter erneut. *Raus hier*. Diesmal übertönt deine innere Stimme ihre. Sie zwitschern und summen vor Verwirrung, da ihr Ansturm zusammengebrochen ist. Jetzt erteilst du ihnen Befehle: *Raus hier ... sofort*.
+
+Sofort verwandeln sich die Stimmen in ein frustriertes Fauchen und zu Wutschreien ... und sie fliehen aus deinem Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du versuchst, einen stabilen Gedanken zu bilden, der einen Anker im Sturm der Flor-Stimmen bildet, die deinen Kopf füllen ... aber du schaffst es nicht. Deine innere Stimme wird durch die ihren übertönt. Du kannst noch nicht mal schreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Du greifst nach den fetten, wabernden Flor-Zungen und erwischst eine davon. Dann *ziehst* du mit voller Kraft. Du empfindest glühende Schmerzen an dem Ort, wo sich die Zunge in dein Fleisch gebohrt hat und durchströmt dich so intensiv, dass du beinahe in Ohnmacht fällst. 
+
+Es nützt nichts. Die Zungen sind nun ein Teil von dir ... und du mit dem pochenden Herzen der Flor verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Schneide mit dem Transdimensionalen Skalpell ins Herz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Deine Bewegungen sind durch die Flor-Zungen eingeschränkt, aber du schaffst es, das Skalpell in die Hände zu bekommen und es in die pulsierende Masse von Röhren und Arterien zu stechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Langsam und vorsichtig erweiterst du deine Gedanken in die Röhren und Verbindungen des Herzens und testest vorsichtig deine Fähigkeiten, indem du hier einen Muskel zusammenziehst oder dort eine Arterie weitest. Du hörst die Flor-Stimmen um dich herum, aber sie scheinen nicht beunruhigt zu sein. Entweder bemerken sie dich überhaupt nicht, oder sie empfinden dein Eindringen nicht als Bedrohung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Du steckst das Skalpell tief in die Masse von Röhren und Arterien. Flüssigkeiten laufen dir über den Arm, heiß und kribbelnd. Die Flor-Stimmen schreien, Millionen von ihnen, und schwärmen dann in deinen Geist ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Du beruhigst deine Gedanken und wartest. Für eine Weile zwitschern die Flor-Stimmen miteinander, jenseits der Grenzen deines Bewusstseins. Dann wird das Zwitschern ziemlich abrupt zu einem Fauchen und Schreien und erneut schwärmen sie in deinen Geist ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Die Flor-Stimmen graben sich tief in deinen versteckten Erinnerungen ein. Diesmal verstehen sie anscheinend das Muster, die geheime Anordnung der Erinnerungen deines Erzeugers. Momente aus der Vergangenheit des Wandelnden Gottes blitzen vor deinen Augen auf, aber sie sind zu schnell, um sie zu verfolgen.
+
+Endlich kommt eine Erinnerung an die Oberfläche und die Stimmen verstummen. *Genau danach* haben sie gesucht ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Du begibst dich zurück in die Umarmung der Flor-Zungen. Sie sind jetzt vorsichtig, haben Angst ... und vielleicht ... dauert es ein paar Augenblicke, bevor sie dich wieder umarmen. Die Florstimmen kehren zurück, aber sie sind weit weg und voller Respekt, als ob sie nicht deinen Zorn auf sich ziehen wollten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Versuche, die Kontrolle über die Sinnesorgane um das Herz herum zu übernehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Versuche, die Kontrolle über die Arterien zu übernehmen, die zum Herzen führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Du versuchst, das Skalpell in eine Masse von Röhren und Arterien zu stecken, aber du bist nicht schnell genug. Die Flor-Zungen ziehen deine Gliedmaßen zurück und hängen sich nur noch fester an sie. Während sie Alarm schlagen, schwärmen Millionen von Flor-Stimmen in dein Gedächtnis ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Langsam und vorsichtig erweiterst du deine Gedanken in die Röhren und Verbindungen des Herzens hinein ... aber vielleicht nicht vorsichtig genug ... Die Flor-Stimmen in deiner Umgebung geben Alarm. Du versuchst, dich zurückzuziehen, aber es ist zu spät. Die Stimmen sind zornig und schwärmen in deinen Verstand ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Untersuche die Erinnerungen der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Untersuche das Herz als biologisches System und halte nach Mustern Ausschau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Eine gewisse Zeit lang hörst du dem Schlag des Herzens zu und überwachst seine Bewegungen und auch seine internen Vorgänge. Dein Wissen über die Naturwissenschaften stellt dir ein nützliches Gerüst zur Verfügung, obwohl die Flor keine Kreatur ist, die du – oder dein Erzeuger – jemals untersucht haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Du hörst eine Zeit lang dem Schlag des Herzens zu und überwachst dessen Bewegungen. Leider erfährst du dadurch nur wenig mehr, als du bereits weist. Flüssigkeiten werden von hier aus zu anderen Stellen der Flor gepumpt und anscheinend versorgen sie die vielstimmige Intelligenz, die im Herzen wohnt. Du hast die Möglichkeit, den ganzen Prozess bald noch besser zu verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Überwache die Flor-Stimmen und versuche zu verstehen, was sie sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Du bist den unzähligen Stimmen ganz nahe, die im dunklen Geiste der Flor zwitschern und flüstern. Jede von diesen Stimmen verfügt über ein klein wenig Intelligenz und ist ein semiautonomes Stück des Bewusstseins der Flor. Und es gibt Millionen davon, wenn nicht sogar Milliarden. Die Flor kann ganz nach eigenem Willen auftauchen und ihre Fähigkeit zum Denken und Empfinden verbessern, indem sie sich in Schlünde, Zungen und Organe einpflanzt. Sie kann diese aber auch verschlingen und dabei ihren eigenen, kreischenden Geist ausschlachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Du bist den unzähligen Stimmen ganz nahe, die im dunklen Geiste der Flor zwitschern und flüstern. Dein Eindruck besteht aus einer Vielzahl von Intelligenzen, vielen intelligenten Wesen, die Teil eines sich wandelnden Ganzen sind ... aber leider weißt du nicht mehr als das ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Lass dich aus dem Gedächtnis der Flor vertreiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Nachdem du dich vom Geist der Flor getrennt hast, ziehst du dich in deinen eigenen Körper zurück. Die Flor-Stimmen werden etwas leiser, bleiben aber trotzdem in den hintersten Ecken deines Bewusstseins bestehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Diesmal ist die Flor bereit für einen Angriff. Fleischige Knoten zittern und beben und die seltsame kleine Intelligenz in ihnen widersteht dir. 
+
+Die riesige Intelligenz der Flor richtet ihre Aufmerksamkeit wieder auf dich, wie eine Million Alienaugen, die sich in der Dunkelheit öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Widerstand. Versuche, deine Präsenz im Geist der Flor zu behalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Mach dir nichts draus, ausgeschaltet zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Du wirst nun in deinen eigenen Körper zurückversetzt und verlierst jegliche Kontrolle über das, was du im Herzen und dessen Systemen einrichten konntest. Die unzähligen Stimmen der Flor sind hinter dir her ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Die unzähligen Stimmen der Flor sind hinter dir her, aber dein Wille ist stark und du gibst nicht nach. Ein schreckliches Seufzen wie der Schrei eines Leviathans ertönt und erschüttert dich. 
+
+Dann werden die Stimmen leise und eine Szene spielt sich vor deinem inneren Auge ab ... Eine Erinnerung, die der Flor von jemand anderem gestohlen wurde. Du siehst eine Frau, die mit einem Mann spricht. Du bemerkst sofort, dass es sich um den Wandelnden Gott handelt, obwohl sein Körper schon ganz alt ist und aus einer längst vergangenen Zeit stammt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Dich umschwärmen die unzähligen Stimmen der Flor und du kannst dich nicht gegen sie durchsetzen. Du wirst nun in deinen eigenen Körper zurückversetzt und verlierst jegliche Kontrolle über das, was du im Herzen und seinen Systemen einrichten konntest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Das Paar steht auf einem Goldkreis und der Himmel über ihnen ist bewölkt und wolkenverhangen. *Miel Avest*.
+
+Die Frau murmelt, dass 'nicht mal dein Werk der Zeit standhält' und wendet ihr Gesicht vom Wandelnden Gott ab, um es zu verbergen. *Ich bin ein Monster*, denkt sie, *das von außen nach innen verrottet.*
+
+"Nein, Maralel." sagt der Wandelnde Gott. "Ich habe keine Möglichkeit, dich zu reparieren ... aber du brauchst deswegen nicht in Schande zu leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Setze sie auf!" Er besteht darauf. Natürlich ist ihr klar, dass es mit diesem *Geschenk* noch mehr auf sich hat. Sie hebt es zu ihrem Gesicht hoch ...
+
+Die Erinnerung ist zu Ende, abgeschnitten von der Flor. Ihre Stimmen zittern, sind aber hartnäckig. Sie wollen, dass *du* alles beendest, indem du die Erinnerung deines Erzeugers an dieses Ereignis aufrufst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Versuche nochmal, die Kontrolle über die Sinnesorgane des Herzens zu übernehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Versuche nochmal, die Kontrolle über die Röhren und Arterien zu übernehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Mit größter Sorgfalt konntest du dein Bewusstsein in die aufgeblasenen kleinen Beutel erweitern, die auf der Oberfläche des Herzens mit dessen vielen Röhren zittern. Wenn du wolltest, könntest du sie in eine Art Schlummer versetzen, der es der Flor erschwerte, deine Anwesenheit zu spüren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Du versuchst, die Kontrolle über die fleischigen Knoten zu erringen, aber sie sind, wie alles andere in der Flor, am Leben und bei Bewusstsein. Und leider schlagen sie auch noch Alarm. Das Herz erbebt – eine tiefe Erschütterung, die sich wie eine Warnung anfühlt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Während du dich sehr darum bemühst, nicht entdeckt zu werden, schlüpfen deine Gedanken in Röhren und Arterien und versuchen, die Kontrolle über diese zu übernehmen. Diese Flüssigkeiten nähren die Intelligenz, die hier zusammenläuft. Wenn du das tust, kannst du alle Arterien gleichzeitig zusammenziehen und ihnen die Energie rauben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Du übernimmst die Kontrolle über die fleischigen Knoten, aber sie sind wie alles andere in der Flor am Leben sowie bei Bewusstsein und beginnen, wild um sich zu schlagen. Das Herz erbebt – eine tiefe Erschütterung, die sich wie eine Warnung anfühlt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Während du unbemerkt mit den unzählbaren Stimmen der Flor schwebst, dringst du tiefer in deren Geist vor. Die Stimmen flüstern und du beginnst, kurze Bilder zu sehen, Geräusche zu hören und *Hunger* oder *Befriedigung* zu spüren. Das sind die Erinnerungen an die Vergangenheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Du versuchst, unbemerkt neben den Flor-Stimmen zu treiben, aber deine Gedanken sind zu laut und zu undiszipliniert, weswegen du ihre Aufmerksamkeit erregst. Das Herz erbebt – eine tiefe Erschütterung, die sich wie eine Warnung anfühlt ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Bringe alle Sinnesorgane um das Herz herum zum Schlafen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Schließe alle Röhren und Arterien, die das Herz versorgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Im ganzen Herzen fallen die schwabbeligen Knoten in sich zusammen und erstarren. Du bist froh darüber, dass die Flor keinen Alarm schlägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Du verengst nach und nach die Arterien und lässt bald keine Flüssigkeit mehr zum Herzen durch. Im Herzen gurgelt etwas irritierend wie eine Verdauungsstörung im großen Maßstab. Flor-Stimmen zwitschern lustlos, aber sie scheinen nicht zu bemerken, was vor sich geht ... Wahrscheinlich deswegen, weil du die Sinnesorgane des Herzens bereits abgetötet hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Du verengst die Arterien und lässt bald keine Flüssigkeit mehr zum Herzen durch. Bevor sie komplett geschlossen sind, schüttelt sich das Herz heftig. Du spürst schwach, wie sich dein Körper – der meilenweit entfernt zu sein scheint – von Seite zu Seite wirft. Arterien zittern und erschlaffen, während sie einander umwickeln wie sterbende Würmer.
+
+{SOUND: Bloom rumble sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Biete stattdessen eine Spiegelung aus deinem Labyrinth an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Biete stattdessen die Gedanken eines Begleiters an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Lass die Flor-Stimmen noch mehr Erinnerungen nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Du versuchst, dich wie zuvor auf die verängstigten Präsenzen in der *Stille* deines Geistes zu konzentrieren, aber die Flor-Stimmen wenden ihre Aufmerksamkeit nichts anderem zu. Sie bleiben auf *dich* fixiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Du versuchst, wie zuvor die Flor-Stimmen abzulenken, aber es funktioniert nicht. Sie sind jetzt auf *deinen* Geist fixiert und lassen sich nicht von ihrem Festmahl abhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Die Stimmen dringen zischend und quatschend in deinen Kopf vor, während sie sich durch deine Erinnerungen fressen. Vor deinen Augen spielen sich Szenen ab ... Dein Erzeuger trifft zum ersten Mal Maralel, nachdem er ihren Körper verstoßen hat, dein Erzeuger und Maralel, wie sie auf den Wiesen von Miel Avest rasten und bis in die Nacht reden und debattieren ... Dein Erzeuger, wie er Maralel auf dem Feld der Endlosen Schlacht trifft und seinen Soldaten *fangt sie* und *bringt sie um* zuruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Du erkennst den Mann sofort – es ist Mazzof, der Verstoßene, den du im Lebensbild vo Zerian Tagesläufer getroffen hast. Dein erster Gedanke ist, dass die Flor wohl irgendwie den falschen Mann freigelassen hat, aber nein ... Memovira hat dich getäuscht. Ishen ist Mazzof. 
+
+Im Moment erholt sich Mazzof von all den Qualen und bekommt kaum mit, was um ihn herum vor sich geht. Er hat dich noch nicht mal gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Deine Bewegungen sind durch die Flor-Zungen eingeschränkt, aber du schaffst es, das Skalpell in die Hände zu bekommen und in die pulsierende Masse von Röhren und Arterien zu schneiden.
+
+Leider *spannen* sich die Flor-Zungen genau zum falschen Augenblick an. Dein Arm zuckt zur Seite, bevor er sein Ziel erreicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Versuche, dir Ishen in deinem Geiste vorzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Du konzentrierst dich auf das Ziel, das dich hierhergebracht hat – der entführte Gelehrte Ishen. Während du an ihn denkst, beginnt sich ein Bild in deinem Kopf zu formen ... ein Glatzkopf, ein Bart, seltsame Symbole auf dem Körper ... als ob du diesen Mann kennen würdest. Vielleicht hat ihn dein Erzeuger ja gekannt.
+
+Die Flor-Stimmen werden stiller und legen eine Pause beim unerbittlichen Angriff auf deinen Geist ein. Sie kennen Ishen ebenfalls und jetzt wissen sie auch, warum du hier bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Suche in den Gedanken der Flor nach dem entführten Gelehrten Ishen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Ich bin nicht hier, um gegen Euch zu kämpfen! Ich suche nach einem Mann namens Ishen und ich glaube, dass ihr ihn habt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Die Stimmen scheinen dich nicht zu verstehen ... oder zu ignorieren. 
+
+Mehr und mehr von ihnen dringen in deinen Geist vor, zwitschernd, flüsternd und schreiend. Du spürst, wie sie dein Bewusstsein überwältigen ... selbst deine Eigenwahrnehmung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Du verschwendest deine Zeit", stöhnt Matkina. Ihr Gesicht ist schmerzverzerrt und ihr geht es nicht besser als dir. "Die Flor *spricht* nicht, sie *denkt*, *fühlt* und *hungert* nur!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Während deine Gedanken mit denen der Flor zusammenhängen, verstehst du beinahe ihre Stimmen. Ein Flüstern erzeugt ein flüchtiges Bild vor deinem geistigen Auge und ein Zischen erzeugt einen Wutausbruch oder Verlangen oder ... eine dir fremde Emotion, die du nicht wirklich nachvollziehen kannst.
+
+Während du zuhörst und -siehst, erkennst du gelegentlich Bilder von einem riesigen Menschen. Während du dich darauf konzentrierst, versuchst du sie zu halten. Du siehst einen isolierten Beutel aus Fleisch, eine Zyste mit einem dicken und schwarzen Saft darin, in dem der Mann schwebt und wie ein Fötus zusammengerollt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Du hörst dem Flüstern der Flor genau zu und eine Menge Bilder und Emotionen rasen durch deinen Geist. Einen Augenblick lang siehst du einen riesigen Menschen, der wie ein Fötus zusammengerollt ist. Du versuchst, das Bild zu halten, aber du erregst damit nur die Aufmerksamkeit der Flor ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Während deine Gedanken mit denen der Flor zusammenhängen, verstehst du beinahe ihre Stimmen. Ein Flüstern erzeugt ein flüchtiges Bild vor deinem geistigen Auge und ein Zischen erzeugt einen Wutausbruch oder Verlangen.
+
+Während du zuhörst und -siehst, erkennst du gelegentlich das Bild von einem riesigen Menschen, der wie ein Fötus zusammengerollt ist. Du versuchst, dich darauf zu konzentrieren, aber die Flor-Stimmen zischen und verschwinden. Sie scheinen eher verwirrt als erzürnt zu sein. Vielleicht, weil du vor dem Versuch ihre Sinnesorgane abgetötet hattest. Aber jetzt wissen sie, dass du hier bist ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Durchsuche die Gedanken der Flor nochmals nach Ishen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Versuche, die Kontrolle über die Fasern und Muskeln, die Ishen bewachen, zu übernehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Versuche erneut, die Kontrolle über die Fasern und Wurzeln, die Ishen bewachen, zu übernehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Langsam und vorsichtig folgst du dem leisen Flüstern der kleinen zwitschernden Verstanden, die Ishen bewachen. Sie sind nicht weit vom Herz entfernt und um eine faule kleine Zyste herum platziert, wie du schon den Verdacht hattest. Als sie deine Annäherung spüren, kreischen sie, aber du kannst sie überwältigen und zum Schweigen bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Während du deine Gedanken zu Ishen hin ausdehnst, hörst du Alarmschreie. Sie kommen von den kleinen zwitschernden Intelligenzen, die die Flor zur Bewachung ihres Gefangenen erzeugt hat. Du kannst sie nicht zum Schweigen bringen, also zieh dich schnell zurück.
+
+Zum Glück konntest du die Sinnesorgane um das Herzen herum abtöten, bevor du das hier versucht hast. Dein Angriff wurde also nicht bemerkt, aber es könnte sein, dass du beim nächsten Mal weniger Glück hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Viel zu ungeschickt dehnst du deine Gedanken zu Ishen aus. Beinahe augenblicklich hörst du Alarmschreie und die Augen der Flor blicken dich an ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Öffne den transdimensionalen Riss in Ishens Gefängnis und befreie ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Du *flüsterst* leise zum Riss und er beginnt erneut Form anzunehmen. Flor-Stimmen schreien Alarm, aber durch die verengten Arterien und die abgetöteten Sinnesorgane kann die Flor dich nicht aufhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Du *flüsterst* leise zum Riss und er beginnt Form anzunehmen. Ishen bewegt sich ... und die knorrigen Muskeln um seine Zyste herum schlagen Alarm. 
+
+Tausende zwitschernde Stimmen zischen in Zorn, alarmiert durch deine List. Sie bewegen die Zyste vor und zurück, was den Riss dazu bringt, sich wieder zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Du spürst, wie Ishen aus der fauligen, kleinen Zyste verschwindet. Im selben Augenblick kräuselt sich die Luft in der Herzkammer. Ein transdimensionaler Riss entsteht und ein Mensch fällt heraus. Von ihm tropft ein schwarzer Saft, er hustet, würgt und kotzt auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Augenblicklich steigen um dich herum Flor-Stimmen auf, die schreien, zwitschern und versuchen, dich aus dem Gedächtnis zu werfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Du stehst mit einer Frau auf einem Goldkreis, der Himmel über dir ist klar und blau. *Miel Avest.* Die Frau ist dir wohlbekannt – sie hat dir vor Jahren geholfen, diesen Punkt zu wählen und genau sie hat auch mit dir zusammen diese Enklave gebaut. 
+
+Ihr Gesicht hat sich verändert, es ist schwer von der Zeit gezeichnet. Das Fleisch verrottet, was die glänzenden Muskeln darunter freilegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Sie wendet sich von dir ab, als ob sie ihre Hässlichkeit verbergen wollte. "Nicht mal deine Arbeit hilft gegen die Zeit."
+
+"Nein, Maralel", sagst du. "Ich habe keine Möglichkeit, dich zu reparieren ... aber du brauchst deswegen nicht in Schande zu leben."
+
+Du schenkst ihr eine Maske, deren Gesichtsausdruck rätselhaft ist und die mit einem verworrenen Goldmuster geschmückt ist. 
+
+"Hübsches Ding" sagt sie, unfähig, die Bitterkeit in ihrer Stimme zu verbergen. "Ich könnte mein Gesicht auch mit Bandagen einbinden oder mir einen Sack über den Kopf ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Als sie das tut, endet die Erinnerung, abrupt abgeschnitten von einem Chor von Schreien der Flor. Sie zwitschern dich an, aber das Warum ist dir genausowenig klar, wie die Sache mit Maralels Maske.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Die Flor-Stimmen zwitschern und klicken, sie kommen aus der Nähe. Sie haben sich um dich wie ein Rudel Bestien versammelt. Du kannst ihren *Hunger* spüren. Sie wissen, was dich hergebracht hat. Im Austausch wollen sie mehr Erinnerungen von dir, ähnlich denjenigen, die sie schon genommen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Forme in deinem Geist ein Bild, wie du die Flor erneut verletzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Die Flor-Stimmen werden leiser und ihr Gezwitscher wird rasend, ja nahzu ängstlich. Das Bild von dir, wie du die Flor verletzt, wird ein Dutzend Mal zu dir zurückgespiegelt, als ob die Flor dir den Schmerz antun wollen, den du bei ihr verursacht hast. Dann verschwinden die Stimmen aus deinem Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Scharfe heftige Klicks schneiden durch deine Gedanken und das Zwitschern wird schärfer, aggressiver ... und kommt näher. Die Botschaft scheint klar zu sein – die Flor hat keine Angst vor dir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Verenge die Röhren und Arterien, die zum Herz laufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Du befiehlst den Röhren und Arterien, sich zu schließen und bist erleichtert darüber, dass du immer noch die Kontrolle darüber hast. Sekunden später beginnen die Flor-Stimmen zu kreischen. Beraubt von den bizarren Flüssigkeiten von überall in der Flor stirbt das Herz und gibt sein kollektives Bewusstsein frei.
+
+Die Stimmen verschwinden in heilloser Flucht aus deinem Gedächtnis. Bevor du komplett den Kontakt mit der Flor verlierst, lässt du die Arterien sich wieder öffnen. Die Stimmen bleiben aber weg von dir. Diese Lektion haben sie gelernt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Die unvollendete Erinnerung von Miel Avest steigt an die Oberfläche und spielt sich vor deinem inneren Auge ab.
+
+Du begegnest Maralel, der Ersten Verstoßenen, wie sie die Maske hält, die du ihr gegeben hast. "Zieh sie an" hörst du dich selbst sagen und sie legt die Maske auf ihr Gesicht. Sofort verschmilzt sie mit ihrem Fleisch und ihr Gesicht wird zu dem einer hübschen, jungen Frau. 
+
+Ihre Augen weiten sich, nachdem ihr klar ist, dass sich etwas verändert hat. Du hältst ihr einen Spiegel hin, damit sie es sieht. Sie lacht laut – etwas, das du schon jahrelang nicht mehr von ihr gehört hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Zeig mir den Rest der Erinnerungen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Ich bin für Ishen hier, nichts weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Die Flor-Stimmen zwitschern und klicken, sie kommen aus der Nähe. Sie haben sich um dich wie ein Rudel Bestien versammelt. Du kannst ihren *Hunger* spüren. Wenn du den Rest der Erinnerungen sehen willst, musst du sie mit anderen Erinnerungen füttern ... Erinnerungen, die etwas mit dem zu tun haben, dessen Zeuge du gerade warst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Egal. Ich bin nur wegen Ishen hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Die Stimmen zwitschern wild und ihre Antwort ist dieselbe wie zuvor. Was bietest du uns im Gegenzug?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Du sagst ihr, dass sie ihr Gesicht ganz nach Belieben verändern könne. "Probier's aus."
+
+Maralel nickt, sieht vorsichtig in den Spiegel und ihr Gesicht verändert sich in das einer alten Frau ... dann in das einer armseligen Bettlerin ... dann in das einer Varjellen ... und in das von Dutzenden anderen Personen. 
+
+Das letzte Gesicht, das du siehst, ist das einer dunkelhaarigen Person. Es ist das der Memovira.
+
+Begleitet von einem klaren *Hungergefühl* der Flor verblasst diese Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Du hörst Matkina heftig atmen. Irgendwie hat die Flor auch ihr diese Erinnerung gezeigt.
+
+"Direkt vor meiner Nase", flüstert sie. "Sie war direkt vor mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Die Bedeutung davon ist völlig klar – Memovira ist eher eine Verkleidung, eine Maske, die die Erste Verstoßene verbirgt. Sie hat jahrelang unter einer falschen Identität gelebt.
+
+Gerade als du über diese Offenbarung nachdenkst, gleiten die Flor-Zungen schmerzlos aus deinem Körper und lassen dich frei. Sie zeigen kein weiteres Interesse an dir und die flüsternden Stimmen sind aus deinem Kopf verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Die Flor-Stimmen beginnen zunächst leise zu zischen. Dieses Geräusch klingt unerwartet nah, als ob sie sich um dich herum versammelt hätten.
+
+Weitere Stimmen schließen sich ihnen an ... tausende ... dann Millionen. Alle Stimmen, die den Geist der Flor bilden, versammeln sich an diesem einen Ort.
+
+Dir fällt auf, dass du deinen Körper nicht mehr spürst. Du kannst nichts mehr sehen, hören oder fühlen, außer den Stimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Hilf der Flor, diese Erinnerung zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Und fordere, dass die Flor Ishen freilässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Du tauchst in deine verborgenen Erinnerungen ein und suchst nach dem Augenblick, den die Flor dir gerade gezeigt hat. Zu deiner Überraschung sind die Flor-Stimmen neben dir, helfen dir beim Konzentrieren und entfernen *ähnliche* Erinnerungen, die dich ablenken. 
+
+Schließlich kommt die Erinnerung an die Oberfläche. Es hat nicht ganz so stattgefunden, wie in den Erinnerungen der Frau. Einzelheiten sind anderes, wie zum Beispiel die Farbe ihrer Kleidung und die des Himmels – klar und blau in der Erinnerung deines Erzeugers. Und nun ist dir endlich klar, wer sie ist – Maralel, die Erste Verstoßene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Du ignorierst die Bitte der Flor und konzentrierst dich auf das Ziel, das dich hierhergebracht hat – auf den entführten Gelehrten Ishen. Während du an ihn denkst, beginnt sich ein Bild in deinem Kopf zu formen ... ein Glatzkopf, ein Bart, seltsame Symbole auf dem Körper ... als ob du diesen Mann kennen würdest. Vielleicht hat ihn dein Erzeuger ja gekannt.
+
+Die Flor-Stimmen zwitschern und klicken, sie kommen aus der Nähe. Sie haben sich um dich wie ein Rudel Bestien versammelt. Du kannst ihren *Hunger* spüren. Sie wissen, was du willst und sie *wollen* dafür etwas haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Sie hält die Maske, die du ihr gegeben hattest. "Zieh sie an" hörst du dich selbst sagen und sie legt die Maske auf ihr Gesicht. Sie scheint mit ihrem Fleisch zu verschmelzen und ihr Gesicht wird zu dem einer hübschen, jungen Frau. 
+
+Ihre Augen weiten sich, nachdem ihr klar ist, dass sich etwas verändert hat. Du hältst ihr einen Spiegel hin, damit sie es sieht. Sie lacht laut – etwas, das du schon jahrelang nicht mehr von ihr gehört hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Du sagst ihr, dass sie ihr Gesicht ganz nach Belieben verändern könne. "Probier's aus."
+
+Maralel nickt, sieht vorsichtig in den Spiegel und ihr Gesicht verändert sich in das einer alten Frau ... dann in das einer armseligen Bettlerin ... dann in das einer Varjellen ... und in das von Dutzenden anderen Personen.
+ 
+Das letzte Gesicht, das du siehst, ist das einer dunkelhaarigen Person. Es ist das von Memovira.
+
+Begleitet von einem klaren *Hungergefühl* der Flor verblasst diese Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Das Herz bietet dir keine Erklärung dafür, warum es dir diese Erinnerung gezeigt hat, aber die Absicht dahinter ist klar – Memovira ist eher eine Verkleidung, eine Maske, die die Erste Verstoßene verbirgt. Sie hat jahrelang unter einer falschen Identität gelebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Du versuchst die Frage so zu formulieren, dass sie die Flor versteht, aber entweder klappt das nicht oder du wirst ignoriert.
+
+Stattdessen kräuselt sich die Luft in der Kammer. Plötzlich entsteht ein transdimensionaler Riss und ein Mensch fällt heraus. Von ihm tropft ein schwarzer Saft, er hustet, würgt und kotzt auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Du stehst mit einer Frau auf einem Goldkreis, der Himmel über dir ist klar und blau. *Miel Avest.* Die Frau ist dir wohlbekannt – sie hat dir vor Jahren geholfen, diesen Punkt zu wählen und genau sie hat auch mit dir zusammen diese Enklave gebaut. 
+
+Ihr Gesicht hat sich verändert, es ist schwer von der Zeit gezeichnet. Das Fleisch verrottet, was die glänzenden Muskeln darunter freilegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Verbünde dich mit der Flor und werde zur neuen Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Dränge die Flor-Stimmen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Die Stimmen sind zurückgedrängt ... und kehren dann mit noch aufdringlicherem Zwitschern zurück. 
+
+Einige der Stimmen flüstern leise und zeigen dir Bilder von dir selbst, wie du in der Festung der Memovira Hof hältst, Schlünde mit einer Berührung öffnest und Massen von fleischigen Tentakeln beschwörst, um deine Feinde zu zerreißen. *Memovira* flüstern sie, leise und ehrfürchtig.
+
+Du kannst nun die gesamte Flor befehligen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Schreiend vor Freude fluten die Flor-Stimmen in dein Gedächtnis und graben sich tief in dessen dunkelste Ecken ein. Dort zwitschern und klicken sie und weben die Klänge zu *Gedanken*, um ihnen Leben und eine Form zu geben. Eine dicke Masse Fleisch nimmt Form an, aufgebläht und schuppig, ein Fragment des eigenen Bewusstseins der Flor. Neue Flor-Stimmen werden darin geboren und quieken wie neugeborene Bestien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Zerreiße eine der Flor-Zungen in zwei Teile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Du packst eine Flor-Zunge mit beiden Händen und reißt sie auseinander. Stinkende Säfte strömen aus beiden Enden. Der Teil der Zunge, der mit deinem Körper verschmolzen war, rutscht schmerzlos heraus und fällt auf den Boden, wo er sich wie eine tote Spinne zusammenkrümmt.
+
+Die Flor-Stimmen kreischen, Millionen von ihnen, und schwärmen dann in deinen Geist ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Als du näherkommst, umgeben dich Flor-Zungen, die dich nass und ekelerregend umarmen. Obwohl sie fest sind und eine körperliche Form haben, kommen sie irgendwie durch dein Fleisch hindurch, stoßen in deinen Kopf, deine Glieder und deine Eingeweide, wo sie ein prickelndes und heiß-kaltes Gefühl in deinem ganzen Körper verursachen.
+
+Eine Vielzahl von Flor-Stimmen zwitschert und brabbelt und ist durch ein Eindringen alarmiert, aber unfähig, deinen Geist anzugreifen. Für den Augenblick hat sie das Fressen des Abykos ermüdet und geschwächt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Warte ab, was die Flor als nächstes tut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Du beruhigst deine Gedanken und wartest. Für eine Weile flüstern die Flor-Stimmen miteinander, jenseits der Grenzen deines Bewusstseins. Das Flüstern wird immer vielfältiger. Du spürst, wie sie sich hier sammeln, angezogen von jeder Ecke der Flor ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Das Flüstern verwandelt sich in eine Kakophonie von Brummen und Schreien und sie fluten in deinen Geist, bringen deine Gedanken durcheinander und graben sich tief in deine versteckten Erinnerungen. Momente aus der Vergangenheit des Wandelnden Gottes blitzen vor deinen Augen auf, aber sie sind zu schnell, um sie zu verfolgen.
+
+Endlich kommt eine Erinnerung zum Vorschein ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Ich suche nach einem Mann namens Ishen. Wo ist er?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Die Flor scheint dich nicht zu verstehen ... oder dich zu ignorieren. 
+
+Ein paar zufällige unzusammenhängende Bilder blitzen in deinem Geist auf. Offensichtlich wurden sie von den zwitschernden Stimmen hervorgerufen, aber keins davon zeigt einen menschlichen Gelehrten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Stell dir Ishen in deinem Geiste vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Du konzentrierst dich auf das Ziel, das dich hierhergebracht hat – der entführte Gelehrte Ishen. Während du an ihn denkst, beginnt sich ein Bild in deinem Kopf zu formen ... ein Glatzkopf, ein Bart, seltsame Symbole auf dem Körper ... als ob du diesen Mann kennen würdest. Vielleicht hat ihn dein Erzeuger ja gekannt.
+
+Die Stimmen der Flor verstummen. Sie erkennen Ishen ebenfalls und jetzt wissen sie, warum du hier bist ... und wer dich geschickt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Die Flor-Zungen sind um dich herum und umarmen dich nass und ekelerregend. Obwohl sie fest sind und eine körperliche Form haben, kommen sie irgendwie durch dein Fleisch hindurch, stoßen in deinen Kopf, deine Glieder und deine Eingeweide, wo sie ein prickelndes und heiß-kaltes Gefühl in deinem ganzen Körper verursachen.
+
+Die vielen Flor-Stimmen werden still und warten auf etwas. Zum ersten Mal werden all die faulen und organischen Geräusche der Flor still, wie eine Geste des ... Respekts? Die Flor heißt dich *willkommen*, aber warum?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Die Stimmen in deinem Kopf schreien – und Millionen von ihnen gleichzeitig. Die ganze Flor schüttelt sich und stöhnt. Faules braunes Wundsekret spritzt aus der Wunde und dir ins Gesicht. 
+
+Die Flor-Zungen um dich herum fallen in sich zusammen und ihr Griff auf dich schwächt sich ab. Die Stimmen scheinen jetzt vorsichtiger zu sein ... einigen kann man sogar eine gewisse Furcht entnehmen.
+
+{SOUND: Bloom voices shriek in pain.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Reiße eine der Flor-Zungen aus dem Herzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Du greifst nach einer Flor-Zunge und ziehst mit aller Kraft daran, wodurch du sie aus ihrer Höhle ziehst. Ein Schwall violetter Galle spritzt dir ins Gesicht. Die Flor-Stimmen legen bei ihrem Angriff eine Pause ein und zischen vor Wut und Schmerz.
+
+Obwohl du von Flor-Zungen immer noch stark festgehalten wirst, spürst du, wie sich ihr Griff lockert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Du packst eine Flor-Zunge und ziehst ... aber nicht stark genug. Ein paar Flor-Stimmen schlagen Alarm und die anderen Zungen wickeln sich fest um deine Glieder. Du kannst dich nicht mehr bewegen und das Herz nicht nochmal angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Zerreiße eine der Flor-Zungen in zwei Teile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Du packst eine Flor-Zunge mit beiden Händen und reißt sie auseinander. Stinkende Säfte strömen aus beiden Enden. Der Teil der Zunge, der mit deinem Körper verschmolzen war, rutscht schmerzlos heraus und fällt auf den Boden, wo er sich wie eine tote Spinne zusammenkrümmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Verwende das Transdimensionale Skalpell, um das Herz nochmals anzugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Du stürzt dich flink auf das Herz und schlitzt eine fette und fleischige Arterie auf. Stinkende gelbe Galle spritzt in alle Richtungen und verdreckt deine Kleidung und dein Haar. Das Herz zuckt von einer Seite zur anderen und die Flor-Stimmen lassen einen ohrenbetäubenden Schrei erklingen, mit dem ihr Schmerz und ihr Zorn eindeutig erkennbar ist. 
+
+Im nächsten Augenblick sind die Stimmen aus deinem Kopf verschwunden und die Flor-Zungen lassen deinen Körper frei. Faule *Dinge* mit Tentakeln kommen aus dem Boden ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Du versuchst, eine weitere fette und fleischige Arterie aufzuschlitzen, aber die Flor-Zungen sind vorbereitet. Sie ziehen deine Arme und Beine in unangenehme Richtungen und wickeln sich fest um deine Glieder. Du kannst dich nicht mehr bewegen und das Herz nicht nochmal angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Du erwachst vom Tod und findest heraus, dass dich die Zungen erneut in ihre Mitte gezogen haben. Du spürst, wie sie sich unter deiner Haut bewegen und dich wachrütteln. Sobald deine Gedanken klar werden, schwärmen sie wieder in deinen Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Stecke deine Faust in eine der Wunden des Herzens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Du hast deine Hand in eine Risswunde gesteckt, die sich beinahe selbst zusammengeflickt hätte. Du greifst darin nach einem weichen, gummiartigen *Etwas* und ziehst mit aller Kraft daran. Fleisch zerreißt, Galle dringt aus dem Loch hervor und ein Ding, das wie waberndes vielarmiges Gedärm aussieht, landet auf dem Boden, wo es bis zu seinem Tod quiekt. Millionen Flor-Stimmen schreien qualvoll. 
+
+Einen Augenblick später schwärmen sie zornig in deinen Geist zurück ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Ich suche nach einem Mann namens Ishen. Wo ist er?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>Deine Rede erzeugt eine Reihe seltsamer, nicht miteinander in Verbindung stehender Bilder, die sich selbst in dein inneres Auge projizieren ... eine Einladung für dich, wie du spürst, auf dieselbe Art zu reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Die Memovira hat mich hergeschickt. Sie war zu aufgeregt, um selbst zu kommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Warum versuchst du nicht, mich zu verschlingen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Stell dir die Memovira in deinem Geist vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Stell dir die Erste Verstoßene in deinem Geiste vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Versuche, dir Ishen in deinem Geiste vorzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Du formst ein verschwommenes Bild eines männlichen Menschen ... eines Gelehrten. Dann erinnerst du dich an die Worte, die die Memovira dir gesagt hatte. "Die Flor hat Ishen zu ihrem Herz gebracht."
+
+Seltsamerweise beginnt sich ein Bild in deinem Kopf zu formen ... ein Glatzkopf, ein Bart, seltsame Symbole auf dem Körper ... als ob du diesen Mann kennen würdest. Bevor das Bild jedoch vollständig ist, reagiert die Flor mit einem eigenen Bild.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Deine Rede erzeugt eine gewisse Verwirrung und eine Reihe seltsamer, nicht miteinander in Verbindung stehender Bilder, die sich selbst in deinen Geist projizieren ... vielleicht eine Einladung für dich, auf dieselbe Art zu reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Flor-Stimmen zischen. Bilder von zerreißendem Fleisch und blutigen Zähnen blitzen in deinem Geist auf, zusammen mit der klaren Vorstellung von *Hunger* und *Verlangen*. Sie lassen schnell nach und schon werden die Stimmen wieder still und warten auf etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Indem du du dich deutlich an die Memovira von eurem letzten Treffen erinnerst, bildest du vor deinem inneren Auge ein Bild von ihr. Als Reaktion darauf geben die Flor-Stimmen eine Reihe lauter, beunruhigender Klicks von sich. Du findest heraus, dass du dein Bild von Memovira nicht aufrechterhalten kannst. Es flackert weiterhin und seine Ränder verschwimmen wie in einer Fata Morgana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Du versuchst, dich an die Bilder von der Ersten Verstoßenen zu erinnern – flüchtige Bilder von ihr in Gedanken und Lebensbildern sowie Bildern und Statuen im Grabmal. Die Flor-Stimmen reagieren sofort und zischen vor Aufregung. Sie schlüpfen in deinen Geist, zwitschern miteinander, dringen tief in die Erinnerungen deines Erzeugers vor und suchen nach etwas ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Lass die Flor deine Erinnerungen durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Widerstehe der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Augenblicklich ziehen sich die Flor-Stimmen zurück. Sie zwitschern leise, wie Bestien, die von ihrem Herrn geschlagen wurden. 
+
+Eine Szene spielt sich vor deinem inneren Auge ab ... Eine Erinnerung, die die Flor von jemand anderem gestohlen wurde. Du siehst eine Frau, die mit einem Mann spricht. Du bemerkst sofort, dass es sich um den Wandelnden Gott handelt, obwohl sein Körper schon ganz alt ist und aus einer längst vergangenen Zeit stammt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Das Paar steht auf einem Goldkreis und der Himmel über ihnen ist bewölkt und wolkenverhangen. *Miel Avest.*
+
+Die Frau murmelt, dass "nicht mal dein Werk der Zeit standhält" und wendet ihr Gesicht vom Wandelnden Gott ab, um ihn zu verbergen. *Ich bin ein Monster*, denkt sie, *das von außen nach innen verrottet.*
+
+"Nein, Maralel." sagt der Wandelnde Gott. "Ich habe keine Möglichkeit, dich zu reparieren ... aber du brauchst deswegen nicht in Schande zu leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Er greift in einen Beutel und die Frau weiß, dass er ihr etwas geben will. Seine Geschenke sind immer sonderbar, aber wenn man sie annimmt, ist man nicht mehr der Selbe.
+
+Der Wandelnde Gott übergibt ihr eine Maske. Deren Gesichtsausdruck ist rätselhaft, notiert sie ... genauso wie ihre Beziehung.
+ 
+"Hübsches Ding" sagt sie, verbittert und enttäuscht. "Ich könnte mein Gesicht auch mit Bandagen einbinden oder mir einen Sack über den Kopf ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Das Herz bietet dir keine Erklärung dafür, warum es dir diese Erinnerung gezeigt hat, aber die Absicht dahinter ist klar – Memovira ist eher eine Verkleidung, eine Maske, die die Erste Verstoßene verbirgt. Sie hat jahrelang unter einer falschen Identität gelebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Durchsuche die Erinnerungen der Flor und schau, ob du erfahren kannst, warum die Erste Verstoßene dich angelogen hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Bitte die Flor, dir zu zeigen, wo Ishen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Während du zögerlich ins Bewusstsein der Flor vordringst, hörst du deren Flüstern und wirst Zeuge der Visionen und Geräusche, die sie in deinem Geist auslösen. Sie scheinen zu spüren, was du willst. Und sie zeigen dir zahllose Erinnerungen der Ersten Verstoßenen in ihrer Memovira-Verkleidung. Bei allen davon wirft sie jemanden in einen Schlund, schlägt einen Rivalen von Hinten nieder oder manipuliert andere dazu, gefährliche und selbstmörderische Aufgaben für sie auszuführen.
+
+Du bist da vielleicht gar nicht anders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Als diese Erinnerungen der Flor abgespielt werden, fällt dir auf, dass sie ein leichtes Gefühl von *Verlangen* bei der Flor auslösen. Sie schätzt diese Erinnerungen und ernährt sich davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Bitte die Flor, Ishen freizulassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Du konzentrierst dich auf das Ziel, das dich hierhergebracht hat – der entführte Gelehrte Ishen. Während du an ihn denkst, beginnt sich ein Bild in deinem Kopf zu formen ... ein Glatzkopf, ein Bart, seltsame Symbole auf der Haut ... als ob du diesen Mann kennen würdest. 
+
+Als Reaktion darauf zeigt dir die Flor das Bild von einem isolierten Beutel aus Fleisch, eine Zyste mit einem dicken und schwarzen Saft darin, in dem ein Mann schwebt. Die Zyste ist gewissenhaft in fleischige Tentakeln und knorrige Muskeln gehüllt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Du hörst plötzlich lauter Flüstern um dich herum und die Luft in der Kammer kräuselt sich. Plötzlich entsteht ein transdimensionaler Riss und ein Mensch fällt heraus. Von ihm tropft ein schwarzer Saft, er hustet, würgt und kotzt auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Übermittle der Flor etwas Dankbarkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Du befiehlst den Flor-Zungen, dich gehen zu lassen, aber sie bleiben mit deinem Körper verschmolzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Vielleicht ist der Flor das Konzept von Dankbarkeit völlig fremd, da sie nicht darauf reagiert. Aber in der Tat sind ihre Stimmen vor Neugier ganz still geworden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Deine Erholung ist viel zu kurz. Ein paar glückliche Sekunden Schweigen und schon kehrt die wilde Kakophonie zurück, während der Angriff auf deinen Geist weitergeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Als du näherkommst, umgeben dich Flor-Zungen, die dich nass und ekelerregend umarmen. Obwohl sie fest sind und eine körperliche Form haben, kommen sie irgendwie durch dein Fleisch hindurch, stoßen in deinen Kopf, deine Glieder und deine Eingeweide, wo sie ein prickelndes und heiß-kaltes Gefühl in deinem ganzen Körper verursachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Eine Vielzahl Flor-Stimmen zischt und brabbelt vor Zorn. Du verstehst nicht, was sie "sagen", aber es ist klar, was sie meinen – du gehörst hier nicht her. Die Stimmen dringen in deinen Geist ein und wischen deine Gedanken beiseite, während sie sich selbst darin einrichten ...
+
+Dein Begleiter stöhnt, weil er in derselben Umarmung gefangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Eine Vielzahl Flor-Stimmen zischt und brabbelt vor Zorn. Du verstehst nicht, was sie "sagen", aber es ist klar, was sie meinen – du gehörst hier nicht her. Die Stimmen dringen in deinen Geist ein und wischen deine Gedanken beiseite, während sie sich selbst darin einrichten ...
+
+Deine Begleiter stöhnen, weil sie in derselben Umarmung gefangen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Reflexartig lässt du alles einfach laufen und konzentrierst dich auf eine einzige kleine Erinnerung, die dir die Stimmen nicht nehmen können. "Ich bin *hier*. Dieser Gedanke gehört *mir*." Die Flor-Stimmen werden leiser und sind nur noch ein bedeutungsloses Gebrabbel, als du die Worte wiederholst und feststellst, dass die Stimmen keine Macht haben, dich aufzuhalten. Sie können deine Erinnerungen verschlingen oder dir Schmerzen bereiten, aber sie können dein Bewusstsein auslöschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Nachdem dir das klar ist, wächst deine Stärke und du wiederholst die Worte. Sie schneiden sich durch die Kakophonie der Flor-Stimmen. 
+
+"Diese Gedanken gehören mir. *Verschwindet*." Jetzt übertönt deine innere Stimme ihre. Das Flor-Flüstern wird zu einem frustrierten Fauchen und sie fliehen und schreien vor Wut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Die Stimmen entfernen sich. Sie flüstern und brummen sich gegenseitig etwas zu, kaum hörbar, wie ein Rat, der hinter einer schweren Tür tagt. 
+
+Dir fällt auf, dass du dich wieder bewegen kannst, wenn auch nur langsam und unbeholfen. Die schlängelnden Zungen, die sich mit deinem Fleisch verschmolzen haben schränken dich ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Die Flor-Flüsterer in deinem Geist schweigen. Du spürst ihre *Furcht* ... Ihre Furcht vor dem Skalpell, den Schrecken, dass die gefürchtete Waffe irgendwie ihren Weg ins Herz gefunden hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Das Herz zuckt von einer Seite zur anderen und die Flor-Stimmen schreien vor Wut. Im nächsten Augenblick sind die Stimmen aus deinem Kopf verschwunden und die verbleibenden Flor-Zungen ziehen sich aus deinem Körper zurück. Faule *Dinge* mit Tentakeln kommen aus dem Boden ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Du schnappst dir eine weitere Flor-Zunge und versuchst, sie auseinanderzureißen, aber ihr Fleisch ist zu dick und kräftig.
+
+Ein paar Flor-Stimmen schlagen Alarm und die verbleibenden Zungen wickeln sich fest um deine Glieder. Du kannst dich nicht mehr bewegen und das Herz nicht nochmal angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Frag die Stimmen, was sie wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Du formst mit deiner inneren Stimme die Frage: "Was wollt ihr?" Die Stimmen summen und zischen und du siehst kurze Erinnerungen aufblitzen ... eine Frau ohne Haut mit einer Maske ... und das Gesicht der Frau verändert sich wie Sand im Wind. Du hast diese Erinnerung noch nie zuvor gesehen und es ist unmöglich, sie wiederherzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Du konzentrierst dich auf die seltsamen Präsenzen, die in der *Stille* deines Geistes existieren. Du spürst, wie sich die Aufmerksamkeit der Flor-Stimmen anderem zuwendet und sie in der *Stille* zischen und zwitschern, während sie deren Inhalte untersuchen ....</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Schließlich richten sie ihre Aufmerksamkeit auf Seria, die adoptierte Tochter von Orseolo. Vielleicht werden sie von den Qualen angezogen, die sie bei ihrem Tod erlitt, oder von den Qualen ihres Pflegevaters ... Sie ist nämlich das letzte Überbleibsel seiner Gedanken. 
+
+Du siehst sie, wie auch die Flor-Stimmen sie sehen – kauernd in der Dunkelheit, während sie um sie herum zwitschern und zischen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Schließlich konzentrieren sie sich auf die Katena-Intelligenz, der du eine Heimstadt in deinem Geist geschaffen hast, damit sie die Erinnerungen ihrer Passagiere bewahren kann. Du siehst die Katana-Intelligenz, wie die Flor-Stimmen sie auch sehen – ein kleiner Kreis verschreckter Personen, die sich zusammengeschart haben, während die Stimmen aus dem Dunkeln heraus kreischen und zischen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Lass die Flor-Stimmen Seria nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Biete stattdessen die Gedanken eines Begleiters an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Biete stattdessen deinen eigenen Geist an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Lass die Flor-Stimmen die Katena-Intelligenz nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Die Stimmen schreien scharf wie Klingen auf die verängstigten Katena-Passagiere ein. Sie schneiden die Abbilder weg und zergliedern sie in kleine Fragmente der Katena-Intelligenz. Jedes davon kreischt vor Angst, Traurigkeit und vor allem Verrat. 
+
+Während die Flor-Stimmen die *Ruhe* durchschweifen, verschlingen sie die Intelligenz, tragen die letzten Überbleibsel von Passagieren davon und löschen sie für immer aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Du konzentrierst dich nun auf Aligern und versuchst, die Aufmerksamkeit der Flor-Stimmen auf ihn zu lenken. Dank deiner geteilten Verbindung mit dem Herz der Flor kannst du seine Wut spüren – die auf ihn und die auf dich. ER *wusste*, dass dieser Betrug kommen würde und er *wusste*, dass er niemals einem Verstoßenen vertrauen kann. Trotzdem ist er dir gefolgt. Die Stimmen fluten aus deinem Geist und in seinen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Du konzentrierst dich nun auf Tybir und versuchst, die Aufmerksamkeit der Flor-Stimmen auf ihn zu lenken. Durch deine geteilte Verbindung mit dem Herz der Flor spürst du die Furcht, die in ihm pocht ... und den Zorn über deinen Betrug – er ist nicht derjenige, der dies alles aus Bequemlichkeit geopfert hat! Wie kannst du es wagen, ihn als Opfer zu missbrauchen?
+
+Er spürt, was du tust, aber das ist nutzlos. Die Stimmen haben seine Witterung aufgenommen und fluten so aus deinem Geist in seinen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Du konzentrierst dich nun auf Callistege und versuchst, die Aufmerksamkeit der Flor-Stimmen auf sie zu lenken. Durch deine geteilte Verbindung mit dem Herz der Flor vernimmst du die Furcht, die in ihr pocht ... geschwäßigt von einer starken Neugier. Sie spürt, was du tust. Sie kämpft nicht gegen die Erfahrung an. Die Stimmen haben ihre Witterung aufgenommen und fluten so aus deinem Geist in ihren, wonach du auf der Welle ihrer Erinnerungen reitest ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Du konzentrierst dich nun auf Erritis und versuchst, die Aufmerksamkeit der Flor-Stimmen auf ihn zu lenken. Dank deiner geteilten Verbindung mit dem Herz der Flor kannst du seine Überraschung spüren. Ihm ist klar, was du da tust, aber er kann es einfach nicht glauben – so etwas passiert doch keinen Helden! Oder aber er findet eine heldenhafte Möglichkeit zur Flucht! Oder vielleicht ... 
+
+Die Stimmen haben seine Witterung aufgenommen und fluten so aus deinem Geist in seinen ... Eine Woge von Erinnerungen überwältigt dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Er hält seine neugeborene Tochter in den Armen und spürt ihr Potential, einen Korridor mit offenen Türen. Er nimmt seine Frau mit auf die Erforschung von Numenara in antiken Ruinen und hofft, den Schlüssel dazu finden, seine Aldeia für immer selbstzufrieden zu machen. Er wacht weinend auf, realisierend, dass der Verlust seiner Familie Schmerzen bereitet, die niemals vergehen. Er trifft Callistege und ihre warme Empathie schmilzt einen Weg in sein Herz ... und die Erinnerung geht zum ersten Mal über, wo sie ihn verletzte und Worte wie eine Peitsche benutzte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Er ist ein schwaches Kind und seine Schläger sind unbarmherzig. Sie schlagen ihn immer wieder und er trainiert heimlich, um gegen sie aufzustehen. Er gewinnt seinen ersten Kampf mit den Fäusten, was dazu führt, dass er seine Bestimmung beim Militär sucht, um seine Fähigkeit zu testen. Er schwört, nie mehr ein Opfer zu sein. 
+
+Du spürst seinen Schrecken, als er zum ersten Mal tötete und hörst seinen darauf folgenden leisen Schwur, wann immer möglich seinen Verstand statt seiner Klinge zu verwenden. Endlose Stunden von Training, Scherzen ... und Liebe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Eine Kindheit in einem Haus voller Licht und Musik. Callisteges Mutter lacht und dreht sich unter den Leuchtkugeln. Sie lächelt für die Gäste und lässt die Fassade fallen, wenn sie weg sind. Eine Kindheit voller Armut, gezwungen in die Form einer Perfektion, in der sie nicht so sehr erwachsen werden konnte, sondern dem Willen der Mutter unterworfen war.
+
+Und dann traf sie den Aeon-Priester und alles änderte sich. Du siehst ihr erstes Experiment und die Türen des Wissens offen.
+
+Die Flor verschlingt diese Erinnerung, sodass sie für immer verloren ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Die Gesichter, die du siehst, sind anders, als die von dem dir bekannten Mann. Die Kleidung ist anders, die Waffe ist anders ... aber das Leuchten ist gleich und die Abenteuer schrecklich und gefährlich.
+
+Ein Nicht-Erritis schwingt sich an einem dünnen Seil über eine zerklüftete Schlucht, während Energieblitze um ihn herum durch die Luft sausen. Ein anderer rollt unter einer prasselnden Leere, während seine hartnäckigen Finger der Schwerkraft versuchen, ihn in seine Umarmung zu zwingen. Ein anderer, eine Frau, duelliert sich mit fünf schwerfälligen Automatons gleichzeitig ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Schließlich verschwinden die Flor-Stimmen aus deinem Geist. Du fühlst dich müde, langsamer, deine Wahrnehmung ist getrübt und dein Intellekt *verkleinert*. 
+
+Um dich herum zwitschern und zischen die Stimmen weiter. Mag sein, dass sie jetzt satt sind, aber die Zungen sind immer noch mit deinen Gliedern verschmolzen und du spürst, dass die Stimmen bald wieder einen Gedanken angreifen werden. Was immer sie gesucht haben, sie haben es noch nicht gefunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Zum Glück beherrschst du die Gezeiten nahezu perfekt und die Flor-Stimmen können dem illusionären Festmahl vor ihnen nicht widerstehen. Sie verschlingen die "Erinnerungen" so schnell, wie du sie entwerfen kannst und fressen sich mit Falschheiten und Lügen voll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Schließlich verschwinden die Flor-Stimmen aus deinem Geist. Du kannst sie um dich herum hören, wie sie vor Enttäuschung zischen. Obwohl sie erst mal satt sind, haben sie in deinem Gedächtnis nicht das gefunden, wonach sie gesucht hatten und sie werden zweifellos zurückkehren.
+
+Du findest heraus, dass du dich wieder bewegen kannst – langsam und quälend. Die Zungen sind immer noch mit deinem Körper verschmolzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Du schnappst dir mit beiden Händen eine Flor-Zunge und versuchst, sie auseinanderzureißen, aber es funktioniert nicht – ihr Fleisch ist zu dick und kräftig. Während sie Alarm schlagen, schwärmen Millionen von Flor-Stimmen in dein Gedächtnis ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Du versuchst, deine Hand in eine Risswunde zu stecken, die du zuvor verursacht hattest, aber du bist nicht schnell genug. Die Flor-Zungen ziehen deine Gliedmaßen zurück und hängen sich nur noch fester an sie. Während sie Alarm schlagen, schwärmen Millionen von Flor-Stimmen zurück in dein Gedächtnis ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Die gefräßigen Stimmen verschlingen jede Erinnerung von Maralel, die in deinem Gedächtnis versteckt ist. Du stöhnst, als die Erinnerungen zerrissen und gefressen werden, weil du weißt, dass deren *Entfernung* deine Fähigkeit zu denken, schlussfolgern und erinnern verringern wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Löse dich von den Flor-Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Versuche, Mazzof zu beruhigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Du ziehst an den Flor-Zungen, die mit deinem Körper verschmolzen sind, aber sie bleiben fest an dir haften. Während die Flor die Erinnerungen deines Erzeugers an Maralel verdauen, kehren Teile davon zu dir zurück ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Du konzentrierst dich nun auf Matkina und versuchst, die Aufmerksamkeit der Flor-Stimmen auf sie zu lenken. Durch deine geteilte Verbindung mit dem Herz der Flor spürst du die Furcht, die in ihr pocht. Sie spürt, was du tust, aber das ist nutzlos. Sie fügt sich voller Zorn und Trauer deinem Verrat – sie hätte es besser wissen und dir nicht vertrauen sollen.
+
+Die Stimmen haben ihre Witterung aufgenommen und fluten so aus deinem Geist in ihren ... Ihre Erinnerungen kommen zu dir herüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Eine andere Erinnerung von der Ersten, wo Matkina darum bittet, nach Kholn geschickt zu werden. "Ich kenne sie", sagt sie, "und ich kann mit ihnen arbeiten".
+
+Die Erste stimmt zu. Matkina glaubt, dass sie eine Galgenfrist für ihre Adoptivfamilie gewonnen hat ...
+
+... und die Flor verschlingt ihre Geschichten und stiehlt die Erinnerungen an ihre Gesichter, gerade als Matkina Nengs Vision übernommen hat.
+
+Die Flor-Zungen beginnen, tiefer in ihre Erinnerung vorzudringen und dann ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Du versuchst, die Aufmerksamkeit der Flor auf deine Begleiter zu lenken, aber es funktioniert nicht – ihre Gedanken enthalten nichts, was die Flor will. Die Flor-Stimmen sind jetzt auf *deinen* Geist fixiert und lassen sich nicht von ihrem Festmahl abhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Du versuchst, dich wie zuvor auf die verbleibenden Präsenzen in der *Stille* deines Geistes zu konzentrieren, aber die Flor-Stimmen wenden ihre Aufmerksamkeit nichts anderem zu. Sie bleiben auf *dich* fixiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Du konzentrierst dich auf die seltsamen Präsenzen, die in der *Stille* deines Geistes existieren – Spiegelbilder und Reste von anderen Geschöpfen, die sich dort verstecken. Du spürst, wie sich die Aufmerksamkeit der Flor-Stimmen anderem zuwendet und sie in der *Stille* zischen und zwitschern, während sie deren Inhalte untersuchen ....</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Dann ziehen sie sich zurück und finden nichts mehr, was ihren Hunger stillen könnte. Du musst ihnen etwas anderes anbieten ... oder ihnen erlauben, zu fressen, was sie wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Du hörst plötzlich lautes Flüstern um dich herum und die Luft in der Kammer kräuselt sich. Plötzlich entsteht ein transdimensionaler Riss und ein Mensch fällt heraus. Von ihm tropft ein schwarzer Saft, er hustet, würgt und kotzt auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Versuche, der Flor falsche Erinnerungen zum Fressen zu geben, damit sie die echten nicht plündert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Du beschwörst die Gezeitenenergien in dir, formst sie zu vorgestellten Szenen im Leben deines Herren und lässt sie vor deinem geistigen Auge abspielen. Es ist einfach, Elemente dessen einzuarbeiten, was du über den Wandelnden Gott weißt und sie dann mit Geschichte zu vermischen, die du von anderen gehört oder selbst erlebt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Du beschwörst die Gezeitenenergieen, wie du das schon zuvor getan hast und formst sie zu imaginären Szenen aus dem Leben deines Erzeugers, die du der Flor zum Fraß vorwirfst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Die Flor-Stimmen zerreißen die falschen Erinnerungen, die du ihnen anbietest, untersuchen sie und finden nichts, was sie wollen. Dann schieben sie sie beiseite. Ihr Zwitschern wird lauter und zorniger. Simple Illusionen werden ihren Hunger nicht befriedigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Die Zyste ist sorgfältig in fleischige Tentakeln und knorrige Muskeln gewickelt. Sie wird bewacht von kleinen, zwitschernden Gedanken, die zu exakt diesem Zweck erschaffen wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>Sie wendet sich von dir ab, als ob sie ihre Hässlichkeit verbergen wollte. "Nicht mal deine Arbeit hilft gegen die Zeit."
+
+"Nein, Maralel", sagst du. "Ich habe keine Möglichkeit, dich zu reparieren ... aber du brauchst deswegen nicht in Schande zu leben."
+
+Du schenkst ihr eine Maske, deren Gesichtsausdruck rätselhaft ist und die mit einem verworrenen Goldmuster geschmückt ist. 
+
+"Hübsches Ding" sagt sie, unfähig, die Bitterkeit in ihrer Stimme zu verbergen. "Ich könnte mein Gesicht auch mit Bandagen einbinden oder mir einen Sack über den Kopf ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Er greift in einen Beutel und die Frau weiß, dass er ihr etwas geben will. Seine Geschenke sind immer sonderbar, aber wenn man sie annimmt, ist man nicht mehr derselbe.
+
+Der Wandelnde Gott übergibt ihr eine Maske. Deren Gesichtsausdruck ist rätselhaft, notiert sie ... genauso wie ihre Beziehung.
+ 
+"Hübsches Ding" sagt sie, verbittert und enttäuscht. "Ich könnte mein Gesicht auch mit Bandagen einbinden oder mir einen Sack über den Kopf ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Du hörst Matkina heftig atmen. Irgendwie hat die Flor auch ihr diese Erinnerung gezeigt.
+
+"Direkt vor meiner Nase", flüstert sie. "Sie war direkt vor mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Versuche, die Flor zu fragen, warum sie dir die Erinnerung gezeigt hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Fordere, dass die Flor Ishen freilässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Du hörst plötzlich lauter Flüstern um dich herum und die Luft in der Kammer kräuselt sich. Plötzlich entsteht ein transdimensionaler Riss und ein Mensch fällt heraus. Von ihm tropft ein schwarzer Saft, er hustet, würgt und kotzt auf den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Du erkennst den Mann sofort – es ist Mazzof, der Verstoßene, den du im Lebensbild vo Zerian Tagesläufer gesehen hast. Dein erster Gedanke ist, dass die Flor dich ausgetrickst und irgendwie den falschen Mann freigelassen hat, aber nein ... Die Flor-Stimmen sind hartnäckig. Ishen ist Mazzof. Die Erste Verstoßene hat die Wahrheit vor dir verborgen, um nicht deinen Verdacht zu erregen.
+
+Im Moment erholt sich Mazzof von all den Qualen und bekommt kaum mit, was um ihn herum vor sich geht. Er hat dich noch nicht mal gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>Die Flor-Zungen gleiten schmerzlos aus deinem Körper und lassen dich frei. Sie zeigen kein weiteres Interesse an dir und die flüsternden Stimmen sind aus deinem Kopf verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>Diesmal ist die Flor bereit für einen Angriff. Arterien zittern und beben und die seltsame Intelligenz in ihnen widersteht dir. 
+
+Die riesige Intelligenz der Flor richtet ihre Aufmerksamkeit wieder auf dich, wie eine Million Alienaugen, die sich in der Dunkelheit öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Schreie hallen in deinen Ohren wider, als Männer und Frauen in Schlünde gezogen werden, wo ihre Gedanken und Persönlichkeiten gefressen werden ... oder einfach verändert, verrührt und zu monströsen Formen aufgeblasen werden. Du siehst die Glieder, die von Flor-Zungen abgerissen wurden, und ausgerissene Augen, damit die Tentakeln in ihre Höhlen gleiten und die Gehirne erreichen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Für einen Augenblick siehst du Grisseler, den Flor-Führer, wie er in der Umarmung eines Schlunds gefangen ist und du *schmeckst* das rohe Fleisch seiner Füße, als der Schlund es abreißt und verschlingt. Du weißt in diesem Augenblick, dass die Flor ihn wieder und wieder fressen wird, während sie den Geschmack seines unsterblichen Glaubens genießt, den sie ihm *bietet* ... eines Glaubens, der völlig krank ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Und überall hörst und siehst du die Memovira ... Augenblicke aus ihrer Jugend, wo sie Anhänger sammelte, um den alten Memovira zu stürzen, während sie öffentlich ihre Loyalität zu ihm bekundete ... Ihre Rebellion gegen ihn, als sie seine Leute abschlachtete und ihn zum Herzen hinabzog und fesselte, sodass die Zungen ihn langsam auffressen konnten ... und all die Jahre ihrer rücksichtslosen Herrschaft.
+
+In all der Zeit hat sie sich niemals geändert. Ihr Gesicht ist immer noch so wie damals, als die Flor sie zuerst "gesehen" hatte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Dringe noch tiefer in die Erinnerungen der Flor vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Konzentriere dich stattdessen wieder auf das Herz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Du entwischst den schnatternden Stimmen der Flor und erhebst dich aus den Tiefen ihres Bewusstseins. Dann wendest du dich wieder dem Herzen zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Überall um dich herum wird das Flüstern und Zwitschern zu fremderen Lauten – Klicken, Gurgeln und dissonanten Klängen. Die Erinnerungen ändern sich mit ihnen. 
+
+Monster streifen durch die Gänge der Flor – Gelatinerümpfe mit flackernden Buchstaben und Zahlen unter ihrer Haut ... vielgliedrige Maschinen mit Beinen, die gleichzeitig durch hundert Dimensionen jagen ... Göttlinge, die aus ganze Städte vernichtenden Detonationen entstanden sind, mit Stimmen aus Feuer, Rauch und Schreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Vor deinen Augen tauchen alle Welten auf, die die Flor je gesehen hat, es sind hunderttausende. Du spürst die Stadtkreatur, wie sie über Zeit und Dimensionen vorankriecht, als das Universum noch jung war ... und vielleicht noch länger ... Wie sich seine Stimmen, das Fleisch und die Sinne änderten ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Dein Geist beginnt zu *schmerzen* und kann die Sinneseindrücke, die mit den entferntesten Erinnerungen verbunden sind, kaum mehr verarbeiten. Du bekämpfst das Bedürfnis zu schreien und kannst dich schließlich lösen, wodurch du langsam zurück zur "Oberfläche" des Geistes der Flor treibst. 
+
+Und trotzdem ... nur mit dieser kurzen Einwirkung schon haben sich deine Sinne geweitet und du verstehst nun viel besser das Unmögliche. Nicht einmal dein Erzeuger hätte gewagt, so tief in einen fremden Geist vorzudringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>Du versuchst, unbemerkt neben den Flor-Stimmen zu treiben, aber deine Gedanken sind zu laut und zu undiszipliniert, weswegen du ihre Aufmerksamkeit erregst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>Im Gegensatz zum Herzen einer normalen Kreatur, das das Blut durch den Körper pumpt, zieht das Herz der Flor die Flüssigkeit zu sich hin. Diese Flüssigkeiten sind Gedanken und Erinnerungen – zweifellos von den Opfern der Flor gestohlen – und in körperliche Form verwandelt. Sie ernähren die unzähligen intelligenten Lebensformen, die hier zusammenfließen und bringt sie näher zusammen, während sie den Gesamtverstand der Flor verstärkt. Du vermutest, dass das Herz deutlich geschwächt wird, wenn es diese Flüssigkeiten nicht mehr hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Als du über die Intelligenz der Flor als Ganzes nachdenkst, bekommst du den Eindruck von einem Geist, der sich ständig verändert, niemals gleich bleibt und zahllose Teile von sich selbst gebärt, wobei es sogar andere verschlingt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Während du unbemerkt mit den unzählbaren Stimmen der Flor schwebst, dringst du tiefer in deren Geist vor. Zum Glück hat du die Stimmen beobachtet und über ihre Muster sinniert, bevor du das versucht hast. Nachdem du nun weißt, was sie sind, ist es leichter, sie zu verstehen.
+
+Die Stimmen flüstern und du beginnst, kurze Bilder zu sehen, Geräusche zu hören und *Hunger* oder *Befriedigung* zu spüren. Das sind die Erinnerungen dere Flor an ihre Vergangenheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Während du dich sehr darum bemühst, nicht entdeckt zu werden, schlüpfen deine Gedanken in Röhren und Arterien und versuchen, die Kontrolle über diese zu übernehmen. Du weißt bereits, dass diese Flüssigkeiten die Lebensformen nähren, die hier zusammenfließen. Wenn du alle Arterien auf einmal zusammenziehst, wirst du dem Herz jegliche Energie entziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Du verschwendest deine Zeit", murmelt Matkina. "Die Flor *spricht* nicht, sie *denkt*, *fühlt* und *hungert* nur."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Die Flor-Stimmen zerreißen die falschen Erinnerungen, die du ihnen anbietest, untersuchen sie und finden nichts, was sie wollen. Dann schieben sie sie beiseite. Ihr Zwitschern wird lauter und zorniger. Diesmal werden Illusionen ihren Hunger nicht befriedigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Warum wolltest du *diese* Erinnerung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Die Stimmen zischen und stöhnen leise, alle auf einmal. Kurzzeitig erscheint ein Bild von Maralel, der Ersten Verstoßenen, vor deinem inneren Auge, wie sie die Maske zu ihrem Gesicht führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Die Flor-Stimmen verwirren deine Gedanken und graben sich tief in deinen versteckten Erinnerungen ein. Momente aus der Vergangenheit des Wandelnden Gottes blitzen vor deinen Augen auf, aber sie sind zu schnell, um sie zu verfolgen.
+
+Endlich kommt eine Erinnerung zum Vorschein ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Du hörst die Flor-Stimmen in der *Stille* des Kerns deines Wesens, siezwitschern einander zu und etwas suchen etwas, das sie anscheinend nicht finden können. Die Stimmen klingen schärfer, zorniger ... und hungrig.
+
+Ein Gefühl von Verzweiflung überkommt dich. Wenn die Stimmen nicht beruhigt werden können, werden sie dich von Innen auffressen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>Du beruhigst deine Gedanken und wartest. Für eine Weile zwitschern die Flor-Stimmen miteinander, jenseits der Grenzen deines Bewusstseins. Dann beginnen sie sehr langsam in deinen Geist vorzudringen, während sie nach etwas suchen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Versuche, der Flor falsche Erinnerungen von Maralel zu geben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Du beschwörst die Gezeitenenergien in dir, formst sie zu vorgestellten Szenen mit deinem Erzeuger und Maralel und lässt sie vor deinem geistigen Auge abspielen. Es ist einfach, Elemente dessen einzuarbeiten, was du über die Erste Verstoßene weißt und sie dann mit Geschichte zu vermischen, die du von anderen gehört hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Du beschwörst die Gezeitenenergien wie schon zuvor. Diesmal formst du daraus Handlungen von deinem Erzeuger und Maralel, der Ersten Verstoßenen.
+
+Die Flor-Stimmen zerreißen die falschen Erinnerungen, die du ihnen anbietest und finden nichts, was sie wollen. Dann schieben sie sie beiseite. Sie erkennen, woraus deine Illusionen tatsächlich bestehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Zum Glück beherrschst du die Gezeiten nahezu perfekt und die Flor-Stimmen können dem illusionären Festmahl vor ihnen nicht widerstehen. Sie verschlingen die "Erinnerungen" so schnell, wie du sie entwerfen kannst und fressen sich mit Falschheiten und Lügen voll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Du beschwörst die Gezeitenenergien in dir, formst sie zu vorgestellten Szenen mit deinem Erzeuger und Maralel und lässt sie vor deinem geistigen Auge abspielen. Zuerst scheint die Flor sie zu akzeptieren und sich mit Falschheit und Lügen vollzufressen.
+
+Dann schreien die Flor-Stimmen vor Zorn. Du beherrschst die Gezeiten nicht genug und nun hat die Flor deine Illusionen als das erkannt, was sie sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Die Stimmen dringen in deinen Kopf vor, sie sind erzürnt und erschüttern deine *echten* Erinnerungen. Vor deinen Augen spielen sich Szenen ab ... Dein Erzeuger trifft zum ersten Mal Maralel, nachdem er ihren Körper verstoßen hat, dein Erzeuger und Maralel, wie sie auf den Wiesen von Miel Avest rasten und bis in die Nacht reden und debattieren ... Dein Erzeuger, wie er Maralel auf dem Feld der Endlosen Schlacht trifft und seinen Soldaten *fangt sie* und *bringt sie um* zuruft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Du beschwörst die Gezeitenenergien in dir, formst sie zu vorgestellten Szenen im Leben deines Herren. Zuerst scheint die Flor sie zu akzeptieren und sich mit Falschheit und Lügen vollzufressen.
+
+Dann schreien die Flor-Stimmen vor Zorn. Du beherrschst die Gezeiten nicht genug und nun hat die Flor deine Illusionen als das erkannt, was sie sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Die Stimmen tauchen tief in deine *echten* Erinnerungen ein, reißen sie auseinander, untersuchen sie und schätzen deinen Geist so ein. Es ist dir nie zuvor gelungen, so tief in die Erinnerungen deines Erzeugers einzudringen und du bemerkst, dass er so *viel* von seinem Leben hier gespeichert hat, geordnet wie in einer riesigen Bibliothek. 
+
+Während die Flor die Erinnerungen durchkämmt, verschlingt sie, was sie mag. Du wirst Zeuge von Ereignissen im Leben des Wandelnden Gottes, die für ein paar Augenblicke in deinem Bewusstsein aufleuchten, um dann von den Flor-Stimmen gefressen zu werden und für immer verloren zu sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Das Herz zeigt kein weiteres Interesse für dich. Seine Zungen schaukeln in der Luft, achtlos deiner Anwesenheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Die Zungen umarmen dich begierig - wie Liebende. Du hörst gespanntes Flüstern der Flor, die deinen Befehl erwarten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Die Flor-Stimmen zischen dich voller Hass an, aber ihre Zungen weichen dir aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Die Flor-Zungen strecken sich nach Matkina begierig wie Liebende aus. Sie grinst, aber geht einen Schritt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Du siehst einen isolierten Beutel aus Fleisch, eine Zyste mit einem dicken und schwarzen Saft darin, in dem ein Mann schwebt. Die Zyste ist sorgfältig in fleischige Tentakeln und knorrige Muskeln gewickelt. Sie wird von kleinen zwitschernden Gedanken, die zu exakt diesem Zweck erschaffen wurden.
+
+Dann verschwindet das Bild und die Flor-Stimmen schlüpfen in deinen Kopf, wo sie sich tief in die Erinnerungen deines Erzeugers eingraben und nach etwas suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Die Flor-Stimmen zischen alle zugleich, Memovira wird zur Seite geschoben und durch ein Bild ersetzt ... von dir. Du stehst in Memoviras Festung, trägst feine Kleider und die Leute von der Flor sammeln sich um dich. Sie haben Hochachtung vor dir und hängen an jedem Wort, das du sagst.
+
+Nach ein paar Augenblicken werden die Flor-Stimmen still und das Bild von dir ist verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Wisst Ihr, wo ich die Eier der Sticha finden kann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Deine Rede erzeugt eine Reihe seltsamer, nicht miteinander in Verbindung stehender Bilder, die sich selbst in dein inneres Auge projizieren ... eine Einladung für dich, wie du spürst, auf dieselbe Art zu reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Die Erinnerung verblasst und die Flor-Stimmen zischen erwartungsvoll. Dir wird klar, dass du diesen Augenblick schon *kennst* ... oder zumindest dein Erzeuger ihn kannte. Du könntest dich deutlich daran erinnern, wenn du ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Sieh dir die Erinnerung aus der Perspektive des Wandelnden Gottes an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>Zwinge die Flor, den Rest der Erinnerung aus Maralels Perspektive zu zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Vorsichtig setzt Maralel die Maske auf. Einst vertraute sie ihrem Erzeuger total. Jetzt ist sie sich nicht mehr so sicher.
+
+Die Maske sinkt in ihr Fleisch. Ihr Geist wird von Schrecken durchzogen. *Was hat er mir angetan?*
+
+Der Wandelnde Gott lächelt und hält einen Spiegel hoch. Maralel keucht. Ihr Gesicht ist zu dem einer hübschen jungen Frau geworden. Ihre Erleichterung ist ihr deutlich anzunehmen und kommt wie ein Lachen. Und trotzdem fällt ihr auf, dass ihr Erzeuger dies für echte Freude hält. Er weiß noch nicht mal, wie sehr er sie ängstigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"Du kannst dein Gesicht ganz nach Belieben verändern", sagt er. "Probier's aus."
+
+Maralel nickt, sieht vorsichtig in den Spiegel und ihr Gesicht verändert sich in das einer alten Frau ... dann in das einer armseligen Bettlerin ... dann in das von Varjellen ... und in das von Dutzenden anderen Personen.
+ 
+Das letzte Gesicht, das du siehst, ist das einer dunkelhaarigen Person. Es ist das von Memovira.
+
+Begleitet von einem klaren *Hungergefühl* der Flor verblasst diese Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Du hörst Matkina heftig atmen. Irgendwie hat die Flor auch ihr diese Erinnerung gezeigt.
+
+"Direkt vor meiner Nase", flüstert sie. "Sie war direkt vor mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Momente aus der Vergangenheit des Wandelnden Gottes blitzen vor deinen Augen auf, aber sie sind zu schnell, um sie zu verfolgen. Dann kommt eine Erinnerung zum Vorschein ...
+
+Du stehst mit einer Frau auf einem Goldkreis, der Himmel über dir ist klar und blau. *Miel Avest.* Die Frau ist dir wohlbekannt – sie hat dir vor Jahren geholfen, diesen Punkt zu wählen und genau sie hat auch mit dir zusammen diese Enklave gebaut. 
+
+Ihr Gesicht hat sich verändert, es ist schwer von der Zeit gezeichnet. Das Fleisch verrottet, was die glänzenden Muskeln darunter freilegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Sie wendet sich von dir ab, als ob sie ihre Hässlichkeit verbergen wollte. "Nicht mal deine Arbeit hilft gegen die Zeit."
+
+"Nein, Maralel", sagst du. "Ich habe keine Möglichkeit, dich zu reparieren ... aber du brauchst deswegen nicht in Schande zu leben."
+
+Du schenkst ihr eine Maske, deren Gesichtsausdruck rätselhaft ist und die mit einem verworrenen Goldmuster geschmückt ist. 
+
+"Hübsches Ding" sagt sie, unfähig, die Bitterkeit in ihrer Stimme zu verbergen. "Ich könnte mein Gesicht auch mit Bandagen einbinden oder mir einen Sack über den Kopf ziehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Setze sie auf." Deine Stimme klingt hartnäckig. Mit der Maske hat es noch etwas *mehr* auf sich. Sie hört es an deiner Stimme und hebt dann dein Geschenk an ihr Gesicht. 
+
+In diesem Moment ist Maralels Wesen unverwechselbar – sie ist die Frau, die du als die Erste Verstoßene kennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Warum machst du das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Lasst die Erinnerung kommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>Maralel setzt die Maske auf. Sie scheint mit ihrem Fleisch zu verschmelzen und ihr Gesicht wird zu dem einer hübschen jungen Frau. 
+
+Ihre Augen weiten sich, nachdem ihr klar ist, dass sich etwas verändert hat. Du hältst ihr einen Spiegel hin, damit sie es sieht. Sie lacht laut – etwas, das du schon jahrelang nicht mehr von ihr gehört hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>Du sagst ihr, dass sie ihr Gesicht ganz nach Belieben verändern könne. "Probier's aus."
+
+Maralel nickt, sieht vorsichtig in den Spiegel und ihr Gesicht verändert sich in das einer alten Frau ... dann in das einer armseligen Bettlerin ... dann in das von Varjellen ... und in das von Dutzenden anderen Personen. 
+
+Das letzte Gesicht, das du siehst, ist das einer dunkelhaarigen Person. Es ist das von Memovira.
+
+Begleitet von einem klaren *Hungergefühl* der Flor verblasst diese Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>Flor-Stimmen zwitschern leise aber unüberhörbar. Du spürst ihren *Hunger*, aber auch noch ... eine Warnung, vielleicht. Bilder vom Wandelnden Gott, der Ersten Verstoßenen und der Memovira tauchen vor deinen Augen auf. Irgendwie haben sie alle miteinander zu tun.
+
+Die Erinnerungen gehen weiter ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>Ich tauche in deine verborgenen Erinnerungen ein und suche nach dem Augenblick, den die Flor dir gerade gezeigt hat. Zu unserer Überraschung sind die Flor-Stimmen neben dir, helfen dir beim Konzentrieren und entfernen *ähnliche* Erinnerungen, die dich ablenken. 
+
+Schließlich kommt die Erinnerung an die Oberfläche. Es hat nicht ganz so stattgefunden, wie in den Erinnerungen von Maralel. Einzelheiten sind anderes, wie zum Beispiel die Farbe ihrer Kleidung und die des Himmels – klar und blau in der Erinnerung deines Erzeugers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Maralel hält die Maske, die du ihr gegeben hattest. "Zieh sie an" hörst du dich selbst sagen und sie legt die Maske auf ihr Gesicht. Sie scheint mit ihrem Fleisch zu verschmelzen und ihr Gesicht wird zu dem einer hübschen jungen Frau. 
+
+Ihre Augen weiten sich, nachdem ihr klar ist, dass sich etwas verändert hat. Du hältst ihr einen Spiegel hin, damit sie es sieht. Sie lacht laut – etwas, das du schon jahrelang nicht mehr von ihr gehört hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>Du sagst ihr, dass sie ihr Gesicht ganz nach Belieben verändern könne. "Probier's aus."
+
+Maralel nickt, sieht vorsichtig in den Spiegel und ihr Gesicht verändert sich in das einer alten Frau ... dann in das einer armseligen Bettlerin ... dann in das von Varjellen ... und in das von Dutzenden anderen Personen.
+ 
+Das letzte Gesicht, das du siehst, ist das einer dunkelhaarigen Person. Es ist das von Memovira.
+
+Begleitet von einem klaren *Hungergefühl* der Flor verblasst diese Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>Du greifst mit der Hand nach einer der Zungen und ziehst sanft daran. Sie bewegt sich nicht.
+
+Du befiehlst den Flor-Zungen, dich freizulassen, aber sie lassen dich nicht los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>Sie scheinen *Memovira* zu sagen. Das ist weniger ein Wort, denn ein Zustand. Das Einssein mit der Flor. 
+
+Maralel, die alte Memovira, wurde beiseitegeschoben und bald wird die Flor sich an ihr laben. Sie sucht eine neue Verbindung, um die alte zu ersetzen. Ihre Stimmen werden zu einem Teil von dir werden und die deine wird ein Teil großen Masse im Geist der Flor werden ... und somit werdet ihr beide zu einer Art Virus im Gehirn der anderen. 
+
+*Memovira*. Die Stimmen flüstern leise und besänftigend. Sie drücken sich sogar noch näher heran, ganz eifrig und voller Erwartungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>Die Fette Masse mit Tentakeln wälzt sich in die Dunkelheit und ist verschwunden. In den hintersten Ecken deines Gedächtnisses hörst du sie jedoch weiterhin schwabbeln ... und das wird wohl für *immer* so bleiben.
+
+Die verbleibenden Flor-Stimmen erheben sich aus den Tiefen und sammeln sich erneut um dich. Sie zwitschern ehrfürchtig und warten darauf, entlassen zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Warte. Ich will alle deine Erinnerungen von der Ersten Verstoßenen sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"Ich erwarte deine Hilfe gegen die Erste Verstoßene."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"Ich kann also jetzt die Flor befehligen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Verschwinde. Lass mich in Ruhe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>Vor deinem inneren Auge spielt sich eine Szene ab.
+
+Zwei Personen kauern in der Ecke einer dunklen und fleischigen Kammer, in die sie durch einen Schlund hindurch gefallen sind. Eine davon ist die Erste, ohne Maske, sodass man ihre Entstellungen erkennen kann. Die andere ist Mazzof, mit weiten Augen und angsterfüllt. 
+
+"Der Kummer kann uns hier nichts anhaben" sagt sie leise zu ihm wie zu einem verängstigten Tier. "Wir bleiben hier nur so lange, wie es sein muss"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>Die Erste Verstoßene setzt ihre Maske ab und ihr Gesicht wird zu dem einer wunderschönen Frau. Dann erhält sie eine Krone sowie dunkles Haar und wird zu einer majestätischen Frau, die du als Memovira kennst. 
+
+Sie legt eine Hand auf Mazzofs Schulter. "Niemand kennt uns hier. Wir sollen zusammen von Neuem anfangen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Jetzt hörst und siehst du die Memovira ... Augenblicke aus ihrer Jugend, wo sie Anhänger sammelte, um den alten Memovira zu stürzen, während sie öffentlich ihre Loyalität zu ihm bekundete ... Ihre Rebellion gegen ihn, als sie seine Leute abschlachtete und ihn zum Herzen hinabzog und fesselte, sodass die Zungen ihn langsam auffressen konnten ... Du siehst, wie sie vor dem Herzen steht, wie du einst, und wie sie die Aufgabe annimmt, zur neuen Memovira zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>Als Herrscher der Flor siehst du die Erste, wie sie insgeheim andere Verstoßene um sich sammelt, sie durch die Schlünde führt und ihnen Positionen in ihrer neuen Armee verschafft. Es ist mal wieder Miel Avest, ein weiteres Heiligtum, das sicher vor dem Kummer ist, aber ohne den Wandelnden Gott. Maralel hat nie ihre Pläne gegen ihn fallengelassen ... bis die Flor aufhörte, ihre Befehle zu beachten und *hungrig* nach ihrem Fleisch wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>Deine Worte hallen zu dir zurück, wieder und wieder, wobei sie sich jedes Mal leicht ändern und einen eigenen *Willen* entwickeln. Sie schließen sich dem Schwarm Flor-Stimmen an. 
+
+Eine riesige Masse davon zwitschert und zischt. Sie warten *ungeduldig* auf den bevorstehenden Kampf. Die Flor hat *Hunger* nach ihrer früheren Memovira.
+
+Nach ein paar Augenblicken ziehen sich die Stimmen in die Flor zurück ... aber jetzt kannst du deine eigene Stimme eindeutig unter ihnen wahrnehmen, wie sie in die Dunkelheit flüstert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>Deine Worte hallen zu dir zurück, wieder und wieder, wobei sie sich jedes Mal leicht ändern und einen eigenen *Willen* entwickeln. Sie schließen sich dem Schwarm Flor-Stimmen an. 
+
+Eine riesige Masse davon zwitschert beruhigend. *Memovira*. Jetzt ist das Wort auch ein Versprechen auf eine Gunst. Nach ein paar Augenblicken ziehen sie sich in die Flor zurück ... aber jetzt kannst du deine eigene Stimme eindeutig unter all den anderen wahrnehmen, wie sie in die Dunkelheit flüstert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>Deine Worte hallen zu dir zurück, wieder und wieder, wobei sie sich jedes Mal leicht ändern und einen eigenen *Willen* entwickeln. Sie schließen sich dem Schwarm Flor-Stimmen an. Gehorsam zieht sich die riesige Menge in die Flor zurück ... erst jetzt kannst du deine eigene Stimme eindeutig unter all den anderen wahrnehmen, wie sie in die Dunkelheit flüstert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>Die Flor-Zungen gleiten schmerzlos aus deinem Körper und lassen dich frei. 
+
+In den Tiefen deines Geistes hörst du einen nassen *Seufzer* von der wogenden Masse Fleisch. Nachdem die Flor nun Teil deines Geistes ist, kannst du ihre Schlünde dazu bringen, deine Feinde zu bekämpfen und Portale mit einer Berührung zu öffnen ... Du wirst jedoch nie mehr frei von ihren Stimmen sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>Versuchen, die Zungen aus deinem Körper zu ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>Du schnappst dir eine von den fetten schlängelnden Flor-Zungen und *ziehst* mit all deiner Kraft. Du empfindest glühende Schmerzen an dem Ort, wo sich die Zunge in dein Fleisch gebohrt hat und fällst beinahe in Ohnmacht. 
+
+Die Zungen sind mit deinem Fleisch verschmolzen – du musst eine andere Möglichkeit finden, ihnen zu entkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>Zerreiße eine der Flor-Zungen in zwei Teile.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>Du packst eine Flor-Zunge mit beiden Händen und reißt sie auseinander. Stinkende Säfte strömen aus beiden Enden. Der Teil der Zunge, der mit deinem Körper verschmolzen war, rutscht schmerzlos heraus und fällt auf den Boden, wo er sich wie eine tote Spinne zusammenkrümmt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>Du schnappst dir eine Flor-Zunge und versuchst, sie auseinanderzureißen, aber ihr Fleisch ist zu dick und kräftig.
+
+Ein paar Flor-Stimmen schlagen Alarm und die verbleibenden Zungen wickeln sich fest um deine Glieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Das Herz zuckt von einer Seite zur anderen und die Flor-Stimmen schreien vor Hass, Wut und wegen deines Verrats. Einen Augenblick später sind sie aus deinem Geist verschwunden. Die verbleibenden Zungen ziehen sich aus deinem Körper zurück und du bist frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>Das Herz zuckt von einer Seite zur anderen und die Flor-Stimmen schreien vor Hass und Wut.
+
+"Nein!" schreit Matkina. "Wenn *er* dieses Geschenk nicht annimmt, dann tu *ich* es mit Freuden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>Schreiend vor Wut fluten die Flor-Stimmen in dein Gedächtnis und graben sich tief in dessen dunkelste Ecken ein. Dort zwitschern und klicken sie und weben die Klänge zu *Gedanken*, um ihnen Leben und eine Form zu geben. Eine dicke Masse Fleisch nimmt Form an, aufgebläht und schuppig, ein Fragment des eigenen Bewusstseins der Flor. Neue Flor-Stimmen werden darin geboren und quieken wie neugeborene Bestien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>Die Flor-Zungen mit dem transdimensionalen Skalpell aufschlitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>Das Skalpell schneidet eine der Zungen entzwei. Übelriechende braune Säfte spritzen aus beiden Enden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>Du versuchst, eine der Flor-Zungen mit dem Skalpell zu aufzuschneiden, doch sie weicht zuckend aus.
+
+Einige Flor-Stimmen schreien Alarm und die übrigen Zungen wickeln sich fest um deine Glieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>Den Flor-Stimmen widerstehen und deinen Geist gegen sie verschließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>Du schließt die Augen und konzentrierst dich darauf, eine *Wand* zu errichten, die die Flor nicht durchdringen kann. Die Stimmen spüren, was du vorhast, und versuchen, deine Abwehr zu durchbrechen. Sie fauchen frustriert, als du sie immer und immer wieder zurückschlägst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>Du versuchst, eine *Wand* rund um deinen Geist zu errichten, die die Flor nicht durchdringen kann, doch die Stimmen schlagen Breschen durch deine Abwehr und greifen an hundert Stellen gleichzeitig an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>Du ergreifst das Magmatische Annulet, schließt die Augen und konzentrierst dich darauf, eine *Wand* zu errichten, die die Flor nicht durchdringen kann. Die Stimmen spüren, was du vorhast, und versuchen, deine Abwehr zu durchbrechen. Sie fauchen frustriert, als du sie immer und immer wieder zurückschlägst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>Schließlich ziehen sie sich mit einem hasserfüllten und wütenden Kreischen zurück. Im nächsten Moment sind sie aus deinem Geist verschwunden. Die restlichen Zungen ziehen sich von deinem Körper zurück und du bist frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>Schließlich ziehen sie sich mit einem hasserfüllten und wütenden Kreischen zurück.
+
+"Nein!" ruft Matkina. "Wenn *er* dieses Geschenk ausschlägt, nehme *ich* es nur zu gerne an!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Matkina, nicht! Es will dich nur benutzen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>Sie machen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>Sie knirscht mit den Zähnen. "Mir egal. Ich werde mir *holen*, was sie mir und meinesgleichen gestohlen hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>Die Horde von Flor-Stimmen zieht sich von dir zurück und fällt in Matkinas Geist ein. Ihr Körper zuckt und verbiegt sich und sie übergibt sich heftig. Ihr Erbrochenes ergießt sich über die pochenden Arterien des Herzens. 
+
+Lange Augenblicke vergehen. Dann breitet sich ein Lächeln auf ihrem Gesicht aus.
+ 
+"Es ist vollbracht", flüstert sie. "Es ist *mein*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Matkina hebt die Hand und die Flor-Zungen ziehen sich folgsam von euren Körpern zurück. 
+
+"Wir sind nun sicher. Die Flor wird dir keinen Ärger mehr machen." Ihre Stimme ist fester und selbstsicherer, als du sie je gehört hast. "Finden wir Mazzof und gehen wir. Ich will seine Herrin der Flor zum Fraß vorwerfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Tritt vom Herz zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"Ich will all deine Erinnerungen an die Erste Verstoßene sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"Ich will nochmal deine Erinnerungen an die Erste Verstoßene sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>Vor deinem inneren Auge spielt sich eine Szene ab.
+
+Zwei Personen kauern in der Ecke einer dunklen und fleischigen Kammer, in die sie durch einen Schlund hindurch gefallen sind. Eine davon ist die Erste, ohne Maske, sodass man ihre Entstellungen erkennen kann. Die andere ist Mazzof, mit weiten Augen und angsterfüllt. 
+
+"Der Kummer kann uns hier nichts anhaben" sagt sie leise zu ihm wie zu einem verängstigten Tier. "Wir bleiben hier nur so lange, wie es sein muss"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>Die Erste Verstoßene setzt ihre Maske ab und ihr Gesicht wird zu dem einer wunderschönen Frau. Dann erhält sie eine Krone sowie dunkles Haar und wird zu einer majestätischen Frau, die du als Memovira kennst. 
+
+Sie legt eine Hand auf Mazzofs Schulter. "Niemand kennt uns hier. Wir fangen zusammen von Neuem an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>Jetzt hörst und siehst du die Memovira ... Augenblicke aus ihrer Jugend, wo sie Anhänger sammelte, um den alten Memovira zu stürzen, während sie öffentlich ihre Loyalität zu ihm bekundete ... Ihre Rebellion gegen ihn, als sie seine Leute abschlachtete und ihn zum Herzen hinabzog und fesselte, sodass die Zungen ihn langsam auffressen konnten ... Du siehst, wie sie vor dem Herzen steht, so wie du, und wie sie die Aufgabe annimmt, zur neuen Memovira zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>Als Herrscherin der Flor siehst du die Erste, wie sie insgeheim andere Verstoßene um sich sammelt, sie durch die Schlünde führt und ihnen Positionen in ihrer neuen Armee verschafft. Es ist mal wieder Miel Avest, ein weiteres Heiligtum, das sicher vor dem Kummer ist, aber ohne den Wandelnden Gott. Maralel hat nie ihre Pläne gegen ihn fallengelassen ... bis die Flor aufhörte, ihre Befehle zu beachten und *hungrig* nach ihrem Fleisch wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"Du hast dieses Ding *beleidigt* und ich fürchte, es ist noch nicht fertig mit uns", brummt Matkina. "Ich erkenne einen Schwur nach *Rache*, wenn ich ihn höre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>Die Flor-Stimmen finden nicht die Gedanken oder Erinnerungen, die sie begehren. Du wirst einen anderen Weg finden müssen, um ihren Hunger zu stillen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>Die Flor-Stimmen finden nicht die Gedanken oder Erinnerungen, die sie begehren. Du wirst einen anderen Weg finden müssen, um ihren Hunger zu stillen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Biete stattdessen die Gedanken eines Begleiters an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>Die Flor-Stimmen finden nicht die Gedanken oder Erinnerungen, die sie begehren. Du wirst einen anderen Weg finden müssen, um ihren Hunger zu stillen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>Du konzentrierst dich auf Rhin und versuchst, die Aufmerksamkeit der Flor-Stimmen auf sie zu lenken. Über eure gemeinsame Verbindung mit dem Herz der Flor kannst du ihre plötzliche panische Angst fühlen... sie hat dir *vertraut*, sie zu beschützen, und nun wirfst du sie diesem Monster *zum Fraß vor*.
+
+Die Stimmen haben ihre Witterung aufgenommen und strömen von deinem Geist in ihren ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>Ihre Schreie durchdringen deinen Geist, ebenso wie Bilder von ihrer Heimat: Ein Dorf namens Baranth, umgeben von den grünsten Bäumen, die du je gesehen hast.
+
+Du siehst eine jüngere Version von Rhin mit drei Mädchen spielen. Rhin ist bei weitem die schnellste und schlaksigste der Gruppe. Sie läuft den anderen davon und schnappt sich den Ball, doch dann wird sie von einem älteren Mädchen umgehauen.
+
+Das ältere Mädchen jubelt, dann hilft sie Rhin auf die Beine und beide lachen.
+
+Die Vision verbrennt wie Asche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>Du willst Mazzof etwas zurufen, findest aber keine Worte. Fragmente von Erinnerungen ziehen durch dein Bewusstsein, während die Flor sie verdaut ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>Dann zieht sie sich in ihre Festung zurück, außer Sichtweite der Flor, und die Erinnerung an sie endet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Setz sie auf", sagt er mit Nachdruck. Natürlich weiß sie, dass hinter diesem Geschenk *mehr* steckt. Sie hält sie vor ihr Gesicht ...
+
+In diesem Moment gibt es keinen Zweifel an Maralels Identität mehr – sie ist die Frau, die du als die Erste Verstoßene kennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>Dann zieht sie sich in ihre Festung zurück, außer Sichtweite der Flor, und die Erinnerung an sie endet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Rhin vergräbt heulend den Kopf in den Händen, als eine weitere Vision erscheint.
+
+Sie sitzt vor einer warmen Feuerstelle. Eine gütig aussehende Frau, deren Gesicht große Ähnlichkeit mit Rhins aufweist, zeigt ihr, wie man die schwere Nadel bedient. Ein streng aussehender Mann beobachtet sie mit einem Lächeln und lacht dann über etwas, das du nicht hören kannst.
+
+Doch Rhin kann es hören. Bei seinen Worten kullern ihr Tränen über das Gesicht. Dann kreischt sie, als die Flor auch diese Erinnerung wegbrennt.
+
+Sie atmet schwer. Ihr Blick ist glasig. "Ihre Namen... was waren ihre Namen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"Setz sie auf", sagst du mit Nachdruck. Es steckt noch *mehr* hinter dieser Maske. Sie hört es in deiner Stimme und hält sich dein Geschenk vor das Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Sie schwankt. Die quälende Unschlüssigkeit ist klar in ihrem Gesicht zu sehen. Schließlich kreischt sie - ein beinahe tierischer Urschrei. Die Muskeln in ihrem Nacken stehen hervor.
+
+"Ich glaube an dich", zischt sie. "Ich *vertraue* dir. Das ist meine Chance - meine einzige Chance - ich verzichte darauf. Für *dich*. Ich hoffe sehr, dass du das wert bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>Das Herz zuckt von Seite zu Seite. Flor-Stimmen heulen hasserfüllt und voller Wut auf. Das Flüstern wendet sich an Matkina – ein Wispern, das in einem hohen Ton endet, wie eine Frage. Sie hört konzentriert zu.
+
+"Ich könnte ihr die Flor wegnehmen", flüstert Matkina. "Die Flor *will* es... Götter! Was ich mit solcher Macht alles *tun* könnte!" Sie steckt sich die Faust in den Mund und beißt so hart darauf, dass sie zu bluten beginnt.
+
+"Ich werde es *nicht* tun. Es gibt einen besseren Weg. Du und ich, wir machen das *gemeinsam*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>Die Flor-Stimmen verstummen. Die restlichen Zungen ziehen sich von deinem Körper zurück und du bist frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>Du siehst, wie sein Idealismus langsam stirbt. Er geht wie ein Roboter durch das Leben, klammert sich an den letzten, bitteren Strohhalm in der Reihe von Enttäuschungen, zu der sein Leben geworden ist ...
+
+Die Erinnerungen stürzen wie eine Flut hervor, ein flackerndes Chaos aus Hoffnungen und Träumen, Ängsten und Albträumen. Seine Erfahrungen werden ihm entrissen und sein Geist getötet. Entscheidende Verbindungen verschwinden für immer im unersättlichen Hunger der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>Sein erster Kuss schmeckt nach Honig und Bier. Er verliebt sich leicht und schnell und sein Herz bricht ohne Ende, bis er es irgendwann hart werden lässt. Er hat fast begriffen, dass er selbst Teil des Zyklus von Schmerz und gebrochenen Herzen ist – fast. Und dann trifft er Auvigne.
+
+Seine Erinnerungen flattern an deinem geistigen Auge vorbei, eine Kurzversion von Tybirs Persönlichkeit und Träumen. Wichtige Erfahrungen gehen ihm verloren und entscheidende Verbindungen verschwinden für immer im unersättlichen Hunger der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>... und du durchdringst den Schein und da ist dein Erritis, mit unscheinbarerem Gesicht und dumpferem Verstand, und er stößt dich weg und deutet, und du bist zurück in dem Schein...
+
+... und du siehst, wie die Nicht-Erritise fallen, von Speeren durchbohrt, auf einem großen dornigen Baum aufgespießt, von Bestien verschlungen, in den leeren Raum geschleudert, von Energieblitzen auseinandergerissen...
+
+... und der Schein findet einen anderen Wirt, und noch einen, und noch einen...
+
+Entscheidende Verbindungen gehen Erritis‘ Geist verloren und verschwinden für immer im unersättlichen Hunger der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>Noch mehr Erinnerungen flackern an dir vorbei - der Blut- und Adrenalinrausch, als sie zum ersten Mal jemanden tötete ... ihr erster Liebhaber, ein ungeschickter Junge, der fertig war, bevor sie noch begonnen hatte ... die unzähligen Male, wo sie wegen ihrer weißen Haut verspottet wurde ... die ständige Erinnerung an ihre *Andersartigkeit*, wo sie nichts wollte außer *dazugehören* ...
+
+Die Flor entreißt ihr ihre Erfahrungen und stärkt sich an ihnen. Entscheidende Erfahrungen gehen ihr verloren und verschwinden für immer im unersättlichen Hunger der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>Du blätterst durch ihr Leben als Erwachsene wie durch Bilder in einem holografischen Projektor. Ihre erste Sektion, ihre erste Vivisektion, das endlose Aufbegehren gegen die Erwartungen ihrer Familie, der Beweis, dass sie sich von ihren Vorstellungen lösen konnte. Du siehst, wie sie sich entwickelt, sich hasst, darum kämpft, *sie selbst* zu sein ...
+
+Die Flut der Erinnerungen ebbt ab. Callisteges Geist wurde auf subtile, aber irreparable Weise beschädigt, ihre entscheidenden Erfahrungen aller Unmittelbarkeit beraubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>Sie lächelt und nickt leicht. Die Erste spricht zu ihr und lobt ihre Fähigkeiten als Späherin. Hungrige Flor-Zungen schlecken dieses Glück auf und tilgen es aus Matkinas Geist.
+
+Die Erste hat eine neue Aufgabe für Matkina – eine spezielle Aufgabe, bei der sie mit einem Verstoßenen namens Tash zusammenarbeitet. Matkina und Tash sind ein gutes Team, ihre Fähigkeiten ergänzen sich optimal, doch Matkina traut ihm nicht recht über den Weg ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>Du erkennst den Mann sofort – es ist Mazzof, der Verstoßene, den du im Lebensbild vo Zerian Tagesläufer getroffen hast. Dein erster Gedanke ist, dass die Flor dich ausgetrickst und irgendwie den falschen Mann freigelassen hat, aber nein ... Die Flor-Stimmen sind hartnäckig. Ishen ist Mazzof. Die Erste Verstoßene hat die Wahrheit vor dir verborgen, um nicht deinen Verdacht zu erregen.
+
+Im Moment erholt sich Mazzof von all den Qualen und bekommt kaum mit, was um ihn herum vor sich geht. Er hat dich noch nicht einmal gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>Dich von der Flor lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>Erneut versuchen, dich von der Flor zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>Du fühlst die Überreste eines transdimensionalen Risses in der Zyste – vermutlich derselbe Riss, durch den die Flor Ishen gefangen hat. Es müsste möglich sein, ihn erneut zu öffnen und Ishen zu befreien, doch die Flor wird es *mitbekommen*, wenn du das tust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>Du *flüsterst* leise zu dem Riss und er beginnt, Form anzunehmen. Ishen rührt sich... und die zusammengezogenen Muskeln rund um seine Zyste zittern aufgeschreckt. 
+
+Dank deiner Kontrolle über die Funktionen des Herzens reagiert es zunächst nur langsam. Doch als der Riss kurz davor ist, sich zu öffnen, zischen Tausende zwitschernde Stimmen wutentbrannt. Sie bringen die Zyste ins Schwanken und bewirken, dass der Riss sich wieder auflöst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>Das Herz bietet dir keine Erklärung dafür, warum es dir diese Erinnerung gezeigt hat, aber die Absicht dahinter ist klar – Memovira ist eher eine Verkleidung, eine Maske, die die erste Verstoßene verbirgt. Sie hat jahrelang unter einer falschen Identität überlebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>Du erkennst den Mann sofort – es ist Mazzof, der Verstoßene, den du im Lebensbild von Zerian Tagesläufer gesehen hast. Dein erster Gedanke ist, dass die Flor wohl irgendwie den falschen Mann freigelassen hat, aber nein ... Memovira hat dich getäuscht. Ishen ist Mazzof. 
+
+Im Moment erholt sich Mazzof von all den Qualen und bekommt kaum mit, was um ihn herum vor sich geht. Er hat dich noch nicht mal gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>Versuche, Mazzof zu beruhigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>Auf das Herz konzentriert bleiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>Du öffnest den Mund, doch du bringst kein Wort heraus. Die Flor-Stimmen stoßen ein letztes Mal mit Gewalt in die Tiefen deines Geistes vor und eine Erinnerung kommt ans Licht...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>Die Flor-Zungen sind immer noch fest mit deinem Körper verbunden. Die Flor-Stimmen stoßen ein letztes Mal mit Gewalt in die Tiefen deines Geistes vor und eine Erinnerung kommt ans Licht...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>Du ignorierst die Aufforderung der Flor und formst erneut ein Bild des entführten Gelehrten vor deinem geistigen Auge.
+
+Die Flor-Stimmen zwitschern und klicken. Sie klingen nahe, als hätten sie dich umzingelt wie ein Rudel wilder Tiere. Du fühlst ihren *Hunger*. Sie wissen, was du willst, und sie wollen etwas im Gegenzug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>Du erkennst den Mann sofort – es ist Mazzof, der Verstoßene,den du im Lebensbild von Zerian Tagesläufer gesehen hast. Dein erster Gedanke ist, dass die Flor wohl irgendwie den falschen Mann freigelassen hat, aber nein ... Memovira hat dich getäuscht. Ishen ist Mazzof. 
+
+Im Moment erholt sich Mazzof von all den Qualen und bekommt kaum mit, was um ihn herum vor sich geht. Er hat dich noch nicht mal gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>Plötzlich ist es vorbei. Um dich herum setzt abruptes Geflüster ein und die Luft in der Kammer bildet Wellen. Gleichzeitig erscheint ein transdimensionaler Riss in der Realität und eine menschliche Gestalt stürzt heraus. Schwarze Säfte tropfen von dem Mann, er hustet und würgt und übergibt sich auf dem Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>Löse dich von den Flor-Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>Du ziehst an den Flor-Zungen, die sich mit deinem Körper verschmolzen haben, doch sie lassen sich nicht entfernen. Die Flor-Stimmen stoßen ein letztes Mal mit Gewalt in die Tiefen deines Geistes vor und eine Erinnerung kommt ans Licht ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

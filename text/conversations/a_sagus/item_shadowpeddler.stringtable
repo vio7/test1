@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_shadowpeddler</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Halte die Kreatur über deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lass die Kreatur in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Kreatur gurgelt leise als du sie wieder in deinen Rucksack steckst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die lichtdurchlässige Kreatur schwebt träge durch die Luft vor deinem Gesicht. Ohne offensichtliche Organe, intern oder extern, siehst du zunächst keine Möglichkeit, mit dieser Kreatur zu interagieren.  Erst nach einiger Zeit des Nachdenkens fällt dir auf, dass sie perfekt um einen menschlichen Kopf herum passen würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die lichtdurchlässige Kreatur schwebt vor dir und wartet darauf, über deinen Kopf gezogen zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Einen Augenblick später schießt eine kleine Kreatur mit einem riesigen Kopf aus dem Boden vor dir. Ihre großen Augen mit mehreren Pupillen starren dich ungerührt an, ihr mit Tentakeln versehenes Maul versucht, verschiedene Geräusche zu erzeugen, um mit dir zu kommunizieren.
+
+Nach einiger Zeit nickt sie dir brüsk zu. "Mein Name ist ‚Urmpfh?‘." Der fragende Ton scheint zum Namen zu gehören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Kreatur namens Urmpfh? taucht wieder vor dir auf und nickt dir erfreut zu. Du kannst nicht sagen, ob er sich freut, dich zu sehen, oder ob er ungeduldig ist, deine Angelegenheit zu Ende zu bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>In einem Moment wirst du teleportiert, an einen völlig anderen Ort und vielleicht sogar in eine völlig andere Zeit. Du bist in einer riesigen Wüste mit grünem Sand und Drit am Boden. Es ist dunkel, aber man sieht nicht einen Stern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Verkaufst du?" Urmpfh?s Tentakeln schlängeln sich vor Freude. "Ich verkaufe … kaufe irgendeine deiner … Numenera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich habe einige Numenera zu verkaufen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Dein Name ist Urmpfh??"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Wie ist deine Name nochmal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Wo bin ich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Bist du sicher, dass du mir nicht sagen kannst, wo ich bin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Nein? Ja. Danke. Urmpfh? war schon immer meine Name."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Statt dir zu antworten, schlängelt Urmpfh? ungeduldig seine Tentakeln auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Meinst du nicht, dass es komisch ist, eine Fragewort als Name zu haben?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Urmpfh? starrt in den schwarzen Himmel und scheint über deine Frage genau nachzudenken.
+
+Nach einer endlos langen Zeit, schaut er wieder zu dir zurück. "Du magst Fragen." Er stimmt sich selbst zu und ist offensichtlich vollkommen zufrieden mit dieser Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Selbst wenn ich es dir sage, würdest du es nicht wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Keine Antwort scheint herauszukommen. Urmpfh?s Tentakeln ziehen sich zusammen und strecken sich wieder im Rhythmus. Auch wenn sie keine Geräusche von sich gibt, bist du dir sicher, dass sie über dich lacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Nimm die Kreatur von deinem Kopf runter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Ohne zu zögern durchwühlt Urmpfh? deine Sachen. Seltsamerweise scheint sie sich nur für das nicht funktionierende Numenera zu interessieren.
+
+Es blickt nach oben  mit einem deprimierten, fast beleidigten Blick. "Nicht genug. Man darf nur so viele kaufen, wie Sterne da sind." Als sie das sagt, erscheinen zehn Sterne über dem Kopf.
+
+{SCRIPT: plays if player has less than ten oddities}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Ohne zu zögern durchwühlt Urmpfh? deine Sachen. Seltsamerweise scheint sie sich nur für das nicht funktionierende Numenera zu interessieren.
+
+Sie nickt zufrieden. "Kaufe so viele, wie Sterne da sind." Als sie das sagt, erscheinen zehn Sterne über dem Kopf.
+
+{SCRIPT: plays if player has ten or more oddities}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Na gut, dann nimm die zehn wertvollsten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich glaube nicht, dass ich dir jetzt welche verkaufe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Seine Schultern fallen ein, aber mit einem weichen winselnden Geräusch. Urmpfh? gibt dir deine Rucksack zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Schnell wählt Urmpfh? zehn Kuriositäten aus deinem Rucksack und tanzt aufgeregt auf der Stelle und wirft die Numenera in die Luft, wo sie sofort verschwinden.
+
+"Das taugt gut." Ein großer Haufen Shin wächst in Urmpfh?s Händen heran, den er dann in deinen Rucksack steckt, bevor er ihn dir wieder zurückgibt. "Geschäft erfolgreich abgeschlossen."
+
+{SCRIPT: removes ten most valuable oddities from inventory, adds 150% of full value in shins to inventory}
+{SCRIPT: I'm open to different ways to do this, perhaps it can open up a barter interface but limit what the player can sell or how much shins Urmpfh has? Maybe it'd be easier to do with cyphers. Whichever way it's easiest to do, design can be flexible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Danke, Urmpfh?."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Du bist ein komischer Kerl, Urmpfh?."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die Landschaft um dich herum wird langsam dunkel, während die Haut in deinem Gesicht immer heißer wird. Dir wird klar, dass sich die lichtdurchlässige Kreatur, die dich herbrachte, auflöst, als du zurück teleportiert wirst und dabei wird eine giftige Substanz freigesetzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

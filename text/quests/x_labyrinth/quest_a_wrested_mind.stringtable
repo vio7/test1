@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\x_labyrinth\quest_a_wrested_mind</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein freier Geist</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Öffne das Portal zum Uhrenklafter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Stoße die Kummerscherbe aus dem Uhrenklafter aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kummerscherbe Ausgetrieben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Das Siegel auf dem Portal zu dem Klafter, in dem ich Kamose, Villon und Diviaticu getroffen habe, ist geschwächt. Es sollte nun möglich sein, einen Weg zurück zu öffnen, doch die Kummerscherbe, die den Klafter versiegelt hat, ist bestimmt ebenfalls noch dort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Das Siegel, dass mir den Zugang zum Uhr-Klafter versperrt hat, ist nun schwächer geworden. Es sollte jetzt möglich sein, wieder eine Passage dorthin zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Das Fragment des Kummers, das mich das letzte Mal gegen meinen Willen von dort vertrieben hat, ist gewiss noch dort. Ich muss einen Weg finden, um es loszuwerden, damit ich diesen Teil des Labyrinths reinigen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe die Kummerscherbe aus dem Uhr-Klafter vertrieben.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

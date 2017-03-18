@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_vine_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die rebenartige Ranke endet in einem zerstörten Knopf.</DefaultText>
+      <FemaleText>Die rebenartige Ranke endet in einem zerstörten Knopf.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Metallische, graue Reben wachsen von der Mauer. Das Ende einer Ranke scheint sich geöffnet zu haben und gibt in deren Mitte eine schwarze Faser frei, das die umgebenden Ranken abstößt.</DefaultText>
+      <FemaleText>Metallische, graue Reben wachsen von der Mauer. Das Ende einer Ranke scheint sich geöffnet zu haben und gibt in deren Mitte eine schwarze Faser frei, das die umgebenden Ranken abstößt.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

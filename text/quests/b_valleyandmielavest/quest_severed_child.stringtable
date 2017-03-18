@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_severed_child</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Zerrissenes Kind</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Frage nach Choi herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Frage Oddwald über Choi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Besuche Chois Grab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Frage nach Chois Familiennamen - Cai'sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Untersuche das Grab des Ronos Cai'sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Lerne mehr über Marcysa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Finde den Besitzer das Lebensbildbetrachters.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ich *kenne* jetzt Iniferes Plan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Inifere ist tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ich überredete Inifere, das Tal zu verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ich verließ das Tal, ohne das Rätsel der Erinnerung zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Frage Oddwald nach Choi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Besuche Chois Grab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ich rettete Choi aus Iniferes Verstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Finde Chois Markierung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Besuche erneut Ronos Cai'suls Markierung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Frage, ob irgendeiner den Namen Choi Cai'sul kennt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Frage Ronos nach Choi Cai'sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe eine verstörende Erinnerung in einem schwebendem Kristall im Tal gesehen. Sie gehörte einem Mann, der von Schrecken gequält wurde, die jenseits seiner Kontrolle lagen - und blutrünstige Kultisten, die auch gegen seinen Willen für ihn töten würden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Erinnerung hat nur wenige Hinweise ergeben, aber der Name eines jungen Mädchens ist gefallen - Choi. Das Tal ist voll von Toten und ihren Gedenkstätten. Vielleicht weiß jemand, was mit ihr geschehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Motley hat mir geraten, mich bei jemandem namens Oddwald dem Vernünftigen zu erkundigen, wenn ich etwas Bestimmtes in den Gräbern suche. Der Code für dieses Grab lautet 5-1-4-3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Beltrax erkannte den Namen Choi wieder. Er sagt, er hätte ein Grab mit diesem Namen gesehen, an der Stelle 4-2-2-1.Er sagte auch, ich sollte „den Atem anhalten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe Chois Grabmal gefunden. Es trägt eine merkwürdige Inschrift, aber ich habe herausgefunden, dass Chois Nachname Ca'isul lautet - derselbe Name des Chronisten Ronos Cai'sul, den ich getroffen habe, als ich das Tal betrat. Vielleicht kann er mir mehr erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe erfahren, dass ein weiteres Mitglied der Cai'sul in der Nekropolis bestattet wurde. Vielleicht gibt es eine Verbindung zu dem Mädchen Choi. Der Code für das Grab von Ronos Cai'sul lautet 2-4-1-3.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ronos Cai'sul hat Inifere und die Kultisten verfolgt! Seine Grabinschrift erwähnte eine Führerin namens Marcysa, die ebenfalls in der Nekropolis beerdigt wurde. Mir kommt es vor, als würde ich einer Antwort näherkommen. Hoffentlich endet die Spur in ihrem Grab: 1-2-5-4.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ausgerechnet einen Lebensbildbetrachter habe ich in Marcysas Grab gefunden. Ich weiß nicht, was er da verloren hat, aber ich glaube, zu wissen, wem er gehört - dem Mann aus der Erinnerung, der Abgeworfene, der hinter all dem Schrecken im Tal steht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Inifere *war* der Mann in der Mitte der Erinnerung vom schwebenden Kristall. Es war seine Reue über Choi – und all die Taten seiner Kultisten – die meinen Verstand überfluteten, als ich das Kristall berührte.Womöglich kann er ebenfalls jetzt Frieden finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Inifere steckte mit großer Wahrscheinlichkeit hinter dem Mysterium des schwebenden Kristalls. Er ist jetzt tot. Hoffentlich findet er im Tod den Frieden, den er im Leben nie erreichen könne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Inifere steckte mit großer Wahrscheinlichkeit hinter dem Mysterium des schwebenden Kristalls. Ich konnte das Mysterium nicht vollständig ergründen, aber immerhin konnte ich Inifere davon überzeugen, das Tal zu verlassen. Vielleicht findet er außerhalb des Tors seinen Frieden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Ich war gezwungen, aus dem Tal zu fliehen, bevor ich das Mysterium um den schwebenden Kristall ergründen konnte. Es sollte nicht sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Ich habe einen ... seltsamen Mann gefunden ...? ... in den Gräbern namens Oddwald. Er scheint hier unten zu leben. Vielleicht weiß er, wo ich Choi finden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Oddwalds Antwort war etwas eigenartig, aber er gab mir einen Grabcode für das, von dem ich *hoffe*, dass es das Kind Choi ist. Der Code lautet 4-2-2-1.Er sagte auch, ich sollte „den Atem anhalten.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Chois ... Geist, nehme ich an, war im Chaos von Iniferes Verstand gefangen. Mir ist es gelungen, sie aus seinem Verstand zu befreien und in meinen zu übertragen, während ich Iniferes Lebensbild betrachtet habe. Vielleicht wird es ihr - und Inifere - helfen, ihren Frieden zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Die Erinnerung hat dir nur wenige Hinweise gegeben, aber der Name eines jungen Mädchens ist gefallen - Choi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Ich habe Chois Grabmal gefunden. Es trägt merkwürdige Grabinschrift, aber ich habe herausgefunden, dass Chois Nachname Ca'isul lautet - derselbe Name des Chronisten Ronos Cai'sul, den ich getroffen habe, als ich das Tal betrat, und der Name, den ich auf einer anderen Markierung in den Gräbern gefunden habe. Vielleicht kann mir Ronos' Markierung weitere Hinweise für die Ergründung dieses Rätsels liefern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Ich habe Chois Grabmal gefunden. Seine Grabinschrift war sehr merkwürdig, aber ich habe erfahren, dass Chois vollständiger Name 'Choi Cai'sul' ist. Eventuell kann jemand im Tal etwas mit diesem Namen anfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Ich habe einen Chronisten getroffen, der denselben Nachnamen hat wie Choi. Vielleicht weiß er etwas über sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ronos hat sich geweigert, weitere Informationen herauszurücken. Vielleicht weiß Oddwald mehr über Chois Nachnamen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich hatte recht! Der Lebensbildbetrachter gehört zu Inifere. Wenn er der geplagte Mann aus der Erinnerung des Kristalls ist, kann ich den Lebensbildbetrachter vielleicht dazu verwenden, ihm zu helfen - oder das alles zu beenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ronos hat sich geweigert, weitere Informationen herauszurücken. Vielleicht gibt es jemand anderen, der mir helfen kann - jemand, der die Nekropolis sehr gut kennt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

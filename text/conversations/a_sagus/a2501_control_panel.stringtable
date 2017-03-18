@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_control_panel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Hologramm-Konsole scheint ein Steuerungsinterface zu sein. In der Mitte befindet sich etwas, das wie die Versorger-Karte von Sagus-Klippen aussieht. Sie ist von einigen Symbolen umgeben, die du nicht auf die Schnelle identifizieren kannst und im Quadranten rechts oben ist eine Art Kubus in einem Kubus.
+
+So seltsam die Konsole auch erscheint, dir kommt sie doch ein wenig vertraut vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Eine Versorger-Karte von Sagus-Klippen befindet sich in der Mitte dieses Steuerungsinterfaces. Mehrere seltsame Symbole umgeben sie und in der Ecke rechts oben ist ein unmöglicher Kubus in einem Kubus zu sehen.
+
+So seltsam es ist, das Ganze kommt dir vertraut vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Eine Erinnerung steigt in dir hoch, so klar, als würde es eben erst geschehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Untersuche das Interface genau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Untersuche das Interface noch einmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Auf der Karte von Sagus sind mehrere Standorte markiert, einige davon kennst du bereits. Vier Symbole sind um sie herum: ein Kreis, der wie die Sonne aussieht, ein Sternhaufen, ein Dreieck mit drei Augen und etwas, das wie ein Kristallgitter aussieht. Alle Symbole außer dem Kristallgitter sind erleuchtet.
+
+Größer als alle vier Symbole ist der Kubus in einem Kubus - der, wie dir gerade einfällt, als Tesserakt bezeichnet wird. Es scheint sich zu bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du siehst eine Karte von Sagus mit mehreren markierten Punkten. Vier Symbole sind neben der Karte zu sehen: eine Sonne, ein Sternhaufen, drei Augen und ein Kristallgitter.
+
+In der Ecke rechts oben ist ein Tesserakt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Versuche dich zu erinnern, warum es dir vertraut vorkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Eine Erinnerung kitzelt deinen Verstand, bleibt aber hartnäckig schleierhaft. Du erinnerst dich zumindest, dass dieses Steuerpult mehrere Generatoren in der ganzen Stadt steuert und deine frühere Vermutung über den Sinn der Symbole ist auf jeden Fall richtig.
+
+Aha! Du erinnerst dich jetzt: das Tesserakt regelt die Steuerung zwischen "Raum" und "Zeit". Das bestimmt, welches Maschinen-Set das Steuerpult kontrolliert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Eine Erinnerung kitzelt deinen Verstand, bleibt aber hartnäckig schleierhaft. Du erinnerst dich allerdings, was die Symbole bedeuten.
+
+Die Sonne aktiviert die Plattform. Der Sternhaufen versucht, ein Maschinen-Netzwerk zu verbinden. Die drei Augen überwachen den Netzwerkstatus und dann, wenn Reparaturen erforderlich sind, versucht das Kristallgitter, sie auszuführen.
+
+Der Tesserakt ist eine Art Schalter, der die Steuerung vom einen Zustand in den anderen wechselt, aber du weißt nicht mehr, was für Zustände es sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Versuche, den Zweck der verschiedenen Interface-Elemente herauszufinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die ganze Plattform brummt, während sie zum Leben erwacht, und eine Sphäre aus Elektrizität schimmert knapp fünf Meter über deinem Kopf. 
+
+{SOUND: Energy humming, appearance of a teleporting sphere.}</DefaultText>
+      <FemaleText>Die ganze Plattform brummt, während sie zum Leben erwacht, und eine Sphäre aus Elektrizität schimmert knapp fünf Meter über deinem Kopf. 
+
+{SOUND: Energy humming, appearance of a teleporting sphere.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Berühre die Sonne, um zu sehen, was sie bewirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Aktiviere die Plattform, indem du die Sonne berührst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Plattform brummt. Die Luft knallt und knistert. Einige Sekunden lang *verwandelt* sich die Aktivität außerhalb der Plattform. Menschen flattern rein und raus. Karawanserei verändert sich, erst die Schiffe und dann die Gebäude. Du siehst sie zuerst als alt und heruntergekommen, dann als neu, dann als im Bau befindlich auf nacktem Felsen, und alles innerhalb von Sekunden. Deine Plattform bleibt unverändert, aber *außerhalb* ist es, als würde sich die Zeit so schnell ändern wie das Meer.
+
+{SOUND: Maschine brummt. In der Luft knackt und knistert es leise.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ein Vogel mit vier Flügeln flattert verzweifelt, um der Sphäre auszuweichen, aber er hat zu viel Schwung. Er knallt auf die Kugel und verschwindet mit einem abgebrochenen Schrei.
+
+Weit unten in Karawanserei siehst du denselben Vogel, wie er auf den Boden torkelt. Er steht wieder auf, orientierungslos, flattert dann mit den Flügeln und hebt wieder ab.
+
+{SOUND: Ein Vogel, der versucht, schnell zu stoppen und dann ein abgebrochener Schrei.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Berühre den Sternhaufen, um zu sehen, was er bewirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Verbinde das aktuelle Netzwerk, indem du auf den Sternhaufen drückst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Berühre die drei Augen, um zu sehen, was sie bewirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Untersuche das aktuelle Netzwerk, indem du auf die Augen drückst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Berühre das Kristallgitter, um zu sehen, was es bewirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Repariere das Netzwerk, indem du auf das Kristallgitter drückst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Finger weg vom Interface.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Berühre das Kristallgitter, um zu sehen, was es bewirkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Repariere das Netzwerk, indem du auf das Kristallgitter drückst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Mit fremdartigen Gesten drehst du das Tesserakt. Der innere Kubus drückt sich nach außen und wird zum äußeren Kubus, während der äußere zum inneren Kubus wird.
+
+Einige der auf der Karte markierten Orte verändern sich. Neben anderen Orten erscheinen in Karawanserei zwei neue Lichter, eins markiert die Plattform, auf der du stehst.
+
+Der äußere Kubus bewegt sich im Raum und flackert nicht mehr wie zuvor. Vermutlich ist die Steuerung nun auf die räumliche Dimension eingestellt.
+
+{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Mit fremdartigen Gesten drehst du das Tesserakt. Der innere Kubus drückt sich nach außen und wird zum äußeren Kubus, während der äußere zum inneren Kubus wird.
+
+Einige der auf der Karte markierten Orte verändern sich. Die zwei Lichter in Karawanserei und einige andere verschwinden.
+
+Der äußere Kubus flackert rein und raus und bewegt sich nicht mehr durch den Raum. Vermutlich ist die Steuerung nun auf die temporale Dimension eingestellt.
+
+{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die Karte leuchtet erneut auf und eine Stimme spricht in deinem Kopf zu dir: "Räumliches Übersetzungsnetzwerk verbunden Nenne deinen Zielort."
+
+Du erkennst nicht den Standort aller Punkte und weißt nicht, was die Maschine genau erwartet, aber wenigstens kennst du einige davon.
+
+{SOUND: Energie-Netzwerk schaltet sich ein.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die hellen Punkte auf der Karte werden noch heller und die Plattform unter deinen Füßen summt mit einer zunehmenden Wärme.
+
+Dünne Energiestreifen, die im Sonnenlicht kaum sichtbar sind, ziehen durch die Stadt zwischen jedem Standort auf der Karte. Gleichzeitig tauchen abgefärbte Linien auf der Karte auf und verbinden jeden Punkt. Ein Netzwerk von Generatoren, die von dieser Konsole aus kontrolliert werden.
+
+Dann ein lauter Knall, die Energie ebbt ab, das Brummen stoppt und alles ist wieder so, wie es vorher war.
+
+{SOUND: Energie-Netzwerk versucht online zu gehen, als das nicht klappt, gibt es einen lauten Knall.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die hellen Punkte auf der Karte werden noch heller und die Plattform unter deinen Füßen summt mit einer zunehmenden Wärme. Abgefärbte Linien tauchen auf der Karte auf und verbinden jeden Punkt. Es ist ein Netzwerk von Maschinen, die von dieser Konsole aus kontrolliert werden, darunter zwei Standorte in Karawanserei.
+
+Dann ein lauter Knall, das Brummen stoppt und die Karte ist wieder so, wie sie zuvor war.
+
+{SOUND: Energie-Netzwerk versucht online zu gehen, als das nicht klappt, gibt es einen lauten Knall.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Benutze das räumliche Netzwerk."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Karte leuchtet erneut auf und eine Stimme spricht direkt zu dir: "Nenne deinen Zielort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Circus Minor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Klippenrand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Regierungsplatz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Karawanserei."
+
+{ADAM/GEORGE: Put a ShouldNotPlay() on this for now so we can evaluate if there's a way to add this option here while maintaining consistency with the other shield generators. If we keep this, it'd be nice to add something visual to the level at the spot where the party teleports. -JF}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Berühre die drei Augen, um zu sehen, was sie bewirken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Untersuche das aktuelle Netzwerk, indem du auf die Augen drückst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Die Karte wechselt die Farbe. Jeder der hellen Punkte leuchtet einer nach dem anderen auf und zeitweise wird eine abgefärbte Linie von einem Punkt zum nächsten gezogen. Nach einer Minute beginnt die Karte zu verblassen.
+
+Eine Stimme spricht die Wahrheit direkt in deinen Geist: "Eingeschränkte temporale Netzwerkverbindungen. Netzwerk bitte reparieren."
+
+Das Kristallgitter neben der Karte leuchtet auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die Karte wechselt die Farbe. Jeder der hellen Punkte leuchtet einer nach dem anderen auf und zeitweise wird eine abgefärbte Linie von einem Punkt zum nächsten gezogen. Nach einer Minute beginnt die Karte zu verblassen.
+
+Eine Stimme spricht die Wahrheit direkt in deinen Geist: "Eingeschränkte räumliche Netzwerkverbindungen. Netzwerk bitte reparieren."
+
+Das Kristallgitter neben der Karte leuchtet auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Die Karte leuchtet erneut auf und ändert die Farben. Die Linien zwischen jedem Punkt wachsen und verblassen. Manche von ihnen werden zunächst fest und verschwinden dann wieder. Andere haben Lücken, die nie aufleuchten.
+
+Nach mehreren Minuten hört die Aktivität auf und die Stimme spricht erneut zu dir: "Netzwerk konnte nicht wiederhergestellt werden. Temporale Verbindungen sind irreparabel geschädigt. Bitte kontaktieren Sie umgehend Ihren Systemkonservator."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Die Karte leuchtet erneut auf und ändert die Farben. Zwischen jedem Punkt tauchen Linien auf. Manche sind verblasst und andere haben Lücken dazwischen. Eine nach der anderen werden die Linien heller und verbinden sich besser mit dem Rest.
+
+Nach mehreren Minuten zeigt die Karte ein Netzwerk aus Punkten. Das Steuerungspult beendet seine Aktivität und die Stimme spricht erneut zu dir: "Räumliches Netzwerk verbunden Verbindungsprozess kann nun fortgesetzt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Die Karte wechselt die Farbe. Jeder helle Punkt leuchtet nun auf und so auch jede Verbindung zwischen ihnen. Nach einer Minute beginnt die Karte zu verblassen.
+
+Eine Stimme spricht die Wahrheit direkt in deinen Geist: "Keine Probleme gefunden. Wenn Sie Probleme mit Ihrem temporalen Netzwerk haben, wenden Sie sich bitte an Ihren System-Konservator."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Du befindest dich an einer aufgebrochenen Tür am unteren Ende einer Treppe. Die Tür knarrt leise, als du sie langsam öffnest. Dir stockt der Atem für einen Moment, aber die Tabaht-Soldaten draußen haben dich nicht bemerkt. Du quetschst dich durch die Tür, hinter dir ein neugieriges junges Mädchen und entweichst aus dem Turm durch einen blutverschmierten Korridor in die Stadt.
+
+Die Stadt wird angegriffen. Du rennst durch die Straßen zum nächstgelegenen Generator. Du drückst einige Tasten und dann werden du und das Mädchen an einen anderen Ort teleportiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Du findest dich genau vor dem Steuerungspult oben auf der Klippe wieder.
+
+Mit schnellen Bewegungen schaltest du das Tesserakt um und wechselst die Steuerung von "Raum" auf "Zeit". Dann drückst den Sternhaufen, um das Netzwerk aus temporalen Schildgeneratoren zu verbinden.
+
+Auf der Karte erwacht das Generator-Netzwerk zum Leben und verteilt in der ganzen Stadt die Energie, die einen gigantischen Schutzschild über ganz Sagus-Klippen speisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Die Energiekuppel erfüllt den ganzen Himmel und macht die Stadt von der Zeit selbst frei. Auf der anderen Seite des Schildes verändert sich die Welt und funkelt, Objekte und Landschaften tauchen auf und verschwinden wieder vor deinen Augen. Der Ort ist derselbe, aber dir wird klar, dass du ihn gleichzeitig in vielen verschiedenen Zeitepochen siehst.
+
+Das Wichtige ist, dass niemand die Kuppel betreten oder verlassen kann, während die Stadt vorübergehend losgemacht wurde. Das müsste den Verteidigern der Stadt den Freiraum geben, um die Tabaht abzuwehren und zu überleben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Die Erinnerung verblasst. Du stehst wieder über Karawanserei. Das Interface ist so, wie du es in Erinnerung hast und du verstehst zumindest, was einige der Steuerungselemente tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Du kannst den Schild nicht mehr wie in deiner Erinnerung errichten. Aber dir fällt ein, dass das Netzwerk einmal einen anderen Zweck verfolgte. In der Erinnerung hat du das Tesserakt benutzt, um die Steuerung von "Zeit" auf "Raum" zu wechseln. Wer weiß, wenn du es zurück wechselst dann ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Mit fremdartigen Gesten drehst du das Tesserakt. Der innere Kubus drückt sich nach außen und wird zum äußeren Kubus, während der äußere zum inneren Kubus wird.
+
+Einige der auf der Karte markierten Orte verändern sich. Die zwei Lichter in Karawanserei und einige andere verschwinden.
+
+Der äußere Kubus flackert ein und aus, als wäre er nicht immer da. Er bewegt sich nicht mehr durch den Raum wie vorher.
+
+{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Mit fremdartigen Gesten drehst du das Tesserakt. Der innere Kubus drückt sich nach außen und wird zum äußeren Kubus, während der äußere zum inneren Kubus wird.
+
+Einige der auf der Karte markierten Orte verändern sich. Neben anderen Orten erscheinen in Karawanserei zwei neue Lichter, eins markiert die Plattform, auf der du stehst.
+
+Der äußere Kubus bewegt sich im Raum und flackert nicht mehr wie zuvor.
+
+{SOUND: A kind of thick 'schlurp' sound, but with the finality of flipping a circuit breaker.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Die Konsole scheint Maschinen-Netzwerke zu überwachen und zu steuern, allerdings bleibt dir der Zweck des Netzwerks schleierhaft. Dennoch kannst du erraten, was die Symbole bedeuten.
+
+Die Sonne aktiviert vermutlich einen Standort, sehr wahrscheinlich diese Plattform und der Sternhaufen versucht, ein ganzes Netzwerk zu verbinden.
+
+Das Augen-Dreieck hat die Aufgabe, etwas zu überwachen, vielleicht den Netzwerkstatus. Das Kristallgitter, glaubst du, kennzeichnet Reparaturen. Es leuchtet vermutlich auf, wenn eine nötig ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Das Tesserakt ist ein Geheimnis. Es ist eindeutig eine Art Schalter, mit dem die Steuerung vom einen Status in den anderen gewechselt werden kann, aber ohne zu experimentieren, kannst du diese Stadien nicht erraten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Die Plattform wackelt plötzlich und schaltet sich dann ab. Die Luft kühlt ab und es wird ruhig und in Karawanserei läuft alles wieder wie vorher.
+
+Nachdem die Energiekuppel so lange aktiv war - Jahrhunderte oder länger - scheint es, dass die Plattform keine Energie mehr hat, um aktiv zu bleiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Nach einigen Momenten lässt das Brummen nach und die Sphäre verblasst und alles ist wieder still.
+
+{SOUND: (On Exit) Humming powers down.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Das Dorf Kholn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>" Das Riff der gefallenen Welten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Schattenseite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Miel Avest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ziel nicht erkannt. Bitte erneut festlegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Momentan nirgendwo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Verstanden. Um künftig das räumliche Übersetzungsnetzwerk zu nutzen, einfach erklären: ‚räumliche Netzwerk verwenden‘.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Eine Versorger-Karte von Sagus-Klippen befindet sich in der Mitte dieses Steuerungsinterfaces. Mehrere seltsame Symbole umgeben sie und in der Ecke rechts oben ist ein unmöglicher Kubus in einem Kubus zu sehen.
+
+Das räumliche Netzwerk auf der Karte leuchtet, ist verbunden und einsatzbereit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Obwohl der Status an der Konsole geändert wurde, bleibt das räumliche Netzwerk auf der Karte verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Die Stimme spricht: "Räumliches Übersetzungsnetzwerk wurde bereits aktiviert. Nenne deinen Zielort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Das Tesserakt flackert ein und aus, als wäre es nicht immer da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Das Tesserakt bewegt sich durch den Raum, anstatt zu flackern wie vorher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Die Punkte auf der Karte sind durch kräftig leuchtende Linien verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Das Kristallgitter neben der Karte verdunkelt sich wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Du starrst einige Minuten lang auf die Steuerung, wirst aber einfach nicht klug aus ihr. Vielleicht solltest du einfach ausprobieren, was passiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Sobald du es berührst, verändert sich der unmögliche Kubus und bewegt sich durch deine Finger. Er scheint in zwei verschiedene Stadien zu wechseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Schalte mit dem Tesserakt die Steuerung von "Raum" auf "Zeit" um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Das Kristallgitter neben der Karte verdunkelt sich wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Die gesamte Plattform erwacht zum Leben. Die Luft um dich herum knistert und knackt und mit einem Schlag bist du plötzlich an einem anderen Ort.
+
+{SOUND: Energy humming. Sparks and crackles in the air, then a teleport sound.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Berühre das Tesserakt, um zu sehen, was es macht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Drehe das Tesserakt um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Sobald du es berührst, verändert sich der unmögliche Kubus und bewegt sich durch deine Finger. Er scheint in zwei verschiedene Stadien zu wechseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

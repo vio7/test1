@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_murden_sentry_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Murde zieht sich von dir zurück, fauchend, und sie blickt nervös zu ihrem Kamerad am anderen Ende des Raumes. Sie stoßt einen Schuss aus Mentalstatik aus, der sich wie Angst anfühlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hkkkkhkkk. sssSSss!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ihr wollt gar nicht mit mir reden, stimmt's?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich muss mit dir reden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Nochmals blickt die Kreatur zur anderen Murde, faucht dir zu, und flattert mit den Händen, um dich wegzuscheuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Murde zieht ein Messer aus ihrem gefederten Umhang und winkt damit umher, dich zurückzuhalten. Sie gestikuliert zur anderen Murde. Dann spuckt sie einen faueln Klumpen gelben Auswurf an deine Füße, um ihre Meinung zu betonen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Kreatur gestikuliert mit dem Kopf zur anderen Murde, dann wedelt sie mit ihren Händen, um dich zu verscheuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Hkkkkhkkk. sssSSss!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

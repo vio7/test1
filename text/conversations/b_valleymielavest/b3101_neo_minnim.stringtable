@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_neo_minnim</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>56</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Fleck aus Dunkelheit bleibt geschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Tritt näher heran. Vertreibe, was immer versucht, deinen Körper zu verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Stelle eine Verbindung zwischen den Rissen her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Untersuche den Riss im Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Lass ihn in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Es gibt einen leichten Widerstand, als würdest du durch ein Spinnennetz laufen, doch ansonsten geschieht nichts. Du kommst lediglich auf der anderen Seite heraus, doch noch immer auf dem gleichen Felsvorsprung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Je länger du das Minnim betrachtest, desto mehr erscheint es dir wie eine unbestäubte Blume. Es ist inaktiv und auf der Suche nach etwas, das es lebendig macht, doch was?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Sobald du deinen Mund öffnest, strömt eine glatte, schwarze Wolke heraus, die deine Lunge beinahe vollständig leert. Es sind die schwarzen Tupfen des sterbenden Minnims, doch ... sie haben sich in deinem Körper irgendwie verändert.
+ 
+ Die Wolke schwebt auf das Minnim zu. An den Stellen, wo es berührt wird, wird das Minnim diffuser – weniger ein Gerinnsel als eine Wolke – und weitet sich aus und entfaltet sich, bis seine dunkle Mitte offengelegt ist. In dessen Mitte pulsiert ein rotes Licht und eine angenehme Wärme trägt das Echo von Geräuschen, die du nicht um dich herum hörst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du lockerst deinen Griff um das pulsierende Leben in dir. Dunkelheit wallt aus dir auf, durch deine Brust, deinen Hals, und strömt aus deinem Mund heraus. Sie erstickt und brennt, entzieht dir Energie und Aufmerksamkeit, als müsse das neugeborene Ding mit deiner eigenen Vitalität gefüttert werden.
+ 
+ Nach einer gefühlten Ewigkeit lässt der Schmerz nach, gefolgt von dem überwältigenden Gefühl der Erleichterung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die schwebende Dunkelheit vor dir ähnelt ein wenig den Rissen im Raum, die sich an anderen Stellen im Tal befinden, doch diese hier ist anders. Sie ist wie eine schwarze, nicht erblühte Rose zusammengerollt. Sie hat keine Tiefe. Sie sieht weniger wie ein offenes Portal aus, mehr wie eine verschlossene Tür.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die schwebende Dunkelheit vor dir ähnelt ein wenig dem sterbenden Minnim, das du vorher gesehen hast, nur dass diese noch fester verschlossen ist. Sie ist wie eine schwarze, nicht erblühte Rose zusammengerollt, als würde sie nach etwas suchen, das sie zum Leben erweckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die schwebende Dunkelheit vor dir ähnelt ein wenig dem sterbenden Minnim, das du vorher gesehen hast, nur dass diese noch fester verschlossen ist, zusammengerollt wie eine schwarze, nicht erblühte Rose, als würde sie nach etwas suchen, das sie zum Leben erweckt. Und plötzlich weißt du, was dieses Etwas ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Der schwebende Fleck aus Dunkelheit vor dir ähnelt ein wenig dem sterbenden Minnim, das du vorher gesehen hast, nur dass dieser noch fester verschlossen ist. Er ist wie eine schwarze, nicht erblühte Rose zusammengerollt, als würde er nach etwas suchen, das ihn zum Leben erweckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die schwebende Dunkelheit ist erwacht. Wo sie zuvor geklumpt und verschlossen war, kannst du nun innerhalb der Dunkelheit ein flackerndes Rot sehen, wie die Reflektion eines Feuers. Eine angenehme Wärme strömt aus, die das Echo von Geräuschen mit sich trägt, die du um dich herum nicht hören kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die Auswirkung auf die Dunkelheit ist wundersam. Sie wird schnell diffuser – weniger ein Gerinnsel als eine Wolke – und weitet sich aus und entfaltet sich, bis ihre dunkle Mitte offengelegt ist. In dessen Mitte pulsiert ein rotes Licht und eine angenehme Wärme trägt das Echo von Geräuschen, die du um dich herum nicht hören kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Die rötliche Dunkelheit lockt dich an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Wie zuvor passiert nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Versuchen, durch den Raum zu gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Gehe nochmal durch den Raum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du betrittst die warme, rote Dunkelheit, und sie verschlingt dich und verwandelt dich zu Rauch und Funken. Du treibst und wirbelst durch eine schwarze Leere, und du schwebst in Richtung eines anderen Fleckens flimmernden Rots. Dann bist du plötzlich ... woanders.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Der Puls in deiner Brust – die Verbindung mit dem sterbenden Minnim unten – wird in der Präsenz von diesem stärker. Das Gefühl der Verzweiflung ist beinahe unerträglich. Es *braucht* dich, um sie zu verbinden.
+ 
+ Du spürst jedoch auch, dass es dich verletzen wird, dir die Klarheit des Verstandes nehmen wird, die du durch die Verbindung mit dem sterbenden Minnims vorhin erhalten hast. Du würdest dem Paar das Leben schenken, aber nicht, ohne einen Preis dafür zu zahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Du müsst plötzlich reflexartig würgen. Etwas taumelt in deiner Brust. Etwas in deinem Körper reagiert auf das Minnim und versucht, herauszukommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Doch der schwarze Schlamm wird weiterhin aus deinen Lungen gespien. Du kannst ihn nicht kontrollieren, würgst immer mehr davon aus, bis schließlich, als du das Gefühl hast, ohnmächtig zu werden, der letzte Rest deine Zunge passiert. Du fühlt dich schwächer, doch wenigstens ist es jetzt nicht mehr in deinem Körper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Du hast den gleichen Würgereflex wie zuvor. Etwas in deinem Körper versucht, herauszukommen, *zum* Minnim zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4601_ascension_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Aus dem Portal tauchst du in einer fremden Welt auf. Die Luft ist dünn und bitterkalt. Die 'Sonne' ist eine kleine weiße Scheibe am Himmel, die ein trübes Licht über eine Landschaft kristalliner Schönheit wirft. Du kannst keine Anzeichen organischen Lebens entdecken – lediglich glitzernde Kristalle, soweit das Auge reicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was hätte ich nur dafür gegeben, die Keimbildung dieser Welt zu sehen ... Das muss großartig gewesen sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"... bei den Schwarzen Drei, welch Schönheit. Ich hätte mir das nie ... Nie erträumt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nun! Dieser Ort glitzert wie ein ziemlich glitzerndes Ding! Und das meine ich als Kompliment!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hmm. Ganz schöner Anblick. Wenigstens schöner als die Flor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Schade, dass wir durch die Flor gehen mussten, um diese Aussicht sehen zu können. Das ist sie aber beinahe wert. Beinahe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Oh ... Ahl, siehst du das? Das ist *großartig*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

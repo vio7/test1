@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4101_decanted</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Bewahrung der Schönheit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde und rekrutiere drei Personen für die Utopie des Dekantierten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Quote gefüllt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Den Dekantierten verjagt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ein Wesen, der als Dekantierter bekannt ist, bat dich, schöne und gesunde Menschen für seine Gesellschaft zu finden und rekrutieren, die solche Eigenschaften verehren. Er hat eine stattliche Belohnung für jede solche rekrutierte Person angeboten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Der Dekantierte gab vor, dass er drei Personen mehr rekrutieren muss, um seine Quote zu füllen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Du halfst den Dekantierten, seine Quote an Rekruten zu füllen und wurdest für deine Arbeit belohnt,</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Du konfrontiertest den Dekantierten mit den Gerüchten, die du hörtest, was seine Gattung mit den Personen anstellt, die sie rekrutieren. Nachdem du ihn auffordertest, zu gehen, gab er nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Du hast Coty rektutiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Du hast Herja rektutiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Du hast die zukünftige Damenfreundin der Sundermuns rektutiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Du hast den Essenzjunkie rektutiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Du hast Rhin rektutiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Du hast die Dolmetscherin der Murden rekrutiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Du hast Gerüchte gehört, dass sie Dekantierten schlimme Sachen anstellen mit den Personen, die sie "rektutieren". Du wirst den Dekantierten vielleicht mit dieser Information konfrontieren wollen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

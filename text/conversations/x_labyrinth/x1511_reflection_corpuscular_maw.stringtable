@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1511_reflection_corpuscular_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Addend. 1</DefaultText>
+      <FemaleText>Addend. 1</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Mit dem korpuskularen Schlund sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[All corpuscular maw dialog nodes occur around here.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Eine Verbindung mit dem korpuskularen Schlund herstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du versuchst, eine Verbindung mit dem Abbild aufzubauen, musst jedoch feststellen, dass du dein Limit erreicht hast und keine weiteren Verbindungen herstellen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du spürst, wie eine Verbindung zwischen euch entsteht, dank der du im Kampf einen korpuskularen Schlund beschwören kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Deine Verbindung mit dem korpuskularen Schlund beenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als die Verbindung zwischen euch beiden getrennt wird, fühlst du für einen Moment einen plötzlichen und qualvollen Verlust.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Den korpuskularen Schlund in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der korpuskulare Schlund gurgelt ekelerregend in deine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du fühlst ein Brummen, das von der Kraft der Verbindung zeugt, die du mit dem Abbild aufgebaut hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du spürst, wie dich das Abbild irgendwie anzieht, als warte eine Leere zwischen euch darauf, gefüllt zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

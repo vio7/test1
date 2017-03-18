@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_valleyofdeadheroes</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als die Endlose Pforte geschlossen war, konnten Ronos und die anderen überlebenden Memorialisten alles säubern und wiederaufbauen. Es waren nur so wenige von ihnen übrig, dass es Monate dauerte, bis das letzte Blut entfernt war. Sie benutzten mehrere verschiedene Barrierechiffren, um das Grab zu versiegeln, in dem sich die Endlose Pforte befand, falls jemals etwas anderes dorthin gelangen sollte.[BR][BR]Den Geruch wurden sie niemals los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Kinder der Endlosen Pforte wüteten im Tal. Innerhalb eines Monats töteten sie jeden Memorialisten und jeden Reisenden, abgesehen von den zähesten Entdeckern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Nach Inifer wurde Marcysa das neue Oberhaupt der Kinder der Endlosen Pforte. Sie schloss die Pforte im Tal und wenig später zogen die Kultisten weg.[BR][BR]Später kamen Ronos und die anderen überlebenden Memorialisten zur Reinigung und zum Wiederaufbau. Weil  nur noch wenige von ihnen übrig waren, dauerte es Monate, bevor der letzte Rest Blut beseitigt wurde. Sie benutzten verschiedene Barriere-Cyphern, um das Grab zu verriegeln, das die Endlose Pforte enthielt. Nur für den Fall, dass jemals etwas *anderes* hindurch kommen würde.[BR][BR]Den Geruch wurden sie nie los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Selbst der arme Oddwald musste erleben, wie seine Seele "aus ihrem Käfig befreit" wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Jetzt reist keine Karawane mehr durch das Tal und die Nekropolis ist eher ein Verlies als eine Gedenkstätte. Spät nachts sind Schreie bis ins Dorf Kholn zu hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_corpuscular_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die widerliche kleine Kreatur sieht aus wie ein wandelndes Organ, ein Sack aus aufgeblähten Organen auf Tentakeln, die es zum Laufen und Greifen benutzt. Sie sieht aus wie die Miniaturversion eines Schlunds, ein wandelndes Maul, gefüllt mit einem Vakuum, geboren aus der Flor und ihr dann entrissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Verhalten des Schlunds beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das widerliche Ding ignorieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du beobachtest, wie der bewegliche Schlund auf ein totes Aneen klettert und seine Tentakel um die Kreatur wickelt. Du bist dir nicht ganz sicher, was es mit ihm anstellt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als die Kreatur sich auf der Leiche auf- und niederrichtet fällt dir auf, dass sie Fleischstreifen aus der Leiche reißt, um sie zu verschlingen (oder besser, um sie *verschwinden* zu lassen). 
+
+Es scheint, als würden kleinere Schlünde totes Fleisch fressen. Das könntest du zu deinem Vorteil nutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dein Blick richtet sich auf seine wabernden Tentakel. Du siehst genau hin, wie sie sich an etwas heften, dann lösen, anheften, und wieder lösen ... sie scheinen sich an Teilen der Leiche festzuklammern, um etwas zu suchen. Du kannst allerdings nicht erkennen, was.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Als die Kreatur sich auf der Leiche auf- und niederrichtet fällt dir auf, dass sie Fleischstreifen von dem Aneen reißt, um sie zu verschlingen (oder besser, um sie *verschwinden* zu lassen). 
+
+Es scheint, als würden kleinere Schlünde sich anstelle von psychischen Ablagerungen von Lebewesen von totem Fleisch ernähren. Daraus leitest du ab, dass du kleinere Schlünde mit Fleischstreifen von anderen Leichen ablenken könntest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du lehnst dich näher heran, um herauszufinden, was diese schreckliche Missgeburt treibt, und eines seiner sich windenden Tentakeln schlägt dir ins Gesicht. Du stolperst zurück und legst eine Hand auf dein Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der kleine Schlund reißt weiterhin kleine Streifen aus dem Fleisch der Leiche. Langsam bekommst du Zweifel daran, dass er irgendwann satt sein wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das Verhalten des Schlundes beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Versuchen, das Verhalten des Schlundes noch einmal zu beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

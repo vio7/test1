@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_paranoid_woman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich sehe Dinge, wisst Ihr. Ich habe besondere Augen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Seht Ihr sie auch? Seht Ihr die vermummten Fremden? Die namenlosen Diener des Rates?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Warum kommen die Mörder nicht zu mir?! Warum quälen sie mich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ich habe gehört, ein Dendra soll Schuld an den Morden sein. Unmöglich. Sie sind Kannibalen, keine Mörder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Es dauert jetzt nicht mehr lange. Die blutigen Zeichnungen zeigen in meine Richtung. Ich weiß es!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Der Rat tötet uns einen nach dem anderen! Wer ist der nächste? Der Fleischhändler? Gourmandus? Ich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Schwätzer ist nur der erste, merkt Euch meine Worte. Er ist nicht der einzige, den ich mit einem vermummten Schatten gesehen habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich glaube, es sind Levis. Das muss es sein! Missratene Levis!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ich habe einmal in eine dieser Kapuzen hineingesehen. Ich sah das verdrehte Fleisch. Die aufgerissenen, zahnlosen Mäuler!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Eines Tages werden sie mich holen. Sie wissen, wo ich bin!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

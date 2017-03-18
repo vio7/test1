@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_zebb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Zebb blieb in Klippenrand und ließ sich in den Trümmern eines der anderen Häuser nieder. Irgendwann fand er Arbeit in der Schattenseite als Plünderer der Vorarbeiter. Nyms Schatten verfolgte ihn und er kehrte oft an die Stelle seines alten Hauses zurück, um sich an sie zu erinnern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sein Vater Zebbak kehrte endlich aus der Flor zurück. Ihre Wiedervereinigung war voller Tränen und Freude und Zebbak war stolz, was sein Sohn geworden war. Gemeinsam trauerten sie um Nym.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Archive von Sagus wissen nichts darüber, was aus Zebb geworden ist, da ihn das Haus der leeren Zeit in die Zukunft brachte. Er fand eine gute Familie, war aber dennoch einsam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Zebbak, sein Vater, kehrte nach Klippenrand zurück - oder was davon übrig war. Er fand keine Spur seiner Kinder, aber Alcen Perie erzählte ihm, was geschehen war. Auch er war einsam bis an das Ende seiner Tage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Zebb blieb in Klippenrand und ließ sich in den Trümmern eines der anderen Häuser nieder. Irgendwann fand er Arbeit in der Schattenseite als Plünderer der Vorarbeiter. Nyms Schatten suchte ihn nie heim, aber er spürte oft eine Einsamkeit, die er nicht erklären konnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Sein Vater Zebbak kehrte endlich aus der Flor zurück. Ihre Wiedervereinigung war voller Tränen und Freude und Zebbak war stolz, was sein Sohn geworden war. Aber als er fragte, was mit Nym geschehen war, konnte Zebb nur fragen: "Wer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Nym und Zebb blieben viele Jahre lang in Klippenrand. Nym wurde eine Künstlerin, allerdings verkauften sich ihre Skulpturen nie besonders gut. Zebb fand Arbeit in der Schattenseite als Plünderer der Vorarbeiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sein Vater Zebbak kehrte endlich aus der Flor zurück. Ihre Wiedervereinigung war voller Tränen und Freude und Zebbak war stolz, was aus seinen Kindern geworden war. Gemeinsam lebten sie ein hartes, aber glückliches Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Er verstand nie den wahren Grund.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

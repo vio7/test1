@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_catena_panel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Fach untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das Fach sein lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die meisten Teile in dem Fach baumeln lose an Kabeln und Streifen zerrissenen Synths und sind bis zur Unkenntlichkeit zerstört. Im Raum zwischen den Teilen flackern gelegentlich winzige Wirbel aus Licht und Energie auf, löschen alles aus, was sie berühren, und verschwinden wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Versuchen, den Kanister zu bergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du greifst in das Fach und versuchst, einen Halt auf der glatten Oberfläche des Kanisters zu bekommen und ihn herauszuziehen. Ein winziger Wirbel bildet sich neben deinem Arm, doch du ziehst ihn gerade noch rechtzeitig weg und der Wirbel verfehlt dich um Haaresbreite. Mit einem letzten Ruck ziehst du den Kanister heraus.
+
+{AUDIO: Sound of metal canister - appx. 2 feet long - popping free from the machinery.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du steckst die Hand in das Fach und versuchst, den Kanister herauszuziehen, doch du bist nicht schnell genug. Ein Wirbel bildet sich neben deinem Arm und sengt ihn an. Du lässt den Kanister los und er fällt zurück in sein Gehäuse.
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der Großteil der Teile baumelt lose an Kabeln und zerrissenen Synthstreifen und ist bis zur Unkenntlichkeit zerstört. Du siehst jedoch auch einen Synthkanister hinten im Fach, der noch intakt zu sein scheint. Du bist sicher, dass du ihn mit ausgestrecktem Arm erreichen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Den Kanister herausholen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du greifst in das Fach und nimmst den Kanister heraus. Er springt mit einem leisen Zischen aus seinem Gehäuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Teile im Inneren sind zertrümmert und kaputt. Du siehst sonst nichts Interessantes in dem Fach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Als sich deine Augen an den seltsamen Dunst gewöhnt haben, bemerkst du einen Synthkanister hinten in dem Fach. Er scheint noch intakt zu sein. Mit ausgestrecktem Arm kannst du ihn vielleicht erreichen ... doch wenn sich zur falschen Zeit ein Wirbel bildet, könntest du dich ernsthaft verletzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Sie beugt sich in mindestens fünf Realitäten zu dir vor. "Wenn diese Wirbel funktional und relativ stabil bleiben - ja. Die Energiequelle der Katena funktioniert noch. Sie dir die Rückseite an. Du kommst von hier aus nicht ran, doch seine transdimensionalen Eigenschaften könnten ... hilfreich sein. Du solltest sie mitnehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Er berührt dich am Arm und sagt eindringlich: "*Nichts* anfassen." Er schiebt dich zur Seite und sieht hinein. "Schau her. Siehst du diese Wirbel? Sie bilden sich immer noch. Wir können die Energiequelle vielleicht bergen." Er sieht genauer hin. "Aber nicht von hier aus. Vielleicht auf der Rückseite dieser Katena, wenn wir sie finden können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>An der Seite der zerstörten Katena ist eine Platte der Verkleidung weggebrochen, hinter der sich ein mit Technik vollgestopftes Fach befindet. Energiewellen umgeben es wie ein Hitzeschleier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>An der Seite der zerstörten Katena ist eine Platte der Verkleidung weggebrochen, hinter der sich ein mit Technik vollgestopftes Fach befindet. 
+
+Nachdem du die Energiequelle auf der Rückseite der Katena entfernt hast, ist das Innere des Faches nun stumm und leblos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Follow-up PQ. 28</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Das Fach erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>An der Seite der zerstörten Katena ist eine Platte der Verkleidung weggebrochen, hinter der sich ein mit Technik vollgestopftes Fach befindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Erneut versuchen, den Kanister zu bergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du begreifst, dass die Wirbel winzige Singularitäten in der Raumzeit sind. Ihre Anwesenheit deutet darauf hin, dass diese Katena von einer transdimensionalen Energiequelle angetrieben wird, an die du vom Heck aus vielleicht herankommen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Den Kanister genauer ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Wenn das Innere der Katena ähnlich wie ein mechanischer Motor aufgebaut ist, vermutest du, dass der Kanister eine Art Kühlmittel ist ... angesichts der Größe des Motors der Katena vermutlich das leistungsstärkste Kühlmittel, das du je gesehen hast. 
+
+Du vermutest, dass man diesen Kanister einmalig einsetzen könnte, um alles Mögliche - Personen oder Dinge - innerhalb von Sekunden einzufrieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Der Kanister fühlt sich eiskalt an. Am einen Ende siehst du ein Ventil - wenn du es ganz öffnest, kannst du das Kühlmittel versprühen und es wird alles einfrieren, womit es in Berührung kommt.
+
+{DP}
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du greifst in das Fach und bekommst den schlüpfrigen Kanister tatsächlich zu fassen. Du rüttelst ein wenig daran, um ihn freizubekommen. Plötzlich bildet sich ein winziger Wirbel ... direkt neben deinem Arm! Er braucht nur einen Augenblick, um eine Halbkugel aus Nichts in deinen Arm zu schneiden. Du schreist vor Schmerzen auf.
+
+Blut spritzt aus der Wunde. Du sackst zu Boden und um dich herum wird es dunkel ...
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die meisten Teile im Inneren sind zertrümmert und zerstört. Gelegentlich bilden sich irgendwo im Fach winzige Wirbel aus Licht und Energie, löschen alles aus, was sie berühren, und verschwinden wieder. 
+
+Hinten in dem Fach siehst du einen intakten Synthkanister.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

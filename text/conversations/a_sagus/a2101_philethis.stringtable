@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_philethis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>229</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Kreatur schwebt vor dir, verborgen von dem Großteil ihrer Robe. Sie ist regungslos und von deiner Anwesenheit unberührt. 
+
+Wer oder was das Ding ist – Mensch oder Maschine, Mutant oder Monster – ist unmöglich auszumachen. Ihr gläsernes Gesicht offenbart nichts außer deinem Abbild; ihre mechanische Stimme enthüllt gar nichts. 
+
+Du erinnerst dich, dass diese Kreatur als Philetis bezeichnet wird, doch du weißt nichts weiter darüber.</DefaultText>
+      <FemaleText>Eine Kreatur schwebt vor dir, verborgen von dem Großteil ihrer Robe. Sie ist regungslos und von deiner Anwesenheit unberührt. 
+
+Wer oder was das Ding ist – Mensch oder Maschine, Mutant oder Monster – ist unmöglich auszumachen. Ihr gläsernes Gesicht offenbart nichts außer deinem Abbild; ihre mechanische Stimme enthüllt gar nichts. 
+
+Du erinnerst dich, dass diese Kreatur als Philetis bezeichnet wird, doch du weißt nichts weiter darüber.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Danke für das Kompliment."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Das Glas erschafft nicht, doch es biegt sich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ihr seid ebenfalls exquisit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ein Geräusch wie das Schleifen eines mit Drit gefüllten Getriebes ist die einzige Antwort des Wesens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du lässt einen unangenehm langen Augenblick die kalte Untersuchung des Philetis über dich ergehen. Schließlich spricht es wieder.</DefaultText>
+      <FemaleText>Du lässt einen unangenehm langen Augenblick die kalte Untersuchung des Philetis über dich ergehen. Schließlich spricht es wieder.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Der unerbittliche gläserne Blick des Philetis bohrt sich in deine Haut und sieht mehr als andere – und er scheint etwas bei dir zu suchen.</DefaultText>
+      <FemaleText>Der unerbittliche gläserne Blick des Philetis bohrt sich in deine Haut und sieht mehr als andere – und er scheint etwas bei dir zu suchen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Wisst Ihr irgendetwas über den Kummer? Über die Resonanzkammer, die von dem Wandelnden Gott gebaut wurde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Stille hält an, bis der Philetis endlich spricht: "Ich weiß, es sollen drei sein. Ich weiß, dem Ersten kann nicht getraut werden. Ich weiß, dass sich einer wandelt, so wie du. Ich weiß, dass sie etwas rückgängig machen wollen."
+
+Auf seinem gläsernen Gesicht wütet ein Sturm, doch der Philetis sagt nichts mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Erzählt mir etwas über Euch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Einen Augenblick lang verdunkelt sich das Gesicht des Philetis. Dann antwortet es monoton: "Der verfluchte Qui hungert, und er verzehrt, doch die Sättigung wird ihm verweigert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Der Avatrol pfeift, während er rennt, ein furchtsamer Ton. Vielleicht selbst für den Avatrol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sie pfeifen aufgrund der klaffenden Löcher in ihren Schädeln. Ob der Philetis eine Beleidigung, einen Witz, oder sonst etwas im Sinne hatte, ist völlig unklar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Der Philetis denkt schweigend nach, bis er endlich fragt: "Als du Qorro gegenüber standst, warum bist du nicht zuerst mit deinem linken Fuß vorgetreten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich hatte keinen Grund dazu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Der Philetis akzeptiert deine Antwort schweigend und antwortet dann nach einer langen Pause: "In seinem Gewölbe liest der Gespaltene seinen Jüngern aus seinem großen Buch vor. Er schläft, er erwacht, und er hat die Stelle im Zauberbuch vergessen. Er beginnt von neuem."
+
+"Das Buch ist ein Teil von ihm – er hat keine Beine und macht keine Schritte. Er liest aus seinem eigenen Selbst. Sein eigenes Selbst ist unvollständig. Sein eigenes Selbst fesselt ihn an das Gewölbe seines eigenen Verstandes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Gleichgewicht, vielleicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Ich vermute, es brachte mich in eine bessere Position."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Als der Philetis endlich antwortet, scheint seine mechanische Stimme zu quietschen. "Du hast deinen Sturz  nicht akzeptiert. Wenn dir die bittere Wurzel gereicht wird, wirst du sie essen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Der Philetis schweigt und zeigt weder Befriedigung noch Bestürzung hinsichtlich deiner Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich weiß nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Mit Worten, die so eilig kommen, dass sie beinahe durcheinander geworfen werden, fragt der Philetis: "Als du am Ort der sich verschiebenden Böden standst, in welche Richtung fiel dein *Schatten*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>(Raten) "Vor mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Ein langes Grollen ertönt aus der Robe des Philetis, bis es schließlich zu Worten wird: "Im Dorf Thome steht geschrieben: 'Der Eremit Alageiser stieg hinab in die Finsternis, denn er konnte den Anblick seines Schattens nicht mehr ertragen'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>(Raten) "Hinter mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>(Raten) "Neben mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich weiß es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Was wollt Ihr von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Was wollt Ihr noch von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Bitte – erzählt mir von Euch, so dass ich Euch verstehen kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ihr seid mir gefolgt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"In der Erinnerung folgt die Ursache auf die Wirkung. Im Regen zerfließen die Farben." Ein langes Grollen lässt vermuten, dass der Philetis mehr zu sagen hat, doch es kommt nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Warum interessiert Ihr Euch so für meine Entscheidungen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>In seinem langsamen Grollen antwortet der Philetis: "Es sind nicht deine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Was bedeuten Eure Fragen? Was *wollt* Ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ja." Dieses einzelne schlichte Wort verweilt in der Luft, ehe der Philetis weiterspricht: "Was *ist* die Antwort?"
+
+Vielleicht möchte das Wesen, dass du deine eigene Frage beantwortest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ihr wollt wissen, ob ich den Kummer an diesen Ort ziehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Der Philetis akzeptiert deine Antwort schweigend, ohne einen Hinweis darauf zu geben, was unter seiner undurchdringlichen Robe und der undurchschaubaren Maske vorgeht. 
+
+Schließlich antwortet er: "Die Welt ist hundert Tode gestorben, und in deinem linken Schuh ist ein Kieselstein."
+
+Du schüttelst den Kieselstein aus und hast - immerhin - etwas aus der Unterhaltung mitgenommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ihr wollt verstehen, warum ich getan habe, was ich getan habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Der Philetis akzeptiert deine Antwort schweigend, ohne einen Hinweis darauf zu geben, was unter seiner undurchdringlichen Robe und der undurchschaubaren Maske vorgeht. 
+
+Schließlich antwortet er: "Die Nase riecht nicht mit Worten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ihr wollt mich verwirren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Wie als Bestätigung akzeptiert der Philetis deine Antwort schweigend, ohne einen Hinweis darauf zu geben, was mit seiner undurchdringlichen Robe und der undurchschaubaren Maske vorgeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ihr wollt *alles* wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Der Philetis akzeptiert deine Antwort schweigend, ohne einen Hinweis darauf zu geben, was unter seiner undurchdringlichen Robe und der undurchschaubaren Maske vorgeht.
+
+
+Schließlich antwortet er: "Alles ist wie einer. Doch einer ist nicht wie der Rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ihr wisst nicht, was Ihr wollt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Der Philetis akzeptiert deine Antwort schweigend, ohne einen Hinweis darauf zu geben, was unter seiner undurchdringlichen Robe und der undurchschaubaren Maske vorgeht.
+
+Nachdem es keine Antwort zu geben schien, wird ein einzelnes Wort, nicht mehr ganz so schlicht, ausgesprochen: "Ja ..."
+
+Dann ist wieder alles still.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ich weiß nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Der Philetis akzeptiert deine Antwort schweigend, ohne einen Hinweis darauf zu geben, was unter seiner undurchdringlichen Robe und der undurchschaubaren Maske vorgeht.
+
+Nachdem es keine Antwort zu geben schien, spricht das Ding: "Das Glas reflektiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Zwinge es, über sich zu reden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Eine Welle von Gezeitenenergie verlässt dich und ergießt sich in den Philetis. Die voluminösen Robe der Kreatur flattert und zuckt, als sei sie in einen Windsturm geraten, und ihr Glasgesicht funkelt wild unter den aufgenommenen Kräften, während es sie bricht und reflektiert. 
+
+Ein schrilles Wehklagen wie das Pfeifen eines kochenden Kessels jagt durch deinen Geist, als sich ein Bruch über die unüberwindliche Maske des Philetis ausbreitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Dann *spürst* du ein Loch in deinem Inneren, als sei etwas abgerissen, eine Wahrheit, eine unbekannte Antwort auf eine unbekannte Frage, ein Name, ein Selbst. Du wirst wie ein hohler Gegenstand zusammengedrückt und stellst dir vor, dich in einem falschen Rätsel zu panzern, deine Schande mit Dunkelheit zu verschleiern und durch alles Drit der Welt nach einem verlorenen Korn zu wühlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Du erschauderst und das Gesicht des Philetis wird schwarz. Er spricht einen kurzen, monotonen Satz: "Einer sieht sich im Glas, obwohl es sich biegt."
+
+Dann ist das Gefühl fort, genauso wie der Philetis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Lebt wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Als Ihr zurücktretet, wirbelt der Philetis herum und richtet sein Glasgesicht auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Exquisit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Ihr fragt, doch die Welt weist zurecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ihr brennt, doch es gibt kein Licht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ihr rechnet, doch die Zahlen sind unvergleichbar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Die Sonne kann die Weite zwischen den Welten nicht erwärmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Es liegt in der Natur von Flaggen, zu verblassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Exquisit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Nein", antwortet das Ding. "Ist es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Exquisit", knirscht der Philetis dankbar, oder vielleicht verloren in seinen eigenen unergründlichen Gedanken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Man sagt, dass die Philetis über umfassendes Wissen zu den Mysterien der Neunten Welt und den Numenera der vergangenen Zeitalter verfügen, doch diese Geheimnisse zu entlocken, kann vergebliche Mühe sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Der Philetis betrachtet dich schweigend, unnachgiebig, noch immer prüfend, noch immer suchend.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Wisst Ihr etwas über die Uhr im Lager der Kultisten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Könnt Ihr mir mehr über die Uhr erzählen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Der Philetis nickt schweigend. "Es soll die Stunde mit dem Läuten einer großen Glocke anzeigen. Alles soll gedeihen. Die Fäden sollen sich verbinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Nein". Obwohl dies nicht mit stärker als der Rest betont wurde, so lässt etwas an dieser Aussage darauf schließen, dass es keine weitere Auseinandersetzung mit dieser Frage geben wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Das Gesicht des Philetis wirbelt vor Energiestrudeln und das starke Grollen von Zahnrädern erschallt aus seiner verborgenen Gestalt. Nachdem dieser Kampf vorüber ist, wird sein Gesicht wieder leer, und es spricht: 
+
+"Ein navarenischer Kaufmann streicht durch die Ferne, beladen mit Seide und Chiffre und Shin, ohne einen Tropfen zu trinken. Er trägt eine Wasseruhr, doch er wagt es nicht, sie zu zerbrechen. Es ist seine Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Du weißt, abgesehen von dem sprichwörtlichen Reichtum ihrer Kaufleute, wenig über die Navarener, doch nichtsdestotrotz kommt der Philetis von einem Ort, der viel weiter weg liegt, als die Standhaften Königreiche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Dies könnte offenbar als Schwärmerei eines Philetis bezeichnet werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Oha, vielen Dank", antwortet er.
+
+Der Philetis quittiert diese Witzelei, oder gar ihre Existenz, in keiner Weise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Matkina seufzt: "Einem Philetis Fragen zu stellen, ist in etwa so produktiv wie einen Ozean zu treten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Aligern macht einen Schritt auf den Philetis zu. "Ihr sprecht von Dinanukht, dem Einen, der in den Wassern zwischen den Welten sitzt! Habt Ihr ihn gesehen?"
+
+Der Philetis wirbelt und grollt, senkt dann den Kopf – vielleicht in Ablehnung, vielleicht in Zustimmung. Aligern knurrt frustriert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Rhin lacht über die lächerliche Frage, wodurch der Philetis seinen Blick einen Augenblick auf sie richtet. Obwohl sein gläsernes Gesicht keine Emotionen zeigen kann, strahlt irgendwie Missfallen von ihm aus, und Rhin verstummt wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Die Gedanken der Kreatur sind so verschleiert wie ihr gläsernes Gesicht. Es ist, als wäre sie gar nicht da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"..."</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Die Gedanken der Kreatur sind so verschleiert wie ihr gläsernes Gesicht. Es ist, als wäre sie gar nicht da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Habt Ihr noch weitere Fragen an mich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Habt Ihr noch weitere Fragen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

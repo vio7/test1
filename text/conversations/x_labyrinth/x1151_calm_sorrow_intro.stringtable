@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1151_calm_sorrow_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du taumelst in diese neue Kammer hinein. Der große Druck, der auf dir gelastet ist, ist verschwunden. Nein, nicht verschwunden - er hat sich umgedreht, wie in einem gewaltigen Atemzug.
+
+Ein Toben wie von einem Aufgestöber von Vögeln explodiert um dich herum. Eine gewaltige Ausströmung psychischer Kraft zwingt dich in die Knie.
+
+{SOUND: A great flurry of wings, like a million pigeons taking off at once}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Eine Böswilligkeit ergreift dich wie ein Krebs, der deinen wehrlosen Geist zerfrisst. Schmerz durchfährt dich wie ein Skalpell, testet deine Abwehrkräfte. Du greifst dir an den Kopf, deine Augen tränen und du spürst, wie sich seine Präsenz manifestiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Es ist Hunger. Es ist Nacht. Es ist ... Ewigkeit. Vergessenheit. Der Staub der Jahre, der dich langsam, aber sicher abschleift, bis nichts mehr von dir übrig ist, niemand mehr deinen Namen kennt. Es ist eine pechschwarze Scheibe aus perfektem Glas.
+
+Es will dich verschlingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

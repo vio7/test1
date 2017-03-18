@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_mere_tank_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Energie fließt durch verschiedene Kabel in diesen und den angrenzenden Tank. Die Kristallanlage leuchtet und wartet darauf, dass du sie betrittst.</DefaultText>
+      <FemaleText>Energie fließt durch verschiedene Kabel in diesen und den angrenzenden Tank. Die Kristallanlage leuchtet und wartet darauf, dass du sie betrittst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dieser Tank ist dunkel und leer. Kabel verlaufen aus dem Labor in den Tank.</DefaultText>
+      <FemaleText>Dieser Tank ist dunkel und leer. Kabel verlaufen aus dem Labor in den Tank.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

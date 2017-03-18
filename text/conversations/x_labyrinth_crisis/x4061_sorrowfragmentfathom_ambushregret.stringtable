@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_ambushregret</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Der Moment verlangsamt sich zu einem Kriechen und du erkennst, dass die Sorgen von den fremden Gedanken als Schnittstelle für den Betrieb der Maschine umfunktioniert wurden.]</DefaultText>
+      <FemaleText>[Der Moment verlangsamt sich zu einem Kriechen und du erkennst, dass die Sorgen von den fremden Gedanken als Schnittstelle für den Betrieb der Maschine umfunktioniert wurden.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Entscheide dich, eine Gezeitenwelle einzusetzen, um das Drit in dem Bereich zu lösen, wobei deine Angreifer mit einem Schlag eingefangen würden. Die Maschine zieht eine Barriere hoch, um jeden in dem Bereich einzufangen.</DefaultText>
+      <FemaleText>[Entscheide dich, eine Gezeitenwelle einzusetzen, um das Drit in dem Bereich zu lösen, wobei deine Angreifer mit einem Schlag eingefangen würden. Die Maschine zieht eine Barriere hoch, um jeden in dem Bereich einzufangen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Entscheide dich, jene, die sich gegen dich stellen, auszumerzen – als Warnung an die anderen. Du kannst mit der Maschine eines der Fragmente abfeuern.]</DefaultText>
+      <FemaleText>[Entscheide dich, jene, die sich gegen dich stellen, auszumerzen – als Warnung an die anderen. Du kannst mit der Maschine eines der Fragmente abfeuern.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Entreiße deinen Blick der Szenerie und beende die memetische Übertragung.]</DefaultText>
+      <FemaleText>[Entreiße deinen Blick der Szenerie und beende die memetische Übertragung.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Die Funktionalität der Maschine ist durch die wirbelnde Masse der Kummerscherbe behindert, die sich in das Innenleben der Maschine ergoss.]</DefaultText>
+      <FemaleText>[Die Funktionalität der Maschine ist durch die wirbelnde Masse der Kummerscherbe behindert, die sich in das Innenleben der Maschine ergoss.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[AUFGABE HIER: Treibe die Kummerscherbe heraus]</DefaultText>
+      <FemaleText>[AUFGABE HIER: Treibe die Kummerscherbe heraus]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Du spürst, wie die Kummerscherbe in deinem Geist schreit, spürst sie in deinen Gefühlen, bevor sie damit beginnt, sich in der Nähe zu verdinglichen und du ihr Knurren in deinen Ohren hörst.]</DefaultText>
+      <FemaleText>[Du spürst, wie die Kummerscherbe in deinem Geist schreit, spürst sie in deinen Gefühlen, bevor sie damit beginnt, sich in der Nähe zu verdinglichen und du ihr Knurren in deinen Ohren hörst.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Diese Maschine projiziert eine holographische Szene in Schleife. Als du sie studierst, spürst du, wie sie deinen Geist scannt und anschließend beginnt, sich hineinzuschieben. Du nimmst die Szene wie aus deiner Perspektive wahr, wobei fremde Gedanken und Emotionen in dich strömen.]</DefaultText>
+      <FemaleText>[Diese Maschine projiziert eine holographische Szene in Schleife. Als du sie studierst, spürst du, wie sie deinen Geist scannt und anschließend beginnt, sich hineinzuschieben. Du nimmst die Szene wie aus deiner Perspektive wahr, wobei fremde Gedanken und Emotionen in dich strömen.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Als du in Fahrt kommst, hörst du das Flüstern: "Verstoßener." Bei jeder Erwähnung suchst du nach dem Sprecher, doch die Bewohner schleichen sich davon und machen einen großen Bogen um dich, als du dich dem Marktplatz näherst.]</DefaultText>
+      <FemaleText>[Als du in Fahrt kommst, hörst du das Flüstern: "Verstoßene." Bei jeder Erwähnung suchst du nach dem Sprecher, doch die Bewohner schleichen sich davon und machen einen großen Bogen um dich, als du dich dem Marktplatz näherst.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Die Händler weichen deinem Blick aus, als du nach weltlichen Vorräten schaust, und behaupten, die gesuchten Waren seien bereits ausverkauft und sie wüssten nichts von dem Jiraskar, den du jagst. Du schnorrst dir das Mindeste zusammen, das du brauchst – der Rest ist nicht notwendig, um deine Ziele zu erreichen, wirklich nur Annehmlichkeiten. Anschließend sagt du dem lokalen Wirt, dass du ein Zimmer bräuchtest und dass du bis zum Abend zurück seist, bevor du dich auf die Suche nach deinem Opfer begibst.]</DefaultText>
+      <FemaleText>[Die Händler weichen deinem Blick aus, als du nach weltlichen Vorräten schaust, und behaupten, die gesuchten Waren seien bereits ausverkauft und sie wüssten nichts von dem Jiraskar, den du jagst. Du schnorrst dir das Mindeste zusammen, das du brauchst – der Rest ist nicht notwendig, um deine Ziele zu erreichen, wirklich nur Annehmlichkeiten. Anschließend sagt du dem lokalen Wirt, dass du ein Zimmer bräuchtest und dass du bis zum Abend zurück seist, bevor du dich auf die Suche nach deinem Opfer begibst.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Du kehrst an diesem Abend zurück, mit leeren Händen, um auf eine Posse von über einem Dutzend Dorfbewohnern zu stoßen, einige mit handgemachten Waffen bewaffnet, andere mit geplünderten Militärwaffen. Schaulustige, die sich hinter den Ecken verstecken, stacheln die Männer an.
+"Verstoßener! Der verdammte Krieg deiner Art hat uns immer wieder Leid und Kummer gebracht. Es ist an der Zeit, dafür zu büßen, was ihr uns angetan habt."
+Du knurrst deine Antwort: "Ich bin nicht nur ein Verstoßener. Lasst es mich euch beweisen."]</DefaultText>
+      <FemaleText>[Du kehrst an diesem Abend zurück, mit leeren Händen, um auf eine Posse von über einem Dutzend Dorfbewohnern zu stoßen, einige mit handgemachten Waffen bewaffnet, andere mit geplünderten Militärwaffen. Schaulustige, die sich hinter den Ecken verstecken, stacheln die Männer an.
+"Verstoßene! Der verdammte Krieg deiner Art hat uns immer wieder Leid und Kummer gebracht. Es ist an der Zeit, dafür zu büßen, was ihr uns angetan habt."
+Du knurrst deine Antwort: "Ich bin nicht nur eine Verstoßene. Lasst es mich euch beweisen."]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

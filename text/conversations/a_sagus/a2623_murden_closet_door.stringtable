@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2623_murden_closet_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Spuren eines klebrigen gelben Gels sickern von der anderen Seite durch den Rahmen der Tür. Was auch immer diese Substanz ist, du hast sie nirgendwo sonst im Komplex gesehen, und sie klebt die Tür zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Tür bleibt durch die epoxidartige gelbe Masse fest verschlossen. Ein spürbares Gefühl des Schreckens kriecht aus einer fernen Quelle in deinen Verstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du hörst hinter der Tür ein schwaches Krächzen. Wer auch immer sich in diesem Raum versteckt, lässt giftige Angst in deinen Geist eindringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Nur noch trockene Rückstände bleiben von dem gelblichen Klebstoff übrig, der die Tür zuvor verschlossen hielt. Als du dich näherst, gleitet sie auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ein merkwürdiger gelblicher Rückstand liegt auf der Linie, wo der Türrahmen auf die Tür trifft. Als du dich näherst, gleitet sie auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

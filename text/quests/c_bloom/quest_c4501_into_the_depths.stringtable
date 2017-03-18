@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4501_into_the_depths</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>In die Untiefen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Spreche mit dem Aufmerksamen Fleck.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Finde einen Weg, den Schlund im Tempel der Großen Chila zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Finde einen Weg, das Herz der Flor zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Übernimm die Kontrolle des Herzes der Flor und berge den Lebensbildbetrachter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Kehre zur Memovira zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Memovira bat dich, in die tiefsten Untiefen der Flor zu reisen, um einen Lebensbildbetrachter zurückzuholen, den sie vor langer Zeit dort versteckte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Mit den kürzlichen Bewegungen im Grundriss der Flor weiß die Memovira nicht mehr, wie man zum Herz der Flor gelangt, schlägt aber vor, mit dem Aufmerksamen Fleck zu reden, der am allerlängsten in der Flor gewesen ist. Er kennt womöglich einen Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Der Aufmerksame Fleck offenbarte das Vorhandensein eines Schlundes, der tiefer in die Flor führt, genau in ihrem eigenen Tempel. Aber zunächst musst du eine Möglichkeit finden, den Schlund zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Du hast einen Weg in die innersten Bereiche der Flor gefunden, und musst nun noch weiter gehen, und ihr Herz zu betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Nun im Herz der Flor, musst du die Kontrolle davon übernehmen, um Zugang zum Lebensbildbetrachter zu erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Nun, mit dem Lebensbildbetrachter im Schlepp, musst du zur Memovira zurückkehren,</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Die Memovira war mit deinen Taten zufrieden und gewährte dir Zugang zu ihrer Schatzkammer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Die Memovira ist empört, dass du einen Bund mit der Flor eingegangen bist, und greifte dich als Resultat an. Du hattest keine Wahl, als sie und ihre Handlanger niederzumetzeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

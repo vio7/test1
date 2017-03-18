@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\item_a2201_puzzle_box</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Auf den ersten Blick scheint dieser Würfel aus Metall sehr einfach zu sein. Dann siehst du Licht, das von einer Myriade von winzigen silbrigen Schaltpulten reflektiert wird. Hinter ihnen ist ein kompliziertes Netzwerk aus Spulen und Federn. 
+
+Darin rattert etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Kästchen vibriert gegen deine Handfläche als wäre einer der Mechanismen darin bis zum Aufbrechen gespannt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Untersuche ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Untersuche ihn noch einmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du hebst den Würfel auf Augenhöhe und schüttelst ihn noch einmal. Darin bewegt sich nichts, allerdings hörst du wieder das Rattern eines darin gefangenen Objektes. 
+
+Du spürst eine raue Stelle an der Kante deines Daumens. Als du den Würfel zur Seite drehst, erkennst du ein minutiös graviertes Diagramm - ein labyrinth-ähnliches Netzwerk aus Schaltkreisen. 
+
+Dir sagt das nichts. Vielleicht kann sich einer der Experten für Maschinenbau in der Stadt  einen Reim darauf machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du schaust dir das Diagramm an der Seite des Würfels genauer an, erkennst aber nach wie vor keinen Sinn. Vielleicht hilft es, wenn du einen Experten im Maschinenbau zu Rate ziehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Auf dem Würfel ist etwas eingraviert: "Für meine Tochter. Möge dieses Geschenk dir die Zeit vertreiben, bis ich wiederkomme - und ich komme wieder. Das verspreche ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du hebst den Würfel auf Augenhöhe und schüttelst ihn noch einmal. Darin bewegt sich nichts, allerdings hörst du wieder das Rattern eines darin gefangenen Objektes. 
+
+Du spürst eine raue Stelle an der Kante deines Daumens. Als du den Würfel zur Seite drehst, erkennst du ein minutiös graviertes Diagramm - ein Labyrinth Netzwerk aus Schaltkreisen. 
+
+Nein … es ist eine alte Maschinensprache, die du aus deinem Studium der antiken Technologien kennst. Da steht: "Für meine Tochter. Möge dieses Geschenk dir die Zeit vertreiben, bis ich wiederkomme - und ich komme wieder. Das verspreche ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Rieche daran.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Drücke auf die Siegel, die verbundene Hände zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Drücke nochmal auf die Siegel, die verbundene Hände zeigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Unter dem erwarteten schmierigen Metallgestank entdeckst du … Salz. Das vermischte Aroma von erhitztem Metall und Stein. Ein furchterregendes Gefühl von Nostalgie ergreift dich, du kannst es aber mit nichts in Verbindung bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Leg den Würfel weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Taste blockiert zunächst - sie wurde sicherlich seit Jahren nicht mehr gedrückt, wenn überhaupt. Aber als sie mit einem etwas besorgniserregenden *Schnappen* nachgibt, beginnt innen drin ein mechanisches Klicken, wie das Schlagen vieler weit entfernter Flügel. 
+
+Sei verstummen und eine der Seiten gleitet weg - nicht in eine Fassung, sondern in die Nichtexistenz. Im Inneren ist ein dunkles Loch das von weiteren Wörtern umgeben ist - dieses Mal in Wahrheit. Vier nummerierte Tasten umgeben den Kreis wie die Punkte eines Kompasses. 
+{SOUND: 1. SCHNAPPEN.  2. Eine sanfte Serie mehrerer exakter Klicks. 3. Ein Kameraauslöser wird betätigt}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Zahnräder surren erneut in dem Würfel und die Luke rutscht zur Seite und offenbart die Augenhöhle, die von einer Inschrift und vier Tasten mit Zahlen umgeben ist.   
+{SOUND: 1. SCHNAPPEN.  2. Eine sanfte Serie mehrerer exakter Klicks. 3. Ein Kameraauslöser wird betätigt}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Lies die Inschrift. 
+{GAVIN: Iteration task: Add inscription and image to the root node after the puzzle is solved.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Lies die Inschrift noch einmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Die Worte drehen sich in einer dünnen gravierten Schrift von der Augenhöhle weg.  
+
+"Ich füge dem Geschenk eine Erinnerung aus glücklicheren Tagen bei. Sehe sie wie ich. Wiege sie in deinen Händen. Und ich sage dir hiermit, dass ich stolz auf dich bin und ich hoffe, du bist mir nicht mehr böse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ich füge dem Geschenk eine Erinnerung aus glücklicheren Tagen bei. Sehe sie wie ich. Wiege sie in deinen Händen. Und ich sage dir hiermit, dass ich stolz auf dich bin und ich hoffe, du bist mir nicht mehr böse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Schau durch die Augenhöhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Schau noch einmal durch die Augenhöhle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Eine breite Szene wird durch das kleine Loch in dem winzigen Würfel auf mehrfarbigen Metallbildschirmen dargestellt.
+
+Ein junges Mädchen - sicher nicht älter als 15 - steht an einer Brüstung und schaut sich den Sonnenuntergang im Meer an. Sie dreht sich, um dich mit einer angehobenen Augenbraue anzusehen. Bronzefarbe leuchtet auf das Quartett aus goldenen Ohrringen, die ihr Ohr schmücken. Deine Hand liegt auf ihrer Schulter und sie hält deine Hand mit ihrer. 
+
+Sie hat Angst, aber dein Anblick lässt sie lächeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ein junges Mädchen - sicher nicht älter als 15 - steht an einer Brüstung und schaut sich den Sonnenuntergang im Meer an. Sie dreht sich, um dich mit einer angehobenen Augenbraue anzusehen. Bronzefarbe leuchtet auf das Quartett aus goldenen Ohrringen, die ihr Ohr schmücken. Deine Hand liegt auf ihrer Schulter und sie hat ihre Hand auf deine gelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Vielleicht ist es eine Lichttäuschung auf einem unvollkommenen Medium, aber die Hand auf ihrer Schulter - deine Hand - scheint ihre Schulter eher zu packen als zu halten, als hätte auch die Person hinter der Linse Angst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du schaust genauer hin. Neben dem Wort ‚Verspreche‘ sind zwei identische, ineinander greifende Siegel. Zwei ‚Hände‘, die verbunden sind. Sie sehen ein wenig ausgeprägter als die restlichen Worte aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Drücke ihn in deinen Händen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du drückst den Würfel mit deinen Handflächen und er bricht mit einer zufriedenen, zischenden Serie von Klicks zusammen. Als du loslässt, springt er sofort wieder in die scheinbar feste Form zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>::klick-klack-klick::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Drücke die erste Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Drücke die zweite Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Drücke die dritte Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Drücke die vierte Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>In dem Würfel klickt etwas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Drücke die zweite Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Drücke die dritte Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Drücke die vierte Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Drücke die erste Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Noch ein Klickgeräusch kommt aus der Mitte des Würfels.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Drücke die erste Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Drücke die zweite Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Drücke die dritte Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Drücke die vierte Taste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>::Klack::.
+
+Das Dach des Würfels  klappt weg und gibt das darin befindliche Geschenk frei - einen Ring, befreit von seiner Halterung. Vielleicht hat er sich von allein befreit. Oder die Tochter hat das Rätsel vor langer Zeit gelöst … und das Geschenk abgelehnt. 
+
+Du nimmst den Ring aus seiner Halterung, steckst ihn ein und schließt den Würfel wieder. 
+
+{LOOT: Sollte ein kleiner Gegenstand sein, den ein Vater seiner Tochter gibt, mit der er Seite an Seite im Kampf stand. Sollte nichts sein, das ihr schaden könnte. Vielleicht ein Ring (und den habe ich vorerst inkludiert).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Der Würfel ist jetzt leer. Alles, was bleibt, sind die Nachrichten eines Vaters an seine Tochter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>::klonk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>::klonk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>::klonk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>::klonk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>::klonk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>::klonk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>::klonk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>::klonk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>::klonk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

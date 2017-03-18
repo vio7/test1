@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_endless_horror</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Endloser Horror</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Gelange zu den Gräbern der Nekropolis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde die Endlose Pforte in der Nekropolis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde Inifere und überzeuge ihn, die Pforte zu schließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ich habe Inifere getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ich habe Inifere überredet, das Tal zu verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ich habe Inifere überredet, sich umzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Inifere hat sich in dem Lebensbild geopfert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Marcysa hat Inifere in dem Lebensbild getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ich verließ das Tal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Informiere die Memorialisten, dass die Pforte geschlossen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Informiere die Memorialisten, dass die Pforte geschlossen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Informiere die Memorialisten, dass die Pforte geschlossen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Informiere die Memorialisten, dass die Pforte geschlossen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Informiere die Memorialisten, dass die Pforte geschlossen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Finde Ronos Cai'sul für deine Belohnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Endlose Pforte geschlossen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das Tal verlassen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Betrete die Endlose Pforte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Die Kinder der Endlosen Pforte haben das Tal in einen Schlachthof verwandelt. Wenn ich ihre Pforte in der Nekropolis nicht irgendwie schließen kann, werden sie das Tal wohl nie mehr verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Wenn sich ihre Pforte in der Nekropolis befindet, dann ist der erste Schritt, einen Weg in die Gräber der Nekropolis zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Die Kultisten haben die Endlose Pforte irgendwo in der Nekropolis geöffnet. Ich muss sie finden und herausfinden, wie man sie wieder schließen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Inifere, der Anführer des Kults, befindet sich irgendwo jenseits der Endlosen Pforte. Jetzt, wo ich hier bin, komme ich hier nicht mehr weg. Ich muss Inifere finden und ihn überreden – oder *zwingen* –, die Pforte zu schließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Den Mann zu töten, der die Pforte geöffnet hat, ist ein todsicherer Weg, um sie wieder zu schließen. Inifere ist tot und die Pforte ist endgültig geschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Es war nicht leicht, aber ich konnte Inifere überreden, die Pforte zu schließen und das Tal zu verlassen. Ich bezweifle, dass er sie so bald wieder öffnen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Wissend, wie Inifere über den Tod von Choi und allen anderen dachte, überredete ich ihn, sich das Laben zu nehmen. Grausam, vielleicht, aber auch nötig, da es keinen anderen Weg gab, sicherzustellen, dass die Pforte geschlossen bleibt.Es gab auch keinen Weg für ihn, für all seine Sünden zu büßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Während ich in Iniferes Körper war, überzeugte ich ihn, dass es besser wäre, wenn er sich opfern würde – nicht nur, um seine Kultisten zu retten, sondern auch, um all die zu retten, die seine Kultisten in den intervenierenden Jahren getötet haben.Ich weiß nicht, ob sich die Realität *so* drastisch geändert hat, aber Inifere ist jetzt fort und die Pforte, die er mit sich brachte, ebenfalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Als ich in Iniferes Körper war, hat Marcysa ihn verraten und getötet und wurde die neue Anführerin der Kinder der Endlosen Pforte. Ich schätze, die Kultisten werden ihr blutiges Werk fortsetzen, aber zumindest ist die Pforte aus dem Tal verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Der Kummer hat mich dazu gezwungen, das Tal zu verlassen, bevor ich die Kultisten stoppen konnte. Hoffentlich bekomme ich noch mal die Gelegenheit, hierher zurückzukommen, doch im Moment kann ich nichts tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich habe Inifere getötet und die Pforte endgültig geschlossen. Ich sollte zu den Memorialisten zurückkehren und ihnen berichten, was ich getan habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Es war nicht einfach, aber ich überredete Inifere, die Pforte zu schließen und das Tal zu verlassen. Ich bezweifle, dass er sie in nächster Zeit öffnen wird.Ich sollte zu den Memorialisten zurückkehren und ihnen sagen, was ich getan habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Wissend, wie Inifere über den Tod von Choi und allen anderen dachte, überredete ich ihn, sich das Laben zu nehmen. Grausam, vielleicht, aber auch nötig, da es keinen anderen Weg gab, sicherzustellen, dass die Pforte geschlossen bleibt.Ich sollte zu den Memorialisten zurückkehren und ihnen sagen, was ich getan habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Während ich in Iniferes Körper war, überzeugte ich ihn, dass es besser wäre, wenn er sich opfern würde – nicht nur, um seine Kultisten zu retten, sondern auch, um all die zu retten, die seine Kultisten in den intervenierenden Jahren getötet haben.Ich weiß nicht, ob sich die Realität *so* drastisch geändert hat, aber Inifere ist jetzt fort und die Pforte, die er mit sich brachte, ebenfalls. Ich sollte zu den Memorialisten zurückkehren und ihnen sagen, was ich getan habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Als ich in Iniferes Körper war, hinterging ihn Marcysa und brachte ihn um. Sie wurde dann zur neuen Anführerin der Kinder der Endlosen Pforte. Die Kultisten setzten ihre Arbeit fort, schätze ich, aber zumindest ist die Pforte vom Tal verschwunden.Ich sollte zu den Memorialisten zurückkehren und ihnen sagen, was ich getan habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Ich habe Talira in der Nekropolis darüber informiert, dass die Pforte nun geschlossen ist. Sie war mir sehr dankbar und sagte, ich solle wegen einer Belohnung mit Ronos im Tal sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Die Memorialisten waren mir für meine Hilfe beim Schließen der Endlosen Pforte und der Rettung ihres Tals sehr dankbar. Sie haben mir sogar eine Belohnung gegeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Der Kummer hat mich dazu gezwungen, das Tal zu verlassen, bevor ich mit den Memorialisten sprechen konnte. Zumindest ist die Pforte geschlossen und das Tal gerettet. Das ist fürs Erste gut genug.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Ich habe den Eingang zur Endlosen Pforte gefunden. Einige Kultisten wurden hineingezogen und kreischten „Es ist Zeit!“Ich weiß nicht, was das bedeutete, aber ich bin mir recht sicher, der einzige Weg, die Pforte zu schließen, ist es, sie da hinein zu folgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Um die Kultisten aufzuhalten, haben die Memorialisten ein Flüsterschloss angebracht, damit niemand die Gräber der Nekropolis betreten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe einen Hinweis auf den Code für das Flüsterschloss erhalten: Es ist der Name des Prinzen der Ceturl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe den Code erfahren. Es ist "Guni".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Die Kultisten haben Talira Kyo bereits getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Du hast Talira überredet, die Lösung für das Schloss zu verraten, bevor die Kultisten vertrieben wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Du hast Taliras Leiche gegessen und so die Lösung für das Schloss erfahren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Du hast den Teleporter entsperrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Der Eingang zur Pforte befindet sich im Grab mit dem Code 1-2-5-4.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

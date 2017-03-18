@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_the_crippled_foreman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>126</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Segmente der Beine dieses halbierten Konstrukts liegen verteilt herum. Irgendjemand hat diese Bauteile akribisch umgebaut und ihnen kleine Glieder und winzige Metallköpfe verpasst.
+
+Nichtsdestotrotz bewegen sie sich nicht. Die türkisfarbenen Augen des größeren Konstrukts flackern unregelmäßig als sie sich auf dich richten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Pupillen des Vorarbeiters fixieren dich. Eine von ihnen flackert wie eine Kerzenflamme. 
+
+"Ihr seid zurückgekehrt. Was möchtet Ihr besprechen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich verstehe nicht", sagt er. Die Stimme, die aus dem Gitter kommt, das seine Augen umgibt, ist so weich, als ob du sie aus großer Entfernung hören würdest. "Wollen sie denn nicht leben? Die Viadukte sind offen. Die Befehle sind angekommen. Und trotzdem ..."
+
+Das Licht in seinen Augen flackert. "Jedes Mal, wenn ich meinen Kindern das Leben schenke, sterben sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lasst mich sie untersuchen. Vielleicht kann ich ja helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich wünschte, ich könnte Euch irgendwie helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wisst ihr, *wollen* ist hier nicht genug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Möglicherweise könnt Ihr das", sagt er. "Ich habe einige neue Berechnungen durchgeführt und eine neue Methode gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ihr habt recht", sagt er. "Nichtsdestotrotz bleibt der Wunsch bestehen. Zum Glück wurde eine neue Methode gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Er protestiert nicht. Untersucht also die bewegungslosen Konstrukte, die auf dem Boden vor dem Vorarbeiter liegen.  
+
+Nach dem, was du von der Technologie hier verstehst, liegt der Vorarbeiter richtig. Diese kleinen Konstrukte müssten eigentlich funktionieren, was sie jedoch nicht tun. Möglicherweise tragen nicht sie den Defekt in sich.
+
+Du gibst diese Informationen an den Vorarbeiter weiter. "Ich stimme Euch zu", sagt er. "Und ich denke, dass eine neue Methode gefunden wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Meine Kinder brauchen mehr Energie, um zu leben. Meine Konstruktion verhindert jedoch Energietransfers, die über einen gewissen Schwellenwert hinausgehen, und dies aus gutem Grund."
+
+Seine Pupillen drehen und ziehen sich zusammen. "Energietransfers, die einen gewissen Prozentsatz übersteigen, würden zu einer Kette von Störungen in meinen Intelligenzringen führen. Ich würde sterben.
+
+Sein Stimmgewebe klickt. "Helft mir, mich zu diesem Transfer zu zwingen, da ich es nicht selbst tun kann." 
+
+*Klick* "Helft mir, mein Leben auf meine Kinder zu übertragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Das klingt aber kompliziert", murmelt sie, wobei sie sich auf das Kinn tippt. "Kompliziert, aber nicht unmöglich. Der Orden der Wahrheit kann uns vielleicht dabei helfen, das zu erreichen, was er will."
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich weiß nichts über Euch", sagt sie, "doch das Herumpfuschen mit antiken Konstrukten ist nicht *mein* Fachgebiet. Versucht, mit dem Orden der Wahrheit darüber zu sprechen. Sie wissen dort möglicherweise, wie man diesem Ding helfen kann."
+{MATKINA}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Nutze deinen Geist, um das Leben des Konstrukts direkt in die Körper seiner Kinder zu kanalisieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Darf ich Euch untersuchen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Darf ich Euch erneut untersuchen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ja", sagt er. "Tarnish, öffnet bitte meine Konservierungsklappen und meine Viaduktschilde."
+
+Der bejahrte Arbeiter schleppt sich herüber und tut, wie ihm geheißen. 
+{TON: Eine Klappe wird geöffnet.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sicherlich", sagt er. "Tarnish? Öffnet bitte nochmal die Klappen und Schilde."
+
+Tarnish öffnet die Wartungsklappen seines Meisters und tritt beiseite. 
+{TON: Eine Klappe wird geöffnet.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Soweit du erkennen kannst, sind die Probleme des Vorarbeiters *nicht* auf seinen physischen Körper zurückzuführen. Irgendetwas muss in der Intelligenz selbst – dem Verstand des Vorarbeiters – nicht stimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Die Vision überkommt dich wie eine Welle, die einen Schwimmer verschlingt. 
+
+Du näherst dich diesem Vorarbeiter – noch immer von seinen Beinen besessen – und öffnet die gleichen Luken, die Tarnish öffnete. 
+
+"Ich weiß, es sieht kompliziert aus", sagt der Vorarbeiter. "Die Viadukte sind aber der einfachste Teil. Der Geist der Maschine – also ich – ist komplizierter. Auch wenn ich es nicht ganz verstehe." Er lacht. "Mich."
+
+Die Vision schwindet und du stehst wieder vor den Trümmern dieses einst fröhlichen Konstrukts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Die Leitungen selbst sind seltsam organisch konfiguriert und winden sich durch mehrere geheimnisvolle, gebürstete Gehäuse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Versuche, den Verstand des Vorarbeiters zu umgehen und übertrage sein Leben auf seine Kinder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Versuche ein weiteres Mal, den Verstand des Vorarbeiters zu umgehen und übertrage sein Leben auf seine Kinder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Blind rammst du deine Hände in den Körper des Vorarbeiters, reißt, richtest neu aus, und verursachst unsäglichen Schaden bei deinem Versuch, dem Wunsch des Konstrukts nachzukommen. 
+
+Schließlich hast du Erfolg. Kalte Energie ergießt sich in die Luft wie Blut aus einer Wunde und strömt in die bewegungslosen Kinder. Nacheinander flackern ihre winzigen Augen vor Leben auf. Nacheinander erlöschen die Augen des Vorarbeiters. Sein Stimmgewebe klappert, als würde er sprechen wollen ...
+{VFX: Wenn wir VFX für die Baby-Konstrukte haben, wenn diese zum Leben erwecken, spielt es hier ab.}
+{TON: Mechanisches Reißen, Quietschen}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Nach mehreren frustrierenden Minuten des Grabens durch die Innereien des Konstrukts gestehst du deine Niederlage ein. Der Körper des Vorarbeiters weigert sich einfach, so viel Energie wie notwendig, um die Kinder zum Leben zu erwecken, zu transferieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du meine Güte", sagt Callistege neben dir. "Ich will nicht behaupten, alles zu verstehen, was ich hier sehe, du wirst aber noch ein paar Hände brauchen, wenn du das tun willst, was diese arme Kreatur möchte."
+
+Sie lächelt. "Natürlich habe ich einige Hände übrig."
+
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Aligern tritt neben dich und pfeift leise. 
+
+"Ich bin mir nicht sicher, ob ich alles verstehe, was ich hier sehe, ich kann dir aber sagen – dieses Konstrukt zu töten, ist keine Aufgabe für eine Person. Wenn du dich dazu entschließt, seinem Wunsch nachzukommen, dann werde ich dir zur Hand gehen."
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Euer Assistent Tarnish möchte nicht, dass Ihr sterbt. Solltet Ihr sterben, dann hätte er niemanden mehr. Könnt Ihr keine andere Möglichkeit finden, um Kinder zu bekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ihr müsst eine andere Möglichkeit finden, um Kinder zu bekommen. Tarnish verdient es nicht, Euch sterben zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du vernimmst ein schwaches, rhythmisches Klirren, als ob sich in einer entfernten, uralten Uhr ein Getriebe gelockert hätte. 
+
+"Er hat mir mehr als gut gedient", sagt das Konstrukt letztendlich, aber sanft. "Und er ist nicht jung."
+
+Ein Seufzen rattert aus dem Gewebe, das seine Augen umgibt. "Vielleicht ... Werde ich warten. Noch ein paar Tests durchführen. Wenn ich eines habe, dann ist das Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Wenn es eine andere Möglichkeit gäbe, hätte ich sie schon gefunden. Ich verweigere einer anderen Generation die Geburt, um nicht zusehen zu müssen, wie sie sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Wortlos öffnest du dich den Gezeiten und wirst zu einer Leitung zwischen dem Konstrukt und seinen Kindern. Du atmest ein, und mit einem einzelnen Gedanken löst du die verzwickte Logik, die das Leben des Konstrukts an seinen uralten Körper band. Die Kinder bewegen sich. 
+
+In dir treffen sich das Konstrukt und seine Kinder für den Bruchteil einer Sekunde, doch ihre Gedanken und die Worte, die zwischen ihnen ausgetauscht werden, entziehen sich dir.  
+
+Du taumelts zurück und hebst deinen schmerzenden Kopf. Der Vorarbeiter raucht und ist defekt. 
+{TON: Rauschender Wind mit Anzeichen von Statik. Mechanisches Flüstern undeutlicher Worte.}
+{VFX: Wenn wir VFX für die Baby-Konstrukte haben, wenn diese zum Leben erwecken, spielt es hier ab.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Behalte sie alle. Vielleicht können sie als Chiffre und Energiequelle verwendet werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Nimm das tote Konstrukt und lass die anderen frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Vorsichtig nimmst du das totgeborene Konstrukt hoch und wiegst es in den Armen. Die restlichen Kinder des Vorarbeiters jagen sich noch einige Augenblicke gegenseitig, bevor sie demjenigen folgen, der sich dem Ausgang nähert.
+{BEUTE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>::pop::</DefaultText>
+      <FemaleText>::pop::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Nacheinander nimmst du die Kinder des Vorarbeiters auf und verstaust sie, wobei du ihr Quäken und Klagen ignorierst. 
+{BEUTE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Könnt Ihr mir mehr darüber sagen, wie Ihr und die anderen Vorarbeiter so wurdet?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Warum wollt Ihr nicht über Eure Vergangenheit sprechen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Das werde ich nicht", sagt der Vorarbeiter ruhig. "Das ist kein Zeitalter, das ich gerne wieder erleben würde. Sprecht stattdessen mit dem obersten Vorarbeiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Der oberste Vorarbeiter schwelgt nämlich in der Vergangenheit und wird froh sein, diese mit Euch zu teilen. Ich tue das nicht und würde es auch nicht tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Diese winzigen Dinger sind Eure Kinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ihr könnt keine Kinder haben. Ihr seid eine Maschine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Nicht mehr", sagt er. "Jetzt sind sie unbelebt und leblos. Ihre adaptiven Persönlichkeiten sind verloren gegangen. Ich verstehe nicht, wieso sie sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ich habe im letzten Jahrhundert dem Thema der Prokreation einen großen Stellenwert beigemessen und es gibt keine Fehler in meinen Berechnungen. Mein Assistent Tarnish baute die Körper meiner Kinder entsprechend meinen präzisen Spezifikationen. Ihre Intelligenzreservoirs sind gegen dauerhaften Verlust abgeschirmt."
+
+Seine Augen wenden sich von deinem Blick ab, als sei er verlegen. "Und ich möchte, dass sie leben. Das sollte ausreichen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Mir fehlt der unterstützende Nachweis, um Euch effektiv zu widersprechen", sagt er, während er seine matten, flackernden Pupillen auf dich richtet. "Nichtsdestotrotz bin ich anderer Meinung."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Das ist lächerlich. Nur lebende Dinge haben Kinder. Ihr seid eine *Maschine*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Seine Motoren summen in der darauffolgenden Stille. 
+
+"Ich werde mit Euch nicht über das Leben argumentieren", sagt er schließlich ziemlich ruhig. "Ihr sollt nur wissen, dass ich lange genug existiert habe, um die Zerstörung von Monden und den Tod von Sternen mitzuerleben." 
+
+Aus seinem 'Mund' ist ein kräftiges Klicken zu vernehmen. "In all dieser Zeit habe ich keine absolute Definition von 'Leben' begründen können. Ich würde Euch raten, Eure Meinungen zu überdenken. Wenn Ihr das könnt, würde ich Eure Hilfe gerne in Anspruch nehmen. Zum Glück wurde eine neue Methode gefunden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>::szzzzkt::</DefaultText>
+      <FemaleText>::szzzzkt::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ihr scheint ... über Euer Versagen bei der Erschaffung von Kindern sehr leidenschaftslos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Warum wollt Ihr Kinder haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Warum wollt Ihr nochmal Kinder haben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Brauchen", sagt das Konstrukt. "Nicht wollen."
+
+Seine Pupillen studieren die entfernte Decke. "Als ich geboren wurde, nahm ich die Arbeit schon nach Sekunden auf. Das tat ich, bis unsere Schöpfer unsere Körper abschalteten. In dem darauffolgenden Jahrtausend habe ich mich auf den Entwurf der Infrastruktur hinter der Arbeit der anderen Vorarbeiter und darauf konzentriert, wie Arbeiter in die Ausführung dieser Entwürfe eingewiesen werden." 
+
+Seine Pupillen richten sich wieder auf dich. "Ich habe schließlich erkannt, dass ich unglücklich war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Um sie zu treffen, wenn auch nur kurz. Sie warten darauf, dass ich sie finde und ihnen das Leben schenke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ich habe 27 Geburtsiterationen durchlebt. Bei jedem Versuch zerreißt ein weiterer Teil meiner nicht-essenziellen Persönlichkeit und meiner Intelligenzringe."
+
+Die Augen des Vorarbeiters verdunkeln sich. "Wisst, dass diese kleinen Körper nur Körper sind. 27 Versionen meiner Kinder haben darin gelebt und sind darin gestorben. Wisst, dass sie lange genug lebten, damit ich ihre Persönlichkeiten verstehen und ihnen Namen geben konnte, bevor sie beseitigt wurden. Starben." 
+
+Ein leises Schwirren kommt aus dem Gewebe, dass die flackernden Augen des Vorarbeiters umgibt.
+{TON: Ein leises Schwirren mit SEHR leichtem, traurigem Unterton.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Von Zeit zu Zeit brachten meine Arbeiter ihre Kinder zur Manufaktur. Und sie hielten ihre kleinen Hände. Und erklärten ihnen die Mysterien dieses Ortes." 
+
+Seine Pupillen flackern aus. "Es begann als Gedanke – was würde ich meinen eigenen Kindern beibringen? Um neugierig zu sein. Um zu erforschen. Um dämliche Fragen zu stellen. Um die Welt oben zu sehen, die wir drei niemals gesehen haben."
+
+Die Pupillen des Vorarbeiters flackern wieder auf. "Und als ich diese Dinger erdachte, sah ich die Form meiner Kinder, die vom Tageslicht umrissen war. Sie existierten bereits."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Noch nie hast du eine solche Technologie gesehen – Drähte verlaufen durch Glasleitungen, die mit blassem Licht und sternengesprenkelter Dunkelheit eingezogen sind. 
+
+Du blickst zu Tarnish hinüber. Er schaut weg, die Arme verschränkt, als ob er nicht bereit sei, einem Fremden dabei zuzusehen, wie er an seinem Meister herumbastelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>::zzzt::</DefaultText>
+      <FemaleText>::zzzt::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Er würde wollen, dass ich Euch danke", sagt der alte Mann heiser. "Das werde ich aber nicht. Ihr kanntet ihn gerade einmal zehn Minuten. Ich kannte ihn mein ganzes Leben lang, ja, und dann kamt Ihr und habt ihn mir genommen."
+
+Ohne einen Blick auf die Kinder seines Meisters zu werfen, entfernt sich Tarnish in die Dunkelheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Eine schöne Idee", sagt sie. "Ich freue mich darauf, sie aufzubrechen."
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Ich habe mich schon gefragt, wieso du dir all diese Probleme vornimmst. Ich nehme an, dass mich das nicht überraschen sollte."
+{ALIGERN}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ah, wie schön. Hoffentlich tritt niemand auf sie drauf."
+{CALLISTEGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Er knurrt.
+
+"Das war eine gute Tat, Junge." {ALIGERN}</DefaultText>
+      <FemaleText>Er knurrt.
+
+"Das war eine gute Tat, meine Gute." {ALIGERN}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Werdet Ihr mir helfen?", fragt der Vorarbeiter. Seine Worte werden beinahe von einem knarrenden elektrischen Rauschen verdrängt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Nutze die prokreative Wellenturbine, um das Leben des Vorarbeiters auf seine Kinder zu übertragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Versuche, die prokreative Wellenturbine erneut auf den Vorarbeiter anzuwenden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Die Turbine erwacht brummend zum Leben. Die verbauten Lüfter drehen sich und singen einen hohen, bebenden Ton, während sich kalte Energie wie Blut aus einer Wunde in die Luft ergießt und in die bewegungslosen Kinder strömt. Nacheinander flackern ihre winzigen Augen vor Leben auf. Nacheinander erlöschen die Augen des Vorarbeiters. Sein Stimmgewebe klappert, als würde er sprechen wollen ...
+{VFX: Wenn wir VFX für die Baby-Konstrukte haben, wenn diese zum Leben erwecken, spielt es hier ab.}
+{TON: Siehe oben. Rotierender, bebender Ton.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Kalte Energie stottert stoßweise durch die Luft zwischen dem Vorarbeiter und seinen Kindern. Die Turbine rührt sich nicht. Vielleicht hast du das Gerät nicht ordnungsgemäß eingeschaltet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Doch das tut es nicht. Es kann nicht. Die Kinder beobachten den Tod ihres Elternteils mit weiten, leuchtenden Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Die flackernden Augen des Vorarbeiters konzentrieren sich auf dich, als du dich näherst, und ein aussetzendes Summen erfüllt die Luft. Du spürst, wie die Luft dicker wird und sich um dich herum aufteilt, als würden unsichtbare Finger deine Habseligkeiten stupsen. 
+
+"Ihr habt ein Gerät vom Orden der Wahrheit dabei", sagt der Vorarbeiter schließlich. "Was ist sein Zweck?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ich hoffe, Ihr habt recht", sagt das Konstrukt. "Ich bin bereit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Nun gut", sagt das Konstrukt. "Ich bin bereit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Hiermit dürfte der Teil von Euch umgangen werden, der Euch davon abhält, Nachkommen zu schaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Ihr müsst nur wissen, dass es funktionieren *sollte*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Los", krächzt das Konstrukt. "Erforscht es. L-"
+
+Woraufhin es verstummt. Die Kinder beobachten den Tod ihres Elternteils mit weiten, leuchtenden Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Einige der kleinen Konstrukte wandern im Kreis umher und zwitschern sich gegenseitig an. Eines von ihnen hält bereits auf den Ausgang zu. Und eines ist regungslos. Totgeboren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Lass das tote Konstrukt liegen und lass die anderen frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Wie schon zuvor, scheint die Turbine nichts zu tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Du versuchst es erneut, kannst aber noch immer keinen Fortschritt erzielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Es gibt keine andere Möglichkeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Du untersuchst es einige Minuten lang, kannst jedoch nichts weiter herausfinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Wie bei den anderen Konstrukten spürst du auch hier dieses brodelnde Gefühl. Die Gedanken dieses Konstrukt sind ebenso unlesbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Du hast ein brodelndes Gefühl im Kopf. Es müssen die oberflächlichen Gedanken des Konstrukts sein. Sie sind viel zu schnell und fremdartig, als dass du sie verstehen könntest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Du hast ein brodelndes Gefühl im Kopf. Es müssen die oberflächlichen Gedanken des Konstrukts sein. Sie sind viel zu schnell und fremdartig, als dass du sie verstehen könntest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ich möchte Euch helfen. Wo soll ich anfangen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Sprecht mit Tarnish, meinem Assistenten. Wenn er sich gut genug fühlt, kann er Euch möglicherweise dabei helfen, zu verstehen, wie ich funktioniere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ich will Euch nicht dabei helfen, Euch umzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Nun gut", sagt es. "Wenn Ihr Eure Meinung ändern solltet, hat mein Assistent Tarnish möglicherweise einige Ideen hinsichtlich der weiteren Vorgehensweise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ich habe keine Zeit für diesen Unsinn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Das tut mir leid", sagt es mit der gleichen farblosen, gebrochenen Stimme. "Wenn Ihr Eure Meinung jedoch ändern solltet, hat mein Assistent Tarnish möglicherweise einige Ideen hinsichtlich der weiteren Vorgehensweise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Die Kinder des Vorarbeiters jagen sich noch einige Augenblicke gegenseitig, bevor sie dem folgen, welches sich dem Ausgang nähert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Das war gut gemacht, mein Lieber. Dieses Konstrukt wird der Welt mit seinem Wissen weitaus nützlicher sein als es mit seiner idiotischen Brut jemals wäre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Was wirst du nun tun, da du entschieden hast, weiterzuleben?"</DefaultText>
+      <FemaleText>"Was wirst du nun tun, da du entschieden hast, weiterzuleben?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Sag mir nochmal, was du nun tun wirst, da du entschieden hast, weiterzuleben."</DefaultText>
+      <FemaleText>"Sag mir nochmal, was du nun tun wirst, da du entschieden hast, weiterzuleben."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Heiße Luft seufzt aus den Ventilen des Vorarbeiters. 
+
+"Den Tod meiner Kinder untersuchen, so dass ich in Zukunft nicht versagen werde", sagt er so leise, dass du es kaum hören kannst. "Die Minuten zählen, bis ich es wieder versuchen kann."</DefaultText>
+      <FemaleText>Heiße Luft seufzt aus den Ventilen des Vorarbeiters. 
+
+"Den Tod meiner Kinder untersuchen, so dass ich in Zukunft nicht versagen werde", sagt er so leise, dass du es kaum hören kannst. "Die Minuten zählen, bis ich es wieder versuchen kann."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Meine Fehler studieren", sagt das Konstrukt sanft. "Trauern."</DefaultText>
+      <FemaleText>"Meine Fehler studieren", sagt das Konstrukt sanft. "Trauern."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

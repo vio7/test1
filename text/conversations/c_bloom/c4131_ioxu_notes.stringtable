@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4131_ioxu_notes</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Papiere liegen wild durcheinander auf dem Tisch verteilt. Kleine Wissenswürfel glimmen, fingergroße Instrumente erzeugen Abfolgen glühender Glyphen und noch anderes Material ist in dem Chaos verteilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Notizen und Aufzeichnungsgeräte untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Als du durch die Notizen des Varjellen blätterst – auf Papier, auf getrocknetes Flor-Fleisch gekritzelt, in sprechende Datenwürfel diktiert und auf noch ungewöhnlicheren Speichergeräten aufgezeichnet – wird dir die Menge der von ihm gesammelten Informationen bewusst. Es ist eine Ansammlung arkaner und technischer Beobachtungen der Flor, die lose in eine Reihe von Kategorien unterteilt sind: Verhalten (selbst/andere), Kommunikation (selbst/andere), beeinflusst, beeinflusst von, Schlünde (öffnen, schließen, umleiten), Geschichte (aufgezeichnet/nicht aufgezeichnet), Beobachtungen, Schlussfolgerungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Finger von dem Chaos lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Als du die Hand ausstreckst, um die Objekte auf dem Tisch zu untersuchen, bellt der Varjellen: "Vorsichtig! In dieser Arbeit steckt viel Zeit und ich weiß noch, wo ich auch die kleinste Information abgelegt habe. Leg jeden Gegenstand dahin zurück, wo du ihn hergenommen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Weiter den Inhalt des Schreibtisches untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Der Varjellen blickt nicht mehr zu dir hinüber, während du seine Notizen durchsuchst. Stattdessen starrt er dich an; er wartet und betrachtet dich dabei. Dir fällt es schwer, dich unter Beobachtung zu konzentrieren, deshalb legst du die Notizen weg und trittst vom Schreibtisch zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Jede Information ist mit einem Verweis in einem anderen Dokument verknüpft. Manche dieser Verbindungen sind nur einfache Notizen der Erinnerung des Varjellen, wo diese Informationen sein könnten. Wenn du wüsstest, wo du in dieser riesigen Sammlung von Wissen anfangen solltest, dann würde es dich vielleicht weiterbringen ... aber die Menge an Informationen ist einfach überwältigend.
+
+Diese Menge an Informationen könnte nicht mal eine Gruppe von Aeon-Priestern in einem Jahr bearbeiteten. Ein einzelner Gelehrter würde dafür wahrscheinlich zehn Jahre oder länger benötigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Informationen, die der Varjellen gesammelt hat, sind überwältigend in ihrer Menge und Tiefe. Er hat physische und psychische Messungen durchgeführt, die Bewegungen der Flor mit historischen Gegebenheiten in Beziehung gesetzt und umfassende Wissenskategorien angelegt. Du bist dir sicher, dass du nur ein oder zwei ruhige Jahrzehnte bräuchtest, um sein ganzes gesammeltes Wissen zu verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Wenn du ein oder zwei ruhige Jahrzehnte für dich hättest, dann könntest du vielleicht eine wissenschaftliche Arbeit darüber schreiben, die anderen bei der Erforschung der Flor helfen könnten. Die Zeit hast du aber nicht, deshalb legst du die Informationen beiseite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Notizen und Aufzeichnungsgeräte erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

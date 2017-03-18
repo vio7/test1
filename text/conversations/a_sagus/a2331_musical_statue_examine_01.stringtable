@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_musical_statue_examine_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Flackerndes, bernsteinfarbenes Licht pulsiert im Inneren des Apparats, begleitet von einem schwachen, unterbrochenen Brummen.</DefaultText>
+      <FemaleText>Flackerndes, bernsteinfarbenes Licht pulsiert im Inneren des Apparats, begleitet von einem schwachen, unterbrochenen Brummen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Eine hohle Statue aus miteinander verbundenen Rohren und Trommeln. Sie ruht still.</DefaultText>
+      <FemaleText>Eine hohle Statue aus miteinander verbundenen Rohren und Trommeln. Sie ruht still.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

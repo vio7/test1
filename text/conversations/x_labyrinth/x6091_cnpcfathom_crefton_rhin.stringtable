@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6091_cnpcfathom_crefton_rhin</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sie ist von Schatten umgeben. Sie hält ihre Arme schützend vor ihr Gesicht, aber sie weint. "Ah!" weint sie. "Hilf mir!"
+
+Sie krümmt sich vor Schmerz. "Mutter! Vater! Wo seid ihr? Es tut ... Es tut mir leid. Es tut mir leid ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sie duckt sich, immer noch weinend und versucht, sich vor den quälenden Schatten zu schützen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Rhin? Rhin, was ist los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Rhin, sag mir noch einmal, was los ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Nein, nein, nein, nein ..." Sie schüttelt ihren Kopf, Tränen fliegen in alle Richtungen. "Tu mir nicht weh. HÖR AUF, MIR WEHZUTUN!"
+
+Auch wenn sie dich scheinbar kaum wahrgenommen hat, hebt sie einen zitternden Finger und zeigt auf Tol. "Ich bin geflüchtet", schluchzt sie. "Ich bin geflüchtet. Ich bin geflüchtet ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Selbst als sie schreit und schluchzt, hebt sie einen zitternden Finger und zeigt auf Tol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Meine Familie ... Ich hätte sie niemals … hätte sie niemals verlassen sollen." Sie bebt mit jedem lauten Schluchzen. "Sie werden mich nicht zurückkommen lassen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sie schüttelt den Kopf, aber du kannst nicht sagen, ob sie auf dich reagiert. "Es tut mir leid. Ich hätte nicht gehen sollen. Bitte! Lasst mich wieder zurückkommen!"
+
+Sie presst die Worte zwischen dem Schluchzen aus sich heraus. "Ich wollte dir nichts antun ... Ich will … Familie ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Es ist in Ordnung, Rhin. *Ich bin* jetzt deine Familie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ich helfe dir, sie zu finden, Rhin. Wir werden deine Familie zusammen finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Es ist nicht deine Schuld, Rhin. "Deine Familie hat *dich* verstoßen, erinnerst du dich? Sie kamen nie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Sie schaut dich zum ersten Mal an. "Du ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Sie schaut dich zum ersten Mal an. "Wir … werden wir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Sie schaut dich zum ersten Mal an. "Sie … taten es nicht?  Stimmt. Sie taten es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Sie verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>::schluchzt::</DefaultText>
+      <FemaleText>::schluchzt::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Komm mit mir mit. Wir werden die Geister stoppen und dem Albtraum ein Ende bereiten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Warte vorerst in der Stille. "Ich komme zu dir, wenn ich dich brauche."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Einverstanden. Ich warte ... in der Stille.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Oh. Bist du dir sicher?" Sie schaut auf die anderen hinter dir. "Du scheinst schon genügend Helfer zu haben. Ich glaube, da werde ich nur stören."
+
+Ihr Blick schweift in die Ferne, in die Richtung des Portals, das zurück zur Stille führt. "Da bist du hergekommen, richtig? Ich glaube, da fühle ich mich sicherer. Komm, wenn du mich brauchst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Sie nickt. "Gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Lass uns gehen."</DefaultText>
+      <FemaleText>"Gehen wir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Bis dann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ihr Mund bleibt offen und sie saugt alles in sich auf. "Dieser Ort ist … genial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Wie geht es dir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Sie schaut dich an. "Mir geht es okay. Ich fühle mich hier sicher, aber besser gehen würde es mir zurück in … draußen. In der Realität, denke ich. Ich hoffe, das ist bald alles vorbei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Hilf mir bitte noch einmal bei diesem letzten Kampf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Es ist fast vorbei. Mach's gut, Rhin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ja. Das mache ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Oh. Bist du sicher?" Sie schaut auf die anderen hinter dir. "Du scheinst schon genügend Helfer zu haben. Ich glaube, da störe ich nur. Ich fühle mich hier ohnehin sicherer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Tol ist jetzt weg, Rhin. Wie geht es dir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die Schatten beginnen zu schwinden. Sie schaut dich an, senkt die Arme und richtet sich auf. Sie blinzelt dreimal und schaut sich dann verwundert um.
+
+"Es ist der Schrottplatz," sagte sie. "Aber … nicht der Schrottplatz. Wo sind wir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"In meinem Verstand. Ich glaube, die Resonanzkammer hat dich hier irgendwie eingesperrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Das ist jetzt unwichtig. Wir sind zusammen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Das ist jetzt unwichtig. Ich habe noch mehr zu tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Ihre Schultern sacken zusammen. "Oh. Nun, was soll ich machen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Ihre Augen werden noch größer. "Das ist ... unheimlich. Und was jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Sie springt nach vorne und klammert ihre Arme um deine Taille. "Danke. Noch einmal."
+
+Sie drückt dich noch einmal und geht dann einen Schritt zurück und wischt sich eine letzte Träne aus dem Gesicht. "Und was jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Ihr Gesichtsausdruck ist ausdruckslos. "Richtig. Nun, was jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Nein, nein, nein, nein ..." Sie schüttelt ihren Kopf, Tränen fliegen in alle Richtungen. "Tu mir nicht weg. HÖR AUF, MIR WEHZUTUN!"
+
+Auch wenn sie dich scheinbar kaum wahrgenommen hat, hebt sie einen zitternden Finger und zeigt auf die Frau, die sie anzüglich angrinst. "Tol", schluchzt sie. "Aber bin geflohen. Ich bin geflohen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

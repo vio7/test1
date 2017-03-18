@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2621_levy_machine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese Maschine ist eine chaotische Mischung aus metallischen Tanks und Röhren. Neben ihr steht ein Arbeitstisch, auf dem sich Ersatzteile stapeln. Die Maschine ist durch verschiedene Kabel mit einem seltsam vertrauten Sarkophag und anderen Geräten verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Gerät steht vor dir, komplett ruhig, als würde es darauf warten, dass jemand in es eintritt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Maschine untersuchen.</DefaultText>
+      <FemaleText>Die Maschine untersuchen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Maschine erneut untersuchen.</DefaultText>
+      <FemaleText>Die Maschine erneut untersuchen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Wie sich herausstellt, gibt es nicht viel zu untersuchen. Jeder Zugriffspunkt der Maschine wurde sorgfältig versiegelt. Einige der Klappen sehen abgenutzt aus - vermutlich werden sie von den Priestern des Ordens für die Wartung der Maschine genutzt. Andere sind mit glänzenden, scheinbar unberührten Schlüssellöchern verziert und wurden von der täglichen Abnutzung verschont. 
+
+Als du mit deiner Hand über die Oberfläche der Maschine gleitest, spürst du die geisterhafte Hand einer Person, die es dir gleich tut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du stößt mit deinen Knöcheln gegen die Seite der Maschine, um sie zu testen. Das Geräusch des Aufpralls hallt wieder und wieder durch ihr leeres Inneres und wird schließlich von der unhörbaren Ewigkeit verschlungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Erinnerung verschlingt dich wie eine hungrige Bestie.
+
+Ein heißer Wind peitscht durch deine Roben. Rauer Sand geißelt deine Augen. Mit halb offenen Augen kannst du die Maschine sehen, sie liegt im Sand vergraben. 
+
+Deine Neugier treibt dich dazu, eine ihrer Platten abzuheben. In ihr befindet sich eine Sphäre, die wie ein Juwel leuchtet, aber sehr weich--
+
+Deine Lebensenergie entweicht in die Sphäre wie Blut aus einer Wunde. Sie stiehlt dir dein Leben! Knurrend revanchierst du dich an der Maschine, indem du ihr die Sphäre entreißt und sie mit eisigem Blick anstarrst ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Erinnerung gleiten durch dein Gedächtnis wie Spinnweben und reizen die Ecken deines Verstandes. Wenn du nach ihnen greifst, lösen sie sich in Staub auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Herauszufinden versuchen, warum die Maschine dir so bekannt vorkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Noch einmal herauszufinden versuchen, warum die Maschine dir so bekannt vorkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Teile auf dem Arbeitstisch dazu verwenden, eine Chiffre für Finzin und sein Levi herzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Ersatzteile auf dem Tisch durchwühlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du durchsuchst den Ersatzteilhaufen auf dem Arbeitstisch. Es sind nicht viele, und erst recht nicht viele Duplikate. Sie scheinen alle Ersatzteile für die Maschine zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Versuchen herauszufinden, wie die Maschine funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Noch einmal versuchen herauszufinden, wie die Maschine funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Nachdem du die Ersatzteile auf dem Tisch und die Maschine eine Weile lang untersucht hast, glaubst du, sie zu verstehen. Die meisten der Komponenten können dazu verwendet werden, die Lebensenergie eines Opfers zu kanalisieren oder zu fokussieren. Eines davon sollte, wenn du dich nicht irrst, dazu dienen, einem Opfer seine Lebensenergie zu entziehen. 
+
+Aber nicht eine der Komponenten scheint dazu gemacht zu sein, diese Energie auch zu speichern, nicht einmal für eine kurze Zeit. Außerdem kannst du keine doppelten Teile finden. Du hast also nur einen Versuch, um das Gerät zu bauen, das Finzins Levi benötigt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Mit gerunzelter Stirn tastest du jeden Zentimeter des Geräts ab, aber du kannst dir einfach keinen Reim auf seine Funktionsweise machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Das Ziel ist es selbstverständlich, Finzins Lebensenergie direkt in sein Levi zu kanalisieren, ohne Zwischenschritt. Du wirst keine so elegante Maschine erschaffen können wie die, die hier vor dir steht ... aber sie müsste funktionieren. Müsste. 
+
+Sehr sorgfältig setzt du die zerbrechlichen Teile zusammen, und mit einigem *Klick!* und *Knack!* folgst du dem Schema vor deinem geistigen Auge. 
+
+*Krack*. 
+
+Das war‘s. Es ist vollbracht. Finzin und sein Levi erwarten dich.
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Sehr sorgfältig setzt du die zerbrechlichen Teile zusammen, und mit einigem *Klick!* und *Knack!* folgst du dem wirren Schema vor deinem geistigen Auge. Unglücklicherweise überschätzt du die Robustheit einer der Komponenten, und sie zerbricht in deiner Hand.
+
+Du seufzt. Jemand im Orden dürfte noch immer dazu in der Lage sein, das Gerät zu erschaffen, das du brauchst, aber dieses hier wird - auch wenn es noch dazu in der Lage ist, Lebensenergie zu stehlen - für Finzin und sein Levi nutzlos sein.
+
+{LOOT: "A cool, life-draining cypher" (that doesn't work for the Tormented Levy quest).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Geräusche springen durch das hohle Innere der Maschine wie ein Stein, der einen unendlichen Brunnen herunterfällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Noch einmal auf die Seite der Maschine klopfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die Erinnerung verlässt dich ruckartig, und du findest dich keuchend vor der Maschine wieder ... und es ist nicht die verdorbene Monstrosität, die einer deiner Vorgänger in den Archopalaisischen Ruinen gefunden hat. 
+
+Du weißt aber, dass irgendwo in dieser Maschine jene Sphäre verschlossen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Die Maschine verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du kannst immer noch nicht sagen, wie die Maschine funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Egal wie sehr du es versuchst, du kannst dich einfach nicht erinnern.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

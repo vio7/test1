@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4111_anathema</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Verfluchung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Löse den Streit zwischen Kritzler und Ioxu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Rede mit Kritzler.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Rede mit Ioxu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ioxu überredet, aufzuhören</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Kultisten töteten Ioxu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Kultisten eingeschüchtert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Kultisten überredet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ioxus Experimente haben den Wut einiger Flor-Kultisten erregt, angeführt yon Kritzler. Du wurdest gebeten, die Situation zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich stolperte mitten in einen Streit zwischen Ioxu, einem Forscher, der anscheinend die Flor untersucht, und einer Gruppe von Flor-Kultisten, die seine Untersuchungen aufhalten wollen. Wenn ich das nicht so oder so lösen kann, wird es wahrscheinlich in Gewalt enden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Nun, dass die Experimente aufgehalten sine, solltest du Kritzler informieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Nun, da du mit Kritzler fertig bist, solltest du Ioxu informieren, dass er nicht mehr in Lebensgefahr steckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Du hast Ioxu überredet, seine Experimente zu beenden, und ihm wahrscheinlich das Leben gerettet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Die Kultisten nahmen die Situation in die eigene Hand und töteten Ioxu, weil du zu lange gebraucht hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Du hast die Kultisten eingeschüchtert, damit sie Ioxu in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Du hast die Kultisten überredet, dass die Flor mit Ioxu abhandelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Kritzler, scheinbarer Anführer der Flor-Kultisten, behauptet, dass Ioxus Untersuchungen irgendwie der Flor schaden. Er bat mich, Ioxu zu überreden, seine Experimente einzustellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ioxu sagt, dass die Flor-Kultisten ihn belästigen, und will, dass ich sie verjage.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Du hast Ioxu überredet, seine Experimente zu beenden, und ihm wahrscheinlich das Leben gerettet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Du hast die Kultisten eingeschüchtert, damit sie Ioxu in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Du hast die Kultisten überredet, dass die Flor mit Ioxu abhandelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Die Kultisten nahmen die Situation in die eigene Hand und töteten Ioxu, weil du zu lange gebraucht hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_artaglio</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Artaglio und seine Truppe blieben in den Cheirurgen-Fällen. Befreit von dem Verlangen des Schlunds wurde Artaglio ein heiterer, sogar freundlicher Mensch. Er trank weniger und erpresste weniger – auch wenn er natürlich weiterhin erpresste. Ein Mann muss schließlich von *irgendwas* leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Wenige Tage, nachdem er gehört hatte, dass der Letzte Verstoßene als neuer Memovira zurückgekehrt war, stattete Artaglio ihm einen Besuch ab, um ihm für seine Hilfe zu danken. Artaglio würde natürlich nie mehr unter einem Verstoßenen dienen, aber er konnte ihm versichern, dass aus den Cheirurgen-Fällen keine Schwierigkeiten drohten.</DefaultText>
+      <FemaleText>Wenige Tage, nachdem er gehört hatte, dass die Letzte Verstoßene als neue Memovira zurückgekehrt war, stattete Artaglio ihr einen Besuch ab, um ihr für ihre Hilfe zu danken. Artaglio würde natürlich nie mehr unter einem Verstoßenen dienen, aber er konnte ihr versichern, dass aus den Cheirurgen-Fällen keine Schwierigkeiten drohten.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Was von Artaglios Kriegsknechten übrig war verließ die Flor in Ungnade. Da sie nicht wussten, wo sie hinziehen sollten, gingen sie alle ihrer eigenen Wege. Jeder wollte vor seiner Vergangenheit davonlaufen. Jeder wurde bis an sein Lebensende von ihr verfolgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ranard, Artaglios Stellvertreter, führte die Tradition seines kommandierenden Offiziers fort, so gut er konnte. Artaglios Kriegsknechte schlugen sich auch ohne ihren Anführer in den Cheirurgen-Fällen durch und führten ein bescheidenes Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als sie hörten, dass der Letzte Verstoßene zurückgekehrt war - noch dazu als neuer Memovira - kamen sie, um ihre Dienste anzubieten. Sie hofften auf mehr Sold und Autorität. Sie bekamen beides.</DefaultText>
+      <FemaleText>Als sie hörten, dass die Letzte Verstoßene zurückgekehrt war - noch dazu als neue Memovira - kamen sie, um ihre Dienste anzubieten. Sie hofften auf mehr Sold und Autorität. Sie bekamen beides.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als sie hörten, dass der Letzte Verstoßene als niemand Geringeres als der neue Memovira zurückgekehrt war, wies Ranard seine Männer an, sich zu verschanzen. Sie errichteten eine Barriere am Eingang und stellten mehr Wachen auf, heuerten einige der früheren Wächter der Memovira auf, die nach der Zerstörung ihrer Festung geflohen waren.
+
+Die Kriegsknechte der Cheirurgen-Fälle waren dem neuen Memovira viele Jahre lang ein Dorn im Auge.</DefaultText>
+      <FemaleText>Als sie hörten, dass die Letzte Verstoßene als niemand Geringeres als die neue Memovira zurückgekehrt war, wies Ranard seine Männer an, sich zu verschanzen. Sie errichteten eine Barriere am Eingang und stellten mehr Wachen auf, heuerten einige der früheren Wächter der Memovira auf, die nach der Zerstörung ihrer Festung geflohen waren.
+
+Die Kriegsknechte der Cheirurgen-Fälle waren der neuen Memovira viele Jahre lang ein Dorn im Auge.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

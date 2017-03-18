@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3111_sealed_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Licht wogt und wirbelt im Inneren der geheimnisvollen Substanz, die diese Tür versiegelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das lichtdurchlässige Material berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das lichtdurchlässige Material erneut berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Am lichtdurchlässigen Material kratzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Erneut am lichtdurchlässigen Material kratzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Es ist überraschend warm. Deine Finger sinken ein wenig ein. Als du sie zurückziehst, bleibt ein matter Handabdruck in der glänzenden Wand zurück. Unter dem Glanz siehst du, dass was wie ein solides Ganzes aussah tatsächlich aus fingerbreiten Fasern besteht, ausgefranst und in unergründlichen organischen Mustern umeinander gewickelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Kaum hast du die Hand weggezogen, erzittert die Wand erneut und löscht deine Spuren aus.
+ 
+ {SOUND: Shaking a Christmas tree, baubles and all. :) }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Plötzlich erzittert die Wand wie ein Tier, das sich im Schlaf bewegt. Staub rieselt wie feiner Regen die Wand hinab, bis dein Handabdruck verschwunden ist und die Wand wieder genauso aussieht wie zuvor.
+ 
+ {SOUND: Shaking a Christmas tree, baubles and all. :) }</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Mit dem Fingernagel kratzt du vorsichtig an der Oberfläche des Materials. Kleine schuppengleiche Flocken schütteln sich von der Wand und fallen in einem glitzernden Strom zu Boden. Du fängst einige davon auf, doch sobald sie deine Haut berühren, verdampfen sie in winzigen, nach Ammoniak riechenden Bögen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du versuchst, die glitzernden Flocken mit verschiedenen Behältnissen einzufangen, doch du findest keines, in dem die Flocken nicht zerfallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Auf das lichtdurchlässige Material einschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du schlägst so hart du kannst auf die transparente Masse ein. Deine Hand trifft auf ein völlig unbewegliches Objekt. Dein Arm und deine Schulter kribbeln noch einige Minuten nach dem Schlag. Abgesehen von einigen langsam verblassenden Kratzern hast du keine Spuren in der Wand hinterlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Versuchen, eine Ecke des lichtdurchlässigen Materials vom Türrahmen zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Erneut versuchen, eine Ecke des lichtdurchlässigen Materials vom Türrahmen zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du fährst mit der Spitze eines Dolches geschickt zwischen das lichtdurchlässige Material und den Stein, der es umgibt. Mit der Waffe als Hebel löst du das durchsichtige Material vom Stein, bis du in den dahinterliegenden Raum sehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Du findest einen vielversprechenden Punkt, an dem du einen Dolch in den Spalt zwischen dem lichtdurchlässigen Material und dem dahinterliegenden Stein stecken kannst. Du vergrößerst den Spalt und einen Moment lang siehst du verworrene rote Ranken und trübes Sonnenlicht. Dann rutscht dir der Dolchgriff aus der Hand und die Waffe bohrt sich haarscharf neben deinem Fuß in den Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du wählst eine andere Stelle und setzt erneut den Dolch als Hebel ein. Das Ergebnis ist dasselbe wie zuvor. Allerdings kannst du diesmal zumindest deine Füße rechtzeitig in Sicherheit bringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du versuchst es erneut mit dem Dolch und wieder fällt er zu Boden. Mittlerweile ist das beinahe schon Routine für dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du spürst einen Luftzug aus dem Raum. Es riecht nach Sumpfgas und Anis. Der Raum liegt im Halbdunkel. Das durch den Sand getrübte Licht fällt auf einen Haufen heruntergestürzter Steine in der Mitte des Raumes. In den Ecken des Raumes, entlang der Wände und überall, wo es auch nur ein wenig Schatten gibt, wuchert eine dicke rötlich-lila Ranke über den Stein; einige Teile der Ranke stehen in den schattigeren Bereichen sogar frei mitten im Raum und sind offensichtlich robuster als man denken würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du kennst diese Ranken: Es sind dieselben, die die Lichtkugel hinter der Wand mit den Glyphen gehalten haben. Sie wirken wie im Winterschlaf. Vielleicht fehlt ihnen ein Teil, das beim Einsturz des Daches zerstört oder abgerissen wurde. Die frei stehenden Stiele enden in pulsierenden roten Spitzen, die im gedämpften Licht hell glitzern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Es ist offensichtlich, dass die Ranken so gewachsen sind, um dem Sonnenlicht vollständig auszuweichen. Die frei stehenden Stiele enden in pulsierenden roten Spitzen, deren Zweck sich dir nicht erschließt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Diese Ranken sind so gewachsen, um der Sonne auszuweichen. Jene hinter der Wand wurden jedoch vom Licht der Kugel genährt. Vielleicht hätte dieses Licht auch das Siegel hier zu Stein verhärtet, auch wenn du dir nicht erklären kannst, wie so etwas möglich ist. 
+ 
+ Leider ist immer noch unklar, was der Zweck dieses Raumes ist und ob er von derselben fremden Intelligenz stammt wie die Symbole an den Wänden der Nekropolis. Und aufgrund des immensen zeitlichen Abstands zwischen den Welten wird dies wohl auch immer ein Geheimnis bleiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Dieser Eingang ist mit einem unbekannten lichtdurchlässigen Material versiegelt. So wie das Licht darin wogt und wirbelt erweckt es den Anschein, dass es aus einem weichen und leicht klebrigen Material besteht. Licht und Schatten bilden auf der anderen Seite undefinierbare Formen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Das lichtdurchlässige Material bedeckt sofort wieder die Lücke, die du geöffnet. Außerdem verhärtet es sich, sodass du es nicht mehr aufbrechen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

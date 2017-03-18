@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_clock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>59</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fokus wählen: Spricht mit Silberzunge (Überzeugen, Einschüchtern und Führungsfähigkeiten).
+
+{SCRIPT: SC erhält den Fokus geschickte Zunge.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Diese komplexe Maschine ragt vor dir auf. Ihr Zweck ist unklar, doch die drei kreisförmigen Oberflächen, die im Boden stecken, erinnern dich an Uhren. Etwas an der Maschine ist jedoch merkwürdig. Sie ist teilweise durchsichtig und schimmert in der Luft, wenn du direkt auf sie blickst. Die Ziffernblätter zeigen gleichzeitig verschiedene Uhrzeiten an.
+
+Unter dem mittleren Ziffernblatt sind menschliche Silhouetten auszumachen. Eine Gestalt legt ihre Hand auf das Ziffernblatt, als wäre es eine Wand aus Glas. Sie scheinen dich zu beobachten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Maschine ist jetzt massiv. Jedes der drei Ziffernblätter zeigt eine eigene Uhrzeit an – obwohl keines von ihnen eine Maßeinheit anzeigt, die du begreifst.
+
+Du lehnst dich an das mittlere Ziffernblatt heran. Drei schattenhafte Gestalten lauern noch immer dahinter, ihre Züge sind nun beinahe auszumachen ...
+
+Plötzlich strömen die Gestalten aus der Uhr auf dich zu. Ein starker Druck erfasst deinen Kopf wie eine Stahlspitze. Dann wird alles schwarz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Die Maschine ist jetzt massiv. Ihre drei Ziffernblätter sind jeweils an einem einzelnen Punkt befestigt. Der Zweck der Uhr ist noch immer ein Rätsel, doch zumindest kannst du mit ihr interagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die komplexe Maschine schimmert in der Luft, wenn du direkt auf sie blickst. Die Ziffernblätter zeigen gleichzeitig verschiedene Uhrzeiten an.
+
+Schattenhafte Silhouetten beobachten dich aus dem mittleren Ziffernblatt heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Nach den schattenhaften Silhouetten greifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Erneut nach den schattenhaften Silhouetten greifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Deine Hand dringt direkt durch das Ziffernblatt, die Gestalten und die gesamte Konstruktion. Es ist, als sei die Maschine gar nicht da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Deine Hand gleitet wie zuvor durch sie hindurch. Du musst einen anderen Weg finden, um zu ihnen zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Maschine untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Maschine erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Als du deine Hand zurückziehst, erfasst dich eine Erinnerung so stark, als hätte dich jemand mit einer Keule auf die Brust geschlagen ...
+
+Du arbeitest an der Uhr. Sie ist nicht mehr durchsichtig, sondern absolut massiv.
+
+Hinter dir nimmst du Lärm wahr. Sie sind also gekommen, die drei Verräter. Sie glauben, dich zu überraschen, durch die Kräfte der Uhr hast du diesen Augenblick jedoch vorhergesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Nun, da du die Steuerungsvorrichtung repariert hast, ziehen Gezeitenenergien an deinem Körper und Geist. Du könntest die Maschine ganz einfach wieder in ihren vorherigen Zustand *drücken*, von der Zeit losgelöst. Hierdurch würden vermutlich auch die drei Geräte bei Circus Minor reaktiviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Indem du die Gezeitenenergien nutzt, die zwischen dir und der Maschine wirbeln, zwingst du die Maschine, sich zurückzusetzen, wodurch du sie aus der Gegenwart verbannst.
+
+Sofort erwachen die drei Steuerungsvorrichtungen zu neuem Leben, und die Sonne kehrt nach Circus Minor zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Von der Uhr zurück treten.</DefaultText>
+      <FemaleText>Von der Uhr zurück treten.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Der hoch aufragende Mechanismus schwankt in der Luft. Ähnlich wie Callistege scheint er sich in mehreren Zuständen gleichzeitig zu befinden, obwohl alle Zustände der Maschine sich an genau dem gleichen Ort befinden.
+
+Du kannst sie auch nicht berühren – deine Hand gleitet durch die Konstruktion hindurch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Die Maschine wackelt in der Luft und scheint sich in mehreren Zuständen gleichzeitig zu befinden. Der Anblick löst bei dir leichte Übelkeit aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Die Maschine brummt und tickt in einem gleichmäßigen, dröhnenden Rhythmus. Es ist definitiv eine Art Uhr, doch keine, die die Zeit derart misst, wie du sie verstehst. Die Gestalten, die unter dem mittleren Ziffernblatt zu erkennen waren, sind verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die massive Uhr tickt und dröhnt beharrlich weiter. Die Gestalten, die unter dem mittleren Ziffernblatt zu erkennen waren, sind nun verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Dränge die Maschine aus der Gegenwart und befreie Circus Minor von der fortwährenden Nacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Dränge die Maschine aus der Gegenwart und befreie Circus Minor von der fortwährenden Nacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Als die letzten Erinnerungsfetzen verblassen, durchdringt ein Wirbel aus Energie deinen Körper. Kalte Spitzen stechen in jeden Muskel. Plötzlich verbiegen sich die Gezeitenkräfte von der Uhr hin zu drei alten Geräten im Lager der Kultisten.
+
+Die Uhr hat etwas in dir erkannt – oder vielleicht umgekehrt. Wie auch immer, du hast versehentlich die umstehenden Geräte aktiviert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Als du dich der Uhr näherst, hält das Paar neben ihr in seinem Streit inne. Die kleine Frau wendet sich dir zu. Ihr Haar ist ungewöhnlich – eine helle, beinahe gelbe Farbe – und ihre hellen Augen beherrschen ihr schönes Gesicht. "Verzeiht, doch mein Kollege und ich führen gerade eine Diskussion, und-"
+
+Ihre Augen erblicken deine Tätowierung und ihr Atem stockt hörbar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Fokus wählen: Meistert Verteidigung (defensive Kampffähigkeiten).
+
+{SCRIPT: SC erhält den Fokus Meistert Verteidigung.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Fokus wählen: Atmet Schatten (Schleichen, Meucheln, Verwundbarkeiten finden und diesen Vorteil nutzen).
+
+{SCRIPT: SC erhält den Fokus Atmet Schatten.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Du stellst fest, dass die Gestalten von Kamose, Divitiacu und Vallon nicht mehr im mittleren Ziffernblatt zu sehen sind. Sie existieren nun nur noch in deinem Labyrinth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Man nimmt das geringste Geräusch von Metall wahr, das über Leder gleitet. Du schlägst mit der Hand auf einen Zeiger auf dem mittleren Ziffernblatt und aktivierst somit die arkanen Kräfte der Uhr. Du weißt nicht, was dadurch mit ihnen geschehen wird, doch es ist besser als das, was sie mit dir tun würden.
+
+Ein Blitz entlädt sich. Energiebögen dehnen sich aus der Uhr aus, über deine Schultern hinweg und auf deine Möchtegern-Angreifer. Du siehst nicht, was mit ihnen geschieht, doch sie verschwinden genauso schnell wie ihre Schreie.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

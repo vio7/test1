@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4111_the_transdimensional_scalpel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein Griff ohne Klinge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde eine Energiequelle für die Numenera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Füge die Numenera und ihre Energiequelle zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Du fandest einen fein angefertigen Griff in einer fleischigen Zyste. Das Gerät schein von technologischer Beschaffenheit zu sein, also gibt es womöglich einen Weg, die Klinge neu zu aktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Numenera scheint tot zu sein, und sie hat eine erkennbare Aushöhlung, die zur Zeit leer ist. Du vermutest, dass ihr eine Energiequelle irgendeiner Art fehlt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Es bleibt nur, die Numenera mit der Energiequelle, die du fandest, zu verbinden. Aber, da das extrem kompliziert ist, wirst du vielleicht Hilfe aufsuchen müssen, um das Gerät zusammenzufügen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Du hast das Transdimensionale Seziermesser zusammengefügt, das sich als sehr nützlich erweisen sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Zweites Ende, damit der Auftrag im Logbuch korrekterweise ausgraut, wenn er erledigt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

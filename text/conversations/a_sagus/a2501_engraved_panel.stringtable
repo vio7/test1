@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_engraved_panel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein gravierte Tafel aus Synth liegt flach auf dem Boden hinter der verstreuten Fracht. Erhaben gearbeitete Designs, die fast wie Hieroglyphen aussehen, kriechen über seine Oberfläche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Satsadas Stimme flüstert aus Riastrad. "Sieh her, wenn ich bitten darf. Man muss ein Muster in diesen Glyphen verfolgen. Zeuge."
+
+Riastrad kniet nieder und fährt mit einem Finger über die Linien, seine Bewegung ist zügig und fließend. Die Luke leuchtet unter seinem Finger auf, als er die Bewegung vollendet und erhebt sich ein wenig vom Boden. Das Muster scheint sich in deine Erinnerung zu *brennen*.
+
+"Du kannst jetzt die Luke öffnen und in die Grotte der letzten Worte hinabsteigen, wenn du willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das Muster zum Entriegeln schießt durch deinen Kopf und die Luke scheint als Antwort trübe zu blinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Öffne die Luke und steige in die Grotte der letzten Worte hinab.
+
+{SCRIPT: Please insert proper transition commands here}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>So sehr du dich auch bemühst, kannst du mit der Luke oder dem Entrieglungsmuster nichts anfangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Luke, durch die du in das Karawanserei kamst, hat sich nach dir wieder verriegelt.  Ihre Kanten sind eben mit dem Boden und du siehst keine Möglichkeit, sie aufzustemmen. Die erhaben gearbeiteten Designs auf seiner Synth-Oberfläche sind frei von Dreck. Ein stumpfes Licht strömt aus der Tafel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die geschlossene Luke scheint unverändert seit du sie zuletzt gesehen hattest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Lass die Luke in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Öffne die Luke und steige in die Grotte der letzten Worte hinab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[DEBUG: Scheiß drauf. Jetzt öffne einfach nur das verdammte Bedienfeld.]</DefaultText>
+      <FemaleText>[DEBUG: Scheiß drauf. Jetzt öffne einfach nur das verdammte Bedienfeld.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Script Nodus 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Stemme die Luke auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Berühre die Designs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du kannst keinen Ansatzpunkt für ein Werkzeug finden, um Erfolg zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Die Luke reagiert nicht auf deine Berührungen. Sie überträgt auch keiner Vibration.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_artaglio_soldier_entrance_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Zwei gelangweilt wirkende Soldaten in dreckigen Uniformen stehen in deinem Weg. Unter dem Schmutz kann man blaue und silberne Muster erkennen, aber nur gerade eben. Ihre Waffen dagegen sind sauber und gut gepflegt, und scheinen öfters im Einsatz gewesen zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Wachen tauschen kurze Blicke aus, dann sagt der erste mit unterdrücktem Grinsen: "Willkommen in den Cheirurgen-Fällen, unter dem Schutz von Artaglios Kriegsknechten. Bist du hier für einen unserer hervorragenden Mediziner? Das kostet dich nur zwö-" Plötzlich bricht er ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Keine Gebühr. Entschuldige bitte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Warum verlangst du keine Shin von mir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Was kannst du mir über diesen Ort sagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"In Ordnung. Lebewohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Seine Blick haftet auf deiner Tätowierung. "Es tut mir leid. Du musst mit unserem Hauptmann, Artaglio, sprechen."
+
+Er und sein Partner wenden sich ab. Sie vermeiden bewusst deinen Blick.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

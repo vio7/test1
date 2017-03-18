@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_fallen_to_earth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der tiefe Fall</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde einen Weg, die Resonanzkammer zu reparieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Repariere die Uhr in Circus Minor und inspiziere die Figuren, die darin eingesperrt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde einen Weg, aus dem Klafter zu entkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre zu Casmeen und Mimeon zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Casmeen und Mimeon zufriedengestellt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Wow, ein Endknoten ist zu einem weiteren Endknoten vorgesprungen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Wie durch ein Wunder habe ich einen Sturz aus mehreren Kilometern Höhe auf die Erde überlebt und finde mich jetzt in einer weiteren unerwarteten Lage wieder. Es gibt nur eine Möglichkeit, wie ich meinen unerbittlichen Verfolger, den Kummer, stoppen kann: Ich muss in die kristallene Resonanzkammer steigen und das Gerät aktivieren. Leider wurde die Resonanzkammer bei meinem Aufprall schwer beschädigt und muss erst repariert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die beiden, die mich gefunden haben, haben unterschiedliche Vorschläge, an wen ich mich wenden soll: Aligern sagt, ich solle mit den Kultisten des Wandelnden Gottes sprechen, während Callistege mir den Orden der Wahrheit nahelegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Casmeen und Mimeon, die örtlichen Anführer des Kultes des Wandelnden Gottes, könnten etwas über die Resonanzkammer wissen. Als Gegenleistung für ihr Wissen baten sie mich, die Identität der myteriösen Figuren festzustellen, die in der Uhr eingesperrt sind, ein Gerät, das vor langer Zeit vom Wandelnden Gott angefertigt wurde.Um die Sache weiter zu erschweren, scheint sie Uhr nicht in der Zeit festgemacht zu sein, also werde ich die Figuren nicht untersuchen können, bevor ich sie mit der Gegenwart neu ausgerichtet habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Die Figuren in der Uhr strömten in meinen Geist und haben einen neuen Klafter freigelegt (oder vielleicht auch geschaffen), in dem ich nun mit ihnen gefangen bin. Vielleicht finde ich einen Ausweg, wenn ich mit ihnen spreche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Die Figuren in der Uhr waren tatsächlich Spiegelbilder der drei Abgeworfenen Kamose, Diviaticu und Villon. Ich sollte zu Casmeen und Mimeon in ihrem Lager in Circus Minor zurückkehren und ihnen berichten, was ich erfahren habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Casmeen und Mimeon sagen, dass der Wandelnde Gott die Resonanzkammer mithilfe eines anderen Verstoßenen gebaut hat. Sie kennen seinen Namen nicht, vermuten aber, dass meine verstoßenen 'Geschwister' mir weiterhelfen könnten. Eine von ihnen ist gerade in der Stadt – eine weiße Assassine namens Matkina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe herausgefunden, dass die Kultisten des Wandelnden Gottes ihr Lager rund um eine große Uhr in Circus Minor aufgeschlagen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe herausgefunden, dass sich der Orden der Wahrheit am Regierungsplatz befindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Ich habe dem Obersten Vorarbeiter, einem alten Baumeister-Konstrukt, einen Kristall von der Resonanzkammer gezeigt. Er sagt, die Kristalle der Kammer seien lebendig und könnten nicht mit herkömmlichen Mitteln repariert werden. Im Orden der Wahrheit weiß man vielleicht mehr darüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe die Uhr wieder an die gegenwärtige Zeit angeglichen. Jetzt kann ich mit dem großen Ziffernblatt interagieren und die darin gefangenen Figuren untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Meine Versuche, die Uhr zu "reparieren", hatten nicht ganz die erwünschte Wirkung. Circus Minor ist nun in einer seltsamen Zeitblase eingeschlossen, in der es stets Nacht ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Als ich versuchte, mit der Uhr zu interagieren, strömten Gezeitenkräfte aus meinem Körper hervor und haben mehrere Apparate in der Nähe zum Leben erweckt. Sie könnten mir bei der Reparatur der Uhr helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Salimeri, eine alte Freundin des Wandelnden Gottes, sagte mir, dass ein anderer Abgeworfener meinem Erzeuger beim Bau der Resonanzkammer geholfen hat. Sie hat schlug vor, dass ich den Kult des Wandelnden Gottes danach befragen sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x1011_creature_machine_silver_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Impulse aus purpurfarbenem Licht blinken innerhalb des fehlfunktionierenden Geräts. Du musst es reparieren, bevor du dich auf die Kreatur im beistehenden Tank einstimmen kannst.</DefaultText>
+      <FemaleText>Impulse aus purpurfarbenem Licht blinken innerhalb des fehlfunktionierenden Geräts. Du musst es reparieren, bevor du dich auf die Kreatur im beistehenden Tank einstimmen kannst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du hast die Kummerscherbe aus dieser Maschine gezwungen. Es dürfte dir nun möglich sein, eine Verbindung zum Geist der Kreatur in der Nähe herzustellen.</DefaultText>
+      <FemaleText>Du hast die Kummerscherbe aus dieser Maschine gezwungen. Es dürfte dir nun möglich sein, eine Verbindung zum Geist der Kreatur in der Nähe herzustellen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Kummerscherbe hat damit aufgehört, dieses Gerät zu manipulieren, um dich und deinen Verbündeten zu verfolgen. Du musst es nicht reparieren.</DefaultText>
+      <FemaleText>Die Kummerscherbe hat damit aufgehört, dieses Gerät zu manipulieren, um dich und deinen Verbündeten zu verfolgen. Du musst es nicht reparieren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ein beruhigendes Glühen pulsiert wie ein Herzschlag hinter der rotierenden Silberscheibe an der Vorderseite dieser Maschine.</DefaultText>
+      <FemaleText>Ein beruhigendes Glühen pulsiert wie ein Herzschlag hinter der rotierenden Silberscheibe an der Vorderseite dieser Maschine.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

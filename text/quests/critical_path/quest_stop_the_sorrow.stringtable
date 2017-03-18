@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\quest_stop_the_sorrow</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Halte den Kummer auf</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Aktiviere die Resonanzkammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Repariere die Resonanzkammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der Kummer trachtet danach, mich völlig zu zerstören. Ich muss einen Weg finden, ihn aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich muss die Resonanzkammer finden - ein durchsichtiger Sarkophag in einer kristallinen Kuppel - und ihn aktivieren, um genug Energie zu bekommen, um den Kummer aufzuhalten, mich ewig zu jagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich wachte neben der Resonanzkammer auf, aber es war zerstört als ich auf dem Boden traf. Ich muss einen Weg finden, sie zu reparieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

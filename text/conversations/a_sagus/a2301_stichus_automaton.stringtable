@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_stichus_automaton</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der belebte Kadaver des Stichus, den du ausgegraben hast, türmt sich vor dir auf und wartet auf deine Befehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der reanimierte Stichus erwartet deine Befehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Untersuche den Automaton.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Untersuche den Automaton erneut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Es ist nicht schwer, die Ergänzungen zu sehen, die die Arbeiter des Meisters hier vorgenommen haben. Schillerndes Metall füllt seine Wunden und die verstümmelte Klaue wurde durch eine mechanische ersetzt. Spiralen gerippter Kabel treten aus verschiedenen Stellen hervor, ehe sie in den Brustkorb führen. 
+
+Einige seiner Augen wurden auch verändert. Schwache, glühende Lichter blinken in den ansonsten leeren Augenhöhlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dumpfes Licht scheint auf die metallische Regenbogen-Oberfläche, die die Wunden der Kreatur bedeckt, und auf die Kabel, die sie verbinden. Du bist dir nicht sicher, was die Arbeiter des Meisters mit dem Stichus gemacht haben, aber du kannst nicht leugnen, dass es funktioniert hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Bring mich an den Felsvorsprung in Klippenrand."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich will, dass du einen Tunnel gräbst, um mich woanders hinzubringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ein pendelndes Klicken, das hinter den blinzelnden Augen der Kreatur ertönt, ist die einzige Antwort. Du spürst, dass er darauf wartet, dass du ihm ein Ziel nennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du hörst ein leichtes, zartes Klicken, das hinter den flimmernden Augen der Kreatur ertönt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Bring mich zur Grotte der letzten Worte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vergiss es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Das Klicken hinter den Augen der Kreatur verstummt. Sie betrachtet dich weiterhin teilnahmslos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Winke mit der Hand vor den Augen der Kreatur, um zu sehen, ob es eine Reaktion gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Winke erneut mit der Hand vor den Augen der Kreatur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Die Pupillen des Dings leuchten heller, sobald deine Hand sie passiert, doch dabei bleibt es.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ihre Augen leuchten wie ferne Kohlen, doch die Kreatur antwortet nicht anderweitig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Ch'kekts belebter Kadaver türmt sich über Euch auf, geruchlos und lautlos, und wartet auf Eure Befehle.
+{GAVIN: füge das wieder hinzu, wenn Ch'kekt umgewandelt werden kann.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Es ist nicht schwer, die Ergänzungen zu sehen, die die Arbeiter des Meisters hier vorgenommen haben. Schillerndes Metall füllt seine Wunden aus Eurem Kampf mit der Kreatur. Spiralen gerippter Kabel treten aus verschiedenen Wunden hervor, ehe sie in den Brustkorb führen. 
+
+Ihr mustert Ch'kekts Gesicht. Einige seiner Augen wurden ausgestochen und durch blinkende Lichter ersetzt.
+{GAVIN: füge das wieder hinzu, wenn Ch'kekt umgewandelt werden kann.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Eine kurzer Anflug von unbeschreiblicher Bosheit überkommt das Gesicht des Dings. Es erinnert sich an Euch und an das, was Ihr ihm angetan habt. Es *hasst* Euch ... aber es kann Eure Befehle nicht verweigern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Lass den Automaton in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Fang einfach an, in eine zufällige Richtung zu graben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Der Automaton biegt seine Klauen, doch er antwortet nicht. Er bewegt sich auch nicht.
+
+Wie es scheint, musst du ihm einen bestimmten Zielort nennen, der aus dem Untergrund heraus zu erreichen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Es gibt einen verstoßenen Stichus in der Deponie hinter dem Fünften Auge. Ich will, dass du einen Tunnel gräbst und ihn sicher hierher zurückbringst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Der Automaton betrachtet dich einen langen Moment lang. Seine mechanischen Augenhöhlen zucken in einer Kaskade auf und ab, als könne er nicht ganz verstehe, was du von ihm verlangst. Schließlich dreht er sich um und gräbt sich in den Fels ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Kurz darauf erscheint der Automaton wieder, und der verstoßene Stichus folgt dicht hinter ihm. Die kleinere Kreatur krabbelt so schnell wie möglich einen kurzen Weg den Tunnel hinab, am Automaton vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Bring mich zum Versteck der Sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Bring mich zurück zum Versteck der Sticha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Bring mich in das Heiligtum des Wandelnden Gottes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Bring mich zurück in das Heiligtum des Wandelnden Gottes."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

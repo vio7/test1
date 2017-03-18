@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_zerian</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Jack starrt dich mit toten Augen an, vollkommen verloren in der Illusion, dass er die Endlose Schlacht führt, und dass *du* der Feind bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Er sieht dich an, ohne Anzeichen von Wiedererkennung oder Emotion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Follow-up PQ. 3</DefaultText>
+      <FemaleText>Follow-up PQ. 3</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erinnere Zerian daran, wie er dir in Memoviras Festung half.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Erinnere Zerian noch einmal daran, wie er dir in Memoviras Festung half.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Follow-up PQ. 6</DefaultText>
+      <FemaleText>Follow-up PQ. 6</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Das ist eine Illusion, Zerian. Frag die Toten, wenn du mir nicht glauben willst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Versuch es, Zerian. Frag die Toten, ob das real ist oder nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Geh weg von ihm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Keine Sorge. Ich bin auf deiner Seite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Benutze die Gezeiten, um Zerian von der Illusion zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Er schaut dich erneut an, dieses Mal sind seine Augen klar. "Es ist nicht ... real."
+
+Er nickt einmal. "Ich werde dir helfen. Was immer du brauchst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Er schüttelt den Kopf. "Das Einzige, das nicht so zu sein scheint, wie es ist, bist *du*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Er runzelt die Stirn. Dann rollen seine Augen für einen Moment nach hinten. Er stöhnt, als hätte er Schmerzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Er grinst und sagt: "Nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er schaut dich seltsam an und neigt den Kopf zur Seite. "Interessant", sagt er noch, bevor er in einen anderen Teil des Labyrinths verschwindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Schlag ihm aufs Kinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Sein Kopf wird so stark nach hinten gestoßen, dass man meinen könnte, du hättest ihm den Hals gebrochen. Langsam kommt richtet er seinen Kopf wieder hoch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Er duckt sich unter deinem Schlag hindurch. Dann winkt er mit einem Finger und schnalzt mit der Zunge. "Halte mich einmal zum Narren ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Enorme Kräfte treffen ihn und lassen ihn rückwärts taumeln. Dann blinzelt er.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom_crisis\c4401_inkpot</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Der Große Verschlinger hat uns zum Herzen gerufen!" Du erkennst die schrille Stimme als die des Flor-Kultisten Kritzler. "Ein Eindringling und Schänder *quält* unsere Gottheit. *Bestrafen* wir ihn, Brüder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Der Große Verschlinger hat uns zum Herzen gerufen!" Die hohe Stimme, die du hörst, klingt fast wie ein Kreischen. "Ein Eindringling und Schänder *quält* unsere Gottheit. *Bestrafen* wir ihn, Brüder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Eine transdimensionale Spalte öffnet sich, und einige Menschen stolpern heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Tod dem Lästerer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Wie kannst du es wagen, diesen Ort zu betreten?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich werde deinen Tod in die Schriften aufnehmen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Du sollst in Fleisch ersticken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Für unsere Gottheit bist du weniger als ein Darmwind!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Friss uns, Großer Verschlinger! Friss uns alle auf!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

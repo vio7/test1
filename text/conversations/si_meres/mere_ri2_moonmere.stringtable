@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_ri2_moonmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>219</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Weit unter dir dreht sich eine Welt um ihre eigene Achse. Ein scharlachroter Sonnenuntergang flammt am Horizont. Im Osten fallen tiefe indigoblaue Schatten über die Welt und hüllen sie in Dunkelheit. Der schwache Schimmer eines Kraftfelds verzerrt deine Sicht und die Abluft der Station fühlt sich warm und feucht auf deiner Haut an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Du bist in einem großen Saal, der mehr organisch gewachsen als gebaut wirkt. Maschinen wachsen buchstäblich aus Boden und Wänden und es gibt keinen sichtbaren Übergang zwischen dem synthetischen Metall und den Substraten, aus denen sie emporragen. Obwohl es hier feucht ist, fühlt sich die Luft in dem Raum sauber und frisch an – gesund und lebendig. Vielversprechend.
+
+Eine holografische Karte des Mondes schwebt an der hinteren Wand neben einer kleinen, leuchtenden Kapsel.
+
+Eine Stimme spricht wie aus der Luft. {This is the Specter's voice, but more formal than the friendly version the player meets in the Calm.}"Bist du sicher, dass diese Prozedur dir die endgültige Kontrolle über die Verstoßenen geben wird? Wenn du dich irrst, könnte die Kammer versagen – oder schlimmer noch, mit dir in ihr explodieren."
+
+Die Stimme kommt dir bekannt vor, auch wenn dir das Gesicht dazu nicht einfällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Wo bist du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Wovon redest du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Natürlich bin ich mir sicher! Also los!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Wenn da unten etwas passieren sollte, signalisiere ich dir, zum nächsten Gefäß zu wechseln. Und wenn du nicht rechtzeitig rauskommst... hast du immer noch mich. Gelobt sei die Redundanz. Und nun mach es dir in der Kapsel bequem und wir stellen sicher, dass dieser Körper für uns funktioniert."
+
+Du weißt jetzt, woher die Stimme kommt: Von dem Stab in deinen Händen, in dessen Kopf du eine geisterhaft leuchtende menschliche Gestalt sehen kannst.
+
+Und damit hast du das Gesicht zu der Stimme und weißt, woher du sie kennst: Die geisterhafte blaue Figur ist niemand anderes als der Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Wenn da unten etwas passieren sollte, signalisiere ich dir, zum nächsten Gefäß zu wechseln. Und wenn du nicht rechtzeitig rauskommst... hast du immer noch mich. Gelobt sei die Redundanz. Und nun mach es dir in der Kapsel bequem und wir stellen sicher, dass dieser Körper für uns funktioniert."
+
+Du weißt jetzt, woher die Stimme kommt: Von dem Stab in deinen Händen. Du siehst ihn dir genauer an und erkennst eine leuchtende, geisterhafte Gestalt – der holografische Berater aus dem anderen Lebensbild.
+
+Nein... dieser Berater sieht anders aus. Augmentiert. Er hat die geisterhafte, blau-dunstige Gestalt des Geistes. Es *ist* der Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"An deiner Seite, wie immer. Ich beobachte. Protokolliere. Die Resonanzkammer ist in Sagus bereit. Wir müssen nur sicherstellen, dass dieser Körper als Katalysator taugt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Du hast mich die Berechnung durchführen lassen, schon vergessen? Ich sagte dir, dass es eine geringe Wahrscheinlichkeit gibt, dass die Kammer mit dir in ihr explodieren könnte, obwohl die Chancen dafür verschwindend gering sind... also wirklich. Das war doch erst gestern. Mir ist klar, dass du eine Menge um die Ohren hast, aber wir müssen konzentriert bleiben. Wir arbeiten bereits seit Jahren an dieser Sache. Seit Jahrhunderten. Die Resonanzkammer ist in Sagus bereit. Wir müssen nur sicherstellen, dass dieser Körper als Katalysator taugt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Kein Grund zur Aufregung. Hast du vergessen, wen du vor dir hast? Beruhigen wir uns beide wieder. Ich weiß, dass das nicht leicht ist, aber wenn es funktioniert... haben wir den Kummer endgültig besiegt."
+
+"Mir ist klar, dass du eine Menge um die Ohren hast, aber wir müssen konzentriert bleiben. Wir arbeiten bereits seit Jahren an dieser Sache. Seit Jahrhunderten. Die Resonanzkammer ist in Sagus bereit. Wir müssen nur sicherstellen, dass dieser Körper als Katalysator taugt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Ich kenne dich!"
+
+{ADAM: I included the "I'm not TCG" branch here. We can delete it if necessary, but it does feel like a thing players would want to say}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Sag mir noch mal, wie der Prozess funktioniert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ich möchte noch mal über den Prozess sprechen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>In die leuchtende Kapsel steigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Das will ich hoffen, nachdem du mich vor weniger als einer Woche von deinem eigenen Geist kopiert hast. Leg dich jetzt in die Kammer und ... wie fühlst du dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Wir führen die letzten Tests mit diesem Körper durch. Vollständige Scans, Untersuchungen, Gezeitenanpassung, falls nötig. Wir stellen sicher, dass sämtliche Parameter im Toleranzbereich liegen. Mach es dir in der Kapsel bequem und ich erledige den Rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Du siehst dich ein letztes Mal in dem großen Saal um, wobei dein Blick kurz auf der Karte der Station hängenbleibt. Dann gehst du zu einer kleinen Kammer neben einem weiten Flur. Daneben steht ein deaktiviertes und halb zerlegtes Konstrukt. Seine Hand ist ausgestreckt als würde es dir etwas anbieten.
+
+Neben dem großen externen Bedienpanel schwebt stumm eine Reihe schwammiger scharlachroter Scheiben, die dich an überdimensionierte Blutplättchen oder gerinnenden Schorf über einer Wunde erinnern.
+
+Du holst tief Luft und steigst in die Kapsel. Der Stab in deiner Hand vibriert leicht und du spürst, wie du in Energien gebadet wirst. "Kein Grund zur Aufregung. Das ist alles innerhalb der normalen Parameter."
+
+Die folgende kleine Explosion ist es dagegen bestimmt nicht. Plötzlich ertönen Sirenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Die Plättchen in deiner Nähe vibrieren wie verrückt und der Arm des deaktivierten Konstrukts beginnt, Funken zu sprühen.
+
+"Raus! Der Kummer wird dich vernichten!"
+
+Dein Todfeind erscheint in dem großen Saal. Seine Form ist zunächst noch vage und durchsichtig, doch stoßweise gewinnt er an Festigkeit. Die internen Verteidigungsmechanismen des Mondes halten ihn ein wenig auf, aber sie werden ihn nicht dauerhaft draußen halten können. Vor deinen Augen windet sich der Kummer durch eine weitere Verteidigungslinie und wird zuckend immer realer und schrecklicher.
+
+Sein Fokus richtet sich auf dich. Er windet und krümmt sich im brennenden Verlangen, dich zu vernichten.
+
+"Flieh in einen anderen Körper! Wir können immer einen neuen Katalysator bauen. Los!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Wie entfliehe ich diesem Körper?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Deinem Körper entfliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Auf der anderen Seite der Station. Lass diesen Körper einfach fallen und hau lauf. Dieser Verstoßene wird kein Leben haben. Schade, aber – flute deinen Geist dort hinein!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Du bleibst stehen und konzentrierst dich. Versuchst, dich von den Gezeiten tragen zu lassen, ein williges Gefäß zu finden. Doch da ist nichts als Leere und die drohende Vergessenheit.
+
+"Neue Lage. Du musst fliehen. Der Kummer hat deinen Kandidaten Nummer eins zerstört und die anderen sind noch nicht ber... Oh Skist! Die anderen sind auch hinüber. Der Kummer hat alle Körper zerstört, die du hattest."
+
+Der Geist spricht so gefasst und professionell, dass du die Panik in seiner Stimme beinahe überhören könntest.
+
+"In den Fluchtkokon. Sofort. Der Mond ist verloren. Nimm mit, was du kannst, aber *beeil dich*, oder du bist verloren. Lauf. *Jetzt.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Die Karte studieren, um den Weg zu den Rettungskapseln zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Es ist eine Projektion mit mehreren Ebenen. Ausrichtung und Grundriss kommen deinen Sehgewohnheiten entgegen und du kannst den Weg zum nächsten Rettungskokon ohne Probleme nachzeichnen. Du wirst dir den Grundriss der Korridore einprägen müssen, aber die Karte ist so eindeutig, dass du dir den Weg gut merken können solltest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Die Karte ist eine seltsam ausgerichtete Projektion mit mehreren Ebenen. Deine Augen brauchen einen Moment, um zu begreifen, was sie sehen, doch als dir der logische Aufbau der Karte klar wird, kannst du sie auch lesen. Du zeichnest angestrengt den Weg zur nächsten Rettungskapsel nach. Du wirst dir den Grundriss der Korridore einprägen müssen, doch nachdem du nun die Logik der Karte verstanden hast, ist sie eindeutig genug, dass du dir den Weg gut merken können solltest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Haben wir irgendetwas, um den Kummer zu stoppen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Der Geist lacht – ein halbes Schluchzen. "Stoppen? Nein. Aufhalten? Vielleicht. Sieh dich um. Ich versuche, ihn so gut es geht mit den Verteidigungsanlagen der Station zu beschäftigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>In den Erinnerungen deines neuen Körpers wühlen und sehen, ob er Fähigkeiten hat, die hilfreich sein könnten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Versuchen, eines der vibrierenden Plättchen abzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Das Konstrukt untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Dies ist *dein* Körper. Du kannst seine verborgenen Fähigkeiten mit einem Gedanken aufrufen und sie werden dir so selbstverständlich von der Hand gehen wie Atmen oder Gehen.
+
+In den anderen Lebensbildern, in die du eingetaucht bist, haben die Gezeiten dich eingeschränkt und zurückgehalten. Dich beherrscht. Hier, in deinem eigenen Körper, beherrscht du sie. Du kannst sie rufen... vielleicht sogar mit ihnen den Kummer aufhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Der Geist, der vor dir hier existierte, war verworren in seinen Gedanken, ein Labyrinth der Möglichkeiten und Erfahrungen. Seine Denkprozesse sind undurchsichtig für dich, doch als du innehältst, tief durchatmest und dich konzentriert, kommt dir die Antwort.
+
+In den anderen Lebensbildern, in die du eingetaucht bist, haben die Gezeiten dich eingeschränkt und zurückgehalten. Dich beherrscht. Hier, in deinem eigenen Körper, beherrscht du sie. Du kannst sie rufen... vielleicht sogar mit ihnen den Kummer aufhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Du greifst nach einer der Scheiben. Deine Finger versinken in ihrem schwammigen Material und mit einer leichten Drehung des Handgelenks entfernst du die Scheibe von der Energiesäule, an der sie festgemacht war. 
+
+Die Scheibe summt und wechselt Zyklen in einer Tonhöhe, die dir Tränen in die Augen treibt. Mit jedem Zyklus verändert die Scheibe deine Wahrnehmung und die Farben, die du wahrnimmst. Wenn du sie in Händen hältst, schäumen die Gezeiten in dir hoch. Sie könnte auch eine Wirkung auf den Kummer haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Du greifst nach einer der Scheiben. Deine Finger sinken ein wenig in ihr schwammiges Material ein, doch die Energie hält sie fest an der Säule. Du ziehst und rüttelst an der Scheibe, doch sie kommt nicht frei. Zu guter Letzt drehst du dein Handgelenk und sie löst sich zitternd von ihrer Säule.
+
+Die Scheibe summt und wechselt Zyklen in einer Tonhöhe, die dir Tränen in die Augen treibt. Mit jedem Zyklus verändert die Scheibe deine Wahrnehmung und die Farben, die du wahrnimmst. Wenn du sie in Händen hältst, schäumen die Gezeiten in dir hoch. Sie könnte auch eine Wirkung auf den Kummer haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Das Konstrukt selbst ist völlig kaputt, doch eine schnelle Untersuchung verrät dir, dass jede seiner Gliedmaßen für den unabhängigen Betrieb konstruiert wurde. Das bedeutet, dass auch wenn der Großteil des Konstrukts deaktiviert ist, seine mit Dornen besetzte Hand noch Energie hat.
+
+Du trennst die Hand rasch vom Rest des Konstrukts. Sie wird einen brauchbaren Fehdehandschuh abgeben. Die Energie, die sie durchfließt, könnte den Vormarsch des Kummers verlangsamen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Das Konstrukt selbst ist völlig kaputt, doch eine schnelle Untersuchung verrät dir, dass jede seiner Gliedmaßen für den unabhängigen Betrieb konstruiert wurde. Das bedeutet, dass auch wenn der Großteil des Konstrukts deaktiviert ist, seine mit Dornen besetzte Hand noch Energie hat.
+
+Sie ist jedoch alles andere als leicht abzunehmen. Du musst langsam und gründlich vorgehen, um die Hand schließlich vom Gehäuse zu lösen. Sie wird einen brauchbaren Fehdehandschuh abgeben. Die Energie, die sie durchfließt, könnte den Vormarsch des Kummers verlangsamen – was auch dringend nötig wäre, wenn du bedenkst, wie lange du gebraucht hast, um sie zu bekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Den Flur entlanglaufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Du fühlst den Mond erbeben. Dann fühlst du, wie er auseinandergerissen wird. Die Sirenen in der großen Halle heulen monoton. Die Lichter flackern. Plötzlich spürst du die feuchte Luft des Mondes an dir vorbeirauschen – der Kummer ist durch die Mauern gebrochen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Du läufst durch die feuchte Mondluft den weiten Korridor entlang. Du hörst die Verteidigungsmechanismen des Mondes gegen den Kummer kämpfen... und verlieren. Stück für Stück wird die Station zermürbt und der endgültige Sieg deines Feindes scheint gewiss. Du hast einen kleinen Vorsprung vor ihm, aber du weißt nicht, wie lange er reichen wird.
+
+Du läufst noch schneller. Du hast keine Sekunde Zeit zu verlieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Du läufst durch die feuchte Mondluft den weiten Korridor entlang. In der großen Halle hinter dir heulen die Maschinen in einem unerträglichen Ton. Du spürst einen Luftzug, als der Kummer ein Stück der Hülle der Station aufreißt. Du läufst noch schneller. Du weißt nicht, wie viel Zeit du noch hast. Der Kummer kommt, und er will dich vernichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Als du den Korridor erreichst, macht sich der Kummer über die Außenhaut des Mondes her und reißt ein großes Stück heraus. Die feuchte Luft des Mondes rauscht kreischend an dir vorbei, als sie in den Weltraum gesaugt wird.
+
+Die Verteidigungsmechanismen der Station sind nun bereits fast völlig zerstört. Sie flackern und schwirren um die Gestalt des Kummers herum, doch sie können ihn nicht mehr aufhalten. Er ist hier, in seiner ganzen furchtbaren Pracht, und er will dich vernichten.
+
+Du hast keine Wahl. Du musst fliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Der Korridor verzweigt sich in unzählige kleinere Gänge, die sich durch das Innere des Mondes winden. Du weißt, dass einer davon zu deiner Rettungskapsel führt, doch die Korridore sehen alle gleich aus und du nicht die Zeit, um stehenzubleiben und die Schilder zu lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Gut, dass du die Karte studiert hast. Dank ihr findest du dich hier gut zurecht. Du zählst die Korridore und jede markante Stelle ist genau da, wo sie sein soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Du nimmst eine falsche Abzweigung, und dann noch eine. Schließlich findest du den richtigen Weg wieder, doch du hast wertvolle Zeit verloren. Du verschwendest die letzten Augenblicke deines Lebens damit, durch Korridore auf einem Mond über der Erde zu irren. Als du deinen Weg bis zur richtigen Abzweigung wieder zurückgehst, wird dir mit jedem Schritt deine Sterblichkeit immer schmerzhafter bewusst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Als du durch die Korridore hetzt, siehst du einen kleinen Schlitz in der Wand. Darin ist ein festes grünes Gel eingelassen und du *weißt*, dass sich darin irgendeine Erinnerung befindet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Versuchen, dich zu erinnern, wie der Stab funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Du untersuchst den Stab und es fühlt sich an, als würdest du nach Hause kommen. Er ist ein alter Freund und treuer Verbündeter. Er ist ein Eckpfeiler dieses Mondes, der Schlüssel zu jedem Schloss hier. Du weißt, dass du mit ihm die Verteidiger der Station gegen äußere Bedrohungen aktivieren kannst... und dass er wöchentlich eine Kopie deines Geistes erstellt, die als Sicherheitskopie und als Vertrauter dient, als ein Bewusstsein, dass dir ganz selbstverständlich zur Seite steht.
+
+Wenn er spricht, spricht er mit der Stimme des Geistes, und wenn sich sein Bewusstsein manifestieren muss, kann es eine geisterhafte Abbildung des 'originalen' Körpers des Wandelnden Gottes projizieren.
+
+Wenn du ihn in der Hand hältst, fühlst du dich sicher. Dann hast du dein Schicksal selbst in der Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Der Stab ist dir vertraut und gibt dir Sicherheit. Auch wenn du dich nicht an alle seine Funktionen erinnern kannst, weißt du zumindest, dass er wöchentlich eine Kopie deines Geistes erstellt und die Stimme und das Gesicht des ursprünglichen Wandelnden Gottes projizieren kann – eine Erinnerung daran, wie er einst aussah. 
+
+Er ist dir Verbündeter und Vertrauter, wie ein lange vermisster Freund, und er ist auf eine Weise mit diesem Mond verbunden, die du nicht ganz verstehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Weiterlaufen. Du musst zu den Rettungskapseln gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Du drückst deine Stirn in das Gel. Deine Haut saugt es auf und zurück bleibt eine trockene, viridiangrüne Paste.
+
+... du baust den Stab, den du in der Hand hältst. Der Geist spricht über deine Schulter zu dir. "Seltsam, nicht wahr? Zu wissen, dass ich dir dabei zusehe, wie du mein Zuhause konstruierst, dass ich in einer Woche mit deinen neuesten Erfahrungen aktualisiert werde, dass mein Bewusstsein diesen Mond erfüllen wird, und damit auch du, in einer ungebrochenen und unendlichen Abfolge." 
+
+Du sagst: "Ich mache mir keine Illusionen über die Unantastbarkeit des Geistes. Aber das weißt du ja bereits. "
+
+Er lacht laut auf. "Wer das hört, könnte uns noch für einen Solipisten halten."
+
+Du lächelst. "Wir wurden schon schlimmeres genannt."
+
+... die Erinnerung verblasst.
+
+{ADAM: Do you want a flag for this somewhere?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Als du die Paste von deiner Stirn wischst, spürst du, wie sich die Realität um dich herum krümmt und verzerrt. Finger weißglühenden Rauchs dringen in den Korridor und der Kummer reitet auf einer aufbrandenden Welle zerstörerischer Energie in den Flur ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Versuchen, herauszufinden, wie das grüne Erinnerungsgel funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Den Stab benutzen, um die Verteidigungsmechanismen in dem Korridor zu aktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Versuchen, den Kummer mit den Gezeiten zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Das Plättchen, das du von der Energiesäule abgerissen hast, verwenden, um den Kummer aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Den Fehdehandschuh benutzen, den du dem Konstrukt abgenommen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Laufen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Der Kummer ist zu nahe. Er streckt seine Ausläufer aus und sie drücken deine Arme an deine Seite. Du strampelst vergeblich, als er dich an sich heranzieht wie eine Mutter ihr Baby an ihre Brust.
+
+Eine große Müdigkeit überkommt dich, als er dich berührt. Du spürst keinen Schmerz und keine Furcht mehr und das Licht verschwindet aus der Welt. 
+
+Das Letzte, was du hörst, ist wie der Mond um dich herum implodiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Eine Energiewand manifestiert sich flimmernd. Doch eine sich schlängelnde Ranke aus Rauch fährt über die Wand, verfestigt sich lodernd und der Schutzmechanismus ist so vollständig verschwunden, als wäre sie nie da gewesen.
+
+Langsam gleitet der Kummer durch den Korridor. Er hat keine Eile – als wüsste er, dass er alle Zeit der Welt hat. Während deine fast abgelaufen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Du fokussierst deinen Geist und die Gezeiten erheben sich auf dein Kommando, als hätte sie die Nähe des Kummers noch zusätzlich verstärkt. Sie fluten aus dir heraus, so hell und stark, dass du sie beinahe sehen kannst.
+
+Sie prallen mit voller Wucht gegen den Kummer. Ihre Energie spritzt wie Gischt... und dann sind sie verschwunden. Den Kummer hat das kaum aufgehalten. Du hörst ein Grollen von der Kreatur, das wohl Gelächter sein muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Du schleuderst das Plättchen den Korridor entlang. In dem Moment, wo es deine Finger verlässt, beginnt es, seine Form zu verändern. Es wird zu einem Tuch, einem Schleier, der sich über den Kummer legt und deinen Feind vollständig einhüllt. Es überzieht die Kreatur wie ein riesiger Schorf und hält sie fest.
+
+Einen Augenblick lang wagst du zu hoffen, dass du ihn gestoppt hast... doch dann wird der Schorf brüchig, zerbricht und fällt in einem Haufen organischer Schuppen zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Du schlüpfst mit deiner Hand in den Fehdehandschuh und streckst sie in einer abwehrenden Geste aus. Der Energiestoß, der aus dem Handschuh fährt, reißt den Kummer auseinander, desintegriert ihn völlig und löst deinen Feind in seine einzelnen Filamente auf.
+
+"Ehrlich, ich hätte nicht gedacht, dass das funktioniert", murmelt der Geist.
+
+Für einen Moment herrscht Stille in dem Korridor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Den Stab benutzen, um die Verteidigungsmechanismen des Mondes zu aktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Eine Energiewand manifestiert sich flimmernd. Eine sich schlängelnde Ranke aus Rauch fährt über die Wand, verfestigt sich lodernd und der Schutzmechanismus ist so vollständig verschwunden, als wäre sie nie da gewesen.
+
+Der Kummer gleitet durch den Raum mit den Rettungskapseln. Er bewegt sich jetzt schneller, so als hätte er begriffen, dass du dein Ziel beinahe erreicht hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Versuchen, den Kummer mit den Gezeiten zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Du fokussierst deinen Geist und die Gezeiten erheben sich auf dein Kommando, als hätte sie die Nähe des Kummers noch zusätzlich verstärkt. Sie fluten aus dir heraus, so hell und stark, dass du sie beinahe sehen kannst.
+
+Sie prallen mit voller Wucht gegen den Kummer. Ihre Energie spritzt wie Gischt... und dann sind sie verschwunden. Den Kummer hat das kaum aufgehalten. Du hörst ein Grollen von der Kreatur, das wohl Gelächter sein muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Das Plättchen, das du von der Energiesäule abgerissen hast, verwenden, um den Kummer aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Du schleuderst das Plättchen durch den Raum mit den Rettungskapseln. In dem Moment, wo es deine Finger verlässt, beginnt es, seine Form zu verändern. Es wird zu einem Tuch, einem Schleier, der sich über den Kummer legt und deinen Feind vollständig einhüllt. Es überzieht die Kreatur wie ein riesiger Schorf und hält sie fest.
+
+Einen Augenblick lang wagst du zu hoffen, dass du ihn gestoppt hast... doch dann wird der Schorf brüchig, zerbricht und fällt in einem Haufen organischer Schuppen zu Boden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Den Fehdehandschuh benutzen, den du dem Konstrukt abgenommen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Du schlüpfst mit deiner Hand in den Fehdehandschuh und streckst sie in einer abwehrenden Geste aus. Der Energiestoß, der aus dem Handschuh fährt, reißt den Kummer auseinander, desintegriert ihn völlig und löst deinen Feind in seine einzelnen Filamente auf.
+
+"Ehrlich, ich hatte meine Zweifel, dass das funktioniert", murmelt der Geist.
+
+Für einen Moment herrscht Stille… und dann manifestiert sich der Kummer erneut, als sich Fäden beißenden Rauchs miteinander verbinden.
+
+"Wohl zurecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Du stürzt in den Raum mit den Rettungskapseln. Deine Lungen brennen. Du beugst dich vor und holst tief Luft. An den äußeren Wänden sind mehrere Kokons angeordnet. Du musst einen aktivieren und er wird dich mit seiner intelligenten Membran umhüllen. Sie ist widerstandsfähig, hitzefest und leitet beim Aufprall auf den Planeten die gesamte kinetische Energie von dir ab.
+
+Du siehst eine Art Spritze, doch sie ist am anderen Ende des Raums. Du hast möglicherweise nicht genug Zeit, um sie zu erreichen.
+
+Du schließt die Türen hinter dir. Das bringt vielleicht ein paar Sekunden. Mehr aber nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Durch den Raum laufen und die Spritze benutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>In die Rettungskapsel klettern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Du sprintest durch den Raum und reißt die Spritze aus ihrer Hülle. Ein Blick auf das Etikett verrät dir, dass es sich um ein spezielles Aufputschmittel für Verstoßene handelt. Es erhöht Wahrnehmung, Schmerzresistenz, Präzision und Fokus.
+
+Und wenn du es jetzt benutzt, wirkt es in deinem eigenen Körper. Du könntest auch in der Zukunft davon profitieren... wenn du die Gegenwart überlebst.
+
+Du rammst dir die Spritze in den Oberschenkel und sofort fühlst du dich ruhiger. Die Welt um dich herum ist heller. Du hörst laut und deutlich den unaufhaltsamen Fortschritt des Kummers. Du hast noch wenige kostbare Momente, bevor er da ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Du hechtest durch die Luke und in die bereitwillige Umarmung des Kokons. Als du die Fluchtsequenz vorbereitest, bricht der Kummer in die winzige Kammer ein!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Den Stab benutzen, um die Verteidigungsmechanismen des Mondes zu aktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Eine Energiewand manifestiert sich flimmernd jenseits der Luke, als du in den Kokon springst. Eine sich schlängelnde Ranke aus Rauch fährt über die Wand, verfestigt sich lodernd und der Schutzmechanismus ist so vollständig verschwunden, als wäre sie nie da gewesen.
+
+Der Kummer taucht schimmernd neben dir auf und macht sich bereit, zuzuschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Versuchen, den Kummer mit den Gezeiten zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Du fokussierst deinen Geist und die Gezeiten erheben sich auf dein Kommando, als hätte sie die Nähe des Kummers noch zusätzlich verstärkt. Sie fluten aus dir heraus, so hell und stark, dass du sie beinahe sehen kannst.
+
+Sie prallen mit voller Wucht gegen den Kummer. Ihre Energie spritzt wie Gischt... und dann sind sie verschwunden. Den Kummer hat das kaum aufgehalten. Du hörst ein Grollen von der Kreatur, das wohl Gelächter sein muss.
+
+Der Kummer taucht schimmernd neben dir auf und macht sich bereit, zuzuschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Das Plättchen, das du von der Energiesäule abgerissen hast, verwenden, um den Kummer aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Du schleuderst das Plättchen gegen die Tür. In dem Moment, wo es deine Finger verlässt, beginnt es, seine Form zu verändern. Es wird zu einem Tuch, einem Schleier, der sich über den Kummer legt und deinen Feind vollständig einhüllt. Es überzieht die Kreatur wie ein riesiger Schorf und hält sie fest.
+
+Einen Augenblick lang wagst du zu hoffen, dass du ihn gestoppt hast... doch dann wird der Schorf brüchig, zerbricht und fällt in einem Haufen organischer Schuppen zu Boden.
+
+Der Kummer taucht schimmernd neben dir auf und macht sich bereit, zuzuschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Den Fehdehandschuh benutzen, den du dem Konstrukt abgenommen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Du schlüpfst mit deiner Hand in den Fehdehandschuh und streckst sie in einer abwehrenden Geste aus. Der Energiestoß, der aus dem Handschuh fährt, reißt den Kummer auseinander, desintegriert ihn völlig und löst deinen Feind in seine einzelnen Filamente auf.
+
+"Ehrlich, ich hatte meine Zweifel, dass das funktioniert", murmelt der Geist.
+
+Für einen Moment herrscht Stille… und dann manifestiert sich der Kummer erneut, als sich Fäden beißenden Rauchs miteinander verbinden. Er holt zum Schlag aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Du schlüpfst in den Kokon, aktivierst die Fluchtsequenz und löst sie aus. Die Membran umhüllt dich – so eng, dass du den Stab fallenlassen musst – und beginnt, sich von dem Schlachtfeld zu entfernen, das der Mond geworden ist.
+
+Und dann brennt deine Tätowierung, als würde sie aufgerissen werden. Ein Ansturm der Gezeiten bricht über dich herein – alle in Blau und Silber, ein Strom von Informationen, viel zu schnell und zu gewaltig, um sie zu verarbeiten.
+
+Der Kokon wird von einer heftigen Explosion erschüttert und du fühlst, wie eine der pechschwarzen Ranken des Kummers über deine Wange streicht und sich in deinen Geist brennt und dich tötet, während du auf die Erde zustürzt. Praktisch im selben Moment spürst du, wie sich etwas tief in dir formt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Du hast deine Verteidigungsanlagen, aber du bist nicht sicher, dass du sich einsetzen kannst, während du versuchst, dich vor dem Kummer in Sicherheit zu bringen. Wenn du stolperst, zögerst oder einen Fehler machst, wird der Kummer dich unbarmherzig auslöschen.
+
+Deine einzige Chance ist, Hals über Kopf zu flüchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Der Kummer ist weiter weg als erwartet, aber auch näher, als du ihm je wieder kommen wolltest. Während deine Füße über die moosbewachsenen Bodenplatten trampeln, verschaffst du dir einen Überblick über die verbliebenen Verteidigungsanlagen.
+
+Du hast nur mehr die eine und keine Zeit, um ihre Effektivität zu testen. Deine beste Chance besteht darin, Hals über Kopf zu flüchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Es ist nur mehr eine Verteidigungsanlage übrig. Du bezweifelst, dass sie dir die nötige Zeit verschaffen kann, um zu den Kokons zu laufen und diesen dem Untergang geweihten Mond zu verlassen. Besser, direkt zu der einzigen Fluchtmöglichkeit zu laufen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Stehenbleiben und dich dem Unvermeidlichen stellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Verdammt! Wir haben keine Zeit für-" Der wütende Protest des Geistes wird kurzerhand abgewürgt, als ein Strang des Kummers sich um den Stab wickelt. Beißend grünes Licht läuft den Stab rauf und runter und du lässt ihn fallen, als er sich zu Staub auflöst.
+
+Du strampelst vergeblich, als der Kummer dich an sich heranzieht wie eine Mutter ihr Baby an ihre Brust. Eine große Müdigkeit überkommt dich, als er dich berührt. Du spürst keinen Schmerz und keine Furcht mehr und das Licht verschwindet aus der Welt. 
+
+Das Letzte, was du hörst, ist wie der Mond um dich herum implodiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Die Aussicht kommt dir bekannt vor, doch deine Erinnerung daran ist verschwommen, als wäre sie gefiltert oder verschwommen, wie durch Tränen...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Du zuckst zusammen, als du begreifst, dass das Panorama vor dir praktisch ident ist mit der Welt, die du gesehen hast, als du auf die Erde gestürzt bist... nur von etwas höher oben gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Du hältst einen ausgesprochen kunstvoll und filigran gearbeiteten Metallstab in Händen. Die auf ihm eingravierten Zeichnungen schlängeln sich unter deinen Fingern als wäre er lebendig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Ja, ja, mir geht's gut. Machen wir weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Ich mache mir nur ein wenig Sorgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Ich bin ein Verstoßener. Aber ich bin in eine Art Zeitschleife geraten und bin in meinem Körper... bevor ich überhaupt geboren wurde."</DefaultText>
+      <FemaleText>"Ich bin eine Verstoßene. Aber ich bin in eine Art Zeitschleife geraten und bin in meinem Körper... bevor ich überhaupt geboren wurde."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Gut. Ich möchte das ebenso schnell hinter mich bringen wie du."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Ha! Angesichts unserer jeweiligen Natur musst du *mir* das nicht sagen. Mein Vorteil ist, dass ich derzeit keine körperliche Form habe, aber hätte ich eine, wüsste ich, wie mein Körper sich jetzt fühlen würde. Von uns beiden hast du definitiv den härteren Job."
+
+"Du weißt doch, wir machen es aus gutem Grund auf diese Weise, ja? Ich werde alles mit dir durchgehen. Kein Grund zur Sorge. Ich habe - *wir* haben alles unter Kontrolle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"... ein Verstoßener? Wirklich? Das bedeutet... Moment mal. Du sagst, du hast deinen Geist durch die Zeit zurück in deinen Körper transportiert?" Triumph liegt in seiner Stimme. "Das bedeutet, dieser Körper *ist* der richtige Katalysator. Wir können die Resonanzkammer aktivieren! Gut. Hör mir gut zu. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Du musst nur in die Kammer steigen und unser Kampf wird zu Ende sein. Ich weiß deine Ehrlichkeit zu schätzen."
+
+Sein Ton wird schroff. "Warte. Wenn du ein Verstoßener bist und dies bereits dein Körper war, heißt das, dass wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft haben. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?"</DefaultText>
+      <FemaleText>"... eine Verstoßene? Wirklich? Das bedeutet... Moment mal. Du sagst, du hast deinen Geist durch die Zeit zurück in deinen Körper transportiert?" Triumph liegt in seiner Stimme. "Das bedeutet, dieser Körper *ist* der richtige Katalysator. Wir können die Resonanzkammer aktivieren! Gut. Hör mir gut zu. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Du musst nur in die Kammer steigen und unser Kampf wird zu Ende sein. Ich weiß deine Ehrlichkeit zu schätzen."
+
+Sein Ton wird schroff. "Warte. Wenn du eine Verstoßene bist und dies bereits dein Körper war, heißt das, dass wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft haben. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Der Kummer zerstört diesen Mond."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Ich bin nicht sicher. Ich bin in einem Rettungskokon aufgewacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Ich vertraue dir nicht. Du hast versucht, die Kontrolle über meinen Geist zu übernehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Dann müssen wir dich von hier fortbringen, und zwar schnell. Wenn du nicht rechtzeitig flüchten kannst, bevor der Kummer diesen Ort zerstört, sind wir verloren. Dies hier ist ein Archiv all unserer Weisheit, all unseres Wissens, und sein Verlust wäre eine Katastrophe, aber wenn wir den Kummer schon nicht aufhalten können, können wir zumindest dein Leben retten. Und meines. Los, in die Kapsel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Dann wird es hier eine Katastrophe geben und das kann eigentlich nur der Kummer sein. Wir müssen dich von diesem Mond fortbringen, und zwar schnell. Wenn du nicht rechtzeitig flüchten kannst, bevor der Kummer diesen Ort zerstört, sind wir verloren. Dies hier ist ein Archiv all unserer Weisheit, all unseres Wissens, und sein Verlust wäre eine Katastrophe, aber wenn wir den Kummer schon nicht aufhalten können, können wir zumindest dein Leben retten. Und meines. Los, in die Kapsel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"War wirklich ich das? Oder war es der Mann, in dessen Körper du jetzt bist, der versucht hat, die Kontrolle darüber zurückzugewinnen? Hast du seinen Geist ersetzt, als du geboren wurdest, oder nur zur Seite gedrängt?" Der Geist spricht ruhig und beschwichtigend auf dich ein.
+
+"Ich versichere dir, niemand hat die Absicht, dich zu ersetzen. Unser einziges Anliegen ist es, die Resonanzkammer zu aktivieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Jetzt gerade muss ich einen Weg finden, wie ich von hier entkommen kann. Der Kummer wird diesen Ort zerstören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Ich habe gehört, dass die Resonanzkammer alle Abgeworfenen töten wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Wie mache ich das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Es wird euch nicht töten. Es wird euch vereinen. Es wird den Kummer stoppen und das Leiden beenden, das wir hinter uns herschleppen. Hör mal, wir können das später besprechen. Wenn du ein Abgeworfener aus der Zukunft bist, bedeutet das, dass in Kürze hier etwas Furchtbares passieren wird. Ich muss die Kontinuität unserer Erfahrung und unseres Wissens sicherstellen. Also sag mir, und zwar ehrlich – was wird passieren?"</DefaultText>
+      <FemaleText>"Es wird euch nicht töten. Es wird euch vereinen. Es wird den Kummer stoppen und das Leiden beenden, das wir hinter uns herschleppen. Hör mal, wir können das später besprechen. Wenn du eine Abgeworfene aus der Zukunft bist, bedeutet das, dass in Kürze hier etwas Furchtbares passieren wird. Ich muss die Kontinuität unserer Erfahrung und unseres Wissens sicherstellen. Also sag mir, und zwar ehrlich – was wird passieren?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Du bist eine Kopie meines Geistes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Ja." Ein Hauch Besorgnis liegt in seiner geisterhaften Stimme. "Einen Moment bitte."
+
+Ein leichtes Summen geht von dem Stab aus. Es durchdringt dein Wesen und umhüllt deinen Geist.
+
+"Ah, verstehe! Du bist ein neuer Geist in diesem Körper. Wie bist du hierhergekommen? Warte. Du bist ein Verstoßener. Das bedeutet, dieser Körper *ist* der Katalysator. Wir können die Resonanzkammer aktivieren... Du musst mir gut zuhören. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Wir müssen dich nur in die Kammer bringen und unser Kampf wird zu Ende sein."
+
+"Offensichtlich haben wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?"</DefaultText>
+      <FemaleText>"Ja." Ein Hauch Besorgnis liegt in seiner geisterhaften Stimme. "Einen Moment bitte."
+
+Ein leichtes Summen geht von dem Stab aus. Es durchdringt dein Wesen und umhüllt deinen Geist.
+
+"Ah, verstehe! Du bist ein neuer Geist in diesem Körper. Wie bist du hierhergekommen? Warte. Du bist eine Verstoßene.  Das bedeutet, dieser Körper *ist* der Katalysator. Wir können die Resonanzkammer aktivieren... Du musst mir gut zuhören. Dein Körper ist der Schlüssel dazu, den Kummer zu stoppen. Wir müssen dich nur in die Kammer bringen und unser Kampf wird zu Ende sein."
+
+"Offensichtlich haben wir es in deiner Zeitlinie nicht in die Resonanzkammer geschafft. Wenn du nun hier die Geschichte veränderst, riskierst du, dich selbst zu zerstören. Also was passiert hier?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Steig einfach in die Kapsel. Ich erledige den Rest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Wie bereits gesagt wissen wir, dass dein Körper bereit ist, die Resonanzkammer zu benutzen. Ich will aber sichergehen, dass alle Parameter innerhalb der Toleranzwerte liegen. Möglicherweise hat sich die Varianz deiner Gezeiten geändert. Wenn ja, können wir versuchen, sie innerhalb die von deinem Schöpfer und mir festgelegten Vorgaben zurück zu schmiegen. Steig einfach in die Kapsel und ich beginne mit der Analyse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Ich beginne mit der Analyse, sobald du in die Kapsel hier gestiegen bist. Ich werde dich in Gezeitenenergien baden und danach werden wir unsere nächsten Schritte festlegen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>{COLIN: The idea here is the player can perform tasks to gain himself time later (or he can just run). The tasks are designed to be varied across the skills. If the player fails, the player still gets the item, but it takes longer.
+
+What it means, though, is that these things will need to be described in the scene somewhere (possibly here, possibly at the beginning, possibly both):
+ - A map of some kind
+ - Weird, biological disks that are part of the moon but are having a reaction to the Sorrow's presence.
+ - A dead construct whose gauntleted hand might still perform some useful defensive function.
+ - A hallway to run down.
+
+The illustration for this can carry some of the weight as well.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Dann manifestiert sich der Kummer erneut, als sich Stränge von beißendem Rauch miteinander verbinden. Er setzt in aller Ruhe die Verfolgung fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Ich will damit nichts zu tun haben. Ich habe versucht, zu *verhindern*, dass das passiert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Also schön-" Eine unsichtbare Kraft *wischt* dich gegen deinen Willen in die Kapsel. Der Stab in deiner Hand vibriert leicht und du spürst, wie du in Energien gebadet wirst. "Kein Grund zur Aufregung. Das ist alles innerhalb der normalen Parameter."
+
+Die folgende kleine Explosion ist es dagegen bestimmt nicht. Plötzlich ertönen Sirenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Der Kummer reißt in einem wütenden Wirbel von Licht und Gezeitenenergien die Wand entzwei. Die flackernden Energien unter seiner Haube vermitteln nur ein einziges Gefühl: *Hunger*.
+
+Er ist unaufhaltsam. Das Beste, worauf du hoffen kannst, ist, ihn zu verlangsamen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Der Kummer erholt sich viel zu schnell von deinem letzten Angriff und geht erneut auf dich los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Die Plättchen in der Nähe vibrieren wild und der deaktivierte Arm des Konstrukts beginnt zu funken und zu flackern.
+
+"Hau ab! Der Kummer wird dich vernichten!"
+
+Dein Untergang offenbart sich in der Großen Halle.  Seine Form ist schwach und zart als er erstarrt. Er gewinnt sporadisch an Festigkeit. Die interne Verteidigung des Mondes bremst ihn, aber sie wird nicht reichen, um ihn fernzuhalten. Du siehst, wie Kummer sich an einer weiteren Verteidigung vorbei stiehlt und sich in eine noch viel schlimmere Realität zwängt.
+
+Seine Aufmerksamkeit wendet sich dir zu. Er windet und räkelt sich und versucht verzweifelt, dich auszulöschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

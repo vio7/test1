@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_rhins_satchel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rhins Tasche</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Rede mit Tol Maguur über Rhins Beutel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Verschaffe dir den Beutel von Tol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Tol umgebracht und den Beutel genommen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Tol überzeugt, dir den Beutel zu geben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tol für den Beutel bezahlt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Beutel von Tol gestohlen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Rhin hat gesagt, dass die Sklavenhändler, die sie verschleppt haben, noch ihre Tasche mit ihren persönlichen Dingen haben. Sie hat dich angefleht, ihr die Tasche zurückzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Rhin sagt, dass sie bei ihrer Flucht ihre Tasche zurückgelassen hat. Möglicherweise hat Tol Maguur sie noch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Tol hat bestätigt, dass sie Rhins Tasche noch bei sich trägt. Du wirst sie ihr irgendwie abnehmen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nachdem du Tol getötet hast, hat ihr Rhin die Tasche abgenommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Es war nicht leicht, aber du konntest Tol davon überzeugen, dass nachdem Rhin nun dir gehört auch ihre Sachen dir gehören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Tol gab die Tasche nicht einfach so her. Du musstest Geld drauflegen, um sie zu bekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Tol gab die Tasche nicht einfach so her, aber du konntest sie ihr in einem Moment der Unachtsamkeit stibitzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

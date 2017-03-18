@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_twice_the_trouble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Doppelter Ärger</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde die Rüpel, die Qianne belästigt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Halte die Rüpel auf, die Qianne belästigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Quianne zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Vrung bestochen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vrung verängstigt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vrung getötet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vrung verwundet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vrung verjagt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Endspiel betreten (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Endspiel betreten, nachdem du mit Delny und Vrung fertig warst, hast es aber Qianne nicht berichtet (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Qianne, ein Flüchtling, der im Hof der Memovira lebt, wird von zwei Halunken belästigt. Ich habe ihr angeboten, mich um sie zu kümmern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die zwei Halunken heißen Delny und Vrung, und sie verstecken sich in den Slums von Klein-Nihliesh. Ich sollte sie aufspüren und mich mit ihnen unterhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe Delny und Vrung am Ende einer Gasse in Klein-Nihliesh gefunden. Jetzt muss ich einen Weg finden, sie davon abzuhalten, Qianne zu belästigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe mich um Delny und Vrung gekümmert. Ich sollte zu Qianne zurückkehren und ihr sagen, was passiert ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe Vrung dafür bezahlt, Qianne in Ruhe zu lassen. Ich denke, er wird sein Wort halten ... für eine Weile zumindest. Qianne war dankbar, und sie hat mir angeboten, dass ich jederzeit und umsonst in ihrem Zelt übernachten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Vrung gedroht, und er hat zugestimmt, Qianne von nun an nicht mehr zu belästigen. Er kommt mir wie ein Feigling vor, deshalb glaube ich, dass er sein Wort halten wird. Qianne war dankbar, und sie hat mir angeboten, dass ich jederzeit und umsonst in ihrem Zelt übernachten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe Vrung getötet, wodurch Delny von seiner Gedankenkontrolle befreit wurde. Keiner von beiden wird für Qianne eine Bedrohung darstellen. Als Belohnung hat Qianne mir angeboten, dass ich jederzeit und umsonst in ihrem Zelt übernachten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe Delny von der psychischen Fessel befreit, mit der Vrung von ihr Besitz ergriffen hat, und dann habe ich sie davon überzeugt, diese psychischen Kärte aus Vrungs Verstand zu brennen. Er ist jetzt komplett harmlos und stellt keine Gefahr mehr für Qianne dar. Als Belohnung hat Qianne mir angeboten, dass ich jederzeit und umsonst in ihrem Zelt übernachten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe die psychische Verbindung zwischen Vrung und Delny zerbrochen, und er ist voller Angst geflohen. Ich denke nicht, dass einer von beiden für Qianne noch eine Bedrohung darstellen wird. Als Belohnung hat Qianne mir angeboten, dass ich jederzeit und umsonst in ihrem Zelt übernachten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Da ich keine Ahnung habe, wann und ob ich in die Flor zurückkehren kann, wird Qianne sich wohl selbst um die beiden Halunken kümmern müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Obwohl ich mich um Velny und Vrung kümmern konnte, sieht es so aus, als könnte ich die guten Neuigkeiten mit Qianne teilen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

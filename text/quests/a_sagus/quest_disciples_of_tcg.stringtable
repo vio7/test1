@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_disciples_of_tcg</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Anhänger des Wandelnden Gottes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche nach Verstoßenen, die den Kultisten zur Zeit nicht bekannt sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Tol Maguur angezeigt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Orseolo angezeigt</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Berichtet, dass die Erste immer noch am Leben ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Zu Casmeen und Mimeon zurückkehren</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sagus verlassen, vor Abschluss des Auftrags.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Damit ich dem Kult des Wandelnden Gottes beitreten kann, muss ich einen Verstoßenen finden, der dem Kult derzeitig unbekannt ist, und Casmeen und Mimeon seine Identität offenbaren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Casmeen und Mimeon gaben mir keine Spuren. Sie kennen bereits eine große Menge an Verstoßenen, also sollte ich meine Augen für Verstoßene, die ihre Identität als Geheimnis bewahren, offen halten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich erzählte Casmeen und Mimeon, dass Tol Maguur eine Verstoßene ist. Sie waren überrascht – und etwas entsetzt – aber sie hielten ihr Versprechen und erteilten mir Mitgliedschaft im Kult.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich erzählte Casmeen und Mimeon von dem Verstoßenen, der kürzlich vom Kummer getötet wurde. Die waren betrübt, von seinem Tod zu hören, aber sie hielten ihr Versprechen und erteilten mir Mitgliedschaft im Kult.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Du hast entdeckt, dass die Erste Verstoßene, lange für tot gehalten, tatsächlich noch am Leben ist und derzeitig in der Oase von M'ra Jolios ist. Casmeen und Mimeon waren bemerkbar begeistert von der Nachricht und luden dich als Dank zum Kult ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich entdeckte einen Verstoßenen, desse Identität bis jetzt geheim war. Wenn ich es Casmeen und Mimeon erzähle, denke ich, dass sie mir erlauben, dem Kult beizutreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich verließ Sagus-Klippen, ohne Casmeen und Mimeon etwas über neue Abgeworfene zu sagen, also sieht es nicht so aus, als würde ich mich dem Kult anschließen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich erfuhr, dass Tol Maguur, die Sklavenhändlerin, eine Verstoßene ist. Sie versteckte von allen vorsichtig ihre Identität... und scheint ihre Privatssphäre zu schätzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich erfuhr, dass ein Verstoßener namens Orseolo viele Jahre lang heimlich am Klippenrand lebte, zusammen mit seiner Adoptivtochter. Leider wurde er kürzlich vom Kummer umgebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Du lerntest, dass sie Erste Verstoßene immer noch lebt und sich irgendwo in der Oase von M'ra Jolios versteckt hält. Diese Information wäre den Kultisten des Wandelnden Gottes bestimmt von großem Interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich erfuhr, dass Tol Maguur, die Sklavenhändlerin, eine Verstoßene ist. Sie versteckte von allen vorsichtig ihre Identität... und scheint ihre Privatssphäre zu schätzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich erfuhr, dass ein Verstoßene namens Orseolo viele Jahre lang heimlich am Klippenrand lebte, zusammen mit seiner Adoptivtochter. Leider wurde er kürzlich vom Kummer umgebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

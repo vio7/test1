@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_upside_down_pyramid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Pyramide sieht genauso aus, wie Ihr sie zurückgelassen habt, unterleuchtet von einem klaren weißen Licht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Verlasst die Pyramide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ihr erforscht sie von allen Seiten. Es gibt keine Inschriften, die erklären, aus welchem Grund oder von wem sie errichtet wurde, noch gibt es einen offensichtlichen Weg, mit ihr zu interagieren.
+ 
+ Ihr bemerkt, dass das Licht, das zwischen den Rissen hindurchscheint, Eurer Hand zu folgen scheint, als ihr sie darüber gleiten lasst. Also reagiert *es* ja vielleicht doch auf Euch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ihr fahrt mit der Hand über die Pyramide und zeichnet das Muster nach, das Ihr entdeckt habt, nur dass Ihr diesmal weitermacht. Das weiße Licht verblasst dabei, doch Euch überkommt ein Gefühl des Wohlseins und der Stärke – als ob das Licht direkt in Euer Herz übertragen werden würde.
+ 
+ Als Ihr vollständig geheilt seid, verschwindet das Licht vollends.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Eine große, umgekehrte Pyramide schwebt vor Euch, von einem weichen, weißen Licht erleuchtet. Sie besteht aus verwittertem Stein, doch Ihr seht Lichter und vernehmt ein schwaches Summen durch die Risse in ihrer bröckelnden Fassade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ein sanftes, weißes Glühen scheint das Einzige zu sein, das diese umgekehrte Pyramide hält. Ein schwacher, süßer Duft erfüllt die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Untersuche die Pyramide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Untersuche die Pyramide erneut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die kalte Pyramide ragt ohne das Gerüst aus weißem Glühen, das sie einst umgab, vor dir auf. Der süße Duft, der einst durch die Luft tanzte, ist verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Aktiviere die vollständigen Heilkräfte der Pyramide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Aktiviere erneut die Heilkräfte der Pyramide.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du fährst mit der Hand das gleiche Muster ab wie zuvor. Doch abgesehen von einer trockenen Brise, die deine Haut streichelt, geschieht nichts. Die Pyramide bleibt unbeleuchtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Die Pyramide ist still, unbeleuchtet und schwebt in der trockenen Luft des Tales.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Versuche herauszufinden, wie die Pyramide funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Versuche erneut herauszufinden, wie die Pyramide funktioniert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Du fährst mit den Händen über die Pyramide, wobei du jedoch nicht den Rissen folgst, sondern den Symbolen und den Ätzungen auf der Oberfläche. Nach vielen Experimenten – und nicht gerade wenig Glück – entdeckst du ein spezielles Muster, das dazu führt, dass das Licht an Intensität gewinnt.
+ 
+ Dabei wirst du von einer weichen Wärme umhüllt, die deinen Körper und deinen Geist erfrischt. Während du dich besser fühlst, scheint die Pyramide jedoch zu verblassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Du fährst mit den Händen darüber und obwohl das Licht in den Rissen dir zu folgen scheint, geschieht nichts weiter. Du verschwendest hier nur deine Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Auch weiteres Herumfuchteln enthüllt nichts weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Du hörst auf, da du die offensichtlich heilende Kraft der Pyramide noch nicht verschwenden möchtest. Du solltest sie für einen Zeitpunkt aufsparen, an dem du sie wirklich brauchst.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

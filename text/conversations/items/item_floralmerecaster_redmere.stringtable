@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\items\item_floralmerecaster_redmere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das zu warme Gerät summt und pocht in deiner Hand. Obwohl du keine Musik hörst, formen deine Lippen die Wörter eines Liedes in einer dir unbekannten Sprache.
+
+Du spürst, wie sich das Lebensbild dieses Gerätes in dir ausbreitet wie eine blühende, sich schlingende Ranke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Puls des Lebensbildes in diesem Gerät ruft dich, pochend wie ein zweiter Herzschlag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Den Lebensbildbetrachter untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die metallischen „Blütenblätter“ des Geräts flattern bei der geringsten Brise. Licht funkelt aus den komplizierten Schaltkreisen in ihrem Inneren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Das Lebensbild betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Lebensbildbetrachter weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

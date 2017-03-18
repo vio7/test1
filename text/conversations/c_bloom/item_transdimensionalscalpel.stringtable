@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_transdimensionalscalpel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Das Gerät ähnelt dem Griff einer Waffe. Es liegt gut in der Hand, hat aber keine Klinge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das Gerät untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Gerät erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Es ist aus Azurstahl gefertigt. Anscheinend ist es inaktiv und verfügt auf den ersten Blick über keinerlei Funktionen.
+
+Ein verzierter Name ist in den Stahl eingraviert: "IOXU":
+
+Hinter einer Platte aus Hartglas findest du ein Fach, das einen alten, aufgezehrten Energiekern beinhaltet. Er ist geschwärzt und ausgelaugt, also wirfst du ihn weg. Du könntest eine andere Energiequelle in diesem Fach platzieren, aber würdest dafür vermutlich eine bestimmte Art von Energie benötigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die transdimensionale Energiequelle, die du im abgestürzten Katena gefunden hast, würde in dieses Fach passen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Versuchen, die transdimensionale Energiequelle in den Griff einzufügen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Erneut versuchen, die transdimensionale Energiequelle in den Griff einzufügen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Das Gerät weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Du holst den Zylinder hervor, den du im abgestürzten Katena gefunden hast und fügst ihn in die Kammer des Griffs ein. Anfangs sieht es so aus, als würde er nicht hineinpassen. Du stellst aber fest, dass der Zylinder sich nach und nach an die Öffnung anpasst, wenn du ihn behutsam hineindrückst. 
+
+Eine kleine, dünne Klinge aus reiner transdimensionaler Energie dringt aus dem Griff hervor. Dir wird klar, dass es sich hierbei um ein Skalpell handelt. Mit einer Drehbewegung kann es aktiviert und wieder deaktiviert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Im Griff befindet sich eine kleine Kammer, in der sich vermutlich die Energiequelle befinden sollte. Sie erscheint dir jedoch etwas zu klein. Du versuchst, die Energiequelle auf verschiedenen Wegen einzusetzen, aber es will dir einfach nicht gelingen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Waffe wegstecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Dein Wissen um diese Technologie verrät dir, dass das Gerät vermutlich eine transdimensionale Energiequelle benötigt ... etwas, das die Energie von Singularitäten oder Paralleluniversen in sich trägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du drehst die zylindrische Energiequelle hin und her, aber du findest einfach keine Möglichkeit, sie in die Kammer einzufügen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

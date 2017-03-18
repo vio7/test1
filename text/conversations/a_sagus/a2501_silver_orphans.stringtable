@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_silver_orphans</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Zwei silberne Humanoiden stehen neben einem kleinen Gefährt von unklarer Herkunft. Ihre Haut hat einen reflektierenden, metallischen Glimmer, der sie beide gleichzeitig zu einem Teil der Szenerie macht und sie davon absetzt. Als du dich ihnen näherst, drehen sich beide zu dir um. Sie haben keine Münder und ihre Augen sind ein bodenloses Schwarz, das nichts reflektiert.
+
+Aus deinen Erinnerungen steigt ein Name für diese Kreaturen auf - silberne Waisen. Das ist vielleicht nicht der Name, den sie sich selbst geben, aber es ist der Name, den der Orden der Wahrheit benutzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Stumm wiederholen die silbernen Waisen ihre Rollen - der rechte vollführt eine komplizierte Reihe von Gesten, dann kniet sich der linke hin und zeichnet eine ähnliche Reihe in den Staub.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Als er sieht, wie verwirrt du bist, kniet der linke sich hin und zeichnet mit einem verkürzten Finger Linien und Kreise in den Staub zu deinen Füßen. Von einem Punkt strahlen Wellen aus, ein Quadrat, ein menschliches Auge, dann eine unerkennbare Menge von miteinander verbundenen Punkten. Der silberne Waise sieht dich an und wartet auf deine Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich verstehe dich nicht!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du starrst die Zeichnung an und folgst den Linien und Kreisen mit deinen Augen. Da, eine Welle … von Wörtern? Und dort, ein menschliches Auge, noch immer erkennbar inmitten der Punkte und Linien. Auf das Auge folgt das Quadrat, und etwas, das dir vertraut ist - etwas wie ein Werkzeug, das du mal in deinen Händen gehalten hast ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>So sehr du dich auch bemühst, die Bedeutung der Zeichnung wird dir nicht klar. Die silbernen Waisen wirken von deinem Scheitern weder enttäuscht noch erfreut. Aber sie betrachten dich weiter, auch nachdem du aufgegeben hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du malst die Zeichnung ab und beginnst mit den selben Symbolen, die der linke Waise gezeichnet hat. Er sieht mehr auf deine Hände als in dein Gesicht und betrachtet genau die Kopie, die du in den Staub malst. An einer kritischen Stelle streckt er den Arm aus und korrigiert eine deiner Linien. Schlagartig bekommt das ganze Bild eine viel tiefere Bedeutung, als du gedacht hättest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>So sehr du dich auch bemühst, deine Versuche, die Zeichnung zu kopieren, haben keinen Erfolg. Der Waise links sieht dir eine Weile zu, dann steht er auf und starrt seinen Partner an. Beide schauen auf dich herab und sehen dann weg. Du hast das ungute Gefühl, dass du fortgeschickt wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die zwei Waisen sehen unbewegt zu, wie du dich näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Den Waisen von den Vorarbeitern auf der Schattenseite erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Den Waisen von Sylph erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Den Waisen vom Gott der Karawanserai erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Den Waisen von Ziobe erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die silbernen Waisen betrachten dich ohne einen Hauch von Neugierde oder Verständnis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Wie sich bedeutungsloses Rauschen in den Refrain eines geliebten Liedes wandelt, so *weißt* du auf einmal, was die silbernen Waisen suchen - künstliche Intelligenz, wie oder wo sich auch versteckt sein mag.
+
+Die Waisen sehen dich ungerührt an, als du zu diesem Schluss kommst. Dann streckt der rechte Waise seine Hand aus als Bitte nach Informationen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Dann ein anderes Mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du zeichnest eine Skizze der städtischen Fabrik, inklusive grober Beschreibungen der Vorarbeiter und wie sie die menschliche Arbeiter überragen. Dann zeichnest du eine Linie, die sie mit dem Waisensymbol für künstliche Intelligenz verbindet. Die silbernen Waisen beobachten dich aufmerksam, bis deine Zeichnung fertig ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du zeichnest eine grobe Skizze von Sylph neben das noch immer im Staub sichtbare Bild der Waisen. Vielleicht bildest du es dir nur ein, aber die Waisen wirken zufrieden, als du fertig bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Mit einiger Schwierigkeit zeichnest du den Gott der Karawanserei neben das Konzept der künstlichen Intelligenz. Es dauert eine Weile, aber letztendlich zeichnet der linke Waise einen kurzen Schnörkel in den Staub, den du als Zustimmung wertest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du malst das Zeichen des Fünften Auges und eine grobe Skizze von Ziobe. Dann zeichnest du eine Linie, die sie mit der ersten Zeichnung der Waisen für künstliche Intelligenz verbindet. Für einen Moment bist du dir unsicher, ob sie dich verstanden haben oder nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Sie drehen sich zueinander und starren sich an. Dann greift der rechte in sich hinein, sodass die silberne Hand nahtlos mit dem glänzenden Metall seines Rumpfes verschmilzt. Einen Augenblick später ist seine Hand wieder vollständig - sie hält ein seltsam aufgebautes Objekt. Er lässt das Objekt in deine Hand fallen. Bezahlung, vermutest du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Der rechte Waise greift erneut in sich hinein, zieht ein weiteres Objekt hinaus und lässt es in deine wartenden Hände fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Versuchen, die Zeichnung zu interpretieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Erneut versuchen, die Zeichnung zu interpretieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Zeichnung kopieren als Versuch, zu kommunizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Erneut versuchen, die Zeichnung zu kopieren um zu kommunizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Die silbernen Waisen starren sich gegenseitig für eine Weile an, dann macht der rechte komplizierte Gesten in deine Richtung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Die silbernen Waisen schauen dich still an, während du ihre Zeichnung untersuchst, aber es bringt nichts. Du hast noch immer keine Ahnung, was sie bedeutet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Die zwei Kreaturen beachten dich kaum, als du Linien und Symbole in den Staub zeichnest. Wieder schaffst du es nicht, irgendetwas zu zeichnen, was ihrer Zeichnung ähnlich sieht.
+
+Arbeiter und Seeleute schauen dich im Vorbeigehen seltsam an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Versuchen, die Gesten des rechten Waisen nachzuahmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Als ihnen klar wird, was du versuchst zu tun, packt der rechte Waise deine Hände und hält sie fest, während der linke auf die Zeichnung zeigt, die er gemacht hat. Du hast den Eindruck, dass sie entweder zu ungeduldig sind, um dir ihre Zeichensprache beizubringen, oder dass du etwas unglaublich beleidigendes gesagt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Den Waisen von den Drohnen der Unvergleichlichen erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Du zeichnest eine Skizze des Riffs der gefallenen Welten und markierst die Stelle, wo du auf die Drohnen der Unvergleichlichen gestoßen bist, mit einem X. Daneben kopierst du die Zeichnung der Waisen.
+
+Der linke Waise kniet sich hin und ergänzt ein paar schnelle Striche, die du als Frage nach mehr Informationen deutest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Lange Momente vergehen, bevor sie sich gleichzeitig zu dir wenden und in sich greifen. Sie ziehen Teile eines unidentifizierbaren Geräts hinaus. Sie passen die Teile ineinander und reichen dir ein vollständiges, aber eigenartiges Numenera, wie du es noch nie gesehen hast. Du hast das Gefühl, dass sie sehr zufrieden sind, diese spezielle Information bekommen zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Auch wenn du ihre Gesten nicht verstehst, kannst du ihre Gedanken "hören".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Meint ihr künstliche Intelligenz?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Könnt ihr sprechen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Warum sucht ihr die Seele von Maschinen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>kniet der linke sich hin und zeichnet Die Waisen starren dich ungerührt an, so als ob sie dich gar nicht hören können. Der linke kniet sich hin und zeichnet mit einem verkürzten Finger Linien und Kreise in den Staub zu deinen Füßen. Von einem Punkt strahlen Wellen aus, ein Quadrat, ein menschliches Auge, dann eine unerkennbare Menge von miteinander verbundenen Punkten. Der silberne Waise sieht dich an und wartet auf deine Antwort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Stumm betrachten die Waisen, wie du dich näherst. Erneut macht der rechte eine Reihe von komplizierten Gesten.
+
+Du verstehst zwar ihre Gesten nicht, aber erstaunlicherweise *kannst* du ihre Gedanken verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Nach kurzem Überlegen zeichnest du eine der Drohnen, denen du begegnet bist, und dann noch einige mehr. Du verbindest alle mit Linien, um ihre Verbindung untereinander zu verdeutlichen. Der rechte Waise kniet sich ebenfalls hin und hält deine Hände fest, bevor er sich zu seinem Zwilling wendet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Bisher habe ich noch keine gefunden. Tut mir leid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ich werde euch Bescheid sagen, sobald ich irgendwo künstliche Intelligenz finde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Tun sie das wirklich?", murmelt Callistege. "Und was passiert mit diesen künstlichen Intelligenzen, wenn sie hier abgeliefert werden?" Die silbernen Waisen reagieren nicht auf ihre Worte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Callistege legt eine schwache Hand auf deinen Arm.
+
+"Du musst sicher gehen, dass du ihre Absichten aufdeckst, Liebes. Und denke daran: Wissen zu teilen bedeutet, seine Macht zu schwächen." Die silbernen Waisen reagieren nicht auf ihre Worte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ich suche nach einer Frau mit lilafarbenen Haaren. Habt ihr sie gesehen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Sie betrachten dich stumm mit ihren großen, tiefschwarzen Augen, und antworten nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Dieses Mal greift die linke Waise in sich, zieht einen Gegenstand hervor und lässt es dir in die Hände fallen.</DefaultText>
+      <FemaleText>Dieses Mal greift die linke Waise in sich, zieht einen Gegenstand hervor und lässt es dir in die Hände fallen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Die Waisen blicken sich für längere Zeit gegenseitig an. Dann greifen sie beide in sich und ziehen jeweils einen Gegenstand hervor. Die rechte Waise nimmt beide Gegenstände, passt sie zusammen und übergibt dir den entsprechenden Apparat.
+
+{THOMAS: If this could conceivably be something that was fit together from multiple parts (as in the text), that would be ideal.)</DefaultText>
+      <FemaleText>Die Waisen blicken sich für längere Zeit gegenseitig an. Dann greifen sie beide in sich und ziehen jeweils einen Gegenstand hervor. Die rechte Waise nimmt beide Gegenstände, passt sie zusammen und übergibt dir den entsprechenden Apparat.
+
+{THOMAS: If this could conceivably be something that was fit together from multiple parts (as in the text), that would be ideal.)</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

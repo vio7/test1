@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_murden_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Murden halten dich erneut auf, sträubend bei deiner Näherung. Die Zeigen mit ihren Waffen Richtung Ausgang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Tretet beiseite, oder ich rupfe euch die Federn aus und röste euch am Spieß."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Deine Waffe ziehen und angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Kreaturen senken langsam ihre Waffen und treten zurück in die Ecken des Raums, ihre Augen ununterbrochen auf dich gerichtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Statik in deinem Kopf wirt lauter, aufdringlicher und ängstlicher. Die Kreaturen wenden sich und fliehen durch einen Zugang zum benachbarten Raum. Der Weg ist frei... fürs Erste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Von den Murden zurücktreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich bezahle euch, dass ihr zur Seite tretet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Murden klappern ihre Schnabel und halten ihre gekrallten Hände hervor, ihre Augen funkeln im trüben Licht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Den Murden [Global: c4221_MurdenSentryBribeAmount] Shin bezahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Mentalstatik wird lauter und beharrlicher, ein Wachsen der Begeisterung, als die Murden ihre neu erhaltenen Vermögen zählen. Sie schnappen und beißen sich an, und kämpfen darüber, wer mehr bekommen wird. Endlich landet eine den ersten Treffer, und die andere ergibt sich, dann ziehen sich beide zu ihren Nestern zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Das Magmatische Annulet benutzen, um mit den Murden zu kommunizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du berührst das Annulet, und sofort umklammern sie Murden ihre Köpfe und krümmen sich. Sie krächzen kläglich, von irgendeiner furchtbaren Qual ergriffen.
+
+Sobald du das Annulet loslässt, schütteln sie ihre Köpfe und es wird klar, dass der Schmerz fort ist. Obwohl sie noch nicht den Weg freigemacht haben, scheinen sie sich jetzt vor dir in Acht zu nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Eine von ihnen zeigt mit ihrer Klinge zum Nebenraum. Sie treten langsam und nervös zurück, ihre Augen pausenlos auf dich fixiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Sie sträuben ihre Daunen, und schütteln dir mit unverhüllter Bedrohung die Waffen entgegen. Es scheint, dass sie dir weder Glaubern schenken, noch deiner Absicht vertrauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Als Antwort bauschen sie sich auf, und zeigen ihre Größe und Stärke. Im gleichen Moment verstärkt sich ihre psychische Statik, und du kannst Hohn und Spott fühlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich will euch nicht bekämpfen. Ich komme um das Feldzeichen von Artaglios Kriegsknechten zurückzuholen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Noch einmal - Ich will Artaglios Feldzeichen zurückbringen. Ich will euch nicht bekämpfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Zwei gekrümmte, menschenähnliche Wesen glotzen dich an, ihre hellen und hasserfüllten Augen leuchten über beschmutzte, gelbe Schnabel. Du erkennst sie sofort wieder... *Murden.* Sie stoßen eine Art psychichen Flaums aus, eine Mentaldecke, und es fällt dir schwer, dich zu konzentrieren.
+
+Eine bauscht ihre fettigen, schwarzen Federn auf, damit sie größer aussieht, während die andere nahe dem Boden kratzt. Ihre Arme wehen und gestikulieren, und ihr Vorsatz ist deutlich: *Bis hier und nicht weiter.*</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Deine Fähigkeit, Gedanken zu lesen, verschärft die Störungen und verstärkt sie auf ein schmerzhaftes Ausmaß. Es bedarf schwerer Anstrengung, um die Störgeräusche auszuschließen.
+
+Offensichtlich ist das Lesen von Murden-Gedanken eine schlechte Idee.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Sie schütteln dir ihre Waffen zu. Es ist deutlich, dass sie dir immernoch nicht glauben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Vergesst es. Ich werde euch nicht jetzt im Moment bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Fauchend ziehen die Murden ihre Hände zurück und bauschen ihre Federn auf. Sie machen es deutlich, dass sie dir nicht aus dem Weg gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Ihnen alle Shin anbieten, die du hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Du lässt deine verbleibenden Shin in ihre Hände fallen. Sie klappern mit den Schnabeln, und erwarten mehr. Als du ihnen nichts weiter anbietest, kreischen sie voll Wut und schleudern dir die Münzen zurück ins Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Die Murden trippeln nach vorne, und schnappen sich deine Shin. Sie schnappen und beißen sich an, und kämpfen darüber, wer mehr bekommen wird. Endlich landet eine den ersten Treffer, und die andere ergibt sich, dann ziehen sich beide zu ihren Nestern zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ich habe meine Meinung geändert. Ich bezahle euch, dass ihr beiseite geht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Nehmt ihr [Global: c4221_MurdenSentryBribeAmount] Shin als Bezahlung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Die Murden blicken sich an, als ob sie an deinem Vorsatz zweifeln, strecken jedoch trotzdem ihre Hände vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Die Murden betrachten dich hasserfüllt und ziehen ihre Hände wieder zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

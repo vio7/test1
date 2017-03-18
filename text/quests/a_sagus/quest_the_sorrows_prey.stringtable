@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_the_sorrows_prey</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Des Kummers Beute</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche nach dem letzten Opfer des Kummers bei der Dendra O'hur-Kapelle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Untersuche das Haus das Opfers beim Klippenrand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Kehre zu Zaofi zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Teilweise Info Lösung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Volle Info Lösung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Volle Info, Gelogen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Teilweise Info, gelogen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Volle Info Lösung, später</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Finde einen Weg, mit der schattigen Reflektion zu kommunizieren, die im Labyrinth erschienen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Finde einen Weg, mit der schattigen Reflektion zu kommunizieren, die in deinem Labyrinth erschienen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Erfahre mehr über das Opfer des Kummers von der Reflektion der jungen Frau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Erfahre mehr über das Opfer des Kummers von der Reflektion der jungen Frau.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sagus verlassen, nachdem die volle Information erhalten war, Zaofi aber nicht berichtet (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Zaofi, ein Bildhauer in Circus Minor wurde Augenzeuge, wie der Kummer –das Wesen, das auch mich jagt – einen Mann getötet hat. Seitdem ist er davon besessen, den Moment des Todes bildhauerisch festzuhalten, doch es will ihm einfach nicht gelingen. Um das Opfer in einer Skulptur zu verewigen, muss er mehr über den Mann wissen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Zaofi hat mir verraten, dass die Leiche des Mannes von den Dendra O'hur weggebracht wurde – wahrscheinlich in ihr Gotteshaus in der Schattenseite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Anführer der Dendra O'hur hat mir gesagt, dass das Opfer des Kummers in Klippenrand gelebt hat. Sein Haus befand sich in der Nähe der cheirurgischen Kammer. Vielleicht finde ich dort einen Hinweis auf seine Identität.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich lernte, dass er ermordete Mann Orseolo war, und dass er wie ich ein Abgeworfener war. Er adoptierte eine Tochter und blieb für sich, aber als das Haus zusammenstürzte und seine Tochter starb, suchte er nach einem Weg, zu sterben. Offenbar lockte er die Aufmerksamkeit des Kummers und er gab ihm, was er wollte.Diese Geschichte sollte genug sein, um Zaofi zufriedenzustellen. Ich sollte zurück seiner Werkstatt in Circus Minor kehren und ihm berichten, was ich gelernt habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe herausgefunden, dass der Ermordete ein Abgeworfener war, der zurückgezogen mit seiner Adoptivtochter in Klippenrand gelebt hat, doch mehr konnte ich nicht über ihn herausfinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Zaofi die Wahrheit über das Opfer des Kummers gesagt. Meine Worte schienen ihn zu inspirieren und er sofort mit der Arbeit an seiner nächsten Skulptur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich habe mich dazu entschieden, Zaofi nicht die Wahrheit über das Opfer des Kummers zu erzählen. Orseolo hätte das vermutlich nicht gewollt – dem Spiegelbild seiner Adoptivtochter zufolge war er ein zurückgezogener und verschlossener Mann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe einige Informationen über den Ermordeten gesammelt, doch ich habe sie Zaofi nicht verraten und mir stattdessen irgendeine Geschichte ausgedacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich habe neue Details über den Ermordeten herausgefunden und sie Zaofi mitgeteilt, wofür er sehr dankbar war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Als ich die Leiche einer jungen Frau in dem eingestürzten Haus fand, nahm ein neues Spiegelbild in meinem Geist Form an. Um mit ihm zu interagieren, muss ich jedoch eine stärkere Verbindung mit ihm aufbauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Die junge Frau, deren Leiche ich in Klippenrand fand, steht offenbar in irgendeiner Verbindung mit dem Opfer des Kummers. Um mit ihrem Spiegelbild zu sprechen, muss ich eine stärkere Verbindung mit ihm aufbauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Da ich nun mit dem Spiegelbild kommunizieren kann, sollte ich es befragen und herausfinden, was die Frau über den Besitzer des zerstörten Hauses weiß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Die junge Frau, deren Leiche ich in Klippenrand fand, steht offenbar in irgendeiner Verbindung mit dem Opfer des Kummers. Da sich ihr Spiegelbild bereits in meinem Labyrinth befindet, sollte ich von ihr mehr über den Toten erfahren können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Ich habe Sagusklippen verlassen und werde wohl nicht so schnell zurückkehren, falls überhaupt. Zaofi wird vermutlich nie erfahren, wer das Opfer des Kummers war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Ich habe herausgefunden, wer das Opfer des Kummers war, konnte jedoch vor meiner Abreise aus Sagusklippen nicht mehr mit Zaofi darüber sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ich habe die Leiche des Opfers auf einer Bahre in der Kapelle der Dendra O'hur gefunden. Eine versengte Tätowierung kam mir sehr bekannt vor und deutet darauf hin, dass er wie ich ein Abgeworfener war. Vielleicht weiß jemand von den Dendra O'hur mehr über ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich fand ein zusammengestürztes Haus am Klippenrand, das eine starke Erinnerung in mich hervorrief. Ich bin sicher, dass dieses Haus einem Abgeworfenen gehörte – genau der Mann, den Zaofi in seiner Skulptur darstellen will.Wenn ich die Ruinen weiter untersuche, finde ich vielleicht mehr über ihn heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>In den Trümmern des Hauses fand ich die Leiche einer jungen Frau, die dort mit dem Abgeworfenen gelebt haben muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Einige in der Nähe des eingestürzten Hauses herumlungernde Kultisten des Wandelnden Gottes behaupten, dass ein Mann in dem Haus gelebt hat, der den Kultisten jedoch demonstrativ aus dem Weg gegangen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Die Kultisten haben vorgeschlagen, das "kleine Mädchen mit der Flöte" oder Mutter Temaz zu den Bewohnern des eingestürzten Hauses zu befragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Die Kultisten haben vorgeschlagen, das "kleine Mädchen mit der Flöte" zu den Bewohnern des eingestürzten Hauses zu befragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Avina sagt, dass der tote Abgeworfene zurückgezogen mit seiner Adoptivtochter in dem Haus gelebt hat. Sie kennt zwar seinen Namen nicht, aber das könnte dennoch reichen, um Zaofis Neugier zu befriedigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Das Spiegelbild scheint etwas verloren zu haben – vielleicht ein Objekt in der realen Welt, das jemand aus dem zerstörten Haus entfernt hat. Wenn ich es finde und ihr bringe, kann ich sie vielleicht zur Gänze in mein Labyrinth ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Einige in der Nähe des eingestürzten Hauses herumlungernde Kultisten des Wandelnden Gottes haben gesehen, wie schmutzige Kinder die Trümmer durchwühlt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Avina hat mir eine Rätselbox gegeben, die vielleicht einst dem toten Mädchen im Haus gehört hat. Ich kann sie vielleicht benutzen, um eine stärkere Verbindung mit dem nur halb geformten Spiegelbild aufzubauen, doch dazu muss ich erneut in das Labyrinth und mit ihr sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Das Spiegelbild scheint etwas verloren zu haben – vielleicht ein Objekt in der realen Welt, das jemand aus dem zerstörten Haus entfernt hat. Wenn ich es finde und ihr bringe, kann ich sie vielleicht zur Gänze in mein Labyrinth ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Einige in der Nähe des eingestürzten Hauses herumlungernde Kultisten des Wandelnden Gottes haben gesehen, wie schmutzige Kinder die Trümmer durchwühlt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Avina hat mir eine Rätselbox gegeben, die vielleicht einst dem toten Mädchen im Haus gehört hat. Ich kann sie vielleicht benutzen, um eine stärkere Verbindung mit dem nur halb geformten Spiegelbild aufzubauen, doch dazu muss ich erneut in das Labyrinth und mit ihr sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Ein kleines Mädchen namens Avina hat vielleicht den Gegenstand mitgenommen, nach dem das Spiegelbild sucht. Ich sollte einen Weg finden, es von ihr zurückzubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Plünderer haben das eingestürzte Haus völlig ausgeräumt. Vielleicht hat jemand in der Nähe des Hauses jemanden gesehen, der etwas mitgenommen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Ein kleines Mädchen namens Avina hat vielleicht den Gegenstand mitgenommen, nach dem das Spiegelbild sucht. Ich sollte einen Weg finden, es von ihr zurückzubekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

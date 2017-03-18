@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_construct_acid_sprayer_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine leckende grüne Flüssigkeit tropft aus dem Ende der Düse des Apparats und zischt wütend auf der metallischen Oberfläche darunter. Wenn das Ventil noch immer funktioniert, könnte es als Waffe benutzt werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Nun, da du den Rost am Ventil gelöst hast, könntest du es wieder öffnen und erneut ätzenden Nebel abfeuern.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

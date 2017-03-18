@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\stopthesorrow</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Halte den Kummer auf!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Stimme dich auf die Gezeiten ab</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Benutze die Resonanzkammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Repariere die Resonanzkammer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich muss einen Weg finden, den Kummer aufzuhalten - permanent. Wenn nicht, wird diese uralte, immens mächtige Kreatur *mich* zerstören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ein hilfreicher Geist erzählte mir, dass ich eine Struktur in meinem Verstand erschaffen habe, um mir zu helfen, mich mit den Gezeiten abzustimmen, eine Macht, die sich scheinbat an psychischer Energie eingibt. Sobald ich das tue, werde ich zum den nächsten Schritt bereit sein. Es ist aber nicht wirklich eine Wahl - wenn ich mich nicht abstimme, wird mein Körper anscheinend auseinanderfallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Nun, da ich mit den Gezeiten abgestimmt bin, muss ich nur die Augen meines echten Körpers öffnen, die Resonanzkammer finden, und sie aktivieren. Das, zusammen mit meiner Abstimmung zu den Gezeiten, sollte mich immun gegen den Kummer machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Offenbar hat mein Fall die Resonanzkammer ruiniert. Ich muss sie reparieren, bevor ich sie benutzen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4101_bloom_merecaster_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Doch gerade als du beginnst, die Fäden der Vertrautheit zu dir zu ziehen, dringt die Stimme der Flor ein und überwältigt die Präsenz. Stotternd kommst du zurück in einen wachen Zustand.
+
+{SOUND: Start Bloom voice sound effect.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Nein, du erinnerst dich: Es sind die kalten Töne des Kummers, seine mentale Präsenz ein Hauch von Kälte und Säure. Du spürst, wie ein Bruchteil seiner Aufmerksamkeit sich auf dich richtet ... und dann dringt das Zwitschern der Flor ein und übertönt die Stimme des Kummers. Der Kummer stößt einen dumpfen frustrierten Schrei aus, dann ist er verschwunden und du öffnest die Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Der Lebensbildbetrachter dreht und windet sich in deinen Händen, während seine Form ihre Gestalt ändert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Tide T. 7</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dein geistiges Auge öffnet sich in Dunkelheit. Deine Realität liegt vor dir, das rapide näherkommende Ende eines Tunnels – als würdest du erneut geboren oder aus der Tiefe eines Brunnens hochgezogen werden. Obwohl du die Welt um dich herum sehen kannst, ist dein Bewusstsein noch weit weg.
+
+Dein Geist ist erfüllt von der Wahrheit: Du bist schon wieder in das Leben einer anderen Person eingedrungen und hast Kenntnisse und Erfahrungen gesammelt, die du auf andere Weise nie erhalten hättest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Dein geistiges Auge öffnet sich in Dunkelheit. Deine Realität liegt vor dir, das rapide näherkommende Ende eines Tunnels – als würdest du erneut geboren oder aus der Tiefe eines Brunnens hochgezogen werden. Obwohl du die Welt um dich herum sehen kannst, ist dein Bewusstsein noch weit weg.
+
+Dein Geist ist erfüllt von der Wahrheit: Du bist schon wieder in das Leben einer anderen Person eingedrungen und hast vielleicht mehr Licht in dieses Leben gebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dein geistiges Auge öffnet sich in Dunkelheit. Deine Realität liegt vor dir, das rapide näherkommende Ende eines Tunnels – als würdest du erneut geboren oder aus der Tiefe eines Brunnens hochgezogen werden. Obwohl du die Welt um dich herum sehen kannst, ist dein Bewusstsein noch weit weg.
+
+Dein Geist ist erfüllt von der Wahrheit: Du bist schon wieder in das Leben einer anderen Person eingedrungen und hast die Welt vielleicht zum Besseren verändert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Dein geistiges Auge öffnet sich in Dunkelheit. Deine Realität liegt vor dir, das rapide näherkommende Ende eines Tunnels – als würdest du erneut geboren oder aus der Tiefe eines Brunnens hochgezogen werden. Obwohl du die Welt um dich herum sehen kannst, ist dein Bewusstsein noch weit weg.
+
+Dein Geist ist erfüllt von der Wahrheit: Du bist schon wieder in das Leben einer anderen Person eingedrungen und hast dieses Leben vielleicht zum Besseren verändert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Dein geistiges Auge öffnet sich in Dunkelheit. Deine Realität liegt vor dir, das rapide näherkommende Ende eines Tunnels – als würdest du erneut geboren oder aus der Tiefe eines Brunnens hochgezogen werden. Obwohl du die Welt um dich herum sehen kannst, ist dein Bewusstsein noch weit weg.
+
+Dein Geist ist erfüllt von der Wahrheit: Du bist schon wieder in das Leben einer anderen Person eingedrungen und hast dieses Leben vielleicht zum Besseren verändert – etwas, das niemand außer dir tun kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Tide T. 13</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Als du zum Licht schwimmst, verwandelt sich dein Hochgefühl in Sorge – du hast das nagende Gefühl, dass du etwas vergessen hast.
+
+Dann fühlst du eine Präsenz, die dich sucht und versucht, dich zu kontaktieren.
+
+Es scheint fast, als würde jemand aus der Ferne deinen Namen rufen. Wenn du nur einen Augenblick Zeit hättest, könntest du die Stimme zuordnen.
+ 
+{SOUND: Could play a Sorrow sound effect here, but lightly.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Als du zum Licht schwimmst, verwandelt sich dein Hochgefühl in Sorge – du hast das nagende Gefühl, dass du eine Aufgabe nicht ganz erledigt hast.
+
+Dann fühlst du eine Präsenz, die dich sucht und versucht, dich zu kontaktieren.
+
+Es scheint fast, als würde jemand aus der Ferne deinen Namen rufen. Wenn du nur einen Augenblick Zeit hättest, könntest du die Stimme zuordnen.
+ 
+{SOUND: Could play a Sorrow sound effect here, but lightly.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Als du zum Licht schwimmst, verwandelt sich dein Hochgefühl in Sorge – du hast das nagende Gefühl, dass du irgendwo die falsche Entscheidung getroffen hast.
+
+Dann fühlst du eine Präsenz, die dich sucht und versucht, dich zu kontaktieren.
+
+Es scheint fast, als würde jemand aus der Ferne deinen Namen rufen. Wenn du nur einen Augenblick Zeit hättest, könntest du die Stimme zuordnen.
+ 
+{SOUND: Could play a Sorrow sound effect here, but lightly.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Als du zum Licht schwimmst, verwandelt sich dein Hochgefühl in Sorge – du hast das nagende Gefühl, dass du etwas vergessen hast ... oder jemanden zurückgelassen.
+
+Dann fühlst du eine Präsenz, die dich sucht und versucht, dich zu kontaktieren.
+
+Es scheint fast, als würde jemand aus der Ferne deinen Namen rufen. Wenn du nur einen Augenblick Zeit hättest, könntest du die Stimme zuordnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Als du zum Licht schwimmst, verwandelt sich dein Hochgefühl in Sorge – du hast das nagende Gefühl, dass du machtlos bist.
+
+Dann fühlst du eine Präsenz, die dich sucht und versucht, dich zu kontaktieren.
+
+Es scheint fast, als würde jemand aus der Ferne deinen Namen rufen. Wenn du nur einen Augenblick Zeit hättest, könntest du die Stimme zuordnen.
+ 
+{SOUND: Could play a Sorrow sound effect here, but lightly.}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2601_house_of_empty_time</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Über dir thront ein gewaltiger Torbogen aus Metall und Synth. Energie pulsiert durch die Konstruktion und tritt an einigen dünnen, transparenten Platten aus, die in dezentem Gold und Blau schimmern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Versuchen, den Torbogen zu aktivieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lasst ihn in Ruhe.</DefaultText>
+      <FemaleText>Lasst ihn in Ruhe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Follow-up PQ. 5</DefaultText>
+      <FemaleText>Follow-up PQ. 5</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Torbogen genauer untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Den Torbogen noch einmal untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Er scheint nicht aktiv zu sein ... und doch geht eine gewisse Energie von ihm aus. Der Torbogen erzeugt ein konstantes Summen auf einer sehr niedrigen Frequenz, sodass du es gerade noch hören kannst. Auf der oberen Seite sind leuchtende Worte eingraviert: ‚Haus der Leeren Zeit.‘
+
+Schwere Kabel verbinden den Torbogen mit dem uralten Gerät in der Nähe wie Taue einen Mast mit dem Rumpf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Er scheint nicht aktiv zu sein ... und doch geht eine gewisse Energie von ihm aus. Der Torbogen erzeugt ein konstantes Summen auf einer sehr niedrigen Frequenz, sodass du es gerade noch hören kannst. Auf der oberen Seite sind leuchtende Worte eingraviert: ‚Haus der Leeren Zeit.‘
+
+Schwere Kabel verbinden den Torbogen mit dem seltsamen Generator in der Nähe wie Taue einen Mast mit dem Rumpf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der handwerkliche Feinschliff dieses Geräts unterscheidet sich sehr stark von dem des Generators. Wenn man den Generator als die Schöpfung eines Genies betrachtet, das verschiedene Technologien auf unerwartete und verblüffende Weise miteinander verbunden hat ... so erscheint der Torbogen im Gegensatz dazu gerade einmal wie das Derivat eines talentierten Schülers. Du vermutest, dass ein Großteil seiner Funktionen nur dadurch ermöglicht werden, dass sie die Energie des Generators aufzehren. Außerdem scheint der Torbogen erst in jüngster Zeit entstanden zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Er scheint nicht aktiv zu sein, gibt aber einen konstantes Summen auf einer niedrigen Sequenz von sich. Auf der Oberseite ist ein Name eingraviert: ‚Haus der Leeren Zeit.‘ Seilartige Kabel verbinden ihn mit einem uralten Gerät in der Nähe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Er scheint nicht aktiv zu sein, gibt aber einen konstantes Summen auf einer niedrigen Sequenz von sich. Auf der Oberseite ist ein Name eingraviert: ‚Haus der Leeren Zeit.‘ Seilartige Kabel verbinden ihn mit dem uralten Gerät in der Nähe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du schaust dir die Teile des Torbogens an, so gut es vom Boden aus geht, aber du kannst nichts erkennen, was als Steuerung dienen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Es reagiert nur auf die Worte des Wächters", murmelt Alcen.  "Ich bin nicht sicher, warum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du schaust dir die Teile des Torbogens an, so gut es vom Boden aus geht, aber du kannst nichts erkennen, was als Steuerung dienen könnte. 
+
+Nach einer Weile gibst du auf. Du hast keine Ahnung, wie der Torbogen aktiviert werden kann - vorausgesetzt, man kann es überhaupt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Möglicherweise können nur die Worte seines Schöpfers - oder die Worte dessen, der von ihm dazu bestimmt wurde - diese Konstruktion wieder zum Leben erwecken. Hin und wieder findet man ähnliche Mechanismen in der Neunten Welt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Nicht so beeindruckend, wie es aussieht", murmelt Aligern. "Den Löwenanteil der Arbeit verrichtet der Generator dort." Er zeigt auf ein uraltes Gerät, das durch Kabel mit dem Torbogen verbunden ist. 
+
+"Jemand hat die temporalen Energien kanalisiert, um etwas bestimmtes zu erreichen. Sieht nach halbherziger Arbeit aus. Muss wohl ein Aeon-Priester gewesen sein." Ein verrücktes Grinsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Nicht so beeindruckend, wie es aussieht", murmelt Aligern. "Den Löwenanteil der Arbeit verrichtet der Generator dort." Er zeigt auf ein uraltes Gerät, das durch Kabel mit dem Torbogen verbunden ist. 
+
+"Jemand hat die temporalen Energien kanalisiert, um hier einen Durchgang zu erzeugen. Sieht nach halbherziger Arbeit aus. Muss wohl ein Aeon-Priester gewesen sein." Sein Blich verrät, dass er sich selbst bei etwas ertappt hat. Er sieht zu Alcen Perie herüber. "Nicht böse gemeint."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Schon in Ordnung. Ich wünschte, ich würde unseren Gönner kennen, aber solche Geheimnisse werden im Haus gut bewahrt. Wer auch immer es war, er oder sie hat etwas hinterlassen, auf das man stolz sein kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Aligern, habt Ihr diesen Torbogen schon einmal untersucht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ein- oder zweimal, ja. Das ist schon Jahre her. Er stand schon lange hier, noch bevor ich nach Sagus gekommen bin. Habe Geschichten darüber gehört, wie Kinder verschwunden sein sollen, wenn sie unter dem Bogen hindurchgelaufen sind, aber ich konnte es nie mit eigenen Augen sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ein- oder zweimal, ja. Das ist schon Jahre her. Er stand schon lange hier, noch bevor ich nach Sagus gekommen bin. Habe Geschichten darüber gehört, wie Kinder verschwunden sein sollen, wenn sie unter dem Bogen hindurchgelaufen sind." Er nickt Alcen zu. "Jetzt wissen wir, dass sie wahr sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

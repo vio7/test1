@@ -1,0 +1,2672 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\si_meres\mere_ri1_endlessbattlemere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>470</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Wie du siehst, haben wir unsere eigenen Sorgen", sagt Lovac, als er wieder aufsteht. "Der letzte Schachzug des Wandelnden Gottes hat den Versöhner der Wahrheiten lahmgelegt. Die Himmelserwiderung funktioniert dagegen noch, was bedeutet, dass *wir* ihre Siege nicht umkehren können, *sie* unsere jedoch schon."
+
+Er führt dich zu einem Strategietisch, auf dem eine dreidimensionale Projektion eines sich über parallele Realitäten erstreckenden Schlachtfeldes zu sehen ist. Er blättert durch verschiedene Bilder. In allen ist eure Armee am Rande der Niederlage. 
+
+Er schüttelt den Kopf. "Noch nie seit dem Tod der Ersten standen wir so kurz davor, diesen Krieg zu verlieren. Ich fürchte, ich muss dich erneut losschicken, Bericael. Wir müssen den Versöhner retten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Wie konnte das Massaker in Miel Avest passieren? Was war mit den Schilden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Was sind Versöhner der Wahrheiten und Himmelserwiderung?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich bin bereit, unserer Sache zu dienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ausgezeichnet", sagt Lovac und wendet sich seinen Beratern zu – alle Abgeworfene, wie du feststellst. "Freunde, was schlagt ihr vor? Wie können wir ungeschehen machen, was mit dem Versöhner geschehen ist... ohne ihn zu *benutzen*?"
+
+Eine vernarbte Abgeworfene in roter Rüstung meldet sich zu Wort. "Ich schlage einen Frontalangriff auf den Standort der Himmelserwiderung vor. Der Angriff wird natürlich fehlschlagen, aber er wird es Bericael erlauben, durch die Weißen Nester zu schlüpfen und die Erwiderung von der Rückseite zu erreichen. Dann kann sie alles zurücksetzen... und sie dann zerstören." 
+
+Sie haut auf den Tisch. "Und dann sind *wir* die Einzigen, die die Geschichte verändern können!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als dein Bewusstsein wieder zusammenkommt, findest du dich in einem unterirdischen Bunker wieder, der von einem Angriff weit über ihm erschüttert wird. Du stehst salutierend vor einem in einen kunstvollen Metallpanzer gehüllten Abgeworfenen. Er ist dünn wie ein Skelett und du bezweifelst, dass er sich ohne den Panzer überhaupt bewegen könnte. Du erinnerst dich an ihn: Es ist Lovac, Paj Rekkens Stellvertreter in der Endlosen Schlacht. Hinter ihm sitzen drei Berater.
+
+Lovac schüttelt seinen in Synthstahl gefassten Kopf und wendet sich dir zu."Mach dir keine Gedanken wegen der Nachricht, Bericael. Das hat sich mittlerweile erledigt. Wir müssen froh sein, dass Kommandantin Rekken es heil aus Miel Avest geschafft hat. Sie ist der Zerstörung des Heiligtums im letzten Moment entkommen."
+
+Eine donnernde Explosion erschüttert den Bunker und bringt euch alle ins Taumeln.
+
+{ART: Mere_RI1_01_Lovac}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ich weiß es nicht. Vielleicht war der Kummer mittlerweile stark genug, um durchzubrechen. Vielleicht war Verrat im Spiel. Ich habe nichts gehört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Lovac lacht. "Schon wieder? Schätze, so ein Tanz durch Realitäten und Zeiten wirbelt ein Gedächtnis ganz schön auseinander, hm? Aber keine Sorge. Ich erkläre es dir noch mal."
+
+"Vor Jahrhunderten, als die Erste noch lebte, fand sie den Versöhner – eine Maschine der Alten, mit der man verschiedene Versionen eines kürzlich stattgefundenen Ereignisses betrachten und jene Version, die einem am besten gefiel, zur Realität – zur *einzigen* Realität – machen konnte. Die Erste begann, Realitäten auszuwählen, in denen wir mehr Schlachten gewonnen als verloren hatten, und hatte den Wandelnden Gott bald am Rande der Niederlage. Doch dann hat er seine eigene Maschine beschafft – Himmelserwiderung genannt –, welche die mit dem Versöhner geschaffenen Realitäten auslöschen und eigene Realitäten erschaffen konnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ein männlicher Mutant – wunderschön, wäre da nicht der zweite Mund an seinem Hals – spricht in melodischem Ton. "Ich schlage vor, dass Bericael den Realitätssturm, der im Niemandsland tobt, nutzt, um denjenigen zu finden, der den Versöhner sabotiert hat. Wenn sie seine Spur durch die Realitätsscherben verfolgt, kann sie den Saboteur stoppen, bevor er den Versöhner erreicht."
+
+Er zuckt mit den Schultern. "Das stellt zwar nur den Status Quo wieder her, aber mit einem Mann wird Bericael leichter fertig werden als mit den Gefahren der tödlichen Weißen Nester."
+
+"Sonst noch Vorschläge?" fragt Lovac. Niemand meldet sich mehr zu Wort. Lovac wendet sich dir zu. "Ich bin mit beiden Vorschlägen einverstanden. Nachdem du diejenige bist, die sich diesen Gefahren stellen muss, überlasse ich dir die Entscheidung. Was sagst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich werde mir den Weg durch die Weißen Nester bahnen, während die Armee die Himmelserwiderung angreift."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich werde den Saboteur finden, bevor er den Versöhner zerstören kann – egal, in welcher Zeit oder Realität."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Lovac nickt und sieht dann die anderen an. "Hat irgendjemand Einwände gegen Bericaels Wahl?"
+
+Der Abgeworfene mit den zwei Mündern zuckt mit den Schultern. "Wenn sie mutig genug ist, es mit den Faltern aufzunehmen, dann sind wir mutig genug, unsere Truppen gegen die Himmelserwiderung loszuschicken."
+
+"Und mit etwas Glück", sagt die Abgeworfene in der roten Rüstung, "wird die Schlacht nie stattgefunden haben, sobald sie die Erwiderung zurückgesetzt hat, und unsere Truppen werden wieder in Sicherheit sein."
+
+"Gut." Lovac erhebt sich. "Bereiten wir alles vor. Es geht los, sobald du bereit bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du dankst Lovac und gehst auf den Splittersturm zu, die Handschuhe des Saboteurs in der Hand. Kaum zu glauben, aber der Plan scheint zu funktionieren. Einige der Scherben haben den falschen Geruch und du kannst sie leicht links liegen lassen. Bei anderen fällt dir Entscheidung schwerer, doch schließlich bleiben nur drei Kandidaten übrig: Ein See im Mondschein, eine hell erleuchtete Schlucht, über die Schatten huschen, und ein wirbelnder Chaossturm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Hallo Sonnenschein. Du muss Bericael sein. Ich bin Hugo Igratch. Die Nester sind gleich hier durch, aber bevor wir reingehen, sollst du wissen, was uns dort erwartet."
+
+Er rollt eine handgezeichnete Karte aus. "Jede Kreuzung in diesen Tunnels ist vermint, manchmal mit Spreng-Cyphern, manchmal mit guten alten Minen. Meine Hunde hier fressen Energiestöße zum Frühstück, aber gewöhnliche Minen töten sie genauso wie uns. Daher sollten wir aufpassen, wo wir hintreten. Leider können wir uns auch nicht zu lange Zeit lassen – je länger wir da drin sind, desto eher werden uns die Falter erwischen. Wir sollten also nicht zu viele falsche Abzweigungen nehmen, denn wir wollen nicht gegen stratharianische Kriegsfalter kämpfen müssen. Glaub mir."
+
+Er übergibt dir die Karte. "Gut. Gehen wir."
+
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Vier Motten tauchen aus verschiedenen Richtungen auf und umzingeln euch. Sie flattern mit glühenden Flügeln, bereit zum Angriff. Wenn ihr überleben wollt, müsst ihr kämpfen.
+
+{ART: Mere_RI1_03_Moths}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Der MEC explodiert, vernichtet einen Falter und beschädigt einen weiteren schwer. Der Rest zieht sich von der Explosion verängstigt zurück, doch sie werden schon bald wieder angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Den Material-Entfernungs-Cypher werfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Hugo befehlen, den letzten Hund loszulassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Hugo befehlen, die Hunde loszulassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Hugo befehlen, anzugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Hugo lässt den Hund von der Leine und er stürzt sich auf die Falter. Er erwischt einen mit in Pfoten und Maul zu fassen und reißt ihn in Stücke.
+
+Die restlichen Falter umzingeln den Hund jedoch und unter dem Licht ihrer Flügel verdorrt sein Fleisch und das Tier verwandelt sich vor deinen Augen in eine verschrumpelte Mumie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Hugo lässt die Hunde los und sie stürzen sich auf die Falter. Sie bekommen zwei von ihnen in Pfoten und Mäuler zu fassen und reißen sie in Stücke.
+
+Die armen Hunde überleben den Kampf nicht. Unter dem Licht der Falterflügel verdorrt ihr Fleisch und die Tiere verwandeln sich vor deinen Augen in verschrumpelte Mumien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Hugo dir einen vielsagenden Blick zu, während er seine Vibraklinge zückt. "Jetzt verstehe ich, warum du immer als Letzte stehst, wenn der Staub sich gelegt hat, du Heldin. Für die Erste!"
+
+Er greift mit wirbelnder Klinge an und schlitzt einen Falter von oben bis unten auf, doch die anderen richten ihre abscheulichen Lichter auf ihn und sein Fleisch vertrocknet in ihrem Schein, bis er zu Staub zerfällt wie eine tausend Jahre alte Leiche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Greift an!</DefaultText>
+      <FemaleText>Greift an!</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Erneut angreifen!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Du greifst an. Ziehen und Zuschlagen ist eine einzige schnelle Bewegung und du holst einen Falter aus der Luft und weichst geschickt dem tödlichen Licht aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Du greifst erneut an, tötest einen weiteren Falter und tänzelst in Sicherheit, bevor sie dich mit ihrem Licht erwischen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Du stürmst auf die Falter zu, haust mit deiner Klinge in alle Richtungen, doch die Falter weichen dir geschickt aus und erwischen dich mit ihrem verheerenden Licht. Du spürst, wie die Muskeln in deinen Armen und in deinem Oberkörper erschlaffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Wieder verfehlst du sie und wieder treffen sie dich und schwächen dich noch weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Mit letzter Anstrengung vernichtest du den letzten Falter und stehst siegreich über ihren zerstückelten Körpern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Du haust wild um dich, doch deine Wunden haben dich geschwächt und die Falter können dir leicht ausweichen. Dann umzingeln sie dich und tauchen dich in ihr tödliches Licht.
+
+Das Letzte, was du hörst, als Bericael stirbt und du in deinen eigenen Körper zurückgezogen wirst, ist das leise Flattern ihrer todbringenden Flügel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Der MEC explodiert und löscht den letzten Falter aus. Du hast sie besiegt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Hugo lässt den Hund los und er stürzt sich auf den letzten Falter. Er packt ihn mit Pfoten und Zähnen und reißt ihn in Stücke. 
+
+Ihr habt gesiegt, doch der arme Hund überlebt den Kampf nicht. Unter dem Licht des Falters verdorrt sein Fleisch und das Tier verwandelt sich vor deinen Augen in eine verschrumpelte Mumie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Hugo lässt die Hunde los und sie stürzen sich auf den letzten Falter. Sie packen ihn mit Pfoten und Zähnen und reißen ihn in Stücke. 
+
+Ihr habt gesiegt, doch die armen Hunde überleben den Kampf nicht. Unter dem Licht des Falters verdorrt ihr Fleisch und die Tiere verwandeln sich vor deinen Augen in verschrumpelte Mumien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Hugo dir einen vielsagenden Blick zu, während er seine Vibraklinge zückt. "Jetzt verstehe ich, warum du immer als Letzte stehst, wenn der Staub sich gelegt hat, du Heldin. Für die Erste!"
+
+Er greift mit wirbelnder Klinge an, haut die letzten Falter entzwei und springt zur Seite, bevor sie ihn im Sterben noch mit ihrem Licht erwischen können. Er lacht erleichtert. 
+
+"Gewonnen, was? Die wussten wohl nicht, mit wem sie es zu tun haben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Den See im Mondschein wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Die sonnendurchflutete Schlucht wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Den wirbelnden Chaossturm wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Du schwimmst in einem dunklen See neben einem großen, quadratischen Floß. Darauf knien in ordentlichen Reihen hundert Frauen, alle kahlköpfig, alle mit seltsamen Geräten auf den Rücken geschnallt, alle im Gebet versunken. Im Einklang pressen sie die Stirn gegen die Planken und die Geräte öffnen sich. Ein Dunst steigt von ihnen hoch und bildet eine weiße Säule, die sich in Richtung des anderen Ufers schlängelt. 
+
+Dort siehst du ein weiteres Floß voller betender Mönche, die ebenfalls einen sich schlängelnden Dunst ausstrahlen. 
+
+In der Mitte dieser seltsamen Konfrontation wirbelt der Realitätssturm die Wasseroberfläche auf. Du schwimmst darauf zu, doch nur der Splitter, den du hinterlassen hast, passt zum Geruch des Handschuhs. Du kehrst zurück in die Realität, die du kennst, und musst erneut eine Entscheidung treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Du stehst am Rande einer sonnendurchfluteteten Schlucht und beobachtest einen Luftkampf zwischen nackten Frauen und Männern, die an Gleitschirme aus Holz und Stoff geschnallt sind. Die Hälfte der Schirme hat die Farben des Wandelnden Gottes, die andere Hälfte jene der Ersten. 
+
+Die Flieger attackieren einander mit langen, mit Klingen besetzten Stäben und versuchen, Flügel und Fleisch der Gegner gleichermaßen aufzuschlitzen. Ab und zu stürzt einer der Schirme taumelnd in die Schlucht. 
+
+Der Splittersturm wirbelt auf einem Tafelberg in der Mitte der Schlucht. Du läufst über die Brücke, die zu ihm führt. Drei Splitter fühlen sich vielversprechend an: Ein dichter Wald bei Nacht, hügeliges Farmland in der Abenddämmerung und ein schlammiges Schlachtfeld im Regen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Wolken von Insekten umschwärmen dich. Ihr Summen wird zu einem unmenschlichen Geheul. Dann bemerkst du, dass es gar keine Insekten sind, sondern winzige Konstrukte. Obwohl ständig welche in dich hineinfliegen, zeigen sie keinerlei Interesse an dir. Vielmehr bekämpfen sie sich gegenseitig, umkreisen und attackieren sich in unmöglicher Geschwindigkeit.
+
+Der erbitterte Kampf scheint schon länger zu dauern, denn du stehst knietief in winzigen Leichen.
+
+Vor dir verschwinden Insekten in den dahintreibenden Splittern des Realitätssturms und kommen daraus wieder hervor. Du läufst auf den Sturm zu, doch nur ein Splitter passt zum Geruch des Handschuhs – der, aus dem du gekommen bist. Du kehrst zurück in die Realität, die du kennst, und musst erneut eine Entscheidung treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Den dunklen Wald wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Das hügelige Farmland wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Das schlammige Schlachtfeld wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>In einem dichten Wald kämpft eine Kompanie großer Krieger mit goldener Haut in Rüstungen aus Keramik ihr letztes Gefecht gegen eine sie überrennende Menge kleiner, in Felle gekleideter Barbaren mit blauer Haut. Beide Armeen sind mit Schwertern und Speeren bewaffnet und auf beiden Seiten wirken heilige Männer Feuer- und Dunkelzauber gegeneinander, doch die Farben sind verkehrt – die goldenen Krieger kämpfen unter dem Banner des Wandelnden Gottes, die blauen Barbaren unter dem der Ersten.
+
+Durch die Bäume siehst du die wirbelnden Splitter des Realitätssturms. Du schleichst am Kampfgetümmel vorbei darauf zu, doch nur ein Geruch passt zu dem des Handschuhs – der des Splitters, aus dem du gekommen bist. Du kehrst zurück an den Rand der sonnendurchfluteten Schlucht und musst erneut eine Entscheidung treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Du trittst in eine sanfte Hügellandschaft, die übersät ist mit verschlafenen Höfen und Weiden. Bauern bewirtschaften das Land rund um hoch emporragende rote Felsen, die sich bei näherem Hinsehen als rostende Überreste riesiger Konstrukte herausstellen. Kinder spielen auf diesen von Bäumen, Sträuchern und Blumen überwachsenen Giganten, nennen sich Kalkedon und Rekken und bekämpfen einander mit Holzschwertern.
+
+Auf einem ummauerten wilden Hang wirbeln immer noch die Splitter des Realitätssturms. Du gehst über von Hecken gesäumte Wegen dorthin, doch nur ein Geruch passt zu dem des Handschuhs – der des Splitters, aus dem du gekommen bist. Du kehrst zurück an den Rand der sonnendurchfluteten Schlucht und musst erneut eine Entscheidung treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Auf einem vom Regen in Schlamm verwandelten und mit Leichen und zerstörten Mantis-Kriegskonstrukten übersäten Schlachtfeld steht der Kalkedon mit dem Rest seines Kommandos. Vor ihm knien Paj Rekken und ihre Generäle. Sie übergibt ihm ihr Schwert. 
+
+Rundherum führen die Soldaten des Kalkedon Paj Rekkens verbliebene Truppen ab – Abgeworfene und Menschen gleichermaßen. Viele haben nicht überlebt. Die meisten liegen tot auf dem Schlachtfeld und werden von Murden-Plünderern um ihre letzten Habseligkeiten erleichtert. Hinter ihnen kannst du gerade noch die Wellen ausmachen, die der Realitätssturm schlägt.
+
+Du läufst darauf zu. Als du näherkommst, erscheinen drei Splitter vielversprechender als der Rest: Ein glitzernder Sumpf, eine Ebene, auf der gewaltig aufgetürmte Feuer lodern, und eine erbitterte Schlacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Die gewaltigen Feuer wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Die erbitterte Schlacht wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Im Schein der lodernden Feuer ziehen große Gruppen von Sklaven an Seilen zwei fünfzig Meter hohe Statuen auf Rädern aufeinander zu, während der Aufseher Peitschenhiebe auf ihre Rücken regnen lässt. Die aus bemaltem Holz gemachten Statuen sind primitive Darstellungen des Wandelnden Gottes und der Ersten. Auf den beiden Köpfen steht jeweils ein Held mit wehendem Umhang und erhobenem Schwert. Die beiden werfen sich gegenseitig lautstark Beleidigungen an den Kopf in einer Sprache, die du nicht verstehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Ein chaotischer Kampf tobt um dich herum. Soldaten in den Farben des Wandelnden Gottes und Soldaten in den Farben der Ersten hauen mit Schwertern, Schalllanzen und Kugelspaltern aufeinander ein. 
+
+Eine Lanzenreiterin wird mitten ins Herz getroffen und fällt dir tot vor die Füße. Du reißt die Augen auf, als du siehst, dass sie dein Gesicht hat. Du suchst nach dem Soldaten, der sie getötet hat, und entdeckst, dass es eine Soldatin mit deinem Gesicht war. Und nicht nur das – alle Soldateninnen auf beiden Seiten der Schlacht sehen aus wie du!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Die tobende Arena wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Die schmutzigen Straßen wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Als die Jagd in der Nacht verschwindet, siehst du den Schimmer des Realitätssturms zwischen den Bäumen durchscheinen. Du gehst auf ihn zu und stellst fest, dass zwei Splitter vielversprechender scheinen als die anderen – ein düsteres Schlachtfeld und ein Labyrinth schmutziger grauer Straßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Du stehst auf der Tribüne einer großen Arena inmitten einer jubelnden, betrunkenen Menschenmenge. Auf dem Rasen der Arena tragen zwei Mannschaften aus Männern und Frauen in schwerer gepolsterter Schutzkleidung eine Art Spiel aus, bei dem sie mit Holzschlägern auf eine schwebende Kugel eindreschen und sich gegenseitig umhauen.
+
+Die Fans jubeln und trinken bei jedem Zusammenprall. "Götter vor!" rufen die einen. "Hier regieren die Abgeworfenen!" rufen die anderen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Du bist in einer heruntergekommenen Straße in einer grauen Stadt. Überall auf ihren Ziegelmauern kleben Poster mit dem Wandelnden Gott in einer edlen Pose und darunter dem Motto: "Beständig!" 
+
+Ein Trupp bewaffneter Polizisten marschiert an dir vorbei. Die Leute zucken bei ihrem Anblick zusammen. Du trittst in eine Gasse und mitten hinein in eine abgerissene Gruppe in den Farben der Ersten. Sie warten, bis die Polizisten vorüber sind und stürzen dann mit selbst gebauten Waffen hinter ihnen her.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Du landest in der Nähe des Versöhners. Du siehst keine Spur von den Soldaten, die ihn normalerweise bewachen oder den Wänden oder Türen, die ihn schützen. Tatsächlich ist er nicht einmal mehr in seiner Kammer, sondern in einer Art Blase außerhalb von Zeit und Raum. 
+
+Du gehst um die Blase herum und siehst am anderen Ende einen drahtigen Mann in dunkler Rüstung hocken. Er ist voll darauf konzentriert, ein Loch in die Metallhaut des Apparats zu schneiden. Du erkennst den Mann. Es ist Zerronth, einer der gerissensten Agenten des Kalkedon, mit dem Bericael bereits mehr als einmal die Klingen gekreuzt hat. 
+
+Als du dich an ihn heranschleichst, wirbelt er erschrocken herum und streckt flehend die Hände aus. "Brunna!" keucht er. "Warte. Hör mir zu! Ich habe dir etwas zu sagen, das du unbedingt hören musst."
+
+{ART: Mere_RI1_05_Verronth}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Raus damit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Du kannst Zerronth nicht vertrauen. Ihn angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Du weißt, dass der Kummer Miel Avest angegriffen und zerstört hat, ja? Hör zu – es war deine eigene Kommandantin, Paj Rekken, die die Schilde deaktiviert und dem Kummer ermöglicht hat, in das Heiligtum einzudringen. Deshalb war sie dort und deshalb konnte sie "rechtzeitig" entkommen." Er zischt von Gefühlen überwältigt: "Miel Avest war immer ein Ort des Friedens. Paj hat diesen Frieden gebrochen und unzählige unserer Brüder und Schwestern auf dem Gewissen – mehr, als in diesem törichten Krieg je gestorben sind..."
+
+Er sieht dir in die Augen. "Ich kenne und schätze dich als ehrenwerte Gegnerin, Brunna, aber deine Anführerin ist grausam und verrückt. Wenn dir irgendetwas an der Zukunft der Abgeworfenen liegt, musst du sie aufsuchen und zur Rede stellen. Verhindere, dass sie noch mehr von uns tötet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Denkst du, ich kämpfe gegen Bericael, die lebende Klinge? Ich bin doch nicht lebensmüde."
+
+Er verbeugt sich, macht einen Schritt weg vom Versöhner, dreht sich um und verschwindet in einen Realitätssplitter. Kaum ist er weg, verschwindet auch die Blase rund um die Maschine und sie kehrt an ihren rechtmäßigen Ort und in ihre rechtmäßige Zeit zurück. 
+
+Du wendest dich den Splittern zu, um es der Maschine gleichzutun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Du stürzt dich mit dem Schwert auf ihn. Er versucht, deinen Hieb mit dem Teleportierstab zu parieren, der dich zwei Schritte in jede von ihm gewünschte Richtung teleportieren kann –auch in Felsen oder Metall hinein. Doch du kannst seinem Schlag ausweichen und rammst ihm das Schwert in den Körper. Er geht blutend zu Boden und du schneidest ihm die Kehle durch. Der Versöhner der Wahrheiten ist in Sicherheit – zumindest fürs Erste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Du stürzt dich mit dem Schwert auf ihn. Er pariert mit dem Teleportierstab und teleportiert dich glücklicherweise nur zwei Schritte zurück, obwohl er dich auch mitten in den Versöhner hinein befördern hätte können. Dann dreht er sich um, springt in einen Realitätssplitter und ist verschwunden. Wenigstens ist der Versöhner der Wahrheiten in Sicherheit – zumindest fürs Erste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Du siehst dich verzweifelt um. Das ist eindeutig der richtige Ort. Du hast ihn bereits unzählige Male auf den Karten gesehen, doch die riesige, an eine Kröte erinnernde Maschine, die hier inmitten der Schlucht hocken müsste, ist nirgends zu sehen. Auch gibt es keinerlei Anzeichen dafür, dass sie je hier gewesen wäre – keine Abdrücke, keine aufgewühlte Erde, nichts. Auch keinerlei Spur von den Männern und Konstrukten, die sie bewachen müssten. Hier ist nichts und niemand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Zu Lovac zurückkehren und ihm von deinem Misserfolg berichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Du verfolgst deine Schritte durch die Weißen Nester zurück zu Lovacs Bunker.
+
+Er begrüßt dich mit offenen Armen und einem breiten Lächeln. "Ein durchschlagender Erfolg, meine Liebe. Was auch immer du getan hast, unser Versöhner ist wieder funktionsfähig und wir konnten unsere jüngsten Verluste bereits ungeschehen machen."
+
+"Ich habe Paj Rekken von deiner Heldentat berichtet und sie möchte dir persönlich dafür danken. Geh gleich zu ihr. Sie ist in der Flor, bei einer Besprechung mit der Memovira. Ich denke, sie hat dort noch mehr weitere Aufträge für dich."
+
+{ART: Mere_RI1_01_Lovac}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Nach der Erwiderung suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Erneut nach der Erwiderung suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Du kletterst die Wand der Schlucht hoch und suchst die Landschaft ab, doch auch in den anderen Schluchten findest du keine Spur von der Himmelserwiderung. Entweder, die Maschine ist spurlos verschwunden oder sie war gar nie hier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Die erneute Suche ist ebenso ergebnislos wie die letzte. Du gehst sogar zurück in die Weißen Nester, um sicherzugehen, dass du nicht den falschen Ausgang genommen hast. Es gibt nur diesen einen. die Himmelserwiderung *muss* hier sein. Ist sie aber nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Du verfolgst deine Schritte durch den Realitätssturm zurück zu Lovacs Bunker.
+
+Er begrüßt dich mit offenen Armen und einem breiten Lächeln. "Ein durchschlagender Erfolg, meine Liebe. Was auch immer du getan hast, unser Versöhner ist wieder funktionsfähig und wir konnten unsere jüngsten Verluste bereits ungeschehen machen."
+
+"Ich habe Paj Rekken von deiner Heldentat berichtet und sie möchte dir persönlich dafür danken. Geh gleich zu ihr. Sie ist in der Flor, bei einer Besprechung mit der Memovira. Ich denke, sie hat dort noch mehr weitere Aufträge für dich."
+
+{ART: Mere_RI1_01_Lovac}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Seit damals ist unser Krieg nur mehr eine Abfolge von Finten und Gegenfinten, konkurrierenden und kollabierenden Realitäten, in denen keine Schlacht je wirklich gewonnen oder endgültig verloren wird, und wo beide Seiten ständig auf der Suche nach dem alles entscheidenden Vorteil sind."
+
+Er seufzt und starrt auf den Tisch, wo die zahlreichen Schlachtfelder eines nach dem anderen erlöschen, bis nur mehr eines übrig ist. "Und es scheint, als hätte der Kalkedon, der General des Wandelnden Gottes, diesen Vorteil nun gefunden. Der Versöhner ist funktionsunfähig und die Himmelserwiderung bestens verteidigt – ich weiß nicht, wie wir das Blatt noch zu unseren Gunsten wenden sollen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Erzählt mir mehr über die Weißen Nester."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Erzählt mir von dem Realitätssturm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Die Weißen Nester", beginnt Lovac,"sind die Katakomben, in denen der Kalkedon seine stratharianischen Kriegsfalter ausbrütet. Ein furchtbarer Ort. Ich weiß nicht, wozu die Tunnel einst gedient haben, doch inzwischen sind sie ein Chaos aus Netzen und Larven. Es gibt dort auch unzählige Fallen, da der Feind genau weiß, dass die Tunnel ein möglicher Einfallspunkt sind, doch die wahre Gefahr geht von Faltern selbst aus – schreckliche Kreaturen, deren phosphoreszierendes Leuchten das Fleisch vertrocknen lässt und den Geist in den Wahnsinn treibt."
+
+Ihn schaudert. "Wenn sie deiner Gegenwart erst mal gewahr wurden, ruhen sie nicht, bis sie dich getötet haben. Das wird kein leichter Weg, in keiner Weise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Lovac schüttelt den Kopf. "Der Wandelnde Gott und wir haben den Versöhner der Wahrheiten und die Himmelserwiderung mittlerweile so oft gegeneinander eingesetzt, dass es im Niemandsland zwischen den Fronten Orte gibt, wo keine eindeutige Realität mehr herrscht. Abgebrochene Wahrscheinlichkeitswellen rollen über das Feld wie Sturmböen, verändern alles in ihrem Weg und ermöglichen den Eintritt in andere Zeiten oder Versionen der Gegenwart. Und wenn man eine andere Version der Realität betritt, haben sich natürlich auch alle Splitter, denen man in dieser Realität begegnet, geändert."
+
+Er wird bleich. "Dieser Weg ist weniger tödlich als der andere, aber in einem solchen Labyrinth der Realitäten kann man sich für immer verlieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Stimmt", sagt der Abgeworfene mit den zwei Mündern. "Aber jemand, der weiß, durch welche Realitäten der, den sie verfolgt, gekommen ist, könnte ihm folgen."
+
+Er legt eine Hand auf deine Schulter. "Der Saboteur und du, ihr seid euch ähnlich. Euch treibt das gemeinsame Verlangen an, der Gerechtigkeit und dem größeren Ganzen zu dienen. *Nutze* das. Hör auf deinen Körper und auf die Gezeiten und du müsstest den Weg des Saboteurs nachvollziehen können." Er zuckt mit den Schultern. "Oder zumindest die Möglichkeiten einengen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Zwei Tage und zwei lange Märsche später sind Lovacs Truppen und du fünfzig Kilometer in das Gebiet des Wandelnden Gottes vorgedrungen. Während die Soldaten in die eine Richtung weitermarschieren, nimmt Lovac dich beim Arm und deutet auf eine Schlucht. "Dort liegt dein Ziel. Folge dieser Schlucht. Nach einem Kilometer wirst du Hauptmann Hugo Igratch treffen. Er kennt die Weißen Nester besser als irgendwer sonst und wird dir helfen, sie zu durchqueren. Danach bist du auf dich alleine gestellt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Du machst dich zum Gehen bereit, doch er hält dich zurück. "Warte. Nimm das hier. Es ist nicht viel, aber es könnte jemandem von deinem... Temperament ganz nützlich sein. Es ist ein Material-Entfernungs-Cypher. Er lässt alles, was nicht menschlich ist, verschwinden – Fallen, Falter oder Maschinen. Viel Glück, Soldatin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Ich tue, was nötig ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Keine Sorge, Sir. Ich lasse mich nicht aufhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Wenn diese Mission hilft, unsere Truppen zu schützen, übernehme ich sie nur zu gerne, Sir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Lovac lächelt, als er sich umdreht."Viel Glück, Brunna."
+
+Du betrittst die Schlucht. Sie führt dich weg von den Kämpfen und wird immer tiefer, je weiter du kommst. Schließlich kommst du an einen Punkt, der so eng ist, dass die Wände der Schlucht beinahe ein Dach über dir bilden. Hier tritt ein Mann mit zwei Ergovore-Hunden an der Leine aus einer Höhle und lächelt dich an.
+
+Der Mann ist dünn und klein und hat dunkelbraune Augen und einen freundlichen Blick. Seine Augenhöhlen scheinen endlos tief zu sein – ein Eindruck, der durch seine große Nase und sein breites Lächeln noch verstärkt wird. Sein Gesicht ist eingerahmt von langen, glatten Haaren, die von einigen grauen Strähnen durchzogen sind. Ihn umgibt die Ausstrahlung eines wachen Geistes, als würde er diesen aus jeder Zelle seines Körpers versprühen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Lovac lächelt, als er sich umdreht."Was kann mit einer solchen Einstellung schon schiefgehen?"
+
+Du betrittst die Schlucht. Sie führt dich weg von den Kämpfen und wird immer tiefer, je weiter du kommst. Schließlich kommst du an einen Punkt, der so eng ist, dass die Wände der Schlucht beinahe ein Dach über dir bilden. Hier tritt ein Mann mit zwei Ergovore-Hunden an der Leine aus einer Höhle und lächelt dich an.
+
+Der Mann ist dünn und klein und hat dunkelbraune Augen und einen freundlichen Blick. Seine Augenhöhlen scheinen endlos tief zu sein – ein Eindruck, der durch seine große Nase und sein breites Lächeln noch verstärkt wird. Sein Gesicht ist eingerahmt von langen, glatten Haaren, die von einigen grauen Strähnen durchzogen sind. Ihn umgibt die Ausstrahlung eines wachen Geistes, als würde er diesen aus jeder Zelle seines Körpers versprühen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Lovac lächelt, als er sich umdreht."Das ist die richtige Einstellung, Bericael. Danke."
+
+Du betrittst die Schlucht. Sie führt dich weg von den Kämpfen und wird immer tiefer, je weiter du kommst. Schließlich kommst du an einen Punkt, der so eng ist, dass die Wände der Schlucht beinahe ein Dach über dir bilden. Hier tritt ein Mann mit zwei Ergovore-Hunden an der Leine aus einer Höhle und lächelt dich an.
+
+Der Mann ist dünn und klein und hat dunkelbraune Augen und einen freundlichen Blick. Seine Augenhöhlen scheinen endlos tief zu sein – ein Eindruck, der durch seine große Nase und sein breites Lächeln noch verstärkt wird. Sein Gesicht ist eingerahmt von langen, glatten Haaren, die von einigen grauen Strähnen durchzogen sind. Ihn umgibt die Ausstrahlung eines wachen Geistes, als würde er diesen aus jeder Zelle seines Körpers versprühen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Lovac nickt und sieht die anderen an. "Irgendwelche Einwände gegen Bericaels Entscheidung?"
+
+"Ich stimme zu", sagt der Abgeworfene mit den beiden Mündern. "Es kann schnell erledigt werden und das Risiko ist gering."
+
+"Und wenn wir Bericael verlieren", sagt die Abgeworfene in der roten Rüstung, "können wir immer noch auf meinen Vorschlag mit dem Frontalangriff zurückkommen und jemand anderen durch die Weißen Nester schicken."
+
+"Gut", sagt Lovac und erhebt sich. "Bericael, dies sind die Handschuhe des Saboteurs. Benutze ihren Geruch und ihre Gezeiten, um deinen Mann durch die Splitter zu verfolgen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Schwer bewacht und mit Kraftschilden und Temporalrandomisierern ausgerüstet, begleitet dich Lovac bis zum Rand des Niemandslandes. Schützengräben ziehen sich wie Narben durch den Boden und die Luft ist dick mit aufgewühltem Rauch, doch der noch nervenaufreibendere Anblick sind die Zeit- und Realitätssplitter, die wie Sommergewitter über das Land ziehen. In einem marschieren große Armeen. In einem anderen brennen Konstrukte mit leuchtenden Augen die Häuser fliehender Dorfbewohner nieder. Und so geht es immer weiter.
+
+Lovac deutet geradeaus. "Dort – irgendwo – ist dein Ziel. Benutze deine Instinkte, um den Schurken zu erwischen, aber sei vorsichtig. Zu viele Sprünge und du könntest in Realitäten landen, in denen der Sturm abklingt und die Splitter sich schließen. Pass auf, dass du nicht in einer entfernten Realität festsitzt, ohne Weg zurück."
+
+{ART: Mere_RI1_04_ShardStorm}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Du dankst Lovac und gehst auf den Splittersturm zu, die Handschuhe des Saboteurs in der Hand. Kaum zu glauben, aber der Plan scheint zu funktionieren. Einige der Scherben haben den falschen Geruch und du kannst sie leicht links liegen lassen. Bei anderen fällt dir Entscheidung schwerer, doch schließlich – vielleicht, weil du eine seltsame Verwandtschaft zu dem einsamen Agenten fühlst, der vor dir durch diese Dimensionen gehuscht ist – bleiben nur zwei Kandidaten übrig: Ein See im Mondschein und eine hell erleuchtete Schlucht, über die Schatten huschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Du stehst am Rande einer sonnendurchfluteteten Schlucht und beobachtest einen Luftkampf zwischen nackten Frauen und Männern, die an Gleitschirme aus Holz und Stoff geschnallt sind. Die Hälfte der Schirme hat die Farben des Wandelnden Gottes, die andere Hälfte jene der Ersten. 
+
+Die Flieger attackieren einander mit langen, mit Klingen besetzten Stäben und versuchen, Flügel und Fleisch der Gegner gleichermaßen aufzuschlitzen. Ab und zu stürzt einer der Schirme taumelnd in die Schlucht. 
+
+Der Splittersturm wirbelt auf einem Tafelberg in der Mitte der Schlucht. Du läufst über die Brücke, die zu ihm führt. Zwei Splitter scheinen vielversprechend: Ein schlammiges Schlachtfeld im Regen und ein hügeliges Farmland in der Abenddämmerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Auf einem vom Regen in Schlamm verwandelten und mit Leichen und zerstörten Mantis-Kriegskonstrukten übersäten Schlachtfeld steht der Kalkedon mit dem Rest seines Kommandos. Vor ihm knien Paj Rekken und ihre Generäle. Sie übergibt ihm ihr Schwert. 
+
+Rundherum führen die Soldaten des Kalkedon Paj Rekkens verbliebene Truppen ab – Abgeworfene und Menschen gleichermaßen. Viele haben nicht überlebt. Die meisten liegen tot auf dem Schlachtfeld und werden von Murden-Plünderern um ihre letzten Habseligkeiten erleichtert. Hinter ihnen kannst du gerade noch die Wellen ausmachen, die der Realitätssturm schlägt.
+
+Du läufst darauf zu. Als du näherkommst, erscheinen zwei Splitter vielversprechender als der Rest: Ein glitzernder Sumpf und eine erbitterte Schlacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Verschwinde, und ich werde darüber nachdenken. Ansonsten..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Zerronth sagt, dass es Kommandantin Rekken war, die die Schilde von Miel Avest deaktiviert hat und dem Kummer so ermöglicht hat, unsere Geschwister zu töten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Danke, Sir. Ich gehe dann in die Flor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Ich möchte nicht gehen. Ich möchte Euch hier weiter dienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Lovac verzieht das Gesicht. "Wahrscheinlich erzählt er diese Lügen, um dich gegen unsere Kommandantin aufzuhetzen. Ich an deiner Stelle würde diesen Unsinn in ihrer Gegenwart nicht erwähnen. Es wäre ihrer Meinung von dir nicht zuträglich. Jetzt geh."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Ich danke *dir*", sagt Lovac. "Grüß die Kommandantin von mir."
+
+Du verbeugst dich, verlässt den Bunker und gehst zu den Xi-Drachen-Stallungen. Dort besteigst du den Drachen, den die Stallburschen für dich gesattelt haben, und fliegst nach Sagusklippen, wo du im Schatten der Stadt in der Nähe des lebenden, glitzernden Fleischberges namens Flor landest. 
+
+Du suchst die nächste Öffnung auf und die Wachen dort weisen dir den Weg zur Festung der Memovira. Durch Eingeweide und Herzkammern der Flor erreichst du schließlich die Tore der Festung. Ihre Wachen lassen dich ohne ein Wort passieren und du wirst in einen Vorraum gebracht. Hinter einer Tür hörst du die laute und frustrierte Stimme von Paj Rekken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Was wir beide wollen, spielt keine Rolle ", sagt Lovac. "Was die Kommandantin befiehlt, geschieht."
+
+Du verbeugst dich, verlässt den Bunker und gehst zu den Xi-Drachen-Stallungen. Dort besteigst du den Drachen, den die Stallburschen für dich gesattelt haben, und fliegst nach Sagusklippen, wo du am Fuße der Stadt in der Nähe des lebenden, glitzernden Fleischberges namens Flor landest. 
+
+Die Wachen an der nächsten Öffnung sagen dir, dass Paj Rekken bei der Memovira ist. Du betrittst und durchquerst die Flor und erreichst schließlich die Festung der Memovira. Ihre Wachen lassen dich ohne ein Wort passieren und du wirst in einen Vorraum gebracht. Hinter einer Tür hörst du die laute und frustrierte Stimme von Paj Rekken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Paj betritt den Raum hinter ihr und nickt dir zu. "Ah, Bericael. Die treue Klinge, um die du mich gebeten hast. Und es scheint, als kenne sie bereits dein Geheimnis."
+
+Die Memovira sieht dich eindringlich an. "Dann sollte sie besser wirklich so treu sein, wie du sagst. Stell mich vor."
+
+"Bericael", sagt Paj. "Darf ich vorstellen: Die Erste, unsere mutige Anführerin. So mutig, dass sie sich seit über hundert Jahren hinter meinem Rockzipfel versteckt."
+
+"Das reicht, Paj", schnauzt die Erste sie an und mustert dich. "Ich bat Kommandantin Rekken, mir ihre beste Kriegerin zu schicken, denn in den nächsten Tagen brauche ich eine Agentin, die meine Befehle ohne Zögern ausführt, egal, wie sie lauten. Kannst du das Bericael Brunna? Bist du bereit, *alles* zu tun, um den Wandelnden Gott aufzuhalten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Ja. Ich werde tun, was Ihr verlangt. Es ist mir eine Ehre, Euch zu dienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Die Erste lächelt. "Ausgezeichnet. Dann wirst du hierbleiben und diesen Palast bewachen. Ein Kampf steht bevor und deine Klinge wird unverzichtbar sein, wenn wir siegen wollen."
+
+Als du dich umdrehst, um dich von Paj zu verabschieden, zieht dich etwas wie eine Faust zurück in deinen eigenen Körper. Das Letzte, was du mitbekommst, ist Paj, die dich reserviert ansieht und murmelt: "Viel Glück bei deiner neuen Aufgabe, Schwester. Ich hoffe, sie wird uns nicht zu Gegnerinnen machen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Ich fühle mich geehrt, doch meine Treue gehört allein der Kommandantin, der ich in all diesen Jahren gedient habe. Ich werde tun, was Paj mir befiehlt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Die erste sieht nachdenklich von dir zu Paj und wieder zu dir. "Dann muss ich wohl darauf vertrauen, dass Paj mir treu bleibt, nicht wahr?"
+
+Sie wendet sich an Paj. "Wie lauten deine Befehle für diese Klinge?"
+
+Paj sieht dich an und nimmt eine entschlossene Haltung an. "Bericael, beschütze die Erste und befolge all ihre Befehle. Ab sofort ist sie deine Kommandantin, nicht ich."
+
+Als die Erste dich in ihre Dienste willkommen heißt, zieht dich etwas wie eine Faust zurück in deinen eigenen Körper. Das Letzte, was du mitbekommst, ist deine neue Kommandantin, die zu dir sagt: "Das letzte Kind kommt, Bericael. Wir müssen bereit sein..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Paj, Zerronth, hat gesagt, dass der Kummer Miel Avests Schilde nicht überwunden hat, sondern dass sie absichtlich deaktiviert wurden – von *Euch*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Ha!" ruft Paj. "Er lügt! Maralel hat mich dorthin geschickt, um auf die Ankunft des jüngsten Kindes des Wandelnden Gottes zu warten. Der Kummer hat das Lager erst angegriffen, nachdem ich zurückgekehrt war und meinen Bericht..."
+
+Paj sieht die Erste mit wachsendem Misstrauen an. "Ich habe dir berichtet, dass das Kind im Lager war, und *danach * hat der Kummer es erst angegriffen. Bitte, Schwester, sag mir, dass das ein Zufall war. Bitte-"
+
+"Das Kind musste sterben", sagt die Erste. "Dies war der beste Weg, um es zu töten."
+
+Paj starrt sie an. "Du... du hast sie dafür geopfert? Unsere Geschwister? Aadiriis?"
+
+"Nicht *alle*", sagt die Erste. "Um die *große Mehrzahl* unserer Geschwister zu retten, musste ich den Tod einiger *weniger* in Miel Avest in Kauf nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>[Angriff] "Du hast die Abgeworfenen verraten. Dafür wirst du sterben!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Du greifst die Erste an. Ziehen und Zuschlagen ist eine einzige schnelle Bewegung, doch deine Klinge gleitet durch sie durch, ohne sie zu verletzten. Du hast nur ein Abbild angegriffen, nicht die wahre Erste. 
+
+"Fasst sie lebend!" befiehlt das Abbild. "Ich will wissen, wer sie zu diesem Verrat angestiftet hat!" 
+
+Ein Dutzend versteckte Wachen kommen zum Vorschein und feuern Schallpistolen auf dich ab, die dich zu Boden werfen und dir das Gehirn zu Brei klopfen. Das Letzte, was du mitbekommst, als Bericael ohnmächtig wird und du in deinen Körper zurückgezogen wirst, ist Paj, die dich hält und dir zuflüstert. 
+
+"Arme, heroische, dumme Bericael. Es wäre eine Zeit gekommen, sich ihr entgegenzustellen, aber nicht hier und jetzt. Nicht hier und jetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Wenn der Kummer stark genug ist, in Miel Avest einzudringen", sagt Paj, "dann ist er unser größter Feind. Wir müssen den Wandelnden Gott entweder rasch besiegen oder uns mit ihm verbünden, um den Kummer zu zerstören."
+
+Du kennst die Stimme, die ihr antwortet: Es ist die Memovira. "Anders herum wird ein Schuh daraus, Schwester. Wir werden den Kummer benutzen, um den Wandelnden Gott zu zerstören. Wir müssen ihn nur auf unseren Feind ansetzen."
+
+Paj stöhnt. "Soll ich das etwa unseren Überlebenden sagen? Dass sie das Monster, das dieses Massaker unter uns angerichtet hat, gewähren lassen sollen, in der Hoffnung, dass es unseren Feind zuerst vernichtet? Warum gibst du dich nicht endlich zu erkennen?"
+
+Die Tür geht auf und die Memovira tritt ein. "Die Zeit dafür ist noch nicht-" Sie verstummt, als sie dich sieht. "Wer ist das?" 
+
+{ART: Paj and the First}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Für nichts!" zischt Paj. "Das Kind ist entkommen!"
+
+"Es war das Risiko wert", sagt die Erste.
+
+Paj vergräbt das Gesicht in ihren Händen. "Mag sein, aber..." Sie blickt wieder auf. "Du hättest es mir sagen können! Du hättest mich Aadiriis und andere, die uns treu sind, warnen lasen können. Du-"
+
+"Das konnte ich nicht riskieren", sagt die Erste. "Die, die du gewarnt hättest, hätten auch das Kind warnen können. Das ging nicht."
+
+"Dann hättest du mir befehlen können, Aadiriis hierherzubringen!" ruft Paj. "Unter irgendeinem Vorwand. Du hättest deinen Plan nicht verraten müssen. Stattdessen hast du zugelassen, dass Aadiriis-"
+
+"Aadiriis war eine Mutter für uns alle", unterbricht sie die Erste. "Viel zu gutmütig für den kommenden Konflikt."
+
+Paj starrt sie mit offenem Mund an. "Du hast sie... absichtlich sterben lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Die Erste wendet sich von Paj ab. "Eine Anführerin muss auch schwierige Entscheidungen treffen. Das solltest du mittlerweile wissen."
+
+Sie sieht dich an. "Also, Bericael. Nun kennst du *alle* meine Geheimnisse. Wirst du mir dennoch dienen? Wirst du unseren Überlebenskampf bis zum Ende mit mir ausfechten? Oder wendest du dich aufgrund törichter Gefühle von dem ab, was kommen muss?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Du greifst ein drittes Mal an und wieder kannst du einen Falter zerstören, ohne erwischt zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Immer noch nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Aber die Himmelserwiderung war nicht da, Sir. Ich habe gar nichts gemacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Lovac lacht. "Was? Machst du Witze? Nun, wenn du es sagst, will ich dir glauben, aber irgendetwas *musst* du gemacht haben, denn der Zustand vor der Sabotage wurde wiederhergestellt."
+
+Er zuckt mit den Schultern. "Weißt du, was ich glaube? Dein Durchkommen zwang den Kalkedon dazu, sich in eine Realität zurückzuziehen, in der der Versöhner nicht sabotiert worden war. Er *musste* uns den Versöhner zurückgeben, wenn er die Himmelserwiderung behalten wollte." Er lacht. "So ist sie, die Endlose Schlacht –undurchschaubar und sich selbst in den Schwanz beißend. In jedem Fall hast du dich tapfer geschlagen. Kein Wunder, dass Kommandantin Rekken dich sehen will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Die Höhle wird enger, als du sie betrittst, und dann an einer Steinmauer mit einem mannshohen Spalt wieder breiter. Igratch lässt zuerst seine Hunde durch und zwängt sich dann selbst seitwärts durch den Spalt. Du machst es ihm nach und betrittst in einen L-förmigen Tunnel, der von Seidenfäden und Knochen übersät ist und stinkt, dass dir die Augen tränen. 
+
+Dein Führer zeigt dir auf der Karte, dass ihr euch im Südwesten der Tunnel befindet. Wege führen nach Westen und Norden. 
+
+"Wohin jetzt, Schwester?" fragt Igratch. 
+
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Du bist zurück in einem L-förmigen Tunnel im Südwesten der Weißen Nester. Wege führen nach Westen und nach Norden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Dieser Raum wimmelt vor Falterlarven, groß wie ein menschliches Baby. Sie schnüffeln durch ein Bett aus Seide, blind und hilflos, aber alles andere als harmlos. In einer Ecke siehst du ein frisches Skelett – die Knochen sind noch saftig, aber völlig abgenagt. Die Babys waren hungrig.
+
+Du kannst nicht sagen, welche Fallen der Feind in diesem Raum installiert hat, aber du siehst drei Ausgänge – nach Norden, Westen und Osten.
+
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Du bist wieder in dem Raum, in dem es vor Larven wimmelt. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Du hältst kurz inne und gehst deine Optionen durch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Nach Norden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Nach Osten gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Nach Süden gehen,</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Nach Westen gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Herausfinden, welche Art Falle sich in diesem Raum befindet, bevor du ihn betrittst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Den Raum betreten, ohne zu testen, welche Art Falle sich darin verbirgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Den Material-Entfernungs-Cypher in den Raum werfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Ka-BUMM! Eine Sprengmine! Du bekommst einige Splitter ab, aber du überlebst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Ein weiterer L-förmiger Tunnelabschnitt, doch dieser ist überschwemmt und in ihm steht hüfthoch trübes Wasser, in dem Fetzen abgeworfener Kokons schwimmen. Gelegentlich steigen Blasen an die Oberfläche. 
+
+Es gibt zwei Ausgänge nach Norden und Osten und ohne es zu testen, kannst du nicht sagen, welche Art Falle der Feind im Wasser gelegt hat. 
+
+{Room 4. Bomb. Exits are North, East. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Dies ist bloß eine leere Kreuzung mit Wegen, die nach Norden, Westen, Osten und Süden führen. Du kannst jedoch fühlen, dass hier irgendwo eine Falle lauert. Leider kannst du nicht sagen, welcher Art sie ist, ohne sie zu testen. 
+
+{Room 7. Cypher. Exits are North, West, East, South. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Der Korridor führt hinab in eine niedere Höhle voller Stalaktiten und Stalagmiten, die dir das Gefühl gibt, als würdest du das Maul einer riesigen Bestie betreten, die dich in einem Stück verschlingen könnte. 
+
+Im von den Tropfsteinen gebrochenen Zwielicht siehst du Ausgänge nach Norden, Osten und Süden. Du siehst jedoch nicht, wo der Feind hier seine Falle gelegt hat. Du wirst sie testen müssen, um herauszufinden, welcher Art sie ist. 
+
+{Room 8. Bomb. Exits are North, East, South. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Der Korridor endet an einem bodenlosen Schacht, in dessen Mitte sich vier enge Brücken ohne Geländer treffen. Offene Torbögen in den Wänden /des Schachts? führen nach Norden, Westen, Osten und Süden. Du bist sicher, dass der Punkt, an dem die vier Brücken sich treffen, mit einer Falle gesichert ist. Leider wirst du sie testen müssen, um herauszufinden, welcher Art sie ist.
+
+{Room 10. Bomb. Exits are North, West, East, South. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Das Dach dieses Raums ist eingestürzt und wird nur noch durch einige steinerne Sarkophage hochgehalten. Du hockst dich hin und siehst, dass Ausgänge nach Norden, Westen, Osten und Süden führen. Du wirst auf allen Vieren kriechen müssen, um zu ihnen zu gelangen. Du weißt auch nicht, welche Art Falle dein Feind hier installiert hat. Du wirst sie testen müssen. 
+
+{Room 11. Cypher. Exits are North, West, East, South. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>Dieser Raum ist von einem hüfthohen Sumpf aus Raupenseide bedeckt, in dem du es rascheln hörst und aus dem menschliche Knochen – Arme und Hände – hervorstehen wie die Zweige einer skelettartigen Hecke.
+
+Hinter dem Sumpf siehst du drei Ausgänge, die nach Norden, Osten und Süden führen. Du kannst jedoch ohne es zu testen nicht sagen, welche Falle sich in den Seidennetzen verbirgt. 
+{Room 12. Bomb. Exits are North, East, South. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Ein weiterer L-förmiger Korridor, der nach Westen und Süden führt. Sein steinerner Boden so zertrümmert, als wäre hier bereits einmal etwas explodiert – abgebrochene spitze Scherben und schiefe Platten warten hier auf dich. Schwieriges Terrain. 
+
+Du bist sicher, dass sich hier auch eine Falle verbirgt, doch du wirst sie testen müssen, um zu wissen, worum genau es sich handelt.
+
+{Room 13. Bomb. Exits are West, South. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Dies ist ein Gebeinhaus. Überall sind verrottende menschliche Leichen wie Stapel Feuerholz aufgeschlichtet. Der Geruch alleine reicht aus, dass du dich am liebsten auf der Stelle übergeben möchtest.
+
+Ausgänge führen nach Osten, Westen und Süden, aber um zu ihnen zu gelangen, musst du dich zwischen den Leichenstapeln durchzwängen. Außerdem bist du sicher, dass irgendwo in den engen Durchgängen eine Falle lauert. Du wirst sie testen müssen, um zu wissen, welcher Art sie ist. 
+
+{Room 14. Cypher. Exits are West, East, South. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Abgesehen von dem schwachen Licht, das von den nach Westen, Osten und Süden führenden Ausgängen hereinkommt, ist dieser Raum unnatürlich dunkel. Allerdings ist die Dunkelheit voller flüsternder Stimmen – ein ständiges Zischen und Hissen. Mal glaubst du, deinen Namen zu hören, dann die Stimme eines längst verstorbenen alten Freundes, der dich anfleht, ihn von seinen Schmerzen zu erlösen, dann gemurmelte Vorwürfe von Verrat. 
+
+Irgendwo in der Dunkelheit hat der Feind eine Falle für dich gelegt, aber du wirst sie testen müssen, um zu wissen, welcher Art sie ist. 
+
+{Room 15. Cypher. Exits are West, East, South. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>Ein scheinbar leerer Raum mit Ausgängen, die nach Osten und Süden führen, und einer Treppe an der nördlichen Wand, die hinauf ans Tageslicht führt. Du hast den Ausgang gefunden!
+
+Aber nur jetzt nichts überstürzen. Dieser Raum könnte ebenfalls mit einer Falle versehen sein. Vielleicht solltest du das erst mal testen. 
+
+{Room 16. Cypher. Exits are East, South and North. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Dieser Raum hat eine niedere Decke und unzählige von Seidenfäden umhüllte Steinsäulen. Es ist nicht leicht, in zur Gänze zu überblicken, doch du kannst gerade noch drei Ausgänge erkennen, die nach Norden, Westen und Osten führen. Ohne es zu testen, kannst du auch nicht sagen, welche Art Falle der Feind hier installiert hat.
+
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Deine Schritte hallen in diesem turmhohen Raum, dessen Decke du gerade noch in der Dunkelheit über dir ausmachen kannst. In Seidenfäden gehüllte Grabsteine stehen wie Schachfiguren auf einem schachbrettartigen Boden. Es gibt Ausgänge an allen vier Wänden – nach Norden, Westen, Osten und Süden.
+
+Du weißt, dass zwischen diesen Gräbern eine Falle versteckt ist, doch ohne sie zu testen, kannst du nicht sagen, welcher Art sie ist.
+
+{Room 6. Bomb. Exits are North, West, East, South. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Glitzernde Kokons hängen von der niederen Decke dieses Raums und wogen wie im Wind leicht hin und her, obwohl du keinen Luftzug verspürst.  
+
+Hinter den Kokons siehst du Ausgänge nach Norden, Westen und Süden. Was du jedoch nicht siehst, ist die Falle, die hier bestimmt gelegt wurde. Du wirst sie testen müssen, um herauszufinden, welcher Art sie ist. 
+
+{Room 9. Untested. Cypher. Exits are North, West, South}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Du bist wieder in dem Raum mit den zahlreichen Säulen. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Du bist wieder in dem überschwemmten Korridor. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Dieser Raum ist in das grüne Licht phosphoreszierender Pilze getaucht, die auf allem hier wachsen – auf dem Boden, auf den von der Decke gefallenen Steinen und auf den Leichen von Soldaten, die hier an der Wand liegen als wären sie dorthin geworfen worden. Selbst die offenen Durchgänge, die von dem Raum nach Norden, Westen und Süden führen, sind voller Pilze. 
+
+Irgendwo zwischen den Pilzen ist eine Falle versteckt, doch ohne sie zu testen kannst du nicht sagen, welcher Art sie ist.
+
+{Room 5. Bomb. Exits are North, West, South. Untested.}
+{ART: Mere_RI1_02_Map - showing current room location if possible}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Du bist wieder in dem Raum mit den leuchtenden Pilzen. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Du bist wieder in dem Raum mit den Grabsteinen. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Du bist wieder an der leeren Kreuzung. Du hast sie noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Du bist wieder in dem Raum mit den Tropfsteinen, die an Zähne erinnern. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Du bist wieder in dem Raum mit den wogenden Kokons. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Du bist wieder bei den vier Brücken. Du hast den Raum noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Du bist wieder in dem Raum mit dem eingestürzten Dach. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Du bist wieder in dem Kokonsumpf. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Du bist wieder in dem Korridor mit dem zerstörten Boden. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Du bist wieder in dem Raum mit den aufgestapelten Leichen. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Du bist wieder in dem dunklen Raum voller flüsternder Stimmen. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Du bist wieder in dem Raum mit der nach oben führenden Treppe. Du hast ihn noch nicht auf Fallen getestet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Dein Test verrät dir, dass ein Energie-Explosions-Cypher in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Dein Test verrät dir, dass ein Energie-Explosions-Cypher in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Der Cypher wurde entschärft und der Weg ist nun frei. Du kannst nach Norden, Westen oder Osten gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Der Cypher wurde entschärft und der Weg ist nun frei. Du kannst nach Norden, Westen oder Osten gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Dein Test verrät dir, dass eine Sprengmine in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Die Mine wurde entschärft und der Weg ist nun frei. Du kannst nach Norden oder Osten gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Dein Test verrät dir, dass eine Sprengmine in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Die Mine wurde entschärft und der Weg ist nun frei. Du kannst nach Norden, Westen oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Dein Test verrät dir, dass eine Sprengmine in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Die Mine wurde entschärft und der Weg ist nun frei. Du kannst nach Norden, Westen, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Dein Test verrät dir, dass ein Energie-Explosions-Cypher an dieser Kreuzung gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Der Cypher wurde entschärft und der Weg ist nun frei. Du kannst nach Norden, Westen, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Dein Test verrät dir, dass eine Sprengmine in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Die Mine wurde entschärft und der Weg ist nun frei. Du kannst nach Norden, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Dein Test verrät dir, dass ein Energie-Explosions-Cypher in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Der Cypher wurde entschärft und der Weg ist nun frei. Du kannst nach Norden, Westen oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Dein Test verrät dir, dass die Brücke mit einer Sprengmine versehen ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Die Mine wurde entschärft und der Weg ist nun frei. Du kannst nach Norden, Westen, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Dein Test verrät dir, dass ein Energie-Explosions-Cypher in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Der Cypher wurde entschärft und der Weg ist nun frei. Du kannst nach Norden, Westen, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Dein Test verrät dir, dass eine Sprengmine in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Die Mine wurde entschärft und der Weg ist frei. Du kannst nun durch die Kokonnetze nach Norden, Osten oder Süden waten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Die Mine wurde entschärft und der Weg ist nun frei. Du kannst nach Westen oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Dein Test verrät dir, dass eine Sprengmine in diesem Korridor gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Dein Test verrät dir, dass ein Energie-Explosions-Cypher in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>Der Cypher wurde entschärft und der Weg ist nun frei. Du kannst jetzt den Atem anhalten und nach Westen, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>Dein Test verrät dir, dass ein Energie-Explosions-Cypher in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Der Cypher wurde entschärft und der Weg ist frei. Du kannst dich nun nach Westen, Osten oder Süden vorantasten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Dein Test verrät dir, dass ein Energie-Explosions-Cypher in diesem Raum gelegt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Der Cypher wurde entschärft und der Weg ist frei. Du kannst nun nach Osten oder Süden gehen oder die Treppe an der nördlichen Wand nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Die Sprengmine entschärfen, bevor du den Raum betrittst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Den Cypher entschärfen, bevor du den Raum betrittst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>ZAPP! Die Falle ist ein Cypher. Er betäubt dich mit einem unheimlichen Energiestrahl, doch bleibst auf den Beinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Ka-BUMM! Eine Sprengmine. Sie reißt einen von Hugos Ergovore-Hunden in Stücke. Glücklicherweise hat das arme Tier die volle Wucht der Detonation abbekommen und Hugo und du bleiben unverletzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>ZAPP! Die Falle ist ein Cypher. Hugos Ergovore-Hunde fressen seine Energie und Hugo und du bleiben unverletzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Ka-BUMM! Eine Sprengmine. Glücklicherweise bekommt der arme Hugo die volle Wucht der Detonation ab. Er liegt tot und aus hundert Wunden blutend zu deinen Füßen. Die nächste Falle, die du auslöst, wird jedoch dich voll erwischen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>ZOKKK! Die Falle ist ein Cypher. Glück für dich: Der arme Hugo bekommt die volle Wucht des Energiestrahls ab. Pech für ihn: Er liegt tot und rauchend zu deinen Füßen. Die nächste Falle, die du auslöst, wird jedoch dich voll erwischen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Ka-BUMM! Eine Sprengmine reißt dich in Stücke. Als du am Boden liegst und hilflos an die Decke starrst, während du verblutest, scheint der Raum um dich herum zu verschwimmen und du wirst aus dem Lebensbild zurück in deinen eigenen Körper gezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>KA-ZACK! Die Falle ist ein Cypher und sein Energiestrahl grillt deine Eingeweide. Als du dampfend am Boden liegst und hilflos an die Decke starrst, während du stirbst, scheint der Raum um dich herum zu verschwimmen und du wirst aus dem Lebensbild zurück in deinen eigenen Körper gezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Ka-BUMM! Eine Sprengmine. Sie tötet den zweiten von Hugos Ergovore-Hunden. Glücklicherweise hat das arme Tier die volle Wucht der Detonation abbekommen und Hugo und du bleiben unverletzt. Allerdings habt ihr nun keine Hunde mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Zurück zum vorigen Raum gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>Der Cypher wurde ausgelöst und hat tote Larven in Richtungen geschleudert. Der Weg ist nun frei. Du kannst nach Norden, Westen oder Osten gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Der Cypher wurde ausgelöst und hat Risse in einigen Säulen verursacht, doch der Weg ist nun frei. Du kannst nach Norden, Westen oder Osten gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Die Sprengmine wurde ausgelöst und hat eine Wasserfontäne bis zur Decke hochsteigen lassen, doch der Weg ist nun frei. Du kannst nach Norden oder Osten gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Die Sprengmine wurde ausgelöst und hat die leuchtenden Pilze pulverisiert, doch der Weg ist nun frei. Du kannst nach Norden, Westen oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Die Sprengmine wurde ausgelöst und hat einige Grabsteine umgeworfen, doch der Weg ist nun frei. Du kannst nach Norden, Westen, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Der Cypher wurde ausgelöst und hat eine große Staubwolke aufgewirbelt, doch der Weg ist nun frei. Du kannst nach Norden, Westen, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>Die Sprengmine wurde ausgelöst und hat Stalaktiten und Stalagmiten gleichermaßen pulverisiert, doch der Weg ist nun frei. Du kannst nach Norden, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Der Cypher wurde ausgelöst und hat die Kokons ausradiert. Der Weg ist nun frei. Du kannst nach Norden, Westen oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Die Sprengmine wurde ausgelöst. Sie hat die Brücke zum Beben gebracht und kleinere Steine in den Abgrund befördert, doch der Weg ist nun frei. Du kannst nach Norden, Westen, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Der Cypher wurde ausgelöst. Die Decke hängt nun noch ein Stück tiefer, doch der Weg ist nun frei. Du kannst nach Norden, Westen, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Die Sprengmine wurde ausgelöst und hat die dicken Netze und menschlichen Skelette aus dem Weg geräumt. Du kannst nun nach Norden, Osten oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Die Sprengmine wurde ausgelöst. Sie hat den Boden noch weiter in Mitleidenschaft gezogen, doch der Weg ist nun frei. Du kannst nach Westen oder Süden gehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Der Cypher wurde ausgelöst und seine Energie hat die Leichen in alle Richtungen geschleudert. Die Durchgänge zwischen den Stapeln sind eingestürzt und wenn du zu den anderen Ausgängen gelangen willst, wirst du buchstäblich über Leichen gehen müssen, doch der Weg nach Westen, Osten oder Süden ist nun frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Der Cypher wurde ausgelöst, doch nicht mal sein Energieblitz konnte den Raum erhellen. Er ist immer noch dunkel und voller flüsternder Stimmen, doch der Weg nach Westen, Osten oder Süden ist nun frei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Der Cypher wurde ausgelöst und hat in dem leeren Raum keinen Schaden angerichtet. Du kannst nun nach Osten oder Süden gehen oder die Treppe an der nördlichen Wand nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>ZAPP! Die Falle ist ein Cypher, doch Hugos letzter Ergovore-Hund frisst seine Energie und Hugo und du bleiben unverletzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Den Raum betreten, ohne die Sprengmine zu entschärfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Ka-BUMM! Die Sprengmine tötet einen von Hugos Ergovore-Hunden. Glücklicherweise hat das arme Tier die volle Wucht der Detonation abbekommen und du Hugo und du bleiben unverletzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Ka-BUMM! Die Sprengmine tötet den zweiten von Hugos Ergovore-Hunden. Glücklicherweise hat das arme Tier die volle Wucht der Detonation abbekommen und Hugo und du bleiben unverletzt. Allerdings habt ihr nun keine Hunde mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Ka-BUMM! Eine Sprengmine tötet den armen Hugo und er liegt tot und aus hundert Wunden blutend zu deinen Füßen. Die nächste Falle, die du auslöst, wird jedoch dich voll erwischen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>ZAPPP! Hugos Ergovore-Hunde fressen den Energiestrahl des Cyphers und machen ihn so unschädlich. Hugo und du bleiben unverletzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>ZAPPP! Hugos letzter Ergovore-Hund frisst den Energiestrahl des Cyphers und macht ihn so unschädlich. Hugo und du bleiben unverletzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>ZOKK! Der Cypher tötet den armen Hugo und er liegt rauchend zu deinen Füßen. Die nächste Falle, die du auslöst, wird jedoch dich voll erwischen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Ka-BUMM! Du löst die Sprengmine aus! Du bekommst einige Splitter ab, aber du überlebst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Ka-BUMM! Du löst die Sprengmine aus und sie reißt dich in Stücke. Als du am Boden liegst und hilflos an die Decke starrst, während du verblutest, scheint der Raum um dich herum zu verschwimmen und du wirst aus dem Lebensbild zurück in deinen eigenen Körper gezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>ZAPP! Du löst den Cypher aus. Er betäubt dich mit einem unheimlichen Energiestrahl, doch du bleibst auf den Beinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>KA-ZACK! Du löst den Cypher aus und sein Energiestrahl grillt deine Eingeweide. Als du dampfend am Boden liegst und hilflos an die Decke starrst, während du stirbst, scheint der Raum um dich herum zu verschwimmen und du wirst aus dem Lebensbild zurück in deinen eigenen Körper gezogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>In der Ferne hörst du das Flattern riesiger Flügel und siehst ein schwaches fauliges Leuchten. Die stratharianischen Kriegsfalter sind erwacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Das Flattern der Falter wird lauter und das Leuchten ihrer Flügel heller. Sie kommen näher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>Die Flügelschläge der Falter dröhnen in deinen Ohren und ihr Licht erleuchtet die Tunnel. Sie haben dich beinahe eingeholt!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Du stolperst aus den Tunnel in eine stille, drückend heiße Schlucht. Am Himmel über dir hängen tiefe Wolken und in der Ferne hörst du den Lärm einer erbitterten Schlacht. 
+
+Du hast es geschafft. Du hast dich hinter die feindlichen Linien geschlichen und hast den Ort erreicht, wo der Kalkedon die Himmelserwiderung versteckt hat. Leider ist jedoch keine Spur von ihr zu sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Den Raum betreten, ohne den Cypher zu entschärfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"Ich bin gerne bereit, Euch zu dienen, solange ich mir dabei Ruhm und Ehre erwerben kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Ich habe genug gehört. Hauptsache, ich bekomme die Gelegenheit, für all das Rache zu nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>Das düstere Schlachtfeld wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>Ein Zug von Transportschlitten hält vor einem völlig verwüsteten Schlachtfeld. Paj Rekken steigt mit ihren kommandierenden Offizieren aus und sieht sich um. Soweit das Auge reicht, ist das Feld mit Leichen von verbrannten Abgeworfenen und Menschen gleichermaßen übersät. Es hat niemand überlebt. Das einzige, was sich hier noch bewegt, ist der Rauch, der aus den Rümpfen zerstörter Kriegsmaschinen aufsteigt
+
+Der Anblick schnürt Paj die Kehle zu. "Sieht so etwa unser Sieg aus?" fragt sie und lässt den Kopf hängen. "Was haben wir getan? Was haben wir nur getan?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Im Westen, halb versteckt in einem grauen Dunst, wirbelt der Realitätssturm. Du hältst dich außerhalb des Sichtfeldes und huscht darauf zu. Als du näherkommst, siehst du in einem Splitter die gewaltigen Umrisse des Versöhners der Wahrheiten. Ohne zu zögern springst du durch den Splitter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>Den glitzernden Sumpf wählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>Es ist Nacht. Du steckst bis zur Hüfte in einem stinkenden Sumpf. Vor dir fliehen furchtbar mutierte primitive Kreaturen durch ein Labyrinth aus Schilf und Bäumen mit herabhängenden Ästen. Sie werden von Soldaten in den Farben der Ersten verfolgt, die sie mit Strahlenwaffen beschießen. 
+
+Du versteckst dich in den Schatten, als zwei Soldaten an dir vorbeilaufen. Du siehst, dass sie keine Menschen sind, sondern Seskii-Hunde, die sich irgendwie zu einer humanoiden Form weiterentwickelt haben, die auf ihren Hinterpfoten aufrecht gehen und deren Vorderpfoten opponierbare Daumen haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>Als die Jagd in der Nacht verschwindet, siehst du den Schimmer des Realitätssturms zwischen den Bäumen durchscheinen. Du gehst auf ihn zu und stellst fest, dass drei Splitter vielversprechender scheinen als die anderen: Ein düsteres Schlachtfeld, eine mit einer grölenden Menschenmenge gefüllte Arena und ein Labyrinth schmutziger grauer Straßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>Als die Jagd wieder in der Nacht verschwindet, vermeinst du den Realitätssturm durch die Bäume schimmern zu sehen, doch als du auf ihn zuläufst, verblasst der letzte Splitter gerade. Der Sturm ist vorübergezogen. 
+
+Bevor du noch überlegen kannst, was du jetzt tun sollst, verschwimmt der Sumpf um dich herum und du spürst, wie du aus dem Lebensbild zurück in deinen eigenen Körper gezogen wirst. Die arme Bericael dagegen ist nun in einer fremden Welt gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>Als die Jagd wieder in der Nacht verschwindet, siehst du den Schimmer des Realitätssturms zwischen den Bäumen durchscheinen. Als du auf ihn zuläufst, bemerkst du jedoch, dass er sogar noch schwächer ist als zuvor. Der nächste Sprung könnte bereits dein letzter sein.
+
+Nichtsdestotrotz scheinen zwei Splitter hier vielversprechender zu sein als der Rest: Ein düsteres Schlachtfeld und ein Labyrinth schmutziger grauer Straßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>Als die Jagd wieder in der Nacht verschwindet, siehst du den Schimmer des Realitätssturms zwischen den Bäumen durchscheinen. Als du auf ihn zuläufst, bemerkst du jedoch, dass hier viel weniger Splitter sind als in früheren Realitäten und Lovacs Warnung kommt dir wieder in den Sinn. Wenn du zu viele weitere Sprünge machst, könntest du in einer fremden Realität stranden. 
+
+Nichtsdestotrotz findest du hier zwei Splitter, die vielversprechender zu sein scheinen als der Rest: Ein düsteres Schlachtfeld und ein Labyrinth schmutziger grauer Straßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>Du wartest nicht ab, bis die Statuen und die Helden auf ihnen aufeinanderprallen. Stattdessen läufst du auf die vermeintliche Position des Realitätssturms zu, doch als du dort ankommst, verblasst der letzte Splitter gerade. Der Sturm ist vorübergezogen. 
+
+Bevor du noch überlegen kannst, was du jetzt tun sollst, verschwimmen die Feuer und Statuen um dich herum und du spürst, wie du aus dem Lebensbild zurück in deinen eigenen Körper gezogen wirst. Die arme Bericael dagegen ist nun in einer fremden Welt gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>Du wartest nicht ab, bis die Statuen und die Helden auf ihnen aufeinanderprallen. Stattdessen läufst du auf den Realitätssturm zu, den du in der Dunkelheit jenseits der Feuer gerade noch ausmachen kannst. Er ist sogar noch schwächer als zuvor. Der nächste Sprung könnte bereits dein letzter sein.
+
+Und was noch schlimmer ist: Nur der Splitter, aus dem du gekommen bist, passt zum Geruch der Handschuhe. Du stürzt dich zurück in das schlammige Schlachtfeld, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>Du wartest nicht ab, bis die Statuen und die Helden auf ihnen aufeinanderprallen. Stattdessen läufst du auf den Realitätssturm zu, den du in der Dunkelheit jenseits der Feuer gerade noch ausmachen kannst. Als du ihn erreichst, bemerkst du, dass hier viel weniger Splitter sind als in früheren Realitäten und Lovacs Warnung kommt dir wieder in den Sinn. Wenn du zu viele weitere Sprünge machst, könntest du in einer fremden Realität stranden.
+
+Und was noch schlimmer ist: Nur der Splitter, aus dem du gekommen bist, passt zum Geruch der Handschuhe. Du stürzt dich zurück in das schlammige Schlachtfeld, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Du wartest nicht ab, bis die Statuen und die Helden auf ihnen aufeinanderprallen. Stattdessen läufst du auf den Realitätssturm zu, den du in der Dunkelheit jenseits der Feuer gerade noch ausmachen kannst, doch nur der Splitter, aus dem du gekommen bist, passt zum Geruch der Handschuhe. Du stürzt dich zurück in das schlammige Schlachtfeld, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>Du läufst dorthin, wo der Realitätssturm sein müsste, erwehrst dich der Bericaels, die dich von links und rechts angreifen und versuchen, dich zu töten, doch als du den Realitätssturm endlich erreichst, verblasst der letzte Splitter gerade. Der Sturm ist vorübergezogen. 
+
+Bevor du noch überlegen kannst, was du jetzt tun sollst, verschwimmt die Schlacht um dich herum und du spürst, wie du aus dem Lebensbild zurück in deinen eigenen Körper gezogen wirst. Die arme Bericael dagegen ist nun in einer fremden Welt gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>Du läufst dorthin, wo der Realitätssturm sein müsste und erwehrst dich der Bericaels, die dich von links und rechts angreifen und versuchen, dich zu töten. Als du die Splitter endlich erreichst, musst du feststellen, dass es noch weniger sind als zuvor. Der Sturm wird schwächer. Der nächste Sprung könnte bereits dein letzter sein.
+
+Und was noch schlimmer ist: Nur der Splitter, aus dem du gekommen bist, passt zum Geruch der Handschuhe. Du stürzt dich zurück in das schlammige Schlachtfeld, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>Du läufst dorthin, wo der Realitätssturm sein müsste und erwehrst dich der Bericaels, die dich von links und rechts angreifen und versuchen, dich zu töten. Als du den Realitätssturm endlich erreichst, musst du feststellen, dass hier viel weniger Splitter sind als in früheren Realitäten. Lovacs Warnung kommt dir wieder in den Sinn. Wenn du zu viele weitere Sprünge machst, könntest du in einer fremden Realität stranden.
+
+Und was noch schlimmer ist: Nur der Splitter, aus dem du gekommen bist, passt zum Geruch der Handschuhe. Du stürzt dich zurück in das schlammige Schlachtfeld, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>Du läufst dorthin, wo der Realitätssturm sein müsste und erwehrst dich der Bericaels, die dich von links und rechts angreifen und versuchen, dich zu töten. Schließlich erreichst du den Sturm, doch nur der Splitter, aus dem du gekommen bist, passt zum Geruch der Handschuhe. Du stürzt dich zurück in das schlammige Schlachtfeld, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>Du schleichst aus der Arena. Hinter einer hohen Mauer in der Nähe kannst du den Realitätssturm fühlen. Du läufst hin und kletterst die Mauer, doch du kommst zu spät. Als du auf der anderen Seite der Mauer landest, verblasst der letzte Splitter gerade. Der Sturm ist vorübergezogen. 
+
+Bevor du noch überlegen kannst, was du jetzt tun sollst, verschwimmen die Mauern um dich herum und du spürst, wie du aus dem Lebensbild zurück in deinen eigenen Körper gezogen wirst. Die arme Bericael dagegen ist nun in einer fremden Welt gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>Du schleichst aus der Arena. Hinter einer hohen Mauer in der Nähe kannst du den Realitätssturm fühlen. Du läufst hin, kletterst die Mauer hoch und landest auf der anderen Seite. Der Realitätssturm ist noch schwächer als zuvor. Der nächste Sprung könnte bereits dein letzter sein.
+
+Und was noch schlimmer ist: Nur der Splitter, aus dem du gekommen bist, passt zum Geruch der Handschuhe. Du stürzt dich zurück in den glitzernden Sumpf, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>Du schleichst aus der Arena. Hinter einer hohen Mauer in der Nähe kannst du den Realitätssturm fühlen. Du läufst hin, kletterst die Mauer hoch und landest auf der anderen Seite. Hier sind viel weniger Splitter als in früheren Realitäten. Lovacs Warnung kommt dir wieder in den Sinn. Wenn du zu viele weitere Sprünge machst, könntest du in einer fremden Realität stranden.
+
+Und was noch schlimmer ist: Nur der Splitter, aus dem du gekommen bist, passt zum Geruch der Handschuhe. Du stürzt dich zurück in den glitzernden Sumpf, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>Du schleichst aus der Arena. Hinter einer hohen Mauer in der Nähe kannst du den Realitätssturm fühlen. Du läufst hin, kletterst die Mauer hoch und landest auf der anderen Seite. Leider passt nur der Splitter, aus dem du gekommen bist, zum Geruch der Handschuhe. Du stürzt dich zurück in den glitzernden Sumpf, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>Du hältst dich von dem folgenden Handgemenge fern und suchst den Realitätssturm. Du findest ihn hinter einem Stacheldrahtzaun in einem zerbombten Häuserblock. Gerade, als du ein Loch in den Zaun schneidest, siehst du, wie der letzte Splitter verblasst. Der Sturm ist vorübergezogen. 
+
+Bevor du noch überlegen kannst, was du jetzt tun sollst, verschwimmt die schmutzige Stadt um dich herum und du spürst, wie du aus dem Lebensbild zurück in deinen eigenen Körper gezogen wirst. Die arme Bericael dagegen ist nun in einer fremden Welt gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>Du hältst dich von dem folgenden Handgemenge fern und suchst den Realitätssturm. Du findest ihn hinter einem Stacheldrahtzaun in einem zerbombten Häuserblock. Der Sturm ist noch schwächer als zuvor. Der nächste Sprung könnte bereits dein letzter sein.
+
+Und was noch schlimmer ist: Nur ein Splitter passt zum Geruch der Handschuhe – der, aus dem du gekommen bist. Du stürzt dich zurück in den glitzernden Sumpf, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Du hältst dich von dem folgenden Handgemenge fern und suchst den Realitätssturm. Du findest ihn hinter einem Stacheldrahtzaun in einem zerbombten Häuserblock. Du schneidest ein Loch in den Zaun und läufst auf den Sturm zu. Hier gibt es deutlich weniger Splitter als in früheren Realitäten. Lovacs Warnung kommt dir wieder in den Sinn. Wenn du zu viele weitere Sprünge machst, könntest du in einer fremden Realität stranden.
+
+Und was noch schlimmer ist: Nur ein Splitter passt zum Geruch der Handschuhe – der, aus dem du gekommen bist. Du stürzt dich zurück in den glitzernden Sumpf, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>Du hältst dich von dem folgenden Handgemenge fern und suchst den Realitätssturm. Du findest ihn hinter einem Stacheldrahtzaun in einem zerbombten Häuserblock. Du schneidest ein Loch in den Zaun und läufst auf den Sturm zu, doch nur ein Splitter passt zum Geruch der Handschuhe – der, aus dem du gekommen bist. Du stürzt dich zurück in den glitzernden Sumpf, um es erneut zu versuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>Als die Jagd in der Nacht verschwindet, siehst du den Schimmer des Realitätssturms zwischen den Bäumen durchscheinen. Als du auf ihn zuläufst, bemerkst du jedoch, dass der Sturm sogar noch schwächer ist als zuvor. Der nächste Sprung könnte bereits dein letzter sein.
+
+Nichtsdestotrotz scheinen drei Splitter hier vielversprechender zu sein als der Rest: Ein düsteres Schlachtfeld, eine mit einer grölenden Menschenmenge gefüllte Arena und ein Labyrinth schmutziger grauer Straßen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>Als die Jagd in der Nacht verschwindet, siehst du den Schimmer des Realitätssturms zwischen den Bäumen durchscheinen. Als du auf ihn zuläufst, bemerkst du jedoch, dass hier weniger Splitter sind als in früheren Realitäten und Lovacs Warnung kommt dir wieder in den Sinn. Wenn du zu viele weitere Sprünge machst, könntest du in einer fremden Realität stranden. 
+
+Nichtsdestotrotz findest du hier drei Splitter, die vielversprechender zu sein scheinen als der Rest: Ein düsteres Schlachtfeld, eine mit einer grölenden Menschenmenge gefüllte Arena und ein Labyrinth schmutziger grauer Straßen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>Er legt seine Hand auf deine Schulter. "Dessen ungeachtet könnte deine Neigung dazu, aktivere Lösungen zu suchen, auf diesem Weg ein Vorteil sein. Wenn du dich für den gefährlichen Weg durch die Weißen Nester entscheidest, habe ich etwas für dich, das dir helfen könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>Gründlicher nach der Erwiderung suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>Dich noch einmal umsehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>Das ist deine Realität – deine und Bericaels. Du bist im Niemandsland. Schützengräben ziehen sich wie Narben durch den Boden und die Luft ist dick mit aufgewühltem Rauch, doch der noch nervenaufreibendere Anblick sind die Zeit- und Realitätssplitter, die wie Sommergewitter über das Land ziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>Dich noch einmal umsehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>Du stehst am Rande einer sonnendurchfluteteten Schlucht und beobachtest einen Luftkampf zwischen nackten Frauen und Männern, die an Gleitschirme aus Holz und Stoff geschnallt sind. Die Hälfte der Schirme hat die Farben des Wandelnden Gottes, die andere Hälfte jene der Ersten. 
+
+Die Flieger attackieren einander mit langen, mit Klingen besetzten Stäben und versuchen, Flügel und Fleisch der Gegner gleichermaßen aufzuschlitzen. Ab und zu stürzt einer der Schirme taumelnd in die Schlucht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>Dich noch einmal umsehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>Auf einem vom Regen in Schlamm verwandelten und mit Leichen und zerstörten Mantis-Kriegskonstrukten übersäten Schlachtfeld steht der Kalkedon mit dem Rest seines Kommandos. Vor ihm knien Paj Rekken und ihre Generäle. Sie übergibt ihm ihr Schwert. 
+
+Rundherum führen die Soldaten des Kalkedon Paj Rekkens verbliebene Truppen ab – Abgeworfene und Menschen gleichermaßen. Viele haben nicht überlebt. Die meisten liegen tot auf dem Schlachtfeld und werden von Murden-Plünderern um ihre letzten Habseligkeiten erleichtert. Hinter ihnen kannst du gerade noch die Wellen ausmachen, die der Realitätssturm schlägt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>Dich noch einmal umsehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Es ist Nacht. Du steckst bis zur Hüfte in einem stinkenden Sumpf. Vor dir fliehen furchtbar mutierte primitive Kreaturen durch ein Labyrinth aus Schilf und Bäumen mit herabhängenden Ästen. Sie werden von Soldaten in den Farben der Ersten verfolgt, die sie mit Strahlenwaffen beschießen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>Du bezweifelst, dass du noch so einen Treffer überlebst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>Die übrig gebliebenen Falter greifen dich wieder an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>Es sind nur noch zwei Falter übrig, aber die sind alles andere als leicht zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>Es ist nur ein Falter übrig, doch der macht keine Anstalten, zu flüchten. Er greift dich wieder an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>Versuchen, mit Gewalt an ihnen vorbeizukommen und zu fliehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>Mit einem verzweifelten Schrei stürmst du auf die Motten zu und unternimmst einen Fluchtversuch. Sofort trifft dich ihr tödliches Licht. Es raubt dir Atem und Kraft und du fällst geschwächt zu Boden.
+
+Die Motten umzingeln dich schnell, um dich endgültig zu töten. Das Letzte, was du hörst, als Bericael stirbt und du in deinen eigenen Körper zurückgezogen wirst, ist das leise Flattern ihrer todbringenden Flügel.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

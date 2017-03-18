@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3301_castoff_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Keine Sorge. Wir sollten hier alle in Sicherheit sein.“</DefaultText>
+      <FemaleText>"Keine Sorge. Wir sollten hier alle in Sicherheit sein.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Jeder ist zu besorgt. Die Portale waren schon offen und der Kummer benutzte sie nie.“</DefaultText>
+      <FemaleText>"Jeder ist zu besorgt. Die Portale waren schon offen und der Kummer benutzte sie nie.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Habe ich dir schon meine Theorie über den Reliquienschrein erzählt?“</DefaultText>
+      <FemaleText>"Habe ich dir schon meine Theorie über den Reliquienschrein erzählt?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lass dich nicht von den anderen zu sehr in Besorgnis fallen.“</DefaultText>
+      <FemaleText>"Lass dich nicht von den anderen zu sehr in Besorgnis fallen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Aber schon wieder, du vergisst den Reliquienschrein.“</DefaultText>
+      <FemaleText>"Aber schon wieder, du vergisst den Reliquienschrein.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Wie erklärst du die Jahre des Friedens hier?“</DefaultText>
+      <FemaleText>"Wie erklärst du die Jahre des Friedens hier?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Nein. Du machst dir zu viel daraus.“</DefaultText>
+      <FemaleText>"Nein. Du machst dir zu viel daraus.“</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

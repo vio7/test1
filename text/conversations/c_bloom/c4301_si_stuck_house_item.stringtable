@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4301_si_stuck_house_item</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Unter den Trümmern des Hauses siehst du einen farbenfrohen, metallischen Griff herausragen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Versuche, ihn herauszuziehen.]
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Weggehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Es gelingt dir, &lt;Gegenstand hier einfügen&gt; herauszuziehen!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Du versuchst es immer wieder, doch es gelingt dir nicht, ihn herauszuziehen.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Es gelingt dir nicht nur, &lt;Gegenstand hier einfügen&gt; herauszuziehen, darin verkeilt ist auch 1 &lt;zweiten Gegenstand hier einfügen&gt;!]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Du setzt all deine Kraft ein und du zerrst dir den Rücken bei dem Versuch (verliere 1 Stärke).]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

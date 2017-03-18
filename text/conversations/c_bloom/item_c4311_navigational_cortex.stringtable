@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4311_navigational_cortex</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du ziehst den Cortex heraus. Als du ihn in der Hand hältst und dich darauf konzentrierst, wird in deinem Blickfeld diskret ein hellblaues Symbol in Form eines kleinen Pluszeichens in einem Kreis eingeblendet. Instinktiv weißt du irgendwie, dass es ein Standortfinder ist. Es blinkt leise, aber eindringlich, und wartet darauf, dass du mit ihm kommunizierst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das hellblaue Symbol wird in deinem Blickfeld eingeblendet. Es blinkt leise, aber eindringlich, und wartet darauf, dass du ihm deine Aufmerksamkeit widmest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wo bin ich jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Cortex weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vor deinen Augen erscheint eine breite, rotierende Scheibe mit um ein helles Zentrum kreisenden Armen. Das Bild wird gerade lange genug angezeigt, damit du erkennen kannst, dass es *Sterne* zeigt.
+
+Dann ändert sich das Bild und die Anzeige des Cortex rauscht auf einen kleinen Punkt in einem der Spiralarme zu. Es zeigt einen rötlich-gelben Stern, den sieben kleine Punkte in annähernd elliptischen Bahnen umkreisen. Drei davon scheinen Felsen zu sein, die anderen Gasriesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vor deinen Augen erscheint eine schwindelerregende Fülle von Sternen in so großer Zahl, dass dir für einen Moment die Luft wegbleibt. Sie drehen sich um eine unbeschreiblich helle und schöne zentrale Achse, doch bevor du dich darauf konzentrieren kannst, tauchst du auch schon weg in Richtung eines Punktes am obersten Rand der Bilder. 
+
+Der Punkt wird schnell zum Bild eines einzigen, matten weißen Sterns, der relativ isoliert im All schwebt. Fünf Kugeln umkreisen ihn. Der Cortex konzentriert sich auf die vierte, eine kristallene Kugel mit annähernd elliptischer Umlaufbahn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Eine Masse von Sternen wirbelt vor deinen Augen, eine Anhäufung so vieler Milliarden von Sternen, dass du die ganze Dimension kaum begreifen kannst. Plötzlich tauchst du weg in Richtung eines Punktes mittig rechts in dem Sternenfeld. Das Bild zoomt auf ein einziges Sternensystem zu. Projektionen der Umlaufbahnen seiner Planeten und Monde überlagern die Gasriesen und kleinen Felsen, die den Stern umkreisen. Das Bild vor deinen Augen konzentriert sich zunächst auf den Stern und verschiebt sich dann schnell zum fünften ihn umkreisenden Felsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Diese Welt ist klein und blau und großteils von Ozeanen bedeckt, aus denen einige kleine braune Landmassen herausragen. Auf diesen Inseln erheben sich hier und da verlassene Städte, doch bevor du dich darauf konzentrieren kannst, wechselt die Ansicht zu einem einzigen Seil, das sich von einer trockenen Ebene auf der größten Insel erhebt. Dein Blick folgt dem Kabel in Richtung Himmel und du siehst etwas, das aussieht wie ein Kinderspielzeug – ein zentraler Knotenpunkt, der aussieht wie ein oben und unten gespiegelter Zikkurat, mit dicken Speichen, die von seiner Mitte zum Netz der Linien rund um ihn herum ausströmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Verblüfft erkennst du, dass du den Ankerplatz vor dir siehst. Die Klumpen an den sich kreuzenden Linien sind Andockstationen für Raumschiffe, und die Linien selbst Gänge und Transportrohre. Text und Zahlen laufen vor deinen Augen vorbei. Der Cortex spricht in deinem Kopf.
+
+"Du bist in Station 5193 auf der Welt Emmosh-thun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die kleine Welt ist unverkennbar die Aszension. Von hier aus kannst du sehen, dass sie eine regelmäßige Form hat, mit Gruppen von Kristallen, die hoch hinauf in die Atmosphäre wachsen und in bestimmten Abständen angeordnet sind, in Mustern, die du fast – aber eben nur fast –verstehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Stimme des Cortex spricht zu dir. "Du bist auf der Welt, die Aszension von Kex-Lianish genannt wird."
+
+Fremde Schrift läuft durch dein Blickfeld. Du vermutest, dass es Untertitel zu dem Gesprochenen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Die Einheimischen bezeichnen diesen Planeten als die 'Neunte Welt'. Sie wird auch 'Terra' oder 'Erde' genannt."
+
+Unten in deinem Blickfeld läuft ein Text durch – vermutlich Untertitel zum Gesprochenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der Kortex hält für einen Moment inne und konzentriert sich dann auf den zweiten Felsen. Er ist großteils blau, mit einem dominierenden Kontinent und einigen verstreuten Inselketten. Die Ansicht fährt weiter zu einem Binnenmeer im Südosten dieser vierzackigen Landmasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Wie weit ist das von der Neunten Welt entfernt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Berechnung wird durchgeführt". Die Ansicht wechselt zurück auf die Masse der Sterne und der Cortex zieht eine Linie zwischen diesem Stern und einem weiteren auf der rechten Seite des Bildes. Eine Zahl wird angezeigt: 30.000.
+
+"Abstand in Lichtjahren, angezeigt in Ihrer bevorzugten mentalen Zeitmessung angezeigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Wie weit ist das von der Neunten Welt entfernt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Berechnung wird durchgeführt". Das Bild verschwindet erneut und wieder wird die große Masse der Sterne angezeigt und eine rote Linie erscheint zwischen der Position der Verankerung und einer anderen Welt. Eine Zahl wird angezeigt: 117.
+
+"Abstand in Lichtjahren, angezeigt in Ihrer bevorzugten mentalen Zeitmessung angezeigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Es kommt dir vage bekannt vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du bist nicht ganz sicher, aber das kommt dir bekannt vor. Du hast das schon mal gesehen, und zwar vor nicht allzu langer Zeit ... dann fällt es dir wieder ein: Es sieht aus wie die Neunte Welt, gesehen aus großer Höhe während deines Falls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du bist sicher, dass dies die Neunte Welt ist – du musst es wissen, schließlich hast du sie während deines entsetzlichen Falls von dem Mond aus einer ganz ähnlichen Perspektive gesehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Du bist in Station 5193 auf der Welt Emmosh-thun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Du bist auf der Welt, die Aszension von Kex-Lianish genannt wird."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Die Einheimischen bezeichnen diesen Planeten als die 'Neunte Welt'. Sie wird auch 'Terra' oder 'Erde' genannt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Kannst du die Bilder in dem Helm jetzt analysieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Verarbeitung läuft ... einen Augenblick noch. Einige der Kontakte des Helms wurden durch biologische Materie verunreinigt. Modifiziere Signalstärke." Das Pluszeichen vor deinen Augen wird kleiner und heller. 
+
+"Verarbeitung abgeschlossen. Bericht: Jemadar Achilli wurde zum Zeitpunkt ihrer letzten Aufzeichnung durch einen Schlag getötet. Ihre Datei wurde um diese Information ergänzt. Analyse wird fortgesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Alle Bilder, die sich in dem Helm befinden, tasten sich durch dein Sichtfeld. Die Bilder des Nachthimmels, die in dem Helm so vorherrschend waren, erscheinen jetzt und der Cortex beginnt, Sternenkarten über diese Bilder zu legen.
+
+"Die Information über den Standort dieser Welt wurde nun zu meinem Speicher hinzugefügt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Stimmen die Bilder, die ich in dem kaputten Helm gesehen habe, mit irgendwelchen in deinen Einträgen überein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Basierend auf der zeitlichen Regressionsanalyse des Sternenhimmels und der relativen Planetenposition wurden diese Bilder auf der Welt aufgenommen, welche die Lascar ihre Heimat nennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Kannst du den Helm identifizieren, den ich in der Flor gefunden habe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Diesem Helm gehörte Jemadar Achilli – vermisst seit ... fünfzehn Jahren. Der Helm enthält eine visuelle Aufzeichnung, die sie als wichtig markierte. Sie schlug vor, dass diese Bilder analysiert werden sollten. Auf Ihren Befehl hin werde ich das tun."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Analysiere die Informatonen, die ich auf dem kaputten Helm gefunden habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

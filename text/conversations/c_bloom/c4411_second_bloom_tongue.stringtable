@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_second_bloom_tongue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>239</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Die Wurzeln dieser Zungenmasse erstrecken sich weit unter die Kammer. Im Gegensatz zu den anderen Zungen, denen du bisher begegnet bist, scheinen sie vom Rest der Flor abgeschnitten zu sein. 
+
+Jetzt, wo du dich mit den Zungen verbunden hast, hörst du ein Flüstern in der Nähe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Eine Masse aus dunklen und fleischigen Flor-Zungen steht schwankend vor dir. Sie ähneln denen, die du im Handelsposten angetroffen hast, aber diesmal sind die zischenden und brummenden Stimmen der Flor begierig und ungeduldig. Sie bahnen sich ihren Weg in deinen Verstand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Eine Masse aus Flor-Zungen steht schwankend vor dir. Sie ähneln denen, die du im Handelsposten angetroffen hast, aber diesmal sind die zischenden und brummenden Stimmen der Flor begierig und ungeduldig. Sie bahnen sich ihren Weg in deinen Verstand.
+
+Die Flor scheint diesmal ohne die Hilfe des Rings zu versuchen, eine Verbindung zu dir aufzubauen. Du bemerkst, dass der Ring dir eine Möglichkeit gegeben hat, die Stimmen zu *kontrollieren*, und über diese Kontrolle verfügst du nun nicht mehr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Eine weitere Masse aus Flor-Zungen steigt aus einem geschwollenen Haufen von Fleisch hervor. Sie geben ein sanftes Zischen von sich, hier und da unterbrochen von feuchtem, fleischigem Schnalzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Das Geflüster der Flor-Zungen wird lauter und bösartiger, als du dich ihnen näherst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Den Magmatischen Ring benutzen, um mit den Flor-Zungen zu kommunizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Du stellst deine Verbindung zu den Zungen wieder her, und erneut geben sie sich deinem Willen hin. Ihre Wurzeln sind mit dem Schlund in der Nähe verbunden - du kannst seinen alten, geduldigen Verstand am Rande deines Bewusstseins spüren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Wieder wühlen die Stimmen durch deine Erinnerungen, und der Schmerz kehrt zurück. Wieder fixieren sie sich auf einen Moment aus der Vergangenheit deines Erzeugers und sie zerren ihn hervor ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Du spürst, dass die Flor-Zungen noch immer von der Intensität deiner Gezeitenwelle betäubt sind. Mithilfe des Ringes kannst du die Kontrolle über sie erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Du kannst spüren, dass die Flor-Zungen noch immer ermüdet und faul sind, nachdem sie eine der Erinnerungen deines alten Herrn aufgezehrt haben. Mithilfe des Ringes kannst du die Kontrolle über sie erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Die Stimmen werden lauter, schieben deine Gedanken zur Seite und saugen Erinnerungen in deinen Verstand. Ein stechender Schmerz entsteht, als die Zungen sich auf eine Erinnerung fixieren und beginnen, sie an die Oberfläche zu zerren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Den Schmerz auf die Flor-Zungen zurückwerfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Du beschwörst die Gezeitenenergien in dir herauf und *drängst* deinen Schmerz in die Zungen hinein. Sie schlagen um sich und erfüllen deinen Verstand mit wuterfüllten Schreien. Die ganze Kammer bebt ...
+
+{SOUND: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>... und dann ist ihre Wut aufgebraucht. Die Flor-Zungen baumeln erschöpft gegeneinander.  Mithilfe des Ringes kannst du die Kontrolle über sie erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>... und dann ist ihre Wut aufgebraucht. Die Flor-Zungen baumeln erschöpft gegeneinander. Du könntest die Kontrolle über sie erlangen, aber ohne den Ring wird es schwierig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Versuchen, die Flor-Zungen zu kontrollieren.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Du greifst auf den Bereich jenseits der Barriere zu, die dein Bewusstsein von dem der Zungen trennt. Sie setzen sich zunächst zur Wehr, aber dein Wille ist stärker als ihrer, und ihre aufgeregten Stimmen werden stumm. Du bemerkst, dass du ihre Bewegungen kontrollieren kannst, als wären es deine eigenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Du greifst auf den Bereich jenseits der Barriere zu, die dein Bewusstsein von dem der Zungen trennt, aber ihr Zischen wird lauter, verschleiert deine Gedanken und verhindert den psychischen Übergriff.  
+
+Nun winden sich die Zungen mit frischer Kraft, aber dir fällt auf, dass sie nicht so viel Energie haben wie zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Den Zungen erlauben, in deinen Verstand einzudringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Wieder wühlen die Stimmen durch deine Erinnerungen, und der Schmerz kehrt zurück. Wieder fixieren sie sich auf einen Moment aus der Vergangenheit deines Erzeugers. Sie beginnen, ihn an die Oberfläche zu zerren ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Den Schmerz auf die Flor-Zungen zurückwerfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Die Zungen kreischen, als dein Schmerz sie überwältigt. Sie schlagen um sich, und die Flor bebt und zittert.
+
+{SOUND: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Endlich sacken die Zungen geschlagen zusammen. Du greifst auf den Bereich jenseits der Barriere zu, die dein Bewusstsein von dem der Zungen trennt. Sie setzen sich zunächst zur Wehr, aber dein Wille ist stärker als ihrer, und ihre wütenden Stimmen werden stumm. Du bemerkst, dass du ihre Bewegungen kontrollieren kannst, als wären es deine eigenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Den Zungen erlauben, sich zu nähren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Mit einem letzten, schmerzhaften Schwall der Pein wird eine Erinnerung in dein Bewusstsein befördert ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Du rematerialisierst dich in einem feuchten, grünen Korridor. Deine silberne Haut ist ruhig - keine Energiestöße, keine unsichtbaren Strahlen, die dich in ihrer Strahlung baden. Die Daten, die über dein Visier flickern, verraten dir, dass die Luft um dich herum kalt und schal ist, und dass die Energiesignaturen in der Nähe nur schwach sind.  Die Anlage steht auf Standby.
+
+Du synchronisierst einen Erkundungsball mit deinem Anzug und wirfst ihn in die Halle hinunter. In Echtzeit werden Karteninformationen auf deinem Visier angezeigt. Du nimmst deine lange Reise zur Kommandostation in Angriff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Während du läufst, denkst du nach. Das wäre ein guter Ort, um einen neuen Anfang zu wagen. Möglicherweise außerhalb der Reichweite des Kummers? Nein. Er ist dir durch die Zeit und durch verschiedene Welten gefolgt - ein paar Kilometer würden keinen Unterschied machen.
+
+Eine Tür zu einem höhlenartigen, schattigen Raum öffnet sich. Du läufst zu einem Bedienfeld. Fremdartige Buchstaben und Hologramme erwachen zum Leben, als du es ansiehst. Du lächelst. In Sprachen warst du schon immer gut.
+
+Diese Station gehört so gut wie dir. Sie ist deine Bibliothek, dein Rückzugsort ... deine Rettung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Durch die Erinnerung gesättigt, hängen die Flor-Zungen fast bis zum Boden.
+
+In deinem geschwächten Zustand war diese Anstrengung zu viel für dich. Du brichst neben den Zungen zusammen, und um dich herum wird alles dunkel ...
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Durch die Erinnerung vollständig gesättigt, hängen die Flor-Zungen herunter. Sie können sich dir nicht weiter widersetzen. Du greifst auf den Bereich jenseits der Barriere zu, die dein Bewusstsein von dem der Zungen trennt, und bemerkst, dass du ihre Bewegungen kontrollieren kannst, als wären sie deine eigenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Deine Verbindung zu den Zungen unterbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Du versuchst, deinen Griff um den Magmatischen Ring zu lösen, aber deine Finger bewegen sich nicht. Die Flor-Stimmen erfüllen deinen Kopf und hindern deine Muskeln irgendwie daran, auf die Befehle deines Verstandes zu reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Du versuchst, die flüsternden Stimmen aus deinem Kopf zu vertreiben, aber es ist zu spät. Sie schnattern und zischen in jeder Ecke deines Verstandes, und du kannst ihnen nicht entkommen ... du kannst dich nicht einmal bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Kontrolle über die Flor-Zungen erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Deine Verbindung zu den Zungen unterbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Die lockerst deinen Griff um den Ring, und die Stimmen der Flor-Zungen lassen nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Du entfernst dich von den Zungen und ihre Stimmen lassen nach.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Den Flor-Zungen erlauben, sich zu nähren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Der Schmerz wird noch größer und fühlt sich bald an wie ein Messer hinter deinen Augen. Eine Erinnerung erwacht in deinem Bewusstsein ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Du befindest dich im Herzen des Tabaht-Territoriums. Die Decke ihrer Untergrund-Stadt ist so hoch, dass du gerade so ihre Wölbungen sehen kannst. Die flackernde Beleuchtung erzeugt eine grässliche Darbietung - dämonische Figuren ergötzen sich an den Körpern der Gefallenen, Grausamkeiten, die vom Himmel herabgeschrien werden. Aber deshalb bist du nicht hier ... du bist wegen des Untergrats gekommen, ihr Gott und ihr Sklave, eine gigantische Maschinenintelligenz, die sie durch ihre Rituale leitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>Du schwebst nahe dem massiven Körper der Maschine und platzierst deine Detonatoren um seinen Mittelpunkt herum. Du hältst deine Tarnung für außerordentlich gelungen, bis sich ein winziges Licht auf dich richtet und ein konzentrierter Strahl aus Geräuschen auf deine Ohren trifft.
+
+"Die Verarbeitungs- und Speicheranlagen liegen weiter oben. Wenn du mich vollständig zerstören willst, musst du deine Sprengkörper dort anbringen."
+
+Und dann ein leiseres "Danke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Die Erinnerung versiegt, von dir geschlürft wie ein süßer Nektar. Du kannst dich daran erinnern, sie erlebt zu haben, doch die Erinnerung selbst – die Sammlung an Empfindungen, die sie beim Wandelnden Gott hinterlassen hat – ist verflogen. 
+
+Sogar noch als die Flor-Zungen erschlafft gegeneinander baumeln, von ihrem Festmahl gesättigt, spürst du, wie deine Beine nachgeben. In deinem geschwächten Zustand war diese Anstrengung zu viel für dich.
+
+Um dich herum wird es dunkel ...
+
+{DAMAGE}
+{SCRIPT: The damage here should kill the player, but he should respawn in this same room (Trade Post).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Die Erinnerung endet, und die Flor-Zungen taumeln gegeneinander, von ihrem Festmahl gesättigt. Du könntest die Kontrolle über sie erlangen, aber ohne den Ring wird es schwieriger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Die Erinnerung endet, und die Flor-Zungen taumeln gegeneinander, von ihrem Festmahl gesättigt. Du spürst, dass du mithilfe des Ringes jetzt die Kontrolle über sie erlangen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Deine Verbindung zu den Zungen unterbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Du versuchst, deinen Griff um den Magmatischen Ring zu lösen, aber deine Finger bewegen sich nicht. Die Flor-Stimmen erfüllen deinen Kopf und hindern deine Muskeln irgendwie daran, auf die Befehle deines Verstandes zu reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Du versuchst, die flüsternden Stimmen aus deinem Kopf zu vertreiben, aber es ist zu spät. Sie schnattern und zischen in jeder Ecke deines Verstandes, und du kannst ihnen nicht entkommen ... du kannst dich nicht einmal bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Den Flor-Zungen erlauben, in deinen Verstand einzudringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Das Geschnatter wird lauter ...
+
+Du spürst, dass die Flor-Zungen noch immer von der Intensität deiner Gezeitenwelle betäubt sind. Es wird schwierig, aber mithilfe des Ringes kannst du die Kontrolle über sie erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Das Geschnatter wird lauter ...
+
+Du kannst spüren, dass die Flor-Zungen noch immer ermüdet und faul sind, nachdem sie eine der Erinnerungen deines alten Herrn aufgezehrt haben. Es wird schwierig, aber mithilfe des Ringes kannst du die Kontrolle über sie erlangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Die Stimmen werden lauter, schieben deine Gedanken zur Seite und saugen Erinnerungen in deinen Verstand. Ein stechender Schmerz entsteht, als die Zungen sich auf eine Erinnerung fixieren und beginnen, sie an die Oberfläche zu zerren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Die Flor-Zungen ignorieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Dich überkommt ein vertrautes Gefühl von Machtlosigkeit. Wie die letzte Zungenmasse, hindert sie dich auch diese daran, auch nur einen Muskel zu bewegen, während sie an deinen Erinnerungen zehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Dich überkommt ein vertrautes Gefühl von Machtlosigkeit. Wie die letzte Zungenmasse auch hindert sie dich daran, auch nur einen Muskel zu bewegen, während sie an deinen Erinnerungen zehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Versuchen, zu spüren, was sonst noch in diesem Raum vor sich geht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Dich erneut auf den Rest des Raumes konzentrieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Die Wurzeln der Zunge legen ein dichtes Netz über die gesamte Kammer, und ohne ihre Begrenzungen sind ihre Sinne außergewöhnlich scharf. Du kannst ungedämpfte, brennende Schmerzen spüren, wo Flor-Fleisch gegen einen uralten Metallanzug reibt. Irgendetwas an dem Material *irritert* das Fleisch. Auf kurz oder lang wird sich eine Zyste darum bilden, aber bis dahin müssen die Zungen den Schmerz ertragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Du kannst außerdem die Präsenz von Dakore spüren, doch selbst mit den scharfen Sinnen der Zungen ist sie kaum spürbar ... dünn verteilt sie sich über den Raum. Ein Kern aus Verzweiflung bildet sich in ihm, und alles andere ist abhanden gekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Dich auf den Ursprung des Flüsterns konzentrieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Das Flüstern kommt aus einer Ecke des Raums, und dir fällt auf, dass die Wurzeln der Masse alle in diese Richtung wachsen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Du bemerkst, dass es sich um einen Schlund handelt ... einen weiteren Schlund, der sich vor dem Blick der Sterblichen versteckt. Indem er diese Kammer vom Rest der Flor abgeschnitten hat, hat er sich sogar von den anderen Zungen und Schlünden versteckt. Dieser Ort ist ein blinder Fleck auf dem Auge der Flor, völlig unabhängig vom Rest. In gewissem Sinne ist er ein eigenständiges Wesen - ein Kind der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Den Schlund dazu zwingen, sich zu offenbaren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Du flüsterst dem Schlund deinen Willen zu, und deine Stimme wandert über die Zungen und ihre Wurzeln schließlich zum Schlund selbst, wodurch du ihn deinem Willen unterwirfst. Nach einigen Augenblicken antwortet der Schlund. In einer Ecke des Raums taucht er auf ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Du kannst den Verstand des Schlundes spüren - alt, geduldig, und *stark*. Linien aus psychischer Energie gehen von ihm in alle Ecken des Raumes aus.
+
+Sein Flüstern hat einen grausamen und kläglichen Unterton. Du spürst Jahrtausende der Dunkelheit, und wie er sich von den halbverdauten Abfällen anderer Schlünde ernähren musste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Mit dem Schlund kommunizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Erneut mit dem Schlund kommunizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Der Schlund ist fürs Erste gesättigt. Schwach kannst du seine Verbindung zu einer weiteren, isolierten Kammer in der Flor spüren - sie wird beherrscht von wilden, hungringen Stimmen. Diesen Ort hat seit Jahrtausenden kein Sterblicher zu Gesicht bekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Du stellst deine Verbindung zu den Zungen wieder her, und erneut geben sie sich deinem Willen hin. Du kannst in der Nähe ein Flüstern hören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

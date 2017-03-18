@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\x_labyrinth\attune_to_the_tides</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Harmonisiere dich mit den Gezeiten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Verbinde dich Mental mit allen fünf der Kreaturen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Werfe eine Kummerscherbe aus einen der Bedienfelder aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Verbinde dich mental mit der Kreatur nahe dem kürzlich wiederhertestellen Bedienfeld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Werfe eine Kummerscherbe aus noch einen der Bedienfelder aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Verbinde dich mental mit der Kreatur nahe dem kürzlich wiederhertestellen Bedienfeld.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Verbinde dich mit den verbleibenden Kreaturen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vollende die Einstummung, indem du das leuchtende Kristall an Ende der Plattform berührst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Einstimmung vollendet</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der Geist erzählt mir, dass ich mich mit einer Kraft harmonisieren muss, die man die Gezeiten nennt. Die Tanks an diesem Ort erlauben mir, mich mental mit den Kreaturen darin zu verbinden, die jeweils eine der fünf Gezeiten repräsentieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Wenn ich mit den Tanks interagiere, kann ich in den Verstand jeder einzelnen Kreatur eindringen. Sobald ich mich mit ihnen verbunden habe, muss ich der Kreatur helfen, eine simulierte Situation zu überstehen - aber ich sollte einen Weg wählen, der *mir* gefällt, und keine Rücksicht auf die Kreatur nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Nachdem ich meine Interaktion mit einer Kreatur abgeschlossen hatte, haben Fragmente des Kummers die übrigen Kontrollstationen infiziert, die mir ermöglichen, die mentalen Verbindungen aufzubauen. Der Geist  oder ich müssen sie aus den Stationen vertreiben, bevor ich mich mit einer Kreatur verbinden kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Jetzt, wo die Fragmente des Kummers vertrieben sind, kann ich mich mit einer der nahen Kreaturen verbinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Fragmente des Kummers behindern immer noch meine Versuche, mich mit den verbliebenen Kreaturen zu verbinden. Der Geist oder ich müssen sie aus den verbleibenden Kontrollstationen vertreiben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Erneut wurde eine Kreatur vom Einfluss des Kummers befreit. Ich kann jetzt eine mentale Verbindung mit ihr eingehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Jetzt, wo alle Fragmente des Kummers entweder den Geist oder mich jagen, hält mich nichts davon ab, eine mentale Verbindung mit den restlichen Kreaturen einzugehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Irgendwie haben meine Handlungen dazu geführt, dass ein leuchtender Kristall am hinteren Ende der Plattform aktiviert wurde. Der Geist sagt mir, dass ich nur meinen Harmonisierungsprozess vollenden muss.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ich lege meine Hände auf den schimmernden Kristall und werde sofort mit einem gleißend weißen Licht in ihn gesaugt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

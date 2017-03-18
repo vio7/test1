@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_emptycage</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Der leere Käfig</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Suche nach dem Rahmen im Versteck der Murden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bringe den Rahmen zu Orth Faung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Finde Aligern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Faung untersuchte den Rahmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Aligern und Ich sind keine Freunde (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Endspiel betreten, bevor der Auftrag abgeschlossen wurde (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der Aeon-Priester Orth Faung hat mich gebeten, einen "Rahmen" für ihn zu beschaffen. Er behauptet, dass Murden ihn entwendet haben, und dass er ihn für seine Forschungen für Aligern benötige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Wenn Murden den Rahmen gestohlen haben, würden sie in irgendwo in ihrem Bau verstecken. Ich bezweifle, dass es einfach wird, ihn zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Jetzt, wo ich den Rahmen habe, sollte ich ihn zu Orth Faung in den Cheirug-Fällen zurückbringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Faung war überglücklich, den Rahmen wiederzuhaben. Er möchte, dass ich Aligern zu ihm bringe, weil er der Überzeugung ist, den Rahmen dazu verwenden zu können, "Aligerns Schmerz" zu lindern ... was auch immer das bedeuten soll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Durch eine Untersuchung des Rahmens hat Orth Faung festgestellt, dass Aligerns Tätowierungen die transmutierten Formen seiner Familie und Freunde sind. Sobald er mir im Kampf gegen den Kummer geholfen hat, plant Aligern, sie zurück ins Leben zu holen. Er war ungewöhnlich emotional, und ich habe das Gefühl, dass er sehr dankbar ist - nicht nur Faung, sondern auch mir gegenüber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich musste Faung davon erzählen, dass Aligern und ich uns verstritten haben. Faung ist zu den Sagus-Klippen zurückgekehrt, um ihn zu suchen. Er hat versprochen, dass er Aligern nicht davon erzählen würde, dass ich ihm dabei geholfen habe, die nötigen Antworten zu finden. Was auch immer passiert, ich bezweifle, dass ich einen von beiden jemals wiedersehen werde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Jetzt, wo die Resonanzkammer aktiviert ist, weiß ich nicht, wann ich wieder zur Flor zurückkehren kann. Hoffentlich können Aligern und Orth Faung ihre Forschung irgendwann fortsetzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

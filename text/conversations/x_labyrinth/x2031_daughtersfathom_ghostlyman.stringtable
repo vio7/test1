@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x2031_daughtersfathom_ghostlyman</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Vater der Geisterfrau arbeitet wie besessen, dreht an Rädern, legt Metalldrähte frei, baut verschiedene Teile in die Maschine ein und andere aus. Nach jeder Änderung legt er eine Hand an die Seite der Maschine, spricht einige Worte und macht eine Geste in der Luft.
+
+Er scheint dich nicht zu bemerken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was ist passiert?" Die Frau trägt eine mächtig aussehende Rüstung. Ihr Gesicht ist von Narben durchzogen, doch ihre Augen strahlen eine kindliche Unschuld aus. "War *er* das? Sind wir noch in der Uhr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Was ist passiert? Die Frau trägt eine mächtig aussehende Rüstung. Ihr Gesicht ist von Narben durchzogen, doch ihre Augen strahlen eine kindliche Unschuld aus. "War *er* das? Sind wir noch in der Uhr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich würde dir wirklich gerne helfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich muss wissen, wie man die Maschine ausschaltet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Du musst mir verraten, wie man die Maschine ausschaltet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Lass ihn in Ruhe.</DefaultText>
+      <FemaleText>Lass ihn in Ruhe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nein", sagt er, aber scheinbar nicht zu dir. "Das stimmt so nicht. Ihr Haar war weicher und dünner. Ihre Augen waren mehr karamellfarben."  
+
+Er spricht wieder zu dem Apparat, macht eine schnelle Wischbewegung und greift dann ins Innere der Maschine und ordnet verschiedene filigrane Teile neu an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Er setzt seine Arbeit fort und ignoriert dich völlig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Was?" Er wirbelt herum, sein Blick voller Zorn. "Sie *ausschalten*? Das würde sie umbringen, sie *töten*, verstehst du? Ich bin so nah dran, sie zurückzubringen. Ich muss die Maschine nur richtig einstellen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Verschwinde!" Die Plattform erzittert angesichts der Gewalt und des Schmerzes in seinem Schrei. "Lass mich in Ruhe! Du wirst mir das bisschen, was mir von meiner Tochter bleibt, nicht nehmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Begreifst du denn nicht? Deine wahre Tochter ist tot. Selbst die Maschine kannst sie dir nie wirklich zurückbringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Die Maschine funktioniert nicht. Alle Kopien, die sie macht, sterben einen ebenso frühen Tod wie deine wahre Tochter. Selbst wenn du eine perfekte Kopie machen könntest, würde sie ebenfalls jung sterben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Gut. Ich werde dich zu nichts zwingen. Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Du *kannst* mich zu nichts zwingen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Nein, meine Tochter ist ..." Er will auf die Geisterfrau zeigen. Dann sieht er sie genauer an. "Bist du wirklich tot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Du denkst, ich bin nur jemand, der an Numenera herumbastelt oder gar nur eine Erinnerungslakune, die in deinem Geist festhängt."
+
+Sein Grinsen nimmt irre Züge an. "Ja, ich weiß, was und wo ich bin. *Ich* bin vielleicht nicht real, aber *sie* schon." Er deutet auf die Geisterfrau neben dir.  "Sie *ist* meine wahre Tochter und ich werde sie zurückbringen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Niedergeschlagen sagt er: "Schau zu."
+
+Er legt seine Hand an die Seite der Maschine und sagt das Wort 'neshu.' Plötzlich erscheint ein leuchtendes Bedienpanel in der Luft. Er drückt fünf Symbole in einer bestimmten Reihenfolge. Dann wiederholt er das Ritual ein zweites Mal und die Maschine verstummt und wird dunkel.
+
+Der geisterhafte Mann beginnt zu verschwinden. Er sagt zu der Frau: "Ich wollte es nur wiedergutmachen."
+
+Dann ist er verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Was? Nein. Unmöglich. Die Maschine arbeitet ausschließlich mit Persönlichkeiten, Erinnerungen. Sie kann unmöglich..."
+
+Er sieht mit wachsender Verzweiflung zwischen dir und der Geisterfrau hin und her. Verzweiflung macht sich auf seinem Gesicht breit. Schließlich sackt er in sich zusammen. "Du sagst die Wahrheit. Ich weiß es. Ein Teil von mir hat es schon immer gewusst. Ich dachte, es wäre nur ein Fehler im System, den ich beheben könnte. Aber jetzt wird mir klar, dass ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Seine Miene verfinstert sich. "Ich werde sie *nicht* abschalten und du wirst mich nicht dazu zwingen."
+
+Dann umgeben dich plötzlich bedrohliche Gestalten - Erinnerungsabbilder der Tabahtsoldaten von der anderen Seite der Tiefe, die dieses geisterhafte Konstrukt irgendwie herbeibeschworen hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Fast perfekt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Angriff] "Wenn das der einzige Weg ist, die Maschine abzuschalten, soll es so sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Tabaht erneut angreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Haltet ihn auf! Haltet ihn mir vom Leib!"</DefaultText>
+      <FemaleText>"Haltet sie auf! Haltet sie mir vom Leib!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ich bin nicht deine Tochter. Deine Tochter ist nicht mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Er sieht mit wachsender Verzweiflung zwischen dir und der Geisterfrau hin und her. Verzweiflung macht sich auf seinem Gesicht breit. Schließlich sackt er in sich zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Etwas stimmt aber mit der Maschine nicht. Sie verursacht Leid und Schmerzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Er wischt deinen Einwand beiseite. "Pah. Du ratest bloß! Du kennst die Nebenwirkungen genauso wenig wie ich. Dafür *weiß* ich aber, dass mir die Maschine meine Tochter zurückbringen wird. Und nun lass mich in Ruhe oder ich lass dich herauschmeißen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Nein! Aufhören!"  Der Mann hebt abwehrend die Hände. "Ich sag es dir!" Er seufzt. "Ich sag es dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Seine Miene verfinstert sich. "Ich werde sie *nicht* abschalten und du kannst mich nicht dazu zwingen."
+
+Erneut beschwört er die Labyrinthkonstrukte der Tabaht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Was? Nein, ich..." Einen Moment lang scheint er, dir zu glauben. In diesem Moment verschwindet einer der Tabaht-Krieger außer Existenz.
+
+Aber es hält nicht an. "Nein. Du hast Unrecht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Den Spiegelbildern erlauben, dir im Kampf beizustehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Die Spiegelbilder unterdrücken und es alleine mit den Tabaht aufnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Die Spiegelbilder unterdrücken und es alleine mit den Tabaht aufnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Die Tabaht-Krieger geben ein beinahe unhörbar tiefes Knurren von sich und du spürst einen unterbewussten Drang in dir. Du beginnst, Spiegelbilder deiner Begleiter zu rufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Trotz ihres leeren Blicks ist die Mordlust der Tabaht-Krieger fast greifbar. Erneut verspürst du den Drang, Spiegelbilder deiner Begleiter zu rufen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

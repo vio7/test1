@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_courtyard_well</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieses Bassin ist voll mit gelblichem 'Wasser', das von oben herabfällt. Das umliegende Flor-Fleisch ist nass von Hand- und Fußabdrücken. Das scheint ein üblicher Ort zum Waschen und Trinken für die Florbewohner zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Etwas von der Flüssigkeit trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Den Brunnen in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du nimmst einen Schluck des gelblichen 'Wassers'. Es hat eine schmierige Textur und schmeckt säuerlich, aber es löscht deinen Durst. Du nimmst noch einen Schluck …
+
+… und du hörst flüsternde Stimmen. Zuerst nur ganz leise, doch dann werden sie lauter und werden zu den zwitschernden Stimmen im Flor. Sie summen in deinen Ohren und kratzen innen an deinem Schädel. Du stolperst und versuchst dein Gleichgewicht zu halten. Noch während deine Sinne abstumpfen, scheinen die Stimmen des Flors *klarer* zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>In das Bassin schauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Das Bassin erstreckt sich in die Tiefe wie ein runder Brunnenschacht. Wenn es einen Boden hat, kannst du ihn von hier nicht sehen.
+
+Du meinst zu sehen, wie in den Tiefen des Bassins etwas herumschlängelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>In das Bassin tauchen und das schlängelnde Objekt bergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du tauchst in die trübe Brühe. Als du tiefer tauchst, siehst du, dass der Schacht sich zu einer viel größeren Höhle öffnet.
+
+Am Rand des größeren Raumes erreichst du die schlängelnde Form, die du von oben gesehen hast, und strengst dich an, sie aus einem knochigen Knoten von Flor-Fleisch zu befreien. Am Ende löst sie sich und du schwimmst zurück nach oben. Du erreichst die Oberfläche kurz bevor dir die Luft ausgeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du tauchst in die trübe Brühe. Als du tiefer tauchst, siehst du, dass der Schacht sich zu einer viel größeren Höhle öffnet.
+
+Am Rand des größeren Raumes erreichst du die schlängelnde Form, die du von oben gesehen hast. Du strengst dich an, sie aus einem knochigen Knoten von Flor-Fleisch zu befreien, aber du kannst sie nicht lösen. Am Ende musst du zurück zur Oberfläche, bevor dir die Luft ausgeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du tauchst in die trübe Brühe. Als du tiefer tauchst, siehst du, dass der Schacht sich zu einer viel größeren Höhle öffnet.
+
+Am Rand des größeren Raumes versuchst du, die schlängelnde Form, die du von oben gesehen hast, zu erreichen. Aber in der trüben Brühe verlierst du die Orientierung und weißt nicht mehr, wo oben und unten ist. Du schwimmst hierhin und dorthin auf der Suche nach der Oberfläche. Dann schneidet etwas Scharfes quer über dein Bein. Instinktiv öffnest du deinen Mund zu einem Schrei, und Flüssigkeit läuft durch deine Kehle ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Etwas von der Flüssigkeit sammeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Am Rand des Brunnens findest du eine kleine Flasche, achtlos weggeworfen. Du füllst sie mit der gelblichen Flüssigkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Das Bassin erstreckt sich in die Tiefe wie ein runder Brunnenschacht. Wenn es einen Boden hat, kannst du ihn von hier nicht sehen.
+
+In den Tiefen des Bassins erblickst du eine lange, wurmähnliche Form. Es scheint an einem Vorsprung von Flor-Fleisch festzuhängen und windet sich hilflos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Welt dreht sich und du bemerkst, dass du den Aneen in der Nähe anstarrst. Sein Blick trifft deinen - er ist unheilvoll und hell.
+
+Dir wird klar, dass die Stimmen des Flors nicht zu dir sprechen. Sie sprechen zu dem Aneen, füllen seinen kleinen Geist mit *Hunger*, den er an seiner Besitzerin, Skaydi, stillen soll ... ihren Hals durchbeißen, ihr warmes Blut auflecken. Die flüsternden Stimmen sprechen auch zu Skaydi - dämpfen ihre Sinne und füllen ihren Geist mit hilfloser Apathie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Im Licht des Hofes siehst du, dass das schlängelnde 'Objekt' eine Art aufgeblähter Wurm ist. Seine Haut wechselt ständig von einem Material zum anderen - silbriges Metall zu biegbarem Synth zu ledrigen Schuppen zu anderen Materialien, die du nicht identifizieren kannst. Er scheint von deinem ungeschützten Fleisch angezogen zu werden, und würde sich wahrscheinlich daran anheften, wenn du das zulassen würdest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>An genau dieser Stelle fühlst du, dass die Stimmen des Flors nicht direkt zu dir sprechen … sie flüstern unaufhörlich zu jemand anderem. Aber die Identität des Empfängers ist dir nicht klar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das Bassin erstreckt sich in die Tiefe wie ein runder Brunnenschacht. Sonst siehst du nichts von Interesse in der Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du nimmst noch einen Schluck des gelblichen 'Wassers' und wieder füllen die Stimmen des Flors deinen Geist, dämpfen deine Gedanken und Reflexe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Erneut in das Bassin schauen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du trinkst noch mehr von dem gelblichen 'Wasser'. Die Stimmen des Flors werden lauter, überdecken deine Gedanken und krächzen wie verrückt in deinen Ohren. Die Welt wird unscharf … du stolperst und brichst zusammen, und alles wird dunkel …</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Mehr von der Flüssigkeit trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Erneut in das Bassin tauchen und versuchen, das schlängelnde Objekt zu bergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du tauchst in das Bassin und schwimmst hinab zu der sich windenden Form. Dieses Mal schaffst du es, sie aus dem Knoten von Flor-Fleisch zu lösen. Du kehrst mit dem Preis in deinen Händen zur Oberfläche zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du tauchst in das Bassin und schwimmst hinab zu der sich windenden Form … aber wieder schaffst du es nicht, sie zu lösen, bevor dir die Luft ausgeht, und du musst mit leeren Händen zur Oberfläche zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du tauchst in das Bassin und schwimmst hinab zu der sich windenden Form. Dieses Mal schaffst du es, sie mit wenigen flinken Bewegungen aus dem Knoten von Flor-Fleisch zu lösen. Du kehrst zur Oberfläche zurück, lange bevor dir die Luft ausgeht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du tauchst in das Bassin und schwimmst hinab zu der sich windenden Form ... aber in der trüben Brühe verlierst du die Orientierung und weißt nicht mehr, wo oben und unten ist. Du schwimmst hierhin und dorthin auf der Suche nach der Oberfläche. Doch die Flüssigkeit wird dunkler und dir geht die Luft aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ein entferntes Stampfen tönt durch das 'Wasser' und du fühlst, wie dein Körper in die Tiefe gezogen wird. Alles wird schwarz …</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Erneut hebst du die gelbe Flüssigkeit zu deinen Lippen. Dir ist klar, dass die Wirkung deiner letzten Schlucke noch nicht nachgelassen hat, und dass es wahrscheinlich schlimmer wird, wenn du noch mehr trinkst …</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Die Flüssigkeit trotzdem trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Die Flüssigkeit nicht trinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du schüttest die Flüssigkeit zurück in den Brunnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>In der Nähe des Brunnens sind die Stimmen entfernt, schwach. Das Flüstern, das vorher hier war und Skaydi und ihren Aneen manipuliert hat, ist verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Die schmierige, saure Flüssigkeit schmeckt genauso wie das Flor-Wasser, das du an dem anderen Bassin getrunken hast. Während du schluckst, hörst du bereits das Flüstern der Flor in deinem Geist, und deine Gedanken und Reflexe werden träge und matt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

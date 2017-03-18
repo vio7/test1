@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c6501_final_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>178</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Du erwachst auf dem kalten Boden in der Festung der Memovira. Als du die Augen öffnest, befällt dich Schwindelgefühl und eine momentane Panik, als du den Kummer mit sich schlängelnden und windenden Ranken hier schweben siehst.
+
+Du setzt dich auf. Rund um dich verstreut liegen die Überreste der Schlacht, doch du spürst, dass in dem stillen Raum etwas fehlt. Es dauert einen Moment, bis du weißt, was es ist: Die Erste ist weg, ebenso wie alle ihre Verbündete. Nicht nur tot, sondern spurlos verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Als du die Augen öffnest, befällt dich Schwindelgefühl. Der Kummer schwebt hier mit sich schlängelnden und windenden Ranken.
+
+Du setzt dich auf. Rund um dich verstreut liegen die Überreste der Schlacht, doch du spürst, dass in dem stillen Raum etwas fehlt. Es dauert einen Moment, bis du weißt, was es ist: Die Erste ist weg, ebenso wie alle ihre Verbündete. Nicht nur tot, sondern spurlos verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Matkina setzt sich auf. Rund um sie verstreut liegen die Überreste der Schlacht, doch von denen, die sie ausgefochten haben, ist nichts zu sehen. Die Erste und ihre Verbündeten sind spurlos verschwunden und… der Letzte Abgeworfene ebenso.
+
+Vor ihr schwebt der Kummer. Seine Ranken wogen und winden sich in einer Art mentaler Brise.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Erste setzt sich auf. Rund um sie verstreut liegen die Überreste der Schlacht, doch von denen, die sie ausgefochten haben, ist nichts zu sehen. Ihre Verbündeten sind ebenso spurlos verschwunden wie der Wandelnde Gott und ... der Letzte Verstoßene.
+
+Vor ihr schwebt der Kummer. Seine Ranken wogen und winden sich in einer Art mentaler Brise.</DefaultText>
+      <FemaleText>Die Erste setzt sich auf. Rund um sie verstreut liegen die Überreste der Schlacht, doch von denen, die sie ausgefochten haben, ist nichts zu sehen. Ihre Verbündeten sind ebenso spurlos verschwunden wie der Wandelnde Gott und... die Letzte Verstoßene.
+
+Vor ihr schwebt der Kummer. Seine Ranken wogen und winden sich in einer Art mentaler Brise.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du erwachst auf dem kalten Boden in der Festung der Memovira. Als du die Augen öffnest, befällt dich Schwindelgefühl und eine momentane Panik, als du den Kummer mit sich schlängelnden und windenden Ranken hier schweben siehst.
+
+Die Kreatur spricht zu dir: "*Du hast entschieden, die Welt so zu bewahren, wie sie ist. Nachdem die Resonanz und das Labyrinth versiegelt sind, gibt es kein Potenzial für eine Katastrophe mehr. Als Zeichen meiner Dankbarkeit gebe ich allen hier Versammelten die Chance, eure Leben fortzuführen. Doch irgendwann werdet ihr mir alle Rechenschaft ablegen müssen.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Selbst Matkina ist spurlos verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"*Die Resonanz wurde versiegelt und die Gezeiten sind wieder ruhig. Deine Geschwister sind nun ein Teil von dir. Unsere Reise ist zu Ende.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Dich an deine Begleiter wenden. "Was werdet ihr jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wo sind die anderen Verstoßenen hin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Sag mir noch mal, wo die anderen Verstoßenen hin sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Das heißt, du wirst mich nicht mehr jagen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Um das klarzustellen – du wirst mich nie mehr jagen, richtig?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"*Sie waren Geschöpfe der Gezeiten, zusammengehalten durch das Geschick eures Erzeugers. Als sie diese Verbindung verloren und in die Resonanz gezogen wurden, haben sich ihre Körper aufgelöst. Ich habe ihre körperlichen Überreste entfernt.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"*Sie sind nun in dir. Blicke in deinen Geist, berühre sie und du wirst sehen. In deinen Erinnerungen kannst du nun auch auf ihre Erfahrungen zurückgreifen. Doch gehe zunächst behutsam damit um, damit ihre Erinnerungen nicht deine beherrschen.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"*Sofern du nicht die Experimente deines Erzeugers fortsetzt oder auf andere Weise mit der Energie der Gezeiten spielst, werden wir uns nicht wiedersehen.*"
+
+Seine nächsten Worte sind wohlüberlegt. "*Solltest du dies jedoch tun, werde ich nicht zögern, dich vollständig zu vernichten. Du tust gut daran, unsere Übereinkunft nicht mit Freundschaft zu verwechseln.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"*Nur, wenn du mich nicht erneut erweckst. Du trägst nun einen Teil von mir in dir und wenn ich muss, werde ihn gegen dich verwenden.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Dich an Aligern wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Und jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Selbst Matkina ist spurlos verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Welt ist dir vertraut, aber ... du siehst sie mit neuen Augen. Du spürst, wie dein Bewusstsein dir entgleitet, als würde es unter einer tektonischen Platte verschwinden. Du bist ... du wirst Miika.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"*Die Resonanz wurde versiegelt und die Gezeiten sind wieder ruhig. Das letzte Gefäß deines Vaters hat dich wieder zum Leben erweckt und alle Verstoßenen sind nun ein Teil von dir. Unsere Reise ist zu Ende.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Was geschah mit dem Letzten Verstoßenen?"</DefaultText>
+      <FemaleText>"Was geschah mit der Letzten Verstoßenen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Sag mir nochmal, was ist mit dem Letzten Verstoßenen passiert?"</DefaultText>
+      <FemaleText>"Sag mir nochmal, was ist mit de Letzten Verstoßenen passiert?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"*Er hat sein Leben für dich gegeben. Er ließ zu, dass sein Geist sich mit jenen seiner Geschwister in der Resonanz verband, und gemeinsam bildeten sie die Grundlage deines neuen Lebens.*"</DefaultText>
+      <FemaleText>"*Sie hat ihr Leben für dich gegeben. Sie ließ zu, dass ihr Geist sich mit jenen ihrer Geschwister in der Resonanz verband, und gemeinsam bildeten sie die Grundlage deines neuen Lebens.*"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"*Er ist in dir. Er ging in deinem neugeborenen Geist auf.*"</DefaultText>
+      <FemaleText>"*Sie ist in dir. Sie ging in deinem neugeborenen Geist auf.*"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Was ist mit meinem Vater passiert?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Erzähl mir nochmal, was mit meinem Vater passiert ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"*Fort, Kind. Er hat seine Jahre mit dem Versuch verbracht, dich ins Leben zurückzuholen. Es ist ihm gelungen, doch es hat sein eigenes Leben gekostet.*"
+
+Der Kummer hält inne. "*Ich warne dich: Versuche nicht, ihn zurückzuholen. Lass ihn stattdessen in deiner Person weiterleben.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"*Er ist fort, Kind. Gestorben. Er hinterlässt der Welt seine Geschichte ... und dich.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Dich an die Begleiter wenden. "Was werdet ihr jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Und jetzt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Der Kummer wartet einen Moment, bis Matkina sich erhebt.
+
+"*Du bist nun die letzte der Verstoßenen. Doch du bist keine Verstoßene mehr – du bist eine eigene und ganze Person, und solange du mich nicht erneut erweckst, hast du von mir nichts zu befürchten.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"*Dir wurde ein neues Leben gegeben. Was wirst du damit tun? Was wird dein Erbe sein?*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Sie überlegt einen Moment und sieht sich in dem Hof um. Dann streift sie die Kapuze vom Kopf, streckt sich und lacht. "Zunächst einmal werde ich mir die Flor zurückholen. Und dann werden wir sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Sie wendet sich an die anderen. "Und was ist mit euch? Es ist vorbei. Endgültig vorbei. Was werdet ihr nun tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Selbst Matkina ist verschwunden. Kein spöttisches Grinsen, kein Messerglitzern, kein Anflug eines Lächelns ... alles ausgelöscht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Der Kummer wartet einen Moment, bis Maralel sich erhebt.
+
+"*Du bist nun die letzte der Verstoßenen. Doch du bist keine Verstoßene mehr – du bist eine eigene und ganze Person, und solange du mich nicht erneut erweckst, hast du von mir nichts zu befürchten.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"*Dir wurde ein neues Leben gegeben. Was wirst du damit tun?*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Sie nimmt ihre Maske ab und streicht sich mit den Händen über ihr vernarbtes Gesicht. Sie lacht leise. "Nun, ich sollte meinen Körper dringend reparieren." Sie hebt beschwichtigend die Hand. "Nur ganz einfache Numenera, versprochen!"
+
+Sie setzt die Maske wieder auf. "Ich möchte meine gefallenen Geschwister ehren. Ich werde nach ihren Erinnerungen suchen und versuchen, die Welt zu einem besseren Ort zu machen, unsere Sünden wiedergutmachen. Und ich werde nicht die Fehler meines Erzeugers begehen. Reicht das?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Sie wendet sich an deine ehemaligen Begleiter. "Was euch betrifft: Euer Freund war fürsorglich und großzügig, selbst wenn er keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geht und ich schwöre euch, wenn ihr mir und den Meinen nichts Böses tut, werde ich euch beschützen."
+
+Sie deutet auf den Ausgang. "Geht. Bevor ich es mir anders überlege."</DefaultText>
+      <FemaleText>Sie wendet sich an deine ehemaligen Begleiter. "Was euch betrifft: Eure Freundin war fürsorglich und großzügig, selbst wenn sie keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geht und ich schwöre euch, wenn ihr mir und den Meinen nichts Böses tut, werde ich euch beschützen."
+
+Sie deutet auf den Ausgang. "Geht. Bevor ich es mir anders überlege."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"*Sei versichert, dass ich dich noch holen werde. Und solltest du die unüberlegten Pläne deines Erzeugers fortführen, wirst du mich schon sehr bald wiedersehen. Doch für heute ...*"
+
+Der Kummer verblasst, doch seine Worte hallen in deinem Geist nach. "*... für heute gewähre ich dir einen Aufschub. Nutze deine Zeit weise.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Sie sieht dir in die Augen und kommt zur dir, um dir die Hand zu drücken. "Du musstest eine schwierige Entscheidung treffen und hast dich richtig entschieden. Nach allem, was ich getan habe, hattest du jedes Recht, um Rache an mir zu nehmen. Ich weiß nicht, ob ich an deiner Stelle auch so gütig gewesen wäre. Ich bin gedemütigt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Sie wendet den Blick ab. "Ich habe immer noch vor, den Kummer zu stoppen. Irgendwie. Doch die Flor habe ich verloren. Vielleicht sollte ich Miel Avest wieder aufbauen ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ich werde nun in die Flor zurückkehren und meine Arbeit fortsetzen. Zunächst muss ich jedoch das Biest aufs Neue zähmen. Und dann *werde* ich einen Weg finden, um den Kummer zu stoppen und uns alle endgültig zu befreien. Verlasse dich darauf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Denkst du, dass man den Kummer wirklich stoppen kann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Das Bestreben, den Tod zu besiegen, hat das alles überhaupt erst ausgelöst. Was, wenn wir uns entscheiden, einfach unsere Leben zu leben, bis sie zu Ende sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich werde dir helfen, wo ich nur kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Wir haben ihn diesmal auch aufgehalten, nicht wahr? Wenn wir ihm hier ein Patt abringen konnten, gibt es keinen Grund, warum wir ihn nicht irgendwann endgültig eliminieren sollten. Ich will den Kummer nicht vernichten – nur dafür sorgen, dass er keinen Einfluss auf unser Leben mehr nimmt." In ihrer Stimme hörst du das Lächeln hinter ihrer Maske.
+
+"Außerdem würde eine direkte Herausforderung wohl nur dafür sorgen, dass die Kreatur sich nicht mehr an ihr Versprechen uns gegenüber gebunden fühlt. Mach dir keine Sorgen. Ich werde außerhalb ihres Einflussbereichs tätig sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Ihr Lächeln ist nur ein wenig spöttisch. "Du hast bereits eine Entscheidung für uns alle getroffen. Ich dagegen habe vor, das weiter zu verfolgen, was *ich* für das Beste halte."
+
+Ihr nächstes Lachen ist aufrichtiger. "Du hast doch nicht ernsthaft erwartet, dass ich mich ändern würde, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Sie sieht dich abschätzend an. "Offensichtlich habe ich dich falsch eingeschätzt, Verstoßener. Du hast *tatsächlich* unser aller Wohl im Sinn. Ich werde das nicht vergessen. Doch nun sollten sich unsere Wege trennen. Lassen wir unsere alten Wunden verheilen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ich beabsichtige nicht, dich je wiederzusehen, kleiner Bruder. Aber wenn wir uns doch wiedersehen sollten, lass uns das nächste Mal zusammenarbeiten, ja?"
+
+Sie wendet sich ab und überlegt ihre nächsten Schritte.</DefaultText>
+      <FemaleText>"Ich beabsichtige nicht, dich je wiederzusehen, kleine Schwester. Aber wenn wir uns doch wiedersehen sollten, lass uns das nächste Mal zusammenarbeiten, ja?"
+
+Sie wendet sich ab und überlegt ihre nächsten Schritte.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Dich an deine Begleiter wenden. "Was werdet ihr jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Dich an Matkina wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Der Hof der Festung der Memovira ist übersät mit Trümmern und völlig verwüstet. Die Erste und ihre Verbündeten sind verschwunden, ebenso der Letzte Verstoßene – jede Spur ihrer Existenz ausgelöscht.</DefaultText>
+      <FemaleText>Der Hof der Festung der Memovira ist übersät mit Trümmern und völlig verwüstet. Die Erste und ihre Verbündeten sind verschwunden, ebenso die Letzte Verstoßene – jede Spur ihrer Existenz ausgelöscht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Das einzige, was bleibt, ist das leise Seufzen des Windes. Doch nach einiger Zeit verstummt selbst dieser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Ich weiß, dass er entschlossen war, das Vermächtnis der Verstoßenen zu ändern, aber ... sie alle zu töten ist eine harte Entscheidung."
+
+Er klopft sich den Staub von seiner Jacke, bläst auf seine Hände und sieht zur Tür der Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ein höchst unerwartetes Ergebnis." Sie konzentriert sich für einen Moment. "Und eines, dessen Echo durch meine Realitäten widerhallt. Kurios." Sie wischt Staub und Trümmer von ihren Kleidern und sieht zur Tür der Festung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Für einmal zeigt sich Sorge in seiner sonst so unerschütterlichen Miene. "Wo große Kräfte nachwirken, da lass dich nicht nieder. Plünderer sind im Anmarsch, und die ersten, die kommen, werden die wenigsten Skrupel haben. Sie bringen Tod, nicht Liebe. Kurz gesagt: Es sind Mörder. Ich verschwinde besser, bevor sie ihre Kunst an mir praktizieren."
+
+Er schlägt mit den Handschuhen gegen sein Bein, bereit zum Aufbruch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"War das aufregend! Vor allem, als du ... oh. Du bist nicht mehr da, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Er hat sie alle getötet. Ich kann's nicht glauben." Sie sieht sich verloren um. Ein Schaudern überkommt sie und sie zieht den Mantel enger um sich.</DefaultText>
+      <FemaleText>"Sie hat sie alle getötet. Ich kann's nicht glauben." Sie sieht sich verloren um. Ein Schaudern überkommt sie und sie zieht den Mantel enger um sich.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Er hält einen Moment inne und kratzt sich am Kopf. "Ich schätze, hier trennen sich unsere Wege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Das war mal eine faszinierende Erfahrung, würde ich sagen. Ich denke, nun können wir ... mit unseren Leben weitermachen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Dann ist es wohl Zeit, Adieu zu sagen. Vielleicht suche ich mir ein Plätzchen, wo es nicht ganz so heiß hergeht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Also dann. Neue Abenteuer warten ... schätze ich. Irgendwo gibt es bestimmt ein Schiff, das geflogen werden will."
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ich denke ... es ist vorbei. Wir können uns trennen. Was wirst du tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Du erwachst auf dem kalten Boden in der Festung der Memovira. Als du die Augen öffnest, befällt dich Schwindelgefühl.
+
+Du setzt dich auf. Rund um dich und die anderen Verstoßen liegen die Überreste der Schlacht verstreut. Jenseits der Festung hörst du Schreien – Schrecken, Wahnsinn, geistige Verwirrung und Mord.
+
+Das ist dein Werk.
+
+{SOUND: Distant screams of a dying city}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Sein Mund öffnet sich in einem stummen Schrei. Er zieht an seinen Haaren, seinem Gesicht, seinen Augen. Seine Finger reißen blutige Wunden in seine Unterarme, als er versucht, die Tätowierungen von seiner Haut zu kratzen. Sie winden sich und kreischen und fallen zischend von seinen Armen. Für einen Moment flackern sie in beinahe menschlicher Gestalt.
+
+Geisterhafte, bunte Bänder funkeln um ihn herum und quälen ihn, bis er schließlich zuckend zu Boden fällt. Er ist nicht tot, obwohl der Tod für ihn eine Erlösung wäre.
+
+{SOUND: Aligern screaming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Ihren Kehlen entweicht ein unmenschlich schriller Schrei, der in einer schauderhaften Harmonie durch die Dimensionen widerhallt. Callistege ringt mit ihren Schwestern, alle verrückt geworden, gefühllos, flackernd, kurz solide und dann wieder nicht.
+
+Geisterhafte, bunte Bänder funkeln sichtbar um sie herum und quälen sie und alle ihre Echos, bis sie schließlich zuckend zu Boden fallen. Sie sind nicht tot, obwohl der Tod eine Erlösung wäre.
+
+{SOUND: Callistege screaming.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Sie sieht dich abschätzend an. "Ich hätte ehrlich nicht gedacht, dass du das Rückgrat für eine solche Entscheidung hättest." Sie lauscht dem Geheul jenseits der Festung.
+
+"Es ist eine schwierige Entscheidung, das Wohl einer Gruppe mit dem Leid einer anderen zu erkaufen." Sie klopft dir auf die Schulter. "Aber wir haben viel mehr zu bieten als sie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Wohin zieht es dich jetzt?“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Sag mir noch mal, was du jetzt vorhast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Der Kummer ist tot." Sie zuckt mit den Schultern. "Ich habe den Großteil meines Lebens damit zugebracht, vor ihm zu flüchten und Wege finden, ihn zu besiegen. Es wird Zeit, mir neue Ziele zu suchen."
+
+Sie nimmt für einen Moment ihre Maske ab und lässt den Wind in ihr verunstaltetes Gesicht wehen. "Ich sollte mich vermutlich nach einem neuen Körper umsehen. Einen ohne diese Mängel." Sie lacht. "Aber wir werden sehen, was die Zukunft bereithält!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Die Flor verlassen, einen neuen Körper finden, ein neues Ziel im Leben. Schließlich habe ich nun alle Zeit der Welt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Denkst du, dass der Kummer wirklich tot ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Denkst du ernsthaft, dass der Kummer tot ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Nun, du hast ihm die gesamte Kraft der Resonanz entgegengeschleudert. Das hat er gefürchtet. Und er ist nicht hier und vernichtet uns. Ich würde vermuten, dass er nicht völlig vernichtet ist. Aber er wird uns nicht mehr belästigen. Das macht es auf lange Sicht alles wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Natürlich. Zumindest für absehbare Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Dich an deine Begleiter wenden. "Was werdet ihr jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Du bahnst dir deinen Weg durch die Trümmer der Festung der Memovira und steigst hinauf in die sterbende Stadt. Solltest du Reue oder Scham empfinden, weil du die geistige Gesundheit unzähliger anderer für deine eigene Sicherheit geopfert hast, dann wird sich dies mit der Zeit bemerkbar machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Die Umstehenden können nur entsetzt zusehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Deine Begleiter sehen dich mit vor Entsetzen geweiteten Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Du kennst sie mittlerweile gut genug, um ihre Stimmung abschätzen zu können. Sie ist *fuchsteufelswild*. "Du hast die geistige Gesundheit des Sagus-Protektorats für das Wohlergehen der Verstoßenen geopfert. So kann man auch in die Geschichte eingehen, Geschwisterchen, aber unserem Ruf hast du damit keinen Gefallen getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ich schätze, da kann man nichts mehr machen. Was geschehen ist, ist geschehen, und wir müssen nach vorne sehen."
+
+{TYBIR}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Hast... hast du eben eine ganze Stadt in den Wahnsinn getrieben? Das ist nicht gerade heroisch. Im Gegenteil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ich kann nicht glauben, was du getan hast. Hör dir das an. *Entsetzlich*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Sie zuckt mit den Schultern, zieht ihre Kapuze hoch und wendet sich von dir ab. "Ich plane, weit weg von hier zu sein. Und weit weg von dir, wenn es geht. Eines muss ich dir lassen, du hast es geschafft, mich noch mehr anzuwidern als unser Erzeuger und die Erste zusammen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Er streicht ernst über seinen Schnurrbart. "Als erstes will ich jemanden mit einem Gewissen finden. Ich sollte künftig besser darauf achten, wie blutrünstig meine Begleiter sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ich muss ein echtes Abenteuer finden", sagt er mit einem Schaudern. "Das hier ist ganz und gar nicht wie ich mir ein Abenteuer vorstelle."
+
+{ERRITIS}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Ich ... Ich dachte, ich kenne dich ..." Sie wendet sich ab, die Arme eng um ihren Körper geschlungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Ich schätze, es ist Zeit zu gehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Dich an Callistege wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Dich an Erritis wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Dich an Rhin wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Dich an Tybir wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Dich an Aligern wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Dich an Callistege wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Dich an Erritis wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Dich an Rhin wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Dich an Tybir wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Dich an Aligern wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Dich an Callistege wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Dich an Erritis wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Dich an Rhin wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Dich an Tybir wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Bis dahin hast du ein Leben zu leben und eine ganze Welt voller Geheimnisse zu entdecken. Vielleicht findest du sogar endlich Zeit, um ein paar Bücher zu lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Bis dahin hast du ein Leben zu leben und eine ganze Welt an Erfahrungen wartet auf dich. Vielleicht hast du ja sogar Zeit, dich künstlerisch zu betätigen, neue Fertigkeiten zu erlernen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Bis dahin hast du ein Leben zu leben. Vielleicht kannst du ... vielleicht kannst du ja ein wenig von dem Schaden wiedergutmachen, den du den Leuten hier zugefügt hast. Damit wirst du alle Hände voll zu tun haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Dir fällt nichts ein. Du hast in unzähligen Leben furchtbaren Schaden angerichtet. Bevor du dein eigenes Leben weiterleben kannst, wirst du irgendwie Wiedergutmachung leisten müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Bis dahin hast du ein Leben zu leben. Du hast vollbracht, was der Wandelnde Gott nicht vermochte – du hast den Kummer vernichtet. Jetzt wird es Zeit, weiter an deiner Legende zu arbeiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Dich an Erritis wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Dich an Matkina wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Dich an Rhin wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Dich an Tybir wenden. "Was wirst du jetzt tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Mit einem leisen Pfeifen machst du dich auf den Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Du gehst los und versuchst, ein Liedchen zu pfeifen ... doch dein Mund ist trocken und dein Herz schlägt dir bis zum Hals.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Mit einem leisen Pfeifen machst du dich auf den Weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Dein Begleiter sieht dich mit vor Entsetzen geweiteten Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Sie wendet sich an Aligern. "Was dich betrifft: Dein Freund war fürsorglich und großzügig, selbst wenn er keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geh und ich schwöre dir, wenn du mir und den Meinen nichts Böses tust, werde ich dich beschützen."
+
+Sie deutet auf den Ausgang. "Geh. Bevor ich es mir anders überlege."</DefaultText>
+      <FemaleText>Sie wendet sich an Aligern. "Was dich betrifft: Deine Freundin war fürsorglich und großzügig, selbst wenn sie keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geh und ich schwöre dir, wenn du mir und den Meinen nichts Böses tust, werde ich dich beschützen."
+
+Sie deutet auf den Ausgang. "Geh. Bevor ich es mir anders überlege."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Sie wendet sich an Callistege. "Was dich betrifft: Dein Freund war fürsorglich und großzügig, selbst wenn er keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geh und ich schwöre dir, wenn du mir und den Meinen nichts Böses tust, werde ich dich beschützen."
+
+Sie deutet auf den Ausgang. "Geh. Bevor ich es mir anders überlege."</DefaultText>
+      <FemaleText>Sie wendet sich an Callistege. "Was dich betrifft: Deine Freundin war fürsorglich und großzügig, selbst wenn sie keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geh und ich schwöre dir, wenn du mir und den Meinen nichts Böses tust, werde ich dich beschützen."
+
+Sie deutet auf den Ausgang. "Geh. Bevor ich es mir anders überlege."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Sie wendet sich an Rhin. "Was dich betrifft: Dein Freund war fürsorglich und großzügig, selbst wenn er keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geh und ich schwöre dir, wenn du mir und den Meinen nichts Böses tust, werde ich dich beschützen."
+
+Sie deutet auf den Ausgang. "Geh. Bevor ich es mir anders überlege."</DefaultText>
+      <FemaleText>Sie wendet sich an Rhin. "Was dich betrifft: Deine Freundin war fürsorglich und großzügig, selbst wenn sie keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geh und ich schwöre dir, wenn du mir und den Meinen nichts Böses tust, werde ich dich beschützen."
+
+Sie deutet auf den Ausgang. "Geh. Bevor ich es mir anders überlege."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Sie wendet sich an Erritis. "Was dich betrifft: Dein Freund war fürsorglich und großzügig, selbst wenn er keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geh und ich schwöre dir, wenn du mir und den Meinen nichts Böses tust, werde ich dich beschützen."
+
+Sie deutet auf den Ausgang. "Geh. Bevor ich es mir anders überlege."</DefaultText>
+      <FemaleText>Sie wendet sich an Erritis. "Was dich betrifft: Deine Freundin war fürsorglich und großzügig, selbst wenn sie keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geh und ich schwöre dir, wenn du mir und den Meinen nichts Böses tust, werde ich dich beschützen."
+
+Sie deutet auf den Ausgang. "Geh. Bevor ich es mir anders überlege."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Sie wendet sich an Tybir. "Was dich betrifft: Dein Freund war fürsorglich und großzügig, selbst wenn er keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geh und ich schwöre dir, wenn du mir und den Meinen nichts Böses tust, werde ich dich beschützen."
+
+Sie deutet auf den Ausgang. "Geh. Bevor ich es mir anders überlege."</DefaultText>
+      <FemaleText>Sie wendet sich an Tybir. "Was dich betrifft: Deine Freundin war fürsorglich und großzügig, selbst wenn sie keinen Grund dazu hatte. Also werde ich auch großzügig sein. Geh und ich schwöre dir, wenn du mir und den Meinen nichts Böses tust, werde ich dich beschützen."
+
+Sie deutet auf den Ausgang. "Geh. Bevor ich es mir anders überlege."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Sie wendet sich an Aligern. "Und was ist mit dir? Es ist vorbei. Endgültig vorbei. Was wirst du nun tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Sie wendet sich an Callistege. "Und was ist mit dir? Es ist vorbei. Endgültig vorbei. Was wirst du nun tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Sie wendet sich an Tybir. "Und was ist mit dir? Es ist vorbei. Endgültig vorbei. Was wirst du nun tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Sie wendet sich an Erritis. "Und was ist mit dir? Es ist vorbei. Endgültig vorbei. Was wirst du nun tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Sie wendet sich an Rhin. "Und was ist mit dir? Es ist vorbei. Endgültig vorbei. Was wirst du nun tun?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Versuchen, die Präsenz des Kummers zu fühlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Erneut nach Zeichen der Präsenz des Kummers suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Der schreckliche Todesgeist, der dich schon dein ganzes Leben lang verfolgt, immer noch präsent, nur ... kleiner. Der Kummer hat sich tatsächlich zurückgezogen, jedoch nicht sehr weit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Er ist immer noch da – weiter weg, aber er ist noch da und wartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

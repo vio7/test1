@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_regret_blueapprentice</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Bilder flimmern in der Luft, von dieser Maschine projiziert, und erwecken die gleiche Szene immer wieder zum Leben. Als du das Gerät studierst, spürst du, wie es in deine Gedanken greift und Erinnerungen an die Oberfläche zieht.</DefaultText>
+      <FemaleText>Bilder flimmern in der Luft, von dieser Maschine projiziert, und erwecken die gleiche Szene immer wieder zum Leben. Als du das Gerät studierst, spürst du, wie es in deine Gedanken greift und Erinnerungen an die Oberfläche zieht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du beobachtest eine Anzeige durch Kristallprismen. Die Bilder und die Farben bilden einen zerklüfteten Regenbogen, wie sie in jeder vorherigen Version dieser Maschine gewesen waren, obwohl sie ein einziges, glühendes Bild zeigen sollten – zumindest wenn dieses Gerät so funktioniert wie beabsichtigt. Du zischst frustriert durch die Zähne. Wie viele Jahre musst du damit verschwenden, diese Energien aufeinander auszurichten? Ist dieser Aufwand sinnlos?
+
+"Schalt es ab", knurrst du. Dein Lehrling beachtet dich nicht.</DefaultText>
+      <FemaleText>Du beobachtest eine Anzeige durch Kristallprismen. Die Bilder und die Farben bilden einen zerklüfteten Regenbogen, wie sie in jeder vorherigen Version dieser Maschine gewesen waren, obwohl sie ein einziges, glühendes Bild zeigen sollten – zumindest wenn dieses Gerät so funktioniert wie beabsichtigt. Du zischst frustriert durch die Zähne. Wie viele Jahre musst du damit verschwenden, diese Energien aufeinander auszurichten? Ist dieser Aufwand sinnlos?
+
+"Schalt es ab", knurrst du. Dein Lehrling beachtet dich nicht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Noch einen Augenblick", murmelt er. "Nur noch einen Augenblick." Er kniet vor das Bedienfeld und greift hinein, um kleine Anpassungen vorzunehmen. 
+
+Über ihm richten sich die Bilder und Farben aufeinander aus. Er geht wieder in die Hocke, mit einem riesigen Grinsen im Gesicht. "Ich wusste es", lacht er. "Ich konnte es hören, wie es mit mir *flüsterte*. Es ist, als ob ... als ob es *will*, dass es erledigt wird. Das ist mein Meisterwerk. Was sollen wir jetzt als Nächstes tun?" Du bist dir nicht sicher, ob dein Verstoßenen-Abkömmling mit dir oder mit der Maschine spricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du starrst auf seinen Hinterkopf. Er ist zweifellos talentiert. In einigen Aspekten musst du zugeben, dass er dich sogar übertrifft. Das ist immerhin Teil dessen, weshalb du seinen Körper so konstruiert hast. Nachdem er dies nun jedoch erreicht hat ... wagst du es, ihn wieder in die Welt zu entlassen? Er kennt nun dein tiefstes Geheimnis und hält deine Zukunft in den Händen.
+
+... du spürst jedoch eine gewisse Zuneigung für ihn. Ihn zu töten, wäre in der Tat nicht sehr dankbar. Stattdessen sprichst du.</DefaultText>
+      <FemaleText>Du starrst auf seinen Hinterkopf. Er ist zweifellos talentiert. In einigen Aspekten musst du zugeben, dass er dich sogar übertrifft. Das ist immerhin Teil dessen, weshalb du seinen Körper so konstruiert hast. Nachdem er dies nun jedoch erreicht hat ... wagst du es, ihn wieder in die Welt zu entlassen? Er kennt nun dein tiefstes Geheimnis und hält deine Zukunft in den Händen.
+
+... du spürst jedoch eine gewisse Zuneigung für ihn. Ihn zu töten, wäre in der Tat nicht sehr dankbar. Stattdessen sprichst du.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Lass dich von der Erinnerung hinfort tragen.</DefaultText>
+      <FemaleText>Lass dich von der Erinnerung hinfort tragen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Widerstehe der Erinnerung.</DefaultText>
+      <FemaleText>Widerstehe der Erinnerung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>In dem Augenblick, in dem du den Blick von der Szene abwendest, wird die Verbindung unterbrochen.</DefaultText>
+      <FemaleText>In dem Augenblick, in dem du den Blick von der Szene abwendest, wird die Verbindung unterbrochen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Der Bildprojektor setzt die Wiedergabe der sich wiederholenden Bilder fort und versucht, dich in die gezeigte Szene zu ziehen.</DefaultText>
+      <FemaleText>Der Bildprojektor setzt die Wiedergabe der sich wiederholenden Bilder fort und versucht, dich in die gezeigte Szene zu ziehen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Mazzof", flüsterst du. Er dreht sich um, und in dem Moment, in dem er den Augenkontakt herstellt, schlägt die volle Kraft deiner psychischen Macht durch seine magere Abwehr. Du dringst in seine Erinnerungen ein und löschst die Einzelheiten zu diesem letzten Arbeitsjahr aus. Es ist ein grobes Werkzeug, ein Knüppel, du redest dir jedoch ein, dass es freundlicher ist, als ihn zu vernichten.
+
+Du glaubst es fast selbst.</DefaultText>
+      <FemaleText>"Mazzof", flüsterst du. Er dreht sich um, und in dem Moment, in dem er den Augenkontakt herstellt, schlägt die volle Kraft deiner psychischen Macht durch seine magere Abwehr. Du dringst in seine Erinnerungen ein und löschst die Einzelheiten zu diesem letzten Arbeitsjahr aus. Es ist ein grobes Werkzeug, ein Knüppel, du redest dir jedoch ein, dass es freundlicher ist, als ihn zu vernichten.
+
+Du glaubst es fast selbst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Bilder werden auch weiterhin angezeigt, das nagende Jucken der Erinnerungen ist jedoch verschwunden.</DefaultText>
+      <FemaleText>Die Bilder werden auch weiterhin angezeigt, das nagende Jucken der Erinnerungen ist jedoch verschwunden.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

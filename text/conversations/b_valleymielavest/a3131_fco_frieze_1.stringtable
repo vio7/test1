@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\a3131_fco_frieze_1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Szene hier zeigt zwei Figuren, die Seite an Seite an einem Felsrand stehen und auf einen Talkessel mit einer großen Scheibe in der Mitte hinabsehen. Die Szene kommt dir bekannt vor...
+ 
+ Ein Schwindelgefühl überkommt dich und du hältst dich am rauen Stein fest. Das ist *nicht* hilfreich. Die Erinnerung strömt pochend aus dem Stein in dich hinein und überwältigt deine Sinne. 
+ 
+ Ja. Die Szene kommt dir vertraut vor, weil du sie am eigenen Leib erlebt hast, als du deinen Geist im Labyrinth wiederhergestellt hast. Und hier wartet nun die volle Erinnerung auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dich ihr hingeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Verdränge die Erinnerung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Der verblasste Fries leuchtet ein wenig auf, wie von einem Licht in seinem Inneren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du bereitest dich mental auf den Ansturm der Bilder, Emotionen und verborgenen Empfindungen vor. Gerade noch rechtzeitig. Die Erinnerung strömt an dir vorbei, kalt wie schmelzender Schnee. Und doch ...
+ 
+ Fetzen. Erinnerungsfetzen von diesem längst vergessenen Tag erreichen dich. Die Reparatur fehlerhafter Konstrukte. Die untergehende Sonne. Und die deutliche Erinnerung daran, wie die Erste Verstoßene vor einem Grab kniet und Hände und Stirn darauf legt. 
+ 
+ Das Portal öffnet sich, die Antwort auf das Leuchten der Tätowierung unter ihrer Maske.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Erinnerung an diesen längst vergessenen Tag strömt an dir vorbei, kalt wie schmelzender Schnee. Du lenkst den Blick der Ersten Verstoßenen auf den ressourcenreichen Talkessel, in dem einst Miel Avest stehen wird. Du ignorierst ihren spöttischen Blick, als deine eigenen Konstrukte sich gegen dich wenden, und führst die nötigen Reparaturen durch. Und dann bleibt die Zeit stehen, als sie über einen moosüberhangenen Pfad den Weg zu dir bahnt. Die Augen hinter ihrer Maske leuchten. 
+ 
+ "Ich muss dir etwas zeigen", sagt sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du folgst ihr zu einem deaktivierten Portal in einer Wand.
+ 
+ "Ich habe es aktiviert", sagt sie. "Die Türen existieren gleichzeitig an zwei Orten - hier und auf der anderen Seite. Wenn man sie richtig ausrichtet..."
+ 
+ Sie kniet vor der Wand und legt Hände und Stirn auf den Stein, als würde sie das Ding anbeten. Du verziehst unbewusst das Gesicht, aber das Ergebnis spricht für sich - das Portal aktiviert sich und antwortet auf das Aufleuchten der Tätowierung unter der Maske der Ersten Verstoßenen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Den Fries untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Den Fries erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Flut an Erinnerungen verkommt zu einem Rinnsal und lässt dich in deinem Körper zurück. 
+ 
+ Du betrachtest das Wandbild. Könnte dies der Weg sein, um das Portal zu öffnen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Obwohl die beiden Figuren verblasst sind, kannst du mithilfe der Erinnerung aus dem Labyrinth immer noch einige wichtige Details ausmachen. 
+ 
+ Dieser Fries zeigt den Wandelnden Gott und die Erste Verstoßene, wie sie auf die künftige Stätte von Miel Avest blicken. Sie stehen Seite an Seite - wie Gleiche, nicht wie Meister und Dienerin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Dieser Fries zeigt den Wandelnden Gott und die Erste Verstoßene während der Gründung von Miel Avest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Als du dir ihre Gesichter näher ansiehst, fällt dir etwas Interessantes auf. Die Erste Verstoßene trägt eine Maske, so wie du es in Erinnerung hast. Das Gesicht des Wandelnden Gottes ist teilweise abgebrochen, als hätte jemand erfolglos versucht, den Fries zu beschädigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Sie bemerkt, wie du das Bild studierst. "Da sind sie. Die Architekten unserer elenden Leben."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

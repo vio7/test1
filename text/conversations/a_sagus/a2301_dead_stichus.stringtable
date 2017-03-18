@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2301_dead_stichus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Am Ende dieses grob gehauenen Tunnels siehst du einen Haufen großer Steine. Die Arme und Beine eines leblosen Stichus schauen zwischen den Steinen hervor. Verkrusteter Eiter umgibt die Löcher im Rückenpanzer des Wesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der tote Stichus liegt, wo du ihn zurückgelassen hast, umgeben von mit Eiter befleckten Steinen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Zurücktreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>""
+
+{GAVIN: Gateway to Dendra content. Add later if time. Blocked by blank global.}</DefaultText>
+      <FemaleText>""
+
+{GAVIN: Gateway to Dendra content. Add later if time. Blocked by blank global.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Steine entfernen um die Leiche freizulegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Erneut versuchen, die Steine zu bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der erste Stein bewegt sich am schwersten. Doch als du erst mal warm geworden bist, kegelst du die Steine beinahe zur Seite, bis du die Leiche darunter zur Gänze freigelegt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du versuchst, einen großen Stein zu bewegen, dann einen anderen, du schiebst und ziehst, bis dir das Blut in den Schläfen pocht ... doch die Steine bewegen sich nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die freigelegte Leiche untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Leiche erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Das Wesen war offensichtlich dabei, diesen Tunnel zu graben, als er einstürzte und es tötete. Seine kleinere Kralle ist zerschunden und zertrümmert, doch abgesehen vom eingedrückten Brustkorb und einigen Wunden in seinem Panzer ist der Körper überraschend unversehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Abgesehen vom eingedrückten Brustkorb und der zerschundenen Kralle ist der Körper überraschend unverletzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Schaufelhände der Kreatur haben scheinbar blindwütig Furchen in die herabgestürzten Felsen und die Wände ringsum geschlagen. Dir wird klar, dass der Stichus den Tunnel *absichtlich* zum Einsturz brachte.
+
+Er wollte sterben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du siehst dir die Wände und die Decke an. 
+
+"Todes-Tunnel" sind in den Überlieferungen der Sticha eher unbekannt, aber hier siehst du ein Musterbeispiel dafür. Das Wesen war wohl alt oder krank und entschloss sich, eher zu sterben, als seinen Brutkameraden zur Last zu fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Die herabgestürzten Felsen sind zu schwer und zu massiv, um sie zu bewegen. Du gibst dir alle Mühe, aber kannst sie nicht bewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

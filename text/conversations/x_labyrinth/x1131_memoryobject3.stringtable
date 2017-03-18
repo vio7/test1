@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_memoryobject3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Deine Finger zucken. Deine Gedanken rasen. Wenn du blinzelst, brennt weißes Feuer über das Innere deiner Augenlider.
+
+Kein Zweifel: Du fühlst dich stärker und aufgeweckter - *vollständiger* - als zum Zeitpunkt deiner Landung hier. 
+
+Eingefangenes Licht wirbelt fast spöttisch unter der dicken Oberfläche der Kugel vor dir und verbirgt Schatten - Erinnerungen - hinter sich. Du wirst irgendwie an sie herrankommen müssen, wenn du diesem Ort entkommen und deinen Begleiter finden willst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Vision einer Stadt entfaltet sich um dich herum - es ist deine Stadt, belagert und in Flammen. 
+
+Den ganzen Tag über haben ihre Verteidiger aufopferungsvoll gekämpft, doch immer noch rennen die Angreifer gegen sie an. Sie kämpfen, als wäre ihr Befehl reine Vernichtung. Gnade, Kapitulation oder Plünderung interessieren sie nicht. Sie wollen *Blut*.
+
+Aber du hast eine Begleiterin zur Spitze des Turms mitgebracht, die mit ihren scharfen Augen einen Weg gefunden hat, um die Angreifer aufzuhalten. Du musst sie in Sicherheit bringen und die Verteidiger wieder sammeln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du hast die Kugel bereits aufgebrochen und die darin enthaltene Erinnerung entdeckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Doch als du dich zur Tür des Turms umdrehst, steigen zwei Angreifer von einer schwebenden Maschine herab. Du hast keine Zeit mehr, um sie anzugreifen, bevor sie landen.
+
+Einer ist unmenschlich groß und schwingt eine vibrierende Axt. Seine Begleiterin ist dünn, in gläserne Rüstung gehüllt und hält einen Griff mit einer knisternden, unsichtbaren Klinge in den Händen. 
+
+Deine Begleiterin weicht zurück - sie ist zu jung, um dir hier eine Hilfe zu sein. Auf der engen Zinne kommen deine Feinde im Gänsemarsch auf dich zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Es mit dem Riesen aufnehmen. Du kannst es mit ihm aufnehmen... zumindest für einen Schlag oder zwei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Unter dem Axthieb des Riesen hinwegtauchen und ihn angreifen, bevor er dich erwischen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Defensiv kämpfen und herausfinden, welcher der beiden gefährlicher ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Der Riese startet seinen Angriffswirbel. Du kannst den ersten Schlag blocken, doch der zweite zwingt dich in die Knie. Du bist benommen und siehst verschwommen, aber deine Rüstung hält und du bist geistesgegenwärtig genug, um ihm, als er die Axt für den tödlichen Hieb hebt, dein Schwert unter den Brustharnisch zu rammen bis die Klinge bei seinem Nacken wieder herauskommt. Sein Blut ergießt sich über deine Hände und er kippt zu Boden, mit deinem Schwert noch in seinem Körper. Du hast keine Waffe mehr und seine Begleiterin greift an!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ihre unsichtbare Klinge ist wesentlich tödlicher als die Axt des Riesen. Du duckst dich gerade noch rechtzeitig weg und die Wand hinter dir zerbröckelt mit einem Zischen. Als sie die Klinge zurückzieht, streift sie deine Rüstung und zerstört deinen Brustharnisch. Mit so einer Waffe muss man kein geschickter Kämpfer sein, sondern den Gegner nur irgendwie treffen.
+
+Du greifst sie an, als sie gerade zu einem weiteren Hieb ausholt. Du rammst sie mit voller Wucht und stößt sie über die Mauer. Schreiend stürzt sie fünfzig Meter in die Tiefe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die unmittelbare Gefahr ist vorüber. Du konzentrierst dich darauf, einen Weg zurück zu deinen Verbündeten zu finden. Du öffnest die Tür des Turms und stürmst die Treppe hinab. Die Tür am Fuß der Treppe ist leicht beschädigt und steht offen. Im Gang dahinter hörst du noch weitere feindliche Soldaten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du duckst dich unter seinem Axtwirbel weg. Er ist vollkommen seines Sieges überzeugt und spielt mit dir, ohne ernsthaft anzugreifen.
+
+Ja, er ist schnell, aber nicht so schnell wie du... und als er zum tödlichen Hieb ausholend die Axt hebt, kannst du ihm dein Schwert unter den Brustharnisch rammen bis die Klinge bei seinem Nacken wieder herauskommt. Sein Blut ergießt sich über deine Hände und er kippt zu Boden, dein Schwert noch im Körper. Du hast keine Waffe mehr und seine Begleiterin greift an!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Erinnerung scheint kristallklar: Der Riese ist bedrohlich, keine Frage, doch die unsichtbare Klinge seiner Begleiterin ist noch wesentlich gefährlicher. Das um sie flackernde und wabernde Energiefeld lässt vermuten, dass sie Materie auf Molekularebene zerschneiden und so Teile ihrer Opfer ins pure Nichts reißen kann. Wenn du deine Haut retten willst, solltest du dir sie zuerst vornehmen. Sie steckt hinter dem Riesen fest und wartet darauf, dass sie dich angreifen kann. Doch solange er im Weg steht, kann sie nichts tun.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sie denkt wohl, dass der Riese dich erledigen wird. Ihr Blick wandert bereits an dir vorbei auf deine Begleitung zu. Offensichtlich hat sie nicht damit gerechnet, dass du zwischen den Beinen des Riesen hindurch tauchen und plötzlich direkt vor ihr stehen würdest. Sie hebt das Schwert, aber da hast du ihr deinen Dolch bereits unter dem Kinn in den Schädel gerammt.
+
+Du fängst sie auf, bevor ihre tödliche Klinge auf dich fällt und drehst sie herum. Ihre Waffe fährt durch den Riesen und schneidet ihn entzwei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Tür rammen und die Soldaten zu Boden werfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Tür aufbrechen und dich an den Soldaten vorbeischleichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Mitten durch die Soldaten durchlaufen und dich auf deine Verteidigung verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du stürzt durch die Schatten auf die Tür zu und senkst im letzten Moment die Schultern. Die Tür fliegt auf. 
+
+Auf halben Weg rammt sie ein paar feindliche Soldaten und schleudert sie zu Boden. Mit der Klinge in der Hand läufst du durch die Tür und erledigst deine verdutzten Feinde, bevor sie reagieren können.
+
+Ihr Blut sammelt sich in einer Pfütze im Gang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du stemmst dich gegen die glänzende Tür und öffnest sie langsam. Als sie leise quietscht, wagst du nicht zu atmen. In deiner Erinnerung ist das Geräusch so laut wie eine Glocke. Du erstarrst, aber die Soldaten hinter der Tür reden weiter miteinander, so als hätten sie nichts gehört. Du schiebst die Tür noch ein wenig weiter auf, zwängst dich durch die schmale Öffnung und schleichst den blutverschmierten Gang entlang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du stürmst durch die Schatten und die Tür und rammst den erstbesten Soldaten, der dir im Weg steht. Er geht zu Boden und du löst du dich elegant von ihm, nur um einen direkten Treffer von der Klinge seines Kameraden einzustecken. Aber das war Teil deines Plans, denn auch wenn dir der Schlag den Schädel brummen lässt, befördert er dich gleichzeitig den Gang entlang.
+  
+Du kommst auf die Füße und läufst weiter, ohne auf den leichten Schmerz in deiner Brust zu achten. Geschosse prasseln auf die Wände rund um dich ein, doch nur ein einziger Bolzen trifft dich und prallt von deinem verstärkten Brustharnisch ab ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Erinnerung beginnt zu verblassen und du bist zurück in deinem eigenen Körper. 
+
+Dein rasender Herzschlag pocht in deinen Schläfen und die wiedergewonnene Erinnerung brennt in dir, hell wie ein Leuchtfeuer auf einem Berggipfel, unübersehbar für jeden Jäger im Umkreis von Kilometern.
+
+Ein Beben erschüttert den Boden unter deinen Füßen, als ob eine gewaltige Faust dem Raum einen Schlag versetzt hätte. Als du versuchst, das Gleichgewicht zu halten, bemerkst du fieberhafte Bewegungen in den Rändern eines Spiegels in einer Ecke des Raums.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Schatten zum Glas locken, damit du sie sehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Walk away from the orb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Dein Selbstvertrauen wächst. Leise rufst du einen schlanken Schatten zum Glas, in das Licht. Es ist eine junge Frau, in Ketten des Kummers gelegt.
+
+ Sie spricht leise von einer Erinnerung. Du beugst dich zu ihr vor, immer näher, bis ihr Flüstern deinen Geist ausfüllt...
+
+{SOUND:  Wordless whisper.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du hämmerst mit deinen Fäusten auf die Kugel ein, bis sich Sprünge im Glas bilden, die sich ausdehnen und miteinander verbinden. Du spürst, wie du dabei stärker wirst.
+
+Licht fließt wie Blut durch die Sprünge im Glas. Es blendet deine Augen mit dem hellen Licht der Kugel und erfüllt deinen Geist mit einer weiteren Erinnerung...
+
+{SOUND: Fists hitting glass, followed by cracking.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Die Kugel mit den Fäusten aufbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Jerk away again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du brüllst die Kugel an, bis ein riesiger Schatten sich schwerfällig zum Glas bewegt. Es ist eine abscheuliche riesige Kreatur, und sie grinst dich an. Ihre blutbefleckten Klauen stoßen durch die Oberfläche des Glases und verfehlen deinen Kopf nur knapp.
+
+Doch selbst bei diesem Versuch spürst du, wie dein Selbstvertrauen wächst, und aus der beklemmenden Dunkelheit steigt eine Erinnerung an die Oberfläche...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Dein Selbstvertrauen wächst. Leise rufst du einen schlanken Schatten zum Glas, in das Licht. Es ist eine junge Frau, in Ketten des Kummers gelegt. Bevor sie dir in die Augen blickt, hast du dich beinahe an ihren Namen erinnert.
+
+ Sie spricht leise von einer Erinnerung. Du beugst dich zu ihr vor, immer näher, bis ihr Flüstern deinen Geist ausfüllt...
+
+{SOUND:  Wordless whisper.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Du brüllst die Kugel an und, rufst die Schatten darin hervor. Bald fließen sie *alle* an die Oberfläche der Kugel. Du weichst zurück, aber es ist zu spät. Die Schatten durchbrechen das Glas und hüllen dich ein.
+
+Blicke - die Blicke derer, die du verloren hast - halten dich fest, erstarrt und hilflos. Riesige Schatten greifen nach deiner Kehle. Schmale Klingen zerschneiden deine Füße und du versinkst immer tiefer in der Dunkelheit.
+
+Selbst im Sinken spürst du dein Selbstvertrauen wachsen und eine vielleicht besser vergessen gebliebene Erinnerung kommt ans Licht...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du schlägst auf die Kugel ein, kannst die leuchtende Oberfläche aber nur eindellen, nicht zerbrechen. Dennoch fühlst du, wie du dabei stärker wirkst.
+
+Vom der Mitte der Kugel fließen Schatten hervor, die mit den Einbuchtungen in der Kugel Bilder formen, die deinen Geist mit einer weiteren Erinnerung erfüllen...
+
+{SOUND: Fists dully hitting glass, no crack.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Mit deiner neu gewonnenen Stärke zerschmetterst du das Glas mit einem einzigen Schlag. Licht schlängelt sich um deinen Arm, stößt in dein Herz hinein und erfüllt es mit einer weiteren Erinnerung...
+
+{SOUND: Shatter.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Deine ungestümen Schläge bescheren dir blutende Fäuste, hinterlassen aber keine Spuren auf dem glänzenden Glas. Dennoch fühlst du, wie du stärker wirst.
+
+Du siehst, wie seltsame Schatten aus der Mitte der Kugel hervorschwärmen, vielleicht angelockt von dem Radau, den du gemacht hast.
+
+Sie verbiegen und verknoten sich und bilden auf der Oberfläche der Kugel Formen, die deinen Geist mit einer weiteren Erinnerung erfüllen...
+
+{SOUND: Fists dully hitting glass, no crack.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

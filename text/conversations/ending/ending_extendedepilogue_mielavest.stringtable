@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\ending\ending_extendedepilogue_mielavest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Maralel kehrte in die Ruinen von Miel Avest zurück. Sollte sie den Wiederaufbau beginnen? Kann sie es nicht tun, nach allem, was dort geleistet wurde?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Letzte Verstoßene kehrte zu den Ruinen von Miel Avest zurück, in der Hoffnung, etwas von dem, was er verloren hatte, wiederaufzubauen – oder vielleicht etwas zu finden, von dem er nicht *wusste*.</DefaultText>
+      <FemaleText>Die Letzte Verstoßene kehrte zu den Ruinen von Miel Avest zurück, in der Hoffnung, etwas von dem, was sie verloren hatte, wiederaufzubauen – oder vielleicht etwas zu finden, von dem sie nicht *wusste*.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Einige Verstoßene kehrten zu den Trümmern von Miel Avest zurück. Sie werden Jahre für den Wiederaufbau Jahre brauchen, aber sie tun es trotzdem. Das ist ihre Stadt, ihre Heimat. Selbst wenn die Schilde nicht einsatzfähig oder unnötig waren, ist dies dennoch ein Zufluchtsort für sie.[BR][BR]Und ein Denkmal für ihre geliebte Aadiriis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Ruinen von Miel Avest liegen zerstört und unberührt. Es dauert mehr als ein Jahrhundert, bis eine Gruppe von Entdeckern auf sie stößt und sich fragt, was dort geschehen sein könnte. Was in der Neunten Welt könnte derartige Zerstörung hervorgerufen haben?</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

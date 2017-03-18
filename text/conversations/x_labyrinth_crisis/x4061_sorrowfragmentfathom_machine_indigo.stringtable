@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_machine_indigo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Den Bildern und den Informationen nach zu urteilen, die über die Anzeige flimmern, scheint es sich um irgendeine Art von Steuerungsmechanismus für den Tank auf dieser Plattform zu handeln.</DefaultText>
+      <FemaleText>Den Bildern und den Informationen nach zu urteilen, die über die Anzeige flimmern, scheint es sich um irgendeine Art von Steuerungsmechanismus für den Tank auf dieser Plattform zu handeln.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Auf dem Bildschirm blinkt wütend folgende Meldung: "Fremdkörper in Gezeitenflussreglern entdeckt. Spülung konfigurieren?"
+
+Dies bezieht sich wohl auf die Kummerscherbe, welche sich von dem Tank ernährt.</DefaultText>
+      <FemaleText>Auf dem Bildschirm blinkt wütend folgende Meldung: "Fremdkörper in Gezeitenflussreglern entdeckt. Spülung konfigurieren?"
+
+Dies bezieht sich wohl auf die Kummerscherbe, welche sich von dem Tank ernährt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Spüle das System gerade so durch, dass die Kummerscherbe beseitigt wird.</DefaultText>
+      <FemaleText>Spüle das System gerade so durch, dass die Kummerscherbe beseitigt wird.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Die Maschine wird kräftig geflutet. Die umgebende Luft knistert, als sich eine unheimliche Energie in den Tank ergießt. Die Kummerscherbe wird aus dem Gerät gespült und nimmt mit einem kopfspaltenden Schrei Gestalt an.</DefaultText>
+      <FemaleText>Die Maschine wird kräftig geflutet. Die umgebende Luft knistert, als sich eine unheimliche Energie in den Tank ergießt. Die Kummerscherbe wird aus dem Gerät gespült und nimmt mit einem kopfspaltenden Schrei Gestalt an.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Maschine ist mit der Kraft überfordert – zu viel Kraft. Eine Welle eisiger Kraft stößt die Kummerscherbe aus und befördert dich gleichzeitig zu Boden.</DefaultText>
+      <FemaleText>Die Maschine ist mit der Kraft überfordert – zu viel Kraft. Eine Welle eisiger Kraft stößt die Kummerscherbe aus und befördert dich gleichzeitig zu Boden.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Tritt von der Maschine zurück.</DefaultText>
+      <FemaleText>Tritt von der Maschine zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Piktogramme flimmern über die glatte Oberfläche des Geräts und die Informationen und Optionen verändern sich vor deinen Augen. Es reagiert auf deine Gedanken, als du nach einer Möglichkeit suchst, die Kummerscherben zu erledigen.</DefaultText>
+      <FemaleText>Piktogramme flimmern über die glatte Oberfläche des Geräts und die Informationen und Optionen verändern sich vor deinen Augen. Es reagiert auf deine Gedanken, als du nach einer Möglichkeit suchst, die Kummerscherben zu erledigen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Beginnen, einen Gezeitenimpuls aufzuladen, um nahe Scherben zu lähmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die aufgewühlten Energien in dem Tank beginnen, sich zu verlangsamen und im Einklang zu bewegen. Sie fließen in einem sichtbar geordneten Muster zusammen, als die Maschine den Energieaufbau anzeigt. Es weist darauf hin, dass vor deiner nächsten Aktion ein lähmenden Impuls explodieren wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sorge dafür, dass Energie aus dem Tank fließt und die Kummerscherben anzieht.</DefaultText>
+      <FemaleText>Sorge dafür, dass Energie aus dem Tank fließt und die Kummerscherben anzieht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Gezeitendämpfe steigen aus dem Projektor auf und zischen und verdampfen wie Wasser in einer heißen Pfanne, als sie sich über dem Boden ausbreiten. Die Kummerscherben wenden sich der Plattform zu.</DefaultText>
+      <FemaleText>Gezeitendämpfe steigen aus dem Projektor auf und zischen und verdampfen wie Wasser in einer heißen Pfanne, als sie sich über dem Boden ausbreiten. Die Kummerscherben wenden sich der Plattform zu.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Kehre die Ladung der Energie im Tank um, um die Kummerscherben abzustoßen.</DefaultText>
+      <FemaleText>Kehre die Ladung der Energie im Tank um, um die Kummerscherben abzustoßen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Lufttemperatur verändert sich, als die leckende Energie manipuliert wird. Die schmerzerfüllten Schreie der Kummerscherben zeigen eindeutig, dass es funktioniert.</DefaultText>
+      <FemaleText>Die Lufttemperatur verändert sich, als die leckende Energie manipuliert wird. Die schmerzerfüllten Schreie der Kummerscherben zeigen eindeutig, dass es funktioniert.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Stelle den Normalzustand des Tanks wieder her.</DefaultText>
+      <FemaleText>Stelle den Normalzustand des Tanks wieder her.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die Maschine summt und wechselt in ihren Ursprungszustand zurück.</DefaultText>
+      <FemaleText>Die Maschine summt und wechselt in ihren Ursprungszustand zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Ohne drohende Gefahr summt die Maschine untätig vor sich hin. Sie bietet dir keine Möglichkeit, mit ihr zu interagieren.</DefaultText>
+      <FemaleText>Ohne drohende Gefahr summt die Maschine untätig vor sich hin. Sie bietet dir keine Möglichkeit, mit ihr zu interagieren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die Maschine funktioniert nicht mehr. Jegliche Energie scheint für den Impuls aufgebraucht worden zu sein, der auf diese Plattform gewirkt wurde.</DefaultText>
+      <FemaleText>Die Maschine funktioniert nicht mehr. Jegliche Energie scheint für den Impuls aufgebraucht worden zu sein, der auf diese Plattform gewirkt wurde.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

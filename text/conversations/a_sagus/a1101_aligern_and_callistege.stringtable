@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_aligern_and_callistege</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>309</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Oh ja, *offensichtlich*, Callistege." Er klingt grimmig und wortkarg. Dann bemerkt er deinen Blick auf sich.  
+
+"Du bist kein gewöhnlicher Sterblicher, so viel ist klar. Sprich." Seine Gesichtszüge verhärten sich.</DefaultText>
+      <FemaleText>"Oh ja, *offensichtlich*, Callistege." Er klingt grimmig und wortkarg. Dann bemerkt er deinen Blick auf sich.  
+
+"Du bist kein gewöhnlicher Sterblicher, so viel ist klar. Sprich." Seine Gesichtszüge verhärten sich.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Du weißt, dass er nicht der Wandelnde Gott ist, Aligern."</DefaultText>
+      <FemaleText>"Du weißt, dass sie nicht der Wandelnde Gott ist, Aligern."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Es ist *sein* Gesicht! Ich habe noch nie jemanden sich so schnell wiederherstellen sehen. Nur der Wandelnde Gott verfügt über solche Selbstheilungskräfte."
+
+Er seufzt, streicht sich über das Gesicht, versucht, die Fassung zurückzugewinnen. "Vielleicht könntest du *mir* zur Abwechslung mal helfen. Du weißt, was mir das bedeutet."</DefaultText>
+      <FemaleText>"Es ist *ihr* Gesicht! Ich habe noch nie jemanden sich so schnell wiederherstellen sehen. Nur der Wandelnde Gott verfügt über solche Selbstheilungskräfte."
+
+Er seufzt, streicht sich über das Gesicht, versucht, die Fassung zurückzugewinnen. "Vielleicht könntest du *mir* zur Abwechslung mal helfen. Du weißt, was mir das bedeutet."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Aligern schmunzelt. Dann wird er ernst. "Unwahrscheinlich. Aber vielleicht nicht *unmöglich*. Ihr braucht Leute mit dem nötigen Wissen. Ich bin sicher, der Kult des Wandelnden Gottes hat Antworten für Euch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Der Orden der Wahrheit? Bist du verrückt? Die würden uns massakrieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ihre Echos zeigen ihre Abneigung ganz offen, doch das Gesicht der Frau ganz vorne bleibt gefasst. "Du würdest dich an Verrückte wenden, um einem Neugeborenen zu helfen. Hast du den Verstand verloren, Aligern? Ich würde ihn zum Orden der Wahrheit bringen."</DefaultText>
+      <FemaleText>Ihre Echos zeigen ihre Abneigung ganz offen, doch das Gesicht der Frau ganz vorne bleibt gefasst. "Du würdest dich an Verrückte wenden, um einem Neugeborenen zu helfen. Hast du den Verstand verloren, Aligern? Ich würde sie zum Orden der Wahrheit bringen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ich habe diesen Sturz überlebt, und habe Fähigkeiten und Kräfte, die ich nie erlernt habe. Was, wenn ich der Wandelnde Gott *bin*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Es gibt so vieles, was ich nicht weiß oder woran ich mich nicht erinnere. Ich denke, ich muss ein Verstoßener sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ich weiß es wirklich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Was ist der Orden der Wahrheit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Was war noch mal der Orden der Wahrheit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Was ist der Kult des Wandelnden Gottes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Wie war das noch mal mit den Kultisten des Wandelnden Gottes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Hör nicht auf sie. Die Kultisten sind nicht verrückt. Nur exzentrisch." 
+
+Sie lacht höhnisch, aber er lässt sich nicht beirren. "Sie verehren ... nun, sie verehren dich oder deinen Erzeuger. Den Wandelnden Gott. Sie verbringen ihr Leben damit, *solche wie euch* zu verstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Wohltätig? Es sind Verrückte. Aligern passt gut zu ihnen. Sie finden Gutes in einem Mann, folgen seinen Taten obsessiv und kanonisieren seine Abkömmlinge. *Dich* werden sie lieben, so viel ist sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Wissensdurstige. Gelehrte, die versuchen, früheren Welten ihre Geheimnisse zu entlocken. Sie kommen in der Stadt zusammen, um Erkenntnisse auszutauschen und der Menschheit zu einer besseren Zukunft zu verhelfen." Sie lächelt strahlend. "Unser Freund Aligern hier war einst einer von ihnen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Erstmals verliert er ein wenig die Fassung. "Pfuscher, die die Weisheit nicht mal erkennen würden, wenn sie ihnen in den Hintern beißt! Sie nennen sich Wissenschaftler und Cheirurgen, aber ihr wahres Ziel scheint zu sein, die Wahrheit zu verdrehen, nicht ihr zu dienen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Er lässt sich nichts anmerken, aber offensichtlich glaubt er dir nicht. "Du hast vergessen, wie du die Endlose Schlacht ausgelöst hast? Du hast vergessen, wie du vor Jahrhunderten Sagus Klippen gegen die Tabaht angeführt hast, als sie kamen, uns zu schlachten?"
+
+Seine Stimme bebt, doch er beherrscht seinen Gesichtsausdruck mit eisernem Willen. "Du hast *mich* vergessen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ich wusste es." Er wendet sich triumphierend an Callistege. "Ich *wusste* es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Sie schüttelt höhnisch den Kopf. "Er sagte 'und wenn', Aligern. Also ehrlich! Glaubst du wirklich, dass einer, der so lange so vorsichtig war, Leuten wie uns einfach so seine wahre Identität würde?"</DefaultText>
+      <FemaleText>Sie schüttelt höhnisch den Kopf. "Sie sagte 'und wenn', Aligern. Also ehrlich! Glaubst du wirklich, dass eine, die so lange so vorsichtig war, Leuten wie uns einfach so ihre wahre Identität verraten würde?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Wir werden ja sehen. Wenn Ihr der Wandelnde Gott seid, werdet Ihr einer Menge Leute eine Menge zu erklären haben."
+
+Sein Ton ist grimmig und als er sie ansieht, drückt jede Faser seines Körpers seine Verachtung aus. Er verschränkt die Arme und seufzt.</DefaultText>
+      <FemaleText>"Wir werden ja sehen. Wenn du der Wandelnde Gott bist, wirst du einer Menge Leute eine Menge zu erklären haben."
+
+Sein Ton ist grimmig und als er sie ansieht, drückt jede Faser seines Körpers seine Verachtung aus. Er verschränkt die Arme und seufzt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Sie lacht höhnisch. "Selbst, wenn er der Wandelnde Gott *wäre*, würdest du ihm mit solch naiven Fragen wohl kaum beikommen. Du solltest ihm helfen. Den Weg weisen. Das ist auf jeden Fall der klügste Weg. Zumindest denke *ich* das, Aligern." Sie lächelt giftig.</DefaultText>
+      <FemaleText>Sie lacht höhnisch. "Selbst, wenn sie der Wandelnde Gott *wäre*, würdest du ihr mit solch naiven Fragen wohl kaum beikommen. Du solltest ihr helfen. Den Weg weisen. Das ist auf jeden Fall der klügste Weg. Zumindest denke *ich* das, Aligern." Sie lächelt giftig.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Er wendet den Blick ab und verliert ein wenig die Fassung. "Du bist teilweise wirklich giftig, Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Wo ist er denn hergefallen? Sein Körper ist Tulk. Es ist ein Wunder, dass er noch atmet."</DefaultText>
+      <FemaleText>"Wo ist sie denn hergefallen? Ihr Körper ist Tulk. Es ist ein Wunder, dass sie noch atmet."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ich sah nur den Fall, nicht wo er begann. Aber sieh nur! Er heilt sich bereits! Spontane Selbstheilung!"</DefaultText>
+      <FemaleText>"Ich sah nur den Fall, nicht wo er begann. Aber sieh nur! Sie heilt sich bereits! Spontane Selbstheilung!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Der Hauch eines Lächelns umspielt seine Mundwinkel, doch seine Augen bleiben hart. "Er hat länger gelebt als irgendjemand sonst in der Neunten Welt. Hat sein langes Leben nicht unbedingt der Wohltätigkeit gewidmet. Klar, er hat dem einen oder anderen geholfen, aber es diente immer seinen eigenen Interessen. Er hat eine Menge Skist gebaut im Laufe der Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Betrüger, Quacksalber und Scharlatane. Sie wissen bei Weitem nicht alles, und ich würde ihnen die Geheimnisse des Wandelnden Gottes niemals anvertrauen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Du bist doch nur sauer, dass sie dir nicht helfen konnten." Ihre Echos lachen. "Das war schon wieder gemein von mir, lieber Aligern. Gehen wir zum Orden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Sieh doch mal ... warte ... *Das Gesicht kenne ich*!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Igitt. Was *war* das? Was hast du getan, Callistege?" Sein Ton wird vorwurfsvoll, misstrauisch. Du öffnest die Augen.
+
+Das erste, was du siehst, sind die zahlreichen Tätowierungen auf den Unterarmen des Mannes. Er trägt einen langen, dunklen Mantel mit einem Gürtel und vollgestopften Taschen. Seine Stiefel sind abgewetzt und schmutzig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Du denkst, ich war das? Er zeigt eine interne physiologische Reaktion auf den Sturz - vermutlich hängt es mit der fantastischen Selbstheilung zusammen. *Ist doch offensichtlich*, Aligern."
+
+Ihre Stimme hallt und du reibst dir die Augen, um sicherzugehen, dass du nicht doppelt siehst. Schwache Echos ihrer Handlungen folgen ihr, jedes fast ein Spiegelbild ihrer Selbst, doch einige bewegen sich wie als Reaktion auf Dinge, die du nicht sehen kannst. Das einzig Konstante sind ihre wilden Haare und ihre bunten Kleider.</DefaultText>
+      <FemaleText>"Du denkst, ich war das? Sie zeigt eine interne physiologische Reaktion auf den Sturz - vermutlich hängt es mit der fantastischen Selbstheilung zusammen. *Ist doch offensichtlich*, Aligern."
+
+Ihre Stimme hallt und du reibst dir die Augen, um sicherzugehen, dass du nicht doppelt siehst. Schwache Echos ihrer Handlungen folgen ihr, jedes fast ein Spiegelbild ihrer Selbst, doch einige bewegen sich wie als Reaktion auf Dinge, die du nicht sehen kannst. Das einzig Konstante sind ihre wilden Haare und ihre bunten Kleider.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Moment. Ich komme mit. Wir wollen doch nicht, dass euch etwas zustößt, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Misstrauisch wie immer Aligern. Kind, die Welt ist ein aufregender, aber auch ein gefährlicher Ort. Doch keine Sorge. *Einer* von uns bringt dich sicher dorthin, wo du hingehörst. Ich bin bei dir." Sie lächelt breit und sonnig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Er ringt sich ein Lächeln ab und klopft dir etwas steif auf die Schulter. Die Falten auf seiner Stirn verschwinden jedoch nicht. "Weißt du nicht? Vielleicht reden wir darüber, was du tatsächlich weißt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Sie lacht höhnisch. "Er weiß zumindest genug, um deinen albernen Anschuldigungen auszuweichen, Aligern. Aus dir sprechen doch nur Verbitterung und Vorurteile."</DefaultText>
+      <FemaleText>Sie lacht höhnisch. "Sie weiß zumindest genug, um deinen albernen Anschuldigungen auszuweichen, Aligern. Aus dir sprechen doch nur Verbitterung und Vorurteile."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Warum hasst du den Wandelnden Gott so sehr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Sein Gesichtsausdruck ist ruhig, aber seine Stimme ist verbittert und müde. "Das solltest du doch wissen, nicht wahr? Du hast Leben ruiniert. Verbrechen begangen. Und nun scheinst du all das Unheil vergessen zu haben, dass du angerichtet habt. Leichen haben dein Weg durch die Welt gepflastert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Sie und ihre Echos machen ein ebenso belustigtes wie bestürztes Gesicht. "Er ist doch nicht der Wandelnde Gott, Aligern."</DefaultText>
+      <FemaleText>Sie und ihre Echos machen ein ebenso belustigtes wie bestürztes Gesicht. "Sie ist doch nicht der Wandelnde Gott, Aligern."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Danke für eure Hilfe, doch ich werde meine Antworten selbst finden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Aligern, bringst du mich zum Kult des Wandelnden Gottes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Eine gute Wahl. Deine Anhänger werden dich *wahrscheinlich* nicht aufschlitzen, und auch wenn sie manchmal Narren sind, so sammeln sie doch Wissen und Daten. Sie werden dir alles sagen über ... wer auch immer du bist. Sie werden dir weiterhelfen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Du wirst nackt und fertig in der Gosse enden und sie wird es lachend ein gutes Experiment nennen. Ist wohl besser, wenn ich ebenfalls mitkomme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Natürlich! Wenn ich dir erst mal den Priestern vorgestellt habe, wirst du sogleich ein Gemach bekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Sie rümpft die Nase und wirft Aligern einen eiskalten Blick zu. "Weiterhelfen? Das Einzige, was weiterhilft, ist, mit mir zu kommen. Ich werde euch beide begleiten. *Wenn* du es dir anders überlegst, brauchst du jemanden, der dich dem Orden der Wahrheit vorstellt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Callistege, bringst du mich zum Orden der Wahrheit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Gut, dann gehen wir eben beide. Aber wenn Callistege dich pleite und fertig in der Gosse liegen lässt und es lachend als gutes Experiment abtut, sag nicht, ich hätte dich nicht gewarnt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>[DEBUG: Diesen Dialog überspringen.]</DefaultText>
+      <FemaleText>[DEBUG: Diesen Dialog überspringen.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Gut. Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Wie ich meinem 'Kollegen' bereits sagte, war es offensichtlich eine physiologische Reaktion. Ich habe noch nie die Geburt eines Verstoßenen miterlebt, aber ja, gut möglich, dass es von deinem erwachenden Bewusstsein ausgelöst wurde. Keine Sorge. Ich denke nicht, dass es schädlich war. Zumindest nicht für mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Ich sah eine Vision von mir in einer anderen Zeit, an einem anderen Ort. Ihr habt das nicht gesehen, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Ich sah dich nur ins Leere starren, während Callistege alle möglichen Wege beschrieb, wie du sterben könntest." 
+
+Er schnaubt. "Ist mir nur aufgefallen, weil ich dasselbe tat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Weiß einer von euch etwas über den Kummer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Ich hatte so manchen Kummer, aber nie *den* Kummer. Was ist das? Eine Krankheit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Ihre Lippen werden schmal. "Ich weiß nichts darüber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Warum wollt ihr mit mir kommen? Was habt ihr davon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Ich verhehle nicht, dass du ein *aufregender* Fund bist. Aber das ist es nicht. Ich will nur, dass du heil aus dem Riff kommst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Hier ist es zu gefährlich für dich. Nicht nur, weil du 'neu' bist. Schatzjäger und Plünderer durchkämmen das Riff und würden dich zerlegen und in Teilen verkaufen, wenn sie von dir wüssten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Wenn du *mich* vergessen hast, bist du noch egozentrischer als ich mir je träumen ließ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Ihr greifbarstes Ich macht einen Knicks, während andere sich verbeugen oder drehen. "Ich - und meine Schwestern - bin Callistege. Das ist Aligern. Wir sind Entdecker. Wissenssucher. So kamen wir hierher."
+
+"Und wenn ich nicht irre, bist *du* das, was wir einen Verstoßenen nennen. Der Wandelnde Gott hat dich erschaffen, Körper und Seele. Dein Erzeuger hat deinen Körper eine Zeit lang benutzt und dann abgeworfen wie einen alten Mantel. Nur er weiß warum. Als sein Geist sich einer neuen Erfahrung zuwandte, wurdest *du* in der abgeworfenen Hülle geboren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Wenn der Wandelnde Gott nicht mehr in meinem Körper ist, wo ist er dann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Wie könnt ihr sicher sein, dass dieser Körper ein Verstoßener ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Wenn vom Himmel zu fallen mich nicht umbringt, was dann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Ich habe deinen Fall mit einem Chiffre gebremst, doch der Aufprall wäre für Normalsterbliche dennoch tödlich gewesen. Überleg mal. Angenommen, du kannst deinen Körper in alles verwandeln, was du willst. Was tust du? Wenn du bereits seit Jahrhunderten Körper erschaffst, wirst du jeden neuen besser machen wollen als den letzten. Du wirst ewig leben wollen und nicht zulassen, dass ein *Unfall* deinem Leben ein Ende setzt. Du wirst kräftige, schnelle Körper bauen. Vielleicht mit Selbstheilungskräften, zur Sicherheit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Der Wandelnde Gott war immer schon eitel. Er blieb nie lange in einer Hülle, die seinem ... Selbstbild nicht gerecht wurde."
+
+Sie mustert dich von oben bis unten. Ihr Lächeln macht dich nervös. "Vielleicht ist der Wandelnde Gott ja geflohen, weil er genug von deinen Narben hatte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Dutzende. Hunderte. Wer weiß schon? Dein Erzeuger macht dies bereits seit vielen Jahrhunderten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Wenn jedoch alle auf die von dir behauptete Weise geboren wurden, ist es ein Wunder, dass *irgendjemand* überlebt hat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"*Wenn*. Wenn er deinen Körper verließ, floh sein Geist zu einem anderen." Er betrachtet dich aufmerksam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Ach, hör *auf*!" Der stechende Blick, den sie Aligern zuwirft, wird durch die Blicke ihrer Schwestern noch verstärkt. "Wenn wir eines über den Wandelnden Gott wissen, mein Lieber, dann dass er *immer* einen Plan B hat. Dieses Kind wurde hier geboren. Das Objekt deiner Obsession wird woanders wiedergeboren worden sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Er könnte alles nur vortäuschen. Niemand lebt so lange, ohne zu lernen, wie man überzeugend lügt."</DefaultText>
+      <FemaleText>Sie könnte alles nur vortäuschen. Niemand lebt so lange, ohne zu lernen, wie man überzeugend lügt.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Himmel ..." Sie stößt einen Stoßseufzer aus und wendet sich an dich. "Was glaubst *du*? Fühlst du dich wie ein neugeborenes Kind oder wie ein mächtiger Unsterblicher, dem der Tod das Gedächtnis geraubt hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Aligern verschränkt die Arme und brummt: "Na gut. Was *denkst* du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Du kanntest den Wandelnden Gott, Aligern. Was denkt *du*? Bin ich es?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"*Genau* die Art Frage würde er auch stellen." Er mustert dich mit neuer Intensität.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Du verkörperst dieselbe Arroganz - als wüsstest du alles über unsere und alle früheren Welten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Ich gebe zu, du wirkst nicht so. Der Wandelnde Gott, den ich kannte, wirkte, als wüsste er alles über unsere und alle früheren Welten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Deine Persönlichkeit ... du verhältst dich wie er."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Deine Persönlichkeit ... du verhältst dich nicht wie er."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Wenn du es *nicht* bist, musst du sein gottverdammter Zwilling sein." Er spuckt aus, wie um seine Worte zu unterstreichen. "Du wirst einer Menge Leute eine Menge zu erklären haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Du könntest es sein. Ich hoffe für dich, dass du es nicht bist. Du würdest einer Menge Leute eine Menge zu erklären haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>Dann schüttelt er den Kopf. "Ich weiß es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Und worauf beruht diese Schlussfolgerung, Aligern? Auf deinem *Bauchgefühl*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Du weißt es nicht? Du sagtest doch gerade, dass er ganz anders ist! Dein wissenschaftlicher Scharfsinn lässt nach, Aligern. Und besonders scharf waren deine Sinne schon früher nicht."</DefaultText>
+      <FemaleText>"Du weißt es nicht? Du sagtest doch gerade, dass sie ganz anders ist! Dein wissenschaftlicher Scharfsinn lässt nach, Aligern. Und besonders scharf waren deine Sinne schon früher nicht."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Ausgezeichnete Frage! Nachdem ich deine Selbstheilungskräfte nun in Aktion sehen konnte, würde ich sagen, sie sind primär körperlich - eine Art Nachwachsen. In diesem Fall würde dich fast jede Form psychischen oder molekularen Zerfalls töten - Zersetzung, Verbrennung und so weiter. Degenerative Erkrankungen könnten ein Problem sein, und mir fallen *einige* Wesen ein, die deinen Körper zerstören könnten ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Bei ihren Worten bekommst du eine Vision. Sie ist nicht wirklich *deine*. Du spürst, dass es eine Erinnerung des Wandelnden Gottes ist.
+
+Du bist in einem dunklen Raum, der von unzähligen blinkenden Lichtern und Hologrammen von unzähligen Maschinen um dich herum erleuchtet wird. "Was ist mit einem Körper, der den Angriffen des Kummers widerstehen kann?" fragt eine Stimme, die von einer der Maschinen zu kommen scheint.
+
+"Nein!" antwortest du. "Das Ding kennt keine Grenzen, seien sie körperlich, temporal, psychisch ... *Dies* ist der einzige Weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Mit einigen Gesten erzeugst du ein Bild einer Kristallhülle. "Wenn die Resonanzkammer funktioniert, wird sie uns die Macht verleihen, die Jagd des Kummers ein für alle Mal zu *beenden*. Wir brauchen nur den richtigen Fokuspunkt, einen Auslöser ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Die Erinnerung verblasst. Callistege spricht immer noch. Du bemerkst, dass der Apparat in der Erinnerung dasselbe ist, der jetzt hinter dir steht. Er sieht genauso aus, wie der Geist es beschrieben hat - ein transparenter Sarkophag in einer Kristallkuppel, um den an einem Metallring mechanische Armen angeordnet sind. Leider ist die Kuppel zersprungen, die Hülle des Sarkophags rissig und einer der Arme liegt zertrümmert auf dem Boden.
+
+Was immer einst seine Funktion war, es ist offensichtlich kaputt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"... oder nekrotisierende Viren. Ich nehme an, dass vom Eisernen Wind verursachte Entstellungen ebenfalls verheerend genug wären, um -"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Er hat *verstanden*, Callistege."</DefaultText>
+      <FemaleText>"Sie hat *verstanden*, Callistege."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Ich habe noch andere Fragen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Stell sie nur, Liebes. Aber beeil dich. Wir sollten besser früher als später von hier weg."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Ihr habt gesagt, ich wurde geboren, als der Wandelnde Gott diese Hülle verließ. Aber warum bin ich nicht tot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Kann ich noch weitere Fragen über diesen verstoßenen Körper stellen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Stark und schön. Jeder neue Körper vermutlich ein Fortschritt gegenüber dem vorherigen. Ich frage mich, wozu *du* wohl fähig bist, Kind. Ich schätze, wir werden es herausfinden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Gibt es noch andere Verstoßene?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Wie war das noch mal mit den anderen Verstoßenen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Vermutlich gibt es Hunderte von ihnen. Wenn sie ebenso schwer totzukriegen sind wie du, könnten wer weiß wie viele von ihnen noch am Leben sein. Einige sind vielleicht schon Jahrhunderte alt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Wisst ihr, wie man diese Kristallkammer reparieren kann?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Wer konnte die Kammer noch mal reparieren?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Der Orden der Wahrheit, Liebes. Ich führe dich gerne hin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"*Oder* der Kult des Wandelnden Gottes. Der Orden der Wahrheit weiß nicht das Geringste über solche Dinge. Ich führe dich zum Kult."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Natürlich, Liebes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Ich bin nicht 'normalsterblich'? Was meint ihr damit?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Wer seid *ihr*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Wo bin ich? Wie bin ich hierher gekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"War ich tot?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Du hast die Kuppel gebaut. Erkennst du sie nicht?" brummt er.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Hast du vergessen, was das Wort *wandelnd* bedeutet, Aligern? Es impliziert Veränderung. Gut möglich, dass der Wandelnde Gott sich ... gewandelt hat."
+
+Mehrere ihrer Ichs zucken mit den Schultern. Sie wendet sich an dich. "Vergib ihm. Er denkt, er würde dich kennen, dabei kann doch *jeder* sehen, dass du eben erst geboren wurdest."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Du weißt es wirklich nicht?" Er legt den Kopf zur Seite. "Langsam denke ich, dass du es doch nicht bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Du denkst *langsam*, Aligern? Na ja ... nichts Neues bei dir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Du bist aus unglaublicher Höhe gestürzt. Und doch sprichst du hier mit uns. Weißt du wirklich nicht ..." Er legt den Kopf zur Seite. 
+
+"Du weißt es also nicht? Langsam denke ich, dass du es doch nicht bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Du meinst abgesehen von deiner wundersamen Heilung? Nun, zunächst ist da die Tätowierung. Alle Verstoßenen haben eine, auch wenn ich ihre Bedeutung nicht kenne. Und dann ist da natürlich noch deine *köstliche* Naivität."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Natürlich, Liebes. Was willst du wissen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Ich möchte etwas anderes wissen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Natürlich, Kind. Du bist bestimmt sehr verwirrt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Wie sind noch mal die Körper des Wandelnden Gottes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Was war dieser Energiestoß, als ich erwachte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Seid ihr sicher, dass es euch nicht verletzt hat?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Nun, zumindest Aligern sicher nicht. Durch das Brett vor *seinem* Kopf kommt nichts durch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Wenn ja, hat es unseren Geist verwirrt. Bei *ihr* würdest man freilich keinerlei Unterschied zu vorher merken. Noch verwirrter geht ja nicht mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Wisst ihr etwas über die Gezeiten?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Davon hab ich schon mal gehört. Dein Erzeuger hat sie eingehend studiert. Allerdings weiß ich leider nicht viel darüber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Bevor ich erwachte, war ich in einer Art Traumlabyrinth mit einem leuchtenden Geist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Na, bei dem harten Aufprall wundert mich, dass das deine *einzige* Halluzination war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Wirklich? Seit wir hier sind, bist du noch grober als je zuvor."
+
+Er sieht sie von der Seite an. "Du musst wissen, sie betrachtet alle anderen lediglich als Versuchskaninchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Wo sind wir? Was ist dieser Ort?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Ein Rückzugsort deines Erzeuger. Man nimmt an, dass er mehrere solche Rückzugsorte auf der Neunten Welt hat - und vielleicht auch in anderen Welten. Wir sind nur dank deines durchschlagenden Auftritts hereingekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Wer seid ihr noch mal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Entdecker", sagt er kurz angebunden. "Als du durch die Kuppel geknallt bist, witterten wir unsere Chance. Allerdings wussten wir nicht, *was* uns hier erwarten würde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Danke für eure Hilfe. Aber ich werde meine Antworten selbst finden. Lebt wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Moment. Ich komme mit. Wir wollen doch nicht, dass euch etwas zustößt, nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Misstrauisch wie immer Aligern. Kind, die Welt ist ein aufregender, aber auch ein gefährlicher Ort. Doch keine Sorge. *Einer* von uns bringt dich sicher dorthin, wo du hingehörst. Ich bin bei dir." Sie lächelt breit und sonnig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Wer ist der Wandelnde Gott?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Wer ist der Wandelnde Gott noch mal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Ha! Was für eine Frage aus *deinem* Mund."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Sie sieht ihn von der Seite an. "Der Wandelnde Gott ist dein Erzeuger, Liebes. Er hat vor langer Zeit einen Weg gefunden, unsterblich zu werden, indem er sein *Ich* auf einen neuen, von ihm geschaffenen Körper übertrug. Er wusste wohl nicht, dass wenn er einen Körper verlässt ein anderer Geist geboren wird, um die Lücke zu füllen, die er hinterlässt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Oh, das wusste er genau." Er mustert dich mit kaltem Blick. "Der Wandelnde Gott denkt einzig und allein an sich. Er verschwendet keinen Gedanken an die, die er zurücklässt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Dein Erzeuger, Kind. Er schuf deinen Körper und benutzte ihn eine Weile, bevor er ihn abwarf und dabei *dich* zeugte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"Wenn du den Wandelnden Gott durch *meinen* Körper kennst, warum bezeichnest du meinen Erzeuger dann als 'er'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Wir kennen deinen Erschaffer durch Legenden und Forschung. Er hat die Gestalt von Männern, Frauen, Irrgästen und ... anderen Dingen angenommen. Seine Form ist fluid, wie sein Name schon sagt. Doch die Geschichten über den Wandelnden Gott sprechen immer von *ihm*."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Es ist einfacher." Aligern zuckt mit den Schultern. "*Du* bist eine Frau. Der Wandelnde Gott ist ... er selbst."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

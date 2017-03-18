@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6131_fathom13_daughtersmere_si</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Zahlreiche Kratzer und Wunden entstellen die Oberfläche dieser Tür. Jemand hat mit aller Macht versucht, hineinzugelangen, aber vergeblich. Als du dich jedoch näherst, beben und biegen sich die Bretter der Türe. Sie *will* dich hineinlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Bretter dieser beschädigten Türe beben und biegen sich, als du dich näherst. Sie ist bereit, dich hineinlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Berühre die Oberfläche mit deiner Hand, und sie wird sich öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lasst ihn in Ruhe.</DefaultText>
+      <FemaleText>Lass es sein.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Tür lässt sich durch deine Berührung nicht öffnen. Stattdessen wirst du in die Tür selbst hineingezogen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

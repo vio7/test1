@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_construct_acid_sprayer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Röhre tritt aus der Plattierung des toten Konstruktes aus und windet sich nach oben. Der Kanal endet in einem hohlen Kegel. Alle paar Sekunden fällt ein winziger Tropfen grüner Flüssigkeit aus der Öffnung und verdampft, sobald er auf dem Boden aufkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Flüssigkeit ist eine Art stark ätzende Säure. Sie würde organisches Gewebe schwer beschädigen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Eine Scheibe befindet sich an der Basis des Kegels, umringt von einer dünnen Kruste korrodiertem Metall. Sie scheint ein Ventil zu sein, das den Fluss der schädlichen Substanz kontrolliert, doch es sieht so aus, als wäre es seit Jahrhunderten nicht mehr bewegt worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Geh weiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Eine leckende grüne Flüssigkeit tropft aus dem Ende der Düse des Apparats. Sie zischt wütend auf der metallischen Oberfläche darunter und hinterlässt züngelnde Spuren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Versuche, das Ventil zu drehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Versuche erneut, das Ventil zu drehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Mit einem Krachen bewegt sich das Ventil um einen Zentimeter. Ein dünner Strahl schädlicher Flüssigkeit läuft aus der Düse und zischt auf der metallischen Oberfläche.
+
+Du öffnest das Ventil noch etwas weiter und zielst mit dem daraufhin herausschießenden Strahl.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Alle Versuche, das Ventil zu drehen, sind vergeblich. Es gibt einen Grund, warum es jahrhundertelang nicht benutzt wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Öffne das Ventil und löse wieder den Strahl aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Die Scheibe befindet sich an der Basis des Kegels. Nun, da der Rost gelöst wurde, sollte es viel einfacher sein, das Ventil an- und auszudrehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Eine schädliche grüne Flüssigkeit tropft weiterhin aus der Düse und zischt, sobald sie auf den Boden trifft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Der Rost und der Schmutz lassen den Turm an Ort und Stelle erstarren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

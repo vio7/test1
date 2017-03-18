@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\a3111_necropolis_glyphs3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Symbole in diesem Abschnitt der Wand sind in flachere, unabhängige Vertiefungen gemeißelt. Insgesamt ergibt das den Effekt eines großen, facettierten Juwels, der nur auf das richtige Licht wartet, um zu erstrahlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Alle Symbole sind sechseckig und haben verschieden viele Linie in ihrem Inneren. Die Linien sind parallel zu denen um sie herum und schneiden sich niemals. Dennoch gibt es eine Varianz in ihrer Struktur, die auf eine endliche Anzahl von Permutationen hindeutet. Sie könnten Zahlen, Wörter oder gar Ideen darstellen. Doch was es auch ist, es muss wichtig genug gewesen sein, um sie viele Jahrtausende lang zu erhalten - länger als alle alle, die sie lesen könnten, je leben könnten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erneut hast du einen Eindruck eines absoluten Willens: Jemand - oder etwas - wollte, dass diese fremdartigen Symbole die Kultur, die sie erschaffen hat, lange überdauern. Ihre tatsächliche Bedeutung bleibt dir jedoch immer noch fremd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Symbole genauer untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Symbole erneut genauer untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als du deine Hand auf eines der Symbole legst, leuchtet es schwach in der Farbe seiner Umgebung auf. Als du die Hand wegziehst, verschwindet das Leuchten wieder. Du wiederholst das mit mehreren Symbolen. Immer derselbe Effekt. Du weißt allerdings genauso wenig wie vorher, was in der Kammer hinter der Felswand vor sich geht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du berührst mehrere Symbole hintereinander, doch sobald du die Hand von den Vertiefungen rund um die Symbole wegnimmst, verschwindet ihr Leuchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die Symbole berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die Symbole erneut berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du bewegst die Hand rasch über die Wand, doch das erste Symbol wird stets dunkel, bevor das sechste zu leuchten beginnt. Du versuchst, mehrere Teile der Felswand mit verschiedenen Körperteilen gleichzeitig zu berühren, kannst aber nicht mit Sicherheit sagen, ob du die Wand an den sechs richtigen Punkten berührst. Schließlich musst du es aufgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du versuchst noch einmal, alle sechs Symbole rasch hintereinander zu berühren, aber wieder schaffst du es nicht, dass alle sechs gleichzeitig aufleuchten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Es ist unglaublich schwierig, sechs Symbole zu erwischen und gleichzeitig das häufigste Symbol nicht zu berühren. Du holst tief Luft und mehr instinktiv als bewusst gelingt es dir, das sechste Symbol mit der Fingerspitze zu berühren, bevor das erste erlischt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Wie zuvor wird das Gestein vor dir langsam durchsichtig, während fremdartige Missklänge deine Ohren betäuben. Diesmal verwandelt sich der glühende Kern in der Wand jedoch zu einer gewobenen Kugel aus Licht, die durch lila-rote Ranken mit dem Boden verbunden ist. Die Kugel schwebt in einer langsamen, kreisähnlichen Bewegung zwischen ihren Ankerpunkten hin und her und vollführt dabei eine sechsförmige Spirale in der Luft.
+ 
+ {SOUND: Looping alien speech/music/song.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Dir wird plötzlich klar, dass die abgeschottete Kammer der Anordnung vor dir entsprechen sollte. Der durchsichtige Stein ähnelt dem Material, das die Tür verschließt. Seine Durchsichtigkeit nimmt im Einklang mit dem Licht der Kugel zu und ab.
+ 
+ Leider ist immer noch unklar, was der Zweck dieses Raumes ist und ob er von derselben fremden Intelligenz geschaffen wurde wie die Symbole. Als du einen Schritt zurücktrittst, wird der Stein wieder undurchsichtig und der Lärm verstummt. Die darauf folgende Stille ist ohrenbetäubend.
+ 
+ {SOUND: Looping alien speech/music/song.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Die Ranken unter der Kugel werden dichter - nicht um sie aufzuhalten, sondern um ihrem Einflussbereich so nahe wie möglich zu sein. Du begreifst, dass sie sich von dem Licht ernähren, obwohl sie nichts sonst mit irgendeiner Pflanze gemein haben, die du je gesehen hast. 
+ 
+ Der Zweck dieser Kombination aus Lichtquelle und Ranken bleibt unklar. Auch kannst du nicht sagen, ob es sich um ein natürliches oder ein künstliches Phänomen handelt.
+ 
+ {SOUND: Looping alien speech/music/song.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Plötzlich ertönen grelle, kreischende Missklänge, beinahe unerträglich laut in diesem geschlossenen Raum. Hinter der Felswand wird es heller - der Stein wird langsam durchsichtig und offenbart einen gleißend hellen Kern im Inneren.
+ 
+ {SOUND: Looping alien speech/music/song.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Während sich deine Augen an die Helligkeit gewöhnen, verwandelt sich das Leuchten in der Wand in eine gewobenen Kugel aus Licht, die durch lila-rote Ranken mit dem Boden verbunden ist. Die Kugel schwebt in einer langsamen, kreisähnlichen Bewegung zwischen ihren Ankerpunkten hin und her und vollführt dabei eine sechsförmige Spirale in der Luft.
+ 
+ {SOUND: Looping alien speech/music/song.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Versuchen, sechs Symbole auf einmal zu berühren, ohne das wiederholte Symbol zu berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Erneut versuchen, sechs Symbole auf einmal zu berühren, ohne das wiederholte Symbol zu berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

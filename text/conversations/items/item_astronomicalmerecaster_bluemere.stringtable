@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\items\item_astronomicalmerecaster_bluemere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Kaum legst du dieses Gerät in deine Hand, verwandelt sich der gemächliche Tanz der Uhrwerk-Planeten in ein rasendes Herumwirbeln. Aus der Mitte dieses Apparats ertönt ein nachdenkliches Brummen, als würde das Gerät selbst die Bahnen der Planeten über sich studieren.
+
+In dem Brummen hörst du den Schatten von Worten, die vom Lebensbild in diesem Gerät sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du legst das Gerät erneut in deine Hand. Während die Planeten immer schneller kreisen, fühlst du erneut den Schatten des Lebensbildes im Inneren dieser Maschine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Den Lebensbildbetrachter untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du studierst die herumwirbelnden Planeten in deiner Hand. Vielleicht ist es eine optische Täuschung, aber es wirkt, als wären einige der Kugeln leicht durchsichtig und würden *in* ihnen kleinere Planeten kreisen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Das Lebensbild betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Lebensbildbetrachter weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Lebensbildbetrachter ist stumm und reagiert nicht. Du scheinst nicht mehr darauf zugreifen zu können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

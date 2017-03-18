@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1201_construct_armor_projector</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Hier ist eine leichte Vertiefung auf der Oberfläche, von der es im Konstrukt noch weitere gibt. Im Gegensatz zu den anderen pulsiert diese hier noch immer in zufälligen Intervallen mit Energie. Ein leichtes, doch unnachgiebiges Gefühl des Unbehagens geht von jeder Energiewelle aus.
+
+In der Mitte der Vertiefung befindet sich eine lose Linse. Du glaubst, dass sie die psychischen Effekte an eine sinnvollere Stelle weiterleiten könnte, doch es wird schwierig werden, sie zwischen die Energieimpulse zu bekommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>In der leichten Vertiefung erscheinen weiterhin zufällige Energiepulse. Die Linse gibt vor jedem Impuls eine Warnung ab, doch sie könnte auch hilfreich dabei sein, die schützende Energie auf etwas Sinnvolleres umzuleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Energieimpulse sind abgeklungen. Wie es scheint, ist die Energie, die dort drin noch übrig war, erschöpft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Bei genauerer Betrachtung entpuppt sich das lose Teil in der Mitte als eine Art Linse, und sie leuchtet vor jedem Impuls kurz auf. Wenn man die Linse im Auge behält, sollte es einfach sein, sich von dem Energiefeld fernzuhalten.
+
+Die Linse scheint die Energie zu leiten und zu bündeln, obwohl sie nicht mehr an der richtigen Stelle sitzt. Vielleicht könnte der Schutz des Energiefelds an eine sinnvollere Stelle umgeleitet werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Richte die Linse so aus, dass sie die psychische Energie auf deine Feinde leitet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Versuche erneut, die Linse auszurichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Mit sorgfältigem Timing ist es einfach, die Linse zu drehen, so dass sie in einer hoffentlich vorteilhafteren Position steht. Die Linse leuchtet und warnt vor einem bevorstehenden Energieimpuls. Das Energiefeld weitet sich nach außen aus und dringt in Augen, Ohren und Münder von Qorros Team ein. Die Hoffnung entweicht ihren Gesichtern und wird durch betäubtes Starren ersetzt. Dann wird die leichte Vertiefung wieder dunkel und inaktiv.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Mit sorgfältigem Timing ist es einfach, die Linse zu drehen, so dass sie in einer hoffentlich vorteilhafteren Position steht. Die Linse leuchtet und warnt vor einem bevorstehenden Energieimpuls. Das Energiefeld pulsiert außerhalb dieser Zeit, doch die Linse ist auf nichts Sinnvolles gerichtet. Die Energie bricht durch die Luft, wirbelt eine Staubwolke auf und löst sich dann auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>In der leichten Vertiefung erscheinen weiterhin zufällige Energiepulse. Eine Glaslinse liegt abgelöst in der Mitte, doch es wird nicht einfach sein, zum richtigen Zeitpunkt zu ihr zu gelangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Lass es sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Lange nach dem losen Teil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Versuche erneut, das lose Teil aufzuheben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Nachdem du zwischen den Energieimpulsen nach dem Teil gegriffen hast, wird dir klar, dass es irgendwo unter der Vertiefung befestigt ist. Es handelt sich um eine Art Linse. Ohne sie haben die Energieimpulse ihre Form geändert.
+
+Die Linse leuchtet vor jedem Impuls kurz auf. Vielleicht könnte man sie verwenden, um die schützende Energie auf eine nützlichere Stelle auszurichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ein Energieimpuls schleudert alle kleinen Objekte in der Vertiefung davon, auch jede Hand, die versuchte, lose Numenera-Teile zu bergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>In der leichten Vertiefung erscheinen weiterhin zufällige Energieimpulse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Ohne Gegner, auf den er gerichtet werden kann, macht der Apparat keinen offensichtlichen Sinn.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

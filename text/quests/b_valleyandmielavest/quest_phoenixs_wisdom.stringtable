@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\b_valleyandmielavest\quest_phoenixs_wisdom</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Weisheit des Phoenix</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Phönix beweisen, dass ich würdig bin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Entziffere Phönix' Notiz</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Erzähle Phönix, dass ich sein Gran gefunden habe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Erzähle Phönix, dass ich sein Gran gefunden habe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ich half Phönix, sich selbst zu verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ich fand nie Phönix' Antworten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich habe im Tal einen seltsamen Mann namens Phoenix getroffen. Er sucht irgendeine Antwort und braucht Hilfe dabei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Wenn ich Phoenix beweisen kann, dass ich "*weiß*", verrät er mir vielleicht, was er weiß. Vielleicht kann ich ihm dann helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Phoenix hat mir die Notiz gegeben, ihm keine Ruhe lässt. Wenn ich herausfinden kann, was sie bedeutet, kann ich ihm vielleicht helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Phoenix hat mir seine Notiz gegeben. Sie enthält den Code eines Grabes, in dem ich bereits war. In dem Grab gibt es eine Nachricht für Phoenix... von sich selbst. Ich sollte ihm sagen, was ich gefunden habe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe ein Grab gefunden, in dem Phoenix eine Nachricht hinterlassen hat... für sich selbst. Ich muss zu ihm zurück und ihm davon erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Phoenix gesagt, dass ich sein Grab gefunden habe. Er ist nur ein kleinerer Teil des wahren Phoenix. Als ihm das bewusst wurde, ist er verschwunden. Vielleicht ist er zu seinem wahren Ich zurückgekehrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ich musste das Tal verlassen, bevor ich die Antworten für Phoenix finden konnte. Ich bin aber sicher, dass er sie irgendwann finden wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

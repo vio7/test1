@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4211_essence_junkie</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Schönheit dieses jungen Mannes leuchtet trotz seines grimmigen Gesichtsausdrucks und seiner zerfetzten Kleidung. Seine Augen sind groß, starrend und stahlblau und die Bewegungen seiner Finger in der Luft erinnern an Vögel im Flug. Er erwacht aus seiner Tagträumerei und grinst dich mit strahlend weißen, geraden Zähnen an.
+
+Bei genauerem Hinsehen erkennst du, dass seine Kleidung aus edlen Stoffen und sauber und fachgerecht genäht wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Er grüßt dich mit einer leichten Vertrautheit, als wäre er ein alter Kumpel. Seine Stimme ist sanft und gebildet, wohlklingend und leise.
+
+"Hallo, mein Freund. "Mein Name ist Bourras!" Hast du vielleicht [Global: c4211_BourrasDonation] Shin übrig?"
+
+{MONEY}</DefaultText>
+      <FemaleText>Er grüßt dich mit einer leichten Vertrautheit, als wäre er ein alter Kumpel. Seine Stimme ist sanft und gebildet, wohlklingend und leise.
+
+"Hallo, meine Gute. "Mein Name ist Bourras!" Hast du vielleicht [Global: c4211_BourrasDonation] Shin übrig?"
+
+{MONEY}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Gib ihm [Global: c4211_BourrasDonation] Shin.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Oh ... oh! Wirklich? Danke! Oh, das rettet mir die Nacht. Ich werde nie deine Großzügigkeit v-v-vergessen, mein Freund. Wenn ich wieder auf die Beine komme, werde ich es dir zurückgeben. Mit Zinsen!"</DefaultText>
+      <FemaleText>"Oh ... oh! Wirklich? Danke! Oh, das rettet mir die Nacht. Ich werde deine Großzügigkeit nie v-v-vergessen, meine Gute. Wenn ich wieder auf die Beine komme, werde ich es dir zurückgeben. Mit Zinsen!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Lebwohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Er deutet einen freundlichen Gruß an. "Hallo, mein F-F-Freund. Sheens Essenzen sind heute Spitzenklasse. Ich kann sie da drin murmeln hören und das ist immer ein gutes Zeichen. Das bedeutet, dass sie etwas Besonderes braut." Ein Gedanke schießt ihm in den Kopf: "*Du* solltest ihre Essenzen probieren. Sie werden dein Leben verändern."
+
+Er hält einen Augenblick inne. "Warte aber, bis ich meine gekauft habe, okay?"</DefaultText>
+      <FemaleText>Er deutet einen freundlichen Gruß an. "Hallo, meine G-G-Gute. Sheens Essenzen sind heute Spitzenklasse. Ich kann sie da drin murmeln hören und das ist immer ein gutes Zeichen. Das bedeutet, dass sie etwas Besonderes braut." Ein Gedanke schießt ihm in den Kopf: "*Du* solltest ihre Essenzen probieren. Sie werden dein Leben verändern."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Hallo, mein Freund! Falls du dich nicht an mich erinnerst, ich bin B-B-Bourras. Du hast mir gestern in einer Notlage geholfen und ich frage mich ... Ich hasse es, dich zu belästigen … aber kannst du das noch einmal machen?"</DefaultText>
+      <FemaleText>"Hallo, meine Gute! Falls du dich nicht an mich erinnerst, ich bin B-B-Bourras. Du hast mir gestern in einer Notlage geholfen und ich frage mich ... Ich hasse es, dich zu belästigen … aber kannst du das noch einmal machen?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Er schaut hoch, sein Grinsen erstarrt und verschwindet, als er dein Gesicht sieht. "Oh. D-D-Du bist es. Warum kommst du immer wieder her, um mit mir zu reden, wenn du nicht vorhast, mir zu helfen? L-L-Labst du dich an meiner Not? Wie ist *das* so? Komm schon. Gib mir ein paar Shin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Seine gute Laune ist ansteckend. "Wie auch immer … was kann ich für dich tun? Hast du Fragen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Das weiße Konstruk verteilt immer noch Gratis-Essenzen in Memoviras Hof aus. Alle scheinen mit ihren Einkäufen glücklich zu sein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ich kann dir heute nichts geben, aber ich habe Neuigkeiten für dich. Ein weißes Konstrukt ist in Memoviras Hof aufgetaucht und es verteilt Gratisproben mit Essenzen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Sagtest ... Sagtest du etwas von 'gratis'?" Seine Augen leuchten mit kindlicher Begeisterung. "Mein Freund, ich wünschte, ich könnte bleiben, um noch mehr mit dir zu reden, aber ich habe Wichtiges zu erledigen. Ich muss mir unbedingt einige dieser Proben b-b-beschaffen, bevor andere es tun, die sie nicht so sehr s-s-schätzen wie ich!"</DefaultText>
+      <FemaleText>"Sagtest... Sagtest du etwas von ‚gratis'? Seine Augen leuchten mit kindlicher Begeisterung. "Meine Gute, ich wünschte, ich könnte bleiben, um noch mehr mit dir zu reden, aber ich habe Wichtiges zu erledigen. Ich muss mir unbedingt einige dieser Proben b-b-beschaffen, bevor andere es tun, die sie nicht so sehr s-s-schätzen wie ich!"
+
+{SCRIPT: Removed a SetBusy() call here. This should probably be replaced by a fade cutscene. -JF}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"G-G-Gratis? Du meine Güte. Du meine Güte." Er klopft sich über die Kleidung, um sicher zu gehen, dass er alles hat und er macht sogar schon einige Schritte zum Ausgang, doch dann dreht er um und geht wieder auf seine alte Position. "Weißt du, als ich das l-l-letzte Mal für eine Gratisprobe aufbrach, wurde ich reingelegt und ausgeraubt. Kurze Zeit davor hatte mir jemand Flausen in den Kopf gesetzt. Ich ... Ich vertraue gratis nicht mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Denk an mich, wenn du wieder zu etwas Geld gekommen bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ich habe nicht viel Geld, das ich entbehren kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"W-W-Warum verschwendest du dann meine Zeit? Ich muss das Gefühl von Wind auf meiner Haut in Erinnerung behalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bourras geht es nicht besser - wenn überhaupt, dann geht es ihm schlechter. Sein Mund steht offen und er sabbert, seine Augen sind auf eine andere Realität fokussiert. Seine Finger jucken und er schwankt ein wenig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Bourras, bist du okay?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Er antwortet nicht. Ein dicker Tropfen Speichel tropft aus seinem Mundwinkel, wird schneller und landet mit einem ekelhaften Platsch neben deinem Fuß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Er starrt dich weiter verblüfft an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du schüttelst ihn so stark, dass er umfällt. Er richtet sich auf. Er zeigt keine andere Reaktion.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Warum? *Warum*? Mein Freund, erinnerst du dich an das erste Verliebtsein? Das süße Lachen eines Kleinkindes? D-D-Der Geschmack einer Träne, wenn man vom Tod eines Freundes erfährt? Ja. Ich erinnere mich daran, auch wenn es mir nie passiert ist." Er hält inne, in seinem Gesicht zeigt sich Verwirrung. "Wenigstens glaube ich nicht. Aber egal! Hier in diesem Laden verkauft Sheen die Essenz für diese Erfahrungen. Wenn du genug Shin hast, kannst du sie selbst erleben!"</DefaultText>
+      <FemaleText>"Warum? *Warum*? Meine Gute, erinnerst du dich an das erste Verliebtsein? Das süße Lachen eines Kleinkindes? D-D-Der Geschmack einer Träne, wenn man vom Tod eines Freundes erfährt? Ja. Ich erinnere mich daran, auch wenn es mir nie passiert ist. Er hält an, in seinem Gesicht zeigt sich Verwirrung. "Wenigstens glaube ich das nicht. Aber egal! Hier in diesem Laden verkauft Sheen die Essenz für diese Erfahrungen. Wenn du genug Shin hast, kannst du sie selbst erleben!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Durchsuche seine Taschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du findest kaum eine Handvoll Shin und einige klebrige grüne Kügelchen, die sich ekelhaft lebendig und warm anfühlen. Vielleicht sind sie noch für etwas zu gebrauchen.
+
+{LOOT - ESSENTIAL - drops Pulsing Mass}
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wozu brauchst du das Geld?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Bourras starrt in die Ferne, seine Gedanken sind in einer Art Rückerinnerung gefangen. Sein Körper zuckt und schüttelt sich, als würde er von einer großen Errungenschaft träumen. Er reagiert nicht auf deine Worte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Schüttele ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Als du dich wegbewegen willst, kommt er plötzlich wieder zu sich. "Es tut mir so leid. Hast du da lange gestanden? Mein Geist wandert zu seltsamen Orten. Ich weiß nicht, was passiert."
+
+Er geht in sich. "Ich brauche einen Arzt. Glaubst du, Demeray und Obervich können mir helfen? Nun, nein, warte. Sie verlangen Vorkasse und ich bin völlig abgebrannt." Er schaut dich schüchtern an. "Ich hasse es zu fragen, aber du warst so großzügig. Kannst du mir helfen, dass ich wieder gesund werde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Bei deiner ersten Berührung springen seine Augen auf und blicken dir ins Gesicht. Er weicht kurz nach hinten aus, bevor ihm klar wird, wer du bist. 
+
+"Hast du da lange gestanden? Mein Geist wandert zu seltsamen Orten. Ich weiß nicht, was passiert."
+
+Er geht in sich. "Ich brauche einen Arzt. Glaubst du, Demeray und Obervich können mir helfen? Nun, nein, warte. Sie verlangen Vorkasse und ich bin völlig abgebrannt." Er schaut dich schüchtern an. "Ich hasse es zu fragen, aber du warst so großzügig. Kannst du mir helfen, dass ich wieder gesund werde?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Zumindest kannst du sie leben, bis dir das Geld ausgeht W-W-Was bei mir der Fall ist. Habe ... ich dich schon um Shin gebeten? Ich könnte schwören, dass ich das habe. Ich brauche nur [Global: c4211_BourrasDonation]."
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Shin-klauender G-G-Geizhals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Es wird eine gute Nacht werden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>(Lüge) "Ich habe nicht viel Geld, das ich entbehren kann."
+
+{GEORGE/COLIN: Adding another version of this line when you are lying and actually have the money. It doesn't make any difference at the moment, but if we ever track lies for any reason, it's here.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Wozu brauchst du das Geld?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Sheen verkauft die Essenz von jeder Erfahrung, die du dir erträumen kannst! Leider brauche ich [Global: c4211_BourrasDonation] Shin, um eine weitere zu erleben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Gib ihm eine Ohrfeige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Gib ihm noch eine Ohrfeige.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Schüttele ihn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Schüttele ihn noch einmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du schüttelst ihn noch stärker als vorher, aber er reagiert überhaupt nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Du ohrfeigst ihn mit aller Wucht, aber er scheint es nicht einmal zu spüren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Er schaut sehnsüchtig zum Ausgang, eindeutig hin- und hergerissen, aber schüttelt schließlich den Kopf. "Z-Zu viele schlechte Erfahrungen mit k-k-kostenlosen Proben..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

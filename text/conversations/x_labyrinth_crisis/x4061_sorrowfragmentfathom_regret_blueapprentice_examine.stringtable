@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_regret_blueapprentice_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bilder flimmern durch die Luft, holografisch von dieser Maschine projiziert, die Kummerscherbe unterbricht jedoch die Anzeige und du erkennst keinen Sinn darin, was das Gerät zu vermitteln versucht.</DefaultText>
+      <FemaleText>Bilder flimmern durch die Luft, holografisch von dieser Maschine projiziert, die Kummerscherbe unterbricht jedoch die Anzeige und du erkennst keinen Sinn darin, was das Gerät zu vermitteln versucht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Kummerscherben senden eine psychische Stase aus und unterbrechen damit deine Fähigkeit, zu verstehen, was die flimmernden Hologramme dieser Maschine zu vermitteln versuchen.</DefaultText>
+      <FemaleText>Die Kummerscherben senden eine psychische Stase aus und unterbrechen damit deine Fähigkeit, zu verstehen, was die flimmernden Hologramme dieser Maschine zu vermitteln versuchen.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

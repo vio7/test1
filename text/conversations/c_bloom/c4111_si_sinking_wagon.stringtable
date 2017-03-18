@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4111_si_sinking_wagon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Es sieht aus, als hätte die Flor begonnen, diesen Wagen zu verschlingen. Fortsätze aus Flor-Fleisch sind um die Räder gewickelt, sie ziehen das Fahrzeug nach unten. Die Wachen der Händler hieven und drücken mit aller Kraft, aber es nützt nichts. Die Umklammerung des kriechenden Fleischs wird mit jeder Bewegung nur stärker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Den Wachen helfen, den Wagen zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ohne ein Wort stemmst du dich mit all deiner Kraft gegen den Wagen und hilfst den Wachen dabei, den Wagen aus dem Flor-Fleisch zu heben. Von deiner unerwarteten Freundlichkeit überrascht halten die Wachen kurz inne, nur um dann mit doppelter Kraft weiterzumachen.
+
+Als die Fasern des Flor-Fleischs zu reißen beginnen, kannst du ein heftiges, ultraschall-artiges Grummeln der Unzufriedenheit *spüren*. Sie reißen schließlich ab, der Wagen ist frei und du stolperst hinter ihm her.
+
+An der Stelle, an der der Wagen eingesunken war, kannst du ein kleines Numenera erkennen, das aber bereits von der Flor verschluckt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Du gehst zum Wagen und versuchst, ihn zusammen mit den drei Wachen anzuschieben und so zu befreien. Mit rotem Gesicht und unter sichtlicher Anstrengung drückst du mit all deiner Kraft.
+
+Aber es reicht nicht. Nach etwa zwei Minuten anstrengender Schiebeversuche brichst du hinter dem Wagen erschöpft zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vielen Dank, Fremder", sagt der älteste der Wachen. "Wenn wir diesen Wagen verloren hätten, wäre das gleiche mit unserem Sold geschehen. Du bist verdammt viel mehr zu gebrauchen, als die meisten anderen hier. Warum gehst du nicht mal kurz zu unseren, äh, Auftraggebern und redest mit ihnen? Vielleicht haben sie was für dich."</DefaultText>
+      <FemaleText>"Vielen Dank, Fremde", sagt der älteste der Wachen. "Wenn wir diesen Wagen verloren hätten, wäre das gleiche mit unserem Sold geschehen. Du bist verdammt viel mehr zu gebrauchen, als die meisten anderen hier. Warum gehst du nicht mal kurz zu unseren, äh, Auftraggebern und redest mit ihnen? Vielleicht haben sie was für dich."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Verflucht nochmal!" flucht einer der Wachen. "Verdammt!" Er tritt gegen die Räder des Wagens und reißt die Hände in die Luft.
+
+Sein Anführer sieht dich an und schüttelt den Kopf. "Lass dich von Alcar nicht abschrecken. Er brauchte die Bezahlung für diesen Auftrag, und es sieht nicht danach aus, als könnten wir damit rechnen. Trotzdem danke für deine Hilfe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Schnell gehst du in die Knie und greifst mit deinem Arm in die Furche. Deine Finger umschließen das Gerät und ziehen es aus der Wunde, noch bevor das Flor-Fleisch die Öffnung wieder verschließen kann.
+
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Hineingreifen und es herausholen.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Furche sich schließen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Schnell gehst du in die Knie und greifst mit deinem Arm in die Furche. Deine Finger umschließen das Gerät und du versuchst, es aus der Wunde zu ziehen ... aber das Fleisch der Flor verschließt die Öffnung zu schnell, und deine Hand droht, darin zu versinken. Mit einer schnellen Bewegung kannst du deine Hand retten, aber das Gerät ist verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Follow-up PQ. 15</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Noch einmal versuchen, den Wagen zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du versuchst noch einmal, mit all deiner Kraft den Wagen aus der Furche zu heben. Du schwitzt und strengst dich an, aber der Wagen bleibt stecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

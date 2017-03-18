@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6091_cnpcfathom_crefton_dracogenobelisk_si</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Um eine alte Steinsäule ist eine plattierte Kreatur gewickelt, die du noch nie gesehen hast. Sie faucht in die Luft, aber ihre Augen - mehrere Reihen hat sie, wie eine Spinne - sind auf dich fixiert. Es ist nur eine Statue, aber dein Körper zittert als du hinsiehst.
+
+Sie will etwas - mehr als nur Fleisch. Diese Statue umgibt ein starkes Gefühl einer böswilligen Intelligenz, die du nicht erklären kannst.
+
+Viel besorgniserregender ist allerdings das Gefühl der *Vertrautheit* das dich beim Anblick erfasst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Diese Statue erzeugt in dir ein starkes Gefühl einer böswilligen Intelligenz als du sie anstarrst.  Dein Körper zittert vor dem entnervenden Gefühl der Vertrautheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Kreatur passt zu keiner Klasse der Neunten Welt und sie scheint auch zu intelligent zu sein, um ein erschaffenes Numenera zu sein. Dieses Ding ist ein Irrgast aus einer viel weiter entfernten Welt oder vielleicht sogar aus einer anderen Realität.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Gefühl von Böswilligkeit und räuberischem Verhalten erinnert dich stark an deine erste Begegnung mit Dracogen im Flor. Du verstehst allerdings nicht, warum diese Kreatur dich an diesen Mann erinnert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Versuche dich zu erinnern, warum dieses Gefühl dir so vertraut vorkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Versuche noch einmal, dich zu erinnern, warum dieses Gefühl dir so vertraut vorkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Mehrere Erinnerungen tauchen in dir gleichzeitig auf - es sind keine Erinnerungen an dein vergangenes Leben, sondern an das deiner Nachkommen.
+
+Du siehst dich selbst vor einer Kreatur auf die Knie fallen, die wie die Statue ist, nur größer und noch bedrohlicher. Du weinst und hast schreckliche Angst. Die Kreatur streckt eine Klaue aus und eine unsichtbare Kraft zerschmettert dir die Brust.
+
+Ein Blitz. Licht schießt aus den vielen Augen der Kreatur in deine Netzhaut und in dein Gehirn. Du gehst zu Boden, bei vollem Bewusstsein, aber bewegungsunfähig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Da sind ein paar Erinnerungen, aber sie entziehen sich dir. Sie fühlen sich nicht an wie *deine* Erinnerungen. Vielleicht sind sie deshalb so schwer zu greifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Erneut entziehen sich deine Erinnerungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Untersuche noch einmal die Statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die Erinnerungsblitze wiederholen sich nicht, aber du weißt jetzt, dass diese Statue der *echte* Dracogen ist. Es ist Kreatur, die nicht aus der Neunten Welt stammt, die Sterbliche für ihr eigenes unergründliches Ende nutzt.
+
+Mehrere Verstoßene sind ihr begegnet. Einer diente vor langer Zeit sogar als Dracogen. Als ihre Gedächtnisse in das Labyrinth gezogen wurden, wurde diese Statue aus ihren kollektiven Erinnerungen gebaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Statue in Ruhe lassen.</DefaultText>
+      <FemaleText>Die Statue in Ruhe lassen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>In einer anderen Erinnerung stürmst du auf der Suche nach einem Artefakt durch ein brennendes Dorf. Die Erinnerung rast weiter und du präsentierst dieses Artefakt der Kreatur.
+
+Noch ein Blitz. Du kniest vor der Kreatur. Sie spricht in deinem Verstand. "Erhebe dich, mein Diener. Ab heute bist du kein Verstoßener mehr. Du bist *Dracogen* und du wirst in dieser Welt von nun an in meinem Namen sprechen und meinen Willen geschehen lassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die Erinnerungen flüchten. Du bleibst zitternd zurück. Dieses *Ding* ist Dracogen - der echte Dracogen, nicht der Mann. Es nutzt Sterbliche für sein eigenes unergründliches Ende, sogar als Mundstücke, wie es das mit dem Dracogen tat, den du im Flor getroffen hast.
+
+Mehrere Verstoßene sind ihm im Laufe der Jahrhunderte begegnet. Die Kreatur findet die Unsterblichkeit und Gier deiner Geschwister nützlich und deren Gleichgültigkeit gegenüber dem Leben Sterblicher günstig. Die Statue wurde aus ihren Erinnerungen gebaut. Einer von ihnen diente sogar schon vor langer Zeit als Dracogen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die Augen bleiben auf die Stelle fixiert, wo du zuvor standest. Vielleicht kam es dir nur so vor, als du genau dort standest-
+
+Mit langsamer und bewusster Vorsicht schwenken die Augen in ihren steinernen Sockeln und fixieren wieder auf dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du streckst die Arme aus, um die geschuppte Oberfläche zu berühren. Die Statue bewegt sich nicht und du hörst nichts außer dem Geräusch deines Atems, und dennoch ... 
+
+Du hast das Gefühl, dass etwas jenseits von diesem Ort zusieht. Eine plötzliche Hitze schießt in deine Handfläche. 
+
+Etwas sagt dir, dass du diese Statue besser nicht berühren solltest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Du langst noch einmal nach der Statue. Eine glühende Hitze baut sich in der Luft um deine Hand auf und wartet nur darauf, zu sehen, ob du so dumm bist, die Statue noch einmal anzufassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Deine Fingerspitzen berühren fast eine der glühenden Schuppen. Du hörst ein langsames, wütendes Fauchen, bevor sich klauenartige Hände von hinten über deinen Kopf legen. Und drücken. 
+
+Die Finsternis bricht über dich ein und drückt dir die Luft aus der Lunge. Laute Worte der Bestie dringen in deinen Verstand ein wie missgebildete brennende Meteoriten. Du versuchst zu schreien, aber nichts kommt raus. Nichts. 
+
+{SOUND: Loud, alien hissing}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Du erwachst kurz danach, jeder Knochen tut dir weh. Etwas liegt schwer und kalt in deiner Hand.
+
+Zuerst hältst du das Juwel in deiner Hand für eines der Augen der Statue. Und dann bemerkst du, dass die Schlange noch so unversehrt du unberührt ist wie zuvor. 
+{LOOT: Bestows ITM_RINGA_RecalescentStone}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Deine Hand fallen lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Die Hitze verweht, als du deine Hand zurückziehst, und die Augen der Schlange leuchten mit Gelächter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Dich von Seite zu Seite bewegen, um zu sehen, ob die spinnenartigen Augen dir folgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Berühre die Oberfläche der Statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Versuche noch einmal, eine Hand auf die Statue zu legen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

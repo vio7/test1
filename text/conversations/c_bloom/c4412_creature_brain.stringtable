@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4412_creature_brain</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>57</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der Kopf dieser Kreatur war wahrlich riesig, obwohl das Fleisch abgenagt worden war, wahrscheinlich von den selben korpuskularen Schlünden, die dich angegriffen haben. Teile des Schädels fehlen, wodurch der Blick auf ein riesiges, glänzendes Gehirn frei wird.
+
+Eine organische Hülle umgibt noch das Gehirn, und es scheint, als habe die Gehirnflüssigkeit das Hirn vor schwerer Auflösung bewahrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das riesige Gehirn ist glänzend und feucht. Eine dünne, organische Hülle hat es vor schwerer Verwesung bewahrt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Den Magmatischen Ring am Gehirn benutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tritt vom Gehirn zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Kreatur ist mausetot, daran gibt es keinen Zweifel, aber die Tatsache, dass das Gehirn erhalten ist, bedeutet, dass einige ihrer Erinnerungen noch intakt sein könnten. Eine kräftige Zufuhr an Gezeitenenergie könnte das Gehirn wieder zum Leben erwecken, zumindest für eine gewisse Zeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Hirnaktivität wieder in Gang setzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du konzentrierst dich auf das Auf und Ab der Gezeiten in dir und lässt sie in das tote Gehirn der Kreatur hinüber schwappen. Ihr Genick zuckt ein wenig, als so etwas wie Leben in ihren Hirnstamm fließt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Du schließt deine Augen und berührst den Ring. Sofort gleiten die letzten Erinnerungen der Kreatur in deine Gedanken ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der purpur-graue Himmel über dir droht einen weiteren Guss der öligen Gülle abzuregnen, die er schon seit tausend Jahren ausspuckt. Der Hunger zerreißt deinen Bauch, was bedeutet, dass du bald daran sterben wirst. Du hast diese weiten Lande all die Jahrhunderte deines Lebens beherrscht. Deine Überlegenheit hast du all jenen aus dem Rachen gezogen, die sich dir in den Weg gestellt haben.
+
+Und doch ... hat sich etwas verändert. Die Luft hat sich regelrecht entzweigeteilt und einen schwebenden Spalt geschaffen, der zu einem anderen Ort führt ... einem Ort, der nach rohem Fleisch duftet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die ganze Welt *erzittert*. Noch mehr kleine Kreaturen schlüpfen aus den Wänden, aber diese haben peitschende Ranken und glänzende Schlünde. Sie fallen kauend und vertilgend über dich her, und du brüllst vor Schmerzen. Die Welt erzittert erneut, und die ganze Kammer stürzt über dir zusammen und hält dich gefangen. Sie hält dich fest, während die kleinen Monster dich Bissen für Bissen verschlingen.
+
+Dein Tod ist langsam und qualvoll.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Das Gehirn untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die Struktur nochmal untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Hülle des Gehirns ist nicht verwest, obwohl ein merkwürdiger beißender Geruch von ihm ausgeht. Vielleicht haben deshalb die korpuskularen Schlünde das Gehirn in Ruhe gelassen. Sein Gewebe scheint nicht schwer beschädigt zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Das Gehirn ist von einer Membran umgeben, die es erhalten hat, obwohl der Körper tot ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du tauchst in den Spalt ein und findest dich plötzlich an einem völlig anderen Ort wieder... einem Paradies, in dem *alles* aus Fleisch besteht. Ausgehungert stürzt du dich auf die nächste Wand aus Fleisch und verscheuchst eine Horde winziger, zweibeiniger Kreaturen, die keinen Moment Beachtung verdienen. Du reißt kauend und schlingend Brocken aus der Wand. Das Fleisch ist zäh und schmeckt gammelig, aber es ist *Nahrung*, und du bist am Verhungern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Die Vision klingt ab, und du bist mit dem Tier allein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du kannst regelmäßige kleine Bewegungen, kleine Kräuselungen an seiner Oberfläche sehen. Das Monster ist immer noch mausetot, aber sein Gehirn reagiert auf die Kraft, die du hast hineinfließen lassen. Mehrere Nervenbündel am Stamm des Gehirns fangen ruckartig an zu zucken. Möglicherweise sind sie immer noch mit anderen Körperteilen der Kreatur verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du frisst und frisst dich durch die Wand, bis du in eine weitere Kammer stürzt. Du siehst einen Fleischwulst vor dir, der von schlängelnden Ranken umgeben ist. Er sieht lecker aus, also reißt du ihn aus der Wand und verschlingst ihn am Stück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Gedanken der toten Kreatur sind zusammenhanglos und durcheinander. Ihre letzten Erinnerungen schießen in dein Gehirn...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Versuchen, die Gedanken des Gehirns zu lesen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Dein Wissen über Heilung hilft dir dabei, die Funktion dieser Nervenstränge zu verfolgen und zu verstehen. Scheinbar sind recht viele von ihnen noch funktionsfähig und stehen mit Körperfunktionen in Verbindung. Ein Bündel ist mit der Schulter verbunden, ein weiteres mit dem Rücken. Ein drittes Bündel führt hinunter zu den Eingeweiden.
+
+Etwas im Gehirn sendet und empfängt Impulse entlang der zerfledderten Nervenstränge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Drei einzelne Bündel stechen hervor, und es sieht so aus, als stünden sie mit bestimmten Körperteilen der Kreatur in Verbindung. Es ist aber nicht leicht herauszufinden, welches wofür ist. Du wirst also einige Zeit darauf verwenden müssen herauszufinden, welches Bündel wohin führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du stupst und stößt jedes Bündel an und beobachtest, wie die Muskeln der Kreatur reagieren, so dass du den Verlauf der verwickelten Nervenstränge verfolgen kannst. Deine Sorgfalt macht sich bezahlt. Du kannst feststellen, dass ein Bündel mit der Schulter verbunden ist und ein weiteres mit dem Rücken. Ein drittes Bündel führt hinab zu den Eingeweiden.
+
+Etwas im Gehirn sendet und empfängt Impulse entlang der zerfledderten Nervenstränge. Vielleicht kannst du den ganzen Leichnam von hier aus steuern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Du stupst die Nervenbündel an und kannst sehen, wie die verwesenden Muskeln der Kreatur erzittern. Leider ist es Pusselarbeit, da die Nervenstränge verwickelt und verschlungen sind. Nachdem du dich eine Weile mit der Sache beschäftigt hast, bist du dir immer noch nicht sicher, welche Nervenstränge mit welchen Körperteilen der Kreatur verbunden sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Versuchen herauszufinden, welche Körperteile der Kreatur von welchem Nervenbündel gesteuert werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Erneut versuchen herauszufinden, welche Teile des Leichnams von welchem Nervenbündel gesteuert werden können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Die Nervenbündel am Hirnstamm inspizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du starrst erneut auf die Nervenbündel und stimulierst erst das eine, dann das nächste. Du versuchst, ihrem verwickelten Verlauf zu folgen, aber es nützt nichts. Du bist dir immer noch nicht sicher, wie sie mit dem restlichen Körper der Kreatur verbunden sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Die Schulternerven manipulieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Eine Schulter und ein mächtiger Arm der Kreatur bewegen sich leicht. Die verweste Gliedmaße scheint das Flor-Fleisch fester zu greifen, erschlafft aber schnell wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Die Rückennerven manipulieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Der ganze Rücken des Leichnams zieht sich zusammen und hebt sich an. Verwesende Fleischklumpen fallen zu Boden und du hörst ein feuchtes *Schnapp*-Geräusch, als irgendwo in der Wirbelsäule Nervenfasern reißen.
+
+Du wirst das nicht noch einmal ausprobieren können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Die Nerven der Eingeweide manipulieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Eine große Kontraktionswelle bewegt sich durch die Gedärme der Kreatur. Je öfter du die Nerven anstupst, desto größer wird die Wucht der Blähung. Ein wenig Kot, mit ein paar kleinen Brocken Flor-Fleisch, tritt mit einer besonders heftigen Kontraktion aus dem Anus der Kreatur aus.
+
+Etwas poltert und zappelt heftig in den Eingeweiden der Kreatur. Was auch immer es sein mag, es klingt, als ob es lebendig sei ... und gefangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>An den Darmnerven rütteln, damit der Inhalt des Verdauungstraktes der Kreatur freigesetzt wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Du drückst heftig auf das Nervenbündel, immer und immer wieder. Der Magen verkrampft sich und zieht sich mit entsetzlicher Gewalt zusammen. Eine unglaublich scheußliche Mixtur wird aus dem Hinterteil der Kreatur ausgespien, mit einem Pestgestank, der ein Massensterben auslösen könnte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Flor-Zungen fressen sich durch verwesende Gedärme und verspritzen Magensäfte in alle Richtungen. Dann erscheint ein großes Maul und birst durch das tote Fleisch. Seine Ranken gleiten in die Eingeweide und wickeln sich fest um sie. Das *Ding*, das im Magen gefangen war, ist ein Schlund.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Der Schlund knurrt ruckartig, aber sonst passiert nichts.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Du bemerkst, dass der Schlund sich von etwas im Magen der Kreatur ernährt haben muss, zumal er schon satt ist. Sein Maul öffnet sich weit, und ein Portal erscheint!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Das mächtige Gehirn ist glänzend und feucht. Eine dünne, organische Hülle hat es vor starker Verwesung bewahrt.
+
+Mehrere Nervenbündel am Hirnstamm sind mit anderen Körperteilen der Kreatur verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Das mächtige Gehirn ist glänzend und feucht. Du wirst es nicht weiter begutachten können, während du mit den Schlünden kämpfst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3302_rubble3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ein paar schwächere Steine liegen rissig unter einer größeren Gruppe Feldbrocken. Wenn sie entfernt werden können, werden die Trümmer einstürzen.</DefaultText>
+      <FemaleText>Ein paar schwächere Steine liegen rissig unter einer größeren Gruppe Feldbrocken. Wenn sie entfernt werden können, werden die Trümmer einstürzen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ein paar schwächere Steine stützen eine Gruppe von Felsbrocken.</DefaultText>
+      <FemaleText>Ein paar schwächere Steine stützen eine Gruppe von Felsbrocken.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ein paar der Steine brechen los. Die verbleibenden können die darüberliegenden Felsbrocken nicht stützen. Der Haufen stürzt ein und rollt dir aus dem Weg.</DefaultText>
+      <FemaleText>Ein paar der Steine brechen los. Die verbleibenden können die darüberliegenden Felsbrocken nicht stützen. Der Haufen stürzt ein und rollt dir aus dem Weg.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Der Haufen rührt sich nicht.</DefaultText>
+      <FemaleText>Der Haufen rührt sich nicht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die kleineren Steine zerschlagen, um die Felsbrocken zu befreien.</DefaultText>
+      <FemaleText>Die kleineren Steine zerschlagen, um die Felsbrocken zu befreien.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Erneut versuchen, die kleineren Steine zu zerschlagen.</DefaultText>
+      <FemaleText>Erneut versuchen, die kleineren Steine zu zerschlagen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Tritt zurück.</DefaultText>
+      <FemaleText>Tritt zurück.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth_crisis\x4061_sorrowfragmentfathom_regret_goldargument</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ein tiefstehender, aromatischer Nebel umgibt dieses Gerät und jeder Dampfhauch beschwört eine Erinnerung tief in dir hervor.</DefaultText>
+      <FemaleText>Ein tiefstehender, aromatischer Nebel umgibt dieses Gerät und jeder Dampfhauch beschwört eine Erinnerung tief in dir hervor.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die jubelnde Menge, die sich vor dir auf dem Regierungsplatz ausdehnt, spricht mit donnernder Stimme, die durch die Stadt rollt und grollt. Die Menschen darin sind Opfer, Überlebende ... Sieger. Und ihr letzter Gegner kniet auf den breiten Stufen vor dir.
+
+Du hältst die Hände um Ruhe bittend hoch. Der Donner weicht einem leisen Murmeln und wird zu einem ruhigen, hungrigen *Gewicht*. Sie wollen *Rache*.
+
+Wie auch du. Oh, der Schmerz ist so stark.</DefaultText>
+      <FemaleText>Die jubelnde Menge, die sich vor dir auf dem Regierungsplatz ausdehnt, spricht mit donnernder Stimme, die durch die Stadt rollt und grollt. Die Menschen darin sind Opfer, Überlebende ... Sieger. Und ihr letzter Gegner kniet auf den breiten Stufen vor dir.
+
+Du hältst die Hände um Ruhe bittend hoch. Der Donner weicht einem leisen Murmeln und wird zu einem ruhigen, hungrigen *Gewicht*. Sie wollen *Rache*.
+
+Wie auch du. Oh, der Schmerz ist so stark.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ogesti tel Kotu," verkündest du. "Waisenmacher. Hoffnungstöter."
+
+Die Menge brodelt bei der Nennung dieser Titel.
+
+"Heute ist der Tag deiner Verurteilung", brüllst du. "Heute ist der Tag, an dem Tabaht den vollen Preis für die Verbrechen gegen unsere Bürger und gegen die Menschheit bezahlt. Der heutige Tag wird endlich das Ende des Tabahts erleben!"
+
+Die Menge bricht in wahnsinniger Freude aus. Du beugst dich nach vorne und flüsterst ihm ins Ohr: "Du hast zwei Möglichkeiten – einen raschen Tod, oder eine Unsterblichkeit zum Preis deiner Ambition und deiner Freiheit."</DefaultText>
+      <FemaleText>"Ogesti tel Kotu," verkündest du. "Waisenmacher. Hoffnungstöter."
+
+Die Menge brodelt bei der Nennung dieser Titel.
+
+"Heute ist der Tag deiner Verurteilung", brüllst du. "Heute ist der Tag, an dem Tabaht den vollen Preis für die Verbrechen gegen unsere Bürger und gegen die Menschheit bezahlt. Der heutige Tag wird endlich das Ende des Tabahts erleben!"
+
+Die Menge bricht in wahnsinniger Freude aus. Du beugst dich nach vorne und flüsterst ihm ins Ohr: "Du hast zwei Möglichkeiten – einen raschen Tod, oder eine Unsterblichkeit zum Preis deiner Ambition und deiner Freiheit."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der Tabaht starrt dich mit breiten, seltsamen Augen an. "Warum?"
+
+"Weil eine dieser Optionen deine Unterwerfung beenden wird. Hier, jetzt, sauber. Die andere Option wird dir Unsterblichkeit verleihen, dich jedoch in der Zeit gefangen halten. Bedenke aber ... Eines Tages könnte *ich* sterben. Und an diesem Tag wirst du immer noch hier sein. Ich mache dir ein *Geschenk*, wenn du es beherrschen kannst. Einen Sieg. Doch nur, wenn du die tödliche Kunst der Geduld erlernen kannst."
+
+Der Tabaht schaut finster, irgendeine Täuschung vermutend. Du berührst ihn mit deinen Gedanken, um ihn über den Rand des Verlangens zu drängen ...</DefaultText>
+      <FemaleText>Der Tabaht starrt dich mit breiten, seltsamen Augen an. "Warum?"
+
+"Weil eine dieser Optionen deine Unterwerfung beenden wird. Hier, jetzt, sauber. Die andere Option wird dir Unsterblichkeit verleihen, dich jedoch in der Zeit gefangen halten. Bedenke aber ... Eines Tages könnte *ich* sterben. Und an diesem Tag wirst du immer noch hier sein. Ich mache dir ein *Geschenk*, wenn du es beherrschen kannst. Einen Sieg. Doch nur, wenn du die tödliche Kunst der Geduld erlernen kannst."
+
+Der Tabaht schaut finster, irgendeine Täuschung vermutend. Du berührst ihn mit deinen Gedanken, um ihn über den Rand des Verlangens zu drängen ...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Lass die Erinnerungen kommen.</DefaultText>
+      <FemaleText>Lass die Erinnerungen kommen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Widerstehe ihnen.</DefaultText>
+      <FemaleText>Widerstehe ihnen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du konzentrierst dich und die Erinnerungen ziehen sich zurück.</DefaultText>
+      <FemaleText>Du konzentrierst dich und die Erinnerungen ziehen sich zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die aromatischen Dämpfe um das Gerät beschwören beharrlich Erinnerungen herauf, die tief in deinem Kopf vergraben sind.</DefaultText>
+      <FemaleText>Die aromatischen Dämpfe um das Gerät beschwören beharrlich Erinnerungen herauf, die tief in deinem Kopf vergraben sind.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Er zuckt zusammen, als die Welle deiner Psyche über ihn hinwegschwappt. Er grummelt: "Der Tod hat keine Angst, ich werde jedoch der Zukunft erzählen, wie ich dich besiegt habe."
+
+Du lächelst, als du dich abwendest, und zeigst auf die Maschinen, die ihn deinem Willen unterwerfen werden. Dann hältst du inne.
+
+Er war ein bemerkenswerter Gegner ... vielleicht hat er mehr verdient, als nur ein dauerhaftes Zeichen deines Triumphs zu sein. *Du schuldest ihm das Recht, seine eigenen Entscheidungen zu treffen*, denkst du dir. Dann erinnerst du dich an die Gesichter der Kranken und Sterbenden.
+
+Du injizierst ihn dir.</DefaultText>
+      <FemaleText>Er zuckt zusammen, als die Welle deiner Psyche über ihn hinwegschwappt. Er grummelt: "Der Tod hat keine Angst, ich werde jedoch der Zukunft erzählen, wie ich dich besiegt habe."
+
+Du lächelst, als du dich abwendest, und zeigst auf die Maschinen, die ihn deinem Willen unterwerfen werden. Dann hältst du inne.
+
+Er war ein bemerkenswerter Gegner ... vielleicht hat er mehr verdient, als nur ein dauerhaftes Zeichen deines Triumphs zu sein. *Du schuldest ihm das Recht, seine eigenen Entscheidungen zu treffen*, denkst du dir. Dann erinnerst du dich an die Gesichter der Kranken und Sterbenden.
+
+Du injizierst ihn dir.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Die Aromen, die von dem Gerät herüberströmen, haben keine Wirkung mehr auf deine Gedanken.</DefaultText>
+      <FemaleText>Die Aromen, die von dem Gerät herüberströmen, haben keine Wirkung mehr auf deine Gedanken.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

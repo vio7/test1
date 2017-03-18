@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4101_memovira_courtyard_jamesherbertobelisk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ein Metallmast - so poliert, dass er auch aus Kristall sein könnte - wurde an der gepanzerten Verknüpfung zweier neuraler Axone in das Flor-Fleisch gerammt. Es ist nicht klar, ob der knollige Überstand um den Mast eine Folge des Eindringens oder der Grund dafür ist.
+
+Wie so vieles andere im Flor ist er gleichzeitig von Rätseln und Schleim umgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Der schlanke Mast steckt in eiterndem Flor-Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Den Mast untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Ausblühung des Flor-Fleisches und die neuralen Abschirmungen untersuchen, die davon wegführen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Den Mast in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ich denke, das ist ein Teil eines Dimensionsankers", sagt Callistege, ebensoviel zu sich selbst - und ihren Selbsts - wie zu dir. "Aber wenn es einer ist, dann ist derjenige, der den gebaut hat, nicht weit gekommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Soweit du sagen kannst hat Callistege recht: Der Mast ist das Fundament eines Dimensionsankers. Aber *nur* das Fundament - um genau zu sein, ist es auf manche Art das schwierigste Teil, das gebaut werden muss, aber es ist wertlos ohne eine Reihe von weiteren, genau angepasster Numenera. Dieses Projekt abzuschließen wäre eine beträchtliche Unternehmung - viel mehr als du hoffen könntest, zu erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Der Mast scheint das Fundament eines Dimensionsankers zu sein. Aber *nur* das Fundament - um genau zu sein, ist es auf manche Art das schwierigste Teil, das gebaut werden muss, aber es ist wertlos ohne eine Reihe von weiteren, genau angepasster Numenera. Dieses Projekt abzuschließen wäre eine beträchtliche Unternehmung - viel mehr als du hoffen könntest, zu erreichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du hast keine Möglichkeit zu beurteilen, ob Callisteges Einschätzung des Mastes richtig ist oder nicht. Sein Sinn ist unklar und das polierte Metall bietet keine Hinweise.
+
+Dir fällt aber auf, dass im Flor-Fleisch eine tiefe Rinne ist, wo der Mast steckt. Wegen des Tulks, der die Rinne füllt, kannst du nicht erkennen, ob darin etwas liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Dir fällt auf, dass im Flor-Fleisch eine tiefe Rinne ist, wo der Mast steckt. Wegen des Tulks, der die Rinne füllt, kannst du nicht erkennen, ob darin etwas liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Der Sinn des Mastes ist unklar und das polierte Metall bietet keine Hinweise.
+
+Dir fällt aber auf, dass im Flor-Fleisch eine tiefe Rinne ist, wo der Mast steckt. Wegen des Tulks, der die Rinne füllt, kannst du nicht erkennen, ob darin etwas liegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>In den Tulk fassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Erneut in den Tulk fassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du steckst bis zum Ellenbogen in warmem, schleimigem Tulk, als deine Finger etwas Scharfkantiges berühren - offensichtlich kein Teil des Flors, aber auch unterschiedlich vom Mast.
+
+Leider hat deine Berührung es gelockert, und es beginnt tiefer in die Rinne zu sinken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Als du deinen Arm wieder in die pulsierende Rinne schiebst, überkommt dich ein Déjà-Vu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du erreichst nichts, nur deine Hand ist voller zähem Flor-Schleim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Versuchen, es zu packen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Die Hand rausziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Es ist eine große Erleichterung, als deine Hand sich aus der warmen und pulsierenden Umarmung des Flor-Fleisches löst.
+
+Schnelles Schütteln löst den meisten Tulk, der an deiner Haut hängt. Aber leider nicht alles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Du reichst tiefer hinein und packst das metallene Objekt. Erleichtert ziehst du deinen Arm - und den geborgenen Cypher - aus der schleimigen Rinne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Das Ding - was auch immer es war - rutscht tiefer in die Rinne, außerhalb deiner Reichweite. Aber als du mit dem Arm tiefer reichst, überkommt dich ein Déjà-Vu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ausgehend von den ergänzenden Organen, die aus dem Knoten herausragen, scheint das ein organisches Äquivalent eines regionalen Kontrollzentrums zu sein: kein wirkliches Gehirn, aber mehr als ein einfacher Nerven-Cluster. Es ist nicht klar, ob es der Teil eines größeren Geistes ist oder ein fast empfindungsfähiger Organismus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Ausblühung ist rosa, pulsiert und fühlt sich feucht an. Die Abschirmungen dagegen sind hart und knochig. Darüber hinaus ist es ein Rätsel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ein alter Mann schwafelt etwas von einem Gedankenexperiment. Dabei geht es um eine Art von prähistorischem Nagetier, das telepathisch seinen Geist mit anderen verbinden kann. Vielleicht ein Vorfahr der Seterdin.
+
+Der alte Mann verkündet, dass, wenn genügend dieser Nager versammelt werden, die schiere Macht ihrer vereinten Sehnsucht stark genug wäre, um die Realität zu verändern. "Und was für eine Welt würden sich diese Plünderer wünschen?", fragt er rhetorisch. "Eine wo alles, selbst der Dreck an sich, die Trümmer der Menschen sind, oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Er scheint das transdimensionale Wesen des Flors manipulieren zu wollen, um seine Murine-Traumzeit-Hypothese zu testen. Solche Einmischung wird natürlich nicht toleriert, und deshalb lässt du das Sonnenfleck-Totem in die Rinne gleiten, während er weiter schwafelt.
+
+Es ist unwahrscheinlich, dass dieser komische Kauz jemals seinen Dimensionsanker vollenden wird, aber jetzt kannst du zumindest sichergehen, dass er nicht deine Pläne im Flor stört.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die Details liegen außerhalb deiner Reichweite, genau wie das Objekt. Aber *du* warst es, der etwas dort hinein gelegt hat. Etwas, das garantiert, dass der Mast nie so funktioniert, wie er soll, selbst wenn er vervollständigt wird. Deine Gründe für die Sabotage - ob größerer Plan oder reine Gehässigkeit - bleiben ein Rätsel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die Erinnerung verblasst. Du ziehst deine Hände aus dem Schleim.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

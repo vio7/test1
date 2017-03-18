@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_dracogens_price</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Dracogens Preis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reise zum Handelsposten</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Finde einen Schlund, der zum Handelsposten führt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Betrete die Aszension und erhalte das Magmatische Annulet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Kehre mit dem Magmatischen Annulet z Dracogen zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Das Magmatische Annulet übergeben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Verzögerung der Bezahlung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Den Navigationscortex übergeben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Mit der Memovira sprechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Ich bin auf meiner Suche nach der Ersten Abgeworfenen in der Flor angekommen. Dracogen, ein selbsternannter Informationshändler, hat vorgeschlagen, dass ich mich mit der Memovira unterhalte. Sie herrscht über die Flor. Sollte die Erste Abgeworfene sich tatsächlich hier verstecken, würde die Memovira es wissen. Unglücklicherweise ist es unmöglich, ohne eine vorherige Vorstellung bei der Memovira persönlich vorstellig zu werden. Dracogen würde das für mich übernehmen, wenn ich ihm das Magmatische Annulet beschaffe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Dracogen sagte mir, ich solle der "Karawanenroute" aus Memoviras Hof zum Handelsposten folgen. Dort werde ich einen Schlund finden, der mich zur Aszension bringt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Der Handelsposten wurde von der Flor verschlungen, also kann ich ihn vom Gewaltigen Inneren aus nicht erreichen. Dem Flor-Führer Grisseler zufolge ist der Handelsposten noch immer intakt, ich muss aber einen Weg finden, zu ihm zu gelangen. Meine einzige Möglichkeit besteht derzeit darin, verschiedene Schlünde zu öffnen und zu hoffen, dass sie mich zum Handelsposten führen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe den Weg zum Handelsposten gefunden, wo ein geöffneter Schlund zur Aszension führt. Jetzt muss ich die Aszension nach dem Magmatischen Annulet absuchen. Laut Dracogen handelt es sich dabei um einen dunklen, transparenten Reif.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Jetzt, wo ich das Annulet habe, kann ich es zu Dracogen bringen, damit er seinen Teil der Abmachung erfüllt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Wie versprochen habe ich Dracogen das Magmatische Annulet gebracht. Im Gegenzug hat er sich mit der Memovira unterhalten, welche einem Gespräch mit mir zustimmte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Nachdem du mit den Magmanischen Annulet, den Dracogen begehrt, zu ihm zurückgekehrt bist, hast du ihn überzeugt, dass du es eine Weile länger behalten darfst. Er machte ganz deutlich, dass es Konsequenzen haben würde, es nicht rechtzeitig an ihn zu übergeben...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich habe das Magmatische Annulet behalten und Dracogen an seiner Stelle den Navigations-Kortex überreicht. Im Gegenzug hat er sich mit der Memovira unterhalten, welche einem Gespräch mit mir zustimmte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Jetzt, wo Dracogen mir den Weg eröffnet hat, sollte ich die Memovira in ihrer Festung aufsuchen und herausfinden, was sie über die Erste weiß.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Dracogen hat angedeutet, dass er einen anderen Gegenstand im Tausch gegen seine Hilfe annehmen würde. Dieser sollte allerdings von gleichem oder größerem Wert für ihn sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Ich habe herausgefunden, dass Dracogen einmal versucht hat, einen Gegenstand namens "Navigations-Kortex" von den Lascar beim Verlorenen Ankerplatz zu stehlen. Vielleicht würde er diesen anstelle des Annulets akzeptieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Dracogen hat zugestimmt, den Navigations-Kortex anstelle des Annulets zu akzeptieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

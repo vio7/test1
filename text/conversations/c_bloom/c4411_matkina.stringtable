@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_matkina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>65</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Matkina schlitzt weiter und schneidet Zeichen des Schmerzes in das bloßgelegte Fleisch der hilflosen Kreatur. Aligern regeneriert sich nach jedem Schlitzer schnell - kaum wurde das Fleisch aufgerissen, verheilt es auch schon wieder. Die beiden könnten hier seid Ewigkeiten, und auf alle Ewigkeit sein - oder zumindest so lange, bis die Flor den Schatten vollständig verschlungen hat.
+
+Matkinas Echo bemerkt dich nicht, es ist viel zu sehr damit beschäftigt, das vor ihr liegende Fleisch zu quälen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Vor dir steht ein Muster von Matkina, der Matkina, die du in den Sagus-Klippen getroffen hast - der Weiße Tod, eine tödliche Assassine, die nur von Wut erfüllt ist. Du hast Glück, dass sie sich vollständig auf ein anderes Opfer konzentriert - ein hilfloses, unglückliches Wesen, das gerade von der Flor verschlungen wird. Sie genießt es, das Wesen zu quälen und sein Leiden zu verlängern. Ihr Gesicht ist wie eine grimmige Maske, und auf ihm liegt ein grausames, wildes Grinsen, das jegliche Menschlichkeit missen lässt.
+
+Was auch immer es für eine Abscheulichkeit ist, die sie quält, sie regeneriert sich genauso schnell, wie Matkina ihr Wunden zufügt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Matkina hört nicht auf, den hilflosen Schatten von Aligern zu zerschlitzen. Du siehst zu, wie sie ein Augenlid abschneidet ... und einen Moment später ein neues nachwächst. Matkinas entzücktes Lachen ist widerlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Matkina bleibt vollständig auf die Abscheulichkeit in der Wand konzentriert, eine gequälte Seele, deren Pein durch Matkinas finstere Zuwendung nur verschlimmert wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Matkina, du musst damit aufhören."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Matkinas Folter nicht unterbrechen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ihre Aufmerksamkeit richtet sich schlagartig auf dich. Du kannst erkennen, dass sie sich ganzheitlich auf diese Qualen konzentriert, und was für eine unheilige Wut hinter ihren Augen liegt. Ihre Lippen kräuseln sich, und sie fährt mit ihrer Zunge über ihre Zähne.
+
+Es ist offensichtlich, dass sie dich gleich angreifen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Greift an!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Sie begibt sich in eine geduckte Kampfstellung, und du fragst dich, ob ihre Numenera an der Seite ihrer schlechtesten Eigenschaften hierher gebracht wurden.
+
+Dann hast du keine Zeit mehr, weiter nachzudenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Vor dir steht ein Muster von Matkina, der Matkina, die du in den Sagus-Klippen getroffen hast - der Weiße Tod, eine tödliche Assassine, die nur von Wut erfüllt ist. Du hast Glück, dass sie sich vollständig auf ein anderes Opfer konzentriert - ein hilfloses, unglückliches Wesen, das gerade von der Flor verschlungen wird. Sie genießt es, das Wesen zu quälen und sein Leiden zu verlängern. Ihr Gesicht ist wie eine grimmige Maske, und auf ihm liegt ein grausames, wildes Grinsen, das jegliche Menschlichkeit missen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich ... Ich würde so etwas niemandem antun. Nicht Aligern. Überhaupt niemandem. Ich war grausam, aber niemals aus Vergnügen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Seltsamerweise scheint ihn sein Doppelgänger in der Wand nicht zu irritieren, zumindest nicht zu Beginn. Er studiert die Tätowierungen näher. Dann schüttelt er den Kopf, um ihn frei zu machen, und sagt mit ironischem Unteron: "Ich habe schon immer vermutet, dass Matkina nicht viel für mich übrig hat."
+
+Er dreht sich zu dir. "Wirst du etwas dagegen unternehmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ich kenne dieses Gesicht", sagt sie leise. "Ich erinnere mich an das Gefühl. Aber ich habe niemals zum Vergnügen gequält."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ha. Sie braucht sicherlich *irgendeine* Möglichkeit, um ihre Wut rauszulassen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Sie hebt ihre Klinge, aber plötzlich scheint sie dich zu erkennen. Sie sieht dich untersuchend an, dein Gesicht, deine Haltung, deine Tätowierung ... und plötzlich hält sie sich zurück. Die Wut und der Hass verschwinden aus ihren Augen, und sie senkt ihre Klinge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Sie hebt ihre Klinge. Du hast den Nebel der Wut, den die Flor hinterlassen hast, offensichtlich noch nicht durchdrungen, und Matkina steht kurz davor, Blut zu vergießen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Deine Worte wirken wie ein Eimer kaltes Wasser in ihrem Gesicht. Sie blinzelt, ihre Vernunft scheint wieder zurückzukehren, und sie sieht dich mit ängstlicher und gequälter Mimik an. Ihre Stimme ist rau. "Wie ... wie bin ich hierher gekommen?"
+
+Sie wartet nicht auf deine Antwort. Sie wendet sich von dir ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Du sprichst, und sie lächelt. Du kannst die Klinge kaum sehen, als sie in deine Richtung und unter dein Kinn schnellt. 
+
+Ihr Lächeln lässt sie beinahe glückselig erscheinen. Während dein Blut von ihrer Klinge tropft, wartet sie darauf, dass du wieder sprichst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Jetzt, wo sich ihre Aufmerksamkeit auf dich richtet, machst du dich bereit. Sie jagt dich nach einigen Augenblicken bereits gnadenlos durch die Flor. Du wirfst einen kurzen Blick über deine Schulter. Sie hält ihre Klinge tief und ist bereit, zuzustechen. Ein schreckliches Lächeln liegt auf ihrem Gesicht.
+
+{COLIN: description feels to me like it requires a cutscene. I'm not sure having her chase you works as a solution to this.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Du rennst und siehst über deine Schulter, um sicherzugehen, dass sie dich verfolgt. Aber das tut sie nicht. Stattdessen hat sie ihre Aufmerksamkeit wieder ihrem ursprünglichen Opfer gewidmet. Sie streckt ihren Arm aus und entfernt einen weiteren Teil seiner Haut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Um sicherzugehen, dass ihre Aufmerksamkeit sich auf dich richtet, versetzt du ihr einen Schlag auf die Nase und rennst dann sofort weg. Mit einem wortlosen Schrei stürzt sie hinter dir her. Hinter einer Ecke verliert sie dich aus den Augen, und ihr Schreien legt sich sofort wieder.
+
+Du riskierst einen Blick um die Ecke und siehst, wie ihre Aufmerksamkeit nun den verschiedenen Opfern in den Wänden gilt.
+
+Ihr Hass verschwindet. Ihre Mimik sackt zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du willst dich umdrehen, um wegzurennen, stolperst aber über deine eigenen Füße. Über dir steht nun Matkinas Echo, wartend ... *hungrig* auf deine Qualen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Sie erbleicht, als sie deine ernste Stimme hört. Zusammenzuckend weicht sie zurück, und im selben Moment verschwindet der giftige, bösartige Ausdruck auf ihrem Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Sie grinst, immer stärker und immer furchterregender. Dann wendet sie sich wieder ihrem Opfer zu, um ihm noch mehr Fleisch zu rauben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Deine Worte wirken wie ein Eimer kaltes Wasser in ihrem Gesicht. Sie blinzelt, ihre Vernunft scheint wieder zurückzukehren, und sie sieht dich mit ängstlicher und gequälter Mimik an. Ihre Stimme ist rau. "Wie ... wie bin ich hierher gekommen?"
+
+Sie wartet nicht auf deine Antwort. Sie wendet sich von dir ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Ihr Messer bewegt sich beinahe zu schnell, um ihm folgen zu können, und sie schneidet damit eine klaffende Wunde auf dein Kinn. Ihre Stimme klingt rau. "Aufhören? Nein. *Anfangen.*"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Verwirrung und Verlust strahlen von ihrer Erscheinung aus. Sie hebt ihre Hand, sieht sie sorgfältig an und kniet dann nieder, um ihre Klinge abzulegen. Dann steht sie auf, lässt ihre Hände nicht aus den Augen, und geht fort. Du siehst zu, wie sie ihre Hände auf die Wände der Flor legt, und diese sie gierig in sich aufnehmen.
+
+{SCRIPT: Path Matkina to a nearby wall, despawn her}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Matkina, das bist nicht du. Deine Persönlichkeit wurde von der Flor verändert, und nur deine schlechten Charakterzüge sind geblieben. Du kannst dagegen ankämpfen. Du kannst es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Matkina, du bist keine so schlechte Person. Sieh über den Hass hinweg, den die Flor dir in den Kopf gepflanzt hat."
+
+{COLIN/GEORGE: It seems strange that the player could retry this persuasion and each time she just "raises her blade" but doesn't attack. Maybe not allow a retry? Or have a follow-up failure that is attack?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Du sprintest um eine Ecke, sodass sie dich aus den Augen verliert, und ihre Schritte verstummen sofort. Du riskierst einen Blick um die Ecke und siehst, wie ihre Aufmerksamkeit nun den verschiedenen Opfern in den Wänden gilt.
+
+Ihr Hass verschwindet. Ihre Mimik sackt zusammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Versuchen, sie von ihrem Opfer abzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Erneut versuchen, sie von ihrem Opfer abzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Matkina! Hör sofort damit auf!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ich habe gesagt, du sollst damit aufhören!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Moment mal! Ihr Opfer ist Aligern - oder zumindest ein Aligern, der in den Wänden der Flor gefangen ist, und langsam von ihrem Fleisch aufgenommen wird. Seine Tätowierungen wurden von seinen Armen gesaugt und neben ihm ausgelegt wie banale Höhlenmalereien. Seine Extremitäten sind gefangen, er kann sich nicht gegen ihre Angriffe wehren. Er schreit vor Schmerzen und lacht gleichzeitig wahnsinnig. "Es ist deine Schuld, Verstoßener! Du und dein verdammter Erzeuger! Ihr habt die Welt zerstört!"</DefaultText>
+      <FemaleText>Moment mal! Ihr Opfer ist Aligern - oder zumindest ein Aligern, der in den Wänden der Flor gefangen ist, und langsam von ihrem Fleisch aufgenommen wird. Seine Tätowierungen wurden von seinen Armen gesaugt und neben ihm ausgelegt wie banale Höhlenmalereien. Seine Extremitäten sind gefangen, er kann sich nicht gegen ihre Angriffe wehren. Er schreit vor Schmerzen und lacht gleichzeitig wahnsinnig. "Es ist deine Schuld, Verstoßene! Du und dein verdammter Erzeuger! Ihr habt die Welt zerstört!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Das bin ich nicht, Aligern. Das bin ich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Sie krächzt zurück, ihre Stimme rau und vertrocknet: "Es interessiert mich einen Scheiß, was du mir gesagt hast. Kämpfe. Oder stirb."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Als du dich diesmal umdrehen willst, um wegzurennen, schnellt ihre Hand zu deinem Kragen und hält dich fest. Du drehst dich um, und sie wirbelt mit ihrer Klinge von einer Seite zur anderen.
+
+Es ist klar, was sie damit sagen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4221_second_patrol_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sobald er bemerkt, dass du keine Murde bist, leuchtet sein Gesicht mit hektischer Hoffnung auf. "Oh, Dank sei den Göttern, dass du gekommen bist. Wenn du uns befreien kannst, dann kannst du Brusca, oder der Memovira selbst deine Belohnung nennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Wie seid Ihr hierhergekommen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Es gibt einen Schlüssel bei der Tür, Freund," sagt er. "Verwende einfach den und... fabelhaft," beendigt er, als du ihm und seinem Freund aufsperrst. "Kann ich dich noch um etwas anderes bitten? Bei dem Zustand, indem Zebbak sich befindet, gibt es keinen Weg, wie wir hier lebendig wieder rauskommen... zumindest nicht bei den Murden, die den Eingang beobachten. Kannst du etwas gegen sie unternehmen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Lebt wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Wie wurdest du behandelt?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Sie geben uns hin und wieder mal eine Schüssel Fraß, aber ich wage es nicht, sie zu essen. Wenn ich es als Nachttopf benutzen würde, könnte man den Unterschied nicht erkennen. Ansonsten ignorieren sie Zebbak und mich. Das heißt, wenn man nicht das eine Mal mitzählt, dass eine von ihnen hier reinkam un ein paar Stücke von Pehle gefressen hat. Sie halten uns frisch, das glaube ich, anstatt das sie uns vergammeln lassen. Unsere Zeit wird kommen. Da bin ich mir sicher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Er stupst seinen Gefährten an, und beide schauen mit ihren Schmerzerfüllten Augen voll Hoffnung zu dir. "Ist der Weg frei? Bist du die Murdenwachen am Eingang losgeworden?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Der Weg ist frei. Ihr solltet euch jetzt in Sicherheit bringen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>(Lüge) "Der Weg ist frei. Ihr solltet euch jetzt in Sicherheit bringen können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wartet erstmal hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Du hast unseren Dank, Freund. Lebwohl."</DefaultText>
+      <FemaleText>"Du hast unseren Dank. Lebwohl."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Wenn ihr euch in der nächsten Zelle versteckt, dann sage ich den Murdenwachen, dass ihr entkommen seid. Das sollte euch Zeit verschaffen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ein guter Plan. Wir werden dort auf dich warten. Sobald du uns Bescheid sagst, wenn der Weg frei ist, werden wir wegrennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sind sie abgelenkt? Können wir losrennen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Zwei Männer teilen sich diese Zelle. Beide tragen die Rüstung von Memoviras Soldaten. Ein dritter Soldat liegt leblos auf dem Boden.
+
+Einer der Überlebenden ist schwer verletzt, er blutet und hält seine Seite fest. Der andere - ein jüngerer Mann - scheint unversehrt. Seine Hände sind mit rostigen Handschellen gebunden, und er schaut triefäugig zu dir hinauf, als ob er das Fleischerbeil erwartet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Bist du gekommen, uns zu befreien? Ich halte es nicht viel länger aus, hier gefangen zu sein..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Sie beide befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Sag mir nochmal, wie ihr hierhergekommen seid."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Lebt wohl? Du lässt uns hier zum Sterben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wir werden Brusca von dir erzählen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Wir sind schon lange regelmäßig diese Route abgelaufen. Schon sehr lange. Wir hatten noch nie zuvor Schwierigkeiten mit den Murden - Sie hatten immer ihren Tribut gezahlt, also hatten wir keinen Grund zur Annahme, dass... dass sie versuchen würden uns einfach abzuschlachten. Wir wehrten uns, und wir überlebten den Kampf, aber..." Er gestikuliert zu seinem Kumpanen. "Ich weiß nicht, wieviel länger er noch überlebt. Wir brauchen deine Hilfe, um hier rauszukommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Es war die gewöhnliche Eintreib-Route. Wir hätten nie gedacht, dass..."
+
+Sein verwundeter Kumpane stöhnt leise, und der jüngere Mann legt ihm die Hand auf, um ihn zu beruhigen. "Halte durch, Zebbak."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Aber... lass uns nicht einfach zum Sterben hier."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

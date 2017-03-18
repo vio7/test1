@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_a_call_to_war</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ein Ruf zu den Waffen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Versuche es, fünf Kriegsveterane zu rekrutieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kehre zu Clarion zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Einen Rekrutiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Zwei Rekrutiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Drei Rekrutiert</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ausgetrieben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Eine Frau namens Clarion bat mich, einige erfahrene Krieger zu überzeugen, in der Endlosen Schlacht zu kämpfen. Bisher sind ihre Versuche, sie unzustimmen, gescheitert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Clarion verweilt in der Schenke des Fünften Auges, um zu versuchen, fünf erfahrene Krieger zu rekrutieren, nämlich Dhama, Theboros, Leto, Feroik und Ziobe. Sie will, dass ich so viele von ihnen wie möglich dazu überrede, in der Endlosen Schlacht zu kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich bin sicher, dass meine Rekrutierungsbemühungen ein Ende gefunden haben. Ich habe von allen erfahrenen Kriegern endgültige Antworten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich bekam es nur hin, einen der erfahrenen Krieger zu rekrutieren. Clarion war dankbar, wenn auch nicht beeindruckt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe zwei der erfahrenen Krieger rekrutiert. Clarion war vont meinen Bemühungen beeindruckt und belohnte mich gut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Clarion war erstaunt, dass ich es hinbekam, drei der erfahrenen Krieger umzustimmen, dass sie in der Endlosen Schlacht kämpfen. Sie sagt, dass ihre Anwesenheit einen gewaltigen Unterschied auf dem Schlachtfeld machen werden, und wenn die erfahrenen Krieger überleben, wird die Erfahrung ihre psychischen Fähigkeiten stärken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Auf Ferioks Anfrage vertrieb ich Clarion aus der Schenke. Ich bekam den Eindruck, dass sie dort nicht willkommen war und dass die Krieger nicht darauf aus waren, in noch einem Krieg zu kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich ließ die Sagusklippen hinter mir, und ich weiß nicht, wann oder ob ich zurückkehre. Clarion wird ihre Rekrutierbemühungen selbst erledigen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Die Namen der fünf Mentalkrieger sind Dhama, Theboros, Leto, Feriok und Ziobe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Nun, da der letzte Widersacher vernichtet ist, willigte Dhama ein, in der Endlosen Schlacht zu kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Dhama wurde vom letzten Widersacher getötet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Leto willigte ein, in der Endlosen Schlacht zu kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Theboros willigte ein, in der Endlosen Schlacht zu kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Theboros unterlag dem waffenfähigen Meme und ist jetzt tot.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Feriok weigert sich unter allen Bedingungen, das Fünfte Auge zu verlassen. Er schlug auch vor, dass ich Clarion bitte, die Schenke zu verlassen – ihre weitergehenden Bemühungen, ihn und seine Freunde zu rekrutieren sind offenbar nicht willkommen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Ziobe machte es deutlich, dass sie des Kämpfens müde ist und sich weigert, in der Endlosen Schlacht zu kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Leto wird nicht an der Endlosen Schlacht teilnehmen, doch sie bot mir stattdessen ein Vermittlungsgeschenk an. Sie benutzte ihre psychischen Kräfte, um mir die Welt zu zeigen, wie sie sie sieht – ein großer Bildteppich an Möglichkeiten. Dann flüsterte sie mir ein komisches Wort zu, das ich nicht verstehen konnte, aber sie behauptete, dass es mir helfen wird, bei einem sehr gefährlichen Moment in meiner Zukunft zu überleben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Theboros weigerte sich, in der Endlosen Schlacht zu kämpfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Dhama zieht es nicht in Erwägung, das Fünfte Auge zu verlassen, bis der letzte Widersacher besiegt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Leto scheint Dhama gewidmet zu sein. Sie wird ihn nicht verlassen, bis er sicher ist, dass der letzte Widersacher weg ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Theboros sagt, dass er nicht in der Endlosen Schlacht kämpft, während der letzte Widersacher immernoch eine Bedrohung darstellt. Er deutete es auch an, dass er selber einige Schwierigkeiten hat...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Theboros gab zu, dass er die allerletzte Person in der Welt ist, die die tödlichen Worte von Qra weiß, und er muss sich entscheiden, wie er mit ihnen fertig wird. Bis dahin verlässt er nicht das Fünfte Auge.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3101_perseiaandomahdon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Und das bedeutet, dass die Frau mit den purpurnen Haaren Perseia ist – die Frau, bei deren Suche Ihr ihm geholfen habt. Sie wendet sich Euch zu, mit Wut in den Augen.
+ 
+ "Ihr. Hallo. Würdet Ihr ihm bitte sagen, mich in Ruhe zu lassen?", sagt sie durch die Zähne. "Er hört nicht auf mich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Es ist mein Fehler. Ich habe versucht, zu lügen, was deinen Standort angeht, aber er hat es durchschaut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ich bin derjenige, der ihm gesagt hat, wo du bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Du hast sie gehört. Lass sie in Ruhe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Und das ist gut so!", sagt Omahdon. "Dies ist kein Ort für dich, meine Liebe. Nicht mehr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Und danke dir, lieber Freund", sagt er. "Sie wird schon noch zu ihren Sinnen zurückkehren. Ich weiß es."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Mein Freund, du hast es falsch verstanden", sagt Omahdon. "Dies ist genau der Zustand, den dir zuvor beschrieben habe – sie schaut mich an, die Liebe ihres Lebens – und sieht einen Feind." Er versucht, eine beruhigende Hand an ihre Wange zu legen, und sie schlägt sie weg. Sein Ausdruck verhärtet sich. 
+ 
+ "Danke, dass du uns wiedervereint hast, mein Freund", sagt er. In seinem Lächeln ist jetzt nackte Bosheit zu erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Perseia wirft dir einen vernichtenden Blick zu. 
+ 
+ "Oh, danke *vielmals*", spuckt sie aus. "Geht einfach. Geht, ehe Ihr mir noch weiter helft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Diese Frau studiert die Nekropolis und ignoriert dich völlig. Etwas an ihr erscheint dir vertraut, auch wenn du dir ziemlich sicher bist, dass du sie nie zuvor gesehen hast. Ihr Bildnis hängt zusammen mit ... der Karawanserei?
+ 
+ Du schüttelst den Kopf. Sie ist niemand, den dein Vorgänger kannte. Vielleicht hast du nur von ihr gehört oder sie im Vorbeigehen gesehen.
+ 
+ Sie spürt deinen Blick und dreht sich mit erhobenen Brauen um.</DefaultText>
+      <FemaleText>Diese Frau studiert die Nekropolis und ignoriert Euch völlig. Etwas an ihr erscheint Euch vertraut, auch wenn Ihr ziemlich sicher seid, dass Ihr sie nie zuvor gesehen habt. Es hat irgendwie zu tun mit ... Karawanserei?
+ 
+ Ihr schüttelt den Kopf. Sie ist niemand, den Euer Vorgänger kannte. Vielleicht habt Ihr nur von ihr gehört oder sie im Vorbeigehen gesehen.
+ 
+ Sie spürt Euren Blick und dreht sich mit erhobenen Brauen um.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du erkennst diese Frau aus der Beschreibung, die Omahdon dir in Sagus Klippen gab. Das ist Perseia, Omahdons 'verlorene Liebe'. Sie wirkt sicherlich nicht so verwirrt, wie Omahdon sie beschrieben hat. Stattdessen studiert sie die Nekropolis mit frustriertem Gesichtsausdruck.</DefaultText>
+      <FemaleText>Ihr erkennt diese Frau aus der Beschreibung, die Omahdon Euch in Sagus Klippen gab. Dies ist Perseia, Omahdons 'verlorene Liebe'. Sie wirkt sicherlich nicht so verwirrt wie Omahdon sie beschrieben hat. Stattdessen studiert sie die Nekropolis mit frustriertem Gesichtsausdruck.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Meine Liebe, bitte! Du kannst nicht klar denken!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>::murmelt::</DefaultText>
+      <FemaleText>::murmelt::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Er würde mir nicht hierher folgen ... oder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Geh weg!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Du bist Perseia, nicht wahr? Ein Mann namens Omahdon ist auf der Suche nach dir. Ich habe ihn überredet, es aufzugeben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Du bist Perseia, nicht wahr? Ein Mann namens Omahdon ist auf der Suche nach dir. Ich habe ihn in die falsche Richtung geführt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Du bist Perseia, nicht wahr? Ein Mann namens Omahdon ist auf der Suche nach dir. Die Gastwirtin Ruhe und ich haben dem ein Ende gesetzt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>::knurrt::</DefaultText>
+      <FemaleText>::knurrt::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Du hast was?", sagt sie und wirbelt herum. Ihre Augen sind weite, blasse Kreise. "Und su seid sicher, dass er dir nicht trotzdem gefolgt ist?"
+ 
+ Sie studiert dein Gesicht und entspannt sich. "Danke. Du hast ja keine Ahnung, wie sehr du mir geholfen hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Du hast was?", sagt sie und wirbelt herum. Ihre Augen sind weite, blasse Kreise. Sie studiert dein Gesicht, lächelt ein wenig und entspannt sich. "Gut. Ich hoffe, die 'falsche Richtung' war ein Glutschlot."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Du hast was?", sagt sie und wirbelt herum. Ihre Augen sind weite, blasse Kreise. Sie studiert dein Gesicht, lächelt ein wenig und entspannt sich. "Gut. Ich hoffe, was auch immer ihr getan habt, war von Dauer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ich versuche, in die Nekropolis zu gelangen", sagt sie. "Diese verdammten Kultisten lassen aber niemanden in die Nähe."
+ 
+ Sie begegnet deinem Blick. "Vergiss es. Nichts davon geht euch etwas an."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Was tust du hier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Kenne ich dich?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Nein", sagt sie, nachdem sie dein Gesicht eine Weile studiert hat. "Entschuldigung, aber ich bin nicht in der Stimmung für Gesellschaft."
+ 
+ Sie widmet ihren Blick wieder der Nekropolis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Sie wendet sich wieder der Nekropolis zu. 
+ 
+ "Verdammte Kultisten", murmelt sie. "Ich muss wieder reinkommen, aber ich kann nicht riskieren ... "
+ 
+ Sie begegnet deinem Blick. "Vergiss es. Nichts davon geht dich etwas an. Du hast mehr als genug getan."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Das ist etwas, das ich selbst regeln muss."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>::seufzt::</DefaultText>
+      <FemaleText>::seufzt::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Zuerst ignoriert dich diese Frau völlig. Ihre wütende Aufmerksamkeit widmet sich vollständig dem bebrillten Mann neben ihr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du erkennst ihn sofort als ... Omahdon. Der Mann, der seine verlorene Liebe in Karawanserei gesucht hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Lass mich in Ruhe! Du hast genug Schaden angerichtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Du weißt nicht, *was* ich denke. Lass mich in Ruhe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich war schon auf beiden Seiten dieses erbärmlichen, kleinen Tanzes,“ murmelt Tybir. "Das Leben wäre deutlich einfacher, wenn *jeder* die Hinweise verstände, die in ihre Richtung geworfen werden.“</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

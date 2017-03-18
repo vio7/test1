@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_steristi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Beinahe jeder Zoll des Körpers dieses Kaufmanns ist mit stramm gewickelten Roben und Fellen bedeckt. Eine Haube verdeckt seinen Kopf und eine Maske verbirgt sein Gesicht. Er liebkost eine gerissene, uralte Schriftrolle mit dunklen Fingern.  
+
+Er bemerkt dich und tippt seinem ähnlich gekleideten Partner auf die Schulter, wodurch er einen Fleck faseriger Tinte hinterlässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Der schweigende Kaufmann fährt mit dunklen Fingern über eine zerrissene Schriftrolle. Er scheint dich so höflich wie möglich zu ignorieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Man schneidet Löcher in die Seite, und Tinte tritt hervor ... beinahe so, als würde man sie tätowieren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Steristi zuckt überrascht zusammen ... dann hebt er einen einzelnen zusammengewachsenen Finger hoch, um es dir zu zeigen. 
+
+Er fährt fort, die Schriftrolle zu restaurieren, doch langsamer, so dass du zusehen und verstehen kannst. Schließlich begreifst du. Die Seite ist kein einfacher Einkaufszettel oder modriges Traktat. Steristis Methoden wären wohl anders, wenn es so wäre. 
+
+Die Schriftrolle ist lebendig, und Steristi weckt sie vorsichtig und methodisch. Die frische Tinte glänzt so hell wie das erwachende Auge eines Schläfers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Als die Schriftrolle vollständig restauriert ist, blinkt die Tinte. Die Seite zerknüllt sich schlagartig selbst und geht in Flammen auf. Keiner der Kaufleute reagiert in irgendeiner Weise darauf. 
+
+Als der Rauch sich legt, zupft Steristi einen Gegenstand aus dem Aschehaufen. Der Kaufmann ergreift dein Handgelenk (und hinterlässt dabei Fingerabdrücke aus Tinte), lässt das Objekt in deine Hand fallen und umschließt es dann mit selbiger. 
+
+Dann nimmt sich Steristi eine weitere verblichene Seite von einem Stapel und fängt von vorne an.
+{BEUTE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Mit ausgebreiteten Fingern gleiten die Hände des Kaufmanns über ein verblichenes Pergamentpapier, wobei sie das unscheinbare Geräusch von kratzenden Federn von sich geben. Leuchtende Buchstaben einer unbekannten Sprache erscheinen daraufhin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Der Kaufmann restauriert die Arbeit, die einst auf dieser Schriftrolle niedergeschrieben wurde – er verfasst sie nicht. Dessen bist du dir sicher. Doch scannt er sie in irgendeiner Weise? Oder bringt er den Text dazu, auf der Seite zu erscheinen?
+
+Als du genauer hinsiehst, kannst du erkennen, dass Steristis Finger sich zu ringelnden Fäden ordnen, die die verblassten Buchstaben darunter schmecken, ehe sie die Seite selbst durchstechen. Frische Tinte quillt aus den Löchern hervor und bildet Wörter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Der Kaufmann streicht erneut mit einer Hand über die Seite und Ihr hört das Federkratzen auf dem Papier.  Dunkle Buchstaben tauchen aus dem Schatten dieser Hand auf, als wären sie von unter der Seite hervorgezogen worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Beobachte Steristis Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Beobachte Steristis Arbeit etwas länger.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Lebt wohl."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>::kratz::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Falinda erkannte den Dieb auf Anhieb", sagt die Kreatur und verschränkt die gewickelten Arme. "Vielleicht glaubte er, indem er mit Steristi sprach, Falindas Wahrnehmung zu entkommen. Doch unglücklicherweise für ihn geschah dies niemals."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Warum erzählt Euer Partner mich nach?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Warum sprecht Ihr nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Steristi ignoriert dich oder hört dich nicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Der Kaufmann bemerkt deine Frage nicht im Geringsten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

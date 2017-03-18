@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2331_musical_statue_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Warme Sehnen aus Licht bördeln die Wände und winden sich in den Sockel einer hohlen Statue. Sie schimmert in der gleichen Farbe wie die glühenden Fäden. Schwache Kratzer entlang des Sockels, in der Größe einer Stichus-Kralle, lassen darauf vermuten, dass sie beim Untertunneln auf die Statue trafen und nicht herausziehen konnten.</DefaultText>
+      <FemaleText>Warme Sehnen aus Licht bördeln die Wände und winden sich in den Sockel einer hohlen Statue. Sie schimmert in der gleichen Farbe wie die glühenden Fäden. Schwache Kratzer entlang des Sockels, in der Größe einer Stichus-Kralle, lassen darauf vermuten, dass sie beim Untertunneln auf die Statue trafen und nicht herausziehen konnten.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Die zylinderförmige Trommel und die sich windenden Rohre, aus denen diese Statue besteht, sind untätig und ruhig.</DefaultText>
+      <FemaleText>Die zylinderförmige Trommel und die sich windenden Rohre, aus denen diese Statue besteht, sind untätig und ruhig.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Runde Rohre mit Öffnungen verschiedener Größen führen zu einer Trommel in der Mitte. Eine sanfte Brise aus dem neu gegrabenen Bau hinter dir summt über die Öffnungen hinweg.</DefaultText>
+      <FemaleText>Runde Rohre mit Öffnungen verschiedener Größen führen zu einer Trommel in der Mitte. Eine sanfte Brise aus dem neu gegrabenen Bau hinter dir summt über die Öffnungen hinweg.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Puste in eine der Öffnungen.</DefaultText>
+      <FemaleText>Puste in eine der Öffnungen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Schlage auf die Trommel in der Mitte der Statue.</DefaultText>
+      <FemaleText>Schlage auf die Trommel in der Mitte der Statue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Lass die Statue in Ruhe.</DefaultText>
+      <FemaleText>Lass die Statue in Ruhe.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Das kräuselnde Muster wirbelt weiter auf der Oberfläche der Trommel in der Mitte der Statue.</DefaultText>
+      <FemaleText>Das kräuselnde Muster wirbelt weiter auf der Oberfläche der Trommel in der Mitte der Statue.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Die sanften, hypnotischen Schwingungen dröhnen noch immer von der Statue. Es ist zu subtil, um aus mehr als ein paar Metern Entfernung spürbar zu sein. Bevor die Statue beschädigt wurde, waren die Geräusche vermutlich über größere Entfernung hörbar.</DefaultText>
+      <FemaleText>Die sanften, hypnotischen Schwingungen dröhnen noch immer von der Statue. Es ist zu subtil, um aus mehr als ein paar Metern Entfernung spürbar zu sein. Bevor die Statue beschädigt wurde, waren die Geräusche vermutlich über größere Entfernung hörbar.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Dein Magen dreht sich um, als dich eine Welle vibrierender Luft für den Bruchteil einer Sekunde hin- und herwirft. Goldenes Licht strömt von den Nähten in die Statue und bildet ein Schleifenmuster in der Mitte der Trommel.</DefaultText>
+      <FemaleText>Dein Magen dreht sich um, als dich eine Welle vibrierender Luft für den Bruchteil einer Sekunde hin- und herwirft. Goldenes Licht strömt von den Nähten in die Statue und bildet ein Schleifenmuster in der Mitte der Trommel.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Greife in die nächste Öffnung.</DefaultText>
+      <FemaleText>Greife in die nächste Öffnung.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Im Inneren des Rohrs spürst du ein Stück lockeren Materials. Mit einem leichten Zug lässt es sich lösen. Welche Technologie diese Statue auch dargestellt haben mag, wurde durch Grabungen und die Zeit verschließen. Die Fragmente könnten sich dennoch als nützlich erweisen.</DefaultText>
+      <FemaleText>Im Inneren des Rohrs spürst du ein Stück lockeren Materials. Mit einem leichten Zug lässt es sich lösen. Welche Technologie diese Statue auch dargestellt haben mag, wurde durch Grabungen und die Zeit verschließen. Die Fragmente könnten sich dennoch als nützlich erweisen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Nach einem Augenblick stottert das Geräusch und verstummt, die schmächtigen Spuren des Musters glühen jedoch weiterhin auf der Oberfläche. Es hat ungefähr die Größe einer menschlichen Hand, obwohl die Form eher einem Dutzend Tentakeln gleicht.</DefaultText>
+      <FemaleText>Nach einem Augenblick stottert das Geräusch und verstummt, die schmächtigen Spuren des Musters glühen jedoch weiterhin auf der Oberfläche. Es hat ungefähr die Größe einer menschlichen Hand, obwohl die Form eher einem Dutzend Tentakeln gleicht.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Lege deine Hand auf die Lichtspuren.</DefaultText>
+      <FemaleText>Lege deine Hand auf die Lichtspuren.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Das gleiche Geräusch, das du zuvor gehört hast, rasselt durch deine Gedärme. Es stottert, doch hält an, wobei sich das Geräusch im Laufe der Jahrtausende verschlechtert hat. Obwohl das Geräusch unterbrochen ist, so hat es doch etwas Faszinierendes an sich, das deine Aufmerksamkeit auf sich lenkt. Du entziehst ihm deine Aufmerksamkeit, doch die Wirkung könnte viel stärker sein, wenn die Statue noch intakt wäre – vor allem bei einem Wesen mit nicht-menschlicher Psychologie.</DefaultText>
+      <FemaleText>Das gleiche Geräusch, das du zuvor gehört hast, rasselt durch deine Gedärme. Es stottert, doch hält an, wobei sich das Geräusch im Laufe der Jahrtausende verschlechtert hat. Obwohl das Geräusch unterbrochen ist, so hat es doch etwas Faszinierendes an sich, das deine Aufmerksamkeit auf sich lenkt. Du entziehst ihm deine Aufmerksamkeit, doch die Wirkung könnte viel stärker sein, wenn die Statue noch intakt wäre – vor allem bei einem Wesen mit nicht-menschlicher Psychologie.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Im Inneren des Rohrs spürst du ein Stück lockeren Materials. Mit einem leichten Zug lässt es sich lösen. Welche Technologie diese Statue auch dargestellt haben mag, wurde durch Grabungen und die Zeit verschließen. Die Fragmente könnten sich dennoch als nützlich erweisen.</DefaultText>
+      <FemaleText>Im Inneren des Rohrs spürst du ein Stück lockeren Materials. Mit einem leichten Zug lässt es sich lösen. Welche Technologie diese Statue auch dargestellt haben mag, wurde durch Grabungen und die Zeit verschließen. Die Fragmente könnten sich dennoch als nützlich erweisen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Im Inneren des Rohrs spürst du ein Stück lockeren Materials. Mit einem leichten Zug lässt es sich lösen. Welche Technologie diese Statue auch dargestellt haben mag, wurde durch Grabungen und die Zeit verschließen. Die Fragmente könnten sich dennoch als nützlich erweisen.</DefaultText>
+      <FemaleText>Im Inneren des Rohrs spürst du ein Stück lockeren Materials. Mit einem leichten Zug lässt es sich lösen. Welche Technologie diese Statue auch dargestellt haben mag, wurde durch Grabungen und die Zeit verschließen. Die Fragmente könnten sich dennoch als nützlich erweisen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Tybir kichert. "Das Ding erinnert mich an ein Mädchen, das ich einst Flöte spielend in Aian gesehen habe. Ein Rudel von Herren stolperte hinter ihr her, geradewegs gefesselt. Könnte an ihrer Musik gelegen haben, aber auch daran, dass sie splitternackt war. Trotzdem kann ich mich am meisten an ihr Lächeln erinnern."</DefaultText>
+      <FemaleText>Tybir kichert. "Das Ding erinnert mich an ein Mädchen, das ich einst Flöte spielend in Aian gesehen habe. Ein Rudel von Herren stolperte hinter ihr her, geradewegs gefesselt. Könnte an ihrer Musik gelegen haben, aber auch daran, dass sie splitternackt war. Trotzdem kann ich mich am meisten an ihr Lächeln erinnern."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Callistege hebt eine Braue. "Faszinierend. Scheint eine psychische Wirkung zu haben. Der hier ist kaputt und er scheint nicht auf Menschen eingestellt zu sein, ein nicht zu maroder Apparat könnte jedoch eine erhebliche Wirkung auf ein anderes Wesen haben."</DefaultText>
+      <FemaleText>Callistege hebt eine Braue. "Faszinierend. Scheint eine psychische Wirkung zu haben. Der hier ist kaputt und er scheint nicht auf Menschen eingestellt zu sein, ein nicht zu maroder Apparat könnte jedoch eine erhebliche Wirkung auf ein anderes Wesen haben."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Ein raues Grollen entflieht Aligerns Rachen. "Hm, psychische Wirkung. Der Apparat ist kaputt und wurde vermutlich nicht für Menschen gebaut, doch wenn er gegen die richtigen Kreaturen eingesetzt wird, könnten sie dadurch eine Weile entzückt sein."</DefaultText>
+      <FemaleText>Ein raues Grollen entflieht Aligerns Rachen. "Hm, psychische Wirkung. Der Apparat ist kaputt und wurde vermutlich nicht für Menschen gebaut, doch wenn er gegen die richtigen Kreaturen eingesetzt wird, könnten sie dadurch eine Weile entzückt sein."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ich habe einen davon schon einmal gesehen. In einem anderen Tunnel unterhalb von Sagus. Er war nicht kaputt und lockte Murdens an, als ob sie dem Apparat nicht widerstehen konnten. Ich wurde angeheuert, um ihn abzuschalten und die Unmenschen zu erledigen. Kurz nachdem ich den Apparat abgeschaltet hatte, schienen sie aufzuwachen. Keine Ahnung, wie sie dorthin geraten waren. Dann habe ich sie erledigt. Naja, du weißt schon, Murdens eben."</DefaultText>
+      <FemaleText>"Ich habe einen davon schon einmal gesehen. In einem anderen Tunnel unterhalb von Sagus. Er war nicht kaputt und lockte Murdens an, als ob sie dem Apparat nicht widerstehen konnten. Ich wurde angeheuert, um ihn abzuschalten und die Unmenschen zu erledigen. Kurz nachdem ich den Apparat abgeschaltet hatte, schienen sie aufzuwachen. Keine Ahnung, wie sie dorthin geraten waren. Dann habe ich sie erledigt. Naja, du weißt schon, Murdens eben."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Während das Grollen anhält, funkelt Energie die Adern im Felsen entlang, die in den Apparat führen.</DefaultText>
+      <FemaleText>Während das Grollen anhält, funkelt Energie die Adern im Felsen entlang, die in den Apparat führen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Die zylinderförmige Trommel und die sich windenden Rohre, aus denen diese Statue besteht, sind untätig und ruhig.</DefaultText>
+      <FemaleText>Die zylinderförmige Trommel und die sich windenden Rohre, aus denen diese Statue besteht, sind untätig und ruhig.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Die zylinderförmige Trommel und die sich windenden Rohre, aus denen diese Statue besteht, sind untätig und ruhig.</DefaultText>
+      <FemaleText>Die zylinderförmige Trommel und die sich windenden Rohre, aus denen diese Statue besteht, sind untätig und ruhig.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Die krummen Metalladern, die die Felswände durchziehen, dämpfen den Lärm des Gerätes. Unwahrscheinlich, dass man es außerhalb dieses Raumes hören kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

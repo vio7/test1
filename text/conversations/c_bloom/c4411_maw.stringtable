@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_maw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das Fleisch des Schlundes ist dunkel und faulig. Er bleibt fest verschlossen, wie der Mund eines alten Weibes. Du kannst seine Stimmen hören, sie hören sich ungewöhnlich beißend ... fast schon schmerzvoll an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Das dunkle, faulige Fleisch des Schlundes bleibt verschlossen. Seine Stimmen sind leise und sprechen von einem Hauch Grausamkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lass den Schlund in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Schneide den Schlund mit dem Transdimensionalen Skalpell auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Als du das Skalpell schwingst, legt Matkina ihre Hand über deine. "Warte. Ich habe noch nie gehört, dass jemand den Flor grundlos verletzt. Selbst ein Verstoßener hat Grund, sich zu fürchten. Bist du dir da sicher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sie öffnet den Mund, um zu antworten und nimmt dann die Hand weg. Sie zuckt die Achseln. "Deine Show."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vielleicht nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Du steckst die Transdimensionale Klinge wieder in den Schaft. Eine Spannung liegt in der Luft. Dir fiel auf, dass die Stimmen des Flors kurz verstummt sind, als du das Skalpell gezogen hattest, aber jetzt sind sie wieder da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du stößt mit dem Skalpell in das feste, faserige Fleisch des Schlundes und beginnst, durch seinen faltigen 'Mund' zu schlitzen. Er gibt mit Leichtigkeit nach, und die Stimmen der Flor antworten mit einem wuterfüllten Kreischen. Haut und Knorpel zerreißen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Du stößt mit dem Skalpell in das feste, faserige Fleisch des Schlundes und beginnst, durch seinen faltigen 'Mund' zu schlitzen. Die Stimmen der Flor antworten mit einem wuterfüllten Kreischen. Haut und Knorpel zerreißen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>… und der Schlund öffnet sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Verwende den Magmatischen Ring, um herauszufinden, was der Schlund möchte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Du legst eine Hand auf den Ring und hörst den harschen, flüsternden Stimmen sorgfältig zu. Abscheu zischt in deine Ohren, der über Jahrhunderte, wenn nicht sogar Jahrtausende im Innern der Flor gekocht haben muss.
+
+Verzweiflung ... nach dieser Emotion dürstet es dem Schlund. Tatsächlich ist es die einzige Emotion, die er zu verstehen scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Den Stimmen des Schlundes lauschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Erneut den Stimmen des Schlundes lauschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Das 'Wasser' der Flor lässt deine Gedanken verschwimmen ... und doch erscheint dir ihr Zischen plötzlich fast wie eine Sprache, ihre Bedeutung halb vergessen.
+
+Es spricht von *Verzweiflung* ... über Jahrhunderte, wenn nicht sogar Jahrtausende hinweg im fauligen Innern der Flor geboren. Das muss die Emotion sein, nach der es den Schlund dürstet. Vielleicht die einzige Emotion, die er versteht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Die Stimmen spucken und zischen, die Bedeutung ihrer Laute bleibt dir verschlossen, auch wenn sie zweifellos grausam sein muss. Dennoch kommt es dir so vor, als würde sich der Zorn des Schlundes nicht gegen dich richten. Er scheint auf deine Anwesenheit gar nicht zu reagieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du kannst nichts Neues in den Stimmen erkennen. Sie sind noch immer rau und böswillig ... und gleichzeitig nicht an dir interessiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Deine scharfen Sinne bieten dir keinen bestimmten Vorteil beim Hören der seltsamen Geräusche. Dir wird klar, dass die Flor-‘Stimmen‘ ein psychisches Phänomen sind und kein körperliches. Sie sind förmlich Stimmen in deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Deine Sinneseindrücke der Stimmen um den Schlund geben dir keine neuen Erkenntnisse ... sein Hunger wird nur von Verzweiflung gestillt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Beobachte das Verhalten der Flor-Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Beobachte noch einmal das Verhalten der Flor-Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Tentakel fuchteln ziellos in der Luft umher. Sie scheinen von nichts in ihrer Umgebung besonders angezogen zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

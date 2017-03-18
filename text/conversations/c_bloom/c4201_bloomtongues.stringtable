@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4201_bloomtongues</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>120</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine wabernde Masse aus Tentakeln steigt aus dem Boden empor. Sie erinnern dich an die 'Zungen', die einen Schlund umgeben. Sie wirbeln und schlängeln sich umeinander und machen dabei ein feuchtes, unangenehmes Geräusch.
+
+{SOUND: We should hear the soft, disgusting sounds of the tongues as described here. We should also hear the whispering voices of the Bloom while in this dialogue. Note that they should get louder after the player touches the Magmatic Annulet (as noted in child nodes of 113).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Den Handelsposten auf seine ursprüngliche Position zurückbewegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Endlich öffnest du deine Augen, und das Rütteln lässt nach. Der blockierte Gang öffnet sich ... und du hörst erstaunte Rufe von der anderen Seite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Flor-Zungen machen feuchte, unangenehme Geräusche, als sie sich winden und umeinander schlängeln.
+
+{SOUND: We should hear the soft, disgusting sounds of the tongues as described here. We should also hear the whispering voices of the Bloom while in this dialogue. Note that they should get louder after the player touches the Magmatic Annulet (as noted in child nodes of 113).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Aus deinen Augenwinkeln heraus kannst du eine dezente Veränderung in Matkinas Bewegungen erkennen, eine Spannung, die dir sagt, dass sie so etwas schon einmal erlebt hat. Ihr Verhalten spricht von Vorsicht, aber nicht von Angst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als du dich dem Gewusel aus Zungen näherst, beginnen die Stimmen der Flor in deinem Kopf zu zischen und zu schnattern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Als du dich näherst, beginnen die Stimmen der Flor in deinem Kopf  zu klickern und zu dröhnen. Deine Finger zucken und du fühlst dich unwohl. Du erwischst dich dabei, wie du instinktiv nach dem Magmatischen Ring greifst, so als hättest du das schon viele Male zuvor getan.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Erneut erwischst du dich dabei, wie du instinktiv nach dem Magmatischen Ring greifst, als die Stimmen die Flor in deinem Kopf zu surren beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Wie schon zuvor beginnen die Stimmen der Flor, in deinem Kopf zu zwitscherm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Hör den Flor-Stimmen genau zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Höre den Stimmen erneut zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Berühre die Flor-Zungen mit deiner Hand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Berühre die Flor-Zungen noch einmal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Matkina, weißt du, was das für ein Ding ist?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Den Magmatischen Ring berührern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ignoriere die Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du greifst nach dem kristallinen Artefakt. Auf ein Mal werden die Stimmen der Flor lauter ... und lauter. Sie füllen dein Bewusstsein aus, ertränken deine Gedanken, und flüstern, schnattern, summen ... Sie kommen aus allen Richtungen, von oben, unten, von nah und fern.
+
+Du torkelst und fällst fast zu Boden. 
+
+{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Matkina hält dich am Arm fest, damit du nicht umfällst. "Was stimmt mit dir nicht?" Ihre Augen sind groß und strahlen Verwirrung aus. 
+
+Unfähig zu antworten schüttelst du den Kopf. Der Strom aus unerträglichen Geräuschen nimmt dich vollends ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Langsam lösen sich die Geräusche der Flor in ihre Bestandteile auf, allerdings tragen sie nun Empfindungen mit sich. *Hunger*, *Neugierde*, *Verlangen* ... jedes Echo der Flor ruft einen neuen Eindruck in deinen Gedanken hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Einen Moment lang lässt du den Ring los, und die Empfindungen lassen nach – die Stimmen sind nun nichts weiter als bedeutungsloses Gebrabbel. Dann berührst du deb Ring noch einmal, und sie kehren zurück. 
+
+Dir wird klar, dass der Magmatische Ring als eine Art Übersetzer dient, auch wenn dir seine Grenzen und Fähigkeiten noch nicht ganz verständlich sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Den nahen Stimmen zuhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Den entfernten Stimmen zuhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Versuchen, mit den Flor-Zungen zu kommunizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Den Magmatischen Ring loslassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Versuchen, die Flor-Zungen zu kontrollieren.
+
+{CRIT}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Dir wird klar, dass die Flor-Zungen ein kleiner Schwarm des Bewusstseins der Flor sind. Ihre Wurzeln verlaufen durch den Handelsposten ... so wie jetzt auch deine Gedanken und Befehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du greifst auf den Bereich jenseits der Barriere zu, die dein Bewusstsein von dem der Zungen trennt – ermöglicht durch das Annulet.
+
+Du versuchst, die Bewegungen der Zungen zu steuern, doch sie widerstehen dir. Wie ein aufdringlicher Gedanke oder eine Melodie, die du nicht aus dem Kopf bekommst, überwältigen sie deine Konzentration und du wirst aus ihrem Bewusstsein ausgeschlossen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Das Portal zu den Cheirurgen-Fällen wiederherstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die menschlichen Gedanken freigeben, die im Handelsposten gefangen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Das Wissen und die Erinnerungen derer stehlen, die im Handelsposten gefangen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Den Schmerz auf die Flor-Zungen zurückwerfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Der Flor erlauben, an einer Erinnerung zu zehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Den Magmatischen Ring loslassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Und dann ist der Schmerz verschwunden. Die Flor-Zungen erschlaffen, ihre Bewegungen schwach, ihre Stimmen nicht mehr als ein Flüstern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Am Ende dieser ... ungewöhnlichen Erfahrung stellst du fest, dass du den Magmatischen Ring noch immer in den Händen hältst. Deine Verbindung zu den Flor-Zungen besteht weiter. Solange sie geschwächt sind, könntest du die Kontrolle übernehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du findest dich unter einer brennenden, violetten Sonne wieder, die nicht zu der Neunten Welt gehört, die du kennst. Dein Körper fühlt sich schwer an, mit ungewohnten Muskeln, die deine Bewegungen in Gang setzen. Und du musst dich bewegen – als deine Stiefel ihr Antriebskraft verlieren, musst du dich an der bloßen Oberfläche des Steins festkrallen und mit deinen zermarterten Händen hochziehen, um das Auge der gigantischen Statue zu erreichen. Du lachst wahnsinnig und spürst, wie dein Verstand diese Hülle verlassen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Die Erinnerung versiegt, von dir geschlürft wie ein süßer Nektar. Du kannst dich daran erinnern, sie erlebt zu haben, doch die Erinnerung selbst – die Sammlung an Empfindungen, die sie beim Wandelnden Gott hinterlassen hat – ist verflogen. 
+
+Die Flor-Zungen hängen herunter und stoßen gegeneinander, als hätte sie ihr Festmahl träge und verwirrt gemacht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Den Zungen erlauben, in deinen Verstand einzudringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Die flüsternden Stimmen der Flor-Zungen dringen in die Tiefen deiner Gedanken vor und tasten eine weitere, tief vergrabene Erinnerung ab. Während sie an die Oberfläche deines Verstandes befördert wird, baut sich ein pulsierender Schmerz in deinem Schädel auf, der kurz davor ist, zu explodieren ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Den Schmerz auf die Flor-Zungen zurückwerfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Der Flor erlauben, eine Erinnerung zu nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>In einem siedend heißen Strom fließt der Schmerz aus deinem Kopf in die Zungen. Sie kreischen und zischen, ihr Zorn überkommt dich in Wellen, doch vergeblich. 
+
+{AUDIO: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Die Zungen hängen fast bis zum Boden. Du greifst über die Barriere eures Bewusstseins hinweg und beginnst, ihre Bewegungen zu kontrollieren. Es ist ein seltsames Gefühl ... so, als hätte man ein zweites paar Glieder ... aber sie antworten auf deine Impulse, ohne sich zu wehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du siehst sie nicht an, aber du kannst sie neben dir spüren, während du deine Schritte über den polierten Metallboden machst. Das Echo deiner Schritte fliegt in den großen Raum über euch wie aufgescheuchte Vögel. Dein Ziel ist ein großes, rundes Tor, aus seiner Verankerung geworfen. Hinter ihm wartet ein Gerät auf dich, das dich an den Ort bringen kann, an dem der grausame Griff der Zeit nichts weiter als ein zartes Streicheln ist.
+
+Plötzlich schlägst du nach oben aus. Du willst nicht, dass diese Frau noch mehr deiner Geheimnisse sieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Durch die Erinnerung vollständig gesättigt, hängen die Flor-Zungen fast bis zum Boden. Du greifst über die Barriere eures Bewusstseins hinweg und beginnst, ihre Bewegungen zu kontrollieren. Es ist ein seltsames Gefühl ... so, als hätte man ein zweites paar Glieder ... aber sie antworten auf deine Impulse, ohne sich zu wehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Du bemühst dich, deinen Griff um das kristalline Artefakt zu lösen – vergeblich. Die flüsternden Stimmen der Flor rasen deine Nerven auf und ab, und schon bald kannst du deinen Körper nicht mehr kontrollieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Wie zuvor werden die Stimmen der Flor lauter und deutlicher, bis aus ihnen vage Empfindungen erwachsen. Du kannst zwischen jenen, die innerhalb des Handeslpostens entstehen, und jenen außerhalb unterscheiden.
+
+{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Das Gezwitscher wird lauter ...
+
+Du kannst spüren, dass die Flor-Zungen noch immer ermüdet und faul sind, nachdem sie eine der Erinnerungen deines alten Herrn aufgezehrt haben. Mithilfe des Ringes kannst du die Kontrolle über sie erlangen.
+
+{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Sie streckt eine Hand in die Nähe der Zungen aus. "Ich habe Gerüchte gehört. Geschichten von Menschen, die hier eine lange Zeit verbracht haben. Verrückte, verdorbene Geister. Nur in den tiefsten Teilen der Flor wachsen die Zungen wie hier. Sie muss die ganze Kammer in ihre Tiefen gezogen haben."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Das Zischen und Schnattern ist für dich in keiner Hinsicht zu entziffern ... falls dahinter überhaupt eine 'Bedeutung' stecken sollte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Auch, nachdem du das 'Wasser' der Flor getrunken hast, kannst du die Stimmen nicht deutlich ausmachen. Du musst eine noch direktere Verbindung zu den Zungen herstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Vorsichtig streckst du deine Hand in die Masse aus wirbelnden Tentakeln. Als sie deine Hand berühren, *durchdringen* sie sie, und eine prickelnde, heiß-kalte Empfindung breitet sich in deinem Arm aus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Du stößt mit deiner Hand in die Mitte der Zungen. Sie *durchdringen* sie mit einem prickelndem Gefühl, das durch deine Muskeln und Knochen tanzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Dir fällt auf, dass die Stimme der Flor viel lauter ist, wenn du die Zungen berührst – auch, wenn du sie deshalb nicht besser verstehen kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Durch das 'Wasser' der Flor, das jetzt durch deinen Körper strömt, kannst du einen Unterschied zwischen den Stimmen hier und jenen, die du am Schlund gehört hast, ausmachen. Die Wurzeln dieser Masse aus Zungen breiten sich durch die gesamte Kammer aus, und ihr Geflüster kontrolliert ihre Bewegungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Die Stimmen der Flor erscheinen dir lauter, wenn du die Zungen berührst, aber ansonsten kannst du keinen Unterschied ausmachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Du hörst, wie die Masse aus Flor-Zungen dir sanft etwas zuflüstert. Sie hören sich gleichermaßen erwartungsvoll und vertraut an. Diese Zungen kennen deinen Geruch ... oder zumindest den deines alten Herrn, und sie können es kaum abwarten, deinen Verstand zu berühren. Aber ihre Stimmen sind nicht die einzigen hier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Follow-up PQ. 72</DefaultText>
+      <FemaleText>Follow-up PQ. 72</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Den nahen Stimmen erneut zuhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Follow-up PQ. 75</DefaultText>
+      <FemaleText>Follow-up PQ. 75</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Den entfernten Stimmen erneut zuhören.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Eine Sammlung anderer Stimmen plappern und schreien aus den dunklen Ecken des Raums ... die Stimmen gewöhnlicher Menschen, die einst zu den Händlern, Wachen und Flor-Führern gehörten, die hier verschlungen wurden. Bruchstücke ihres Verstandes halten in der Hülle von halbverdauten Leichen am Leben fest, und sie schreien ihre Verwirrung, ihren Ärger und ihren Schmerz heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Die Flor-Zungen flüstern dir zärtlich zu, kitzeln dich an den Ecken deines Bewusstseins wie kleine, sich windende Finger, und versuchen, in deinen Verstand einzudringen. 
+
+In regelmäßigen Abständen werden die flüsternden Zungen von den Stimmen der Männer und Frauen übertönt, die in dieser Kammer verschlungen wurden. Ihre Schreie sind erfüllt von Verwirrung und Qual, ihres Todes sind sie sich nicht bewusst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Du konzentrierst dich auf die Flor-Stimmen, die von außerhalb des Handelspostens kommen. Was sich zunächst wie ein unverständliches Brabbeln angehört hat, wird nun zu unterschiedlichen Stimmen – tausende Stimmen, und jede von ihnen kommt aus einem anderen Winkel der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Einige der Stimmen gehören zu einzelnen Schlünden, die ihrem *Hunger* und ihren *Bedürfnissen* Ausdruck verleihen. Andere kommen aus tieferen Stellen in der Flor. Wenn du dich auf diese Stimmen konzentrierst, spürst du das Aufblitzen intensiver Emotionen oder vernimmst das Schicksal von Männern und Frauen, die geschlagen oder getötet werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Jede Stimme ist einzigartig ... schnatternd, grummelnd, bellend, flüsternd, zischend, rasselnd ... Und doch gehört *jede* davon zur Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Du konzentrierst dich auf die Stimmen, die aus den fernen, faulenden Ecken der Flor kommen. Einige gehören zu Schlünden, die von ihren Begierden sprechen, während andere aus tieferen Winkeln der Flor stammen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Du entspannst deinen Geist und erlaubst den Flor-Zungen, in ihn einzudringen. Erinnerungen entspringen deinem Verstand ... triviale Moment, die du vergessen geglaubt hast. Gerade, als du sie erkennst, werden sie hinfort gefegt. 
+
+Die Flor-Zungen wühlen sich durch deine Erinnerungen ... etwas suchend ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Die Stimmen dringen tiefer in deinen Verstand ein. Was zunächst harmlos erschien, wird nun beunruhigend. In deinem Hinterkopf entsteht ein dumpfer Schmerz, der sich schon bald über deinen ganzen Schädel und deine Wirbelsäule ausbreitet. Der Schmerz überkommt dich in Wellen, als würde die Flor versuchen, eine Erinnerung aus deinem Hirn herauszubrechen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Du konzentrierst dich auf den Schmerz und lässt ihn auf den Gezeiten davonfließen. Ein geschmolzener Fluss aus Pein, der deine Nerven aufgerieben zurücklässt. Er verbreitet sich über die *Brücke*, die der Ring zwischen dir und den Zungen erzeugt hat. 
+
+Um dich herum kreischen die Stimmen der Flor vor Hass und Schmerz. Die Zungen winden sich ... der Boden wackelt ... 
+
+{SOUND: Play Bloom's pained, 'shrieking' noise.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Du bist dir mehr oder weniger darüber im Klaren, dass die Flor sich in deinem Verstand befindet und versucht, eine Erinnerung aus ihm herauszuziehen, die tief vergraben liegt ... wie ein Zahn, der nicht gezogen werden will.
+
+Mit einem letzten, schmerzhaften Schwall der Pein wird diese Erinnerung in dein Bewusstsein befördert ...
+
+{SCRIPT: Health damage currently set to 3 - should be same as other cases when the player allows Bloom-tongues to take a memory.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Du greifst auf den Bereich jenseits der Barriere zu, die dein Bewusstsein von dem der Zungen trennt – ermöglicht durch den Ring. 
+
+Du versuchst, die Bewegungen der Zungen zu steuern. Es ist ein seltsames Gefühl ... so, als hätte man ein zweites paar Glieder ... aber sie antworten auf deine Impulse, ohne sich zu wehren. Mit kurzer Verzögerung versuchen die Zungen, sich dir zu widersetzen, aber du stellst sie schnell ruhig, wie unerwünschte Gedanken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Dein versuchtes Eindringen hat die Zungen bestärkt, aber einige von ihnen hängen immer noch schlaff herunter. Wenn du die Gezeiten noch einmal gegen sie einsetzt – oder sie womöglich mit einer deiner Erinnerungen fütterst – könnten sie noch leichter nachgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Du durchsuchst alles mithilfe deiner neuen Sinne, aber du kannst nichts entdecken, das noch zum Schlund der Cheirurgen-Fälle zurückführt. Sogar sein Flüstern ist versiegt. Es scheint, als wäre das Portal Vergangenheit, und als könnten die Zungen es nicht wiederherstellen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Nach einigen Momenten der Konzentration zeigt sich, dass die schlängelnden Wurzeln der Flor-Zungen noch immer mit den Leichen verbunden sind. Haarfeine Fasern durchdringen das faulende Fleisch und verbinden sich mit der halbtoten Hirnmasse, die dadurch am Leben gehalten wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Du bringst die Flor-Zungen dazu, ihre Fasern aus jeder der Leichen zurückzuziehen. Eine nach der anderen erlöschen die Stimmen, und ihre gequälten Geister vergehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Nach einigen Momenten der Konzentration zeigt sich, dass die schlängelnden Wurzeln der Flor-Zungen noch immer mit den Leichen verbunden sind. Haarfeine Fasern durchdringen das faulende Fleisch und verbinden sich mit der halbtoten Hirnmasse, die dadurch am Leben gehalten wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Die Zungen haben nach und nach die Erinnerungen und Erfahrungen der sterbenden Menschen aufgezehrt und sich an ihnen genährt. Du bringst sie dazu, jegliche Reste zu extrahieren und sie in dir zu konzentrieren. Sobald eines der Gehirne "ausgesaugt" wurde, versiegt seine Stimme, und es stirbt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Ihre vielseitigen Sinneseindrücke und fragmentartigen Erinnerungen stellen eine Art Wissen dar, zusätzliche Perspektiven, durch die die Welt anders verstanden werden kann. Dein Verstand fühlt sich erfrischt und scharfsinniger an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Als du damit fertig bist, ihre halbtoten Gedanken zu entleeren, spürst du ein tiefes, sub-aurales Grummeln aus der Flor. Dein Eindruck, den du mithilfe des Ringes gewinnen konntest, spricht von *Affinität* und *Zustimmung* zu dem, was du gerade getan hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Du schließt deine Augen und entspannst deinen Geist, um die Grenzen deiner neuen Fähigkeiten zu testen. Die Wurzeln der Flor-Zungen ziehen sich durch den gesamten Handelsposten, aber sie breiten sich auch zu einem gewissen Grad in das umliegende Fleisch aus. Einige von ihnen setzen sich nach oben hin fort und bilden einen Pfad in eine Öffnung in den äußeren Bereichen der Flor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Du konzentrierst dich und erlangst die Kontrolle aller Tentakel gleichzeitig, zwingst sie diesen Pfad hinauf bis an die Oberfläche, und reißt so den Handelsposten mit ihnen. 
+
+Der Boden vibriert und bewegt sich unter deinen Füßen, und die gesamte Kammer beginnt, sich zu bewegen ...
+
+{SOUND: Play loud rumbling and groaning effects as the whole room gets moved to another part of the Bloom.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Du beißt die Zähne zusammen, während die Zungen die Erinnerung aus den Tiefen deines Verstandes reißen. Endlich tritt sie hervor und spielt sich vor deinem geistigen Auge ab.
+
+{SCRIPT: Health damage currently set to 3 - should be same as other cases when the player allows Bloom-tongues to take a memory.}
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Du lockerst deinen Griff um den Ring. Obwohl du noch immer die zwitschernden Stimmen hören kannst, rufen sie nicht länger Sinneseindrücke in dir hervor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Du lässt den Ring los und trennst so die Verbindung zwischen dir und den Flor-Zungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Das Gezwitscher wird lauter ...
+
+Du spürst, dass die Flor-Zungen desorientiert sind. Mithilfe des Ringes kannst du die Kontrolle über sie erlangen.
+
+{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Das Gezwitscher wird lauter ...
+
+Du spürst, dass die Flor-Zungen alarmiert sind und sich nach deinem Verstand verzehren ... Sie haben *Hunger* auf die Erinnerungen, die sich dort verstecken könnten. Aber sie sind geschwächt, es könnte also ein Leichtes sein, die Kontrolle über sie zu erlangen.
+
+{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Du stellst deine Verbindung zu den Zungen wieder her und spürst, dass sie sich dir *unterwerfen*. Sie werden deinem Willen folgen.
+
+{SOUND: Player has made closer mental contact with the Bloom. SFX of Bloom-voices gets louder until the end of the dialogue.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Sie dreht sich mit dem Anflug eines Grinsens zu dir, offensichtlich ist sie sich darüber im Klaren, dass du bemerkt hast, wie sich ihr Verhalten gegenüber den Zungen verändert hat ... und vielleicht ist sie auch ein wenig beeindruckt, dass es dir aufgefallen ist. 
+
+"Nach langen Nachdenken bin ich zu dem Entschluss gekommen, dass es sich um Flor-Zungen handeln könnte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Dein versuchtes Eindringen hat die Zungen bestärkt, aber einige von ihnen hängen immer noch schlaff herunter. Wenn du die Gezeiten noch einmal gegen sie einsetzt – oder sie womöglich mit einer deiner Erinnerungen fütterst – könnten sie noch leichter nachgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Satsada hatte recht – die Flor-Zungen sind ein kleiner Schwarm des Bewusstseins der Flor. Ihre Wurzeln verlaufen durch den Handelsposten ... so wie jetzt auch deine Gedanken und Befehle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Das 'Wasser' der Flor stellt deine Sinne auf die subtilen Vibrationen der Zungen ein. Ihre Wurzeln breiten sich durch die Kammer aus und wabern unter dem Flor-Fleisch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Du befindest dich unter dem Schutz des Auges. Du siehst nach unten, und erkennst, wie deine Verfolger die Klippe hinaufstürmen. Sie gedenken, die Entweihung ihres heiligen Bodens durch dich mit Blut zu vergelten. Ihre mit Zähnen übersäten Schlünde, ihre vielen Arme und die stacheligen Saugnäpfe an ihren Händen implizieren, dass sie dazu durchaus in der Lage sind.
+
+... aber als sie sich nähern, streckst du deine Hand über ihnen in die Luft und formst sie zu einer Faust. Die Luft verformt sich zu einem Schauer aus Säure, der sich über deine Feinde ergießt. Ihre Schreie wirken wie eine Oper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Nein, Maralel. Ich habe dir meine Beweggründe dargelegt und muss mich nicht weiter rechtfertigen." 
+
+Endlich drehst du dich zu ihr um. Ihre Augen brennen durch das Starren ihrer Porzellanmaske. Sie sagt: "Ich habe dir mit deiner Forschung geholfen, habe Geheimnisse der Gezeiten entdeckt, von denen du nie etwas gehört hattest, und die du nie selbst herausgefunden hättest. Ich bin eine doppelt so gute ..."
+
+Deine Hand  schlägt ihr die Maske vom Gesicht. Du hörst, wie sie auf dem Boden zerbricht.
+
+Die Erinnerung deines alten Herrn verfliegt, so wie deine Erinnerung an sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Den Magmatischen Ring erneut berührern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Du bist dir mehr oder weniger darüber im Klaren, dass die Flor sich in deinem Verstand befindet und versucht, eine Erinnerung aus ihm herauszuziehen, die tief vergraben liegt ... wie ein Zahn, der nicht gezogen werden will.
+
+Mit einem letzten, schmerzhaften Schwall der Pein wird diese Erinnerung in dein Bewusstsein befördert ...
+
+{SCRIPT: Health damage currently set to 3 - should be same as other cases when the player allows Bloom-tongues to take a memory.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Du findest dich unter einer brennenden, violetten Sonne wieder, die nicht zu der Neunten Welt gehört, die du kennst. Dein Körper fühlt sich schwer an, mit ungewohnten Muskeln, die deine Bewegungen in Gang setzen. Und du musst dich bewegen – als deine Stiefel ihre Antriebskraft verlieren, musst du dich an der bloßen Oberfläche des Steins festkrallen und mit deinen zermarterten Händen hochziehen, um das Auge der gigantischen Statue zu erreichen. Du lachst wahnsinnig und spürst, wie dein Verstand diese Hülle verlassen will.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Du befindest dich unter dem Schutz des Auges. Du siehst nach unten, und erkennst, wie deine Verfolger die Klippe hinaufstürmen. Sie gedenken, die Entweihung ihres heiligen Bodens durch dich mit Blut zu vergelten. Ihre mit Zähnen übersäten Schlünde, ihre vielen Arme und die stacheligen Saugnäpfe an ihren Händen implizieren, dass sie dazu durchaus in der Lage sind.
+
+... aber als sie sich nähern, streckst du deine Hand über ihnen in die Luft und formst sie zu einer Faust. Die Luft verformt sich zu einem Schauer aus Säure, der sich über deine Feinde ergießt. Ihre Schreie wirken wie eine Oper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Die Erinnerung versiegt, von dir geschlürft wie ein süßer Nektar. Du kannst dich daran erinnern, sie erlebt zu haben, doch die Erinnerung selbst – die Sammlung an Empfindungen, die sie beim Wandelnden Gott hinterlassen hat – ist verflogen. 
+
+Sogar noch als die Flor-Zungen erschlafft gegeneinander baumeln, von ihrem Festmahl gesättigt, spürst du, wie deine Beine nachgeben. In deinem geschwächten Zustand war diese Anstrengung zu viel für dich.
+
+Um dich herum wird es dunkel ...
+
+{DAMAGE}
+{SCRIPT: The damage here should kill the player, but he should respawn in this same room (Trade Post).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Du beißt die Zähne zusammen, während die Zungen die Erinnerung aus den Tiefen deines Verstandes reißen. Endlich tritt sie hervor und spielt sich vor deinem geistigen Auge ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Du siehst sie nicht an, aber du kannst sie neben dir spüren, während du deine Schritte über den polierten Metallboden machst. Das Echo deiner Schritte fliegt in den großen Raum über euch wie aufgescheuchte Vögel. Dein Ziel ist ein großes, rundes Tor, aus seiner Verankerung geworfen. Hinter ihm wartet ein Gerät auf dich, das dich an den Ort bringen kann, an dem der grausame Griff der Zeit nichts weiter als ein zartes Streicheln ist.
+
+Plötzlich schlägst du nach oben aus. Du willst nicht, dass diese Frau noch mehr deiner Geheimnisse sieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Nein, Maralel. Ich habe dir meine Beweggründe dargelegt und muss mich nicht weiter rechtfertigen." 
+
+Endlich drehst du dich zu ihr um. Ihre Augen brennen durch das Starren ihrer Porzellanmaske. Sie sagt: "Ich habe dir mit deiner Forschung geholfen, habe Geheimnisse der Gezeiten entdeckt, von denen du nie etwas gehört hattest, und die du nie selbst herausgefunden hättest. Ich bin eine doppelt so gute ..."
+
+Deine Hand  schlägt ihr die Maske vom Gesicht. Du hörst, wie sie auf dem Boden zerbricht.
+
+Die Erinnerung deines alten Herrn verfliegt, so wie deine Erinnerung an sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Durch die Erinnerung vollständig gesättigt, hängen die Flor-Zungen fast bis zum Boden. Dir wird klar, dass die Flor-Zungen ein kleiner Schwarm des Bewusstseins der Flor sind. Ihre Wurzeln ziehen sich durch den gesamten Handelsposten, und sie haben dir die Kontrolle darüber gegeben.
+
+Noch als dein Verstand diesen Umstand realisiert, beginn dein Körper, abzuschalten. In deinem geschwächten Zustand war diese Anstrengung zu viel für dich.
+
+Um dich herum wird es dunkel ...
+
+{DAMAGE}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Die Flor-Zungen haben sich in den Boden zurückgezogen. Du kannst nicht länger mit ihnen kommunizieren.
+
+{SOUND: On this node, we shouldn't hear any sounds because the tongues have receded into the ground.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Energielos ziehen sich die Flor-Zungen in den Boden zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

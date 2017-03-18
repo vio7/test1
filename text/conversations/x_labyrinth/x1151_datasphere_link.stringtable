@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1151_datasphere_link</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>84</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>In der Luft schimmert etwas, das wie ein Riss im Raum aussieht. Dahinter siehst du Dunkelheit und das Licht der Sterne.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Hand durchstecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lass es sein.</DefaultText>
+      <FemaleText>Lass es sein.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>In dem Moment, als du den Riss berührst, erweitern sich deine Sinne - ganz so, als wäre dein Geist *in* dem Spalt in der Luft. Dir wird bewusst, dass die Lichter in der Dunkelheit keine Sterne sind, sondern Geister - Milliarden von Geistern, jeder weit größer als dein eigener Geist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>In dem Moment, wo du ihrer bewusst wirst, werden sie deiner bewusst. Sie versammeln sich um deine Präsenz und das Gewicht ihres gewaltigen Wissens droht dich zu erdrücken.
+
+Instinktiv errichtet dein Geist einen Schild um dich herum, ein abgeschotteter Raum in der Dunkelheit. Die Geister krachen dagegen, versuchen, den Schild zu durchbrechen, doch er hält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Geister außerhalb deines Raums fühlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Geister draußen noch mal fühlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du erkennst, dass du mit deiner ursprünglichen Schätzung weit danebenlagst. Statt Milliarden sind es Billionen, vielleicht sogar Billiarden. Du kannst nur die Ränder ihrer Persönlichkeiten und Erinnerungen abtasten, wenn du nicht verrückt werden willst, und was du da draußen fühlst, sind Geister, die bereits seit Äonen existieren und aus allen Ecken und Enden des Universums kommen.
+
+Sie sind nicht bösartig, aber sie werden nicht zögern, deine Identität auszulöschen, um sich dein Wissen anzueignen und dich zu einem von ihnen zu machen. Und das ist das Letzte, was du jetzt brauchen kannst.</DefaultText>
+      <FemaleText>Du erkennst, dass du mit deiner ursprünglichen Schätzung weit danebenlagst. Statt Milliarden sind es Billionen, vielleicht sogar Billiarden. Du kannst nur die Ränder ihrer Persönlichkeiten und Erinnerungen abtasten, wenn du nicht verrückt werden willst, und was du da draußen fühlst, sind Geister, die bereits seit Äonen existieren und aus allen Ecken und Enden des Universums kommen.
+
+Sie sind nicht bösartig, aber sie werden nicht zögern, deine Identität auszulöschen, um sich dein Wissen anzueignen und dich zu einer von ihnen zu machen. Und das ist das Letzte, was du jetzt brauchen kannst.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Billiarden uralter Geister suchen verzweifelt nach einem Weg hinein in deine abgeschottete Hülle. Es überrascht dich, dass etwas, das du geschaffen hast, so mächtige Wesen überhaupt aufhalten kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Den Raum erkunden und sehen, was du sonst noch tun kannst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Die Geister draußen verblassen und du spürst die Präsenz anderer Objekte im Raum auftauchen - Abbilder deines Willens. Oder vielleicht nicht *deines* Willens. Wie bei dem Schild erschaffst du weniger neue Dinge als dass du dir Dinge ins Gedächtnis rufst, die bereits einmal erschaffen worden sind. Diese Hülle gehörte wie deine eigene einst jemand anderem. Zwei Dinge kommen dir deutlich in den Sinn, Symbole des Willens in Form simpler Objekte: Ein rundes Fenster und ein Metallwürfel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Hand aus dem Spalt ziehen und in das Labyrinth des Geistes zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Obwohl du dich in dem seltsamen Labor sehen kannst, kannst du scheinbar nicht dorthin zurückkehren. Dieses geistige Bild von dir ist erstarrt - oder bewegt sich so langsam, dass es mehrere Jahre dauern würde, bis sie ihre Hand weit genug bewegt hat, um etwas zu bewirken. Es scheint, als würdest du noch eine Weile in *diesem* mentalen Konstrukt festhängen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Aus dem Fenster sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Noch mal aus dem Fenster sehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Das konvexe Fensterglas vergrößert die Außenwelt wie eine Lupe. Die Geister sind tatsächlich dünne leuchtende Gitter aus Licht. Und der Raum zwischen ihnen ist nicht so leer, wie du gedacht hast. Hauchdünne Fäden verbinden jeden Geist mit allen anderen und mit deinem eigenen, von dem Schild abgeschirmten Raum. Hier ist nichts wirklich isoliert, nicht einmal du.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Du spürst die Verbindungen, die jeder Geist mit allen anderen und mit deiner eigenen Hülle hat. Dieser Schild wurde gebaut, um deine Identität zu schützen und gleichzeitig die Verbindung zum Rest zu wahren - oder vielleicht ist es auch unmöglich, hier zu existieren, *ohne* mit den anderen verbunden zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Den Metallwürfel untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Den Tagebuchwürfel erneut öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Sobald du ihn berührst, formen sich Worte und Bilder in der Luft über ihm. Es ist eine Art Informationswürfel, der deine Erinnerungen aufzeichnet.
+
+Du kannst die Informationen, die er enthält, ganz leicht durchsehen. Sie beschreiben deinen Sturz und deine Erfahrungen mit dem Geist und dem Kummer wie eine Art Tagebuch.
+
+{SCRIPT: Add a journal entry about finding the journal.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Es ist eine Aufzeichnung deiner Erfahrungen, bereichert durch gelegentliche Querverbindungen mit Informationen von draußen. Es aktualisiert sich gleich schnell, wie du denken kannst - ein neuer Eintrag betrifft bereits das Tagebuch selbst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Die Truhe öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>In der Truhe liegen drei sorgfältig gefaltete Kleiderbündel, auf denen kleine Karten stehen. Auf ihnen sind die Worte 'Glaive', 'Nano' bzw. 'Tausendsassa' geschrieben.
+
+Du begreifst, dass dies mögliche Aspekte deines Selbst sind, wie die Doppelgänger im Spiegel zuvor. Diese Truhe lässt dich entscheiden, wer du bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Es sind die Kleider eines Kriegers - gemacht für jene, die mit Stärke und Schnelligkeit alle Herausforderungen überwinden. Sie scheinen dir zu passen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Kleider des Jacks wirken wie eine Mischung der anderen beiden Bündel.  Es ist die Kleidung jener, die ihre Stärke aus dem Wissen vergangener Welten beziehen, aber auch bereit sind, Herausforderungen auf körperliche Weise zu lösen, falls es nötig ist. Diese Kleider sind für alles bereit. Du solltest sie leicht tragen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Kleider des Nanos sind mit jeder Menge Taschen und Utensilien ausgestattet. Es sind die Kleider jener, die die Welt *verstehen* wollen - und nicht nur diese Welt, sondern auch die Welten davor. Die beweisen, dass Wissen Macht ist. Die Kleider scheinen dir gut zu passen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Die Kleider anlassen. Ein Glaive werden.
+
+{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</DefaultText>
+      <FemaleText>Die Kleider anlassen. Eine Glaive werden.
+
+{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Sie vorerst wieder ablegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Als du die Kleider ablegst, formen sich die anderen Kleiderbündel wieder klar und deutlich in deinem Geist. Du hast noch eine Entscheidung zu treffen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Sobald du deine Entscheidung getroffen hast, verschwindet die Holztruhe und mit ihr die anderen beiden Kleiderbündel. Diese Kleidung zu tragen verändert dich irgendwie, bildet neue Verbindungen in deinem Geist. Du bist vervollständigt und fühlst dich selbstsicherer als zuvor. Plötzlich ist dir der Weg hier heraus völlig klar. Du kannst dich in dem seltsamen Labor fühlen, aber du fühlst auch, wie ein anderes Ich - ein *reales* Ich - in der realen Welt wieder geheilt wird. Du weißt, wie du zurück zu deinem Körper kommst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Die Kleider anlassen. Ein Nano werden.
+
+{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</DefaultText>
+      <FemaleText>Die Kleider anlassen. Eine Nano werden.
+
+{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Die Kleider anlassen. Ein Jack werden.
+
+{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</DefaultText>
+      <FemaleText>Die Kleider anlassen. Eine Jack werden.
+
+{SCRIPT: Should open a UI that lets the player make their initial class choices. When that UI is closed, this conversation should start up again at node 45.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Zu deinem Körper zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Ein leuchtender Faden führt von deiner Hülle zu deinem Körper in der realen Welt und endet in der Tätowierung auf dessen Kopf.
+
+Du folgst dem Faden mit einem einzigen Gedanken. Die Welt saust unter dir vorbei. Das Labyrinth deines Geistes und der seltsame Riss in der Luft verblassen und du öffnest erneut die Augen...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Der Spalt in der Luft schimmert weiter. Dahinter liegt eine mit Sternen gesprenkelte Dunkelheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Den Schild senken und die Geister hereinlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Du hast den Schild mit einem verborgenen Instinkt erzeugt. Du kannst ihn nicht einfach wegwünschen oder ihm befehlen, zu verschwinden. Er ist einfach *da*.
+
+Doch etwas anderes verändert sich, als du deine Aufmerksamkeit dem Raum selbst widmest...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Die Hand aus dem Spalt ziehen und in das Labyrinth des Geistes zurückkehren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Obwohl du dich in dem seltsamen Labor sehen kannst, kannst du scheinbar nicht dorthin zurückkehren. Dieses geistige Bild von dir ist erstarrt - oder bewegt sich so langsam, dass es mehrere Jahre dauern würde, bis er seine Hand weit genug bewegt hat, um etwas zu bewirken. Scheint, als würdest du noch eine Weile in *diesem* mentalen Konstrukt festhängen - zumindest bis du einen anderen Ausweg findest.</DefaultText>
+      <FemaleText>Obwohl du dich in dem seltsamen Labor sehen kannst, kannst du scheinbar nicht dorthin zurückkehren. Dieses geistige Bild von dir ist erstarrt - oder bewegt sich so langsam, dass es mehrere Jahre dauern würde, bis sie ihre Hand weit genug bewegt hat, um etwas zu bewirken. Scheint, als würdest du noch eine Weile in *diesem* mentalen Konstrukt festhängen - zumindest bis du einen anderen Ausweg findest.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Und da sind noch weitere Informationen hier drin, die du *nicht* kanntest. Durchsichtige Fäden verbinden das Tagebuch mit der Außenwelt und damit irgendwie deine Erfahrungen mit dem gewaltigen Wissen da draußen.
+
+Selbst während du die Daten durchsiehst, erscheinen auf magische Weise weitere neue Informationen - Beschreibungen des Raumes um dich herum und der Objekte, die du siehst. Das Tagebuch erwähnt eine Holztruhe hier in deiner Hülle, die du zuvor nicht gesehen hast, die jedoch noch während die Worte in der Luft geschrieben werden neben dir erscheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Die Kleider des Glaiven untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Die Kleider des Glaiven anziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Die Kleider des Nanos untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Die Kleider des Nanos anziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Die Kleider des Jacks untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Die Kleider des Jacks anziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Als du die Kleider anziehst, spürst du deinen Körper stärker und geschickter werden. Du erinnerst dich an detaillierte Kenntnisse zahlreicher Formen der Kampfkunst und fühlst dich in der Lage, jede Waffe zu meistern, egal wie exotisch sie ist.
+
+Die Kleider passen dir. Das ist gut, denn die anderen beiden Bündel beginnen zu verblassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Als du die Kleider anziehst, spürst du, wie sich dein Geist erweitert. Alles um dich herum wird schärfer und du gewinnst ein besseres Verständnis für die Dinge, die du siehst und gesehen hast. Dieser Ort hier zum Beispiel ist ein Teil der Datosphäre, ein Speicher für altes und mächtiges Wissen früherer Welten.
+
+Die Kleider passen dir. Das ist gut, denn die anderen beiden Bündel beginnen zu verblassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>In diesen Kleidern fühlst du dich zu allem bereit. Auch wenn du nicht alles zur Gänze verstehst, erkennst du nun klarer, wie man die seltsamen Dinge, die du gesehen hast, *verwendet*. Und du denkst, du würdest dich mit einer Standardwaffe am Gurt wohler fühlen.
+
+Die Kleider passen dir. Das ist gut, denn die anderen beiden Bündel beginnen zu verblassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[This is the portal that will lead back to your body, but first you need to choose a Type. Type selection has not yet been implemented for beta, so choose it here.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Tell me about Types.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[I want to be a glaive.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>[I want to be a nano.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[I want to be a jack.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Your Type is what your character *does*. There are three Types to choose from: glaive, nano, and jack.
+
+The glaive is the elite warrior of the Ninth World - whether through brute strength or speed, melee or ranged combat.
+
+The nano seeks to understand the relics of the past, using cyphers and esoteries to perform amazing feats.
+
+The jack is a bit of both - a capable fighter who uses prior world technology to his advantage. The jack is the most versatile type.]</DefaultText>
+      <FemaleText>[Your Type is what your character *does*. There are three types to choose from: glaive, nano, and jack.
+
+The glaive is the elite warrior of the Ninth World - whether through brute strength or speed, melee or ranged combat.
+
+The nano seeks to understand the relics of the past, using cyphers and esoteries to perform amazing feats.
+
+The jack is a bit of both - a capable fighter who uses prior world technology to her advantage. The jack is the most versatile type.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[You are now a glaive, an elite warrior of the Ninth World.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[You are now a nano, a master of the numenera of the past.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[You are now a jack, a versatile fighter who knows how to use the numenera to his advantage.]</DefaultText>
+      <FemaleText>[You are now a jack, a versatile fighter who knows how to use the numenera to her advantage.]</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[You are now ready to return to your body.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

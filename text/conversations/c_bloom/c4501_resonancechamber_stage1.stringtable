@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_resonancechamber_stage1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mazzofs Hände wirbeln über den gedämpften Schein der Steuerungskonsole der Kammer. Er murmelt verärgert vor sich hin und sieht nicht auf, als du näherkommst. 
+
+"Gib dir keine Mühe. Diese Steuerung funktioniert nur für mich, für niemanden sonst."
+
+Er scheint die Wahrheit zu sagen. Dir fällt auf, dass die Tasten auf der Konsole erst aufleuchten unmittelbar bevor seine Finger sie berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Energie strömt aus der Resonanzkammer an dir vorbei und hüllt die Memovira in ihr Licht ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Steuerungskonsole flackert, das Licht am Ausgehen. Als du die Hand danach ausstreckst, schießt Elektrizität knisternd nach deiner Hand und zwingt dich zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Energien der Resonanzkammer auf dich umleiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Tritt von der Maschine zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Deine Hände rasen über die Steuerungskonsole, ohne Nachdenken, ohne Rückgriff auf deine Erinnerung. Die Kammer gehört dir. Sie hat schon immer dir gehört. 
+
+Warmes, belebendes Licht fällt aus der Kammer auf dich und hüllt dich in strahlend helle, flüsternde Kraft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Energie strömt aus der Resonanzkammer und konzentriert sich auf die Memovira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die Resonanzenergien auf den Letzten Verstoßenen umlenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Erneut versuchen, die Resonanzenergien auf den Letzten Verstoßenen umzulenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du beißt die Zähne zusammen und strengst dich an, um die Geräusche der Schlacht unter dir auszublenden. Du greifst noch auf das letzte Fitzelchen Wissen zurück. Durch Herumprobieren entdeckst du schließlich die korrekte Befehlsfolge, um die Energien der Kammer umzuleiten, aber wie ...
+
+Unter deiner Handfläche erscheint eine Karte des Raumes. Einer der Punkte darauf ist viel heller als die anderen. 
+
+Ohne darüber nachzudenken drückst du ihn und die Macht der Kammer trifft den Letzten Verstoßenen wie ein Blitzschlag.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du tippst und drückst planlos auf der Konsole herum. Nichts passiert, außer dass du wertvolle Zeit verlierst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Mazzof flucht leise, setzt seine Arbeit aber fort.
+
+"Ich sagte dir doch, du verschwendest deine Zeit. Die Steuerung funktioniert für dich nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Auf die Konsole einschlagen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Aktiviere die Resonanzkammer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du schlägst auf die Konsole ein und hinterlässt einen Krater in ihrer Oberfläche, aus dem die Funken spritzen. Mazzof sieht dich mit einer Mischung aus Entsetzen und Wut an, schnappt sich ein Werkzeug von seinem Gürtel und beugt sich über die beschädigte Stelle. 
+
+Einer der zahlreichen Risse verschließt sich vor deinen Augen von selbst wieder. Du hast etwas Zeit gewonnen, aber nicht viel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Mazzof dreht sich gerade rechtzeitig herum, um deine Absichten aus deinem Blick zu lesen. Mit einem Knurren stößt er dich einen Schritt zurück und stellt seinen Körper zwischen dich und die Konsole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du läufst um Mazzof herum und siehst dir die andere Seite der Konsole an. Inmitten eines Gewirrs von Kabeln siehst du ein flackerndes Licht. 
+
+Instinktiv greifst du danach und reißt es heraus. 
+
+"Verdammt!" bellt Mazzof. Offensichtlich war dein Instinkt goldrichtig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Du beobachtest Mazzof bei der Arbeit und suchst nach einem Hinweis darauf, wie er die Konsole steuert, kannst aber nichts erkennen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Du überlässt deine Hände den Erinnerungsfetzen, die einst deinem Erzeuger gehörten. Du schließt die Augen und deine Finger rasen über die Konsole wie die eines Musikers über die Tasten eines Instruments. 
+
+Das Licht der Resonanzkammer explodiert vor dir und hüllt dich ein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Mazzof liegt am Boden. Um ihn herum bildet sich eine Blutlache. Er atmet ein. Aus. Seine Hand zuckt einmal, dann nicht mehr. 
+
+Eines nach dem anderen gehen die Lichter auf der Konsole der Kammer an, als wäre eine Flamme in ihrem Inneren wieder entzündet worden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Das Licht in der Steuerungskonsole der Kammer pulsiert schneller, als du dich ihr näherst. Und noch schneller, als du die Hand ausstreckst, um sie zu berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Unter dem blendenden Schein der Steuerungskonsole der Kammer siehst du dunkle, sich windende Schatten und hörst das Flüstern einer versteckten Menschenmenge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Die Konsole pulsiert immer schneller, als du die Hand ausstreckst, um sie zu berühren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Einen Weg finden, um Mazzofs Kontrolle über die Konsole manuell zu umgehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Erneut versuchen, einen Weg zu finden, um Mazzofs Kontrolle über die Konsole manuell zu umgehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Das Licht der Konsole pulsiert so rhythmisch wie Atemzüge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Die Schildwände deaktivieren, die die Treppe blockieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du schließt deine Hand um die 16-seitige Form, die den Status der Schildwände anzeigt, und sie schrumpfen und verschwinden. Der Energiefluss entlang der Treppe kommt ins Stocken und versiegt.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

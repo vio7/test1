@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_pit_controls</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die Konsole besteht aus einer verwirrenden Vielzahl an Bildschirmen, unbeleuchteten Knöpfen und Schaltern, alle hilfreich beschriftet mit Wörtern einer Sprache, die du nicht verstehst. Große Teile sind von einer leichten Staubschicht bedeckt, als ob die Konsole selten, falls überhaupt, durch den Lascar in deiner Nähe benutzt werden würde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du kehrst zu der Konsole zurück und die Knöpfe flackern unter ihrer dünnen Staubschicht auf. Der Lascar starrt dich an, dann schaut er weg, beschäftigt mit seiner Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lass das Konstrukt in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Beobachte die Bewegungen des Lascar um ein besseres Gespür dafür zu bekommen, wann er nicht auf die Kontrollknöpfe achtet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die Kontrollknöpfe untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Struktur nochmal untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du lehnst dich über die Konsole und passt auf, dass du nicht versehentlich einen Knopf drückst. Wie du vorhin festgestellt hast, sind große Teile des Gerätes von Staub bedeckt. Ein Bildschirm auf der Seite ist jedenfalls komplett sauber und die Knöpfe daneben zeigen staubige Fingerspuren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Große Teile dieser Konsole ist von Staub bedeckt. Ein Bildschirm ist akribisch sauber und die Knöpfe müssen den Fingerabdrücken in dem Schmutz nach vor kurzem gedrückt worden sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Der Lascar wendet sich für einen Moment von der weitgehend dunklen Konsole ab, dann wieder zurück und konzentriert sich auf seine Arbeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Der sauberste Bildschirm auf der Konsole zeigt ein eckiges Symbol, das aus mehreren Teilen zusammengesetzt ist. Ein Knopf daneben leuchtet auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Auf dem Monitor wirbeln sechs Siegel in einer schwindelerregenden Spirale umher. Ein Knopf daneben leuchtet eindringlich auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Eine Reihe von Formen erhebt sich aus der Dunkelheit des Monitors und formt den Umriss einer großeren Form. Der Knopf neben dem Bildschirm leuchtet auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Den Phase 3-Knopf drücken, während der Lascar nicht hinschaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Nochmals versuchen, den Phase 3-Knopf zu drücken, während der Lascar nicht hinschaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Der Lascar seufzt und reibt seine Augen. In dieser Sekunde machst du einen Satz nach vorne und drückst den leuchtenden Knopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Mit einem Stöhnen reibt der Lascar seine Augenwinkel, aber du bist zu langsam um zu reagieren. Er kehrt zu seiner Arbeit zurück und schaut sich gelegentlich nach dir um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Der Lascar schaut auf, seine Augen verlassen den Monitor. Schnell und leise lehnst du dich nach vorne und drückst den Knopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Er dreht sich gelegentlich mit erhobenen Augenbrauen in deine Richtung und alles was du tun kannst, ist warten, lächelnd.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Den Phase 2-Knopf drücken, während der Lascar nicht hinschaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Nochmals versuchen, den Phase 2-Knopf zu drücken, während der Lascar nicht hinschaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Du wartest bis der Lascar abgelenkt ist und drückst schnell den Knopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Der Lascar schaut nach unten, gerade in dem Moment, als du nach vorne greifst und du wendest deine Bewegung in einer seltsamen Wellenbewegung schnell ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Den Phase 1-Knopf drücken, während der Lascar nicht hinschaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Nochmals versuchen, den Phase 1-Knopf zu drücken, während der Lascar nicht hinschaut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du beobachtest ihn ein paar kurze Momente lang. Seine Aufmerksamkeit ist aufgeteilt zwischen seinen Reparaturen und den Knöpfen, die sich direkt rechts und links neben ihm befinden. 
+
+Da ist etwas anderes in seinen Bewegungen - etwas potentiell nützliches - aber du kannst nicht wirklich ausmachen, was es ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Die Bewegungen des Lascar weiter studieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Du beobachtest ihn für einige weitere Sekunden. Sein Blick wechselt zwischen seinen Reparaturen, einem kurzen Überprüfen der Knöpfe und ... hinauf. Er schaut auf und in diesen Momenten fährt ein Licht über die Oberfläche seiner Augen. 
+
+Es gibt eine große Chance, dass er in diesen Momenten ... etwas anschaut, das du nicht sehen kannst. Und während er das tut, könnte es sein, dass er *dich* nicht sehen kann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Du weißt jetzt alles über seine Angewohnheiten, was du wissen musst. Jetzt oder nie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Der Lascar schaut in die Richtung des Geräusches, auf dein unschuldiges Gesicht und dann auf den jetzt dunklen Bildschirm und Knopf. Er runzelt die Stirn.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Der Lascar schaut wieder nach unten auf den *Klick*, runzelt wieder die Stirn.
+
+"Anfassen?", sagt er streng. Du antwortest nicht, und nach einem kurzen Moment wendet er sich wieder seiner Arbeit zu, beäugt dich jetzt noch öfter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Einer der Bildschirme zeigt eine Karte, die dir vage vertraut vorkommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Die vertraute Karte auf dem Bildschirm untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Die Karte von Klein-Nihliesh nochmals untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Du musst eine ganze Weile lang hinstarren, bevor du realisierst, warum die Karte dir vertraut vorkommt - es ist eine Ansicht von oben von Klein-Nihliesh. Der Schlund ist markiert und die ausführlichsten Details befinden sich nahe daran - vermutlich wird die Karte von Sensoren generiert, die sie dadurch projizieren. 
+
+Seltsamerweise gibt es eine leuchtende Markierung in einer Ecke der Karte. Von dem Schlund aus müssten es deiner Schätzung nach ungefähr dreißig Schritte nach rechts sein, an dem Ausgang in das riesige Innere vorbei, in eine kleine Sackgasse aus Abfall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Du schaust dir die Karte nochmal an und versuchst dir mental den Ort vorzustellen, an dem sich die leuchtende Markierung befindet. Von dem Schlund aus müssten es deiner Schätzung nach ungefähr dreißig Schritte nach rechts sein, an dem Ausgang in das riesige Innere vorbei, in eine kleine Sackgasse aus Abfall.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Die Karte stellt denselben Ort wie zuvor dar, aber die leuchtende Markierung ist jetzt verschwunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Die Kontrollknöpfe, die der Lascar dir gezeigt hat, benutzen und versuchen, die klemmende Schleusentür zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Nochmal versuchen, die Schleusentür zu öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Du starrst einen Moment lang die Kontrollknöpfe an, dann machst du dich an die Arbeit. Du verlässt dich auf deine Intuition als du ein paar Knöpfe drückst und dabei zuschaust, wie die Lichter im Raum herumflackern. 
+
+Schließlich berührst du ein unauffälliges Symbol auf dem Bildschirm. Die verschlossene Schleusentüre stößt eine dunkle Rauchwolke aus und öffnet sich langsam, während Funken in alle Richtungen sprühen, bevor die Türe schließlich anhält.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Du drückst eine Zeit lang Knöpfe und legst Schalter um, als der Lascar aufschaut. Keiner von ihnen hat eine Wirkung auf die Türe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Du bist dir jetzt sicher, selbst wenn er dich durch das Glühen über seinen Augen sehen kann, ist er nicht auf seine direkte Umgebung konzentriert. In diesen Momenten siehst du, wie sich sein Mund bewegt. Vielleicht spricht er ohne Stimme mit jemandem und sieht ihre Antworten in der Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Der Lascar klopft dir auf die Schulter. "Jetzt kaputt", sagt er glucksend. "Aber*offen* kaputt."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

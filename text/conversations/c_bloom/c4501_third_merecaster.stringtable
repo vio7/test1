@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_third_merecaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Lebensbildbetrachter ist fast so groß wie ein Sarkophag. Seine Oberfläche ist übersät mit unzähligen Anschlüssen und Öffnungen in verschiedenen Größen, Formen und Tiefen. Es hat den Anschein, als sollte er zum Betreten an einem Gestell aufgehängt und mit Schläuchen befestigt werden. Er wirkt uralt.
+
+Eine beharrliche Stimme in deinem Kopf sagt dir, dass du ihn betreten musst, um den Lebensbildbetrachter zu aktivieren, doch du siehst keinen Weg, wie du in das Gerät kommen könntest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Endiras Lebensbildbetrachter in die lange Öffnung stecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vicarianes Lebensbildbetrachter in eine tiefe Öffnung stecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lass ihn in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Endiras und Vicarianes Lebensbildbetrachter zusammenfügen und dann in die tiefe Öffnung stecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Endiras Lebensbildbetrachter in eine flache Öffnung stecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vicarianes Lebensbildbetrachter in eine flache Öffnung stecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Meine Erinnerungen durchsuchen ... oder die des Wandelnden Gottes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Es ist aus einem seltsamen Metal gefertigt, genau wie die beiden anderen Lebensbildbetrachter, die die Verstoßenen von Miel Avest der Memovira anvertraut haben. Bei genauerem Hinsehen fällt dir auf, dass die tiefste Öffnung hier praktisch die gleiche Form hat wie Endiras Lebensbildbetrachter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sieht aus, als könnte Endiras Lebensbildbetrachter in eine der langen Öffnungen passen. Wenn du ihn jedoch da hineinsteckst, wirst du ihn nicht mehr herausziehen können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Die zahlreichen Öffnungen und Einschübe des Sarkophags erscheinen dir angesichts deines Unverständnisses wie eine Verhöhnung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Du hast Endiras Lebensbildbetrachter in die tiefe Öffnung gesteckt. Du bekommst ihn nicht mehr heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Du hast Vicarianas und Endiras Lebensbildbetrachter verbunden. Sie scheinen miteinander verschmolzen und beide geben nun ein tiefes, pochendes Brummen von sich. Der Sarkophag scheint im Einklang damit seine Farbe von Rot auf Silber und zurück zu wechseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die mit Energie versorgten Lebensbildbetrachter passen genau in die tiefe Öffnung an der Seite des Sarkophags. Vicarianas Lebensbildbetrachter steht leicht hervor und gibt einen praktischen Griff ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die verbundenen Lebensbildbetrachter in die tiefe Öffnung stecken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Vicarianas und Endiras Lebensbildbetrachter verbinden.
+
+{COLIN/GEORGE: The option to fuse the two Merecasters together and then put them in later feels strange to me. What if the player walks away? Won't he still have two separate Merecasters in his inventory?}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Vicarianas Lebensbildbetrachter in dieselbe Öffnung schieben.
+
+{SCRIPT: Remove 2nd Bloom Merecaster from inventory}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Den Griff drehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Mit den Stiften voraus lässt er sich leicht in die Öffnung schieben. Seine Spitze steht von der Oberfläche des Sarkophags hervor. Allerdings scheint nichts zu passieren. Du ziehst ihn wieder heraus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Sie lassen sich einfach verbinden – die beiden Stifte von Vicarianes Lebensbildbetrachter passen perfekt zu jenen von Endiras. Die Lebensbildbetrachter verschmelzen miteinander und beginnen mit einem Brummen ihren Zyklus. Der Sarkophag scheint ebenfalls zu brummen. Vicarianes Lebensbildbetrachter steht leicht hervor und formt einen praktischen Griff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ja ... ja. Diese Maschine gehört zu den Lebensbildbetrachtern von Endira und Vicariane. Du musst die beiden verbinden, in eine Öffnung stecken und dann das Gerät aktivieren. Das müsste den Sarkophag öffnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Es scheint nichts zu passieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du hörst ein Klicken, als er in die beiden Löcher von Endiras Lebensbildbetrachter einrastet. Die beiden verschmelzen miteinander – du fühlst ihre Vibration durch deine Hand. Ein leises Brummen ertönt aus dieser Öffnung und du hörst, wie der Sarkophag denselben Ton von sich gibt.
+
+{SOUND: Play a low hum}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Du drehst an dem Griff und der Sarkophag erwacht vollständig zum Leben. Rote und silberne Lichter flackern in seinem Inneren auf und er öffnet sich mit einem Knacken. Er ist zur Benutzung bereit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Er gleitet in die Öffnung, als wäre sie speziell für diesen Lebensbildbetrachter gemacht. Du hörst ihn einrasten. Du versuchst, ihn wieder herauszuziehen, doch er steckt fest und ist für immer ein Teil dieses Sarkophags geworden.
+
+{SCRIPT: Remove Merecaster from inventory}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Es ist aus einem seltsamen Metall gefertigt, genau wie die beiden anderen Lebensbildbetrachter, die die Verstoßenen von Miel Avest der Memovira anvertraut haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Das Artefakt untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Die Struktur nochmal untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Die mit Energie versorgten Lebensbildbetrachter passen genau in die tiefe Öffnung an der Seite des Sarkophags. Vicarianas Lebensbildbetrachter steht leicht hervor und formt einen praktischen Griff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Die Spitze von Vicarianas Lebensbildbetrachter steht aus der Öffnung hervor und formt einen praktischen Griff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Leider besitzt du Vicarianes Lebensbildbetrachter nicht ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Leider befindet sich Endiras Lebensbildbetrachter nicht in deinem Besitz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Keiner der beiden Lebensbildbetrachter befindet sich in deinem Besitz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Sie passen perfekt ineinander und verschmelzen zu einem einzigen Stück, das ein tiefes, pochendes Brummen von sich gibt. Der Sarkophag scheint im Einklang damit seine Farbe von Rot auf Silber und zurück zu wechseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Überrascht stellst du fest, dass diese Farben nur in deinem Kopf existieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

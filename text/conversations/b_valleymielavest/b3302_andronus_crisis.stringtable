@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3302_andronus_crisis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Verdammt! Raima gehörte *mir*!“</DefaultText>
+      <FemaleText>"Verdammt! Raima gehörte *mir*!“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wir gehen, wir gehen.“</DefaultText>
+      <FemaleText>"Wir gehen, wir gehen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Was ist? Ich dachte, wir sollten nach den anderen Suchen.“</DefaultText>
+      <FemaleText>"Was ist? Ich dachte, wir sollten nach den anderen Suchen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Wir tun, was wir können. Lass uns sein.“</DefaultText>
+      <FemaleText>"Wir tun, was wir können. Lass uns sein.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die Verstoßenen kämpfen Seite an Seite, aber bei einer Armlänge Entfernung, als ob sie nicht gewissermaßen Seite an Seite kämpften.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Die beiden Verstoßenen setzen ihren Kampf gegen die Kummerfragmente fort und tu ihr allerbestes zu betonen, dass sie nicht aufeinander angewiesen sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ihnen sagen, dass sie die Kummerfragmente bekämpfen sollen.</DefaultText>
+      <FemaleText>Ihnen sagen, dass sie die Kummerfragmente bekämpfen sollen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Gerne."</DefaultText>
+      <FemaleText>"Gerne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Sie bitten, den anderen Verstoßenen zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Er nickt kurz. "Geht klar. Auf geht's, Raima.“</DefaultText>
+      <FemaleText>Er nickt kurz. "Geht klar. Auf geht's, Raima.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Sie überzeugen, zu fliehen und sich selbst zu retten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Er wirbelt herum, um zu erwidern, dann holt er angesichts der Verwüstung um ihn herum tief Luft. "Vielleicht hast du Recht. Auf geht's, Raima. Es gibt hier nichts mehr, wofür man kämpfen kann.“</DefaultText>
+      <FemaleText>Er wirbelt herum, um zu erwidern, dann holt er angesichts der Verwüstung um ihn herum tief Luft. "Vielleicht hast du Recht. Auf geht's, Raima. Es gibt hier nichts mehr, wofür man kämpfen kann.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Nein,“ brummt er. "Ich renne vor *niemandem* weg.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText>Verlassen.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Raima! Nein!“</DefaultText>
+      <FemaleText>"Raima! Nein!“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Die Füße des Glaives laufen vor und zurück, bereit für den nächsten Angriff. Seine Rüstung knarrt, als er sich schnell zu dir herumdreht, "Was denn?“</DefaultText>
+      <FemaleText>Die Füße des Glaives laufen vor und zurück, bereit für den nächsten Angriff. Seine Rüstung knarrt, als er sich schnell zu dir herumdreht, "Was denn?“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Was jetzt?"</DefaultText>
+      <FemaleText>"Was jetzt?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Ihm sagen, dass er die Kummerfragmente bekämpfen soll.</DefaultText>
+      <FemaleText>Ihm sagen, dass er die Kummerfragmente bekämpfen soll.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Gerne."</DefaultText>
+      <FemaleText>"Gerne."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Ihn bitten, den anderen Verstoßenen zu helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Er nickt kurz. "Geht klar.“</DefaultText>
+      <FemaleText>Er nickt kurz. "Geht klar.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ihn überzeugen, dass er fliehen und sich selbst retten soll.</DefaultText>
+      <FemaleText>Ihn überzeugen, dass er fliehen und sich selbst retten soll.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Er wirbelt herum, um zu erwidern, dann holt er angesichts der Verwüstung um ihn herum tief Luft. "Vielleicht hast du Recht.“</DefaultText>
+      <FemaleText>Er wirbelt herum, um zu erwidern, dann holt er angesichts der Verwüstung um ihn herum tief Luft. "Vielleicht hast du Recht.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Nein,“ brummt er. "Ich renne vor *niemandem* weg.“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ich gehe, ich gehe.“</DefaultText>
+      <FemaleText>"Ich gehe, ich gehe.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Was ist denn? Ich dachte, ich soll die anderen suchen.“</DefaultText>
+      <FemaleText>"Was ist denn? Ich dachte, ich soll die anderen suchen.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ich tu, was ich kann. Lass mich in Ruhe.“</DefaultText>
+      <FemaleText>"Ich tu, was ich kann. Lass mich in Ruhe.“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Raima zieht immer davon. Wir können nicht zusammenarbeiten, wenn wir nicht annähernd zusammen sind!“</DefaultText>
+      <FemaleText>"Raima zieht immer davon. Wir können nicht zusammenarbeiten, wenn wir nicht annähernd zusammen sind!“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Wir haben keine Angst vor dir. Willst du Stahl spüren?!“</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Hier kommt er!“</DefaultText>
+      <FemaleText>"Hier kommt er!“</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

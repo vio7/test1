@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_cave_painting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Leuchtende, sich bewegende Bilder zieren die Klippenseite. Erkennbare Formen tanzen in blockigen, gekünstelten Bewegungen. Unbekannte Tiere laufen um menschliche Wesen herum, gehen in Höhlen rein und wieder raus, die in die Klippen gemeißelt wurden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Figuren auf der Felswand bewegen sich weiter. Wie zuvor beherrschen vier Piktogramme die Tafel: zwei sich streitende Gruppen pentagonköpfiger Wesen in einem brennenden Ring, zwei ähnliche Figuren, die sich in einem Kreis streiten, ein friedliches aber primitives Dorf und das gleiche Dorf im zerstörten Zustand.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Schiebe deine Hand zwischen das Bild der Streitenden und des brennenden Rings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Schiebe deine Hand zwischen das Bild des friedlichen Dorfes und der zwei streitenden Figuren im Kreis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Schiebe deine Hand zwischen das Bild des friedlichen Dorfes und des zerstörten Dorfes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Schiebe deine Hand zwischen das Bild des brennenden Rings und des friedlichen Dorfes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Schiebe deine Hand zwischen das Bild des brennenden Rings und des zerstörten Dorfes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Schiebe deine Hand zwischen das Bild der Streitenden und des zerstörten Dorfes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Studiere die Glyphen, um das Numenera zu verstehen, das sie mit Energie versorgt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Versuche, mehr über das Numenera herauszufinden, das den Glyphen Energie gibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Tritt zurück.</DefaultText>
+      <FemaleText>Tritt zurück.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Die Linien zwischen dem Dörfchen und den Streitenden blinken und erstarren dann. Die erste Felszeichnung erstarrt und die Bewegung der zweiten verlangsamt sich stark. Der erste Satz der Sequenz scheint eingerastet zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Als deine Hand das zweite Bild berührt, erstarren die streitenden Parteien im ersten Felsenbild. Die streitende Gruppe wird langsamer in der Bewegung. Du hast den zweiten Satz der Sequenz isoliert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Mit einem letzten Wischen mit deiner Hand, erstarren die streitenden Gruppen in den Flammen, sowie das Bild mit der zerstörten Heimstätte. Der dritte Satz der Sequenz ist jetzt verbunden und nun ist die Geschichte erzählt: Ein ruhiges Dorf, ein Streit, der Krieg brachte, der Tod von jenen, die es nicht wert sind von den Kämpfern beachtet zu werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Die Linien leuchten auf, wenn du deine Hand zwischen den Bildern hin- und herwischst, gehen aber sofort wieder aus. Das ist entweder eine nicht benutzte Kombination oder nicht der nächst Schritt der Sequenz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Vorsichtig jeden Bereich der Wand untersuchend bemerkst du, dass ein Artefakt unter der Oberfläche den Stein selbst aufleuchten lässt, indem es Energie durchfließen lässt. Dieser Energiefluss ist im Zentrum am größten und deckt sich mit der Verbindung zwischen dem Paar im brennenden Ring und den streitenden Gruppen. 
+
+Du schiebst deine Hand zwischen die beiden Piktogramme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Erinnerung an ein idyllisches aber schroffes Dorf überflutet deinen Verstand. Ein merkwürdiges Artefakt wurde hier von deinem Erzeuger entdeckt und von jemandem wie dich. Aber statt neue Entdeckungen zu ermöglichen, erschuf es eine brutale Spaltung zwischen ihnen.
+
+Du schiebst deine Hand zwischen das Dorf und die zwei Figuren in einem Kreis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Am steinigen Weg weiter abwärts, öffnen sich die riesigen Steintore, die die Höhle versperrt haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Als die Türen sich öffnen, erlischen die schimmernden Piktogramme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Das erste zeigt zwei sich streitende Gruppen pentagonköpfiger Wesen in einem Feuerring. Das zweite zeigt einen Mann und eine Frau, die in einem Kreis stehen und sich streiten. Das nächste zeigt ein Dorf: eine Höhle, ein Kochstelle und eine kleine Gruppe von Wesen mit runden Köpfen. Das letzte zeigt jene Wesen, tot und verblutet, die Höhle zerstört und die Kochstelle erloschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Die Figuren um die Steinwand herum bewegen sich weiter, außer den beiden, die du an Ort und Stelle eingerastet hast. Gelb leuchtende Linien verbinden das Bild eines beschaulichen Dorfes mit den zwei pentagonköpfigen Wesen, die in dem Ring streiten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Figuren um die Steinwand herum bewegen sich weiter, außer den dreien, die du an Ort und Stelle eingerastet hast. Gelb leuchtende Linien verbinden das Bild eines beschaulichen Dorfes mit den zwei pentagonköpfigen Wesen, die in dem Ring streiten und dann dem Bild der streitenden Gruppen im brennenden Ring. Nur noch ein Bild ist nicht verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Besonders vier Bilder stechen aus dem Rest heraus. Sie sind größer und fließender animiert, hauchdünne gelbe Linien fließen zwischen ihnen. Wenn du deine Hand in der Nähe der Felsenbilder bewegst, leuchten die Verbindungen dazwischen auf. Du kannst damit die Bilder verbinden, aber die korrekte Reihenfolge ist ein Geheimnis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Durch deinen Kopf schießen Bilder eines friedlichen Dorfes, aber bevor du den nächsten Schritt sehen kannst, verschwindet die Erinnerung wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Deine Augen streifen über jede Ecke der Klippenfront  auf der Suche nach einem Hinweis, wie dieser Mechanismus funktioniert. Nach einigen Sekunden ohne Belohnung, richtest du deine Aufmerksamkeit auf etwas Anderes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Versuche dich zu erinnern, wie die Geschichte begann.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Suche nach den abgegriffensten Linien, um festzustellen, welche Verbindung die erste in der Sequenz ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Versuche noch einmal, Spuren der am meisten benutzten Verbindung zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Du kannst nur eine Millimeter-tiefe Spur in einer Linie finden, die das ruhige Dorf mit dem brennenden Ring verbindet. Jahrhunderte lang hinterließen Finger feinste Fettspuren, die langsam den Stein abtrugen.
+
+Du schiebst deine Hand zwischen die beiden Bilder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Du kannst keinen Unterschied finden, was Verwitterung, Staub oder sonstige Hinweise auf die erste Verbindung schließen lässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Die restlichen Felsbilder köcheln mit goldener Energie.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4311_anchorage_viewscape</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dies scheint nicht der Ort zu sein, den du in deinem Sturz gesehen hast. Es ist möglicherweise nicht einmal der gleiche Planet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Die Sterne, die durch die Leere funkeln, sind unvergleichlich. Dies ist nicht die Welt, die du kennst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du blickst auf eine grünende Welt hinab, die mit Wäldern und Ebenen bedeckt ist. Unter dir erhebt sich ein schmaler Strunk von der Welt, um sich mit dem Ankerplatz zu verbinden. Du erkennst riesige Städte; selbst aus dieser Entfernung sehen sie belebt aus. Riesige Seen, in regelmäßigen Abständen angelegt, scheinen den gesamten Wasserbedarf der Welt zu decken.
+
+{GEORGE/JESSE: I changed the multiple conditionals to this addendum node, rather than rewriting the description multiple times}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ein klares, summenden Kraftfeld trennt dich von der sternenbesäten Leere dahinter und der Welt unter deinen Füßen.
+
+Nun ja. Zumindest stürzt du diesmal nicht zur Erde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Betrachte die Welt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Weggehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Der massive Sichtschirm schimmert und verzerrt leicht die Welt, die in der Leere unter dir schwebt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Betrachte die Leere.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ohne die filternde Atmosphäre leuchten die Sterne hier mit einer fast wilden Klarheit. Vielleicht ist es dein Sichtwinkel, die Konstellationen hier kommen dir jedoch *gar nicht* bekannt vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

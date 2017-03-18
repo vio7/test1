@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_c4111_marooned_on_an_alien_shore</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ausgesetzt auf einer Auserirdischen Küste</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Finde einen Weg zum Zuhause der Lascare.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Melde dich bei den Lascaren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Heimwärts Gebunden</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Drei Lascare, denen du in der Flor begegnet bist, berichten, dass der Schlund, der in ihre Heimat führtm geschlossen ist, sodass sie nun gestrandet sind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Die Lascare baten dich, einen Weg in ihre Heimat zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Nun, da du einen Schlund gefunden hast, der in die Heimat der Lascare führt, bleibt nur, ihnen von seinem Standort zu berichten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Du erzähltest den Lascaren vom Schlund in Klein-Nihliesh, der in ihre Heimat führt. Nachdem sie dir ihre Dankbarkeit ausdrückten, zogen sie schnell fort.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Du fandest einen Schlund in Klein-Nihliesh, der in die Heimat der Lascare führte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Ein zusätzliches Ende hinzugefügt, weil das Logbuch den Auftrag nicht richtig ausgraut, wenn man nicht zwei oder mahr davon hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

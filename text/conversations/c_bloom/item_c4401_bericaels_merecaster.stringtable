@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\item_c4401_bericaels_merecaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Dieser Lebensbildbetrachter fühlt sich heiß an. Unter deinen Händen spürst du das Klicken und Wirbeln zahlloser sich bewegender Mechanismen. 
+
+Das Verlangen, das Lebensbild darin zu erkunden, brennt in dir wie Durst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du holst den Lebensbildbetrachter aus deiner Tasche und lässt ihn beinahe fallen. Wenn überhaupt ist er seit dem letzen Mal nur noch heisser geworden. 
+
+Wieder verspürst du das Drängen der darin enthaltenen Erinnerungen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Das Lebensbild betreten.
+{SCRIPT: This conversation should be disabled after the player has entered the Mere.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Lebensbildbetrachter weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Den Lebensbildbetrachter untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Mechanismen in dem Gerät klicken rhythmisch wie Trommelschläge. Wie Soldaten, die gar nicht anders können, als im perfekten Gleichschritt zu marschieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_raima</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sie starrt dich voller rücksichtslosem Hass an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sie knurrt, als du dich näherst. Ihr Glaube daran, dass du ein Mitglied der Armee der Ersten bist, ist ungebrochen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Versuche Raima zu überzeugen, dass sie nur eine Illusion sieht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Benutze die Gezeiten, um sie von der Illusion zu befreien.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Wende dich von Raima ab.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Raima, ich bin's! Ich half dir und Andronus in Miel Avest Frieden zu schließen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Eine Sekunden lang schielt sie. "Du ... Nein. Du versuchst mich reinzulegen … nicht wahr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Raima blickt finster. "Ich lasse mich nicht von so billigen Lügen einnehmen. Stirb!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Schlag Raima ins Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Deine Handfläche berührt Raimas Backe und der darauf folgende Wutschrei lässt dich nachdenken, ob deine Herangehensweise klug war. Dann blinzelt sie und schaut sich verwundert um.
+
+Dann kehrt ihr finsterer Blick zurück, obwohl ein wenig Zweifel bleibt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Als deine Handfläche Raimas Backe berührt, kommt dir der Gedanke, dass eine Kriegerin wie sie so einen Affront niemals locker aufnimmt. Ihre bebenden Nasenflügel sagen alles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Konzentriere dich auf Raima und erinnere sie daran, dass das nicht die echte Endlose Schlacht ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Als du ihr die Ungereimtheiten zwischen der Welt, die sie sehen kann und der realen Welt aufzeigst, entspannt sich Raima langsam. Stück für Stück fallen ihre Schultern nach unten und schließlich lässt sie ihre Waffe seitlich fallen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Vernunft scheint nicht den feurigen Glanz von Raimas Wut zu brechen.  Sie bereitet sich auf die nächste Attacke vor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Schnapp dir Raima an den Schultern und schüttle sie, bis sie zur Vernunft kommt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Bevor sie sich von der weg bewegen kann, greifst du Raima an den Armen und schüttelst sie hin und her. Ihre sofortige Reaktion: sie hebt ihre Waffe an. Aber dann zögert sie. Und langsam werden ihre Augen klar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Wildes Schütteln verstärkt nur ihre Wut. "Dafür wirst du bezahlen, Verräter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Du setzt die Kraft der Gezeiten frei. Die Energie, die dich durchfließt ist schmerzhaft, aber Raima schwankt als sie ihr die Illusion aus dem Kopf spülen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Danke, dass du mich aus dem Griff dieses Ortes befreit hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Eine Grimasse huscht über Raimas Gesicht und für einen Augenblick hast du das Gefühl, versagt zu haben. Dann senken sich ihre Schultern und ihre Augen werden klar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Was ist passiert?" Sie sieht sich um, erkennt dich und was um sie herum los ist. "Ich verstehe. Nun, ich bezweifle, dass du nur hier bist, um mich zu retten. Du hast mir in Miel Avest geholfen. Ich helfe dir so gut ich kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Nach einem Moment erkennt sie dich. "Was machst *du* hier? Ich ... nein ... Was ist los?"
+
+Während sie noch spricht, beginnt sie zu schwinden und verschwindet in einen anderen Teil des Labyrinths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ihr manischer Blick erfasst dich erneut, als du dich näherst, aber dieses Mal kneift sie die Augen zusammen. Der Zweifel nagt an ihrer Wut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wo bin ich? Du ... "Was hast du mit mir getan?" Ich ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vernichte sie! Lösche sie im Namen des Erzeugers aus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Nach einem Moment erkennt sie den Letzten Verstoßenen. Was macht *er* hier? Ich ... Nein ... Was ist los?"
+
+Während sie noch spricht, beginnt sie zu schwinden und verschwindet in einen anderen Teil des Labyrinths.</DefaultText>
+      <FemaleText>Nach einem Moment erkennt sie die Letzte Verstoßene. Was macht *sie* hier? Ich ... Nein ... Was ist los?"
+
+Während sie noch spricht, beginnt sie zu schwinden und verschwindet in einen anderen Teil des Labyrinths.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Die Glaive, die du von Miel Avest kennst, starrt dich voller Wut an und scheint dich nicht im Geringsten zu erkennen.  "Noch einer? Du kommst zu spät, um den Verrätern noch zu helfen. Töte auch ihn!"</DefaultText>
+      <FemaleText>Die Glaive, die du von Miel Avest kennst, starrt dich voller Wut an und scheint dich nicht im Geringsten zu erkennen.  "Noch eine? Du kommst zu spät, um den Verrätern noch zu helfen. Töte auch sie!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Ergeben] "Ich werde nicht gegen meine Brüder und Schwestern kämpfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Du bist in einer Illusion gefangen, Raima. Nichts hiervon ist echt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Angriff] "Wenn du den Kampf suchst ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ha! Ein Verräter und ein Feigling. Wie erbärmlich." Mit auf dich gerichteten Augen legt Raima ihre Waffe an und feuert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Hinterlistig wie die Erste selbst. Mein Verstand ist klar und ich sehe in dir den habgierigen Lügner, der du bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Macht ihn kalt, Brüder!"</DefaultText>
+      <FemaleText>"Macht sie kalt, Brüder!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vernichte sie! Lösche sie im Namen des Erzeugers aus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ein weiterer Einsatz der Kräfte des Verräters! Angriff!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Was ist passiert? Du ... Ich kenne dich aus Miel Avest. Ich helfe dir so gut ich kann."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ich wünschte, es gäbe einen Weg, alle anderen zu befreien, statt gegen sie zu kämpfen."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

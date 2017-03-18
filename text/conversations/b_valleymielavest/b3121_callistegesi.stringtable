@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3121_callistegesi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>139</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Callistege fährt mit den Fingerspitzen über die tief eingelassenen konzentrischen Kreise. Ihre Echos beobachten sie mit Argusaugen, aber sie ist zu konzentriert, um darauf zu achten.
+ 
+ "Solch Kunstfertigkeit", flüstert sie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Was ist die Botschaft?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich bin mir nicht sicher..." Sie runzelt die Stirn. Sie zeichnet weiter mit den Fingern die Linien nach, während jede ihrer Schwestern die Kreise jeweils aus einem etwas anderen Blickwinkel betrachtet. "Das hier im Zentrum sieht aus wie die Neunte Welt. Aber die anderen Bilder..." Sie verstummt.
+ 
+ Sie runzelt die Stirn. "Maschinen, Nanobots, die Datosphäre. Und wenn dieses Bild... ja. Wenn wir diesen Apparat finden, kann ich eine Verbindung herstellen..."
+ 
+ Sie verstummt wieder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich verstehe es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Versuch's weiter, Liebes! Es ist wichtig für unsere Suche. Das spüre ich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>(Lüge) "Ich verstehe es nicht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Nur Geduld. Wir werden es verstehen. Wir brauchen nur ein wenig mehr Zeit."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vergiss es. Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Was?" Callistege und ihre Echos wirbeln zu dir herum. "Das kann nicht dein Ernst sein! Wir haben noch nichts verstanden!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Versuchen, das Bild zu entschlüsseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Erneut versuchen, das Bild zu entschlüsseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Es ist eine Art uralter Bauplan - du siehst einen Haufen Türme, Gabeln, Kreise, Energiekugeln und mehr. Du konzentrierst dich auf eine Gabel und erkennst die linke Zacke als einen der vielen Apparate, die dein Erzeuger unter Sagus-Klippen versteckt hat. In diesem Bild ist es jedoch von einer Reihe scharfer Linien umgeben, von denen eine eine unidentifizierbare Figur entzwei teilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Es ist eine Art uralter Bauplan - du siehst einen Haufen Türme, Gabeln, Kreise, Energiekugeln und mehr. Du konzentrierst dich noch mehr auf das Bild. Die linke Zacke einer Gabel ist es von einer Reihe scharfer Linien umgeben, von denen eine eine unidentifizierbare Figur entzwei teilt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die Türme sind dagegen von konzentrischen Kreisen umgeben, in denen die Figuren ganz bleiben. Die Spitzen der Türme ragen bis zum dritten die Welt umgebenden Ring empor, die Zacken dagegen nur bis zum ersten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Sieht aus wie... Verteidigungsanlagen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Callistege macht große Augen. Sie wendet sich wieder dem Bild zu und zeichnet die Linien mit neuer Energie nach.
+ 
+ "Natürlich! Die höheren Bauwerke durchbrechen die dritte Ebene, während die kleinen..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Das haben wir im Labor deines Erzeugers gesehen", sagt sie langsam und sieht dich an. "Wenn du richtig liegst, hilft dieses Numenera mir nicht weiter." Sie ist einige Momente lang still.
+ 
+ {SCRIPT: Conditional - PC took Callistege to the Buried Crossroads.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Sie runzelt die Stirn. "Ich weiß nicht, wie man die in der Welt finden soll, aber vielleicht können wir davon ausgehen, dass sie originalgetreu abgebildet wurden und wir sie erkennen, wenn wir sie sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Dann bessert sich ihre Laune wieder. "Ich bin der Datosphäre einen Schritt nähergekommen und du bist bereits einen Schritt weiter als dein Erzeuger je gekommen ist!" Sie nickt selbstzufrieden. "Du hast allen Grund, stolz zu sein, Liebes. Du hast soeben deinen Erzeuger hinter dir gelassen."
+ 
+ Sie lässt dich los und lässt das Bild mit einer Handbewegung wieder verschwinden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Lass uns weitermachen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Du hast recht. Versuchen wir es weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Wir können später hierher zurückkommen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Vielleicht gibt es hier nichts zu verstehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Wir sind hier fertig, Callistege. Stelle meine Entscheidungen nicht in Frage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Sie stößt einen Seufzer der Erleichterung aus. "Danke. Ich brauche nur noch ein paar Augenblicke."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Sie tritt von der Wand zurück und sieht dich unverhohlen an. Sie macht auf dem Absatz kehrt und stapft davon. Beim Weggehen knurrt sie dir über die Schulter zu:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Fein." Callistege rauscht an dir vorbei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ich schätze, meine Sache kann warten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Oder vielleicht kannst du einfach nicht verstehen." Sie wirft dir einen vernichtenden Blick zu. "Sag was du willst. Ich weiß jetzt, dass du immer nur das Produkt deines Erzeugers sein wirst, nie mehr." Sie macht auf dem Absatz kehrt und stapft davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Vielleicht." Sie macht einen Schritt zurück. Dann noch einen.
+ 
+ "Welche traurige Hoffnung, die bereits von einer so trivialen Erkenntnis zunichte gemacht werden kann", sagt sie leise. Dann dreht sie sich um und geht davon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich verstehe, Verstoßener", sagt sie leise. "Ich bin nur überrascht, dass ich nicht schon früher verstanden habe." Sie wirft dir einen vernichtenden Blick zu, macht auf dem Absatz kehrt und stapft davon.</DefaultText>
+      <FemaleText>"Ich verstehe, Verstoßene", sagt sie leise. "Ich bin nur überrascht, dass ich nicht schon früher verstanden habe." Sie wirft dir einen vernichtenden Blick zu, macht auf dem Absatz kehrt und stapft davon.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Der gemeißelte Kopf und seine Perlenschnüre haben sich seit dem letzten Mal nicht verändert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ihr Blick fällt auf die acht konzentrischen Ringe. Sie pfeift erfreut.
+ 
+ "Ich würde diesem Ding zu gerne seine Geheimnisse entlocken." Sie fährt mit den Fingern über die Ketten, was eine Reihe diskordanter Töne auslöst, die einen zitternden, hässlichen Regenbogen entstehen lassen. Sie runzelt die Stirn.
+ 
+ "Es muss wohl gestimmt werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Mit Callisteges Hand auf deiner Schulter wird das Bild vor deinen Augen plötzlich klar. Du siehst ein in die Luft projiziertes kompliziertes Bild mit flackernden Lichtern, die Daten und Maße darstellen sollen. Du begreifst, dass diese Bilder und Maße verschiedene Realitäten und Dimensionen durchdringen und du bekommst einen kurzen Einblick darin, wie Callistege die Welt sehen muss. Wahrscheinlichkeiten winden sich um dich herum und nur dank der Verschmelzung eurer Geister kannst du verstehen, was du vor dir siehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Selbst mit Callisteges multidimensionaler Unterstützung sind die Bilder zu stark, zu intensiv, für dich. Das Licht ist von einer Beschaffenheit, die in deinen Augen *brennt*. Mit tränenden Augen wendest du den Blick ab.
+ 
+ "Wir müssen es noch mal versuchen", fleht sie. "Ich brauche deine Hilfe! Konzentrier dich!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Du versuchst es erneut und bemühst dich, die Bilder im gleißenden Licht zu sehen, aber sofort beginnen deine Augen wieder zu tränen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Dieser gemeißelte Kopf ist mit einer Reihe komplizierter Symbole übersät. Am auffälligsten sind die acht konzentrischen Kanäle auf der Stirn. In jedem Kanal befindet sich eine Porzellanperle an einem losen Metallfaden. Die Fäden sind unterschiedlich dick. Die Fäden verschwinden im Nasenrücken und kommen in gleichmäßigen Abständen aus dem offenen Mund wieder heraus, von wo aus sie bis zum Boden hinab hängen.
+ 
+Das Ganze erinnert dich an ein großes Saiteninstrument. Allerdings hast du keine Ahnung, wie man es spielt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Die Saiten untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Die Perlen untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Versuchen, die Saiten durch Verschieben der Perlen zu stimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Die Saiten erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Die Perlen erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Sie seufzt frustriert. "Wir müssen dieses Rätsel lösen. *Ich* muss." Sie schluckt. "Ich... Ich bitte dich noch um ein wenig Zeit. Nur ein bisschen noch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Na gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Wir haben andere Dinge zu erledigen. Wir müssen los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Fein." Ihre Gesichtszüge verhärten sich und ihre Echos wenden bestimmt den Blick von dir ab. "Verstehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Deine Bedürfnisse sind schließlich wichtiger als alles andere."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Danke. Das bedeutet mir viel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Die Gravuren und Zeichen auf dem Kopf untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Die Zeichen auf dem Kopf erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Diese Gravuren wurden nicht von Menschenhand gemacht. Sie fließen in einer gänzlich fremdartigen Sprache und Lichter leuchten in ihrem Inneren... sie anzusehen benebelt das Gehirn. Du bekommst das Gefühl, dass dein Geist in ein unendlich fernes Labyrinth gezogen wird. Ein Blinzeln bringt dich jedoch schlagartig wieder in die vertraute Realität zurück.
+ 
+Du spürst beginnende Übelkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Erneut benebeln die Zeichen deinen Geist und ziehen ihn aus deinem Körper. Und erneut ist der Bann gebrochen, sobald du die Augen schließt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Ihr Blick fällt auf die acht konzentrischen Ringe. Sie pfeift erfreut.
+ 
+ "Ich würde diesem Ding zu gerne seine Geheimnisse entlocken." Sie fährt mit den Fingern über die Saiten und lächelt, als dieselben überirdischen Töne erklingen, die du bereits gehört hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Jede Perle besteht aus einem anderen Metall, doch alle sind kunstvoll und detailliert gefertigt. Eine winzige Einkerbung in der Perle hält sie an der Saite fest - ein verbindender Lichtstrahl. Ein kleiner Steg verbindet die Perle mit einer zweiten im Nebenkanal. Die Perlen sind in den Kanälen frei beweglich. Wenn du eine bewegst, bewegt sich die andere entsprechend mit.
+ 
+Bei genauerer Betrachtung erkennst du in den Kanälen vier kleine Einbuchtungen in Form eines X. Wenn du die Perlen in diese Einbuchtungen führst, kannst du die Saiten vielleicht einrasten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Sie sind winzig und metallisch und jede einzelne ist mit einer zweiten in einem Nebenkanal verbunden. Sie scheinen dazu zu dienen, die Saiten fester anzuziehen oder zu lockern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Alle acht Saiten sind durchsichtig, unterschiedlich dick und aus glänzendem und soliden, aber dennoch sanftem Licht geformt. Wenn du sie berührst, machen sie ein furchtbares Geräusch... wie splitterndes Glas, knirschendes Metall und das Brüllen exotischer Tiere.
+ 
+Die oberen Enden der Saiten sind jeweils mit einer kleinen Perle in einem der acht konzentrischen Kreise verbunden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Sie sind aus glänzendem Licht geformt und heulen und krachen, wenn du sie berührst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Versuchen, die Saiten erneut zu stimmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Jetzt, wo die Saiten gestimmt sind, glänzen und schillern sie im diffusen Licht des Grabs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Du schiebst den Steg zwischen den Perlen in die tieferen Einbuchtungen und sie rasten mit einem hörbaren *Klick* ein. Das Licht der Saiten verändert sich ein wenig und der furchtbare Lärm, den sie eben noch produzierten, wandelt sich zu einem angenehmen Summen. Die acht Saiten stehen nun im Einklang miteinander.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Du schiebst die Perlen in ihren konzentrischen Kanälen hin und her, kannst sie aber nicht zum Einrasten bringen. Mit ohrenbetäubendem Krachen schlittern sie zurück in ihre alte Position.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Du kannst die Stege zwischen den Perlen nicht geschickt genug bewegen und sie rutschen dir aus den Fingern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Etwas auf dem gestimmten Instrument spielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Erneut eine Melodie auf dem gestimmten Instrument spielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Du fährst mit den Händen über die Saiten und Lichter erscheinen über dem Instrument. Ein seltsames Farbenspiel flimmert zu deinem Spiel, nicht ganz im Takt der Musik. Die Bilder scheinen sich immer *fast* zusammenzufügen, ohne es je ganz zu tun. Du bekommst Kopfschmerzen und hast unerklärlicherweise den Geschmack von Sand im Mund. 
+ 
+ Du hörst auf zu spielen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Die Lichter flackern erneut auf. Unzusammenhängende Bilder leuchten vor deinen Augen auf: Piktogramme, Zahlen, Lettern unbekannter Sprachen - sie alle ziehen zu schnell vorbei, als dass du etwas davon verstehen könntest. Die Töne, die die Saiten produzieren, enthalten Informationen, die flüchtige Erinnerungen und Emotionen in dir auslösen.
+ 
+ Du hörst erneut zu spielen auf, als die Kopfschmerzen zu stark werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ich denke, ich kenne einige Melodien, die wir spielen könnten."
+ 
+Sie legt die Finger auf die Saiten und konzentriert sich. Einige ihrer solideren Echos beugen sich zu ihr und flüstern ihr etwas ins Ohr. Sie lächelt und murmelt etwas zurück. Sie beginnt, die Saiten anzuschlagen.
+ 
+Die Töne sind kristallisch, wie aus einer anderen Welt. Sie fahren dir in Mark und Bein. Nach einigen zögerlichen Tönen ist Callistege vertraut genug mit dem Instrument, um eine eindringliche Melodie in Moll zu spielen.
+ 
+ {AUDIO: Something like a harp, only pitchshifted and modulated so that it sounds almost like windchimes}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Sie lässt die Saiten los und tritt von dem Instrument zurück. Nichts passiert. "Wie enttäu-"
+ 
+Die Saiten verhärten sich komplett und summen. Über ihnen tobt ein Chaos aus verwirrenden Lichtern und Bildern. Du kannst nicht mal hinsehen - irgendeine Art räumlicher oder zeitlicher Verzerrung blendet dich.
+ 
+Dann legt dir Callistege eine Hand auf die Schulter und für einen Moment siehst du das Bild wie sie es sieht. Das Bild wird entlang der verschiedenen Realitätsebenen plötzlich scharf und klar. "Gemeinsam", flüstert sie, "werden wir es lösen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Ohne Callisteges Berührung werden die Bilder nicht klar. Sie erstrecken sich über verschiedene Realitäten und du kannst sie nicht verstehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Ohne Callistege ist es hoffnungslos - die Bilder erstrecken sich über zu viele Realitäten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Versuchen, das Bild zu entschlüsseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Erneut versuchen, das Bild zu entschlüsseln.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Was siehst du?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Hast du erfahren, was du wissen musst?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Gehen wir, Callistege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Sie zieht als Antwort eine Augenbraue hoch und flüstert mit ihren Schwestern. Sie alle starren eindringlich auf das Bild und nicken zufrieden. Sie lässt dich los und sofort verursacht das von dem Instrument projizierte Bild bei dir Übelkeit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Wann immer du willst, Liebes. Danke, dass du mir ermöglicht hast, diesen Apparat zu untersuchen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Nur einen Moment noch." Sie wirft einen letzten Blick auf den Plan und sie und ihre Schwestern prägen sich das Bild im Gedächtnis ein. "Ja. Wir sind hier fertig. Sieh weg."
+ 
+ Du wendest den Blick ab und sie lässt dich los. Dein Geist ist wieder erfüllt von einer einzigen Realitätsebene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Sie macht große Augen. Sie wendet sich wieder dem Bild zu und zeichnet die Linien mit neuer Energie nach.
+ 
+ "Natürlich! Die höheren Bauwerke durchbrechen die dritte Ebene, während die kleinen..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Callistege spielt dieselbe Melodie wie zuvor. Die Bilder flackern erneut auf, aber nicht ganz so kraftvoll wie zuvor - so als hätte dein Verständnis seiner Botschaft das Bild seiner Kräfte beraubt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Callistege spielt dieselbe Melodie wie zuvor. Das Bild bleibt bestehen und erstreckt sich flackernd über verschiedene Realitäten mit einer Kraft und Intensität, die deinen Geist schmerzt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Du streichst über die Saiten und produzierst nur Missklang. Kein Vergleich zu der Melodie, die Callistege gespielt hat.
+ 
+Die Lichter flackern erneut auf. Unzusammenhängende Bilder leuchten vor deinen Augen auf: Piktogramme, Zahlen, Lettern unbekannter Sprachen - sie alle ziehen zu schnell vorbei, als dass du etwas davon verstehen könntest. Die Töne, die die Saiten produzieren, enthalten Informationen, die flüchtige Erinnerungen und Emotionen in dir auslösen.
+ 
+Du hörst erneut zu spielen auf, als die Kopfschmerzen zu stark werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Der gemeißelte Kopf und seine Perlenschnüre haben sich seit dem letzten Mal nicht verändert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Der gemeißelte Kopf und seine Perlenschnüre haben sich seit dem letzten Mal nicht verändert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Es muss gestimmt werden. Lass es uns stimmen, ja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Du hast es gestimmt!" Sie betrachtet das Instrument begehrlich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Wir müssen diese Bilder entschlüsseln", sagt sie mit großen, neugierigen Augen. "Gemeinsam."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

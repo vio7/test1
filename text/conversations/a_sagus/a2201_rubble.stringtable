@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2201_rubble</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Die salzige Luft gleicht nur teilweise die faulige Süße aus, die aus diesem Gewirr aus Holz, Stein und Eisen ausströmt. 
+
+Bis vor Kurzem war dies ein bewohntes Haus, doch der instabile Boden muss es zum Einsturz gebracht haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Der Gestank von faulendem Fleisch schwebt noch immer über diesem Haufen eingestürzter Trümmer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Du schiebst zerstörte Möbelstücke und kleine Trümmerteile zur Seite, doch du findest nichts Wertvolles. Nach einer Weile erkennst du, was vorgefallen ist – jemand hat die Ruine bereits durchsucht und die wertvolleren Güter mitgenommen. 
+
+Du bleibst stehen und konzentrierst dich. Nichts an diesem Steinhaufen ist vertraut ... doch der Ausblick von der Stelle, an der einst die Tür war – ein endloser Horizont, der auf das Meer fällt – ist dir vertraut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Betrachte den Horizont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Betrachte den Horizont erneut.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Der Wind fährt dir über das Gesicht. Du blinzelst ins Sonnenlicht und versuchst, dich zu erinnern. Du hast hier schon einmal gestanden – das weißt du. Du lässt deinen Gedanken freien Lauf ...
+
+Der Horizont neigt sich und du taumelst, als du von der Erinnerung übermannt wirst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Erinnerungsstücke kitzeln deinen Geist, als du über den Rand der Klippe starrst ... doch nichts verfestigt sich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Es gibt nun wenig Zweifel. Der Wandelnde Gott – und der durch den Kummer getötete Verstoßene – lebten einst hier.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Grabe dich durch den Haufen, um die Quelle des Gestanks zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Grabe dich weiter durch die Ruinen, um die Quelle des Gestanks zu finden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Der Geruch wird stärker als du eine Deckenplatte beiseite wirfst. Ein Schwarm aufgeschreckter Insekten wirbelt in den Himmel und enthüllt dabei ...
+
+Den Leichnam einer jungen Frau, zerrissen und zerschmettert. Eine unsichtbare Hand reißt dir die Luft aus dem Brustkorb und die Stärke aus den Beinen. Du stürzt und verspürst eine nahe Präsenz um dich. Du spürst eine Hitze auf deinem Rücken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Es gelingt dir, einige Steine zu bewegen, bevor du dich ausruhen müsst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Und so schnell sie dich überkam, so schnell ist sie auch wieder verschwunden. 
+
+Du wirbelst herum. Es ist niemand da.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Die Leiche der jungen Frau liegt unverändert zwischen den Ruinen des Hauses, das zu ihrem Hügelgrab wurde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>""
+{GAVIN: Dendra O'hur faction option to eat part of the corpse.}</DefaultText>
+      <FemaleText>""
+{GAVIN: Dendra O'hur faction option to eat part of the corpse.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Gehe weg.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Durchsuche die Trümmer nach Wertgegenständen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du wühlst dich durch die staubigen Stein- und Holzhaufen und suchst nach etwas Interessantem, doch vergebens – diese Ruinen scheinen gesäubert worden zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Durchsuche die Trümmer erneut nach Wertgegenständen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Du findest nichts. Die Plünderer vor dir haben gute Arbeit geleistet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Endlich entdeckst du etwas von Wert unter einem versunkenen Keil zerbrochenen Steins.
+
+{BEUTE: Dies wäre ein Gegenstand, der einst dem Nachkommen oder seiner adoptierten Tochter gehörte.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Du findest nichts. Dieses Haus wurde gut und gründlich geplündert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du greifst nach dem Rand des einfachen Treppengeländers und verziehst das Gesicht, während du auf das Meer hinausblickst. Die Stille der Szene berührt dich nicht mehr so sehr wie zuvor. Du erkennst, dass dies auch auf diesen *Körper* zutrifft. 
+
+Du lächelst ob deiner eigenen Ungeduld – deine Rastlosigkeit muss es mit dem Ozean selbst aufnehmen. 
+
+Eine Gischt salziger Luft trägt die Erinnerung in Schleifen über die Ruinen des Hauses hinfort, während dein Geist schmerzt und austrocknet.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Wer ist da?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Schließe ihre Augen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Komm wieder zu Atem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Du schiebst das blutverschmierte Haar mit zitternden Fingern aus ihrem Gesicht und schließt ihr die Augen. Die Hitze baut sich erneut wie ein Lagerfeuer in deinem Rücken auf. 
+
+Plötzlich bedeckt eine kühle Hand deine brennenden Augen. Ein weicher Arm legt sich über deinen Bauch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Du atmest langsam und gleichmäßig durch und spürt, wie sich die Hitze wie ein hungriges Lagerfeuer deinen Rücken hinauffrisst. 
+
+Plötzlich bedeckt eine kühle Hand deine brennenden Augen. Ein weicher Arm legt sich über deinen Bauch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Deine Worte sind wie ein Flüstern. Du kannst nun kaum atmen und die Hitze erfüllt dich wie ein Fieber. 
+
+Plötzlich bedeckt eine kühle Hand deine brennenden Augen. Ein weicher Arm legt sich über deinen Bauch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Du räumst einen weiteren Teil der Trümmer beiseite, doch ohne Ergebnis. Es scheint tatsächlich, als ob du gar keinen Fortschritt gemacht hättest.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Eine Böe aus salziger Luft trägt die Erinnerung in Streifen fort, und dein Verstand wird schmerzhaft und trocken, auf der Spitze des Hauses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Das scheint das Haus zu sein, wo der Verstoßene einst lebte, aber entweder hinterließ er keine Hinweise auf seine Identität oder... sie wurden von Plünderen genommen.
+
+Es könnte hilfreich sein, um die Gegend ein paar Fragen zu stellen, und zu sehen, ob irgendeiner beobachtet hat, ob jemand dieses Haus geplündert hat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Dieser verfallene Haufen Holz und Stein markiert den Ort, wo einst ein Haus stand.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

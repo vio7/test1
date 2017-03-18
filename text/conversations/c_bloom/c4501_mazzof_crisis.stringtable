@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4501_mazzof_crisis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mazzof sieht nicht mal auf, als du an der Resonanzkammer herummachst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Geh weg von ihm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Mazzof daran erinnern, dass er die Resonanzkammer besser kennt als alle anderen. Er *muss* wissen, dass der Plan der Ersten alle Verstoßenen umbringen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Andeuten, dass das Mentalschloss sich öffnen könnte, wenn er getötet wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Er verzieht spöttisch das Gesicht. "Das ist lächerlich. Wir durchtrennen lediglich die Gezeitenverbindungen. Sie ist es, die den Kummer überhaupt erst anzieht. Wie um alles in der Welt soll das ..."
+
+Er verstummt. Sein Blick wird abwesend. Seine Lippen bewegen sich wortlos, während er stumm Berechnungen anstellt. "Skist!" platzt es dann aus ihm heraus. "*Skist!* Du könntest recht haben. Und selbst wenn nicht, ist es ein ganz schön großes Risiko."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Lächerlich", spottet er. "Du versuchst lediglich, mich von meiner Arbeit abzuhalten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ja, gut, das ..." Er begreift, worauf du hinauswillst, und macht große Augen. "Oh. Oh nein, wird nicht nötig sein."
+
+Er tritt zwei Schritte von der Kammer zurück. "Da, siehst du? Ich bin fertig damit. Lass mich aus all dem hier raus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ha! Versuch's doch." Er sieht sich nervös um. "Will sagen, dass sie dich vorher umbringen werden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Bleib weg! Ich habe ein Mentalschloss an der Kammer angebracht. Sie funktioniert nur für mich, für niemanden sonst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Je mehr ich darüber nachdenke, desto mehr glaube ich, dass du recht hast. Pah. Unglaublich, dass ich diese Maschine je für eine gute Idee gehalten habe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Das hier ist nicht mein Kampf."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ich bin nur der Tüftler hier. Warum müssen mich alle deswegen bedrohen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Oh, das ist interessant. Warum macht die Kammer ... Oh, richtig. Ich greife da nichts an. Das ist es nicht wert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Sie *musste* sich auch ausgerechnet jetzt zeigen. Konnte nicht warten, bis ich mit meiner Arbeit fertig war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Aha! Das erklärt, wo das singende Geräusch herkam. Jetzt nur noch die Fluxhemmer kuppeln ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ich denke nicht, dass es so rauchen sollte. Ah! Da ist das Problem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Uuund depolarisiert. Nur noch ein Problem zu beseitigen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Da ... Ich ... Ich hab's geschafft. Es funktioniert. Ha! Es funktioniert!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Er hebt beschwichtigend die Hände. "Ich mache gar nichts. Siehst du? Lass mich aus all dem hier raus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Bleib von der Kammer weg. Ich habe sie mit einem Mentalschloss gesichert. Sie funktioniert nur für mich, für niemanden sonst!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Bald werden wir frei sein, ist dir das klar?" Er sieht die Kammer an, dann dreht er sich abrupt zu dir um. "Von dem Mentalschloss habe ich dir erzählt, oder? Gut. Gut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ich werde das Mentalschloss entfernen. Dann solltest du die Kammer selbst aktivieren können." Er wischt sich mit der Hand über das Gesicht. "Dieses Ding hat nichts als Ärger gemacht, seit unser Erzeuger damit begonnen hat. Ich wünschte, es wäre nie gebaut worden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ich werde das Mentalschloss entfernen. Dein Freund sollte die Kammer dann selbst aktivieren können." Er wischt sich mit der Hand über das Gesicht. "Dieses Ding hat nichts als Ärger gemacht, seit der Wandelnde Gott damit begonnen hat. Ich wünschte, es wäre nie gebaut worden."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Das ist genug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Das wird *sie* nicht aufhalten. Ehrlich gesagt weiß ich auch nicht, was sie aufhalten könnte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Zur Hölle. Jetzt sind wir dran."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Es ... es funktioniert? Ha! Es funktioniert!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

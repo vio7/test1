@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2663_cleanswitch1</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eine Wolke funkelnder Motten flattert um diese Säule herum. Als du dich ihr näherst, schwirren einige Motten um deinen Kopf herum und fliegen dir ins Ohr. 
+
+Eine melodische Stimme, von einer groben Statik unterbrochen, spricht im Inneren deines Ohres. Zuerst verstehst du die Sprache nicht, doch nach wenigen Worten verwandeln sich die Klänge zur Wahrheit.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Tritt zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die glitzernden Flecken gleiten dir erneut ins Ohr. "Willkommen zurück. Wenn du eine palliative Harmonie möchtest, gib einfach den Aktivierungston vor." Eine angenehme Notenreihe ertönt in deinem Kopf.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ein pulsierendes Wellenmuster auf einem Segment der Säule erregt deine Aufmerksamkeit und du legst eine Hand darauf. Eine Singsang-Stimme stimmt eine Reihe von Musiknoten an, dissonant und unheimlich. Du ertappst dich dabei, wie die nächsten Stufen der Tonleiter summst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du versuchst, verschiedene Punkte auf der Oberfläche der Säule zu berühren, wobei du Lichtlinien nachfährst, jedoch ohne Reaktion. "Erbärmlicher Fleischläufer! Verteile deine verwesenden Hautzellen wo anders!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Das rote Licht durchflutet die Säule und die Stimme ertönt deutlich in deinem Kopf; die Intelligenz der Unvergleichlichen ist atomisiert und ausgelöscht. Alle Seelen in diesem Schaltkreis wurden auf ihre standardmäßigen Persönlichkeiten zurückgesetzt. "Danke. Ich fühle mich sehr erfrischt."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Summe die nächsten Stufen der Tonleiter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Aktiviere eine Säuberung der Intelligenz der Unvergleichlichen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ein Chor aus warmen Tönen hallt aus dem Inneren der Säule, begleitet von einer Lichtwelle. Der Klang schwingt durch dich hindurch und du fühlst dich verjüngt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du legst deine Hand auf das Wellenmuster und summst die zuvor verwendete Notenfolge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Die trällernde Stimme fordert dich auf, irgendeinen heilenden Vorgang zu aktivieren, bevor das Brüllen der Unvergleichlichen sie unterbricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ich fürchte, ich habe eine Infektion entdeckt", sagt es freundlich. "Beginnt mit der Säuberung in–"
+
+Die nun vertraute Stimme der Unvergleichlichen übertönt den ersten Sprecher. "Fleischläufer! Abscheuliche, wandelnde Eitersockel!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Follow-up PQ. 20</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Versuche, die Intelligenz der Unvergleichlichen zu säubern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Versuche erneut, die Intelligenz der Unvergleichlichen zu säubern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Die Säule ist in ihren beabsichtigen Zustand zurückgekehrt, bereit, weitere Befehle anzunehmen. Die Stimme schallt: "Wenn du eine palliative Harmonie möchtest, gib einfach den Aktivierungston vor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Die glitzernden Motten schwirren umher und fliegen dir genauso ins Ohr wie die letzte Säule. Es ist wahrscheinlich die gleiche Säuberungsmethode, die hier bei der Unvergleichlichen funktionieren würde. 
+
+Eindämmung der infektiösen Intelligenz wird init-" beginnt eine angenehme Stimme. 
+
+::knistern::
+
+"Ich bin die Unvergleichliche!" brüllt es. "Du bist es nicht! Es gibt keine größere Beleidigung!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Lichtflecken schwärmen um die Säule herum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Es tut mir leid", sagt eine freundliche Stimme. "Meine Fähigkeiten wurden durch die Infektion geschwächt. Ich kann weitere Hilfe in 3,7 Sonnenjahren bieten."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

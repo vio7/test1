@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\c_bloom\quest_familiar_skies</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Vertrauer Himmel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Bringe den Helm zum Volk seines Besitzers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Benutze das Navigationscortex, um die Daten des Helmes zu analysieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Berichte Kapitän Janur von Achillis Entdeckung</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lascare gingen nach Hause</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Am Ende beim Diebstahl ertappt (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Lascare bekämpft und gestorben (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Endspiel betreten, bevor der Auftrag abgeschlossen wurde (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Bringe den Helm zu Kapitän Janur.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Den Helm übergeben</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Gestohlener Kortex (FEHLSCHLAG)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Eine Aufzeichnung, die ich in einem alten Helm gefunden habe, deutet darauf hin, dass seine Besitzerin kurz vor einer großen Entdeckung stand. Sie wollte ihre Daten mit etwas namens Navigations-Kortex überprüfen. Die Besitzerin des Helms konnte ihre Arbeit niemals beenden ... aber vielleicht kann ich es.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>In den Aufzeichnungen spricht die Besitzerin des Helmes davon, an einen Ort zurückzukehren, der sich "Ankerplatz" nennt. Ich sollte diesen Ort finden und mit den Leuten dort sprechen. Sie können mir vermutlich mehr über diesen Kortex erzählen, von dem sie spricht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Captain Janur erzählte mir, dass die Besitzerin des Helmes Achilli genannt wurde, aber sie war nicht besonders an Achillis Entdeckung interessiert. Sie hat zugestimmt, dass ich den Helm behalten darf. Wenn ich herausfinden will, was Achilli entdeckt hat, muss ich selbst auf den Navigations-Kortex zugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Der Kortex hat Achillis Entdeckung offenbart - die Neunte Welt ist das wahre Zuhause der Lascar. Ich sollte Captain Janur sofort davon erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Obwohl Captain Janur mir zuerst nicht geglaubt hat, hat sie schließlich doch eingesehen, dass das Zuhause - die Welt, die ihr Volk seit Jahrtausenden sucht - gleich jenseits des Schlund-Portals liegt. Die Lascar haben den Ankerplatz verlassen, um ein neues Leben in der Neunten Welt zu beginnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe versucht, den Lascar von meiner Entdeckung zu berichten, aber als sie herausgefunden haben, dass ich den Kortex gestohlen habe, haben sie mich wütend aus dem Ankerplatz verbannt. Aufgrund meiner Taten ist Achillis Entdeckung für immer verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Unter den Lascar ist ein Streit ausgebrochen, als ich versucht habe, Achillis Forschungen zu verifizieren. Jetzt haben sie das Tor zum Ankerplatz versiegelt und ich komme nicht mehr hinein. Aufgrund meiner Taten ist Achillis Entdeckung für immer verloren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ich bin im Labyrinth erwacht, als die Resonanzkammer aktiviert wurde. Nun werde ich Achillis Werk wohl nie vollenden können.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Anhand der Aufzeichnungen, die ich im Helm gefunden habe, habe ich herausgefunden, dass seine Besitzerin eine Lascar vom Ankerplatz war, der jenseits des Schlundes in Klein-Nihliesh liegt. Captain Janur, die Anführerin der Lascar, könnte mir mehr über die Besitzerin erzählen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Ich habe Captain Janur den Helm übergeben, wie sie es von mir verlangte. In Übereinstimmungen mit einem alten Brauch hat sie alle Erinnerungen aus dem Helm gelöscht. Niemand wird also je erfahren, was seine Besitzerin entdeckt hat. Der Helm wird der Familie der toten Frau übergeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Ich habe versucht, den Lascar meine Entdeckung mitzuteilen, aber das Tor zum Ankerplatz war bei meiner Rückkehr verschlossen. Sie wissen, dass ich den Kortex gestohlen habe, und nun werden sie mich nie wieder hineinlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Unglücklicherweise ist es Außenstehenden nicht gestattet, auf den Navigations-Kortex zuzugreifen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Pilot-Major Genjes, einer der Lascar, arbeitet neben der Tür zur Kammer, in der der Kortex zu finden ist. Wenn ich mich hineinschleichen will, muss ich ihn irgendwie ablenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Um die Daten aus dem Helm auszulesen, muss der Kortex ihn direkt scannen. Ich muss einen gewissen Prozess durchlaufen, um den Kortex freizulegen und richtig scannen zu lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Jeder Schritt des Prozesses bedarf einer Bestätigung aus der Grube auf dem Beobachtungsdeck (der erste Raum, den ich sah, als ich den Ankerplatz betreten habe). Das bedeutet, dass ich jemanden in die Grube schicken muss, damit er die Bestätigungssignale senden kann ... ohne, dass es jemand bemerkt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Ich habe erfahren, dass jemand in der Grube des Ankerplatzes einige leuchtende Schalter betätigen muss, bevor der Kortex zur Wartung entfernt werden kann. Wenn dieser Schritt nicht erfolgt, lässt sich der Kortex nicht lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

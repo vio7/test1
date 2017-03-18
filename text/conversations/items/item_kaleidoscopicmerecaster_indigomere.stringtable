@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\items\item_kaleidoscopicmerecaster_indigomere</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Als du dieses Gerät in Händen hältst, steigt dir der Duft von Salzwasser in die Nase und der Boden unter deinen Füßen beginnt zu zittern und zu schwanken. 
+
+Das Lebensbild dieses Gerätes ruft dich mit einem beruhigenden, rhythmischen Pulsieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Den Lebensbildbetrachter untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Das Lebensbild betreten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Den Lebensbildbetrachter weglegen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du hältst das Gerät erneut mit beiden Händen und spürst das Schwanken der Erde unter deinen Füßen und den rhythmischen Ruf des Lebensbildes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Du spähst durch das Gerät in eine Leere, die weit größer ist, als sie das Ding in deinen Händen je enthalten könnte. Vom anderen Ende her greift eine unförmige Masse in weniger als einem Wimpernschlag durch die Leere und verdeckt deinen Blick mit einem amorphen Glied.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6101_andronus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Er starrt vor sich hin, nichts Anderes sehend als einen Soldaten des Wandelnden Gottes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sein Verstand ist immer noch verwirrt, aber sein Hass ist eindeutig.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Andronus, das ist die Endlose Schlacht. Du tötest deine Brüder und Schwestern!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Er schüttelt den Kopf. "Wo bin ich? Das ist nicht ..."
+
+Bevor er es beenden kann, schwindet sein Körper und sein Bewusstsein ins Nichts, in einen anderen Teil des Labyrinths.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Follow-up PQ. 5</DefaultText>
+      <FemaleText>Follow-up PQ. 5</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Er schaut sich die Schlacht um ihn herum an. "Das ist nicht die Endlose Schlacht ... Was ist mit ihnen allen?"
+
+Er wartet nicht auf deine Antwort. "Das ist unwichtig. Ich helfe dir auf jede mir mögliche Art."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Er blinzelt bei deinen Worten und schüttelt dann den Kopf. "Lügen. Ich werde dich vernichten!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Überzeuge Andronus, dass der Kampf nicht echt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Versuche noch einmal, Andronus zu überzeugen, dass der Kampf nicht echt ist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Schlag Andronus mitten ins Gesicht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Der sich langsam bewegende Glaive ist leicht zu schlagen. Dein Schlag ist stark genug, um ihm jegliche Illusion zu rauben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Der sich langsam bewegende Glaive ist leicht zu schlagen, aber dein Schlag macht ihn nur noch wütender. "Dafür wirst du bezahlen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Geh weg von ihm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Du … du bist nicht ein Agent des Schöpfers. Ich ... Ich erinnere mich an dich. Aus Miel Avest." Als er spricht lässt die Illusion nach und verliert ihren Halt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Danke, dass du mich befreit hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Schalte diese Masten ein. Vielleicht können wir sie stoppen, ohne sie zu töten.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

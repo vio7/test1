@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a1101_resonance_chamber</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ein Sonnenstrahl fällt durch das Loch im Dach auf die kaputte Resonanzkammer. Kaum zu glauben, dass du durch den blauen Himmel auf die Kuppel gefallen und diese feine Maschine mit dem Gewicht deines Körpers so zerstört hast.
+
+Kaum zu glauben, dass du noch am Leben bist.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Die Resonanzkammer steht so da, so wie du sie verlassen hast - verbeult und kaputt. Am Boden verstreute Kristall- und Synthscherben knirschen, wenn du auf sie trittst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Über dem zersprungenen, halb transparenten Kristall des Sarkophags in der Mitte des Apparats hängen vier mechanische Arme. Der fünfte Arm liegt zerbrochen zwischen den Synth- und Kristallscherben am Boden. Das alles ist von einem durch deinen Einschlagkrater verbogenen und beschädigten Metallring umgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Einen Schritt zurück machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die Scherben am Boden untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Die hängenden Arme untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Die hängenden Arme erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Den Metallring untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Den Metallring erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Immer, wenn du den Ring betrittst, fühlst du einen Hauch von Widerstand. Jetzt, wo du darauf achtest, hörst du das Echo deines Atems in deinen Ohren, als stündest du im Inneren einer Glaskuppel. Das Gefühl verschwindet, sobald du den Ring verlässt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du kniest nieder, um den Ring zu untersuchen, und bemerkst in alle Richtungen strahlende Feldprojektoren im Inneren des Rings. 
+
+Der Ring dient zum Schutz derer, die darin stehen, doch auch dazu, eine gewaltige Kraft festzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Kabel führen von Maschinen an den Wänden der Kuppel zum Sockel der hängenden Arme, die in langen, auf die zersprungene, sarggleiche Kammer in der Mitte der Plattform gerichteten Nadeln enden.
+
+An den Sockeln der Arme leuchten schwach edelsteinartige Lichter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Die nadelähnlichen Enden der Arme glänzen im schwachen Licht der Kuppel. Einige der Lichter an den Sockeln der Arme sind ausgegangen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Eine fremde Erinnerung überkommt dich. 
+
+Sonnenlicht fällt durch die intakte Kuppel und wirft kurze, eckige Schatten hinter den Dienern, die den Apparat bauen, den du mit deinem Assistenten entworfen hast. Die Diener arbeiten perfekt - kein Wunder, schließlich sind *sie* ja ebenfalls dein Werk.
+
+Es ist beinahe alles fertig. Ein Ring als Rahmen. Eine Plattform für die Fokussierung und-
+
+"Fünf Injektoren. Einer für jede Gezeit." Es dauert einen Moment, bis du begreifst, dass die Erinnerung zu Ende ist und du laut gesprochen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Scharfkantige Kristallstücke liegen zwischen dem Synth der zerbrochenen Kuppel. Die Kristallscherben glitzern im Licht wie kleine Sonnen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Du hörst ein leises Kratzen. Es scheint von zwei Kristallstücken zu deinen Füßen zu kommen. Du siehst zu, wie sie langsam miteinander verschmelzen, fast wie Wasser.
+
+Gleich darauf trennen sie sich wieder, ziehen glitzernde Fäden lebenden Kristalls hinter sich her. Es scheint, dass die Resonanzkammer tatsächlich gewisse Selbstheilungskräfte besitzt, allerdings nicht genug für den Schaden, den du angerichtet hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"..."</DefaultText>
+      <FemaleText>"..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Am Rande des Einschlagkraters findest du einen Kristallsplitter. Er ist am einen Ende scharf wie ein Dolch und am anderen glatt und könnte eine brauchbare, wenn auch primitive Waffe abgeben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Einen der Kristallsplitter aufnehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Nach weiteren nützlichen Splittern suchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Du siehst die restlichen Kristallstücke durch, aber sie sind entweder zu klein oder zu unhandlich, um nützlich zu sein.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Den Sarkophag genauer ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Den Sarkophag noch mal ansehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Das gepolsterte Innere des Sarges sieht aus, als wäre es für einen menschlichen Körper gemacht. Obwohl er beschädigt ist, siehst du keine Möglichkeit, ihn zu öffnen. 
+
+Dein Blick wandert vom Sarkophag zu den Nadelenden der Arme über dir. Diese Kammer zu benutzen war vermutlich keine angenehme Erfahrung.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Vielleicht ist es nur Einbildung, aber einige der Sprünge im Kristall wirken dünner als zuvor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Der Ring scheint ein Kraftfeld, eine Art Schutzschild, rund um den Sarkophag zu projizieren.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

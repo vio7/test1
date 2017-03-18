@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_predatory_echoes_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Dieser da ist nicht wie wir", flüstert ein Flor-Kultist. "Er wurde nicht vom Großen Verschlinger gefressen."
+
+"Nein", stimmt eine Frau zu, die in den Lumpen eines Sklaven gekleidet ist. "Er ist hier, um uns die letzten Stunden unseres Lebens zu versüßen."
+
+Sie hebt ihre Waffe. Ihre Kameraden tun es ihr gleich, fletschen die Zähne und zischen wie Tiere ...</DefaultText>
+      <FemaleText>"Diese da ist nicht wie wir", flüstert ein Flor-Kultist. "Sie wurde nicht vom Großen Verschlinger gefressen."
+
+"Nein", stimmt eine Frau zu, die in den Lumpen eines Sklaven gekleidet ist. "Sie ist hier, um uns die letzten Stunden unseres Lebens zu versüßen."
+
+Sie hebt ihre Waffe. Ihre Kameraden tun es ihr gleich, fletschen die Zähne und zischen wie Tiere ...</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Du siehst eine vertraute Szene vor dir. Weitere halbtransparente Erscheinungen befinden sich im Kampf miteinander, ihre Gesichter sind von sinnloser Wut verzerrt. Sie scheinen deine Anwesenheit zu spüren und wenden sich dir zu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

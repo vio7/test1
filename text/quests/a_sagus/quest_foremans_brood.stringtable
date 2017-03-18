@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_foremans_brood</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Die Brut des Vorarbeiters</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Helfe dem Verkrüppelten Vorarbeiter, seine Labensenergie zu seinen Kindern zu übertragen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Lebensenergie Übertragen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Übertragen und Ergriffen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Nicht mit Mir</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sagus verlassen, bevor der Auftrag erledigt war (FEHLGESCHLAGEN)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Der verkrüppelte Vorarbeiter möchte, dass ich seine Lebensenergie auf die winzigen Metallkinder übertrage, die er gebaut hat. Er konnte bislang nicht genug Energie übertragen und bat mich daher um Hilfe. Wenn die Übertragung gelingt, werden die Kinder leben, doch der verkrüppelte Vorarbeiter wird sterben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Ich werde an den Sicherheitsmaßnahmen vorbeikommenmüssen, die dem Verkrüppelten Vorarbeiter daran hindern, Energie nach einer bestimmten Grenze zu transferieren. Er schlug vor, dass ich mit seinem Assistenten Tarnish rede, der vielleicht einige Ideen hat.Alternativ gibt es womöglich andere Wege, diese Situation zu lösen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Ich habe die Lebensenergie des verkrüppelten Vorarbeiters auf seine Kinder übertragen. Der Vorarbeiter ist gestorben und ich habe seine Kinder in die Welt entlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ich habe die Lebensenergie des verkrüppelten Vorarbeiters auf seine Kinder übertragen. Der Vorarbeiter ist gestorben und ich habe seine Kinder gefangen, um sie als Cyphern und Energiequellen zu nutzen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Ich habe den Vorarbeiter davon abgebracht, sein Leben zu opfern. Er hat sein Bestreben, Nachwuchs zu zeugen, aufgegeben... zumindest fürs Erste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Ich habe Sagusklippen verlassen und bin nicht sicher, ob ich jemals zurückkehren werde. Der Vorarbeiter wird anderswo Hilfe suchen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Tarnish, ein menschlicher Arbeiter und ein Freund des verkrüppelten Vorarbeiters, hat mir anvertraut, dass er nicht will, dass der Vorarbeiter sein Leben opfert. Vielleicht kann ich diese Information nutzen, um den Vorarbeiter von seinem Vorhaben abzubringen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Tarnish hat mir noch einiges über die Funktionsweise des Körpers des Vorarbeiters verraten. Ich könnte seine Energie vielleicht selbst übertragen, doch das wird nicht einfach werden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Jemand vom Orden der Wahrheit könnte mir vielleicht helfen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ich habe von Sn'erf vom Orden der Wahrheit eine prokreative Wellenturbine besorgt. Sie sollte die Übertragung der Lebensenergie vom verkrüppelten Vorarbeiter auf seine Kinder erleichtern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Sn'erf, ein Gastforscher im Orden der Wahrheit, denkt, dass er das Problem des verkrüppelten Vorarbeiters lösen kann. Ich werde ihn dafür jedoch bezahlen müssen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x6091_cnpcfathom_crefton_dracogenobelisk_si_gjf</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Wie *Blut* fließt eine schwere, doch irgendwie vertraute Bösartigkeit aus den grau-goldenen Tiefen dieser Hartglassäule. Ein reptilienartiges Wesen schlängelt sich um sie, die muskulösen Beine um die Säule geschlungen.
+
+Es zischt in die Luft, doch seine glitzernden Augen – in Reihen angeordnet, wie bei einer Spinne – fixieren dich.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Das reptilienartige Wesen, das sich um die Säule geschlängelt hat, starrt dich aus Reihen insektenartiger Augen an.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Du durchkämmst dein Wissen über die Wesen der Neunten Welt. Dieses Biest gehört nicht hierher – da bist du fast sicher.
+
+‚Fast‘, denn da ist diese Geschichte in deinem Hinterkopf – die Geschichte eines närrischen Nanos, und was mit ihm passierte, als er den Versprechungen einer schlangenartigen Kreatur vertraute, die in einem Spalt der Realität gefangen war.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Die Luft rund um dieses Monument ist dick und ... seltsam. So, als gehörte das Wesen, das sich um diese Säule geschlängelt hat, nicht hierher und hätte einen Teil seiner eigenen Realität in diese mitgebracht.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Die schlangenartige Statue untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Die schlangenartige Statue erneut untersuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Vor deinen Augen schlingt sich die Kreatur enger um die Statue – fest genug, um das Glas zu zerbrechen und die Haut aufzureißen. Um an das saftige Fleisch zu gelangen, das sich hinter dem Muskel der –
+
+Du blinzelst. Einmal, zweimal. Da ist nur eine Statue. Sie lebt nicht. Sie verbeißt sich nicht in die Säule.
+
+Du atmest ruhig durch und kannst fast glauben, was du dir eben gesagt hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Die Statue umfasst die Hartglassäule. Sie bewegt sich nicht – zumindest nicht, wenn du hinsiehst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Du starrst an der Statue vorbei in die Tiefen der Hartglassäule. In ihrem Kern pulsiert ein heißes Licht – wie ein Herz aus Hitze anstatt aus lebendem Gewebe.
+
+Jeder Schlag des Lichtherzens erinnert dich an den Mann, den du in der Flor getroffen hast – Dracogen hieß er, und aus irgendeinem Grund gibt es eine Verbindung zwischen ihm und diesem Monument.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Erinnern versuchen, warum dieses Wesen so vertraut scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Erneut erinnern versuchen, warum dieses Wesen so vertraut scheint.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Die Augen der Statue halten deinem Blick stand. Du konzentrierst dich, atmest langsamer, wirfst deinen Geist zurück ...
+
+Ja. Du hast diese Kreatur noch nie gesehen, aber andere Abgeworfene schon. Viele andere Abgeworfene. Das muss der Grund sein, weshalb diese Statue hier im Labyrinth ist, diesem Nexus von Erinnerungen und Leben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Die glänzenden Augen der Statue leuchten heller, während du vergeblich versuchst, dich daran zu erinnern, wo du diese Kreatur schon mal gesehen hast.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Die schmerzhaften Erinnerungen kommen, eine nach der anderen, zu *groß*, um sie aufzuhalten.
+
+Du siehst Augen – Reihen und Reihen von Augen – hoch über dir in der Dunkelheit, als du stammelnd deine Bitte vorbringst.
+
+Du hörst das Echo eines bösen Lachens durch einen tropfenden Flur hallen, in dem es nach der Flor stinkt.
+
+Du spürst eine Klaue auf dich drücken, dich gegen einen zerklüfteten Felsen pressen, fester und fester, dich zermalmen, Knochen für Knochen ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Du schnappst nach Luft und reißt dich von den Visionen los. Die Augen der Statue pulsieren einmal, wie ein Zwinkern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Das Monument in Ruhe lassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Der Blick der Statue bleibt auf die Stelle gerichtet, wo du eben noch gestanden hast. Vielleicht war es nur Zufall, dass du genau an der Stelle standst, wo ihre Augen-
+
+Langsam und mit Bedacht drehen sich die Augen in ihren steinernen Höhlen, bis ihr Blick erneut auf dich fällt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Zur Seite treten und sehen, ob die spinnenartigen Augen dir folgen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Eines der Augen der Statue stehlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Du streckst die Hand aus, um eines der Augen zu berühren. Die Statue bewegt sich nicht und du hörst nichts außer deinem Atem, und dennoch ...
+
+Du fühlst, wie dich etwas von jenseits dieses Ortes beobachtet, und du spürst eine plötzliche Hitze unter deiner Handfläche.
+
+Etwas sagt dir, dass es keine gute Idee ist, diese Statue zu verunstalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ein Auge nehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Die Hand zurückziehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Deine Fingerspitzen kratzen über eines der glänzenden Augen. Du hörst ein langsames, zorniges Zischen und dann umschließen von hinten Klauenhände deinen Kopf. Und drücken.
+
+Die Dunkelheit umhüllt dich, schlängelt sich um dich, drückt dir die Luft aus den Lungen. Geschriene Worte der Bestie schlagen in deinem Geist ein wie unförmige brennende Meteore. Du willst schreien, doch kein Laut entkommt dir. Nichts.
+
+{SOUND: Loud, alien hissing}
+{SCRIPT: Screen goes black at the beginning of this node.}
+{SCRIPT: Significant damage to player Might.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Als du die Hand zurückziehst, verschwindet auch die Hitze wieder. Die Augen der Schlange leuchten amüsiert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Du streckst erneut die Hand nach der Statue aus. Glühende Hitze bildet sich in der Luft rund um deine Hand, wie als wolle sie sehen, ob du dumm genug bist, diesmal wirklich ein Auge zu stehlen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Du erwachst langsam. Alle Gelenke schmerzen. Etwas Schweres und Kaltes liegt in deiner Hand.
+
+Zunächst hältst du das Juwel in deiner Hand für eines der Augen der Statue. Dann siehst du, dass der Schlange keines fehlt. Sie sieht immer noch aus wie zuvor.
+{SCRIPT: Fade in at the beginning of this node.}
+{SCRIPT: Fallen PC gets up.}
+{SCRIPT: Bestows I_item_cypher_PsychicFocus}
+{LOOT}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

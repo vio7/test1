@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2101_death_of_ris</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Der merkwürdige Homunkulus schenkt dir keine Aufmerksamkeit. Er scheint aus den unnatürlichen Eingeweiden zu bestehen, die aus Ris' Mund strömen, aufgewickelt in der Form eines Menschen. Während du zusiehst, wickelt er weitere Eingeweide um Ris' Torso, als würde er versuchen, ihm eine Kopie seiner selbst zu machen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lass ihn in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Der merkwürdige Homunkulus setzt seine Aufgabe fort und ist sich anscheinend weder deiner noch etwas anderen bewusst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Als du versuchst, ihm die Eingeweide aus den Händen zu nehmen, greift er nach deinem Handgelenk und ein Stoß unerträglicher Qual wirft dich auf die Plattform zurück.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Dir schwindelt und plötzlich befindest du dich tief in den Minen eines Ortes namens Haref, wo du Dienern dabei beobachtest, wie sie eine uralte Maschine ausgraben, deren Wert die Einheimischen in ihrer Dummheit nicht erkannt hatten. Als Zorus und Naal endlich den linken Artikulator freisetzen, schwärzt sich die Umgebung an den Rändern und du hörst das Geräusch, das du am meisten fürchtest – das eilende Flüstern des Kummers. Wie im Namen der Neun Welten konnte es dich hier finden?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Während sich dein Kopf erholt, stellst du fest, dass Aufseher Yeen auf dich herabblickt und den Kopf schüttelt. "Ihr seid ein harter Bursche, so viel ist klar. Ich habe Männer gesehen, die doppelt so groß waren wie Ihr und die nach einer Umarmung des Todes starben. Doch ich würde es nicht wieder tun, wenn ich Ihr wäre. Beeilung jetzt. Ich riskiere meinen Hals, Euch hier hoch zu lassen." 
+
+Er stapft zurück zu seinem Posten.
+
+{SCRIPT: Animation. Yeen fängt über dem SC an, dann geht er zurück zu seinem Posten.}</DefaultText>
+      <FemaleText>Während sich dein Kopf erholt, stellst du fest, dass Aufseher Yeen auf dich herabblickt und den Kopf schüttelt. "Ihr seid eine ausdauernde Frau, so viel ist klar. Ich habe Männer gesehen, die doppelt so groß waren wie Ihr und die nach einer Umarmung des Todes starben. Doch ich würde es nicht wieder tun, wenn ich Ihr wäre. Beeilung jetzt. Ich riskiere meinen Hals, Euch hier hoch zu lassen." 
+
+Er stapft zurück zu seinem Posten.
+
+{SCRIPT: Animation. Yeen fängt über dem SC an, dann geht er zurück zu seinem Posten.}</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Dieses Mal berührt dich Ris-Tod nur mit einem Finger, doch der Schmerz ist der gleiche und lässt dich wie einen Stein zu Boden sacken. Dein Herz ist zu stark von der Qual betäubt, um sich an seinen Zweck zu erinnern. Es vergisst, zu schlagen. 
+
+Die Welt wird dunkel ...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Aufseher Yeen kichert. "Kluge Wahl, mein Freund."</DefaultText>
+      <FemaleText>Aufseher Yeen kichert. "Kluge Wahl, meine Gute."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"In der Tat sehr klug."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Was tut Ihr?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Könnt Ihr mich hören? Ich rede mit Euch."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Der Doppelgänger antwortet nicht. Er scheint es nicht gehört zu haben.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Wieder antwortet der Homunkulus nicht. Er ist möglicherweise nicht einmal in der Lage, Geräusche wahrzunehmen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Versuche, ihn aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Versuche erneut, den Ris-Tod aufzuhalten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Der Homunkulus setzt seine Arbeit fort und achtet nicht darauf, als du zurücktrittst.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Er erschauert und wendet sich ab. "Man sagt, dies seien seine Albträume, die aus ihm kommen. Ich bekomme schon Alpträume, wenn ich nur so nah daneben stehe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Er schüttelt angewidert den Kopf. "Die Behörden sagen, er formuliert seine Alpträume. Sie haben wirklich keine Ahnung, was das ist oder worüber er redet. Sie wissen einfach nur, dass Leute Angst davor haben, es zu sehen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Sie kräuselt die Lippe. "Fleischgewordene Träume? Das frage ich mich. Oder stammen seine Worte von woanders?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Schwarze Ranken schlängeln sich aus der Dunkelheit, und du fliehst in den Tunnel, wobei du die Schreie der anderen ignorierst. Du musst zurück zum Basislager, zurück zur Sicherung. Das ist der einzige Weg, um dein *Selbst* zu retten. So lange du es erreichen kannst, bist du sicher. Die Hülle könnte sterben, doch dein Geist wird weiterleben.
+
+Die Ranken holen auf. Das Flüstern erfüllt deinen Kopf. Du prallst gegen eine Wand und taumelst benommen weiter. War es dieser Weg? Bist du falsch gelaufen?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Da vorne, ein Licht. Ja! Das Lager! Du beginnst, auf das Lager zuzulaufen, als die Ranken deinen Rücken und deine Beine mit schreiender Qual streicheln. 
+
+Das Paket! Die Kiste! Das Schloss! Du reißt alles im Wahn auf und schlägst auf den Apparat, gerade als die Ranken dich durchdringen, weich wie Nebel, messerscharf, und dich Faser für Faser auseinanderreißen.
+
+Und dann bist du weg. Die Hülle schreit, doch du bist frei.
+
+{SCRIPT: Schwarzblende. Blende auf nächsten Knotenpunkt.}
+{SCRIPT: Spieler erleidet hier derzeit 3 Intellekt-Schaden – muss vielleicht ausbalanciert werden.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Versuche, aus der Vision zu erwachen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Lass die Vision bestehen, wenn du auch weißt, dass sie weiteren Schmerz bringen wird.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

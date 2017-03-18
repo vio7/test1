@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\a_sagus\a2501_ledge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Aus dieser Höhe kann man alles sehen. Hinter der Stadt Sagus-Klippen erstrecken sich Uferklippen und Abgründe bis zum Horizont, auf beiden Seiten mindestens 50 Kilometer. Das Meer dehnt sich zwischen ihnen aus, etwa 20 Kilometer an der breitesten Stelle. Dann weitet sich das Gewässer und verschwindet am Horizont.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Schau nach unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Verlassen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Sagus-Klippen siehst du rechts vor dir, ein Wirrwarr an Straßen und Gebäuden. Links davon ist eine Öffnung in einen dunklen Abgrund. Ranken aus Fleisch klammern sich an die Kanten wie Efeu.
+
+Der Ozean liegt fast 1.000 Meter unter dir, dunkel und bedrohlich. Aas fressend und Fische jagend kriechen Schaluppen über die Wasseroberfläche. Die Dächer einiger Häuser von Sagus Klippen ragen an manchen Stellen der Klippen heraus, aber größtenteils hat man freie Sicht bis nach unten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Dir fällt auf, dass du in einer kleinen Senke stehst, die nicht nur vom Wetter geformt wurde. Der Boden und der Rand der Kante sind vom menschlichen Verkehr geglättet.  Im Laufe der Jahrhunderte müssen Tausende hierher gekommen sein, um aufs Meer hinauszuschauen und über ihr Hinscheiden nachzudenken.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du springst hinaus. Der Fall ist beglückend. Der Wind rauscht an dir vorbei, immer schneller, und dehnt dein Gesicht, als wäre es aus Knete. Die Boote im Meer wachsen mit alarmierender Schnelle. Die Rufe der Fischerleute und Aasfresser erreichen deine Ohren, gestört vom hohen Tempo.
+
+Schließlich knallst du ins Wasser, der Aufprall ist so hart, als wäre der Ozean aus Felsen. Dann ist da nur noch Dunkelheit.
+
+{SCRIPT: Need a cutscene here.}
+{SOUND: PC leaping off a cliff, then wind rushing past him for the fall.}
+{SOUND: (On exit) PC slamming into the water (and wind stopping abruptly).}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Spring von dem Vorsprung runter.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Spring nochmal von dem Vorsprung runter.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

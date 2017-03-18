@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_erritis_stage4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>182</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ich dachte das Innere *meines* Mundes wäre komisch, aber dieser Ort ... Es ist, als ob wir in meinem Mund sind, während er in *einem anderen* Mund drin ist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Worüber denkst du nach?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"{Less cheery than normal}Was? Ach, du bist es, Kann ich dich was fragen?"
+
+Wenn man es nicht besser wüsste, würde man behaupten, er sieht *nachdenklich* aus. Er reibt die Seite seines Gesichtes, dann die Ränder seiner schläfrigen Augen.
+
+{SCRIPT: Should play IMMEDIATELY after he is summoned or enters the Bloom, and before any of the below nodes.}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ich habe Fragen über dich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Wie stehen die Dinge zwischen uns?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ich denke, wir sollten uns trennen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Im Moment nichts. Gehen wir weiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ich habe Fragen über unsere Begleiter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vergiss es. Gehen wir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Was ist seltsam am Inneren *deines* Mundes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"*Alle* Münder sind seltsam! Fleischige Teile, die hinter offenliegenden Teilen hin- und herschlängeln?"
+
+Mitten im Schaudern hält er ein und denkt nach. "Obwohl … in *meinem* Mund läuft niemand umher. Verglichen mit diesem Ort ist alles normal!"
+
+Er strahlt. "Vielen Dank. Jetzt macht mich mein Mund nicht mehr nervös."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Ich habe *seit einer Stunde* über ein paar Dinge nachgedacht, die da in Miel Avest geschehen sind. All diese Leute, mit Geschichten, die deiner so ähnlich sind. Und jetzt haben so viele von ihnen einfach … geendet. Und ich kannte sie kaum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Wie …" Er macht eine Pause, spielt mit seinem Wams und starrt in den Himmel. Sein Leuchten pulsiert, strahlt heller und heller, bis du ihn kaum mehr direkt ansehen kannst. "Wie sollen sie ein Teil meiner Geschichte sein, wenn sie tot sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Vergiss es!", ruft er erleichtert aus. "Warum ist mir das nicht eingefallen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Sie sind kein Teil deiner Geschichte. Die meisten von ihnen wurden schon lange vor uns geboren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Du sprichst von ihnen, als ob sie nicht existiert hätten, bevor du gekommen bist. Sie waren auch wichtig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Sie waren meine  Brüder und Schwestern, und jetzt sind sie verschwunden. Es geht nicht wirklich um dich, Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Oh, ich weiß", sagt er kichernd. "Ich glaube nicht, dass sie erst *erschienen* sind, als ich angekommen bin."
+
+Er schüttelt den Kopf. "Es muss schwierig gewesen sein für sie, weißt du? Zu warten, bis ich da war. Zu wissen, dass es so *langweilig* sein würde, bis ich da war."
+
+Dann schlägt er sich vor die Stirn. "Wir haben nicht über mich gesprochen. Wir haben über deine Familie gesprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Nicht?" Er blinzelt. "Ich verstehe es nicht. Sofern ich sie nicht für meinen treuen Freund rächen soll."
+
+Er wirft dir einen Blick von der Seite zu. "Das bist natürlich du."</DefaultText>
+      <FemaleText>"Nicht?" Er blinzelt. "Ich verstehe es nicht. Sofern ich sie nicht für meine treue Freundin rächen soll."
+
+Er wirft dir einen Blick von der Seite zu. "Das bist natürlich du."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Natürlich!", sagt er kichernd. "Ich habe nicht gedacht, dass die Welt erst angefangen hat, als ich geboren wurde."
+
+Er schüttelt den Kopf. "Ich frage mich oft, wie das wohl war, weißt du? Wie die ganze Welt darauf gewartet hat, dass ich geboren werde, ohne zu wissen, wann es soweit ist."
+
+Dann schlägt er sich vor die Stirn. "Wir haben nicht über mich gesprochen. Wir haben über deine Familie gesprochen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Ihr …", beginnt er. Dann zuckt er zusammen. Das Leuchten um ihn herum strahlt heller als je zuvor. Er selbst scheint es nicht zu bemerken. "Ihre Geschichten sind jetzt zu Ende, oder? Ich meine, sofern sie nicht in einem dramatischen Moment zurückkehren, stärker als je zuvor. Sowas liebe ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Aber wenn wir davon ausgehen, dass das *nicht* geschieht. Was bedeutet das? Ihre Geschichten waren wichtig für sie, denke ich. Aber sind sie jetzt noch wichtig?"
+
+Das goldene Leuchten seiner Aura und seine beiläufigen Worte können die glitzernden Schweißperlen, die seine Wangen hinablaufen, nicht verbergen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Wir sind geflohen und sie nicht. Es liegt bei uns, ob ihre Leben und ihr Tod von Bedeutung sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Ihre Leben sind vorbei. Das ist *nicht* von Bedeutung. Wir müssen sichergehen, dass *unsere* Leben es nicht sind."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Ich möchte glauben, dass sie weiterleben - zumindest in unseren Erinnerungen. Die Geschichten, die wir von ihnen kennen, sind jetzt Teil von etwas Größerem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Ich habe mein Leben immer zum nächsten Abenteuer gelebt. Aber jetzt frage ich mich, wo es wohl endet. Wie wird es sein?" Er unterbricht, von seinen eigenen Gedanken geschockt.
+
+"Was passiert danach?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Erritis nickt. "Das habe ich immer gedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Ja", sagt er wehmütig. "Eine längere Geschichte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Es liegt bei *uns*? So habe ich noch nie darüber nachgedacht."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Ich denke immer noch darübernach, was da unten passiert ist. Du  weiß schon, im Herz dieses Ortes. Dieses Ding. Dieser Ort."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Für einen langen Augenblick ist er still. Er leuchtet nur schwach. Dann ...
+
+"Es ist fast so, als ob … deine eigene Geschichte dabei wäre. Eine andere Geschichte. Meine ist nicht die einzige, die hörenswert ist."
+
+Er berührt vorsichtig deine Schulter und schaut dir dann in die Augen. "Sei ehrlich mit mir. Bin ich der einzige Held oder nicht?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Das … ergibt keinen Sinn", sagt er sanft. "Wir alle sterben. Manche früher als andere. Früher als wir es gerne hätten."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Das ist wahrscheinlich sehr nett von dir," sagt er mit Verdacht in der Stimme, "aber nein, das könntest du wahrscheinlich nicht. Ich bin ein sehr guter Kämpfer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Wir alle sind Helden. Und wir beschützen die Leute, bis auch *sie* Helden sein können."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Erritis Aura leuchtet wieder auf, aber jetzt ist es nicht sein normales manisches Leuchten. Der *Farbton* hat sich irgendwie geändert.
+
+"Das muss es sein! Ein Held macht dann nicht nur Geschichte, sondern *beschützt* auch andere. Das gibt ihnen Zeit, ihre Geschichten wachsen zu lassen!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Ja, aber dein Schicksalsmoment kommt später."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Ja … jetzt sehe ich alles." Erritis leuchtet etwas heller, als er spricht. "Meine Zeit beginnt gerade erst."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Wir sind beide Helden, Erritis. Wir haben jeder eine eigene Geschichte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Hmm. Und vielleicht ist jeder der Held seiner eigenen Geschichte?" Er erstarrt. Seine Kinnlade fällt hinab. "Was für eine wundervolle Idee. Ich hoffe, es ist wahr!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Ihre Geschichten sind nicht wichtig. Nur deine."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Ah! Das habe ich mir gedacht. Einen Moment lang wirkte es seltsam, dass so viele Geschichten in einem Moment endeten. Auf deine Art macht es mehr Sinn."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Warum leuchtest du so hell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Ich leuchte nicht", sagt Erritis, der praktisch ein menschförmiger Stern ist. "Es ist nur ein schöner, sonniger Tag! Hilf mir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Hast du mich gerade gebeten, dir zu helfen?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Du wirst heller. Was ist los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Nein", sagt er matt. "Hör auf, das Thema zu wechseln. Wir haben über *dich* und deine Familie gesprochen. Warum sind sie wichtig, jetzt wo sie nicht mehr da sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Ich weiß nicht, wovon du sprichst", sagt er matt."Und hör auf, das Thema zu wechseln. Wir haben über *dich* und deine Familie gesprochen. Warum sind sie wichtig, jetzt wo sie nicht mehr da sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Deine Gedanken wirken … verstört."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Hör auf, das Thema zu wechseln", sagt er matt. "Ich bin nicht dafür verantwortlich, was meine Gedanken machen. Wir haben über *dich* und deine Familie gesprochen. Warum sind sie wichtig, jetzt wo sie nicht mehr da sind?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Ich leuchte nicht", sagt Erritis, der praktisch ein menschförmiger Stern ist. "Es ist nur ein schöner, sonniger Tag!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Du hast keine Angst, oder?`"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Nein!", ruft er. "Vielleicht. Ja. Aber nur weil ich Angst habe, bin ich nicht ängstlich."
+
+Triumphierend verschränkt er die Arme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Ja! Wir stehen schon viel zu lange still."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Die Flor schien der *perfekte* Ort zu sein, um mich zu opfern." Er spricht ruhig, seine Augen sind glasig und matt. "Aber ich bin ganz. Ich lebe. Nicht, dass ich es nicht versucht hätte."
+
+Er runzelt die Stirn. "Es überrascht mich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Du möchtest sterben?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Ja!", sagt er fröhlich. "Nun, nein. Ich möchte fast sterben." Er schnappt nach Luft. "Oder sterben und in der letzten Sekunde wieder ins Leben zurückkehren! Ja, das!"
+
+Er tritt in den Boden. "Aber stattdessen bleibe ich am *Leben*. Es ist enttäuschend. Als ob der Tod selbst mich nicht mehr beachtet."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Du stirbst nicht, solange ich in der Nähe bin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Ich kann dich selbst töten, falls du es eilig hast."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Erritis blinzelt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Das ist lächerlich und ich habe keine Geduld mehr für dich, Erritis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Oh", sagt Erritis zögernd. "Ich schätze mal, ich sollte darüber n-n-nachdenken. Mit meinen eigenen Gedanken, meine ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>::seufzt::</DefaultText>
+      <FemaleText>::seufzt::</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>Erritis denkt intensiv über deine Frage nach. Der Effekt wird dadurch, dass einige seiner langen, goldenen Haare abstehen, etwas ruiniert. 
+
+"Überhaupt nicht", beschließt er letztlich. "Ich fühle mich vollkommen normal." Ein Funke springt von seinem Kopf aus in die Luft.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Ich glaube nicht. Vielleicht ... stärker? Und schwächer. Stärker und schwächer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Meine Ideen fühlen sich nicht mehr so laut an wie vorher", sagt er, nachdem er intensiv nachgedacht hat. "Aber abgesehen davon, nein."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Ich glaube, ich bin immer noch *ich*. Und mein Ich hat sich nicht verändert."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Ich habe mit den Nano-Geistern in dir gesprochen. Fühlst du dich anders als vorher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Bist du sicher, dass du dich nicht anders fühlst, nachdem ich mit den Nano-Geistern in dir gesprochen habe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

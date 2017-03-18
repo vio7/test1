@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\respawn barks\a2332_respawn_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Hast wohl vergessen, wie Maschinen funktionieren, was?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Wirklich schade, dass Aligern das nicht sehen kann - er hätte gleich bewiesen, dass du nicht dein Erzeuger bist."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Getötet von den Fallen deines Erzeugers? Besser du als ich."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ich habe schon viele seltsame Dinge in meinem Leben gesehen, aber nie, dass jemand von einem Spiegel getötet wurde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Von einem Spiegel getötet zu werden ist nicht sehr … heldenhaft."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tut Sterben *weh*?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Dein getrübter Blick macht es schwer, den Raum zu erfassen. Als sich die Form auflöst und die Farben klar werden, kriecht dein Verstand wieder aus dem Labyrinth heraus und du spürst, wie sich dein Körper wieder zusammenfügt. Der Gestank von ranzigem Wasser und salzigem Abwasser steigt dir in die Nase.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Eine deiner Cypher liegt in der Nähe deiner ausgestreckten Hand. Es wurde sorgfältig gekaut, abgenagt und gebissen und es funktioniert eindeutig nicht mehr. Die Zähne der Abykos haben sie zu Abfall werden lassen.
+
+{SCRIPT: PC has at least one cypher in his/her possession}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Du stehst auf.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

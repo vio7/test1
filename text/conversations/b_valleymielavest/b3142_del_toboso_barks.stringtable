@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\b_valleymielavest\b3142_del_toboso_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Kein Pardon! Ha! Kein Ergeben!“</DefaultText>
+      <FemaleText>"Kein Pardon! Ha! Kein Ergeben!“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ich werde nicht wanken!“</DefaultText>
+      <FemaleText>"Ich werde nicht wanken!“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ein Feind, der eines Ritters würdig ist!“</DefaultText>
+      <FemaleText>"Ein Feind, der eines Ritters würdig ist!“</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ah. Sie wartete auf mich... nach all dem...“</DefaultText>
+      <FemaleText>"Ah. Sie wartete auf mich... nach all dem...“</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

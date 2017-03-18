@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\c_bloom\c4411_bloom_guide</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Diese tote Frau ist mit mehreren Stichwunden übersät, vermutlich stammen sie von den 'Echos' die den Rachen zu plagen scheinen. Anhand der gekritzelten Karten und anderen Notizen, die sich unter ihrem Hab und Gut finden, lässt sich vermuten, dass sie eine Entdeckerin oder eine Flor-Führerin war. Es sieht allerdings so aus, als wären ihre Gürtel und Beutel größtenteils intakt.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Du stellst fest, dass der Gürtel des Führers kein solcher ist. Er hat die Länge eines Synth-Seils, etwa 15 Meter, und als du ihn berührst, entzwirbelt er sich selbst und rutscht von ihrer Hüfte ... fast so, als würde er auf deine Befehle reagieren. Er windet sich in deine Richtung, und du verstaust ihn in deinen Taschen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Du findest nichts anderes von Wert.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Die Leiche durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Lass den Leichnam in Ruhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Du kniest neben der Leiche nieder und lässt deine geschulten Augen über ihren Körper gleiten. Hier siehst du in der Tasche eine Ausbuchtung  und deine Hand fährt hinein und erscheint wieder mit einer Handvoll Shin. Dort siehst du eine flach anliegende Tasche und ignorierst sie.
+
+Du stellst fest, dass der Gürtel des Führers kein solcher ist. Er hat die Länge eines Synth-Seils, etwa 15 Meter, und als du ihn berührst, entzwirbelt er sich selbst und rutscht von ihrer Hüfte ... fast so, als würde er auf deine Befehle reagieren. Er windet sich in deine Richtung, und du verstaust ihn in deinen Taschen.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Die Leiche der Frau ist mit mehren Stichwunden übersät, aber ihre Besitztümer sind noch intakt. Ihr Fleisch hat in der feuchten, ätzenden Atmosphäre des Rachens bereits begonnen, zu verfaulen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Als du die Taschen der Leiche sorgfältiger durchwühlst, findest du eine hübsche Anzahl an Shin.
+
+{MONEY}</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Den Besitz der Leiche erneut durchsuchen.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
