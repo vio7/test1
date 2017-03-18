@@ -940,7 +940,7 @@ Er senkt den Kopf. Schatten fällt über sein Gesicht. "Wenn Ihr mit dem Jungen 
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Der Mörder hat vielleicht Spuren hinterlassen. Aber kann ich nur finden, wenn ich danach suchen darf."</DefaultText>
+      <DefaultText>"Der Mörder hat vielleicht Spuren hinterlassen. Aber die kann ich nur finden, wenn ich danach suchen darf."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
