@@ -3146,7 +3146,7 @@
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText>Biegefähigkeit</DefaultText>
+      <DefaultText>Anpassungsfähigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3936,7 +3936,7 @@
     </Entry>
     <Entry>
       <ID>787</ID>
-      <DefaultText>Biegefähigkeit</DefaultText>
+      <DefaultText>Anpassungsfähigkeit</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5156,7 +5156,7 @@
     </Entry>
     <Entry>
       <ID>1031</ID>
-      <DefaultText>Wenn [FettleIcon: Buff][Color: PositiveModifier]Biegefähigkeit[/Color] aktiv ist, [Color: PositiveModifier]+[BonusAmount1] % bonus[/Color] für jede Anstrengungsstufe, die auf Aufgaben, auf die sich diese Fertigkeit auswirkt, angewandt wird.</DefaultText>
+      <DefaultText>Wenn [FettleIcon: Buff][Color: PositiveModifier]Anpassungsfähigkeit[/Color] aktiv ist, [Color: PositiveModifier]+[BonusAmount1] % bonus[/Color] für jede Anstrengungsstufe, die auf Aufgaben, auf die sich diese Fertigkeit auswirkt, angewandt wird.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
