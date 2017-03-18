@@ -4306,8 +4306,8 @@
     </Entry>
     <Entry>
       <ID>861</ID>
-      <DefaultText>Könnte Einer von euch gehen? Er scheint anständig genug aus, und du würdest uns Restliche retten.</DefaultText>
-      <FemaleText>Könnte Einer von euch gehen? Sie scheint anständig genug aus, und du würdest uns Restliche retten.</FemaleText>
+      <DefaultText>Könnte Einer von euch gehen? Er scheint anständig genug, und du würdest uns Restliche retten.</DefaultText>
+      <FemaleText>Könnte Einer von euch gehen? Sie scheint anständig genug, und du würdest uns Restliche retten.</FemaleText>
     </Entry>
     <Entry>
       <ID>862</ID>
@@ -6406,8 +6406,8 @@
     </Entry>
     <Entry>
       <ID>1281</ID>
-      <DefaultText>Ich *schätze*, ich sollte dankbar sein. Obwohl es seine Schuld ist, dass ich überhaupt erstmal hier war.</DefaultText>
-      <FemaleText>Ich *schätze*, ich sollte dankbar sein. Obwohl es ihre Schuld ist, dass ich überhaupt erstmal hier war.</FemaleText>
+      <DefaultText>Ich *schätze*, ich sollte dankbar sein. Obwohl es seine Schuld ist, dass ich überhaupt hier war.</DefaultText>
+      <FemaleText>Ich *schätze*, ich sollte dankbar sein. Obwohl es ihre Schuld ist, dass ich überhaupt hier war.</FemaleText>
     </Entry>
     <Entry>
       <ID>1282</ID>
