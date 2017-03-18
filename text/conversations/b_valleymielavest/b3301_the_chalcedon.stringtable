@@ -34,9 +34,9 @@
       <DefaultText>"Ich bin der Kalkedon, Kommandant der Streitkräfte des Wandelnden Gottes in der Endlosen Schlacht, der Wächter seines großen Plans und sein Vorkämpfer.“ Er wirft eine selbstironische Hand hoch. "Nicht, dass unser Erzeuger wirklich meine Hilfe bräuchte, selbstverständlich. Aber manche hier - in dem Land, dass er für uns aufgebaut hat - würden lieber alles anerkennen, was er für uns getan hat.“
 
 Er schüttelt langsam den Kopf. "Manche dieser Meinungsverschiedenheiten können durch Erörterung gelöst werden. Aber natürlich nicht alle. Nicht alle.“</DefaultText>
-      <FemaleText>"Ich bin der Kalkedon, Kommandant der Streitkräfte des Wandlenden Gottes in der Endlosen Schlacht, der Wächter seines großen Plans und sein Vorkämpfer.“ Er wirft eine selbstironische Hand hoch. "Nicht, dass unser Erzeuger wirklich meine Hilfe bräuchte, selbstverständlich. Aber manche hier - in dem Land, dass er für uns aufgebaut hat - würdel lieber alles anerkennen, was er für uns getan hat.“
+      <FemaleText>"Ich bin der Kalkedon, Kommandant der Streitkräfte des Wandlenden Gottes in der Endlosen Schlacht, der Wächter seines großen Plans und sein Vorkämpfer.“ Er wirft eine selbstironische Hand hoch. "Nicht, dass unser Erzeuger wirklich meine Hilfe bräuchte, selbstverständlich. Aber manche hier - in dem Land, dass er für uns aufgebaut hat - würden lieber alles anerkennen, was er für uns getan hat.“
 
-Er schüttelt langsam den Kopf. "Manche dieser Meinungsverschiedenheiten können durch Erörterung gelöst werden. Aber natürlich nicht alle. Nich alle.“</FemaleText>
+Er schüttelt langsam den Kopf. "Manche dieser Meinungsverschiedenheiten können durch Erörterung gelöst werden. Aber natürlich nicht alle. Nicht alle.“</FemaleText>
     </Entry>
     <Entry>
       <ID>7</ID>
@@ -67,7 +67,7 @@ Er schüttelt langsam den Kopf. "Manche dieser Meinungsverschiedenheiten können
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Na ja,“ sagt er kichernd. Du bemerkst darin jedoch eine Note der Besorgnis. "Ich war der, der überhaupt erstmal dafür argumentiert hat, dass das Portal geschlossen wird, daher bin ich ... beunruhigt, dass es wieder offen ist.“</DefaultText>
+      <DefaultText>"Na ja,“ sagt er kichernd. Du bemerkst darin jedoch eine Note der Besorgnis. "Ich war der, der als Erster dafür argumentiert hat, dass das Portal geschlossen wird, daher bin ich ... beunruhigt, dass es wieder offen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +173,7 @@ Der bellt ein Lachen. "Die Erste Verstoßene war nicht zufrieden. Sie verbreitet
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Ich suche nach einem Verstoßenen namens Mazzof, der die Resonanzkammer in den Sagusklippen reparieren kann. Ich bin versichert, dass *das* den Kummer aufhalten wird.“</DefaultText>
+      <DefaultText>"Ich suche nach einem Verstoßenen namens Mazzof, der die Resonanzkammer in den Sagusklippen reparieren kann. Ich bin sicher, dass *das* den Kummer aufhalten wird.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,10 +200,10 @@ Er legt starke Hände auf deine Schultern. "Sprich mit Aadiriis, wenn du das noc
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Nein, aber das ist nicht ungewöhnlich,“ sagt er. "Seine Strategien nehmen das meiste seiner Zeit auf, deswegen überlässt er die meiste Arbeit in der Endlosen Schlacht - und die Verhandlungen in Miel Avest - mir.“ Er lässt ein Grinsen aufzucken. "Und wie du dir vorstellen kannst, messt er die Zeit anders ab als wir.“
+      <DefaultText>"Nein, aber das ist nicht ungewöhnlich,“ sagt er. "Seine Strategien nehmen das meiste seiner Zeit ein, deswegen überlässt er die meiste Arbeit in der Endlosen Schlacht - und die Verhandlungen in Miel Avest - mir.“ Er lässt ein Grinsen aufzucken. "Und wie du dir vorstellen kannst, misst er die Zeit anders ab als wir.“
 
 Er kichert. "Es ist einige Jahre her, seitdem ich ihn gesehen habe. Ich bezweifle, dass unser Erzeuger es bemerkt hat.“</DefaultText>
-      <FemaleText>"Nein, aber das ist nicht ungewöhnlich,“ sagt er. "Seine Strategien nehmen das meiste seiner Zeit auf, deswegen überlässt er die meiste Arbeit in der Endlosen Schlacht - und die Verhandlungen in Miel Avest - mir.“ Er lässt ein Grinsen aufzucken. "Und wie du dir vorstellen kannst, messt er die Zeit anders ab als wir.“
+      <FemaleText>"Nein, aber das ist nicht ungewöhnlich,“ sagt er. "Seine Strategien nehmen das meiste seiner Zeit ein, deswegen überlässt er die meiste Arbeit in der Endlosen Schlacht - und die Verhandlungen in Miel Avest - mir.“ Er lässt ein Grinsen aufzucken. "Und wie du dir vorstellen kannst, misst er die Zeit anders ab als wir.“
 
 Er kichert. "Es ist einige Jahre her, seitdem ich ihn gesehen habe. Ich bezweifle, dass unser Erzeuger es bemerkt hat.“</FemaleText>
     </Entry>
@@ -261,8 +261,8 @@ Er kichert. "Es ist einige Jahre her, seitdem ich ihn gesehen habe. Ich bezweifl
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Der *Zweck*? Der Zweck ist, dass unser Erzeuger sich gegen die Angriffe der Ersten verteidigt hat. Sie dachte, dass sie Anspruch auf sein Wissen hat, und sie dachte, dass sie es ihm mit Gewalt entreißt. Und nun?“ Er sieht einen Moment lang gequält aus und seine Stimme senkt sich. "Jetzt bin ich mit nicht sicher, dass wir ihn aufhalten können, wenn wir es wollten.“</DefaultText>
-      <FemaleText>"Der *Zweck*? Der Zweck ist, dass unser Erzeuger sich gegen die Angriffe der Ersten verteidigt hat. Sie dachte, dass sie Anspruch auf sein Wissen hat, und sie dachte, dass sie es ihm mit Gewalt entreißt. Und nun?“ Er sieht einen Moment lang gequält aus und seine Stimme senkt sich. "Jetzt bin ich mit nicht sicher, dass wir ihn aufhalten können, wenn wir es wollten.“</FemaleText>
+      <DefaultText>"Der *Zweck*? Der Zweck ist, dass unser Erzeuger sich gegen die Angriffe der Ersten verteidigt hat. Sie dachte, dass sie Anspruch auf sein Wissen hat, und sie dachte, dass sie es ihm mit Gewalt entreißt. Und nun?“ Er sieht einen Moment lang gequält aus und seine Stimme senkt sich. "Jetzt bin ich mir nicht sicher, ob wir den Endlosen Krieg beenden könnten, selbst wenn wir es wollten.“</DefaultText>
+      <FemaleText>"Der *Zweck*? Der Zweck ist, dass unser Erzeuger sich gegen die Angriffe der Ersten verteidigt hat. Sie dachte, dass sie Anspruch auf sein Wissen hat, und sie dachte, dass sie es ihm mit Gewalt entreißt. Und nun?“ Er sieht einen Moment lang gequält aus und seine Stimme senkt sich. "Jetzt bin ich mir nicht sicher, ob wir den Endlosen Krieg beenden könnten, selbst wenn wir es wollten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
