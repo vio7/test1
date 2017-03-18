@@ -55,8 +55,8 @@ Mit einem Fingerschnippen erscheint ein Brief, und er überfliegt ihn. "Ja, ja, 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Ich bin ein spezieller Verbindungsmann aus dem Richterlichen Aufsichtskomitee, und ich muss eine Aussetzung der Hinrichtung überprüfen, die für Col Cardin ausgestellt worden ist. Es gibt einige Bedenken hinsichtlich Korruption."</DefaultText>
-      <FemaleText>"Ich bin eine spezieller Verbindungsfrau aus dem Richterlichen Aufsichtskomitee, und ich muss eine Aussetzung der Hinrichtung überprüfen, die für Col Cardin ausgestellt worden ist. Es gibt einige Bedenken hinsichtlich Korruption."</FemaleText>
+      <DefaultText>"Ich bin ein Sonder-Verbindungsmann aus dem Richterlichen Aufsichtskomitee, und ich muss eine Aussetzung der Hinrichtung überprüfen, die für Col Cardin ausgestellt worden ist. Es gibt einige Bedenken hinsichtlich Korruption."</DefaultText>
+      <FemaleText>"Ich bin eine Sonder-Verbindungsfrau aus dem Richterlichen Aufsichtskomitee, und ich muss eine Aussetzung der Hinrichtung überprüfen, die für Col Cardin ausgestellt worden ist. Es gibt einige Bedenken hinsichtlich Korruption."</FemaleText>
     </Entry>
     <Entry>
       <ID>11</ID>
