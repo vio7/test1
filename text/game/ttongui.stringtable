@@ -1443,98 +1443,98 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>vorsichtig</DefaultText>
-      <FemaleText>vorsichtig</FemaleText>
+      <DefaultText>Vorsichtiger</DefaultText>
+      <FemaleText>Vorsichtiger</FemaleText>
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>bezaubernd</DefaultText>
-      <FemaleText>bezaubernd</FemaleText>
+      <DefaultText>Bezaubernder</DefaultText>
+      <FemaleText>Bezaubernder</FemaleText>
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>schlau</DefaultText>
-      <FemaleText>schlau</FemaleText>
+      <DefaultText>Schlauer</DefaultText>
+      <FemaleText>Schlauer</FemaleText>
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>anmutig</DefaultText>
-      <FemaleText>anmutig</FemaleText>
+      <DefaultText>Anmutiger</DefaultText>
+      <FemaleText>Anmutiger</FemaleText>
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>intelligent</DefaultText>
-      <FemaleText>intelligent</FemaleText>
+      <DefaultText>Intelligenter</DefaultText>
+      <FemaleText>Intelligenter</FemaleText>
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>gebildet</DefaultText>
-      <FemaleText>gebildet</FemaleText>
+      <DefaultText>Gebildeter</DefaultText>
+      <FemaleText>Gebildeter</FemaleText>
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>mechanisch</DefaultText>
-      <FemaleText>mechanisch</FemaleText>
+      <DefaultText>Mechanischer</DefaultText>
+      <FemaleText>Mechanischer</FemaleText>
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>mystisch</DefaultText>
-      <FemaleText>mystisch</FemaleText>
+      <DefaultText>Mystischer</DefaultText>
+      <FemaleText>Mystischer</FemaleText>
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>aufmerksam</DefaultText>
-      <FemaleText>aufmerksam</FemaleText>
+      <DefaultText>Aufmerksamer</DefaultText>
+      <FemaleText>Aufmerksamer</FemaleText>
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>robust</DefaultText>
-      <FemaleText>robust</FemaleText>
+      <DefaultText>Robuster</DefaultText>
+      <FemaleText>Robuster</FemaleText>
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>geschickt</DefaultText>
-      <FemaleText>geschickt</FemaleText>
+      <DefaultText>Geschickter</DefaultText>
+      <FemaleText>Geschickter</FemaleText>
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>verstohlen</DefaultText>
-      <FemaleText>verstohlen</FemaleText>
+      <DefaultText>Verstohlener</DefaultText>
+      <FemaleText>Verstohlener</FemaleText>
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>stark</DefaultText>
-      <FemaleText>stark</FemaleText>
+      <DefaultText>Starker</DefaultText>
+      <FemaleText>Starker</FemaleText>
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>willensstark</DefaultText>
-      <FemaleText>willensstark</FemaleText>
+      <DefaultText>Willensstarker</DefaultText>
+      <FemaleText>Willensstarker</FemaleText>
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>flink</DefaultText>
-      <FemaleText>flink</FemaleText>
+      <DefaultText>Flinker</DefaultText>
+      <FemaleText>Flinker</FemaleText>
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>zäh</DefaultText>
-      <FemaleText>zäh</FemaleText>
+      <DefaultText>Zäher</DefaultText>
+      <FemaleText>Zäher</FemaleText>
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>zornig</DefaultText>
-      <FemaleText>zornig</FemaleText>
+      <DefaultText>Zorniger</DefaultText>
+      <FemaleText>Zorniger</FemaleText>
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>dimensionsverschiebend</DefaultText>
-      <FemaleText>dimensionsverschiebend</FemaleText>
+      <DefaultText>Dimensionsverschiebender</DefaultText>
+      <FemaleText>Dimensionsverschiebender</FemaleText>
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>überimpulsiv</DefaultText>
-      <FemaleText>überimpulsiv</FemaleText>
+      <DefaultText>Überimpulsiver</DefaultText>
+      <FemaleText>Überimpulsiver</FemaleText>
     </Entry>
     <Entry>
       <ID>306</ID>
@@ -1548,8 +1548,8 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>verloren</DefaultText>
-      <FemaleText>verloren</FemaleText>
+      <DefaultText>Verlorener</DefaultText>
+      <FemaleText>Verlorener</FemaleText>
     </Entry>
     <Entry>
       <ID>309</ID>
@@ -1758,8 +1758,8 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>Ist so heldenhaft, wie er es zu sein glaubt</DefaultText>
-      <FemaleText>Ist so heldenhaft, wie er es zu sein glaubt</FemaleText>
+      <DefaultText>Ist so heldenhaft, wie er zu sein glaubt</DefaultText>
+      <FemaleText>Ist so heldenhaft, wie sie zu sein glaubt</FemaleText>
     </Entry>
     <Entry>
       <ID>351</ID>
@@ -1788,8 +1788,8 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>356</ID>
-      <DefaultText>Du findest in jeder Situation die richtigen Worte. Es gibt kein Hindernis, das du nicht mit Worten überwinden kannst.</DefaultText>
-      <FemaleText>Du findest in jeder Situation die richtigen Worte. Es gibt kein Hindernis, das du nicht mit Worten überwinden kannst.</FemaleText>
+      <DefaultText>Du findest in jeder Situation die richtigen Worte. Es gibt kein Hindernis, dass du nicht mit Worten überwinden kannst.</DefaultText>
+      <FemaleText>Du findest in jeder Situation die richtigen Worte. Es gibt kein Hindernis, dass du nicht mit Worten überwinden kannst.</FemaleText>
     </Entry>
     <Entry>
       <ID>357</ID>
