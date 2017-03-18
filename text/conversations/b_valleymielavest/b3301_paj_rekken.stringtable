@@ -25,10 +25,10 @@ Sie kaut das Innere ihrer Wange bevor sie spricht. "Ich muss ja zugeben, ich bin
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Das habe ich versprochen. Dann erinnerte ich mich, dass niemand von euch sich je die Mühe gemacht hat, die Schwüre zu halten, die ihr mich versprecht. Was hat es also für einen Sinn?“
+      <DefaultText>"Das habe ich versprochen. Dann erinnerte ich mich, dass niemand von euch sich je die Mühe gemacht hat, die Schwüre zu halten, die ihr mir gegeben habt. Was also hätte es für einen Sinn?“
 
 "Auf jeden Fall. Was hast du so gemacht? Ein paar Dörfer voll unschuldiger Zivilisten niedergebrannt? Oder bist du zu größeren Gräueltaten aufgestiegen?“</DefaultText>
-      <FemaleText>"Das habe ich versprochen. Dann erinnerte ich mich, dass niemand von euch sich je die Mühe gemacht hat, die Schwuren zu halten, die ihr mich verspricht, also was hat es für einen Sinn?“
+      <FemaleText>"Das habe ich versprochen. Dann erinnerte ich mich, dass niemand von euch sich je die Mühe gemacht hat, die Schwüre zu halten, die ihr mir gegeben habt. Was also hätte es für einen Sinn?“
 
 "Auf jeden Fall. Was hast du so gemacht? Ein paar Dörfer voll unschuldiger Zivilisten niedergebrannt? Oder bist du zu größeren Gräueltaten aufgestiegen?“</FemaleText>
     </Entry>
@@ -600,7 +600,7 @@ Sie wendet sich wieder zu die. "Also stell deine Fragen. Ich bin nicht überaus 
     <Entry>
       <ID>155</ID>
       <DefaultText>Sie nickt. "Sie kann diese Wirkung haben. Na ja. Ich würdige das, egal, aus welchem Grund.“</DefaultText>
-      <FemaleText>Sie nickt. "Sie kann diese Wirkung haben. Na ja. Ich würdeige das, egal, aus welchem Grund.“</FemaleText>
+      <FemaleText>Sie nickt. "Sie kann diese Wirkung haben. Na ja. Ich würdige das, egal, aus welchem Grund.“</FemaleText>
     </Entry>
     <Entry>
       <ID>156</ID>
@@ -698,7 +698,7 @@ Sie das herablassendste Lächeln, dass du je gesehen hast. Es ist so, als ob sie
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>"Es gibt Gerüchte, dass die Aktivität des Kummers in letzter Zeit gestiegen ist. Ich glaube den Geschichten nicht, aber viele von ihnen tun es.“ Sie zeigt mit einem Daumen hinter sich zu den anderen Verstoßenen. "Deine Brüder nd Schwester. Deine *Familie*. Auch, wenn der Kummer nicht *aktiver* ist, ist er doch immer noch aktiv. Und sie kamen hierher, um in Sicherheit zu sein.“</DefaultText>
+      <DefaultText>"Es gibt Gerüchte, dass die Aktivität des Kummers in letzter Zeit gestiegen ist. Ich glaube den Geschichten nicht, aber viele von ihnen tun es.“ Sie zeigt mit einem Daumen hinter sich zu den anderen Verstoßenen. "Deine Brüder und Schwestern. Deine *Familie*. Auch, wenn der Kummer nicht *aktiver* ist, ist er doch immer noch aktiv. Und sie kamen hierher, um in Sicherheit zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
