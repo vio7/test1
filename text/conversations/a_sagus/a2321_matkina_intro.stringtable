@@ -505,9 +505,9 @@ Plötzlich hat sie das Messer in der Hand.</DefaultText>
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Ha. Bin ich wirklich die Erste, die dir das erzählt? Oh, dann mach dich mal auf eine Überraschung gefasst, mein lieber Bruder."</DefaultText>
-      <FemaleText />
-    </Entry>
+      <DefaultText>"Ha. Bin ich wirklich die Erste, die dir das erzählt? Oh, dann mach dich mal auf eine Überraschung gefasst, meine lieber Bruder."</DefaultText>
+      <FemaleText>"Ha. Bin ich wirklich die Erste, die dir das erzählt? Oh, dann mach dich mal auf eine Überraschung gefasst, meine liebe Schwester."</FemaleText>
+	</Entry>
     <Entry>
       <ID>101</ID>
       <DefaultText>"Jeder Verstoßene hat eine. So wie jeder Verstoßene das hier hat." Sie tippt auf die Tätowierung auf deinem Kopf. "Niemand weiß, wofür sie sind. Aadiriis dachte, sie wären ein Nebenprodukt der Transferierung - genau wie wir ..." Einen Moment lang schien sie Gedankenverloren.</DefaultText>
