@@ -209,7 +209,7 @@ Sie sucht das Gebiet ab. "Er zerstört unser Zuhause. Die anderen versuchen, ihn
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Die Nachrichten deiner Geburt und deiner Taten haben uns bereits erreicht.“ Sie lächelt. "Neuigkeiten verbreiten sich in der Welt der Verstoßenen schnell, wie du bestimmt schon gesehen hast. Ich kenne dein Anliegen, mit Mazzof zu sprechen. Ich habe sogar das Gerücht gehört, dass du die Vergangenheit ändern kannst, dass du ... Matkina wiederhergestellt hast? Das ist mir etwas eigenartig, denn ich habe zwei Erinnerungen bezüglich dieser Sache - eine, in der Matkina ganz ist, so, wie wir sie alle jetzt kennen und eine, in der ihr Verstand ... unvollständig ist.“ Sie lacht. "Womöglich ist es *mein* Verstand, der unvollständig ist.“</DefaultText>
+      <DefaultText>"Die Nachrichten deiner Geburt und deiner Taten haben uns bereits erreicht.“ Sie lächelt. "Neuigkeiten verbreiten sich in der Welt der Verstoßenen schnell, wie du bestimmt schon gesehen hast. Ich kenne dein Anliegen, mit Mazzof zu sprechen. Ich habe sogar das Gerücht gehört, dass du die Vergangenheit ändern kannst, dass du ... Matkina wiederhergestellt hast? Das fühlt sich etwas eigenartig an, denn ich habe nun zwei Erinnerungen bezüglich dieser Sache - eine, in der Matkina ganz ist, so, wie wir sie alle jetzt kennen und eine, in der ihr Verstand ... unvollständig ist.“ Sie lacht. "Womöglich ist es *mein* Verstand, der unvollständig ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -822,7 +822,7 @@ Als sie ihre Hand entfernt, sind ihre Augen nass mit Tränen.
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Sie hebt einen schlanken Finger. "Aber wenn überhaupt, dann macht mich das *noch* misstrauischer, dir den Lebensbildbetrachter eines Bruders zu händigen. Wenn du mit Mazzof sprechen willst, dann musst du mir beweisen, dass man dir den Verstand einer unserer Geschwister anvertrauen kann. Du hast Matkina geheilt, aber hast du Tash verstanden? Das du dich ebenfalls um sein innerstes Selbst gekümmert?“
+      <DefaultText>Sie hebt einen schlanken Finger. "Aber wenn überhaupt, dann macht mich das *noch* misstrauischer, dir den Lebensbildbetrachter eines Bruders aus zu händigen. Wenn du mit Mazzof sprechen willst, dann musst du mir beweisen, dass man dir den Verstand einer unserer Geschwister anvertrauen kann. Du hast Matkina geheilt, aber hast du Tash verstanden? Das du dich ebenfalls um sein innerstes Selbst gekümmert hast?“
 
 "Bevor ich dir diesen Lebensbildbetrachter geben kann, würde ich dich mit Melmoth Leviarm sprechen lassen.“</DefaultText>
       <FemaleText />
@@ -919,7 +919,7 @@ Sie schüttelt den Kopf. "Welch eine Verschwendung. Erst nach dem Tod der Ersten
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>"Und so haben wir erneut ein Heiligtum für jedenVerstoßenen.“ Sie wirft einen Seitenblick auf deine Gefährten. "Und ihre gelegentlichen Gäste.“
+      <DefaultText>"Und so haben wir erneut ein Heiligtum für jeden Verstoßenen.“ Sie wirft einen Seitenblick auf deine Gefährten. "Und ihre gelegentlichen Gäste.“
 
 Wenn wir doch nur nicht den Zugang geschlossen hätten. Ob der Kummer nun wirklich aktiver ist oder nicht, gibt es doch zweifellos andere, die gerne hier in Sicherheit finden würden.“
 
@@ -968,8 +968,8 @@ Sie schüttelt den Kopf. "Ich nehme die Verantwortung für das Schließen an. Di
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Ich bekam den Eindruck, dass er sich unter sein Äußeres tief um andere kümmert.“</DefaultText>
-      <FemaleText>"Ich bekam den Eindruck, dass er sich unter sein Äußeres tief um andere kümmert.“</FemaleText>
+      <DefaultText>"Ich bekam den Eindruck, dass er sich unter seiner harten Schale sehr um andere kümmert.“</DefaultText>
+      <FemaleText>"Ich bekam den Eindruck, dass er sich unter seiner harten Schale sehr um andere kümmert.“</FemaleText>
     </Entry>
     <Entry>
       <ID>191</ID>
@@ -1220,8 +1220,8 @@ Sie beugt leicht den Kopf. "Wenn du vielleicht nur wenig vom Konflikt gehört ha
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Warum würdest du dich darüber schuldig fühlen, dass unser Erzeuger den Zerklüfteten Traum zu den Sagusklippen bringt? Du warst das nicht.“</DefaultText>
-      <FemaleText>"Warum würdest du dich darüber schuldig fühlen, dass unser Erzeuger den Zerklüfteten Traum zu den Sagusklippen bringt? Du warst das nicht.“</FemaleText>
+      <DefaultText>"Warum solltest du dich dafür schuldig fühlen, dass unser Erzeuger den Zerklüfteten Traum zu den Sagusklippen gebracht hat? Du warst das nicht.“</DefaultText>
+      <FemaleText>"Warum solltest du dich dafür schuldig fühlen, dass unser Erzeuger den Zerklüfteten Traum zu den Sagusklippen gebracht hat? Du warst das nicht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>243</ID>
@@ -1532,8 +1532,8 @@ Sie macht eine Pause und du spürst kitzeln ihres Verstandes auf deinen. "Das is
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>"Das ist genau richitg.“</DefaultText>
-      <FemaleText>"Das ist genau richitg.“</FemaleText>
+      <DefaultText>"Das ist genau richtig.“</DefaultText>
+      <FemaleText>"Das ist genau richtig.“</FemaleText>
     </Entry>
     <Entry>
       <ID>305</ID>
@@ -2089,8 +2089,8 @@ Als sie spricht, kannst du spüren, wie die Gezeiten sanft von ihr abfallen und 
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>Sie gestikuliert zur Pracht um sie herum. "Miel Avest ist ein Garten, ein Käfig. Der Kummer kann nicht hereinkommen, aber wir können nicht gehen. Hast du jemals Tiere in einer Menagerie gesehen? Sie sind unruhig, eingesperrt, sehnen sich nach Freiheit ... aber wenn sie ihren Käfig verlassen, werden sie von ihren vermeintlichen Besitzern verfolgt. So ist es mit uns hier. Aber anstatt dass wir uns vereinigen, um unser Problem zu lösen, schlagen wir gegenseitig um uns. Ich will sehen, dass wir diese Unterschiede beiseitelegen.“</DefaultText>
-      <FemaleText>Sie gestikuliert zur Pracht um sie herum. "Miel Avest ist ein Garten, ein Käfig. Der Kummer kann nicht hereinkommen, aber wir können nicht gehen. Hast du jemald Tiere in einer Menagerie gesehen? Sie sind unruhig, eingesperrt, sehnen sich nach Freiheit... aber wenn sie ihren Käfig verlassen, werden sie von ihren vermeintlichen Besitzern verfolgt. So ist es mit uns hier. Aber anstatt dass wir uns vereinigen, um unser Problem zu lösen, schlagen wir gegenseitig um uns. Ich will sehen, dass wir diese Unterschiede beiseitelegen.“</FemaleText>
+      <DefaultText>Sie gestikuliert zur Pracht um sie herum. "Miel Avest ist ein Garten, ein Käfig. Der Kummer kann nicht hereinkommen, aber wir können nicht gehen. Hast du jemals Tiere in einer Menagerie gesehen? Sie sind unruhig, eingesperrt, sehnen sich nach Freiheit ... aber wenn sie ihren Käfig verlassen, werden sie von ihren vermeintlichen Besitzern verfolgt. So ist es mit uns hier. Aber anstatt dass wir uns vereinigen, um unser Problem zu lösen, bekämpfen wir uns gegenseitig. Ich will sehen, dass wir diese Differenzen beilegen.“</DefaultText>
+      <FemaleText>Sie gestikuliert zur Pracht um sie herum. "Miel Avest ist ein Garten, ein Käfig. Der Kummer kann nicht hereinkommen, aber wir können nicht gehen. Hast du jemal Tiere in einer Menagerie gesehen? Sie sind unruhig, eingesperrt, sehnen sich nach Freiheit... aber wenn sie ihren Käfig verlassen, werden sie von ihren vermeintlichen Besitzern verfolgt. So ist es mit uns hier. Aber anstatt dass wir uns vereinigen, um unser Problem zu lösen, bekämpfen wir uns gegenseitig. Ich will sehen, dass wir diese Differenzen beilegen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>412</ID>
@@ -2318,10 +2318,10 @@ Sie hebt ihre Arme in Versöhnung. "Aber du musst mir vergeben. Der Zweck der Ü
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>"Ich erkenne, dass das hier keine logische Schlussfolgerung ist - der Kummer könnte mich aus bisher unbekannten Gründen verfolgen - aber ich mit zufrieden zu wissen. dass ich wenigstens niemand anderes mit *meinem* Körper schade.“
+      <DefaultText>"Ich erkenne, dass das hier keine logische Schlussfolgerung ist - der Kummer könnte mich aus bisher unbekannten Gründen verfolgen - aber ich bin zufrieden zu wissen, dass ich wenigstens niemand anderes mit *meinem* Körper schade.“
 
 Ein Lächeln zuckt auf. "Melmoth weiß mehr und er ist eifrig, uns bei jeder Gelegenheit mehr zu erzählen. Er hat sichergestellt, dass er jedes Werkzeug, das ihm zur Verfügung steht, verwendet, um unsere Leben zu bewahren und zu verstehen. Aber ich glaube nicht, dass er eine umfassende Studie bezüglich den Beweggründen des Kummers gemacht hat.“</DefaultText>
-      <FemaleText>"Ich erkenne, dass das hier keine logische Schlussfolgerung ist - der Kummer könnte mich aus bisher unbekannten Gründen verfolgen - aber ich mit zufrieden zu wissen. dass ich wenigstens niemand anderes mit *meinem* Körper schade.“
+      <FemaleText>"Ich erkenne, dass das hier keine logische Schlussfolgerung ist - der Kummer könnte mich aus bisher unbekannten Gründen verfolgen - aber ich bin zufrieden zu wissen, dass ich wenigstens niemand anderes mit *meinem* Körper schade.“
 
 Ein Lächeln zuckt auf. "Melmoth weiß mehr und er ist eifrig, uns bei jeder Gelegenheit mehr zu erzählen. Er hat sichergestellt, dass er jedes Werkzeug, das ihm zur Verfügung steht, verwendet, um unsere Leben zu bewahren und zu verstehen. Aber ich glaube nicht, dass er eine umfassende Studie bezüglich den Beweggründen des Kummers gemacht hat.“</FemaleText>
     </Entry>
