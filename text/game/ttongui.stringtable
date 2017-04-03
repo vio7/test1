@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\ttongui</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1487</EntryCount>
+  <EntryCount>1504</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -1011,8 +1011,8 @@
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>Erfordert Aktion</DefaultText>
-      <FemaleText>Erfordert Aktion</FemaleText>
+      <DefaultText>Erfordert &lt;quad class="action"&gt;Aktion</DefaultText>
+      <FemaleText>Erfordert &lt;quad class="action"&gt;Aktion</FemaleText>
     </Entry>
     <Entry>
       <ID>202</ID>
@@ -4443,8 +4443,8 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>888</ID>
-      <DefaultText>{0} Rüstung</DefaultText>
-      <FemaleText>{0} Rüstung</FemaleText>
+      <DefaultText>{0} &lt;quad class="armor"&gt;Rüstung</DefaultText>
+      <FemaleText>{0} &lt;quad class="armor"&gt;Rüstung</FemaleText>
     </Entry>
     <Entry>
       <ID>889</ID>
@@ -5483,8 +5483,8 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>1096</ID>
-      <DefaultText>Widerstand</DefaultText>
-      <FemaleText>Widerstand</FemaleText>
+      <DefaultText>[Color: Resistance]Widerstand[/Color]</DefaultText>
+      <FemaleText>[Color: Resistance]Widerstand[/Color]</FemaleText>
     </Entry>
     <Entry>
       <ID>1097</ID>
@@ -6033,7 +6033,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>{0} {1} {2} Schaden</DefaultText>
+      <DefaultText>{0} Schaden ({1} {2})</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7441,6 +7441,91 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
       <ID>1488</ID>
       <DefaultText>Verstohlene</DefaultText>
       <FemaleText>Verstohlene</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>1489</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1490</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1491</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1492</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1493</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1494</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1495</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1496</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1497</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1498</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1499</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1500</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1501</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1502</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1503</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1504</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1505</ID>
+      <DefaultText />
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
