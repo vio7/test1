@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>1350</EntryCount>
+  <EntryCount>1367</EntryCount>
   <Entries>
     <Entry>
       <ID>0</ID>
@@ -6646,7 +6646,7 @@
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>Verursacht [Damage] bei allen Gegnern in Reichweite, die nicht widerstehen können. Fügt selbst bei einem fehlgeschlagenen Angriff [Color: Relativistic]1 [DamageIcon: Relativistic]relativistischen Schaden (ignoriert Widerstand) [/Color] pro angewandter Anstrengungsstufe zu.</DefaultText>
+      <DefaultText>Verursacht [Damage] bei allen Gegnern in Reichweite, die nicht widerstehen können. Fügt selbst bei einem fehlgeschlagenen Angriff [Color: Relativistic]1 [DamageIcon: Relativistic]relativistischen Schaden (ignoriert Widerstand) [/Color] pro angewandter Anstrengungsstufe zu.\n\n[DamageFromEffort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6752,6 +6752,91 @@
     <Entry>
       <ID>1350</ID>
       <DefaultText>Du wirfst deinen Willen zur mit deinem Geist verbundenen Flor aus und rufst einen der unzähligen Schlünde des transdimensionalen Leviathans herbei, um dir im Kampf beizustehen.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1351</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1352</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1353</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1354</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1355</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1356</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1357</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1358</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1359</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1360</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1361</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1362</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1363</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1364</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1365</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1366</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1367</ID>
+      <DefaultText />
       <FemaleText />
     </Entry>
   </Entries>
