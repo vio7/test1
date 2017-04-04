@@ -543,14 +543,14 @@ Sie richtet sich wieder auf, in voller Militärhaltung.</DefaultText>
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Sie schaut ihn kurz gleichgültig an, dann blickt sie zu dir. "Ist dem so? Dan wirst du erfreut sein wenn ich sage, dass wir ein paar Überraschungen auf Lager haben. Ich würde sofort ein Messer in dich stechen wenn ich nicht denken würde, das du mich mit der Leiche eines schuldlosen Abgeworfenen zurücklässt.“</DefaultText>
+      <DefaultText>Sie schaut ihn kurz gleichgültig an, dann blickt sie zu dir. "Ist dem so? Dann wirst du erfreut sein wenn ich sage, dass wir ein paar Überraschungen auf Lager haben. Ich würde sofort ein Messer in dich stechen wenn ich nicht denken würde, dass du mich mit der Leiche eines schuldlosen Abgeworfenen zurücklässt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
       <DefaultText>Sie blickt wieder zu Aligern. "Das Problem mit diesem schlüpfrigen Mistkerl ist, dass man sich *vorbereiten* muss, um ihn zu fangen. Jetzt gerade habe ich nichts vorbereitet.“
 
-Sie wendet sich wieder zu die. "Also stell deine Fragen. Ich bin nicht überaus damit beschäftigt, wer du bist. *Ich* rühme mich mit meiner Ehrlichkeit. Anders als manch andere.“</DefaultText>
+Sie wendet sich wieder zu dir. "Also stell deine Fragen. Ich bin nicht überaus damit beschäftigt, wer du bist. *Ich* rühme mich mit meiner Ehrlichkeit. Anders als manch andere.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
