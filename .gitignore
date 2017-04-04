@@ -1,0 +1,25 @@
+data/conversations
+data/design
+data/quests/
+Audio/
+desc.txt
+
+*.git
+
+# Temp files verschiedener Programme
+*.swp
+*.tmp
+*.*~
+
+# Pakete unseres Helpers
+*.zip
+*.7z
+
+# Wir sind die deutsche Version, und haben einen eigenen Ordner, also ignoriere alle Sprachen.
+data/localized/de/
+data/localized/en/
+data/localized/es/
+data/localized/fr/
+data/localized/it/
+data/localized/pl/
+data/localized/ru/

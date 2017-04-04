@@ -1,0 +1,15 @@
+*/lib/*
+*/libs/*
+*/META-INF/*
+*/org/*
+*/translation_helper/*
+*.gitignore*
+*.gitattributes*
+*exclude.lst*
+*pre-commit*
+*README.md*
+*Readme-Commit-Hook.txt*
+*stringtable.xsd*
+*xsdv.cmd*
+*xsdv.sh*
+*translation_helper*
