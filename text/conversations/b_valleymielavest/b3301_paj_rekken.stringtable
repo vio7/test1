@@ -538,8 +538,8 @@ Sie richtet sich wieder auf, in voller Militärhaltung.</DefaultText>
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Er ist einen Moment lang ruhig, dann bricht er aus. "Du suchst nach dem Wandelnden Gott? Dem Feigling?“ Er zuckt einen Daumen zu dir. "Genau hier. Zumandest erzählte er allen in den Sagusklippen, dass er es sei.“</DefaultText>
-      <FemaleText>Er ist einen Moment lang ruhig, dann bricht er aus. "Du suchst nach dem Wandelnden Gott? Dem Feigling?“ Er zuckt einen Daumen zu dir. "Genau hier. Zumandest erzählte er allen in den Sagusklippen, dass er es sei.“</FemaleText>
+      <DefaultText>Er ist einen Moment lang ruhig, dann bricht er aus. "Du suchst nach dem Wandelnden Gott? Dem Feigling?“ Er zuckt einen Daumen zu dir. "Genau hier. Zumindest erzählte er allen in den Sagusklippen, dass er es sei.“</DefaultText>
+      <FemaleText>Er ist einen Moment lang ruhig, dann bricht er aus. "Du suchst nach dem Wandelnden Gott? Dem Feigling?“ Er zuckt einen Daumen zu dir. "Genau hier. Zumindest erzählte sie allen in den Sagusklippen, dass sie es sei.“</FemaleText>
     </Entry>
     <Entry>
       <ID>146</ID>
