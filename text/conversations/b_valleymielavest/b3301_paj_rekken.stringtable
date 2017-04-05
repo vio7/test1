@@ -250,17 +250,17 @@ Sie richtet ihren Schwertgürtel. "Kholn war eine Schande. Eine Tragödie. Aber 
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Sie schaut dich einen Moment lang mitleidig an. "Verwende deinen Verstand und denke darüber nach. Wenn eine Tür verschlossen ist und du sie am Rahmen eintrittst, wie gut diese Tür andere Eindringlinge abhalten?“</DefaultText>
+      <DefaultText>Sie schaut dich einen Moment lang mitleidig an. "Nutze deinen Verstand und denke darüber nach. Wenn eine Tür verschlossen ist und du sie am Rahmen eintrittst, wie gut kann diese Tür andere Eindringlinge abhalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Du hast ohne Nachdenken agiert, deinen Weg in ein verschlossenes Heiligtum freigekämpft, und jetzt willst du wissen, was du falsch getan hast? Der Wandelnde Gott baute dich, umbesser als das zu denken... hoffe ich.“</DefaultText>
+      <DefaultText>"Du hast ohne nachzudenken gehandelt, deinen Weg in ein verschlossenes Heiligtum freigekämpft, und jetzt willst du wissen, was du falsch gemacht hast? Der Wandelnde Gott erschuf dich, um klüger zu handeln als so... hoffe ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Du hast effektiv eine Tür vernichtet, ohne darüber nachzudenken, warum sie überhaupt verschlossen war. Du dachtest an nichts anderes als deine eigenen Zwecke, oder?“</DefaultText>
+      <DefaultText>"Du hast effektiv eine Tür aufgesprengt, ohne darüber nachzudenken, warum sie überhaupt verschlossen war. Du hast nur an deinen Eigennutz gedacht, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
