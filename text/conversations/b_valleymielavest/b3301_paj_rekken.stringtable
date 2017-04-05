@@ -81,14 +81,14 @@ Sie wendet sich zu dir. "Du weißt, dass du mit einer Verräterin reist, oder?�
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ich habe dir noch eines zu sagen und ich will, dass du dir das vorsichtig merkst. Der Wandelnde Gott - der Feigling - will uns alle umbringen. Solltest du ihm begegnen, traue ihm nicht. Er wird dich genauso sicherlich zerstören wie der Kummer.“
+      <DefaultText>"Ich habe dir noch eines zu sagen und ich will, dass du dir das sorgfältig merkst. Der Wandelnde Gott - der Feigling - will uns alle umbringen. Solltest du ihm begegnen, traue ihm nicht. Er wird dich genauso sicherlich zerstören wie der Kummer.“
 
 Sie wendet sich und schreitet weg. "Ich würde dir Erfolg wünschen, aber...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Oh, Matkina hat es dir erzählt? Was für eine Überraschung. Sie ist generell ruhiger, was ihre Gefühle angeht.“
+      <DefaultText>"Oh, Matkina hat es dir erzählt? Was für eine Überraschung. Sie ist generell schweigsam, was ihre Gefühle angeht.“
 
 Sie richtet ihren Schwertgürtel. "Kholn war eine Schande. Eine Tragödie. Aber es musste so passieren. Ich war für die meisten meiner Jahrhunderte eine Kriegerin. Ich weiß darüber, Opfer im Dienst von höheren Idealen zu bringen. Ich habe aufgehört, meinen Schlaf darüber zu verlieren. Lebe lang genug, dann wirst du es verstehen.“</DefaultText>
       <FemaleText />
