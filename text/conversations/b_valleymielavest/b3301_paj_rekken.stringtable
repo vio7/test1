@@ -482,7 +482,7 @@ Sie hält eine Hand hoch. "Nein, tut mir leid. Ich bin fertig. Bitte, stelle Paj
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Erzähl mir davon."</DefaultText>
+      <DefaultText>"Erzähl mir was über Aadiriis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
