@@ -472,7 +472,7 @@ Sie hält eine Hand hoch. "Nein, tut mir leid. Ich bin fertig. Bitte, stelle Paj
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Ich muss Mazzof finden. Wo ist er?“</DefaultText>
+      <DefaultText>"Ich muss Mazzof finden. Ist er hier?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
