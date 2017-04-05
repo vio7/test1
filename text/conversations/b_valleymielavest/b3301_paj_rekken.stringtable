@@ -270,17 +270,17 @@ Sie richtet ihren Schwertgürtel. "Kholn war eine Schande. Eine Tragödie. Aber 
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Dachtest du, dass das Portal gegen dich alleine versiegelt war? Oder dachtest du an irgendetwas anderes als deine eigenen Wünsche? Wir haben es aus einem Grund versiegelt, aber ich schätze, du verstehst dich als zu wichtig.“</DefaultText>
+      <DefaultText>"Dachtest du, dass das Portal nur deinetwegen versiegelt war? Oder dachtest du an irgendetwas anderes als deine eigenen Wünsche? Wir haben es aus einem bestimmten Grund versiegelt, aber ich vermute, du schätzt dich als zu wichtig ein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Sie blickt auf die Sonne hoch, wässrig durch den Schleier der shimmernden Schilde, und spricht, "Meine Zeit ist wertvoll.“</DefaultText>
+      <DefaultText>Sie blickt zur Sonne hoch, wässrig durch den Schleier der schimmernden Schilde, und spricht, "Meine Zeit ist kostbar.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Nicht mit mir. Ich bin nicht daran interessiert, was du zu sagen hast, um ehrlich zu sein, und es wartet eine große Menge Arbeit auf mich. Wenn du deine Freude an dein neues Leben ausdrücken willst oder einen Moment der glücklichen Brüderlichkeit mit deinen Geschwistern haben willst, dann schlage ich vor, dass du mit Aadiriis redest. Sie gibt dir die Validierung, die du zu brauchen scheinst.“</DefaultText>
+      <DefaultText>"Nicht mit mir. Ich bin nicht daran interessiert, was du zu sagen hast, um ehrlich zu sein, und es wartet eine große Menge Arbeit auf mich. Wenn du deine Freude an dein neues Leben ausdrücken willst oder einen Moment der glücklichen Brüderlichkeit mit deinen Geschwistern haben willst, dann schlage ich vor, dass du mit Aadiriis redest. Sie gibt dir die Bestätigung, die du zu brauchen scheinst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
