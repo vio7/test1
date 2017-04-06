@@ -306,13 +306,13 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>{0}</DefaultText>
-      <FemaleText>{0}</FemaleText>
+      <DefaultText>[{0}] </DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>{0}</DefaultText>
-      <FemaleText>{0}</FemaleText>
+      <DefaultText>[{0}] </DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
@@ -381,13 +381,13 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Unwissent</DefaultText>
+      <DefaultText>Unwissend</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
       <DefaultText>{0} : {1}</DefaultText>
-      <FemaleText>{0} / {1}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
@@ -551,7 +551,7 @@
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>Setzt die Ferbenviefalt in Gesprächen fest</DefaultText>
+      <DefaultText>Setzt die Farbenviefalt in Gesprächen fest</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -857,107 +857,107 @@
     <Entry>
       <ID>170</ID>
       <DefaultText>Keine weiteren Aktionen!</DefaultText>
-      <FemaleText>Keine weiteren Aktionen!</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
       <DefaultText>Beginnen</DefaultText>
-      <FemaleText>Beginnen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
       <DefaultText>Basteln</DefaultText>
-      <FemaleText>Basteln</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
       <DefaultText>Feuerwerker</DefaultText>
-      <FemaleText>Feuerwerker</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
       <DefaultText>Sog</DefaultText>
-      <FemaleText>Sog</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>175</ID>
       <DefaultText>Szenen-Debug-Menü</DefaultText>
-      <FemaleText>Szenen-Debug-Menü</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
       <DefaultText>Interagieren</DefaultText>
-      <FemaleText>Interagieren</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
       <DefaultText>Untersuchen</DefaultText>
-      <FemaleText>Untersuchen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
       <DefaultText>Angreifen</DefaultText>
-      <FemaleText>Angreifen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
       <DefaultText>Sprechen</DefaultText>
-      <FemaleText>Sprechen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
       <DefaultText>Unterbrechen!</DefaultText>
-      <FemaleText>Unterbrechen!</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
       <DefaultText>Gegenstand erhalten: {0}.</DefaultText>
-      <FemaleText>Gegenstand erhalten: {0}.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
       <DefaultText>{0} Gezeiten wurden um eine {1} Menge erhöht.</DefaultText>
-      <FemaleText>{0} Gezeiten wurden um eine {1} Menge erhöht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
       <DefaultText>{0} Gezeiten wurden um eine {1} Menge verringert.</DefaultText>
-      <FemaleText>{0} Gezeiten wurden um eine {1} Menge verringert.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
       <DefaultText>Verlorener Gegenstand: {0}.</DefaultText>
-      <FemaleText>Verlorener Gegenstand: {0}.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>185</ID>
       <DefaultText>{0} Shin erhalten.</DefaultText>
-      <FemaleText>{0} Shin erhalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>186</ID>
       <DefaultText>{0} Shin verloren.</DefaultText>
-      <FemaleText>{0} Shin verloren.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
       <DefaultText>{0} EP erhalten.</DefaultText>
-      <FemaleText>{0} EP erhalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
       <DefaultText>{0} SP erhalten.</DefaultText>
-      <FemaleText>{0} SP erhalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
       <DefaultText>{0} {1}-Pool wiederhergestellt.</DefaultText>
-      <FemaleText>{0} {1}-Pool wiederhergestellt.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>190</ID>
       <DefaultText>{0} Schaden an {1}-Pool erhalten.</DefaultText>
-      <FemaleText>{0} Schaden an {1}-Pool erhalten.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>191</ID>
@@ -972,152 +972,152 @@
     <Entry>
       <ID>193</ID>
       <DefaultText>Deskriptor erhalten: {0}.</DefaultText>
-      <FemaleText>Deskriptor erhalten: {0}.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>194</ID>
       <DefaultText>Auftrag wurde dem Tagebuch hinzugefügt: {0}.</DefaultText>
-      <FemaleText>Auftrag wurde dem Tagebuch hinzugefügt: {0}.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>195</ID>
       <DefaultText>Neues Ziel für {0}: {1}</DefaultText>
-      <FemaleText>Neues Ziel für {0}: {1}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>196</ID>
       <DefaultText>Nachtrag wurde dem Auftrag hinzugefügt: {0}.</DefaultText>
-      <FemaleText>Nachtrag wurde dem Auftrag hinzugefügt: {0}.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>197</ID>
       <DefaultText>{0} abgeschlossen: {1}.</DefaultText>
-      <FemaleText>{0} abgeschlossen: {1}.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>198</ID>
       <DefaultText>Auftrag fehlgeschlagen.</DefaultText>
-      <FemaleText>Auftrag fehlgeschlagen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
       <DefaultText>Dominante Gezeiten: {0}</DefaultText>
-      <FemaleText>Dominante Gezeiten: {0}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>200</ID>
       <DefaultText>Verbraucht Aktion</DefaultText>
-      <FemaleText>Verbraucht Aktion</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>201</ID>
       <DefaultText>Erfordert &lt;quad class="action"&gt;Aktion</DefaultText>
-      <FemaleText>Erfordert &lt;quad class="action"&gt;Aktion</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>202</ID>
       <DefaultText>Genauigkeit</DefaultText>
-      <FemaleText>Genauigkeit</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>203</ID>
       <DefaultText>Schaden</DefaultText>
-      <FemaleText>Schaden</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>204</ID>
       <DefaultText>Ausmaß</DefaultText>
-      <FemaleText>Ausmaß</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
       <DefaultText>Dauer</DefaultText>
-      <FemaleText>Dauer</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
       <DefaultText>Verteidigung</DefaultText>
-      <FemaleText>Verteidigung</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
       <DefaultText>Teleportation</DefaultText>
-      <FemaleText>Teleportation</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>208</ID>
       <DefaultText>Auf letzten Verstoßenen zentrieren</DefaultText>
-      <FemaleText>Auf letzten Verstoßenen zentrieren</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
       <DefaultText>Kameraverhalten</DefaultText>
-      <FemaleText>Kameraverhalten</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
       <DefaultText>Fortsetzen</DefaultText>
-      <FemaleText>Fortsetzen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
       <DefaultText>Zurück</DefaultText>
-      <FemaleText>Zurück</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
       <DefaultText>Kamera</DefaultText>
-      <FemaleText>Kamera</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
       <DefaultText>Weiter</DefaultText>
-      <FemaleText>Weiter</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
       <DefaultText>Alles zurücksetzen</DefaultText>
-      <FemaleText>Alles zurücksetzen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>215</ID>
       <DefaultText>Alles anwenden</DefaultText>
-      <FemaleText>Alles anwenden</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>216</ID>
       <DefaultText>Speichern &amp; Schließen</DefaultText>
-      <FemaleText>Speichern &amp; Schließen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>217</ID>
       <DefaultText>Alle Standardeinstellungen wiederherstellen</DefaultText>
-      <FemaleText>Alle Standardeinstellungen wiederherstellen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>218</ID>
       <DefaultText>Anwenden</DefaultText>
-      <FemaleText>Anwenden</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>219</ID>
       <DefaultText>Zurücksetzen</DefaultText>
-      <FemaleText>Zurücksetzen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>220</ID>
       <DefaultText>Zurücksetzen</DefaultText>
-      <FemaleText>Zurücksetzen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>221</ID>
       <DefaultText>Anwenden</DefaultText>
-      <FemaleText>Anwenden</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
       <DefaultText>Anwenden</DefaultText>
-      <FemaleText>Anwenden</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
@@ -1127,17 +1127,17 @@
     <Entry>
       <ID>224</ID>
       <DefaultText>Gesamtlautstärke</DefaultText>
-      <FemaleText>Gesamtlautstärke</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
       <DefaultText>Musiklautstärke</DefaultText>
-      <FemaleText>Musiklautstärke</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
       <DefaultText>SFX-Lautstärke</DefaultText>
-      <FemaleText>SFX-Lautstärke</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
@@ -1152,82 +1152,82 @@
     <Entry>
       <ID>229</ID>
       <DefaultText>Sprachlautstärke</DefaultText>
-      <FemaleText>Sprachlautstärke</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
       <DefaultText>Änderungen automatisch anwenden</DefaultText>
-      <FemaleText>Änderungen automatisch anwenden</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>231</ID>
       <DefaultText>Vollbildmodus</DefaultText>
-      <FemaleText>Vollbildmodus</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>232</ID>
       <DefaultText>Deine E-Mail-Adresse</DefaultText>
-      <FemaleText>Deine E-Mail-Adresse</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>233</ID>
       <DefaultText>Torment-Account-Passwort</DefaultText>
-      <FemaleText>Torment-Account-Passwort</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>234</ID>
       <DefaultText>Mit deinem Torment-Account verbinden</DefaultText>
-      <FemaleText>Mit deinem Torment-Account verbinden</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
       <DefaultText>&lt;Feedback-Übersicht&gt;</DefaultText>
-      <FemaleText>&lt;Feedback-Übersicht&gt;</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
       <DefaultText>&lt;Detailliertes Feedback&gt;</DefaultText>
-      <FemaleText>&lt;Detailliertes Feedback&gt;</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
       <DefaultText>Systemvoraussetzungen</DefaultText>
-      <FemaleText>Systemvoraussetzungen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
       <DefaultText>Sag uns, was du denkst</DefaultText>
-      <FemaleText>Sag uns, was du denkst</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>239</ID>
       <DefaultText>Feedback übermittelt</DefaultText>
-      <FemaleText>Feedback übermittelt</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>240</ID>
       <DefaultText>Danke für dein Feedback! Das Entwicklerteam wird sich deine Kommentare ansehen. Wenn du technischen Support brauchst, kontaktiere uns bitte über support@inxile.net.</DefaultText>
-      <FemaleText>Danke für dein Feedback! Das Entwicklerteam wird sich deine Kommentare ansehen. Wenn du technischen Support brauchst, kontaktiere uns bitte über support@inxile.net.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
       <DefaultText>Systemspezifikationen beifügen</DefaultText>
-      <FemaleText>Systemspezifikationen beifügen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
       <DefaultText>Schließen</DefaultText>
-      <FemaleText>Schließen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>243</ID>
       <DefaultText>Erfolg!</DefaultText>
-      <FemaleText>Erfolg!</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>244</ID>
       <DefaultText>Werte-Pool – Kraft</DefaultText>
-      <FemaleText>Werte-Pool – Kraft</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>245</ID>
@@ -5084,67 +5084,67 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     <Entry>
       <ID>1016</ID>
       <DefaultText>Dynamischen Stoff verwenden</DefaultText>
-      <FemaleText>Dynamischen Stoff verwenden</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1017</ID>
       <DefaultText>Fortschrittsoption auswählen</DefaultText>
-      <FemaleText>Fortschrittsoption auswählen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1018</ID>
       <DefaultText>Du kannst auswählen, ob du entweder eine Fertigkeit verbesserst oder eine neue Fertigkeit auswählst, oder eine deiner Fähigkeiten verbesserst. Dies ist nur einmal pro Stufe möglich.</DefaultText>
-      <FemaleText>Du kannst auswählen, ob du entweder eine Fertigkeit verbesserst oder eine neue Fertigkeit auswählst, oder eine deiner Fähigkeiten verbesserst. Dies ist nur einmal pro Stufe möglich.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1019</ID>
       <DefaultText>Fähigkeit</DefaultText>
-      <FemaleText>Fähigkeit</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1020</ID>
       <DefaultText>Fertigkeit</DefaultText>
-      <FemaleText>Fertigkeit</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1021</ID>
       <DefaultText>Fähigkeit oder Fertigkeit</DefaultText>
-      <FemaleText>Fähigkeit oder Fertigkeit</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1022</ID>
       <DefaultText>Charakterfortschritt</DefaultText>
-      <FemaleText>Charakterfortschritt</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1023</ID>
       <DefaultText>Wähle eine Fähigkeit aus, die verbessert werden soll. Das Verbessern einer Fähigkeit erhöht ihre Genauigkeit um 15 % pro Trainingsstufe.</DefaultText>
-      <FemaleText>Wähle eine Fähigkeit aus, die verbessert werden soll. Das Verbessern einer Fähigkeit erhöht ihre Genauigkeit um 15 % pro Trainingsstufe.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1024</ID>
       <DefaultText>Max. Aufwand-Stufe erhöhen</DefaultText>
-      <FemaleText>Max. Aufwand-Stufe erhöhen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1025</ID>
       <DefaultText>Durch die Erhöhung deiner max. Aufwand-Stufe kannst du mehr Aufwand für Aufgaben aufbringen.</DefaultText>
-      <FemaleText>Durch die Erhöhung deiner max. Aufwand-Stufe kannst du mehr Aufwand für Aufgaben aufbringen.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1026</ID>
       <DefaultText>Max. Aufwand-Stufe {0} &gt; {1}</DefaultText>
-      <FemaleText>Max. Aufwand-Stufe {0} &gt; {1}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1027</ID>
       <DefaultText>Weiter</DefaultText>
-      <FemaleText>Weiter</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1028</ID>
       <DefaultText>Sehenswürdigkeit</DefaultText>
-      <FemaleText>Sehenswürdigkeit</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1029</ID>
@@ -5949,17 +5949,17 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     <Entry>
       <ID>1189</ID>
       <DefaultText>Zu weit entfernt</DefaultText>
-      <FemaleText>Zu weit entfernt</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1190</ID>
       <DefaultText>Aktion</DefaultText>
-      <FemaleText>Aktion</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1191</ID>
       <DefaultText>Bewegen</DefaultText>
-      <FemaleText>Bewegen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1192</ID>
@@ -5969,27 +5969,27 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     <Entry>
       <ID>1193</ID>
       <DefaultText>&lt;quad class="action"&gt;Verbraucht Aktion</DefaultText>
-      <FemaleText>&lt;quad class="action"&gt;Verbraucht Aktion</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1194</ID>
       <DefaultText>&lt;quad class="move"&gt;Verbraucht Bewegung statt Aktion</DefaultText>
-      <FemaleText>&lt;quad class="move"&gt;Verbraucht Bewegung statt Aktion</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1195</ID>
       <DefaultText>Verbraucht keine Aktion</DefaultText>
-      <FemaleText>Verbraucht keine Aktion</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1196</ID>
       <DefaultText>Zurückziehen</DefaultText>
-      <FemaleText>Zurückziehen</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1197</ID>
       <DefaultText>Verteidigt durch</DefaultText>
-      <FemaleText>Verteidigt durch</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1198</ID>
@@ -6038,12 +6038,12 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>1207</ID>
-      <DefaultText>,</DefaultText>
+      <DefaultText>, </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>und</DefaultText>
+      <DefaultText>und </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6453,7 +6453,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>1290</ID>
-      <DefaultText>Interagierbare Objekte Im Kampf Verstecken</DefaultText>
+      <DefaultText>Interagierbare Objekte im Kampf verstecken</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6594,12 +6594,12 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     <Entry>
       <ID>1318</ID>
       <DefaultText>Edge</DefaultText>
-      <FemaleText>Edge</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1319</ID>
       <DefaultText>Gesundheit</DefaultText>
-      <FemaleText>Gesundheit</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1320</ID>
@@ -6653,7 +6653,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>1330</ID>
-      <DefaultText>Sternchen Zu Kursivschrift Ändern</DefaultText>
+      <DefaultText>Sternchen zu Kursivschrift ändern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6668,7 +6668,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>1333</ID>
-      <DefaultText>Kann Nicht Angepeilt Werden</DefaultText>
+      <DefaultText>Kann nicht angepeilt werden</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6709,7 +6709,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     <Entry>
       <ID>1341</ID>
       <DefaultText>Wähle einen Gegner</DefaultText>
-      <FemaleText>Wähle einen Gegner</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1342</ID>
@@ -6734,7 +6734,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     <Entry>
       <ID>1346</ID>
       <DefaultText>Max. Aufwand</DefaultText>
-      <FemaleText>Max. Aufwand</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1347</ID>
@@ -6744,7 +6744,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     <Entry>
       <ID>1348</ID>
       <DefaultText>Statuseffekte</DefaultText>
-      <FemaleText>Statuseffekte</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1349</ID>
@@ -6754,7 +6754,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     <Entry>
       <ID>1350</ID>
       <DefaultText>{0} {1}</DefaultText>
-      <FemaleText>{0} {1}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1351</ID>
@@ -6803,7 +6803,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>1360</ID>
-      <DefaultText>[PLACEHOLDER] Lädt Inhalt Herunter...</DefaultText>
+      <DefaultText>[PLACEHOLDER] Lädt Inhalt herunter...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6813,8 +6813,8 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>1362</ID>
-      <DefaultText>{0}</DefaultText>
-      <FemaleText>{0}</FemaleText>
+      <DefaultText>({0})</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>1363</ID>
@@ -6828,7 +6828,7 @@ Die Gesamtkosten werden unten links von dieser Schaltfläche angezeigt.</FemaleT
     </Entry>
     <Entry>
       <ID>1365</ID>
-      <DefaultText>Schadenstyp Auswählen</DefaultText>
+      <DefaultText>Schadenstyp auswählen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
