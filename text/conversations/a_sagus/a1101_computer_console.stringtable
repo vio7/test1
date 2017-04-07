@@ -15,22 +15,22 @@
       <ID>2</ID>
       <DefaultText>Die drei Lichter des Apparats drehen sich immer schneller, je näher du kommst. Erneut siehst du ein kurzes Bild des gewaltigen Kristallbogens auf einer Ebene vor deinem geistigen Auge. 
 
-"Befehlt mir", haucht die Intelligenz.</DefaultText>
+„Befehlt mir“, haucht die Intelligenz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Was für einen Bogen hast du mir gezeigt?"</DefaultText>
+      <DefaultText>„Was für einen Bogen hast du mir gezeigt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Zeig mir den Bogen erneut."</DefaultText>
+      <DefaultText>„Zeig mir den Bogen erneut.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -69,7 +69,7 @@ An ihrer Seite steht die Ziffer "0".</DefaultText>
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Gib den Inhalt von Zelle 0 frei."</DefaultText>
+      <DefaultText>„Gib den Inhalt von Zelle 0 frei.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -84,12 +84,12 @@ An ihrer Seite steht die Ziffer "0".</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Welche 'Befehle' erkennst du?"</DefaultText>
+      <DefaultText>„Welche 'Befehle' erkennst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Zeig mir die Liste der Befehle noch mal. Langsamer bitte."</DefaultText>
+      <DefaultText>„Zeig mir die Liste der Befehle noch mal. Langsamer bitte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -114,16 +114,16 @@ An ihrer Seite steht die Ziffer "0".</DefaultText>
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Befehl wurde nicht erkannt", sagt die Intelligenz. Sie klingt zufrieden. Als hätte sie die Frage genau verstanden, will sie jedoch nicht beantworten.
+      <DefaultText>„Befehl wurde nicht erkannt“, sagt die Intelligenz. Sie klingt zufrieden. Als hätte sie die Frage genau verstanden, will sie jedoch nicht beantworten.
 
-"Befehlt mir."</DefaultText>
+„Befehlt mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Befehl wurde nicht erkannt", sagt die Intelligenz. Sie kichert und ihre Lichter pulsieren.
+      <DefaultText>„Befehl wurde nicht erkannt“, sagt die Intelligenz. Sie kichert und ihre Lichter pulsieren.
 
-"Befehlt mir."</DefaultText>
+„Befehlt mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -140,7 +140,7 @@ An ihrer Seite steht die Ziffer "0".</DefaultText>
       <ID>41</ID>
       <DefaultText>Die Lichter der Intelligenz blinken panisch, bevor du dem Apparat einen festen Tritt versetzt. Etwas im Apparat macht *knacks*.
 
-"Zellensperre beschädigt", stöhnt die Intelligenz. Das Lichterdreieck scheint dich mit blendender Intensität an. "Alle Gefangengen verloren. Schließe Lugum Vo."
+„Zellensperre beschädigt“, stöhnt die Intelligenz. Das Lichterdreieck scheint dich mit blendender Intensität an. „Alle Gefangengen verloren. Schließe Lugum Vo.“
 
 Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein Teil aus dem rauchenden Inneren des Apparats fischst.
 {LOOT}
@@ -158,7 +158,7 @@ Diesmal war sie auf den Tritt vorbereitet.</DefaultText>
       <ID>43</ID>
       <DefaultText>Du erwischt die Intelligenz auf dem falschen Fuß. Dein Tritt erschüttert den Apparat und etwas im Gehäuse macht *knacks*.
 
-"Zellensperre beschädigt", stöhnt die Intelligenz. Das Lichterdreieck scheint dich mit blendender Intensität an. "Alle Gefangengen verloren. Schließe Lugum Vo."
+„Zellensperre beschädigt“, stöhnt die Intelligenz. Das Lichterdreieck scheint dich mit blendender Intensität an. „Alle Gefangengen verloren. Schließe Lugum Vo.“
 
 Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein interessantes Teil aus dem rauchenden Inneren des Apparats fischst. 
 {LOOT}
@@ -176,7 +176,7 @@ Du stößt dir das Schienbein an einem verstärkten Teil des Gehäuses. Dein Sch
       <ID>48</ID>
       <DefaultText>Die Erinnerung kommt. Du stehst vor dem Bogen und siehst vor dir die letzten beiden aktiven Zellen des einst unüberwindbaren Lugum Vo. 
 
-"Zelle 29 freigeben", befiehlst du, und vor dir erscheint ein verbogenes Artefakt. Du nimmst es mit einem Lächeln an dich. In der Zelle hoch über dir geht das Licht aus ...</DefaultText>
+„Zelle 29 freigeben“, befiehlst du, und vor dir erscheint ein verbogenes Artefakt. Du nimmst es mit einem Lächeln an dich. In der Zelle hoch über dir geht das Licht aus ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,7 +215,7 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
       <ID>63</ID>
       <DefaultText>Du lässt das Bild des Bogens los und es bricht zusammen und wirft dich in die Realität zurück. 
 
-"Befehlt mir", sagt die Intelligenz eingeschnappt.</DefaultText>
+„Befehlt mir“, sagt die Intelligenz eingeschnappt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -227,7 +227,7 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Erwarte Befehle."</DefaultText>
+      <DefaultText>„Erwarte Befehle.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,9 +244,9 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
       <ID>68</ID>
       <DefaultText>Die Lichter des Apparats leuchten hell auf und fixieren dich dann flackernd. 
 
-"Zelle 0 wird freigegeben", faucht die Intelligenz. "Beachtet bitte, dass das Objekt, das Ihr erhalten werdet, vollkommen sicher ist. Keinerlei Grund zur Vorsicht geboten." Der seltsame Inhalt von Zelle 0 nimmt vor dir Form an.
+„Zelle 0 wird freigegeben“, faucht die Intelligenz. „Beachtet bitte, dass das Objekt, das Ihr erhalten werdet, vollkommen sicher ist. Keinerlei Grund zur Vorsicht geboten.“ Der seltsame Inhalt von Zelle 0 nimmt vor dir Form an.
 
-"Warnung. Alle Zellen sind nun leer. Schließe Lugum Vo." Die Lichter der Intelligenz erlöschen eines nach dem anderen. 
+„Warnung. Alle Zellen sind nun leer. Schließe Lugum Vo.“ Die Lichter der Intelligenz erlöschen eines nach dem anderen. 
 {LOOT}
 {DP}
 {SOUND: Machine noise fades out on this node (if it's been present throughout). Ideally, this would happen as the player exits this node or at the start of the next one.}</DefaultText>
@@ -281,7 +281,7 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
       <ID>88</ID>
       <DefaultText>Das Bild verschwindet. Du starrst in das Lichterdreieck des Apparats. 
 
-"Befehlt mir", sagt der Apparat, oder besser gesagt, die ihm innewohnende Intelligenz. Aus jedem einzelnen Wort trieft Verachtung für dich.</DefaultText>
+„Befehlt mir“, sagt der Apparat, oder besser gesagt, die ihm innewohnende Intelligenz. Aus jedem einzelnen Wort trieft Verachtung für dich.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,7 +295,7 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
 
 Eine lange Liste von Befehlen rattert durch dein Bewusstsein - viel zu schnell, um sie zu lesen. Du stöhnst, reibst dir die Augen. Die Intelligenz gluckst. 
 
-"Befehlt mir", sagt sie selbstzufrieden.
+„Befehlt mir“, sagt sie selbstzufrieden.
 
 {SOUND: Optional - Air being emitted from the vents of the machine, almost like a sigh.}</DefaultText>
       <FemaleText />
@@ -304,7 +304,7 @@ Eine lange Liste von Befehlen rattert durch dein Bewusstsein - viel zu schnell, 
       <ID>92</ID>
       <DefaultText>Wenn überhaupt eine Reaktion zu sehen ist, dann dringen die Befehle nun noch schneller als zuvor durch deinen Geist.
 
-"Beee. Feeehlt. Miiiiiir", sagt die Intelligenz lang gezogen.</DefaultText>
+„Beee. Feeehlt. Miiiiiir“, sagt die Intelligenz lang gezogen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,17 +336,17 @@ Eine lange Liste von Befehlen rattert durch dein Bewusstsein - viel zu schnell, 
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Willst du jede einzelne Maschine hier drin zerlegen?"</DefaultText>
+      <DefaultText>„Willst du jede einzelne Maschine hier drin zerlegen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Interessant. Ein *Verstoßener* erteilt den Maschinen des Wandelnden Gottes Befehle." Er verschränkt die Arme vor der Brust. "Wie hast du das gemacht?"</DefaultText>
+      <DefaultText>„Interessant. Ein *Verstoßener* erteilt den Maschinen des Wandelnden Gottes Befehle.“ Er verschränkt die Arme vor der Brust. „Wie hast du das gemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Callistege verdreht die Augen wegen Aligern. Dann sieht sie dich an. "Das lässt ihm keine Ruhe, wie du siehst. Er versteht die Wahrheit einfach nicht." Ihre Augen funkeln. "Obwohl ich gestehen muss, dass ich ebenfalls neugierig bin. Wie *hast* du das gemacht?"</DefaultText>
+      <DefaultText>Callistege verdreht die Augen wegen Aligern. Dann sieht sie dich an. „Das lässt ihm keine Ruhe, wie du siehst. Er versteht die Wahrheit einfach nicht.“ Ihre Augen funkeln. „Obwohl ich gestehen muss, dass ich ebenfalls neugierig bin. Wie *hast* du das gemacht?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@ Eine lange Liste von Befehlen rattert durch dein Bewusstsein - viel zu schnell, 
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Ich wusste es", sagt Aligern mit einem triumphierenden Grinsen zu Callistege. Sie sieht ihn finster an, sagt aber nichts.</DefaultText>
+      <DefaultText>„Ich wusste es“, sagt Aligern mit einem triumphierenden Grinsen zu Callistege. Sie sieht ihn finster an, sagt aber nichts.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,33 +436,33 @@ Eine lange Liste von Befehlen rattert durch dein Bewusstsein - viel zu schnell, 
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Ich schätze, ich hatte einfach Glück."</DefaultText>
+      <DefaultText>„Ich schätze, ich hatte einfach Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Vielleicht habt ihr ja recht. Vielleicht *bin* ich der Wandelnde Gott."</DefaultText>
+      <DefaultText>„Vielleicht habt ihr ja recht. Vielleicht *bin* ich der Wandelnde Gott.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Ich habe mich an etwas erinnert. Allerdings fühlte es sich nicht wie *meine* Erinnerung an."</DefaultText>
+      <DefaultText>„Ich habe mich an etwas erinnert. Allerdings fühlte es sich nicht wie *meine* Erinnerung an.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Ich habe mich an etwas erinnert."</DefaultText>
+      <DefaultText>„Ich habe mich an etwas erinnert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Gedächtnisfetzen eines früheren Geistes? Wie faszinierend."</DefaultText>
+      <DefaultText>„Gedächtnisfetzen eines früheren Geistes? Wie faszinierend.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Ach, tu doch nicht so, als wüsstest du, was es war. Genauso gut könnte die Maschine einfach etwas jenseits seiner Amnesie aktiviert haben."</DefaultText>
-      <FemaleText>"Ach, tu doch nicht so, als wüsstest du, was es war. Genauso gut könnte die Maschine einfach etwas jenseits ihrer Amnesie aktiviert haben."</FemaleText>
+      <DefaultText>„Ach, tu doch nicht so, als wüsstest du, was es war. Genauso gut könnte die Maschine einfach etwas jenseits seiner Amnesie aktiviert haben.“</DefaultText>
+      <FemaleText>„Ach, tu doch nicht so, als wüsstest du, was es war. Genauso gut könnte die Maschine einfach etwas jenseits ihrer Amnesie aktiviert haben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>128</ID>
@@ -471,22 +471,22 @@ Eine lange Liste von Befehlen rattert durch dein Bewusstsein - viel zu schnell, 
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Ich wusste es", sagt Aligern mit einem triumphierenden Grinsen zu Callistege.</DefaultText>
+      <DefaultText>„Ich wusste es“, sagt Aligern mit einem triumphierenden Grinsen zu Callistege.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Irrelevant, Aligern. Er hat seine grundlegenden Fähigkeiten und Kenntnisse eindeutig daher, dass der Wandelnde Gott einst in seinem Körper weilte. Wer sagt, dass da nicht noch weitere, speziellere Erinnerungen irgendwo weggeschlossen sind?"</DefaultText>
-      <FemaleText>"Irrelevant, Aligern. Sie hat ihre grundlegenden Fähigkeiten und Kenntnisse eindeutig daher, dass der Wandelnde Gott einst in ihrem Körper weilte. Wer sagt, dass da nicht noch weitere, speziellere Erinnerungen irgendwo weggeschlossen sind?"</FemaleText>
+      <DefaultText>„Irrelevant, Aligern. Er hat seine grundlegenden Fähigkeiten und Kenntnisse eindeutig daher, dass der Wandelnde Gott einst in seinem Körper weilte. Wer sagt, dass da nicht noch weitere, speziellere Erinnerungen irgendwo weggeschlossen sind?“</DefaultText>
+      <FemaleText>„Irrelevant, Aligern. Sie hat ihre grundlegenden Fähigkeiten und Kenntnisse eindeutig daher, dass der Wandelnde Gott einst in ihrem Körper weilte. Wer sagt, dass da nicht noch weitere, speziellere Erinnerungen irgendwo weggeschlossen sind?“</FemaleText>
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Er runzelt die Stirn. "Na klar. Aber vergiss nicht, ich beobachte dich."</DefaultText>
+      <DefaultText>Er runzelt die Stirn. „Na klar. Aber vergiss nicht, ich beobachte dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Als ob du uns das je vergessen lassen würdest. Wirklich, Aligern."</DefaultText>
+      <DefaultText>„Als ob du uns das je vergessen lassen würdest. Wirklich, Aligern.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
