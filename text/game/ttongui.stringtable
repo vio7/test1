@@ -211,7 +211,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Unfähigkeit</DefaultText>
+      <DefaultText>Unfähig</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,12 +221,12 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Ausgebildeter</DefaultText>
+      <DefaultText>Ausgebildet</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Spezialisierter</DefaultText>
+      <DefaultText>Spezialisiert</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -287,7 +287,7 @@
     <Entry>
       <ID>56</ID>
       <DefaultText>Erfolg</DefaultText>
-      <FemaleText>Erfolg!</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
