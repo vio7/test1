@@ -346,7 +346,7 @@ Er seufzt, streicht sich über das Gesicht, versucht, die Fassung zurückzugewin
       <ID>71</ID>
       <DefaultText>„Hör nicht auf sie. Die Kultisten sind nicht verrückt. Nur exzentrisch.“ 
 
-Sie lacht höhnisch, aber er lässt sich nicht beirren. „Sie verehren ... nun, sie verehren dich oder deinen Erzeuger. Den Wandelnden Gott. Sie verbringen ihr Leben damit, *solche wie euch* zu verstehen.“</DefaultText>
+Sie lacht höhnisch, aber er lässt sich nicht beirren. „Sie verehren … nun, sie verehren dich oder deinen Erzeuger. Den Wandelnden Gott. Sie verbringen ihr Leben damit, *solche wie euch* zu verstehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,7 +652,7 @@ Sein Ton ist grimmig und als er sie ansieht, drückt jede Faser seines Körpers 
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>„Sieh doch mal ... warte ... *Das Gesicht kenne ich*!“</DefaultText>
+      <DefaultText>„Sieh doch mal … warte … *Das Gesicht kenne ich*!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -938,7 +938,7 @@ Ihre Stimme hallt und du reibst dir die Augen, um sicherzugehen, dass du nicht d
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>„Eine gute Wahl. Deine Anhänger werden dich *wahrscheinlich* nicht aufschlitzen, und auch wenn sie manchmal Narren sind, so sammeln sie doch Wissen und Daten. Sie werden dir alles sagen über ... wer auch immer du bist. Sie werden dir weiterhelfen können.“</DefaultText>
+      <DefaultText>„Eine gute Wahl. Deine Anhänger werden dich *wahrscheinlich* nicht aufschlitzen, und auch wenn sie manchmal Narren sind, so sammeln sie doch Wissen und Daten. Sie werden dir alles sagen über … wer auch immer du bist. Sie werden dir weiterhelfen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1122,7 +1122,7 @@ Er schnaubt. „Ist mir nur aufgefallen, weil ich dasselbe tat.“</DefaultText>
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>„Der Wandelnde Gott war immer schon eitel. Er blieb nie lange in einer Hülle, die seinem ... Selbstbild nicht gerecht wurde.“
+      <DefaultText>„Der Wandelnde Gott war immer schon eitel. Er blieb nie lange in einer Hülle, die seinem … Selbstbild nicht gerecht wurde.“
 
 Sie mustert dich von oben bis unten. Ihr Lächeln macht dich nervös. „Vielleicht ist der Wandelnde Gott ja geflohen, weil er genug von deinen Narben hatte.“</DefaultText>
       <FemaleText />
@@ -1154,7 +1154,7 @@ Sie mustert dich von oben bis unten. Ihr Lächeln macht dich nervös. „Viellei
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>„Himmel ...“ Sie stößt einen Stoßseufzer aus und wendet sich an dich. „Was glaubst *du*? Fühlst du dich wie ein neugeborenes Kind oder wie ein mächtiger Unsterblicher, dem der Tod das Gedächtnis geraubt hat?“</DefaultText>
+      <DefaultText>„Himmel …“ Sie stößt einen Stoßseufzer aus und wendet sich an dich. „Was glaubst *du*? Fühlst du dich wie ein neugeborenes Kind oder wie ein mächtiger Unsterblicher, dem der Tod das Gedächtnis geraubt hat?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1189,12 +1189,12 @@ Sie mustert dich von oben bis unten. Ihr Lächeln macht dich nervös. „Viellei
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>Deine Persönlichkeit ... du verhältst dich wie er.“</DefaultText>
+      <DefaultText>Deine Persönlichkeit … du verhältst dich wie er.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>242</ID>
-      <DefaultText>Deine Persönlichkeit ... du verhältst dich nicht wie er.“</DefaultText>
+      <DefaultText>Deine Persönlichkeit … du verhältst dich nicht wie er.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1224,7 +1224,7 @@ Sie mustert dich von oben bis unten. Ihr Lächeln macht dich nervös. „Viellei
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>„Ausgezeichnete Frage! Nachdem ich deine Selbstheilungskräfte nun in Aktion sehen konnte, würde ich sagen, sie sind primär körperlich - eine Art Nachwachsen. In diesem Fall würde dich fast jede Form psychischen oder molekularen Zerfalls töten - Zersetzung, Verbrennung und so weiter. Degenerative Erkrankungen könnten ein Problem sein, und mir fallen *einige* Wesen ein, die deinen Körper zerstören könnten ...“</DefaultText>
+      <DefaultText>„Ausgezeichnete Frage! Nachdem ich deine Selbstheilungskräfte nun in Aktion sehen konnte, würde ich sagen, sie sind primär körperlich - eine Art Nachwachsen. In diesem Fall würde dich fast jede Form psychischen oder molekularen Zerfalls töten - Zersetzung, Verbrennung und so weiter. Degenerative Erkrankungen könnten ein Problem sein, und mir fallen *einige* Wesen ein, die deinen Körper zerstören könnten …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1243,12 +1243,12 @@ Sie mustert dich von oben bis unten. Ihr Lächeln macht dich nervös. „Viellei
 
 Du bist in einem dunklen Raum, der von unzähligen blinkenden Lichtern und Hologrammen von unzähligen Maschinen um dich herum erleuchtet wird. „Was ist mit einem Körper, der den Angriffen des Kummers widerstehen kann?“ fragt eine Stimme, die von einer der Maschinen zu kommen scheint.
 
-„Nein!“ antwortest du. „Das Ding kennt keine Grenzen, seien sie körperlich, temporal, psychisch ... *Dies* ist der einzige Weg.“</DefaultText>
+„Nein!“ antwortest du. „Das Ding kennt keine Grenzen, seien sie körperlich, temporal, psychisch … *Dies* ist der einzige Weg.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>Mit einigen Gesten erzeugst du ein Bild einer Kristallhülle. „Wenn die Resonanzkammer funktioniert, wird sie uns die Macht verleihen, die Jagd des Kummers ein für alle Mal zu *beenden*. Wir brauchen nur den richtigen Fokuspunkt, einen Auslöser ...“</DefaultText>
+      <DefaultText>Mit einigen Gesten erzeugst du ein Bild einer Kristallhülle. „Wenn die Resonanzkammer funktioniert, wird sie uns die Macht verleihen, die Jagd des Kummers ein für alle Mal zu *beenden*. Wir brauchen nur den richtigen Fokuspunkt, einen Auslöser …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1260,7 +1260,7 @@ Was immer einst seine Funktion war, es ist offensichtlich kaputt.</DefaultText>
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>„... oder nekrotisierende Viren. Ich nehme an, dass vom Eisernen Wind verursachte Entstellungen ebenfalls verheerend genug wären, um -“</DefaultText>
+      <DefaultText>„… oder nekrotisierende Viren. Ich nehme an, dass vom Eisernen Wind verursachte Entstellungen ebenfalls verheerend genug wären, um -“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1395,7 +1395,7 @@ Was immer einst seine Funktion war, es ist offensichtlich kaputt.</DefaultText>
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>„Hast du vergessen, was das Wort *wandelnd* bedeutet, Aligern? Es impliziert Veränderung. Gut möglich, dass der Wandelnde Gott sich ... gewandelt hat.“
+      <DefaultText>„Hast du vergessen, was das Wort *wandelnd* bedeutet, Aligern? Es impliziert Veränderung. Gut möglich, dass der Wandelnde Gott sich … gewandelt hat.“
 
 Mehrere ihrer Ichs zucken mit den Schultern. Sie wendet sich an dich. „Vergib ihm. Er denkt, er würde dich kennen, dabei kann doch *jeder* sehen, dass du eben erst geboren wurdest.“</DefaultText>
       <FemaleText />
@@ -1407,12 +1407,12 @@ Mehrere ihrer Ichs zucken mit den Schultern. Sie wendet sich an dich. „Vergib 
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>„Du denkst *langsam*, Aligern? Na ja ... nichts Neues bei dir.“</DefaultText>
+      <DefaultText>„Du denkst *langsam*, Aligern? Na ja … nichts Neues bei dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>„Du bist aus unglaublicher Höhe gestürzt. Und doch sprichst du hier mit uns. Weißt du wirklich nicht ...“ Er legt den Kopf zur Seite. 
+      <DefaultText>„Du bist aus unglaublicher Höhe gestürzt. Und doch sprichst du hier mit uns. Weißt du wirklich nicht …“ Er legt den Kopf zur Seite. 
 
 „Du weißt es also nicht? Langsam denke ich, dass du es doch nicht bist.“</DefaultText>
       <FemaleText />
@@ -1581,12 +1581,12 @@ Er sieht sie von der Seite an. „Du musst wissen, sie betrachtet alle anderen l
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>„Wir kennen deinen Erschaffer durch Legenden und Forschung. Er hat die Gestalt von Männern, Frauen, Irrgästen und ... anderen Dingen angenommen. Seine Form ist fluid, wie sein Name schon sagt. Doch die Geschichten über den Wandelnden Gott sprechen immer von *ihm*.“</DefaultText>
+      <DefaultText>„Wir kennen deinen Erschaffer durch Legenden und Forschung. Er hat die Gestalt von Männern, Frauen, Irrgästen und … anderen Dingen angenommen. Seine Form ist fluid, wie sein Name schon sagt. Doch die Geschichten über den Wandelnden Gott sprechen immer von *ihm*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>„Es ist einfacher.“ Aligern zuckt mit den Schultern. „*Du* bist eine Frau. Der Wandelnde Gott ist ... er selbst.“</DefaultText>
+      <DefaultText>„Es ist einfacher.“ Aligern zuckt mit den Schultern. „*Du* bist eine Frau. Der Wandelnde Gott ist … er selbst.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

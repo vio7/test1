@@ -104,7 +104,7 @@ Ein weiterer Tropfen fällt von der Decke und spritzt verschwendet über die Pyl
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point... 
+      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point… 
 
 The conjoined light pierces your fingertip like a needle, racing up your veins, snapping across your tendons.</DefaultText>
       <FemaleText />
@@ -121,7 +121,7 @@ The conjoined light pierces your fingertip like a needle, racing up your veins, 
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point... 
+      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point… 
 
 The conjoined light pierces your fingertip like a needle, racing up your veins, snapping across your tendons.</DefaultText>
       <FemaleText />
@@ -268,7 +268,7 @@ Die Oberfläche der Schale leuchtet in reflektiertem Licht auf, als ein weiteres
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>You... fell. You remember falling towards the curve of the world. The ground leapt up to claim you. Impact. You should be dead.
+      <DefaultText>You… fell. You remember falling towards the curve of the world. The ground leapt up to claim you. Impact. You should be dead.
 
 But if you are, there is no peace here. Your mind *aches*, and struggles to form simple thoughts. Blurring memories whirl past your inner eye like shards of broken glass. Your body feels sluggish. Clumsy.  
 
@@ -410,7 +410,7 @@ Your companion is quieter than before, and there is a strange note in his voice.
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Du bist... gefallen. Du erinnerst dich an einen Fall aus so großer Höhe, dass du die Krümmung der Welt gesehen hast. Der Boden kam rasend schnell näher. Ein Aufprall. Du müsstest tot sein.
+      <DefaultText>Du bist… gefallen. Du erinnerst dich an einen Fall aus so großer Höhe, dass du die Krümmung der Welt gesehen hast. Der Boden kam rasend schnell näher. Ein Aufprall. Du müsstest tot sein.
 
 Doch wenn, dann ist das ein seltsamer Tod. Es gibt keinen Frieden hier, und dein Geist *schmerzt* und hat Schwierigkeiten, auch nur die einfachsten Gedanken zu bilden.
 
@@ -424,7 +424,7 @@ Dies scheint weder wie der Tod noch wie irgendeine Form von Leben, die du kennst
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>„It frightens me that you do not know, and more so that I cannot see where *you* are. Do you at least know my voice? Do you remember who I am... who *you* are?“</DefaultText>
+      <DefaultText>„It frightens me that you do not know, and more so that I cannot see where *you* are. Do you at least know my voice? Do you remember who I am… who *you* are?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -449,7 +449,7 @@ Dies scheint weder wie der Tod noch wie irgendeine Form von Leben, die du kennst
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>„Are you alive? Can you recognize my voice? Do you remember who I am... who *you* are?“</DefaultText>
+      <DefaultText>„Are you alive? Can you recognize my voice? Do you remember who I am… who *you* are?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -538,12 +538,12 @@ Von hoch oben, jenseits des sich ausbreitenden Lichts, ruft eine Stimme zu dir.<
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>„Ah!  Das ist *dein* Geist! Ich wette, deine Erinnerungen sind da unten. Finde sie und reparierst den Weg zu mir.  {beat} Bist... du überhaupt da? Puh, ich rede mit mir selbst.“</DefaultText>
+      <DefaultText>„Ah! Das ist *dein* Geist! Ich wette, deine Erinnerungen sind da unten. Finde sie und reparierst den Weg zu mir. {beat} Bist… du überhaupt da? Puh, ich rede mit mir selbst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>„Pass auf, ich kann nicht zu dir, daher musst du einen Weg zu mir rauf bauen... Ich weiß aber nicht wie. Immerhin ist das dein Geist hier. Ist nicht so, dass ich eine Karte dafür hätte.“</DefaultText>
+      <DefaultText>„Pass auf, ich kann nicht zu dir, daher musst du einen Weg zu mir rauf bauen… Ich weiß aber nicht wie. Immerhin ist das dein Geist hier. Ist nicht so, dass ich eine Karte dafür hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
