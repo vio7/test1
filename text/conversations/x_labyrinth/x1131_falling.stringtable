@@ -23,7 +23,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Eine weißlich-rosafarbene, fleischige Hülle umgibt dich. Vor deinen Augen zerrt ein kleiner Riss ihre Seite auf und der heulende Wind zwingt sich hinein. </DefaultText>
+      <DefaultText>Eine weißlich-rosafarbene, fleischige Hülle umgibt dich. Vor deinen Augen zerrt ein kleiner Riss ihre Seite auf und der heulende Wind zwingt sich hinein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,7 +63,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Jetzt erkennst du, dass es sich um einen gewaltigen Mega-Kontinent handeln muss, nur eine nennenswerte Landmasse, jedenfalls auf dieser Seite der Welt. Große Seen und Flüsse durchziehen das Land, und Bergketten, die auf sonderbare Weise gleichförmig wirken. Es scheint, als fielest du auf eine große Bucht zu, an ihre nördliche Küste schmiegt sich eine ausladende Stadt. </DefaultText>
+      <DefaultText>Jetzt erkennst du, dass es sich um einen gewaltigen Mega-Kontinent handeln muss, nur eine nennenswerte Landmasse, jedenfalls auf dieser Seite der Welt. Große Seen und Flüsse durchziehen das Land, und Bergketten, die auf sonderbare Weise gleichförmig wirken. Es scheint, als fielest du auf eine große Bucht zu, an ihre nördliche Küste schmiegt sich eine ausladende Stadt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Der Körper trägt ... warte ... du trägst einen eng anliegenden Anzug aus dunklem Material. Du meinst dich zu erinnern, dass du etwas viel Kunstvolleres getragen hast, es ist noch nicht lange her. Du hast glatte, hellbraune Haut, fünf Finger an jeder Hand und fünf Zehen an jedem Fuß. Gute Muskeln - stark aber nicht massig - und eine schmale Hüfte. Deine Handflächen sind weich, so als hättest du nie hart gearbeitet, aber Narben und Verbrennungen an deinen Händen und Handgelenken legen nahe, dass du nicht immer vorsichtig warst. Warum kannst du dich nicht daran erinnern?</DefaultText>
+      <DefaultText>Der Körper trägt … warte … du trägst einen eng anliegenden Anzug aus dunklem Material. Du meinst dich zu erinnern, dass du etwas viel Kunstvolleres getragen hast, es ist noch nicht lange her. Du hast glatte, hellbraune Haut, fünf Finger an jeder Hand und fünf Zehen an jedem Fuß. Gute Muskeln - stark aber nicht massig - und eine schmale Hüfte. Deine Handflächen sind weich, so als hättest du nie hart gearbeitet, aber Narben und Verbrennungen an deinen Händen und Handgelenken legen nahe, dass du nicht immer vorsichtig warst. Warum kannst du dich nicht daran erinnern?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,7 +93,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Etwas Uraltes und Kaltes, seine zusammengerollte Macht ein Versprechen: Vergessen. Seine schattenhaften Ranken schnappten nach dir; wo sie einschlugen, rissen sie die Wand auseinander, Zerstörung ohne jede Hoffnung, ohne jede Aussicht auf eine Reparatur. Du bist in eine Fluchtkapsel gesprungen und dann gefallen ... vom Mond? ... und dann warst du leer. Aber wer warst du? Und was war diese Kreatur? Ein Wort steigt in deinen Gedanken auf, und du greifst danach, bevor es verschwinden kann: Kummer.</DefaultText>
+      <DefaultText>Etwas Uraltes und Kaltes, seine zusammengerollte Macht ein Versprechen: Vergessen. Seine schattenhaften Ranken schnappten nach dir; wo sie einschlugen, rissen sie die Wand auseinander, Zerstörung ohne jede Hoffnung, ohne jede Aussicht auf eine Reparatur. Du bist in eine Fluchtkapsel gesprungen und dann gefallen … vom Mond? … und dann warst du leer. Aber wer warst du? Und was war diese Kreatur? Ein Wort steigt in deinen Gedanken auf, und du greifst danach, bevor es verschwinden kann: Kummer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Jetzt erkennst du, dass es sich um einen gewaltigen Mega-Kontinent handeln muss, nur eine nennenswerte Landmasse, jedenfalls auf dieser Seite der Welt. Große Seen und Flüsse durchziehen das Land, und Bergketten, die auf sonderbare Weise gleichförmig wirken. Es scheint, als fielest du auf eine große Bucht zu, an ihre nördliche Küste schmiegt sich eine ausladende Stadt. </DefaultText>
+      <DefaultText>Jetzt erkennst du, dass es sich um einen gewaltigen Mega-Kontinent handeln muss, nur eine nennenswerte Landmasse, jedenfalls auf dieser Seite der Welt. Große Seen und Flüsse durchziehen das Land, und Bergketten, die auf sonderbare Weise gleichförmig wirken. Es scheint, als fielest du auf eine große Bucht zu, an ihre nördliche Küste schmiegt sich eine ausladende Stadt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Er sieht dich an und streckt seinen rechten Arm aus. Ein Gewirr aus gezackten Linien in bunten Farben springt aus seiner Hand und umschließt dich. Deine Geschwindigkeit reduziert sich erheblich, aber es genügt nicht. Mit einem gewaltigen Krachen schlägst du in das kristalline Gebäude ein und Schmerz explodiert in deinem Körper, als das Heulen einer Energiewelle von der Unterseite des Gebäudes zu dir dringt. Und dann ... </DefaultText>
+      <DefaultText>Er sieht dich an und streckt seinen rechten Arm aus. Ein Gewirr aus gezackten Linien in bunten Farben springt aus seiner Hand und umschließt dich. Deine Geschwindigkeit reduziert sich erheblich, aber es genügt nicht. Mit einem gewaltigen Krachen schlägst du in das kristalline Gebäude ein und Schmerz explodiert in deinem Körper, als das Heulen einer Energiewelle von der Unterseite des Gebäudes zu dir dringt. Und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,21 +233,21 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Du hast gerade noch genug Zeit, um zu sehen, dass du auf ein kristallines Gebäude fällst, es scheint über einer Bucht zu schweben. Du siehst eine Gestalt, die auf dich zeigt, ein Gewirr aus Farben ergießt sich aus ihren Armen und umschließt dich. Und dann ... 
+      <DefaultText>Du hast gerade noch genug Zeit, um zu sehen, dass du auf ein kristallines Gebäude fällst, es scheint über einer Bucht zu schweben. Du siehst eine Gestalt, die auf dich zeigt, ein Gewirr aus Farben ergießt sich aus ihren Armen und umschließt dich. Und dann …
 
 … schlägst du auf dem Gebäude auf. Das Heulen einer plötzlichen Energiewelle rauscht in deinen Ohren, und ein gewaltiger Schmerz pulsiert durch jede Faser deines Körpers. Und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Du schließt die Augen und erinnerst dich: eine Halle aus atmendem Laub, ein Gefühl von Angst und Heiterkeit. Und … 
+      <DefaultText>Du schließt die Augen und erinnerst dich: eine Halle aus atmendem Laub, ein Gefühl von Angst und Heiterkeit. Und …
 
 … ein gewaltiger Schmerz zuckt durch deinen Körper, du hörst einen Energiekreislauf, der plötzlich aus seiner Harmonie gerissen wurde und sich zu einem Crescendo schraubt, und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Du schlägst mit den Armen. Du packst sie. Du konzentrierst dich mit aller Kraft darauf, nicht zu fallen. Nichts geschieht. Du hast gerade noch genug Zeit, um ein Gewirr aus Farben zu sehen, das vor deinen Augen tanzt, bevor du aufschlägst. Der Aufprall ist hart, das Gebäude unnachgiebig, scheinbar undurchdringlich. Ein greller Schmerz lodert durch einen Körper, ein Energiekreislauf schwillt klagend an, und dann ...</DefaultText>
+      <DefaultText>Du schlägst mit den Armen. Du packst sie. Du konzentrierst dich mit aller Kraft darauf, nicht zu fallen. Nichts geschieht. Du hast gerade noch genug Zeit, um ein Gewirr aus Farben zu sehen, das vor deinen Augen tanzt, bevor du aufschlägst. Der Aufprall ist hart, das Gebäude unnachgiebig, scheinbar undurchdringlich. Ein greller Schmerz lodert durch einen Körper, ein Energiekreislauf schwillt klagend an, und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -272,7 +272,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Du scheiterst kläglich. Die Anziehungskraft der Erde ist zu stark, und du hast keine Einflussmöglichkeit. Nichts geschieht. Du hast gerade noch genug Zeit, um ein Gewirr aus Farben zu sehen, das vor deinen Augen tanzt, bevor du aufschlägst. Der Aufprall ist hart, das Gebäude unnachgiebig, scheinbar undurchdringlich. Ein greller Schmerz lodert durch deinen Körper, ein Energiekreislauf schwillt klagend an, und dann ...</DefaultText>
+      <DefaultText>Du scheiterst kläglich. Die Anziehungskraft der Erde ist zu stark, und du hast keine Einflussmöglichkeit. Nichts geschieht. Du hast gerade noch genug Zeit, um ein Gewirr aus Farben zu sehen, das vor deinen Augen tanzt, bevor du aufschlägst. Der Aufprall ist hart, das Gebäude unnachgiebig, scheinbar undurchdringlich. Ein greller Schmerz lodert durch deinen Körper, ein Energiekreislauf schwillt klagend an, und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -282,19 +282,19 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Du erinnerst dich, dass du eine Fluchtkapsel erreicht hast. Außerdem erinnerst du dich, dass dich eine Ranke aus Energie getroffen hat ... der Sturz ... 
+      <DefaultText>Du erinnerst dich, dass du eine Fluchtkapsel erreicht hast. Außerdem erinnerst du dich, dass dich eine Ranke aus Energie getroffen hat … der Sturz …
 
-... der Sturz! Du öffnest die Augen gerade noch rechtzeitig, um zu sehen, dass dich ein Gewirr aus Farben umgibt, dein Fall kaum gebremst, und dann durchzuckt dich ein greller Schmerz, als der krachende Aufprall deinen Körper zerstört. Das Letzte was du hörst, ist Energie, die heulend anschwillt, und dann ...</DefaultText>
+… der Sturz! Du öffnest die Augen gerade noch rechtzeitig, um zu sehen, dass dich ein Gewirr aus Farben umgibt, dein Fall kaum gebremst, und dann durchzuckt dich ein greller Schmerz, als der krachende Aufprall deinen Körper zerstört. Das Letzte was du hörst, ist Energie, die heulend anschwillt, und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Vermutlich die beste Wahl. Eine andere bleibt dir offenbar auch nicht. Du schließt die Augen vor der Welt unter dir, ignorierst das Brüllen des Windes und *konzentrierst* dich. Du erinnerst dich: Du warst in den Hallen eines Ortes, der ein Teil von dir war. Aber warte … du warst nicht du. Diese Erinnerungen gehören dir nicht, sie fühlen sich an, als hätte man sie in deinen Verstand projiziert. Und doch war es dein Körper, der durch diese Hallen schritt, waren es deine Lungen, die ihre Luft atmeten ...</DefaultText>
+      <DefaultText>Vermutlich die beste Wahl. Eine andere bleibt dir offenbar auch nicht. Du schließt die Augen vor der Welt unter dir, ignorierst das Brüllen des Windes und *konzentrierst* dich. Du erinnerst dich: Du warst in den Hallen eines Ortes, der ein Teil von dir war. Aber warte … du warst nicht du. Diese Erinnerungen gehören dir nicht, sie fühlen sich an, als hätte man sie in deinen Verstand projiziert. Und doch war es dein Körper, der durch diese Hallen schritt, waren es deine Lungen, die ihre Luft atmeten …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Du bist gerannt, weil dich etwas verfolgt hat; etwas, das mächtiger war als du. Warst du mächtig? Du suchst in deinen gestohlenen Erinnerungen und weißt, dass du es warst. Aber was konnte sich dir entgegenstellen? *Dir* - der die Flammen und die Zeit selbst schwang? Der Name liegt dir auf der Zunge ...</DefaultText>
+      <DefaultText>Du bist gerannt, weil dich etwas verfolgt hat; etwas, das mächtiger war als du. Warst du mächtig? Du suchst in deinen gestohlenen Erinnerungen und weißt, dass du es warst. Aber was konnte sich dir entgegenstellen? *Dir* - der die Flammen und die Zeit selbst schwang? Der Name liegt dir auf der Zunge …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,12 +319,12 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Es gibt nichts, an dem du dich festhalten könntest und der Widerstand deines Körpers ist verschwindend gering im Vergleich zur beharrlichen Anziehungskraft der Erde. Als du hilflos nach Luft greifst und deine Hände schließt, siehst du das nasse Grab, das vor dir liegt. </DefaultText>
+      <DefaultText>Es gibt nichts, an dem du dich festhalten könntest und der Widerstand deines Körpers ist verschwindend gering im Vergleich zur beharrlichen Anziehungskraft der Erde. Als du hilflos nach Luft greifst und deine Hände schließt, siehst du das nasse Grab, das vor dir liegt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Aber halt! Du stürzt genau auf ein Gebäude aus Glas zu, das über einer Bucht schwebt. Du siehst eine seltsam verschwommene Frau und einen Mann, der auf dich zeigt. Ein Gewirr aus Farben schießt aus seinem ausgestreckten Arm und umschließt dich. Aber es ist zu spät. Der Sturz war zu hoch und zu schnell. Mit einem widerlich dumpfen Geräusch durchschlägst du das gläserne Gebäude. Du hörst das Heulen einer seltsamen Maschine, die auf ewig aus dem Gleichgewicht geworfen wird. Und dann ... </DefaultText>
+      <DefaultText>Aber halt! Du stürzt genau auf ein Gebäude aus Glas zu, das über einer Bucht schwebt. Du siehst eine seltsam verschwommene Frau und einen Mann, der auf dich zeigt. Ein Gewirr aus Farben schießt aus seinem ausgestreckten Arm und umschließt dich. Aber es ist zu spät. Der Sturz war zu hoch und zu schnell. Mit einem widerlich dumpfen Geräusch durchschlägst du das gläserne Gebäude. Du hörst das Heulen einer seltsamen Maschine, die auf ewig aus dem Gleichgewicht geworfen wird. Und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,7 +339,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Während sich das Wasser entsetzlich schnell nähert, siehst du zwei Gestalten, die in der Nähe des gläsernen Gebäudes stehen. Du rast genau auf sie zu! Eine von ihnen sieht zu dir empor, zeigt auf dich, und du spürst, wie sich dein Fall erheblich verlangsamt ... aber du bist immer noch zu schnell. Beide Gestalten springen zur Seite, als du mit einem schrecklichen, knirschenden Geräusch auf das kristalline Gebäude aufschlägst. Greller Schmerz pulsiert durch jede Faser deines Körpers. Und dann ... </DefaultText>
+      <DefaultText>Während sich das Wasser entsetzlich schnell nähert, siehst du zwei Gestalten, die in der Nähe des gläsernen Gebäudes stehen. Du rast genau auf sie zu! Eine von ihnen sieht zu dir empor, zeigt auf dich, und du spürst, wie sich dein Fall erheblich verlangsamt … aber du bist immer noch zu schnell. Beide Gestalten springen zur Seite, als du mit einem schrecklichen, knirschenden Geräusch auf das kristalline Gebäude aufschlägst. Greller Schmerz pulsiert durch jede Faser deines Körpers. Und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -349,7 +349,7 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Es ist hoffnungslos. Du hast eine Geschwindigkeit erreicht, die man ohne falsche Ironie nur als "final" bezeichnen kann. Du breitest Arme und Beine aus, um einen Aufwind zu fangen, und die Bucht kommt beängstigend schnell näher. Du wirst wohl in diese Bucht stürzen ... es sei denn, du triffst das Gebäude, das über ihr zu schweben scheint.</DefaultText>
+      <DefaultText>Es ist hoffnungslos. Du hast eine Geschwindigkeit erreicht, die man ohne falsche Ironie nur als "final" bezeichnen kann. Du breitest Arme und Beine aus, um einen Aufwind zu fangen, und die Bucht kommt beängstigend schnell näher. Du wirst wohl in diese Bucht stürzen … es sei denn, du triffst das Gebäude, das über ihr zu schweben scheint.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -379,12 +379,12 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Es tut innerlich weh, die Erinnerung hervorzurufen, aber du schiebst den Schmerz beiseite: eine Kreatur einer vergessenen Welt, sie sucht nach dir, seit Jahrhunderten schon. Aber sie suchte nicht nach *dir*, oder? Sie suchte nach dem Mann, in dessen Erinnerungen du wühlst, und plötzlich verstehst du, dass du nicht dieser Mann bist. </DefaultText>
+      <DefaultText>Es tut innerlich weh, die Erinnerung hervorzurufen, aber du schiebst den Schmerz beiseite: eine Kreatur einer vergessenen Welt, sie sucht nach dir, seit Jahrhunderten schon. Aber sie suchte nicht nach *dir*, oder? Sie suchte nach dem Mann, in dessen Erinnerungen du wühlst, und plötzlich verstehst du, dass du nicht dieser Mann bist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Die Luft heult und peitscht, und die Bucht unter deinen Füßen kommt dir mit jedem Augenblick näher. </DefaultText>
+      <DefaultText>Die Luft heult und peitscht, und die Bucht unter deinen Füßen kommt dir mit jedem Augenblick näher.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,14 +406,14 @@ Entferntes Geheul umrandet dich, wird mit jeder Sekunde lauter. Hartnäckige, un
       <ID>132</ID>
       <DefaultText>Du siehst ein kleines, gläsernes Gebäude, das über der Bucht schwebt. Zwei Personen stehen auf einem Balkon. Eine von ihnen zeigt mit dem Arm auf dich, und ein Gewirr aus Farben bremst deinen Fall …
 
-… aber nicht genug. Du stürzt auf das Gebäude ein und das letzte, was du hörst, ehe dich die Bewusstlosigkeit einholt, ist der ohrenbetäubende Lärm des einstürzenden Bauwerks. Und dann ...</DefaultText>
+… aber nicht genug. Du stürzt auf das Gebäude ein und das letzte, was du hörst, ehe dich die Bewusstlosigkeit einholt, ist der ohrenbetäubende Lärm des einstürzenden Bauwerks. Und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Du schließt die Augen, doch der Schmerz des Aufpralls ist so groß, dass er dich noch einen Moment bei Bewusstsein hält. Du hörst, wie das Gebäude um dich herum zusammenbricht, nimmst die Schreie überlasteter Maschinen wahr, ein gequältes Crescendo in den Wahnsinn. 
+      <DefaultText>Du schließt die Augen, doch der Schmerz des Aufpralls ist so groß, dass er dich noch einen Moment bei Bewusstsein hält. Du hörst, wie das Gebäude um dich herum zusammenbricht, nimmst die Schreie überlasteter Maschinen wahr, ein gequältes Crescendo in den Wahnsinn.
 
-Und dann ...</DefaultText>
+Und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -453,7 +453,7 @@ Und dann ...</DefaultText>
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>Du klemmst deine Hände an deine Seiten und rast durch die Luft. Der Wind krallt sich in dein Gesicht und in deine Kopfhaut. Deine Haut brennt unter der enormen Geschwindigkeit. Deine Sehkraft verschwimmt und du kannst nicht abschätzen, wie tief du schon gefallen bist. </DefaultText>
+      <DefaultText>Du klemmst deine Hände an deine Seiten und rast durch die Luft. Der Wind krallt sich in dein Gesicht und in deine Kopfhaut. Deine Haut brennt unter der enormen Geschwindigkeit. Deine Sehkraft verschwimmt und du kannst nicht abschätzen, wie tief du schon gefallen bist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -473,31 +473,31 @@ Und dann ...</DefaultText>
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Du hast Tränen in den Augen. Du kannst nichts erkennen - nur eine konturlose Masse unter dir, braun und blau und grün. Du versuchst, dir die Feuchtigkeit aus den Augen zu reiben und dir wird klar, dass du deinen Fall erst bremsen musst, ehe du sie überhaupt öffnen kannst. </DefaultText>
+      <DefaultText>Du hast Tränen in den Augen. Du kannst nichts erkennen - nur eine konturlose Masse unter dir, braun und blau und grün. Du versuchst, dir die Feuchtigkeit aus den Augen zu reiben und dir wird klar, dass du deinen Fall erst bremsen musst, ehe du sie überhaupt öffnen kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Dein Verstand flüstert einen Ausdruck: "maximale Fallgeschwindigkeit". Du hast die maximale Geschwindigkeit erreicht, die ein Objekt in dieser Luft erreichen kann, und als du in die tieferen Regionen der Atmosphäre eintrittst, kannst du spüren, wie die Luft dicker wird. Du fällst auf wundersame Weise langsamer. </DefaultText>
+      <DefaultText>Dein Verstand flüstert einen Ausdruck: "maximale Fallgeschwindigkeit". Du hast die maximale Geschwindigkeit erreicht, die ein Objekt in dieser Luft erreichen kann, und als du in die tieferen Regionen der Atmosphäre eintrittst, kannst du spüren, wie die Luft dicker wird. Du fällst auf wundersame Weise langsamer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Aber "langsam" ist relativ. Du schneidest durch die Luft, trennst ihre seidenen Schleier und … und erkennst plötzlich, dass du keine Zeit mehr für die Poesie des Fallens hast. Diese Erkenntnis bohrt sich genau in dem Moment in deinen Verstand, als sich dein Körper in eine harte, unnachgiebige Oberfläche bohrt - oder es wenigstens versucht. Während deine Haut explodiert und deine Organe beim Aufprall flüssig werden, realisierst du, dass dein Leben vollkommen ... bedeutungslos war.</DefaultText>
+      <DefaultText>Aber "langsam" ist relativ. Du schneidest durch die Luft, trennst ihre seidenen Schleier und … und erkennst plötzlich, dass du keine Zeit mehr für die Poesie des Fallens hast. Diese Erkenntnis bohrt sich genau in dem Moment in deinen Verstand, als sich dein Körper in eine harte, unnachgiebige Oberfläche bohrt - oder es wenigstens versucht. Während deine Haut explodiert und deine Organe beim Aufprall flüssig werden, realisierst du, dass dein Leben vollkommen … bedeutungslos war.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Ohne Vorwarnung zerfetzt und zerreißt der Kokon, der dich umgibt. 
+      <DefaultText>Ohne Vorwarnung zerfetzt und zerreißt der Kokon, der dich umgibt.
 
-Du fällst. 
+Du fällst.
 
-Über dir fällt ein kleiner Mond langsam in sich zusammen. Die Welt ist viele Kilometer unter dir.</DefaultText>
+Über dir fällt ein kleiner Mond langsam in sich zusammen. Die Welt liegt viele Kilometer unter dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Du warst... wer? Wer warst du?</DefaultText>
+      <DefaultText>Du warst… wer? Wer warst du?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
