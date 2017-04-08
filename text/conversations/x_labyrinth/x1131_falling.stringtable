@@ -507,22 +507,22 @@ Du fällst.
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Dein erstes Gefühl ist eine unwillkürliche, formlose Panik. Du hast das Gefühl, etwas vergessen zu haben - etwas Wichtiges, als hätte es dir einst die Welt bedeutet ... aber die Details entgleiten, sobald du sie zu ergreifen versuchst.</DefaultText>
+      <DefaultText>Dein erstes Gefühl ist eine unwillkürliche, formlose Panik. Du hast das Gefühl, etwas vergessen zu haben - etwas Wichtiges, als hätte es dir einst die Welt bedeutet … aber die Details entgleiten, sobald du sie zu ergreifen versuchst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Du anfangen, deine Hand zu erheben, und dein neues Bewusstsein flackert. Es fühlt sich wie ... wie die Zeit vergangen ist, seit du zuerst aufgewacht. Aber thou're müde, so müde, und du musst die Mattigkeit, die du greift zu kämpfen.</DefaultText>
+      <DefaultText>Du fängst an deine Hand zu erheben, und dein neues Bewusstsein flackert. Es fühlt sich an als … als ob die Zeit vergangen ist, seitdem du aufgewacht bist. Aber du bist müde, so müde, und du musst die Mattigkeit, die dich ergreift bekämpfen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Du dein Haupt erheben, ein schweres Gewicht auf das Ende deiner Hals und kämpfen, um deine Augen offen zu halten. Dein neues Bewusstsein *flackert*, und du das Gefühl für die Zeit vorbei haben. Es ist schwer, so schwer, wach zu bleiben.</DefaultText>
+      <DefaultText>Du erhebst deinen Kopf, ein schweres Gewicht drückt auf deinen Nacken und du kämpfst darum deine Augen offen zu halten. Dein neues Bewusstsein *flackert*, und du hast das Gefühl das Zeit verstrichen ist. Es ist schwierig, so schwierig, wach zu bleiben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>[DEBUG: Skip falling...]</DefaultText>
+      <DefaultText>[DEBUG: Skip falling…]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
