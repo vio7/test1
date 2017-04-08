@@ -224,7 +224,7 @@ Du siehst zwei Leute außen vor dem Gebäude stehen. Eine von ihnen, seltsam uns
 
 Deine Geschwindigkeit verringert sich beträchtlich, aber es reicht nicht. Mit lauten Knirschen schlägst du in die Kristallstruktur ein. Schmerz explodiert in deinem ganzen Körper, noch während du das Quietschen einer plötzlichen Energiewelle von der Unterseite des Gebäudes hörst.
 
-Und dann ...</DefaultText>
+Und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@ Und dann ...</DefaultText>
       <ID>50</ID>
       <DefaultText>Du winkelst deine Arme an und bildest mit deinen Händen eine Schüssel. Doch der Wind schlägt auf dich ein, du verlierst die Kontrolle über deinen Sturz und fängst wieder an zu taumeln. Du hast keine Ahnung, wo du landen wirst.
 
-Eine Menge von Farben umhüllt dich und das rauschende Geräusch des Windes wird deutlich leiser. Aber es reicht nicht. Mit lautem Knirschen schlägst du in etwas ein, du hörst das Quietschen einer plötzlichen Energiewelle, und dann ...</DefaultText>
+Eine Menge von Farben umhüllt dich und das rauschende Geräusch des Windes wird deutlich leiser. Aber es reicht nicht. Mit lautem Knirschen schlägst du in etwas ein, du hörst das Quietschen einer plötzlichen Energiewelle, und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,21 +298,21 @@ Der Boden kommt beängstigend schnell auf dich zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Du hast gerade genug Zeit um zu sehen, dass du auf eine gläserne Konstruktion zurast, die scheinbar über einem See schwebt, dass daneben eine Figur steht, die auf dich zeigt und von deren Arm aus eine Vielzahl an Farben auf dich zu fliegen und dich umhüllen, und dass du ...
+      <DefaultText>Du hast gerade genug Zeit um zu sehen, dass du auf eine gläserne Konstruktion zurast, die scheinbar über einem See schwebt, dass daneben eine Figur steht, die auf dich zeigt und von deren Arm aus eine Vielzahl an Farben auf dich zu fliegen und dich umhüllen, und dass du …
 
-... in das Gebäude krachst. Das Quietschen einer plötzlichen Energiewelle kreischt in deinen Ohren und unendliche Schmerzen strahlen durch jeden Teil deines Körpers. Und dann ...</DefaultText>
+… in das Gebäude krachst. Das Quietschen einer plötzlichen Energiewelle kreischt in deinen Ohren und unendliche Schmerzen strahlen durch jeden Teil deines Körpers. Und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>Du schließt die Augen und erinnerst dich daran, dass du durch eine Halle mit atmendem Grün gegangen bist, voller Angst und Erheiterung, und …
 
-… ein enormer Schmerz fährt durch deinen Körper, der Klang eines Energiekreislaufes, der nicht mehr synchron läuft, wird rapide höher, und dann ...</DefaultText>
+… ein enormer Schmerz fährt durch deinen Körper, der Klang eines Energiekreislaufes, der nicht mehr synchron läuft, wird rapide höher, und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Du flatterst mit den Armen. Du hältst sie fest. Du konzentrierst dich fest darauf, nicht zu fallen. Nichts passiert. Du hast gerade genug Zeit, um eine Menge an Farben zu sehen, die um dich herumwirbelt, bevor du in etwas Unnachgiebiges und scheinbar Undurchdringliches krachst. Todesqualen fahren durch deinen Körper, das Klingeln eines radikal steigenden Energiekreislaufs, und dann ...</DefaultText>
+      <DefaultText>Du flatterst mit den Armen. Du hältst sie fest. Du konzentrierst dich fest darauf, nicht zu fallen. Nichts passiert. Du hast gerade genug Zeit, um eine Menge an Farben zu sehen, die um dich herumwirbelt, bevor du in etwas Unnachgiebiges und scheinbar Undurchdringliches krachst. Todesqualen fahren durch deinen Körper, das Klingeln eines radikal steigenden Energiekreislaufs, und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,33 +339,33 @@ Du hast keine Zeit für weitere Beobachtungen - die Schwerkraft zieht zu gierig 
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Dein Versuch ist vergebens. Die Anziehungskraft ist zu stark und du hast überhaupt keinen Hebel. Nichts passiert. Du hast nur noch genug Zeit, um den Wirbel bunter Farben um dich herum zu sehen, bevor du in das Gebäude im See einschlägst, unnachgiebig und scheinbar undurchdringlich, Todesqualen fahren durch deinen Körper, du hörst das Klingeln eines radikal steigenden Energiekreislaufs, und dann ...</DefaultText>
+      <DefaultText>Dein Versuch ist vergebens. Die Anziehungskraft ist zu stark und du hast überhaupt keinen Hebel. Nichts passiert. Du hast nur noch genug Zeit, um den Wirbel bunter Farben um dich herum zu sehen, bevor du in das Gebäude im See einschlägst, unnachgiebig und scheinbar undurchdringlich, Todesqualen fahren durch deinen Körper, du hörst das Klingeln eines radikal steigenden Energiekreislaufs, und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
       <DefaultText>Warum nicht? Du scheinst gerade eh nichts anderes machen zu können. Die schließt deine Augen und erinnerst dich, trotz des Windes, der in deinen Augen beißt:
 
-Du wurdest gejagt. Das Gefühl von Entweihung an einem Ort, der ein Heiligtum sein sollte. Du erinnerst dich an eine schattenhafte Figur aus Säure und Hass, etwas, dass dich völlig zerstören will ... aber die Emotionen, die an diesem "dich" hängen, sind nicht deine. Die Gefühle sind die eines Zuschauers. Aber wer war das, der mit deinen Beinen gerannt ist, dessen Adrenalin durch die Adern gepumpt wurde?</DefaultText>
+Du wurdest gejagt. Das Gefühl von Entweihung an einem Ort, der ein Heiligtum sein sollte. Du erinnerst dich an eine schattenhafte Figur aus Säure und Hass, etwas, dass dich völlig zerstören will … aber die Emotionen, die an diesem "dich" hängen, sind nicht deine. Die Gefühle sind die eines Zuschauers. Aber wer war das, der mit deinen Beinen gerannt ist, dessen Adrenalin durch die Adern gepumpt wurde?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
       <DefaultText>Du erinnerst dich daran, eine Fluchtkapsel zu erreichen, und dass eines der tastenden Pseudopods der Kreatur dich erwischt hat, und dann der Sturz -
 
-- der Sturz! Du öffnest gerade rechtzeitig deine Augen, um einen Wirbel von Farben um dich herum zu sehen, der deinen Sturz kaum bremst. Dann fahren Todesqualen durch deinen Körper, als ein zerschmetternder Einschlag dich auslöscht. Das letzte, was du hörst, ist das schnell ansteigende Heulen von Energie, und dann ...</DefaultText>
+- der Sturz! Du öffnest gerade rechtzeitig deine Augen, um einen Wirbel von Farben um dich herum zu sehen, der deinen Sturz kaum bremst. Dann fahren Todesqualen durch deinen Körper, als ein zerschmetternder Einschlag dich auslöscht. Das letzte, was du hörst, ist das schnell ansteigende Heulen von Energie, und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>Wahrscheinlich die beste Wahl. Du scheinst keine andere Option zu haben. Du schließt die Augen vor der Welt unter dir, ignorierst das Rauschen des Windes, und *konzentrierst* dich.
 
-Du erinnerst dich daran, dass du durch die Flure eines Ortes gegangen bist, der ein Teil von dir war. Aber warte ... das warst nicht du. Du schaust auf diese Erinnerungen, als ob sie in deinen Geist projiziert würden, nicht als ob sie ein Teil von dir wären. Und trotzdem war es dein Körper, der durch diese Flure gegangen ist, deine Lungen, die die Luft dort geatmet habe ...</DefaultText>
+Du erinnerst dich daran, dass du durch die Flure eines Ortes gegangen bist, der ein Teil von dir war. Aber warte … das warst nicht du. Du schaust auf diese Erinnerungen, als ob sie in deinen Geist projiziert würden, nicht als ob sie ein Teil von dir wären. Und trotzdem war es dein Körper, der durch diese Flure gegangen ist, deine Lungen, die die Luft dort geatmet habe …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Du bist gerannt, weil etwas dich gejagt hat. Etwas, das mächtiger war als du. Warst du mächtig? Du untersuchst deine gestohlenen Erinnerungen und weißt, dass du mächtig warst. Was hätte sich gegen dich stellen können, gegen dich, der selbst Instrumente aus Flammen und Zeit handhabte? Der Name liegt dir auf der Zunge ...</DefaultText>
+      <DefaultText>Du bist gerannt, weil etwas dich gejagt hat. Etwas, das mächtiger war als du. Warst du mächtig? Du untersuchst deine gestohlenen Erinnerungen und weißt, dass du mächtig warst. Was hätte sich gegen dich stellen können, gegen dich, der selbst Instrumente aus Flammen und Zeit handhabte? Der Name liegt dir auf der Zunge …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -399,7 +399,7 @@ Aber wie könntest du einen Sturz aus dieser Höhe überleben? Schwerkraft ist e
       <ID>79</ID>
       <DefaultText>Aber warte! Du stürzt auf ein gläsernes Gebäude zu, das über einem See schwebt. Eine seltsam unscharfe Frau und ein Mann zeigen auf dich. Aus seinem ausgestreckten Arm schießt ein Wirbel bunter Farben, der dich einhüllt.
 
-Aber es ist zu spät. Dein Sturz war zu schnell. Mit einem widerwärtigen Knall zerstörst du die Glaskonstruktion. Du hörst eine seltsame Maschine heulen, als ihr Gleichgewicht für immer verschoben wird, und dann ...</DefaultText>
+Aber es ist zu spät. Dein Sturz war zu schnell. Mit einem widerwärtigen Knall zerstörst du die Glaskonstruktion. Du hörst eine seltsame Maschine heulen, als ihr Gleichgewicht für immer verschoben wird, und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@ Aber es ist zu spät. Dein Sturz war zu schnell. Mit einem widerwärtigen Knall 
       <ID>82</ID>
       <DefaultText>Als das Wasser entsetzlich schnell auf dich zurast, siehst du zwei Figuren neben einem kleinen gläsernen Gebäude stehen. Du stürzt genau darauf zu! Einer von ihnen schaut hinauf, zeigt auf dich und du spürst, wie du deutlich langsamer wirst … aber du stürzt noch immer zu schnell und beide Figuren springen zur Seite, als du mit einem schweren und entsetzlichen Krachen in die Kristallkonstruktion stürzt. Schmerz strahlt in jeden Teil deines Körpers.
 
-Und dann ...</DefaultText>
+Und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,7 +428,7 @@ Ein Kaleidoskop von Farben füllt dein Blickfeld und du hörst, wie der Klang de
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Es ergibt keinen Sinn. Du hast eine Geschwindigkeit erreicht, die ohne Ironie als 'tödlich' bezeichnet werden kann. Du breitest deine Arme und Beine aus und versuchst, einen Aufwind zu erwischen, und es sieht so aus, als ob du in dem See landen könntest, der auf dich zurast ... sofern du nicht das Gebäude triffst, das in seiner Mitte zu schweben scheint.
+      <DefaultText>Es ergibt keinen Sinn. Du hast eine Geschwindigkeit erreicht, die ohne Ironie als 'tödlich' bezeichnet werden kann. Du breitest deine Arme und Beine aus und versuchst, einen Aufwind zu erwischen, und es sieht so aus, als ob du in dem See landen könntest, der auf dich zurast … sofern du nicht das Gebäude triffst, das in seiner Mitte zu schweben scheint.
 
 Ein seltsames Netz aus Farben umgibt dich, geworfen von einer Figur, die auf dem Balkon des Gebäudes steht, aber es bremst deinen Sturz nur ein wenig.</DefaultText>
       <FemaleText />
@@ -509,7 +509,7 @@ Und dann …</DefaultText>
       <ID>132</ID>
       <DefaultText>Du siehst ein kleines, gläsernes Gebäude, das über einem See schwebt. Zwei Figuren stehen auf einem Balkon. Einer zeigt auf dich und ein Wirbel von Farben wickelt sich um dich, bremst deinen Fall …
 
-… aber nicht genug. Du stürzt in das Gebäude, und noch während du bewusstlos wirst hörst du, wie das Gebäude um dich herum einstürzt. Und dann ...</DefaultText>
+… aber nicht genug. Du stürzt in das Gebäude, und noch während du bewusstlos wirst hörst du, wie das Gebäude um dich herum einstürzt. Und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
