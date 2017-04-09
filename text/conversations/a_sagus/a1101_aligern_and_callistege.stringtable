@@ -664,10 +664,10 @@ Das erste, was du siehst, sind die zahlreichen Tätowierungen auf den Unterarmen
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>„Du denkst, ich war das? Er zeigt eine interne physiologische Reaktion auf den Sturz - vermutlich hängt es mit der fantastischen Selbstheilung zusammen. *Ist doch offensichtlich*, Aligern.“
+      <DefaultText>„Du denkst, ich war das? Er zeigt eine interne physiologische Reaktion auf den Sturz – vermutlich hängt es mit der fantastischen Selbstheilung zusammen. *Ist doch offensichtlich*, Aligern.“
 
 Ihre Stimme hallt und du reibst dir die Augen, um sicherzugehen, dass du nicht doppelt siehst. Schwache Echos ihrer Handlungen folgen ihr, jedes fast ein Spiegelbild ihrer Selbst, doch einige bewegen sich wie als Reaktion auf Dinge, die du nicht sehen kannst. Das einzig Konstante sind ihre wilden Haare und ihre bunten Kleider.</DefaultText>
-      <FemaleText>„Du denkst, ich war das? Sie zeigt eine interne physiologische Reaktion auf den Sturz - vermutlich hängt es mit der fantastischen Selbstheilung zusammen. *Ist doch offensichtlich*, Aligern.“
+      <FemaleText>„Du denkst, ich war das? Sie zeigt eine interne physiologische Reaktion auf den Sturz – vermutlich hängt es mit der fantastischen Selbstheilung zusammen. *Ist doch offensichtlich*, Aligern.“
 
 Ihre Stimme hallt und du reibst dir die Augen, um sicherzugehen, dass du nicht doppelt siehst. Schwache Echos ihrer Handlungen folgen ihr, jedes fast ein Spiegelbild ihrer Selbst, doch einige bewegen sich wie als Reaktion auf Dinge, die du nicht sehen kannst. Das einzig Konstante sind ihre wilden Haare und ihre bunten Kleider.</FemaleText>
     </Entry>
@@ -1085,7 +1085,7 @@ Er schnaubt. „Ist mir nur aufgefallen, weil ich dasselbe tat.“</DefaultText>
     </Entry>
     <Entry>
       <ID>220</ID>
-      <DefaultText>Ihr greifbarstes Ich macht einen Knicks, während andere sich verbeugen oder drehen. „Ich - und meine Schwestern - bin Callistege. Das ist Aligern. Wir sind Entdecker. Wissenssucher. So kamen wir hierher.“
+      <DefaultText>Ihr greifbarstes Ich macht einen Knicks, während andere sich verbeugen oder drehen. „Ich – und meine Schwestern – bin Callistege. Das ist Aligern. Wir sind Entdecker. Wissenssucher. So kamen wir hierher.“
 
 „Und wenn ich nicht irre, bist *du* das, was wir einen Verstoßenen nennen. Der Wandelnde Gott hat dich erschaffen, Körper und Seele. Dein Erzeuger hat deinen Körper eine Zeit lang benutzt und dann abgeworfen wie einen alten Mantel. Nur er weiß warum. Als sein Geist sich einer neuen Erfahrung zuwandte, wurdest *du* in der abgeworfenen Hülle geboren.“</DefaultText>
       <FemaleText />
@@ -1179,7 +1179,7 @@ Sie mustert dich von oben bis unten. Ihr Lächeln macht dich nervös. „Viellei
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>„Du verkörperst dieselbe Arroganz - als wüsstest du alles über unsere und alle früheren Welten.</DefaultText>
+      <DefaultText>„Du verkörperst dieselbe Arroganz – als wüsstest du alles über unsere und alle früheren Welten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1224,7 +1224,7 @@ Sie mustert dich von oben bis unten. Ihr Lächeln macht dich nervös. „Viellei
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>„Ausgezeichnete Frage! Nachdem ich deine Selbstheilungskräfte nun in Aktion sehen konnte, würde ich sagen, sie sind primär körperlich - eine Art Nachwachsen. In diesem Fall würde dich fast jede Form psychischen oder molekularen Zerfalls töten - Zersetzung, Verbrennung und so weiter. Degenerative Erkrankungen könnten ein Problem sein, und mir fallen *einige* Wesen ein, die deinen Körper zerstören könnten …“</DefaultText>
+      <DefaultText>„Ausgezeichnete Frage! Nachdem ich deine Selbstheilungskräfte nun in Aktion sehen konnte, würde ich sagen, sie sind primär körperlich – eine Art Nachwachsen. In diesem Fall würde dich fast jede Form psychischen oder molekularen Zerfalls töten – Zersetzung, Verbrennung und so weiter. Degenerative Erkrankungen könnten ein Problem sein, und mir fallen *einige* Wesen ein, die deinen Körper zerstören könnten …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1253,14 +1253,14 @@ Du bist in einem dunklen Raum, der von unzähligen blinkenden Lichtern und Holog
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Die Erinnerung verblasst. Callistege spricht immer noch. Du bemerkst, dass der Apparat in der Erinnerung dasselbe ist, der jetzt hinter dir steht. Er sieht genauso aus, wie der Geist es beschrieben hat - ein transparenter Sarkophag in einer Kristallkuppel, um den an einem Metallring mechanische Armen angeordnet sind. Leider ist die Kuppel zersprungen, die Hülle des Sarkophags rissig und einer der Arme liegt zertrümmert auf dem Boden.
+      <DefaultText>Die Erinnerung verblasst. Callistege spricht immer noch. Du bemerkst, dass der Apparat in der Erinnerung dasselbe ist, der jetzt hinter dir steht. Er sieht genauso aus, wie der Geist es beschrieben hat – ein transparenter Sarkophag in einer Kristallkuppel, um den an einem Metallring mechanische Armen angeordnet sind. Leider ist die Kuppel zersprungen, die Hülle des Sarkophags rissig und einer der Arme liegt zertrümmert auf dem Boden.
 
 Was immer einst seine Funktion war, es ist offensichtlich kaputt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>256</ID>
-      <DefaultText>„… oder nekrotisierende Viren. Ich nehme an, dass vom Eisernen Wind verursachte Entstellungen ebenfalls verheerend genug wären, um -“</DefaultText>
+      <DefaultText>„… oder nekrotisierende Viren. Ich nehme an, dass vom Eisernen Wind verursachte Entstellungen ebenfalls verheerend genug wären, um –“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1511,7 +1511,7 @@ Er sieht sie von der Seite an. „Du musst wissen, sie betrachtet alle anderen l
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>„Ein Rückzugsort deines Erzeugers. Man nimmt an, dass er mehrere solcher Rückzugsorte auf der Neunten Welt hat - und vielleicht auch in anderen Welten. Wir sind nur dank deines durchschlagenden Auftritts hereingekommen.“</DefaultText>
+      <DefaultText>„Ein Rückzugsort deines Erzeugers. Man nimmt an, dass er mehrere solcher Rückzugsorte auf der Neunten Welt hat – und vielleicht auch in anderen Welten. Wir sind nur dank deines durchschlagenden Auftritts hereingekommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
