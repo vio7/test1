@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Wirre Gedanken schwirren dir durch den Kopf, als du die leere Schale vor dir betrachtest. Tropfen fallen von der Decke auf den Boden neben der Schüssel. Das Licht der Tropfen wird von der runden Schale reflektiert, als *hungerte* sie danach und *müsse* gefüllt werden. Doch die Schale bleibt trocken.  
+      <DefaultText>Wirre Gedanken schwirren dir durch den Kopf, als du die leere Schale vor dir betrachtest. Tropfen fallen von der Decke auf den Boden neben der Schüssel. Das Licht der Tropfen wird von der runden Schale reflektiert, als *hungerte* sie danach und *müsse* gefüllt werden. Doch die Schale bleibt trocken.
 
 Ein weiterer Tropfen fällt von der Decke und spritzt verschwendet über die Pylonen.
 {SOUND:  Dripping - continues until bowl is filled.}</DefaultText>
@@ -104,7 +104,7 @@ Ein weiterer Tropfen fällt von der Decke und spritzt verschwendet über die Pyl
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point… 
+      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point…
 
 The conjoined light pierces your fingertip like a needle, racing up your veins, snapping across your tendons.</DefaultText>
       <FemaleText />
@@ -121,7 +121,7 @@ The conjoined light pierces your fingertip like a needle, racing up your veins, 
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point… 
+      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point…
 
 The conjoined light pierces your fingertip like a needle, racing up your veins, snapping across your tendons.</DefaultText>
       <FemaleText />
@@ -270,15 +270,15 @@ Die Oberfläche der Schale leuchtet in reflektiertem Licht auf, als ein weiteres
       <ID>61</ID>
       <DefaultText>You… fell. You remember falling towards the curve of the world. The ground leapt up to claim you. Impact. You should be dead.
 
-But if you are, there is no peace here. Your mind *aches*, and struggles to form simple thoughts. Blurring memories whirl past your inner eye like shards of broken glass. Your body feels sluggish. Clumsy.  
+But if you are, there is no peace here. Your mind *aches*, and struggles to form simple thoughts. Blurring memories whirl past your inner eye like shards of broken glass. Your body feels sluggish. Clumsy.
 
-Broken. 
+Broken.
 </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>You fell, but did not die. You are alive, but not whole. 
+      <DefaultText>You fell, but did not die. You are alive, but not whole.
 
 Another drop of calming light falls from the ceiling, scattering into gemlike beads on the floor.</DefaultText>
       <FemaleText />
@@ -351,7 +351,7 @@ Another drop of calming light falls from the ceiling, scattering into gemlike be
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„Look around you. The fall did not only break your body, it scattered your memories to the corners of your broken mind.“ 
+      <DefaultText>„Look around you. The fall did not only break your body, it scattered your memories to the corners of your broken mind.“
 
 Your companion is quieter than before, and there is a strange note in his voice. Helplessness? Frustration?</DefaultText>
       <FemaleText />
@@ -504,7 +504,7 @@ Dies scheint weder wie der Tod noch wie irgendeine Form von Leben, die du kennst
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>„You are frightened. Of course, you don't even know who I am or where you are. Listen carefully then. The fall did not only break your body, it scattered your memories to the corners of your broken mind.“ 
+      <DefaultText>„You are frightened. Of course, you don't even know who I am or where you are. Listen carefully then. The fall did not only break your body, it scattered your memories to the corners of your broken mind.“
 
 Your companion is quieter than before, and there is a strange note in his voice. Helplessness? Frustration? </DefaultText>
       <FemaleText />
