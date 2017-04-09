@@ -51,10 +51,10 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Du legst dein Ohr vorsichtig gegen den Würfel und die Worte fangen an, erkennbar zu werden, wenn auch nur zerstückelt. "...mächtige Kriegsherren, doch so klein... Also sollst du mich verstehen ... deine Hilfe ... nicht frei, Weisheit zu schenken ... wie so...“
+      <DefaultText>Du legst dein Ohr vorsichtig gegen den Würfel und die Worte fangen an, erkennbar zu werden, wenn auch nur zerstückelt. "…mächtige Kriegsherren, doch so klein… Also sollst du mich verstehen … deine Hilfe … nicht frei, Weisheit zu schenken … wie so…“
 
 Er rasselt schnell eine Reihe von Anweisungen herunter, dann wiederholt er sie wieder. Du bist dir nicht völlig sicher, dass du ihnen befolgen könntest, oder was geschehen würde, wenn du das tätest.</DefaultText>
-      <FemaleText>Du legst dein Ohr vorsichtig gegen den Würfel und die Worte fangen an, erkennbar zu werden, wenn auch nur zerstückelt. "...mächtige Kriegsherren, doch so klein... Also sollst du mich verstehen ... deine Hilfe ... nicht frei, Weisheit zu schenken ... wie so...“
+      <FemaleText>Du legst dein Ohr vorsichtig gegen den Würfel und die Worte fangen an, erkennbar zu werden, wenn auch nur zerstückelt. "…mächtige Kriegsherren, doch so klein… Also sollst du mich verstehen … deine Hilfe … nicht frei, Weisheit zu schenken … wie so…“
 
 Er rasselt schnell eine Reihe von Anweisungen herunter, dann wiederholt er sie wieder. Du bist dir nicht völlig sicher, dass du ihnen befolgen könntest, oder was geschehen würde, wenn du das tätest.</FemaleText>
     </Entry>
@@ -90,8 +90,8 @@ Er rasselt schnell eine Reihe von Anweisungen herunter, dann wiederholt er sie w
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Gehe zurück, um vorwärts zu kommen ... rotiere die Schlüsselstelle ... gehe zurück, um vorwärts zu kommen ... aber dieses Mal anschließend.</DefaultText>
-      <FemaleText>"Gehe zurück, um vorwärts zu kommen ... rotiere die Schlüsselstelle ... gehe zurück, um vorwärts zu kommen ... aber dieses Mal anschließend.</FemaleText>
+      <DefaultText>"Gehe zurück, um vorwärts zu kommen … rotiere die Schlüsselstelle … gehe zurück, um vorwärts zu kommen … aber dieses Mal anschließend.</DefaultText>
+      <FemaleText>"Gehe zurück, um vorwärts zu kommen … rotiere die Schlüsselstelle … gehe zurück, um vorwärts zu kommen … aber dieses Mal anschließend.</FemaleText>
     </Entry>
     <Entry>
       <ID>20</ID>
