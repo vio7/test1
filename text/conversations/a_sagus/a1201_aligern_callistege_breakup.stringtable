@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich weiß nicht, wie ich es sagen soll, aber ... gut zu wissen, dass du nicht vorhast, deinen Weg mit Leichen zu pflastern. Selbst wenn jemand den Tod verdient hätte, wie Qorro hier."</DefaultText>
+      <DefaultText>"Ich weiß nicht, wie ich es sagen soll, aber … gut zu wissen, dass du nicht vorhast, deinen Weg mit Leichen zu pflastern. Selbst wenn jemand den Tod verdient hätte, wie Qorro hier."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,7 +188,7 @@ Seine Worte sind nun eindeutig an seine ehemalige Kollegin gerichtet. "Ich habe 
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>{tight, controlled}"Gut. Wenn du es dir anders überlegst - und sie dich nicht in Einzelteilen an die Meistbietenden verkauft hat - findest du mich in der Schattenseite. Aber komm ohne *sie*, klar?"</DefaultText>
+      <DefaultText>{tight, controlled}"Gut. Wenn du es dir anders überlegst – und sie dich nicht in Einzelteilen an die Meistbietenden verkauft hat – findest du mich in der Schattenseite. Aber komm ohne *sie*, klar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,7 +233,7 @@ Seine Worte sind nun eindeutig an seine ehemalige Kollegin gerichtet. "Ich habe 
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Sie runzelt die Stirn. "Aligern, wenn ich euch verraten wollte, hätte ich etwas Clevereres - und Erfolgversprechenderes - ausgeheckt, als diesen Trottel Qorro auf euch anzusetzen. Wenn ich dich verrate, ist das letzte, was du auf der Welt sieht, mein lachendes Gesicht."</DefaultText>
+      <DefaultText>Sie runzelt die Stirn. "Aligern, wenn ich euch verraten wollte, hätte ich etwas Clevereres – und Erfolgversprechenderes – ausgeheckt, als diesen Trottel Qorro auf euch anzusetzen. Wenn ich dich verrate, ist das letzte, was du auf der Welt sieht, mein lachendes Gesicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,7 +248,7 @@ Seine Worte sind nun eindeutig an seine ehemalige Kollegin gerichtet. "Ich habe 
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Sein Gesicht verfinstert sich bei ihren Worten, doch er ringt sich ein gequältes Lächeln ab. "Als ob du mir einen Gefallen tust, indem du bei mir bleibst. Denkst du, ich würde bei all deinen Echos dein wahres Ich nicht erkennen? Das bist *du*, Callistege, jede Facette davon. Dein Herz ist kalt wie eh und je, genau so, wie du es präsentierst. Ich dachte, ich könnte dir helfen, aber ..."</DefaultText>
+      <DefaultText>Sein Gesicht verfinstert sich bei ihren Worten, doch er ringt sich ein gequältes Lächeln ab. "Als ob du mir einen Gefallen tust, indem du bei mir bleibst. Denkst du, ich würde bei all deinen Echos dein wahres Ich nicht erkennen? Das bist *du*, Callistege, jede Facette davon. Dein Herz ist kalt wie eh und je, genau so, wie du es präsentierst. Ich dachte, ich könnte dir helfen, aber …"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,7 +263,7 @@ Seine Worte sind nun eindeutig an seine ehemalige Kollegin gerichtet. "Ich habe 
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Charmant wie immer, Aligern. Mal angenommen ich würde dich tatsächlich verraten *wollen* - denkst du wirklich, dass ich dazu Qorros Hilfe bräuchte? Das ist dann der Dank dafür, dass ich dein Selbstmitleid, deine Selbstgerechtigkeit, und deine Schwäche so lange ertragen habe. Mir reicht's." Sie wendet sich an dich. "Ich begleite dich gerne, Kind. Aber ich tue keinen *einzigen* Schritt mehr mit diesem paranoiden alten Trottel."</DefaultText>
+      <DefaultText>"Charmant wie immer, Aligern. Mal angenommen ich würde dich tatsächlich verraten *wollen* – denkst du wirklich, dass ich dazu Qorros Hilfe bräuchte? Das ist dann der Dank dafür, dass ich dein Selbstmitleid, deine Selbstgerechtigkeit, und deine Schwäche so lange ertragen habe. Mir reicht's." Sie wendet sich an dich. "Ich begleite dich gerne, Kind. Aber ich tue keinen *einzigen* Schritt mehr mit diesem paranoiden alten Trottel."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -295,7 +295,7 @@ Sie wendet sich an dich. "Ich begleite dich gerne, Kind. Aber ich tue keinen *ei
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"*Das* war ein Fiasko. Zumindest hat es dir einige Wertsachen gebracht. Ich muss zugeben, der Wandelnde Gott hätte an deiner Stelle genauso gehandelt ..." Er verschränkt die Arme. "Na, hoffentlich hast du daraus gelernt. Man kann ihr nicht trauen. In keiner Realität."</DefaultText>
+      <DefaultText>"*Das* war ein Fiasko. Zumindest hat es dir einige Wertsachen gebracht. Ich muss zugeben, der Wandelnde Gott hätte an deiner Stelle genauso gehandelt …" Er verschränkt die Arme. "Na, hoffentlich hast du daraus gelernt. Man kann ihr nicht trauen. In keiner Realität."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,7 +325,7 @@ Sie wendet sich an dich. "Ich begleite dich gerne, Kind. Aber ich tue keinen *ei
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Er wischt Callisteges Einwand beiseite, bevor sie ihn noch aussprechen kann. "Spar dir deine Worte. Tatsache ist, ich vertraue dir nicht mehr - und ich weiß nicht, warum ich es je getan habe. Unsere gemeinsame Reise ist zu Ende. Ich habe genug Sorgen, auch ohne dass ich 28 Stunden am Tag deinen Verrat fürchten muss."
+      <DefaultText>Er wischt Callisteges Einwand beiseite, bevor sie ihn noch aussprechen kann. "Spar dir deine Worte. Tatsache ist, ich vertraue dir nicht mehr – und ich weiß nicht, warum ich es je getan habe. Unsere gemeinsame Reise ist zu Ende. Ich habe genug Sorgen, auch ohne dass ich 28 Stunden am Tag deinen Verrat fürchten muss."
 
 Er wendet sich an dich. "Kommst du mit, Kid?"</DefaultText>
       <FemaleText />
@@ -377,7 +377,7 @@ Er wendet sich an dich. "Kommst du mit, Kid?"</DefaultText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Also wirklich, von all deinen paranoiden Spinnereien ... Du glaubst das wirklich, oder? Du glaubst wirklich, ich würde einen Trottel wie Qorro anheuern, um dir einen Dolch in den Rücken zu stoßen, anstatt dieses Vergnügen selbst zu genießen!"</DefaultText>
+      <DefaultText>"Also wirklich, von all deinen paranoiden Spinnereien … Du glaubst das wirklich, oder? Du glaubst wirklich, ich würde einen Trottel wie Qorro anheuern, um dir einen Dolch in den Rücken zu stoßen, anstatt dieses Vergnügen selbst zu genießen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
