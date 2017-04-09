@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Vor dir siehst du einen schwarzen, unscheinbaren Apparat. Als du danach greifst, beginnt das Lichterdreieck auf seiner Hülle plötzlich hell zu leuchten und ein Bild erscheint vor deinem geistigen Auge.
 
-{SOUND: Optional - we could hear some machine sounds coming to life here, and they could remain in the background throughout the dialogue (until the machine powers down on node 68).}</DefaultText>
+{SOUND: Optional – we could hear some machine sounds coming to life here, and they could remain in the background throughout the dialogue (until the machine powers down on node 68).}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -109,7 +109,7 @@ An ihrer Seite steht die Ziffer "0".</DefaultText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Das meiste war unleserlich, doch ein Befehl - "Freigeben" - schien smaragdgrün aufzuleuchten. Dieselbe Farbe, in der auch Zelle 0 oben auf dem Bogen im dunkeln Feld erstrahlte.</DefaultText>
+      <DefaultText>Das meiste war unleserlich, doch ein Befehl – "Freigeben" – schien smaragdgrün aufzuleuchten. Dieselbe Farbe, in der auch Zelle 0 oben auf dem Bogen im dunkeln Feld erstrahlte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -144,7 +144,7 @@ An ihrer Seite steht die Ziffer "0".</DefaultText>
 
 Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein Teil aus dem rauchenden Inneren des Apparats fischst.
 {LOOT}
-{SOUND: Optional - Crunching sound as player kicks and breaks the console.}</DefaultText>
+{SOUND: Optional – Crunching sound as player kicks and breaks the console.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,7 +162,7 @@ Diesmal war sie auf den Tritt vorbereitet.</DefaultText>
 
 Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein interessantes Teil aus dem rauchenden Inneren des Apparats fischst.
 {LOOT}
-{SOUND: Optional - Crunching sound as player kicks and breaks the console.}</DefaultText>
+{SOUND: Optional – Crunching sound as player kicks and breaks the console.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,7 +222,7 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
       <ID>64</ID>
       <DefaultText>::knistern::
 
-{SOUND: Optional - Faint machine crackle, but other than this noise, the usual machine sound is not present.}</DefaultText>
+{SOUND: Optional – Faint machine crackle, but other than this noise, the usual machine sound is not present.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,13 +291,13 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Die drei Lichter pulsieren gereizt. Warme Luft strömt aus den Öffnungen des Apparats. Und dann-
+      <DefaultText>Die drei Lichter pulsieren gereizt. Warme Luft strömt aus den Öffnungen des Apparats. Und dann–
 
-Eine lange Liste von Befehlen rattert durch dein Bewusstsein - viel zu schnell, um sie zu lesen. Du stöhnst, reibst dir die Augen. Die Intelligenz gluckst.
+Eine lange Liste von Befehlen rattert durch dein Bewusstsein – viel zu schnell, um sie zu lesen. Du stöhnst, reibst dir die Augen. Die Intelligenz gluckst.
 
 „Befehlt mir“, sagt sie selbstzufrieden.
 
-{SOUND: Optional - Air being emitted from the vents of the machine, almost like a sigh.}</DefaultText>
+{SOUND: Optional – Air being emitted from the vents of the machine, almost like a sigh.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@ Eine lange Liste von Befehlen rattert durch dein Bewusstsein - viel zu schnell, 
       <ID>94</ID>
       <DefaultText>Die Motoren der Intelligenz brummen aufgebracht, als du dir ihr uraltes Gehäuse genauer ansiehst.
 
-{SOUND: Optional - Machine noise becomes slightly indignant for this node.}</DefaultText>
+{SOUND: Optional – Machine noise becomes slightly indignant for this node.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
