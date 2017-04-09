@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Aligern verdreht wie immer die Fakten. Ich bietet dir eine breites Fundament, basierend auf wissenschaftlicher Methode und sorgfältiger Analyse, auf dem du deine Antworten aufbauen kannst.  Er dagegen bietet dir einen Haufen Fanatiker, deren einzige Qualifikation ihr wirrer Glaube ist."</DefaultText>
+      <DefaultText>"Aligern verdreht wie immer die Fakten. Ich biete dir ein breites Fundament, basierend auf wissenschaftlicher Methode und sorgfältiger Analyse, auf dem du deine Antworten aufbauen kannst. Er dagegen bietet dir einen Haufen Fanatiker, deren einzige Qualifikation ihr wirrer Glaube ist."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,7 +223,7 @@ Seine Worte sind nun eindeutig an seine ehemalige Kollegin gerichtet. "Ich habe 
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Endlich sind wir uns mal einig", knurrt er. "Sie wird dir den Schädel runterreißen und dabei noch ins Gesicht spucken. Mit mir kommst du nicht nur an dein Ziel, sondern kannst nachts auch noch ruhig schlafen. Es ist deine Entscheidung."</DefaultText>
+      <DefaultText>"Endlich sind wir uns mal einig", knurrt er. "Sie wird dir den Schädel herunterreißen und dabei noch ins Gesicht spucken. Mit mir kommst du nicht nur an dein Ziel, sondern kannst nachts auch noch ruhig schlafen. Es ist deine Entscheidung."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
