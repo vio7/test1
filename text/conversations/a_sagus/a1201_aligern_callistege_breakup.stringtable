@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Du hast gesagt, du willst im Kult des Wandelnden Gottes jemanden suchen, der dir helfen kann, die Resonanzkammer zu reparieren. So ist es doch, nicht wahr?"</DefaultText>
+      <DefaultText>„Du hast gesagt, du willst im Kult des Wandelnden Gottes jemanden suchen, der dir helfen kann, die Resonanzkammer zu reparieren. So ist es doch, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Du hast gesagt, du willst zum Orden der Wahrheit gehen. Ist das noch so? Aligern kann gerne mitkommen, wenn er möchte, auch wenn er dort nicht gerade gern gesehen ist."</DefaultText>
+      <DefaultText>„Du hast gesagt, du willst zum Orden der Wahrheit gehen. Ist das noch so? Aligern kann gerne mitkommen, wenn er möchte, auch wenn er dort nicht gerade gern gesehen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Du hast die Entscheidung vorhin aufgeschoben, doch nun musst du sie treffen. Willst du im Kult des Wandelnden Gottes Antworten finden oder dich vom Orden der Wahrheit aufschneiden lassen?"</DefaultText>
+      <DefaultText>„Du hast die Entscheidung vorhin aufgeschoben, doch nun musst du sie treffen. Willst du im Kult des Wandelnden Gottes Antworten finden oder dich vom Orden der Wahrheit aufschneiden lassen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Gut gemacht. *Das* wäre ein Fiasko geworden. Du weißt doch, warum die hier waren, nicht wahr?"</DefaultText>
+      <DefaultText>„Gut gemacht. *Das* wäre ein Fiasko geworden. Du weißt doch, warum die hier waren, nicht wahr?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich weiß nicht, wie ich es sagen soll, aber … gut zu wissen, dass du nicht vorhast, deinen Weg mit Leichen zu pflastern. Selbst wenn jemand den Tod verdient hätte, wie Qorro hier."</DefaultText>
+      <DefaultText>„Ich weiß nicht, wie ich es sagen soll, aber … gut zu wissen, dass du nicht vorhast, deinen Weg mit Leichen zu pflastern. Selbst wenn jemand den Tod verdient hätte, wie Qorro hier.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"*Das* war ein Fiasko. Ich hoffe, du hast daraus gelernt. Man kann ihr nicht trauen. In keiner Realität."</DefaultText>
+      <DefaultText>„*Das* war ein Fiasko. Ich hoffe, du hast daraus gelernt. Man kann ihr nicht trauen. In keiner Realität.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,57 +41,57 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Er sieht dir nicht in die Augen. "Wenn du *wirklich* der Wandelnde Gott bist, hast du dich vielleicht wirklich gewandelt."</DefaultText>
+      <DefaultText>Er sieht dir nicht in die Augen. „Wenn du *wirklich* der Wandelnde Gott bist, hast du dich vielleicht wirklich gewandelt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Er sieht dir nicht in die Augen. "Vielleicht bist du der Wandelnde Gott. Vielleicht auch nicht. In jedem Fall gehst du nun einen neuen Weg. Einen klügeren als den, den dein Schöpfer gewählt hat."</DefaultText>
+      <DefaultText>Er sieht dir nicht in die Augen. „Vielleicht bist du der Wandelnde Gott. Vielleicht auch nicht. In jedem Fall gehst du nun einen neuen Weg. Einen klügeren als den, den dein Schöpfer gewählt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Überraschenderweise stimme ich Callistege zu." Er wendet sich von ihr ab, als wolle er sie aus dem Gespräch ausschließen. "Sieh mal: Du musst eine wichtige Entscheidung treffen." Er flüstert und wirft dabei einen verstohlenen Blick auf Callistege. "Ich vertraue ihr nicht. Ich glaube nicht, dass sie dich zum Orden bringt. Zumindest nicht sicher. Komm mit mir. Lass sie zurück."</DefaultText>
+      <DefaultText>„Überraschenderweise stimme ich Callistege zu.“ Er wendet sich von ihr ab, als wolle er sie aus dem Gespräch ausschließen. „Sieh mal: Du musst eine wichtige Entscheidung treffen.“ Er flüstert und wirft dabei einen verstohlenen Blick auf Callistege. „Ich vertraue ihr nicht. Ich glaube nicht, dass sie dich zum Orden bringt. Zumindest nicht sicher. Komm mit mir. Lass sie zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Aligern hat ausnahmsweise mal recht. Doch du stehst nun an einem Wendepunkt."</DefaultText>
+      <DefaultText>„Aligern hat ausnahmsweise mal recht. Doch du stehst nun an einem Wendepunkt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ja. Ich bin bereit."</DefaultText>
+      <DefaultText>„Ja. Ich bin bereit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ich habe es mir anders überlegt. Gehen wir zum Kult des Wandelnden Gottes."</DefaultText>
+      <DefaultText>„Ich habe es mir anders überlegt. Gehen wir zum Kult des Wandelnden Gottes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Muss ich die Entscheidung jetzt treffen?"</DefaultText>
+      <DefaultText>„Muss ich die Entscheidung jetzt treffen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Ja. Gehen wir zum Kult des Wandelnden Gottes. Vielleicht finde ich dort Antworten."</DefaultText>
+      <DefaultText>„Ja. Gehen wir zum Kult des Wandelnden Gottes. Vielleicht finde ich dort Antworten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Ich habe es mir anders überlegt. Ich möchte zum Orden der Wahrheit."</DefaultText>
+      <DefaultText>„Ich habe es mir anders überlegt. Ich möchte zum Orden der Wahrheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Gehen wir zum Orden der Wahrheit."</DefaultText>
+      <DefaultText>„Gehen wir zum Orden der Wahrheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Gehen wir zum Kult des Wandelnden Gottes."</DefaultText>
+      <DefaultText>„Gehen wir zum Kult des Wandelnden Gottes.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,49 +101,49 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Moment mal. Du weißt doch, was sie dort mit dir tun werden? Das war kein Witz, als ich sagte, dass sie dich aufschneiden werden. Sie haben nur ihre eigenen Interessen im Sinn, und wenn sie deine Antworten finden, werden sie sie dir wie eine Karotte vor die Nase halten und dich wie eine Puppe tanzen lassen. Das kann ich nicht zulassen." Er flüstert und wirft einen verstohlenen Blick auf Callistege. "Und ich traue ihr nicht, dass sie dich sicher dorthin bringt. Komm mit mir. Lass sie zurück."</DefaultText>
+      <DefaultText>„Moment mal. Du weißt doch, was sie dort mit dir tun werden? Das war kein Witz, als ich sagte, dass sie dich aufschneiden werden. Sie haben nur ihre eigenen Interessen im Sinn, und wenn sie deine Antworten finden, werden sie sie dir wie eine Karotte vor die Nase halten und dich wie eine Puppe tanzen lassen. Das kann ich nicht zulassen.“ Er flüstert und wirft einen verstohlenen Blick auf Callistege. „Und ich traue ihr nicht, dass sie dich sicher dorthin bringt. Komm mit mir. Lass sie zurück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Sei kein Narr! Was denkst du, was ein Haufen Fanatiker und Ignoranten dir bieten können? Wenn du Anbetung und Speichelleckerei suchst, fein, geh zum Kult. Wenn du Antworten suchst, kommt mit mir zum Orden." Sie und ihre Echos starren dich grimmig an. "Aligern führt dich in die Irre. Das werde ich nicht zulassen."</DefaultText>
+      <DefaultText>„Sei kein Narr! Was denkst du, was ein Haufen Fanatiker und Ignoranten dir bieten können? Wenn du Anbetung und Speichelleckerei suchst, fein, geh zum Kult. Wenn du Antworten suchst, kommt mit mir zum Orden.“ Sie und ihre Echos starren dich grimmig an. „Aligern führt dich in die Irre. Das werde ich nicht zulassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Er nickt. "Ja. Dies sind zwei sehr unterschiedliche Pfade, und du müsst deine Wahl mit Bedacht treffen. Ich biete dir das Wissen derer, die den Wandelnden Gott bereits seit Dekaden studieren. Sie bietet dir Tausendsassas und Eierköpfe."</DefaultText>
+      <DefaultText>Er nickt. „Ja. Dies sind zwei sehr unterschiedliche Pfade, und du müsst deine Wahl mit Bedacht treffen. Ich biete dir das Wissen derer, die den Wandelnden Gott bereits seit Dekaden studieren. Sie bietet dir Tausendsassas und Eierköpfe.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Aligern verdreht wie immer die Fakten. Ich biete dir ein breites Fundament, basierend auf wissenschaftlicher Methode und sorgfältiger Analyse, auf dem du deine Antworten aufbauen kannst. Er dagegen bietet dir einen Haufen Fanatiker, deren einzige Qualifikation ihr wirrer Glaube ist."</DefaultText>
+      <DefaultText>„Aligern verdreht wie immer die Fakten. Ich biete dir ein breites Fundament, basierend auf wissenschaftlicher Methode und sorgfältiger Analyse, auf dem du deine Antworten aufbauen kannst. Er dagegen bietet dir einen Haufen Fanatiker, deren einzige Qualifikation ihr wirrer Glaube ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Ihre Echos werfen sich gegenseitig Blicke zu. Einen Moment lang beißt sie sich auf die Zunge. Dann platzt es aus ihr heraus. "Wir können dich *alle* hören, Aligern. Das Misstrauen ist beiderseitig, glaub mir. Du schlägst diesem Kind einen törichten Weg vor und wirst es sofort verraten, wenn es deinen Zwecken dient. Lasst ihn und seine Ängste hier zurück, Kind. Ich sorge dafür, dass man deine Resonanzkammer repariert." Sie wirkt besitzergreifend, fast gierig.</DefaultText>
+      <DefaultText>Ihre Echos werfen sich gegenseitig Blicke zu. Einen Moment lang beißt sie sich auf die Zunge. Dann platzt es aus ihr heraus. „Wir können dich *alle* hören, Aligern. Das Misstrauen ist beiderseitig, glaub mir. Du schlägst diesem Kind einen törichten Weg vor und wirst es sofort verraten, wenn es deinen Zwecken dient. Lasst ihn und seine Ängste hier zurück, Kind. Ich sorge dafür, dass man deine Resonanzkammer repariert.“ Sie wirkt besitzergreifend, fast gierig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Er wirft ihr einen bösen Blick zu. "Da wir gerade von Verrat reden: Hast du bemerkt, wie schnell sie ihre Kameraden verrät, wenn es ihr etwas bringt? Sie kannte diesen Kopfgeldjäger. Seltsamer Zufall, dass er ausgerechnet jetzt hier auftauchte, nicht wahr?"
+      <DefaultText>Er wirft ihr einen bösen Blick zu. „Da wir gerade von Verrat reden: Hast du bemerkt, wie schnell sie ihre Kameraden verrät, wenn es ihr etwas bringt? Sie kannte diesen Kopfgeldjäger. Seltsamer Zufall, dass er ausgerechnet jetzt hier auftauchte, nicht wahr?“
 
-Seine Worte sind nun eindeutig an seine ehemalige Kollegin gerichtet. "Ich habe vielleicht meine Zweifel, was dich betrifft, Abgeworfene Hülle, aber ich würde dich nicht für meinen eigenen Vorteil verkaufen. Sie schon. Sie wird dir schöntun und dich mit ihren Geschichten fesseln, aber was sie auch sagt, es wird nie zu deinem Wohle sein. Du hast die Wahl: Sie oder ich."</DefaultText>
+Seine Worte sind nun eindeutig an seine ehemalige Kollegin gerichtet. „Ich habe vielleicht meine Zweifel, was dich betrifft, Abgeworfene Hülle, aber ich würde dich nicht für meinen eigenen Vorteil verkaufen. Sie schon. Sie wird dir schöntun und dich mit ihren Geschichten fesseln, aber was sie auch sagt, es wird nie zu deinem Wohle sein. Du hast die Wahl: Sie oder ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Ich habe vielleicht meine Zweifel, was dich betrifft, Abgeworfene Hülle, aber ich würde dich nicht für meinen eigenen Vorteil verkaufen. Sie schon. Sie wird dir schöntun und dich mit ihren Geschichten blenden, aber was sie auch sagt, es wird nie zu deinem Wohle sein. Du hast die Wahl: Sie oder ich."</DefaultText>
+      <DefaultText>„Ich habe vielleicht meine Zweifel, was dich betrifft, Abgeworfene Hülle, aber ich würde dich nicht für meinen eigenen Vorteil verkaufen. Sie schon. Sie wird dir schöntun und dich mit ihren Geschichten blenden, aber was sie auch sagt, es wird nie zu deinem Wohle sein. Du hast die Wahl: Sie oder ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ich möchte mit Callistege gehen."</DefaultText>
+      <DefaultText>„Ich möchte mit Callistege gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Ich komme mit Aligern."</DefaultText>
+      <DefaultText>„Ich komme mit Aligern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,129 +153,129 @@ Seine Worte sind nun eindeutig an seine ehemalige Kollegin gerichtet. "Ich habe 
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Also, das geht doch auf keine Aneenhaut. Du hast ja keine Ahnung, wozu sie fähig ist. Nicht die geringste. Sie ist ein verräterisches Skiststück, und dieser Schlamassel hier beweist es."</DefaultText>
+      <DefaultText>„Also, das geht doch auf keine Aneenhaut. Du hast ja keine Ahnung, wozu sie fähig ist. Nicht die geringste. Sie ist ein verräterisches Skiststück, und dieser Schlamassel hier beweist es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Eigentlich ist mir egal, ob du zum Orden der Wahrheit willst oder nicht. Ich habe ein für alle Mal genug von Aligern, seinem Selbstmitleid, seiner Selbstgerechtigkeit, seiner Schwäche. Schluss damit. Mir reicht's. Wähle einen von uns."</DefaultText>
+      <DefaultText>„Eigentlich ist mir egal, ob du zum Orden der Wahrheit willst oder nicht. Ich habe ein für alle Mal genug von Aligern, seinem Selbstmitleid, seiner Selbstgerechtigkeit, seiner Schwäche. Schluss damit. Mir reicht's. Wähle einen von uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Wie du willst. Wenn du es dir anders überlegt, findest du mich beim Orden der Wahrheit. Aber komm ohne die Heulsuse. Mach's gut, Kind. Viel Glück. Du wirst es brauchen."</DefaultText>
+      <DefaultText>„Wie du willst. Wenn du es dir anders überlegt, findest du mich beim Orden der Wahrheit. Aber komm ohne die Heulsuse. Mach's gut, Kind. Viel Glück. Du wirst es brauchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Auf Nimmerwiedersehen." Er deutet auf die Treppe. "Komm. Wenn, dann finden wir deine Antworten dort oben."</DefaultText>
+      <DefaultText>„Auf Nimmerwiedersehen.“ Er deutet auf die Treppe. „Komm. Wenn, dann finden wir deine Antworten dort oben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ich komme gut allein zurecht. Ich will keinen von euch als Begleiter."</DefaultText>
+      <DefaultText>„Ich komme gut allein zurecht. Ich will keinen von euch als Begleiter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Ergibt Sinn." Er wirft Callistege einen bedeutungsvollen Blick zu. "Wenn du es dir anders überlegt, findest du mich im in der Schattenseite. Ich bin zwar öfter unterwegs, aber ich halte Augen und Ohren nach dir offen."</DefaultText>
+      <DefaultText>„Ergibt Sinn.“ Er wirft Callistege einen bedeutungsvollen Blick zu. „Wenn du es dir anders überlegt, findest du mich im in der Schattenseite. Ich bin zwar öfter unterwegs, aber ich halte Augen und Ohren nach dir offen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Sollte dir dagegen der Sinn nach *gebildeter* Gesellschaft stehen, findest du mich im Orden der Wahrheit. Ich helfe dir gerne. {pause, stern voice}Aber komm ohne Aligern. Mit ihm bin ich endgültig fertig."</DefaultText>
+      <DefaultText>„Sollte dir dagegen der Sinn nach *gebildeter* Gesellschaft stehen, findest du mich im Orden der Wahrheit. Ich helfe dir gerne. {pause, stern voice}Aber komm ohne Aligern. Mit ihm bin ich endgültig fertig.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>{tight, controlled}"Gut. Wenn du es dir anders überlegst – und sie dich nicht in Einzelteilen an die Meistbietenden verkauft hat – findest du mich in der Schattenseite. Aber komm ohne *sie*, klar?"</DefaultText>
+      <DefaultText>{tight, controlled}„Gut. Wenn du es dir anders überlegst – und sie dich nicht in Einzelteilen an die Meistbietenden verkauft hat – findest du mich in der Schattenseite. Aber komm ohne *sie*, klar?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich erzähl dir dann, was du verpasst hast, Aligern. Ich bin sicher, wir werden dich keine Sekunde vermissen." Sie hängt ihren Arm besitzergreifend bei dir ein. "Gehen wir, Kind."</DefaultText>
+      <DefaultText>„Ich erzähl dir dann, was du verpasst hast, Aligern. Ich bin sicher, wir werden dich keine Sekunde vermissen.“ Sie hängt ihren Arm besitzergreifend bei dir ein. „Gehen wir, Kind.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Wir haben eine Welt zu erobern!"</DefaultText>
+      <DefaultText>„Wir haben eine Welt zu erobern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Wir werden finden, was du suchst. Was wir beide suchen."</DefaultText>
+      <DefaultText>„Wir werden finden, was du suchst. Was wir beide suchen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Mach's gut, Kind. Besuch mich mal."</DefaultText>
+      <DefaultText>„Mach's gut, Kind. Besuch mich mal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Das beruht auf Gegenseitigkeit, glaub mir."</DefaultText>
+      <DefaultText>„Das beruht auf Gegenseitigkeit, glaub mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Callistege, hast du Qorro gesagt, was du hier tust?"</DefaultText>
+      <DefaultText>„Callistege, hast du Qorro gesagt, was du hier tust?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Endlich sind wir uns mal einig", knurrt er. "Sie wird dir den Schädel herunterreißen und dabei noch ins Gesicht spucken. Mit mir kommst du nicht nur an dein Ziel, sondern kannst nachts auch noch ruhig schlafen. Es ist deine Entscheidung."</DefaultText>
+      <DefaultText>„Endlich sind wir uns mal einig“, knurrt er. „Sie wird dir den Schädel herunterreißen und dabei noch ins Gesicht spucken. Mit mir kommst du nicht nur an dein Ziel, sondern kannst nachts auch noch ruhig schlafen. Es ist deine Entscheidung.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Denkst du wirklich, dass sie uns verraten wollte, Aligern?"</DefaultText>
+      <DefaultText>„Denkst du wirklich, dass sie uns verraten wollte, Aligern?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>Sie runzelt die Stirn. "Aligern, wenn ich euch verraten wollte, hätte ich etwas Clevereres – und Erfolgversprechenderes – ausgeheckt, als diesen Trottel Qorro auf euch anzusetzen. Wenn ich dich verrate, ist das letzte, was du auf der Welt sieht, mein lachendes Gesicht."</DefaultText>
+      <DefaultText>Sie runzelt die Stirn. „Aligern, wenn ich euch verraten wollte, hätte ich etwas Clevereres – und Erfolgversprechenderes – ausgeheckt, als diesen Trottel Qorro auf euch anzusetzen. Wenn ich dich verrate, ist das letzte, was du auf der Welt sieht, mein lachendes Gesicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Warum könnt ihr mich nicht beide begleiten? Könnt ihr euch nicht zusammenraufen?"</DefaultText>
+      <DefaultText>„Warum könnt ihr mich nicht beide begleiten? Könnt ihr euch nicht zusammenraufen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Sie bricht in Gelächter aus. "Mein lieber Junge, wir raufen jeden Tag. Aligerns Launen, die *Sturheit*, mit der er offensichtliche Tatsachen ignoriert, all das macht mich verrückt. Er ist stark, aber er ist auch *doof*. Reise nur mit ihm. Sieh zu, wie lange du es aushältst. Nicht so lange wie ich, wetten?"</DefaultText>
-      <FemaleText>Sie bricht in Gelächter aus. "Mein liebes Mädchen, wir raufen jeden Tag. Aligerns Launen, die *Sturheit*, mit der er offensichtliche Tatsachen ignoriert, all das macht mich verrückt. Er ist stark, aber er ist auch *doof*. Reise nur mit ihm. Sieh zu, wie lange du es aushältst. Nicht so lange wie ich, wetten?"</FemaleText>
+      <DefaultText>Sie bricht in Gelächter aus. „Mein lieber Junge, wir raufen jeden Tag. Aligerns Launen, die *Sturheit*, mit der er offensichtliche Tatsachen ignoriert, all das macht mich verrückt. Er ist stark, aber er ist auch *doof*. Reise nur mit ihm. Sieh zu, wie lange du es aushältst. Nicht so lange wie ich, wetten?“</DefaultText>
+      <FemaleText>Sie bricht in Gelächter aus. „Mein liebes Mädchen, wir raufen jeden Tag. Aligerns Launen, die *Sturheit*, mit der er offensichtliche Tatsachen ignoriert, all das macht mich verrückt. Er ist stark, aber er ist auch *doof*. Reise nur mit ihm. Sieh zu, wie lange du es aushältst. Nicht so lange wie ich, wetten?“</FemaleText>
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Sein Gesicht verfinstert sich bei ihren Worten, doch er ringt sich ein gequältes Lächeln ab. "Als ob du mir einen Gefallen tust, indem du bei mir bleibst. Denkst du, ich würde bei all deinen Echos dein wahres Ich nicht erkennen? Das bist *du*, Callistege, jede Facette davon. Dein Herz ist kalt wie eh und je, genau so, wie du es präsentierst. Ich dachte, ich könnte dir helfen, aber …"</DefaultText>
+      <DefaultText>Sein Gesicht verfinstert sich bei ihren Worten, doch er ringt sich ein gequältes Lächeln ab. „Als ob du mir einen Gefallen tust, indem du bei mir bleibst. Denkst du, ich würde bei all deinen Echos dein wahres Ich nicht erkennen? Das bist *du*, Callistege, jede Facette davon. Dein Herz ist kalt wie eh und je, genau so, wie du es präsentierst. Ich dachte, ich könnte dir helfen, aber …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Das ist doch absurd. Selbst wenn ich euch verraten wollte, würde ich dafür wohl kaum Qorro anheuern. Das würde ich schon selbst erledigen. Warum den Profit mit einem teuren Söldner teilen?"</DefaultText>
+      <DefaultText>„Das ist doch absurd. Selbst wenn ich euch verraten wollte, würde ich dafür wohl kaum Qorro anheuern. Das würde ich schon selbst erledigen. Warum den Profit mit einem teuren Söldner teilen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Aha. Du gibst also zu, dass du mit ihm Profit machen willst?" Er deutet mit seinem tätowierten Arm auf Callistege. "Ich sagte dir doch, dass man ihr nicht trauen kann. Du hast ja keine Ahnung, wozu sie fähig ist. Nicht die geringste. Sie ist ein verräterisches Skiststück, und dieser Schlamassel hier beweist es."</DefaultText>
-      <FemaleText>"Aha. Du gibst also zu, dass du mit ihr Profit machen willst?" Er deutet mit seinem tätowierten Arm auf Callistege. "Ich sagte dir doch, dass man ihr nicht trauen kann. Du hast ja keine Ahnung, wozu sie fähig ist. Nicht die geringste. Sie ist ein verräterisches Skiststück, und dieser Schlamassel hier beweist es."</FemaleText>
+      <DefaultText>„Aha. Du gibst also zu, dass du mit ihm Profit machen willst?“ Er deutet mit seinem tätowierten Arm auf Callistege. „Ich sagte dir doch, dass man ihr nicht trauen kann. Du hast ja keine Ahnung, wozu sie fähig ist. Nicht die geringste. Sie ist ein verräterisches Skiststück, und dieser Schlamassel hier beweist es.“</DefaultText>
+      <FemaleText>„Aha. Du gibst also zu, dass du mit ihr Profit machen willst?“ Er deutet mit seinem tätowierten Arm auf Callistege. „Ich sagte dir doch, dass man ihr nicht trauen kann. Du hast ja keine Ahnung, wozu sie fähig ist. Nicht die geringste. Sie ist ein verräterisches Skiststück, und dieser Schlamassel hier beweist es.“</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Charmant wie immer, Aligern. Mal angenommen ich würde dich tatsächlich verraten *wollen* – denkst du wirklich, dass ich dazu Qorros Hilfe bräuchte? Das ist dann der Dank dafür, dass ich dein Selbstmitleid, deine Selbstgerechtigkeit, und deine Schwäche so lange ertragen habe. Mir reicht's." Sie wendet sich an dich. "Ich begleite dich gerne, Kind. Aber ich tue keinen *einzigen* Schritt mehr mit diesem paranoiden alten Trottel."</DefaultText>
+      <DefaultText>„Charmant wie immer, Aligern. Mal angenommen ich würde dich tatsächlich verraten *wollen* – denkst du wirklich, dass ich dazu Qorros Hilfe bräuchte? Das ist dann der Dank dafür, dass ich dein Selbstmitleid, deine Selbstgerechtigkeit, und deine Schwäche so lange ertragen habe. Mir reicht's.“ Sie wendet sich an dich. „Ich begleite dich gerne, Kind. Aber ich tue keinen *einzigen* Schritt mehr mit diesem paranoiden alten Trottel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Er schnaubt verbittert. "Du hast ja keine Ahnung, wozu sie fähig ist. Nicht die geringste. Sie ist ein verräterisches Skiststück, sage ich dir."</DefaultText>
+      <DefaultText>Er schnaubt verbittert. „Du hast ja keine Ahnung, wozu sie fähig ist. Nicht die geringste. Sie ist ein verräterisches Skiststück, sage ich dir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Du bist wirklich unausstehlich, Aligern. Du musst immer und überall das Schlechteste in einer Situation sehen. Weißt du überhaupt, wie lange ich deinen Schmerz schon ertrage? Wie oft ich mich von deinen selbstgerechten Blicken abwenden musste? Aber du hast recht. Mir reicht's."
+      <DefaultText>„Du bist wirklich unausstehlich, Aligern. Du musst immer und überall das Schlechteste in einer Situation sehen. Weißt du überhaupt, wie lange ich deinen Schmerz schon ertrage? Wie oft ich mich von deinen selbstgerechten Blicken abwenden musste? Aber du hast recht. Mir reicht's.“
 
-Sie wendet sich an dich. "Ich begleite dich gerne, Kind. Aber ich tue keinen *einzigen* Schritt mehr mit diesem paranoiden alten Trottel."</DefaultText>
+Sie wendet sich an dich. „Ich begleite dich gerne, Kind. Aber ich tue keinen *einzigen* Schritt mehr mit diesem paranoiden alten Trottel.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,80 +290,80 @@ Sie wendet sich an dich. "Ich begleite dich gerne, Kind. Aber ich tue keinen *ei
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Er verschränkt die Arme. "Na, wenn *das* mal kein Zufall war."</DefaultText>
+      <DefaultText>Er verschränkt die Arme. „Na, wenn *das* mal kein Zufall war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"*Das* war ein Fiasko. Zumindest hat es dir einige Wertsachen gebracht. Ich muss zugeben, der Wandelnde Gott hätte an deiner Stelle genauso gehandelt …" Er verschränkt die Arme. "Na, hoffentlich hast du daraus gelernt. Man kann ihr nicht trauen. In keiner Realität."</DefaultText>
+      <DefaultText>„*Das* war ein Fiasko. Zumindest hat es dir einige Wertsachen gebracht. Ich muss zugeben, der Wandelnde Gott hätte an deiner Stelle genauso gehandelt …“ Er verschränkt die Arme. „Na, hoffentlich hast du daraus gelernt. Man kann ihr nicht trauen. In keiner Realität.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>{affronted}"Wie bitte? Willst du etwa andeuten, dass *ich* etwas mit Qorros Plänen zu tun hätte?"</DefaultText>
+      <DefaultText>{affronted}„Wie bitte? Willst du etwa andeuten, dass *ich* etwas mit Qorros Plänen zu tun hätte?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Willst du etwa andeuten, dass es nicht so ist? War wohl nur *Zufall*, dass dein alter Freund und seine Kumpel auf uns gewartet hat, ausgerechnet nachdem wir den größten Fund gemacht haben, den das Riff seit Jahren gesehen hat? *Nie im Leben*."</DefaultText>
+      <DefaultText>„Willst du etwa andeuten, dass es nicht so ist? War wohl nur *Zufall*, dass dein alter Freund und seine Kumpel auf uns gewartet hat, ausgerechnet nachdem wir den größten Fund gemacht haben, den das Riff seit Jahren gesehen hat? *Nie im Leben*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Mich haben sie doch auch angegriffen, du Narr!"</DefaultText>
+      <DefaultText>„Mich haben sie doch auch angegriffen, du Narr!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Nur bis du sie überzeugt hast, dich in Ruhe zu lassen. Glaub nicht, dass ich den Schatten des Verrats nicht bemerkt hätte."</DefaultText>
+      <DefaultText>„Nur bis du sie überzeugt hast, dich in Ruhe zu lassen. Glaub nicht, dass ich den Schatten des Verrats nicht bemerkt hätte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Nun, sie haben dich nicht getötet. Vielleicht sollten sie uns nur schwächen, damit du uns heute Nacht im Schlaf erdolchen kannst."</DefaultText>
+      <DefaultText>„Nun, sie haben dich nicht getötet. Vielleicht sollten sie uns nur schwächen, damit du uns heute Nacht im Schlaf erdolchen kannst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Er wischt Callisteges Einwand beiseite, bevor sie ihn noch aussprechen kann. "Spar dir deine Worte. Tatsache ist, ich vertraue dir nicht mehr – und ich weiß nicht, warum ich es je getan habe. Unsere gemeinsame Reise ist zu Ende. Ich habe genug Sorgen, auch ohne dass ich 28 Stunden am Tag deinen Verrat fürchten muss."
+      <DefaultText>Er wischt Callisteges Einwand beiseite, bevor sie ihn noch aussprechen kann. „Spar dir deine Worte. Tatsache ist, ich vertraue dir nicht mehr – und ich weiß nicht, warum ich es je getan habe. Unsere gemeinsame Reise ist zu Ende. Ich habe genug Sorgen, auch ohne dass ich 28 Stunden am Tag deinen Verrat fürchten muss.“
 
-Er wendet sich an dich. "Kommst du mit, Kid?"</DefaultText>
+Er wendet sich an dich. „Kommst du mit, Kid?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Ich glaube nicht, dass sie uns verraten wollte, Aligern."</DefaultText>
+      <DefaultText>„Ich glaube nicht, dass sie uns verraten wollte, Aligern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Das ist tatsächlich ein seltsamer Zufall, Callistege."</DefaultText>
+      <DefaultText>„Das ist tatsächlich ein seltsamer Zufall, Callistege.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Ihr wollt euch wirklich trennen? Wegen *so etwas*?"</DefaultText>
+      <DefaultText>„Ihr wollt euch wirklich trennen? Wegen *so etwas*?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Sie sahen mich vom Himmel fallen und kamen nachsehen, was los war."</DefaultText>
+      <DefaultText>„Sie sahen mich vom Himmel fallen und kamen nachsehen, was los war.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Sie haben wahllos Passanten überfallen."</DefaultText>
+      <DefaultText>„Sie haben wahllos Passanten überfallen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Denkst du, Callistege hat ihnen von uns erzählt?"</DefaultText>
+      <DefaultText>„Denkst du, Callistege hat ihnen von uns erzählt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"{sarcastic}Na *klar*. Und zufälligerweise schlugen sie genau dann zu, als wir losgingen. {serious}Nein, mein Guter. Callistege hat uns verkauft."</DefaultText>
-      <FemaleText>"{sarcastic}Na *klar*. Und zufälligerweise schlugen sie genau dann zu, als wir losgingen. {serious}Nein, meine Gute. Callistege hat uns verkauft."</FemaleText>
+      <DefaultText>„{sarcastic}Na *klar*. Und zufälligerweise schlugen sie genau dann zu, als wir losgingen. {serious}Nein, mein Guter. Callistege hat uns verkauft.“</DefaultText>
+      <FemaleText>„{sarcastic}Na *klar*. Und zufälligerweise schlugen sie genau dann zu, als wir losgingen. {serious}Nein, meine Gute. Callistege hat uns verkauft.“</FemaleText>
     </Entry>
     <Entry>
       <ID>76</ID>
@@ -372,32 +372,32 @@ Er wendet sich an dich. "Kommst du mit, Kid?"</DefaultText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"{chiding}Na klar, Kid. Haben sie etwa sonst noch jemanden überfallen? Die waren hinter uns her und hinter sonst niemandem. *Irgendjemand* hat uns verraten." Er zeigt diskret auf Callistege.</DefaultText>
+      <DefaultText>„{chiding}Na klar, Kid. Haben sie etwa sonst noch jemanden überfallen? Die waren hinter uns her und hinter sonst niemandem. *Irgendjemand* hat uns verraten.“ Er zeigt diskret auf Callistege.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Also wirklich, von all deinen paranoiden Spinnereien … Du glaubst das wirklich, oder? Du glaubst wirklich, ich würde einen Trottel wie Qorro anheuern, um dir einen Dolch in den Rücken zu stoßen, anstatt dieses Vergnügen selbst zu genießen!"</DefaultText>
+      <DefaultText>„Also wirklich, von all deinen paranoiden Spinnereien … Du glaubst das wirklich, oder? Du glaubst wirklich, ich würde einen Trottel wie Qorro anheuern, um dir einen Dolch in den Rücken zu stoßen, anstatt dieses Vergnügen selbst zu genießen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Siehst du, Junge? Sie liebt es, anderen einen Dolch in den Rücken zu stoßen. Am liebsten, wenn sie schlafen."</DefaultText>
-      <FemaleText>"Siehst du, Mädchen? Sie liebt es, anderen einen Dolch in den Rücken zu stoßen. Am liebsten, wenn sie schlafen."</FemaleText>
+      <DefaultText>„Siehst du, Junge? Sie liebt es, anderen einen Dolch in den Rücken zu stoßen. Am liebsten, wenn sie schlafen.“</DefaultText>
+      <FemaleText>„Siehst du, Mädchen? Sie liebt es, anderen einen Dolch in den Rücken zu stoßen. Am liebsten, wenn sie schlafen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Ich habe ihn doch überredet, uns in Ruhe zu lassen!"</DefaultText>
+      <DefaultText>„Ich habe ihn doch überredet, uns in Ruhe zu lassen!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Natürlich. Nachdem dein Plan offensichtlich nicht funktioniert hat."</DefaultText>
+      <DefaultText>„Natürlich. Nachdem dein Plan offensichtlich nicht funktioniert hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"*Das* war ein Fiasko. Ich bin ehrlich gesagt erstaunt darüber, dass du ihn gehen ließt. Der Wandelnde Gott, den ich kannte, hätte das nicht getan." Er verschränkt die Arme. "Na, hoffentlich hast du daraus gelernt. Man kann ihr nicht trauen. In keiner Realität."</DefaultText>
+      <DefaultText>„*Das* war ein Fiasko. Ich bin ehrlich gesagt erstaunt darüber, dass du ihn gehen ließt. Der Wandelnde Gott, den ich kannte, hätte das nicht getan.“ Er verschränkt die Arme. „Na, hoffentlich hast du daraus gelernt. Man kann ihr nicht trauen. In keiner Realität.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@ Er wendet sich an dich. "Kommst du mit, Kid?"</DefaultText>
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"*Das* war ein Fiasko. Ich hoffe, du hast daraus gelernt. Man kann ihr nicht trauen. In keiner Realität."</DefaultText>
+      <DefaultText>„*Das* war ein Fiasko. Ich hoffe, du hast daraus gelernt. Man kann ihr nicht trauen. In keiner Realität.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,19 +426,19 @@ Er wendet sich an dich. "Kommst du mit, Kid?"</DefaultText>
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Mach's gut, Kind. Besuch mich mal."</DefaultText>
+      <DefaultText>„Mach's gut, Kind. Besuch mich mal.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Wir haben eine Welt zu erobern!"</DefaultText>
+      <DefaultText>„Wir haben eine Welt zu erobern!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Charmant wie immer, Aligern. Das ist der Dank dafür, dass ich dein Selbstmitleid, deine Selbstgerechtigkeit, und deine Schwäche viel zu lange ertragen habe. Mir reicht's."
+      <DefaultText>„Charmant wie immer, Aligern. Das ist der Dank dafür, dass ich dein Selbstmitleid, deine Selbstgerechtigkeit, und deine Schwäche viel zu lange ertragen habe. Mir reicht's.“
 
-Sie wendet sich an dich. "Ich begleite dich gerne, Kind. Aber ich tue keinen *einzigen* Schritt mehr mit diesem paranoiden alten Trottel."</DefaultText>
+Sie wendet sich an dich. „Ich begleite dich gerne, Kind. Aber ich tue keinen *einzigen* Schritt mehr mit diesem paranoiden alten Trottel.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
