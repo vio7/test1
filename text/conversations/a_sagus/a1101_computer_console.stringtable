@@ -50,7 +50,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Du siehst einen riesigen Kristallbogen auf einem zerklüfteten Feld. Der Bogen besteht aus nummerierten rechteckigen Zellen. Alle scheinen durchsichtig und leer, bis auf ...
+      <DefaultText>Du siehst einen riesigen Kristallbogen auf einem zerklüfteten Feld. Der Bogen besteht aus nummerierten rechteckigen Zellen. Alle scheinen durchsichtig und leer, bis auf …
 
 An der Spitze des Bogens pulsiert eine Zelle gleißend smaragdgrün.
 
@@ -176,12 +176,12 @@ Du stößt dir das Schienbein an einem verstärkten Teil des Gehäuses. Dein Sch
       <ID>48</ID>
       <DefaultText>Die Erinnerung kommt. Du stehst vor dem Bogen und siehst vor dir die letzten beiden aktiven Zellen des einst unüberwindbaren Lugum Vo.
 
-„Zelle 29 freigeben“, befiehlst du, und vor dir erscheint ein verbogenes Artefakt. Du nimmst es mit einem Lächeln an dich. In der Zelle hoch über dir geht das Licht aus ...</DefaultText>
+„Zelle 29 freigeben“, befiehlst du, und vor dir erscheint ein verbogenes Artefakt. Du nimmst es mit einem Lächeln an dich. In der Zelle hoch über dir geht das Licht aus …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Du lässt den Blick über den Bogen und die Landschaft schweifen. Für einen Moment scheint die Erinnerung beinahe greifbar. Du hörst einen krächzenden Befehl ... doch das Surren der Motoren der Intelligenz überlagert die Erinnerung.
+      <DefaultText>Du lässt den Blick über den Bogen und die Landschaft schweifen. Für einen Moment scheint die Erinnerung beinahe greifbar. Du hörst einen krächzenden Befehl … doch das Surren der Motoren der Intelligenz überlagert die Erinnerung.
 
 Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise entreißen müssen.</DefaultText>
       <FemaleText />
@@ -286,7 +286,7 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Ein gewaltiger Kristallbogen erhebt sich über einer zerklüfteten grauen Landschaft. Die Luft ist schal und stickig. Und dort, an seinem smaragdgrünen höchsten Punkt ...</DefaultText>
+      <DefaultText>Ein gewaltiger Kristallbogen erhebt sich über einer zerklüfteten grauen Landschaft. Die Luft ist schal und stickig. Und dort, an seinem smaragdgrünen höchsten Punkt …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
