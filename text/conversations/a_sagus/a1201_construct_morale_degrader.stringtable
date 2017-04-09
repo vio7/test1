@@ -131,46 +131,46 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Du Soziopath!", schreit er, während sich sein Gesicht verdüstert. "Das hast du beabsichtigt!"
+      <DefaultText>„Du Soziopath!“, schreit er, während sich sein Gesicht verdüstert. „Das hast du beabsichtigt!“
 
 {SCRIPT: May require a conditional that Aligern was actually hit by it.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Er schnaubt. "Das soll uns helfen? Ich stelle fest, dass du nicht gewillt bist, sie tatsächlich zu *verletzen*."</DefaultText>
+      <DefaultText>Er schnaubt. „Das soll uns helfen? Ich stelle fest, dass du nicht gewillt bist, sie tatsächlich zu *verletzen*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Du Idiot! Du solltest es besser wissen, als fahrlässig mit den Numenera herumzupfuschen." Die meisten ihrer Spiegelbilder halten ihren Kopf oder ihren Bauch vor Schmerzen.
+      <DefaultText>„Du Idiot! Du solltest es besser wissen, als fahrlässig mit den Numenera herumzupfuschen.“ Die meisten ihrer Spiegelbilder halten ihren Kopf oder ihren Bauch vor Schmerzen.
 
 {SCRIPT: May require a conditional that Callistege was actually hit by it.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Du stümperhafter Laak-Schnüffler! Haben wir dich nicht davor gewarnt, mit den Numenera fahrlässig umzugehen?"</DefaultText>
+      <DefaultText>„Du stümperhafter Laak-Schnüffler! Haben wir dich nicht davor gewarnt, mit den Numenera fahrlässig umzugehen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Lass ihn in Ruhe, Aligern. Er ist immer noch neugeboren."</DefaultText>
-      <FemaleText>"Lass sie in Ruhe, Aligern. Sie ist immer noch neugeboren."</FemaleText>
+      <DefaultText>„Lass ihn in Ruhe, Aligern. Er ist immer noch neugeboren.“</DefaultText>
+      <FemaleText>„Lass sie in Ruhe, Aligern. Sie ist immer noch neugeboren.“</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"So wie du, Aligern, der die Leute um sich weinen lässt."</DefaultText>
+      <DefaultText>„So wie du, Aligern, der die Leute um sich weinen lässt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Beeindruckende Kontrolle." In seinem Ausdruck ist jedoch keine Freude zu erkennen.</DefaultText>
+      <DefaultText>„Beeindruckende Kontrolle.“ In seinem Ausdruck ist jedoch keine Freude zu erkennen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Frisch geboren und er ist bereits geschickter und wagemutiger als du, Aligern."</DefaultText>
+      <DefaultText>„Frisch geboren und er ist bereits geschickter und wagemutiger als du, Aligern.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -185,12 +185,12 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Verdammt noch mal, Callistege, dies ist *nicht* der richtige Zeitpunkt für deine Experimente. Wir brauchen hier Hilfe! Es sei denn, du hattest von Anfang an nicht die Absicht, uns zu helfen."</DefaultText>
+      <DefaultText>„Verdammt noch mal, Callistege, dies ist *nicht* der richtige Zeitpunkt für deine Experimente. Wir brauchen hier Hilfe! Es sei denn, du hattest von Anfang an nicht die Absicht, uns zu helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Du bist nicht konzentriert genug, um diese Ausströmungen zu kontrollieren. Hör auf, es zu versuchen, bevor du dich verletzt. Schon wieder."</DefaultText>
+      <DefaultText>„Du bist nicht konzentriert genug, um diese Ausströmungen zu kontrollieren. Hör auf, es zu versuchen, bevor du dich verletzt. Schon wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Sei vorsichtig, verdammt! Du kannst mit diesem Zeug nicht einfach *herumpfuschen*, um zu sehen, was passiert!"</DefaultText>
+      <DefaultText>„Sei vorsichtig, verdammt! Du kannst mit diesem Zeug nicht einfach *herumpfuschen*, um zu sehen, was passiert!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,8 +230,8 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Vielleicht kannst *du* das nicht, mein Lieber. Einige von uns sind in der Lage, klug und wagemutig zu handeln."</DefaultText>
-      <FemaleText>"Vielleicht kannst *du* das nicht, meine Liebe. Einige von uns sind in der Lage, klug und wagemutig zu handeln."</FemaleText>
+      <DefaultText>„Vielleicht kannst *du* das nicht, mein Lieber. Einige von uns sind in der Lage, klug und wagemutig zu handeln.“</DefaultText>
+      <FemaleText>„Vielleicht kannst *du* das nicht, meine Liebe. Einige von uns sind in der Lage, klug und wagemutig zu handeln.“</FemaleText>
     </Entry>
     <Entry>
       <ID>56</ID>
