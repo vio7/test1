@@ -169,13 +169,13 @@ Du brauchst etwas Zeit, bis du bemerkst, dass sie neue, unbekannte Erinnerungen 
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>Der Würfel selber wird kalt und totenstill, dann fängt er an, in deinen Händen auseinanderzubrechen. Du erhälst einige wertvolle Stücke von diesem Gegenstand.</DefaultText>
-      <FemaleText>Der Würfel selber wird kalt und totenstill, dann fängt er an, in deinen Händen auseinanderzubrechen. Du erhälst einige wertvolle Stücke von diesem Gegenstand.</FemaleText>
+      <DefaultText>Der Würfel selber wird kalt und totenstill, dann fängt er an, in deinen Händen auseinanderzubrechen. Du erhältst einige wertvolle Stücke von diesem Gegenstand.</DefaultText>
+      <FemaleText>Der Würfel selber wird kalt und totenstill, dann fängt er an, in deinen Händen auseinanderzubrechen. Du erhältst einige wertvolle Stücke von diesem Gegenstand.</FemaleText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Jeder Schritt passt zu einem bestimmten Teil des Gerätes. Es scheint, dass du die Energiequelle ablösen musst, um den Kern des Gerätes zu rotieren, danach kannst du sicher die Energiequelle wieder angringen und das Gerät einschalten.</DefaultText>
-      <FemaleText>Jeder Schritt passt zu einem bestimmten Teil des Gerätes. Es scheint, dass du die Energiequelle ablösen musst, um den Kern des Gerätes zu rotieren, danach kannst du sicher die Energiequelle wieder angringen und das Gerät einschalten.</FemaleText>
+      <DefaultText>Jeder Schritt passt zu einem bestimmten Teil des Gerätes. Es scheint, dass du die Energiequelle ablösen musst, um den Kern des Gerätes zu rotieren, danach kannst du sicher die Energiequelle wieder anbringen und das Gerät einschalten.</DefaultText>
+      <FemaleText>Jeder Schritt passt zu einem bestimmten Teil des Gerätes. Es scheint, dass du die Energiequelle ablösen musst, um den Kern des Gerätes zu rotieren, danach kannst du sicher die Energiequelle wieder anbringen und das Gerät einschalten.</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
