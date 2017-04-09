@@ -6,14 +6,14 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Vor dir siehst du einen schwarzen, unscheinbaren Apparat. Als du danach greifst, beginnt das Lichterdreieck auf seiner Hülle plötzlich hell zu leuchten und ein Bild erscheint vor deinem geistigen Auge. 
+      <DefaultText>Vor dir siehst du einen schwarzen, unscheinbaren Apparat. Als du danach greifst, beginnt das Lichterdreieck auf seiner Hülle plötzlich hell zu leuchten und ein Bild erscheint vor deinem geistigen Auge.
 
 {SOUND: Optional - we could hear some machine sounds coming to life here, and they could remain in the background throughout the dialogue (until the machine powers down on node 68).}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Die drei Lichter des Apparats drehen sich immer schneller, je näher du kommst. Erneut siehst du ein kurzes Bild des gewaltigen Kristallbogens auf einer Ebene vor deinem geistigen Auge. 
+      <DefaultText>Die drei Lichter des Apparats drehen sich immer schneller, je näher du kommst. Erneut siehst du ein kurzes Bild des gewaltigen Kristallbogens auf einer Ebene vor deinem geistigen Auge.
 
 „Befehlt mir“, haucht die Intelligenz.</DefaultText>
       <FemaleText />
@@ -52,7 +52,7 @@
       <ID>9</ID>
       <DefaultText>Du siehst einen riesigen Kristallbogen auf einem zerklüfteten Feld. Der Bogen besteht aus nummerierten rechteckigen Zellen. Alle scheinen durchsichtig und leer, bis auf ...
 
-An der Spitze des Bogens pulsiert eine Zelle gleißend smaragdgrün. 
+An der Spitze des Bogens pulsiert eine Zelle gleißend smaragdgrün.
 
 An ihrer Seite steht die Ziffer "0".</DefaultText>
       <FemaleText />
@@ -149,7 +149,7 @@ Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lich
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Das unschuldige Pfeifen der Intelligenz hätte dir eine Warnung sein sollen. Du stößt dir deine Zehe an einer unsichtbaren Barriere. 
+      <DefaultText>Das unschuldige Pfeifen der Intelligenz hätte dir eine Warnung sein sollen. Du stößt dir deine Zehe an einer unsichtbaren Barriere.
 
 Diesmal war sie auf den Tritt vorbereitet.</DefaultText>
       <FemaleText />
@@ -160,28 +160,28 @@ Diesmal war sie auf den Tritt vorbereitet.</DefaultText>
 
 „Zellensperre beschädigt“, stöhnt die Intelligenz. Das Lichterdreieck scheint dich mit blendender Intensität an. „Alle Gefangengen verloren. Schließe Lugum Vo.“
 
-Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein interessantes Teil aus dem rauchenden Inneren des Apparats fischst. 
+Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein interessantes Teil aus dem rauchenden Inneren des Apparats fischst.
 {LOOT}
 {SOUND: Optional - Crunching sound as player kicks and breaks the console.}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Du holst zum Tritt aus, als alle drei Lichter plötzlich hell aufleuchten und dich blenden. 
+      <DefaultText>Du holst zum Tritt aus, als alle drei Lichter plötzlich hell aufleuchten und dich blenden.
 
 Du stößt dir das Schienbein an einem verstärkten Teil des Gehäuses. Dein Schmerzenschrei übertönt das hämische Kichern der Intelligenz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Die Erinnerung kommt. Du stehst vor dem Bogen und siehst vor dir die letzten beiden aktiven Zellen des einst unüberwindbaren Lugum Vo. 
+      <DefaultText>Die Erinnerung kommt. Du stehst vor dem Bogen und siehst vor dir die letzten beiden aktiven Zellen des einst unüberwindbaren Lugum Vo.
 
 „Zelle 29 freigeben“, befiehlst du, und vor dir erscheint ein verbogenes Artefakt. Du nimmst es mit einem Lächeln an dich. In der Zelle hoch über dir geht das Licht aus ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Du lässt den Blick über den Bogen und die Landschaft schweifen. Für einen Moment scheint die Erinnerung beinahe greifbar. Du hörst einen krächzenden Befehl ... doch das Surren der Motoren der Intelligenz überlagert die Erinnerung.  
+      <DefaultText>Du lässt den Blick über den Bogen und die Landschaft schweifen. Für einen Moment scheint die Erinnerung beinahe greifbar. Du hörst einen krächzenden Befehl ... doch das Surren der Motoren der Intelligenz überlagert die Erinnerung.
 
 Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise entreißen müssen.</DefaultText>
       <FemaleText />
@@ -242,11 +242,11 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Die Lichter des Apparats leuchten hell auf und fixieren dich dann flackernd. 
+      <DefaultText>Die Lichter des Apparats leuchten hell auf und fixieren dich dann flackernd.
 
 „Zelle 0 wird freigegeben“, faucht die Intelligenz. „Beachtet bitte, dass das Objekt, das Ihr erhalten werdet, vollkommen sicher ist. Keinerlei Grund zur Vorsicht geboten.“ Der seltsame Inhalt von Zelle 0 nimmt vor dir Form an.
 
-„Warnung. Alle Zellen sind nun leer. Schließe Lugum Vo.“ Die Lichter der Intelligenz erlöschen eines nach dem anderen. 
+„Warnung. Alle Zellen sind nun leer. Schließe Lugum Vo.“ Die Lichter der Intelligenz erlöschen eines nach dem anderen.
 {LOOT}
 {DP}
 {SOUND: Machine noise fades out on this node (if it's been present throughout). Ideally, this would happen as the player exits this node or at the start of the next one.}</DefaultText>
@@ -279,7 +279,7 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Das Bild verschwindet. Du starrst in das Lichterdreieck des Apparats. 
+      <DefaultText>Das Bild verschwindet. Du starrst in das Lichterdreieck des Apparats.
 
 „Befehlt mir“, sagt der Apparat, oder besser gesagt, die ihm innewohnende Intelligenz. Aus jedem einzelnen Wort trieft Verachtung für dich.</DefaultText>
       <FemaleText />
@@ -293,7 +293,7 @@ Die Erinnerung ist weg. Du wirst dem Apparat die Erinnerung auf andere Weise ent
       <ID>91</ID>
       <DefaultText>Die drei Lichter pulsieren gereizt. Warme Luft strömt aus den Öffnungen des Apparats. Und dann-
 
-Eine lange Liste von Befehlen rattert durch dein Bewusstsein - viel zu schnell, um sie zu lesen. Du stöhnst, reibst dir die Augen. Die Intelligenz gluckst. 
+Eine lange Liste von Befehlen rattert durch dein Bewusstsein - viel zu schnell, um sie zu lesen. Du stöhnst, reibst dir die Augen. Die Intelligenz gluckst.
 
 „Befehlt mir“, sagt sie selbstzufrieden.
 
@@ -314,7 +314,7 @@ Eine lange Liste von Befehlen rattert durch dein Bewusstsein - viel zu schnell, 
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Die Motoren der Intelligenz brummen aufgebracht, als du dir ihr uraltes Gehäuse genauer ansiehst. 
+      <DefaultText>Die Motoren der Intelligenz brummen aufgebracht, als du dir ihr uraltes Gehäuse genauer ansiehst.
 
 {SOUND: Optional - Machine noise becomes slightly indignant for this node.}</DefaultText>
       <FemaleText />
