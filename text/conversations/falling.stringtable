@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Du arbeitest fieberhaft daran, die Fetzen deiner Schutzkokons miteinander zu verbinden, um mehr Luftwiderstand zu bekommen - aber woher weißt du überhaupt, wie das geht? Du kannst dich an *nichts* erinnern - und das Gewebe reißt und zerbröselt, trocknet aus im schnellen Sturz. Der Wind schreit in deine Ohren.</DefaultText>
+      <DefaultText>Du arbeitest fieberhaft daran, die Fetzen deiner Schutzkokons miteinander zu verbinden, um mehr Luftwiderstand zu bekommen – aber woher weißt du überhaupt, wie das geht? Du kannst dich an *nichts* erinnern – und das Gewebe reißt und zerbröselt, trocknet aus im schnellen Sturz. Der Wind schreit in deine Ohren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Du trägst einen dunklen Anzug, der auf deinen Körper zugeschnitten ist. Du meinst dich daran zu erinnern, dass du vor kurzem etwas wesentlich eleganteres getragen hast. Du hast glatte, hellbraune Haut, fünf Finger an jeder Hand, fünf Zehen an jedem Fuß. Gute Muskeln - stark, aber nicht wuchtig. Deine Hände sind weich, als ob sie noch nie schwere Arbeit geleistet hätten, aber Narben und Verbrennungen auf den Armen und Handgelenken zeigen, dass du nicht immer vorsichtig warst. Aber warum kannst du dich nicht daran erinnern?
+      <DefaultText>Du trägst einen dunklen Anzug, der auf deinen Körper zugeschnitten ist. Du meinst dich daran zu erinnern, dass du vor kurzem etwas wesentlich eleganteres getragen hast. Du hast glatte, hellbraune Haut, fünf Finger an jeder Hand, fünf Zehen an jedem Fuß. Gute Muskeln – stark, aber nicht wuchtig. Deine Hände sind weich, als ob sie noch nie schwere Arbeit geleistet hätten, aber Narben und Verbrennungen auf den Armen und Handgelenken zeigen, dass du nicht immer vorsichtig warst. Aber warum kannst du dich nicht daran erinnern?
 
 Ohne Warnung reißt der Kokon um dich herum auf und fliegt in Fetzen weg.</DefaultText>
       <FemaleText />
@@ -133,7 +133,7 @@ Ohne Warnung reißt der Kokon um dich herum auf und fliegt in Fetzen weg.</Defau
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Es … es ist unscharf. Du warst in einem großen Durchgang, dessen Wände feucht von Tau waren. Die Luft war warm und feucht, als ob du im Atem eines großen Organismus ständest. Du erinnerst dich an Angst und Erheiterung - Lachen durch das Grauen. Was hat dich verfolgt?</DefaultText>
+      <DefaultText>Es … es ist unscharf. Du warst in einem großen Durchgang, dessen Wände feucht von Tau waren. Die Luft war warm und feucht, als ob du im Atem eines großen Organismus ständest. Du erinnerst dich an Angst und Erheiterung – Lachen durch das Grauen. Was hat dich verfolgt?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,7 +215,7 @@ Ohne Warnung reißt der Kokon um dich herum auf und fliegt in Fetzen weg.</Defau
       <ID>47</ID>
       <DefaultText>Es gibt einen Pfad aus schwebenden Steinen, der den See von Osten her kreuzt. Er führt direkt zu der gläsernen Konstruktion, die in offensichtlicher Missachtung der Schwerkraft ebenfalls über dem See schwebt.
 
-Du siehst zwei Leute außen vor dem Gebäude stehen. Eine von ihnen, seltsam unscharf, schaut zu dir hoch und zeigt auf dich. Ihre anderen Hände - Hände? - greifen nach dem Ärmel ihres Begleiters.</DefaultText>
+Du siehst zwei Leute außen vor dem Gebäude stehen. Eine von ihnen, seltsam unscharf, schaut zu dir hoch und zeigt auf dich. Ihre anderen Hände – Hände? – greifen nach dem Ärmel ihres Begleiters.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@ Eine Menge von Farben umhüllt dich und das rauschende Geräusch des Windes wird
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Soweit du deine ausgestreckte Figur sehen kannst, trägst du eine Art hautengen Anzug. Deine Haut ist hellbraun und du scheinst fünf Finger an jeder Hand zu haben. Du fühlst gute Muskelpakete - nicht wuchtig, aber gut definiert. Allerdings kannst du dich selbst nicht weiter untersuchen, ohne die fragile Stabilität, die du gewonnen hast, wieder zu verlieren.</DefaultText>
+      <DefaultText>Soweit du deine ausgestreckte Figur sehen kannst, trägst du eine Art hautengen Anzug. Deine Haut ist hellbraun und du scheinst fünf Finger an jeder Hand zu haben. Du fühlst gute Muskelpakete – nicht wuchtig, aber gut definiert. Allerdings kannst du dich selbst nicht weiter untersuchen, ohne die fragile Stabilität, die du gewonnen hast, wieder zu verlieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -317,9 +317,9 @@ Der Boden kommt beängstigend schnell auf dich zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Er kommt sehr schnell auf dich zu. Direkt unter dir siehst du einen kreisrunden See mit einem kleinen Gebäude in der Mitte. Dieser See bildet das Zentrum eines kleinen Waldes, und im Osten, hinter dem Wald, siehst du Anzeichen von Zivilisation - ob wachsend oder schrumpfend kannst du nicht sagen. In der Richtung ist auch der Rauch einer Stadt zu sehen und du erkennst fliegende Schemen am Horizont. Im Süden erstreckt sich der Wald kilometerweit. Dahinter beginnt jäh ein goldenes Odländ.
+      <DefaultText>Er kommt sehr schnell auf dich zu. Direkt unter dir siehst du einen kreisrunden See mit einem kleinen Gebäude in der Mitte. Dieser See bildet das Zentrum eines kleinen Waldes, und im Osten, hinter dem Wald, siehst du Anzeichen von Zivilisation – ob wachsend oder schrumpfend kannst du nicht sagen. In der Richtung ist auch der Rauch einer Stadt zu sehen und du erkennst fliegende Schemen am Horizont. Im Süden erstreckt sich der Wald kilometerweit. Dahinter beginnt jäh ein goldenes Odländ.
 
-Du hast keine Zeit für weitere Beobachtungen - die Schwerkraft zieht zu gierig an dir.</DefaultText>
+Du hast keine Zeit für weitere Beobachtungen – die Schwerkraft zieht zu gierig an dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,9 +351,9 @@ Du wurdest gejagt. Das Gefühl von Entweihung an einem Ort, der ein Heiligtum se
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Du erinnerst dich daran, eine Fluchtkapsel zu erreichen, und dass eines der tastenden Pseudopods der Kreatur dich erwischt hat, und dann der Sturz -
+      <DefaultText>Du erinnerst dich daran, eine Fluchtkapsel zu erreichen, und dass eines der tastenden Pseudopods der Kreatur dich erwischt hat, und dann der Sturz –
 
-- der Sturz! Du öffnest gerade rechtzeitig deine Augen, um einen Wirbel von Farben um dich herum zu sehen, der deinen Sturz kaum bremst. Dann fahren Todesqualen durch deinen Körper, als ein zerschmetternder Einschlag dich auslöscht. Das letzte, was du hörst, ist das schnell ansteigende Heulen von Energie, und dann …</DefaultText>
+– der Sturz! Du öffnest gerade rechtzeitig deine Augen, um einen Wirbel von Farben um dich herum zu sehen, der deinen Sturz kaum bremst. Dann fahren Todesqualen durch deinen Körper, als ein zerschmetternder Einschlag dich auslöscht. Das letzte, was du hörst, ist das schnell ansteigende Heulen von Energie, und dann …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -385,7 +385,7 @@ Du erinnerst dich daran, dass du durch die Flure eines Ortes gegangen bist, der 
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Wenn du es irgendwie schaffst, alles zu umgehen, was du über Anatomie, Physik und Tod weißt - und du bist überrascht, als dir klar wird, dass du *tatsächlich* etwas darüber weißt - und diesen Sturz überlebst, dann könntest du diese schlafende Macht wieder erwecken, vermutest du.
+      <DefaultText>Wenn du es irgendwie schaffst, alles zu umgehen, was du über Anatomie, Physik und Tod weißt – und du bist überrascht, als dir klar wird, dass du *tatsächlich* etwas darüber weißt – und diesen Sturz überlebst, dann könntest du diese schlafende Macht wieder erwecken, vermutest du.
 
 Aber wie könntest du einen Sturz aus dieser Höhe überleben? Schwerkraft ist eine raue Gebieterin.</DefaultText>
       <FemaleText />
@@ -576,7 +576,7 @@ Und dann …</DefaultText>
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Du schätzt, dass du etwa 100 Kilometer über dem Boden bist. Jedenfalls wenn du davon ausgehst, dass du auf dem sterbenden Mond gestartet bist. Du warst allerdings eine Weile lang bewusstlos - und jetzt sieht es so aus, als wärst du noch 50 Kilometer hoch, vielleicht weniger.</DefaultText>
+      <DefaultText>Du schätzt, dass du etwa 100 Kilometer über dem Boden bist. Jedenfalls wenn du davon ausgehst, dass du auf dem sterbenden Mond gestartet bist. Du warst allerdings eine Weile lang bewusstlos – und jetzt sieht es so aus, als wärst du noch 50 Kilometer hoch, vielleicht weniger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
