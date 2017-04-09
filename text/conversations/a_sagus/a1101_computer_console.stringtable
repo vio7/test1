@@ -140,7 +140,7 @@ An ihrer Seite steht die Ziffer "0".</DefaultText>
       <ID>41</ID>
       <DefaultText>Die Lichter der Intelligenz blinken panisch, bevor du dem Apparat einen festen Tritt versetzt. Etwas im Apparat macht *knacks*.
 
-„Zellensperre beschädigt“, stöhnt die Intelligenz. Das Lichterdreieck scheint dich mit blendender Intensität an. „Alle Gefangengen verloren. Schließe Lugum Vo.“
+„Zellensperre beschädigt“, stöhnt die Intelligenz. Das Lichterdreieck scheint dich mit blendender Intensität an. „Alle Gefangenen verloren. Schließe Lugum Vo.“
 
 Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein Teil aus dem rauchenden Inneren des Apparats fischst.
 {LOOT}
@@ -156,9 +156,9 @@ Diesmal war sie auf den Tritt vorbereitet.</DefaultText>
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Du erwischt die Intelligenz auf dem falschen Fuß. Dein Tritt erschüttert den Apparat und etwas im Gehäuse macht *knacks*.
+      <DefaultText>Du erwischst die Intelligenz auf dem falschen Fuß. Dein Tritt erschüttert den Apparat und etwas im Gehäuse macht *knacks*.
 
-„Zellensperre beschädigt“, stöhnt die Intelligenz. Das Lichterdreieck scheint dich mit blendender Intensität an. „Alle Gefangengen verloren. Schließe Lugum Vo.“
+„Zellensperre beschädigt“, stöhnt die Intelligenz. Das Lichterdreieck scheint dich mit blendender Intensität an. „Alle Gefangenen verloren. Schließe Lugum Vo.“
 
 Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lichter erlöschen, als du ein interessantes Teil aus dem rauchenden Inneren des Apparats fischst.
 {LOOT}
@@ -169,7 +169,7 @@ Neben der von deinem Fuß produzierten Delle öffnet sich eine Luke und die Lich
       <ID>44</ID>
       <DefaultText>Du holst zum Tritt aus, als alle drei Lichter plötzlich hell aufleuchten und dich blenden.
 
-Du stößt dir das Schienbein an einem verstärkten Teil des Gehäuses. Dein Schmerzenschrei übertönt das hämische Kichern der Intelligenz.</DefaultText>
+Du stößt dir das Schienbein an einem verstärkten Teil des Gehäuses. Dein Schmerzensschrei übertönt das hämische Kichern der Intelligenz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
