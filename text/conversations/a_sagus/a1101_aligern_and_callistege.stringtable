@@ -6,10 +6,10 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Oh ja, *offensichtlich*, Callistege.“ Er klingt grimmig und wortkarg. Dann bemerkt er deinen Blick auf sich.  
+      <DefaultText>„Oh ja, *offensichtlich*, Callistege.“ Er klingt grimmig und wortkarg. Dann bemerkt er deinen Blick auf sich.
 
 „Du bist kein gewöhnlicher Sterblicher, so viel ist klar. Sprich.“ Seine Gesichtszüge verhärten sich.</DefaultText>
-      <FemaleText>„Oh ja, *offensichtlich*, Callistege.“ Er klingt grimmig und wortkarg. Dann bemerkt er deinen Blick auf sich.  
+      <FemaleText>„Oh ja, *offensichtlich*, Callistege.“ Er klingt grimmig und wortkarg. Dann bemerkt er deinen Blick auf sich.
 
 „Du bist keine gewöhnliche Sterbliche, so viel ist klar. Sprich.“ Seine Gesichtszüge verhärten sich.</FemaleText>
     </Entry>
@@ -344,7 +344,7 @@ Er seufzt, streicht sich über das Gesicht, versucht, die Fassung zurückzugewin
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>„Hör nicht auf sie. Die Kultisten sind nicht verrückt. Nur exzentrisch.“ 
+      <DefaultText>„Hör nicht auf sie. Die Kultisten sind nicht verrückt. Nur exzentrisch.“
 
 Sie lacht höhnisch, aber er lässt sich nicht beirren. „Sie verehren … nun, sie verehren dich oder deinen Erzeuger. Den Wandelnden Gott. Sie verbringen ihr Leben damit, *solche wie euch* zu verstehen.“</DefaultText>
       <FemaleText />
@@ -998,7 +998,7 @@ Ihre Stimme hallt und du reibst dir die Augen, um sicherzugehen, dass du nicht d
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>„Ich sah dich nur ins Leere starren, während Callistege alle möglichen Wege beschrieb, wie du sterben könntest.“ 
+      <DefaultText>„Ich sah dich nur ins Leere starren, während Callistege alle möglichen Wege beschrieb, wie du sterben könntest.“
 
 Er schnaubt. „Ist mir nur aufgefallen, weil ich dasselbe tat.“</DefaultText>
       <FemaleText />
@@ -1412,7 +1412,7 @@ Mehrere ihrer Ichs zucken mit den Schultern. Sie wendet sich an dich. „Vergib 
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>„Du bist aus unglaublicher Höhe gestürzt. Und doch sprichst du hier mit uns. Weißt du wirklich nicht …“ Er legt den Kopf zur Seite. 
+      <DefaultText>„Du bist aus unglaublicher Höhe gestürzt. Und doch sprichst du hier mit uns. Weißt du wirklich nicht …“ Er legt den Kopf zur Seite.
 
 „Du weißt es also nicht? Langsam denke ich, dass du es doch nicht bist.“</DefaultText>
       <FemaleText />
