@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Diese dicke, schwere Metalltür sieht aus wie neu. Runde Noppen verlaufen in Doppelreihen kreuz und quer über ihre Oberfläche. 
+      <DefaultText>Diese dicke, schwere Metalltür sieht aus wie neu. Runde Noppen verlaufen in Doppelreihen kreuz und quer über ihre Oberfläche.
 
 Als du auf die Tür zugehst, öffnet sich plötzlich eine der Noppen und gibt eine runde Öffnung frei, aus der einige winzige Fäden Synth hervorstreben.</DefaultText>
       <FemaleText />
@@ -33,9 +33,9 @@ Als du auf die Tür zugehst, öffnet sich plötzlich eine der Noppen und gibt ei
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Die metallene Oberfläche ist von winzigen Fäden durchzogen, die mit freiem Auge kaum sichtbar sind. Sie verlaufen ausschließlich in geraden Linien und rechten Winkeln und scheinen bei den runden Noppen zusammenzulaufen. 
+      <DefaultText>Die metallene Oberfläche ist von winzigen Fäden durchzogen, die mit freiem Auge kaum sichtbar sind. Sie verlaufen ausschließlich in geraden Linien und rechten Winkeln und scheinen bei den runden Noppen zusammenzulaufen.
 
-Bei genauerer Betrachtung bemerkst du, dass jede Noppe einzigartig ist - einige haben eine flache Oberfläche, andere sind eigentlich Polygone und einige wenige haben winzige Öffnungen.</DefaultText>
+Bei genauerer Betrachtung bemerkst du, dass jede Noppe einzigartig ist – einige haben eine flache Oberfläche, andere sind eigentlich Polygone und einige wenige haben winzige Öffnungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -62,17 +62,17 @@ Du findest nichts, was nach einem Türöffner aussieht und wenn du die Tür ber�
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Du klopfst ... zuerst vorsichtigm dann fester. Die Tür macht weder ein Geräusch, noch bewegt sie sich in irgendeiner Weise.</DefaultText>
+      <DefaultText>Du klopfst … zuerst vorsichtigm dann fester. Die Tür macht weder ein Geräusch, noch bewegt sie sich in irgendeiner Weise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Niemand zuhause, Liebes. Schon seit Tausenden Jahren nicht mehr." Sie sieht die Tür prüfend an. "Eine meiner Kolleginnen im Orden behauptet, sie hätte die Tür aufbekommen, aber ich glaube ihr nicht."</DefaultText>
+      <DefaultText>„Niemand zuhause, Liebes. Schon seit Tausenden Jahren nicht mehr.“ Sie sieht die Tür prüfend an. „Eine meiner Kolleginnen im Orden behauptet, sie hätte die Tür aufbekommen, aber ich glaube ihr nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Schalldicht, feuerfest, explosionsfest. Anklopfen bringt hier nichts. Die Tür wird sich nicht öffnen ... nicht mal für dich."</DefaultText>
+      <DefaultText>„Schalldicht, feuerfest, explosionsfest. Anklopfen bringt hier nichts. Die Tür wird sich nicht öffnen … nicht mal für dich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -84,7 +84,7 @@ Du findest nichts, was nach einem Türöffner aussieht und wenn du die Tür ber�
       <ID>16</ID>
       <DefaultText>Die flatternden Fasern schießen vor und wickeln sich um das Auge. Für einen Moment erwacht das Auge zum Leben, summt und flüstert, wird warm in deiner Hand. Die Synth-Fasern antworten mit leisen, vibrierenden Tönen. Einen Moment später ziehen sie sich zurück.
 
-Die Tür geht auf und du trittst in die Kammer dahinter ein ...</DefaultText>
+Die Tür geht auf und du trittst in die Kammer dahinter ein …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -104,12 +104,12 @@ Die Tür geht auf und du trittst in die Kammer dahinter ein ...</DefaultText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Ein weiteres Mal wickeln sich die Synth-Fasern um das Auge, kommunizieren kurz mit ihm und ziehen sich dann wieder zurück. Die Tür geht auf und du betrittst die Kammer dahinter ...</DefaultText>
+      <DefaultText>Ein weiteres Mal wickeln sich die Synth-Fasern um das Auge, kommunizieren kurz mit ihm und ziehen sich dann wieder zurück. Die Tür geht auf und du betrittst die Kammer dahinter …</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Diese dicke, schwere Metalltür sieht aus wie neu. Runde Noppen verlaufen in Doppelreihen kreuz und quer über ihre Oberfläche. 
+      <DefaultText>Diese dicke, schwere Metalltür sieht aus wie neu. Runde Noppen verlaufen in Doppelreihen kreuz und quer über ihre Oberfläche.
 
 Wie zuvor geht eine der Noppen auf und einige Synth-Fasern schauen aus dem Loch hervor.</DefaultText>
       <FemaleText />
