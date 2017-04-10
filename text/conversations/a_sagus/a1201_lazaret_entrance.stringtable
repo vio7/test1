@@ -62,7 +62,7 @@ Du findest nichts, was nach einem Türöffner aussieht und wenn du die Tür ber�
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Du klopfst … zuerst vorsichtigm dann fester. Die Tür macht weder ein Geräusch, noch bewegt sie sich in irgendeiner Weise.</DefaultText>
+      <DefaultText>Du klopfst … zuerst vorsichtig, dann fester. Die Tür macht weder ein Geräusch, noch bewegt sie sich in irgendeiner Weise.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
