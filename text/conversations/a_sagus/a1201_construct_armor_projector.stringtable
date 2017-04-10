@@ -222,7 +222,7 @@ Die Linse leuchtet vor jedem Impuls kurz auf. Vielleicht könnte man sie verwend
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Ohne Gegner, auf den er gerichtet werden kann, macht der Apparat keinen offensichtlichen Sinn.</DefaultText>
+      <DefaultText>Ohne Gegner, auf den er gerichtet werden kann, ergibt der Apparat keinen offensichtlichen Sinn.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
