@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Sie breitet ihre schlanken Hände aus. Zarte Spinnweben aus Metalldraht laufen durch ihre Finger, bespickt mit kreisförmigen Knotenpunkten, die zu zielgerichtet aussehen, um nur Schmuckstücke zu sein.
 
-„Der Name ist Anshe,“ sagt sie. „Lady Anshe, aber lass das dich nicht abschrecken. Ich verkaufe seltene Numenera und einen Ort zum ausruhen zu einem fairen Preis. Ich kann auch bestimmte Kleidungsstücke und Ausrüstungen verbessern, aber das ist etwas teurer.“
+„Der Name ist Anshe“, sagt sie. „Lady Anshe, aber lass das dich nicht abschrecken. Ich verkaufe seltene Numenera und einen Ort zum ausruhen zu einem fairen Preis. Ich kann auch bestimmte Kleidungsstücke und Ausrüstungen verbessern, aber das ist etwas teurer.“
 
 Sie richtet ein abwägendes Auge auf dich.</DefaultText>
       <FemaleText />
@@ -16,7 +16,7 @@ Sie richtet ein abwägendes Auge auf dich.</DefaultText>
     <Entry>
       <ID>2</ID>
       <DefaultText>„Willkommen zurück, kleiner Bruder. Brauchst du etwas?“</DefaultText>
-      <FemaleText>„Willkommen zurück, kleiner Bruder. Brauchst du etwas?“</FemaleText>
+      <FemaleText>„Willkommen zurück, kleine Schwester. Brauchst du etwas?“</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -31,7 +31,7 @@ Sie richtet ein abwägendes Auge auf dich.</DefaultText>
     <Entry>
       <ID>5</ID>
       <DefaultText>„Läuft das Geschäft in Miel Avest?“</DefaultText>
-      <FemaleText>„Läuft das Geschäft in Miel Avest?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
@@ -41,18 +41,18 @@ Sie richtet ein abwägendes Auge auf dich.</DefaultText>
     <Entry>
       <ID>7</ID>
       <DefaultText>„Du scheinst nicht verärgert zu sein, dass ich das Portal nach Miel Avest geöffnet habe.“</DefaultText>
-      <FemaleText>„Du scheinst nicht verärgert zu sein, dass ich das Portal nach Miel Avest geöffnet habe.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
       <DefaultText>„Das ist, weil es nie nötig war, es zu schließen. Die Schilde sind schon gut genug.“
 
-Sie verdreht die Augen. „Unsere Brüder und Schwetser machen sich zu viele Sorgen. Muss wohl in der Familie liegen.“</DefaultText>
+Sie verdreht die Augen. „Unsere Brüder und Schwester machen sich zu viele Sorgen. Muss wohl in der Familie liegen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Naja, wenn du es so sagst… nein,“ sagt sie grinsend. „Und normalerweise bin es nicht *ich*, die das Verkaufen erledigt, nicht, wie ich es einmal tat. Zu normalen Zeiten versorge ich wichtige Kunden mit schicken Festmahlen, kreische meine Berater an und schmuggle die komischen, zugeschnittenen Bestellungen ein, bevor der Papierkram auf meinem Schreibtisch landet.“</DefaultText>
+      <DefaultText>„Naja, wenn du es so sagst… nein“, sagt sie grinsend. „Und normalerweise bin es nicht *ich*, die das Verkaufen erledigt, nicht, wie ich es einmal tat. Zu normalen Zeiten versorge ich wichtige Kunden mit schicken Festmahlen, kreische meine Berater an und schmuggle die komischen, zugeschnittenen Bestellungen ein, bevor der Papierkram auf meinem Schreibtisch landet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,23 +73,23 @@ Sie verdreht die Augen. „Unsere Brüder und Schwetser machen sich zu viele Sor
     <Entry>
       <ID>13</ID>
       <DefaultText>„Ich muss mich ausruhen.“</DefaultText>
-      <FemaleText>„Ich muss mich ausruhen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Wir suchen einen Platz zum Rasten.“</DefaultText>
-      <FemaleText>„Wir suchen einen Platz zum Rasten.“</FemaleText>
+      <DefaultText>„Ich suche einen Platz zum Rasten.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Also gut,“ sagt sie. „Es wird dich [Global: b3301_AnsheRestCost] Shin kosten. Du bekommst hier den besten Rast deine Lebens, versprochen. Der Kummer kann dich nicht verfolgen, wenn du hier unten bettest.“
+      <DefaultText>„Also gut“, sagt sie. „Es wird dich [Global: b3301_AnsheRestCost] Shin kosten. Du bekommst hier die beste Rast deines Lebens, versprochen. Der Kummer kann dich nicht verfolgen, wenn du hier unten bettest.“
 {MONEY}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Nun, den habt ihr gefunden“, sagt sie. „Es kostet [Global: b3301_AnsheRestCost] Shin pro Nacht.“</DefaultText>
-      <FemaleText>„Nun, den habt ihr gefunden“, sagt sie. „Es kostet [Global: b3301_AnsheRestCost] Shin pro Nacht.“</FemaleText>
+      <DefaultText>„Nun, den hast du gefunden“, sagt sie. „Es kostet [Global: b3301_AnsheRestCost] Shin pro Nacht.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
@@ -99,12 +99,12 @@ Sie verdreht die Augen. „Unsere Brüder und Schwetser machen sich zu viele Sor
     <Entry>
       <ID>18</ID>
       <DefaultText>„So viel Geld habe ich derzeit nicht.“</DefaultText>
-      <FemaleText>„So viel Geld habe ich derzeit nicht.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>„Vergiss es.“</DefaultText>
-      <FemaleText>„Vergiss es.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
@@ -129,12 +129,12 @@ Sie verdreht die Augen. „Unsere Brüder und Schwetser machen sich zu viele Sor
     <Entry>
       <ID>24</ID>
       <DefaultText>„Du hast wohl viel Kundschaft, wo doch die Endlose Schlacht fortwährt.“</DefaultText>
-      <FemaleText>„Du hast wohl viel Kundschaft, wo doch die Endlose Schlacht fortwährt.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>„Das weiß ich nicht,“ sagt sie vorischtig. „Ich ergreife keine Parteien oder Meinungen zu diesem Konflikt. Schlecht für's Geschäft, Parteien.“</DefaultText>
-      <FemaleText>„Das weiß ich nicht,“ sagt sie vorischtig. „Ich ergreife keine Parteien oder Meinungen zu diesem Konflikt. Schlecht für's Geschäft, Parteien.“</FemaleText>
+      <DefaultText>„Das weiß ich nicht“, sagt sie vorsichtig. „Ich ergreife keine Parteien oder Meinungen zu diesem Konflikt. Schlecht fürs Geschäft, Parteien.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -144,21 +144,21 @@ Sie verdreht die Augen. „Unsere Brüder und Schwetser machen sich zu viele Sor
     <Entry>
       <ID>28</ID>
       <DefaultText>„Kannst du mich daran erinnern, was du über den Reliquienschein gesagt hast?“</DefaultText>
-      <FemaleText>„Kannst du mich daran erinnern, was du über den Reliquienschein gesagt hast?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
       <DefaultText>„Weißt du irgendetwas anderes über den Reliquienschrein?“</DefaultText>
-      <FemaleText>„Weißt du irgendetwas anderes über den Reliquienschrein?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Es wird gemunkelt, dass er eine allerletzte Verteidigung gegen den Kummer ist,“ sagt sie. „Aber das ist nur ein Gerücht. Kann dir nicht sagen, ob es Wahrheit oder nur Wunschdenken ist.“</DefaultText>
-      <FemaleText>„Es wird gemunkelt, dass er eine allerletzte Verteidigung gegen den Kummer ist,“ sagt sie. „Aber das ist nur ein Gerücht. Kann dir nicht sagen, ob es Wahrheit oder nur Wunschdenken ist.“</FemaleText>
+      <DefaultText>„Es wird gemunkelt, dass er eine allerletzte Verteidigung gegen den Kummer ist.“, sagt sie. „Aber das ist nur ein Gerücht. Kann dir nicht sagen, ob es Wahrheit oder nur Wunschdenken ist.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>„Das hässlige Ding hat dein Interesse geweckt, was?“ sagt sie. „Aber nein. Da kann ich dir nicht helfen.“</DefaultText>
+      <DefaultText>„Das hässliche Ding hat dein Interesse geweckt, was?“, sagt sie. „Aber nein. Da kann ich dir nicht helfen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -169,22 +169,22 @@ Sie verdreht die Augen. „Unsere Brüder und Schwetser machen sich zu viele Sor
     <Entry>
       <ID>33</ID>
       <DefaultText>„Kann ich mir deine Numenera ansehen?“</DefaultText>
-      <FemaleText>„Kann ich mir deine Numenera ansehen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
       <DefaultText>„Kann ich mir noch mal deine Numenera ansehen?“</DefaultText>
-      <FemaleText>„Kann ich mir noch mal deine Numenera ansehen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
       <DefaultText>„Klar“, sagt sie. „Sieh dich ruhig um.“</DefaultText>
-      <FemaleText>„Klar“, sagt sie. „Sieh dich ruhig um.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
       <DefaultText>„Na klar“, sagt sie.</DefaultText>
-      <FemaleText>„Na klar“, sagt sie.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
@@ -194,16 +194,16 @@ Sie verdreht die Augen. „Unsere Brüder und Schwetser machen sich zu viele Sor
     <Entry>
       <ID>38</ID>
       <DefaultText>„Reden wir über die Verbesserungen, die du erwähnt hast.“</DefaultText>
-      <FemaleText>„Reden wir über die Verbesserungen, die du erwähnt hast.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
       <DefaultText>„Sprechen wir noch mal über diese Verbesserungen.“</DefaultText>
-      <FemaleText>„Sprechen wir noch mal über diese Verbesserungen.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Sichere Sache,“ sagt sie. „Aber falls ich mich vorhin nicht klar ausgedrückt habe, ich kann nicht viel mit dem anstellen, was *du* trägst. Das ist schon recht gut, so, wie es ist.“
+      <DefaultText>„Sichere Sache“, sagt sie. „Aber falls ich mich vorhin nicht klar ausgedrückt habe, ich kann nicht viel mit dem anstellen, was *du* trägst. Das ist schon recht gut, so, wie es ist.“
 
 Sie kratzt sich am Kinn. „Deinen Freunden, andererseits, kann ich helfen. Wer braucht etwas?“</DefaultText>
       <FemaleText />
@@ -211,22 +211,22 @@ Sie kratzt sich am Kinn. „Deinen Freunden, andererseits, kann ich helfen. Wer 
     <Entry>
       <ID>41</ID>
       <DefaultText>„Klar“, sagt sie und stemmt die Hände in die Hüften. „Wer hat Bedarf an meinen Künsten?“</DefaultText>
-      <FemaleText>„Klar“, sagt sie und stemmt die Hände in die Hüften. „Wer hat Bedarf an meinen Künsten?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>„Matkina.“</DefaultText>
-      <FemaleText>„Matkina.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
       <DefaultText>„Rhin.“</DefaultText>
-      <FemaleText>„Rhin.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
       <DefaultText>„Tybir.“</DefaultText>
-      <FemaleText>„Tybir.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
@@ -236,12 +236,12 @@ Sie kratzt sich am Kinn. „Deinen Freunden, andererseits, kann ich helfen. Wer 
     <Entry>
       <ID>46</ID>
       <DefaultText>„Ich muss gehen. Pass auf dich auf.“</DefaultText>
-      <FemaleText>„Ich muss gehen. Pass auf dich auf.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>„Ich möchte über etwas anderes reden.“</DefaultText>
-      <FemaleText>„Ich möchte über etwas anderes reden.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
@@ -251,39 +251,38 @@ Sie kratzt sich am Kinn. „Deinen Freunden, andererseits, kann ich helfen. Wer 
     <Entry>
       <ID>49</ID>
       <DefaultText>„Callistege.“</DefaultText>
-      <FemaleText>„Callistege.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>„Erritis.“</DefaultText>
-      <FemaleText>„Erritis.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
       <DefaultText>„Aligern.“</DefaultText>
-      <FemaleText>„Aligern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
       <DefaultText>„Willst du mir etwa damit etwas sagen?“
 {ALIGERN}</DefaultText>
-      <FemaleText>„Willst du mir etwa damit etwas sagen?“
-{ALIGERN}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
       <DefaultText>„Wahrscheinlich.“ Anshe grinst und betrachtet deinen Gefährten. Ich könnte vielleicht deine Veste und deinen Mantel verstärken. Etwas Futter aus meiner eigenen Gestaltung zufügen. Das würde dann [Global: b3301_AnsheAligernUpgradeArmorCost] Shin kosten.“</DefaultText>
-      <FemaleText>„Wahrscheinlich.“ Anshe grinst und betrachtet deinen Gefährten. Ich könnte vielleicht deine Veste und deinen Mantel verstärken. Etwas Futter aus meiner eigenen Gestaltung zufügen. Das würde dann [Global: b3301_AnsheAligernUpgradeArmorCost] Shin kosten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
       <DefaultText>„Natürlich“, sagt sie.</DefaultText>
-      <FemaleText>„Natürlich“, sagt sie.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
       <DefaultText>„Lasst uns Aligerns Veste und Mantel verstärken.“</DefaultText>
-      <FemaleText>„Lasst uns Aligerns Veste und Mantel verstärken.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
@@ -293,7 +292,7 @@ Sie kratzt sich am Kinn. „Deinen Freunden, andererseits, kann ich helfen. Wer 
     <Entry>
       <ID>58</ID>
       <DefaultText>„Wird gemacht“, sagt sie und hebt die Hände. Die Nodi in ihren Handflächen leuchten einer nach dem anderen auf und projizieren winzige Nadelstiche aus Licht auf Aligerns Brust.</DefaultText>
-      <FemaleText>„Wird gemacht“, sagt sie und hebt die Hände. Die Nodi in ihren Handflächen leuchten einer nach dem anderen auf und projizieren winzige Nadelstiche aus Licht auf Aligerns Brust.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
@@ -308,12 +307,12 @@ Sie kratzt sich am Kinn. „Deinen Freunden, andererseits, kann ich helfen. Wer 
     <Entry>
       <ID>62</ID>
       <DefaultText>„Was sind diese Drähte an deinen Händen?“</DefaultText>
-      <FemaleText>„Was sind diese Drähte an deinen Händen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>„Was sind diese Drähte an deinen Händen noch mal?“</DefaultText>
-      <FemaleText>„Was sind diese Drähte an deinen Händen noch mal?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
@@ -325,12 +324,12 @@ Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben
     <Entry>
       <ID>65</ID>
       <DefaultText>„Werkzeuge“, sagt sie mit einem Schulterzucken. „Ich verwende sie für Maßarbeiten.“</DefaultText>
-      <FemaleText>„Werkzeuge“, sagt sie mit einem Schulterzucken. „Ich verwende sie für Maßarbeiten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
       <DefaultText>„Ich kann mir diese Verbesserungen im Moment nicht leisten.“</DefaultText>
-      <FemaleText>„Ich kann mir diese Verbesserungen im Moment nicht leisten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
@@ -340,7 +339,7 @@ Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben
     <Entry>
       <ID>68</ID>
       <DefaultText>„Zu schade“, sagt sie. „Vielleicht später? Ich werde hier sein!“</DefaultText>
-      <FemaleText>„Zu schade“, sagt sie. „Vielleicht später? Ich werde hier sein!“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
@@ -350,22 +349,22 @@ Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben
     <Entry>
       <ID>70</ID>
       <DefaultText>„Sehen wir uns Verbesserungen für jemand anderen an.“</DefaultText>
-      <FemaleText>„Sehen wir uns Verbesserungen für jemand anderen an.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
       <DefaultText>„Gut. Für wen?“</DefaultText>
-      <FemaleText>„Gut. Für wen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>Er beäugt sie misstrauisch, wie sie über seine Brust flitzen und seine Ausrüstung verändern, aber er nickt dir zu.
 
-„Nett von dir, Kleiner“, sagt er. „Die Reparatur war dringend nötig.“ 
+„Nett von dir, Kleiner“, sagt er. „Die Reparatur war dringend nötig.“
 {ALIGERN}</DefaultText>
       <FemaleText>Er beäugt sie misstrauisch, wie sie über seine Brust flitzen und seine Ausrüstung verändern, aber er nickt dir zu.
 
-„Nett von dir, Kleine“, sagt er. „Die Reparatur war dringend nötig.“ 
+„Nett von dir, Kleine“, sagt er. „Die Reparatur war dringend nötig.“
 {ALIGERN}</FemaleText>
     </Entry>
     <Entry>
@@ -375,12 +374,10 @@ Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Nach einigen Minuten senkt sie die Hände wieder. 
+      <DefaultText>Nach einigen Minuten senkt sie die Hände wieder.
 
 „Schon fertig“, sagt sie. „Wer ist der Nächste?“</DefaultText>
-      <FemaleText>Nach einigen Minuten senkt sie die Hände wieder. 
-
-„Schon fertig“, sagt sie. „Wer ist der Nächste?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
@@ -389,7 +386,7 @@ Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>„Meine 'Ausrüstung' gut so, wie sie ist,“ sagt sie und wölbt eine Augenbraue.
+      <DefaultText>„Meine 'Ausrüstung' gut so, wie sie ist“, sagt sie und wölbt eine Augenbraue.
 {CALLISTEGE}</DefaultText>
       <FemaleText />
     </Entry>
@@ -400,12 +397,12 @@ Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>„Ich brauche keine Verbesserungen!“ verkündet Erritis empört. Er schwankt sofort danach. „Oder?“</DefaultText>
-      <FemaleText>„Ich brauche keine Verbesserungen!“ verkündet Erritis empört. Er schwankt sofort danach. „Oder?“</FemaleText>
+      <DefaultText>„Ich brauche keine Verbesserungen!“, verkündet Erritis empört. Er schwankt sofort danach. „Oder?“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Das könntest du,“ sagt Anshe und runzelt die Stirn, während sie deinen Gefährten betrachtet. Hmm, lass mich einen Blick auf dein Wams und dein Unterhemd werfen. Ich könnte etwas anfangen mit… Spalten? Wahrscheinlich Spalten. Vielleicht Schlitzen.“
+      <DefaultText>„Das könntest du“, sagt Anshe und runzelt die Stirn, während sie deinen Gefährten betrachtet. Hmm, lass mich einen Blick auf dein Wams und dein Unterhemd werfen. Ich könnte etwas anfangen mit… Spalten? Wahrscheinlich Spalten. Vielleicht Schlitzen.“
 
 Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin und wir sind quitt.“</DefaultText>
       <FemaleText />
@@ -413,17 +410,17 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
     <Entry>
       <ID>80</ID>
       <DefaultText>„Gut“, sagt sie. „Woran denkst du?“</DefaultText>
-      <FemaleText>„Gut“, sagt sie. „Woran denkst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
       <DefaultText>„Verbessere bitte Erritis' Kleidung.“</DefaultText>
-      <FemaleText>„Verbessere bitte Erritis' Kleidung.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
       <DefaultText>„Gut“, sagt sie und faltet die von Drähten durchzogenen Finger. „Stillhalten bitte.“</DefaultText>
-      <FemaleText>„Gut“, sagt sie und faltet die von Drähten durchzogenen Finger. „Stillhalten bitte.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
@@ -433,22 +430,20 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
 {ERRITIS}</DefaultText>
       <FemaleText>„Muss ich das?“ sagt er, aber er bietet dir ein Lächeln als die Fäden seiner Kleider sich von allein bewegen.
 
-„Danke dir, mein Freund.“
+„Danke dir, meine Freundin.“
 {ERRITIS}</FemaleText>
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Nach einigen Minuten klatscht sie in die Hände. 
+      <DefaultText>Nach einigen Minuten klatscht sie in die Hände.
 
 „Fertig. Wer ist der Nächste?“</DefaultText>
-      <FemaleText>Nach einigen Minuten klatscht sie in die Hände. 
-
-„Fertig. Wer ist der Nächste?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
       <DefaultText>„Ich habe im Moment nicht genug Geld, um seine Kleider zu verbessern.“</DefaultText>
-      <FemaleText>„Ich habe im Moment nicht genug Geld, um seine Kleider zu verbessern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
@@ -467,29 +462,28 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>„Warum?“ sagt sie und gibt dir einen argwöhnischen Blick. „Ich bin in Ordnung. Alles, was ich besitze, ist in Ordnung.“
+      <DefaultText>„Warum?“, sagt sie und gibt dir einen argwöhnischen Blick. „Ich bin in Ordnung. Alles, was ich besitze, ist in Ordnung.“
 {MATKINA}</DefaultText>
-      <FemaleText>„Warum?“ sagt sie und gibt dir einen argwöhnischen Blick. „Ich bin in Ordnung. Alles, was ich besitze, ist in Ordnung.“
-{MATKINA}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>„Ein bisschen flicken schadet nie, Schwester,“ sagt Anshe sanft. „An den richtigen Orten. Ich könnte dein Kettenhemd verstärken. Nichts großes. And möglicherweise ein paar schützende Kleinteile an deinen Mantel befestigen. Sollte nicht mehr als [Global: b3301_AnsheMatkinaUpgradeArmorCost] Shin kosten.“</DefaultText>
+      <DefaultText>„Ein bisschen flicken schadet nie, Schwester“, sagt Anshe sanft. „An den richtigen Orten. Ich könnte dein Kettenhemd verstärken. Nichts großes. Und möglicherweise ein paar schützende Kleinteile an deinen Mantel befestigen. Sollte nicht mehr als [Global: b3301_AnsheMatkinaUpgradeArmorCost] Shin kosten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
       <DefaultText>„Gut“, sagt sie. „Was brauchst du?“</DefaultText>
-      <FemaleText>„Gut“, sagt sie. „Was brauchst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
       <DefaultText>„Verstärke bitte Matkinas Kettenhemd und verbessere ihren Mantel.“</DefaultText>
-      <FemaleText>„Verstärke bitte Matkinas Kettenhemd und verbessere ihren Mantel.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>„Gerne“ sagt Anshe. Sie dreht einen pulsierenden Nodus auf ihrem Daumen und streckt die Hände in Richtung Matkina aus.</DefaultText>
+      <DefaultText>„Gerne“, sagt Anshe. Sie dreht einen pulsierenden Nodus auf ihrem Daumen und streckt die Hände in Richtung Matkina aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -505,9 +499,7 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
       <DefaultText>Nach wenigen Augenblicken verzieht Anshe das Gesicht und beugt die Daumen.
 
 „Fertig. Wer ist der Nächste?“</DefaultText>
-      <FemaleText>Nach wenigen Augenblicken verzieht Anshe das Gesicht und beugt die Daumen.
-
-„Fertig. Wer ist der Nächste?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
@@ -532,7 +524,7 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
     <Entry>
       <ID>100</ID>
       <DefaultText>„Ich habe im Moment nicht genug Geld, um Matkinas Ausrüstung zu verbessern.“</DefaultText>
-      <FemaleText>„Ich habe im Moment nicht genug Geld, um Matkinas Ausrüstung zu verbessern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
@@ -563,12 +555,11 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
       <ID>106</ID>
       <DefaultText>„Wie?“ sagt sie aufspringend. „Was stimmt nicht mit meiner Kleidung?“
 {RHIN}</DefaultText>
-      <FemaleText>„Wie?“ sagt sie aufspringend. „Was stimmt nicht mit meiner Kleidung?“
-{RHIN}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>„Deine Kleidung ist in Ordnung!“ sagt Anshe und lächelt sie an. „Aber ich könnte ein paar Veränderungen an deiner Jacke und deinem Hemd vornehmen. Nichts Ausgefallenes oder Schweres. Nur ein paar Sachen, die dir gefallen werden.“
+      <DefaultText>„Deine Kleidung ist in Ordnung!“, sagt Anshe und lächelt sie an. „Aber ich könnte ein paar Veränderungen an deiner Jacke und deinem Hemd vornehmen. Nichts Ausgefallenes oder Schweres. Nur ein paar Sachen, die dir gefallen werden.“
 
 Sie schaut zu dir hinauf. „[Global: b3301_AnsheRhinUpgradeCloakCost] Shin. Niemand von uns wird enttäuscht sein.“</DefaultText>
       <FemaleText />
@@ -576,36 +567,34 @@ Sie schaut zu dir hinauf. „[Global: b3301_AnsheRhinUpgradeCloakCost] Shin. Nie
     <Entry>
       <ID>108</ID>
       <DefaultText>„Natürlich“, sagt sie. „Was soll ich tun?“</DefaultText>
-      <FemaleText>„Natürlich“, sagt sie. „Was soll ich tun?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
       <DefaultText>„Verbessere bitte Rhins Kleider.“</DefaultText>
-      <FemaleText>„Verbessere bitte Rhins Kleider.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
       <DefaultText>„Gut“, sagt sie und presst die Handflächen zusammen. Eine warme Linie zeichnet die Ränder ihrer aneinandergepressten Handflächen nach.</DefaultText>
-      <FemaleText>„Gut“, sagt sie und presst die Handflächen zusammen. Eine warme Linie zeichnet die Ränder ihrer aneinandergepressten Handflächen nach.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
       <DefaultText>„Das fühlt sich total seltsam an“, sagt Rhin und starrt auf ihre sich verändernden Kleider. „Aber nicht schlecht!“ Sie lächelt dich nervös an. „Danke.“</DefaultText>
-      <FemaleText>„Das fühlt sich total seltsam an“, sagt Rhin und starrt auf ihre sich verändernden Kleider. „Aber nicht schlecht!“ Sie lächelt dich nervös an. „Danke.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>116</ID>
       <DefaultText>Anshe nimmt die Hände auseinander und senkt sie, wobei ihr Leuchten verblasst.
 
 „Das sollte reichen“, sagt sie. „Wer ist der Nächste?“</DefaultText>
-      <FemaleText>Anshe nimmt die Hände auseinander und senkt sie, wobei ihr Leuchten verblasst.
-
-„Das sollte reichen“, sagt sie. „Wer ist der Nächste?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
       <DefaultText>„Ich habe gerade nicht das Geld, um Rhins Jacke und Hemd zu verbessern.“</DefaultText>
-      <FemaleText>„Ich habe gerade nicht das Geld, um Rhins Jacke und Hemd zu verbessern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
@@ -624,28 +613,28 @@ Sie schaut zu dir hinauf. „[Global: b3301_AnsheRhinUpgradeCloakCost] Shin. Nie
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>„Ich? Warum ich?“ sagt er, dann schnüffelt er an seinem Körper. „Oh. Du wäscht auch die Wäsche?“</DefaultText>
-      <FemaleText>„Ich? Warum ich?“ sagt er, dann schnüffelt er an seinem Körper. „Oh. Du wäscht auch die Wäsche?“</FemaleText>
+      <DefaultText>„Ich? Warum ich?“, sagt er, dann schnüffelt er an seinem Körper. „Oh. Du wäschst auch die Wäsche?“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>„Nicht einmal ansatzweise,“ sagt sie und betrachtet deinen Gefährten mit einem kritischen Blick. „Sein Hemd und sein Mantel sind etwas schwerfällig. Ich könnte die groben Ränder verbessert. Kleine Sache. Das wird dich [Global: b3301_AnsheTybirUpgradeArmorCost] Shin kosten.“</DefaultText>
+      <DefaultText>„Nicht einmal ansatzweise“, sagt sie und betrachtet deinen Gefährten mit einem kritischen Blick. „Sein Hemd und sein Mantel sind etwas schwerfällig. Ich könnte die groben Ränder verbessert. Kleine Sache. Das wird dich [Global: b3301_AnsheTybirUpgradeArmorCost] Shin kosten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
       <DefaultText>„Gut. Was brauchst du?“</DefaultText>
-      <FemaleText>„Gut. Was brauchst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
       <DefaultText>„Verbessere bitte Tybirs Hemd und Umhang.“</DefaultText>
-      <FemaleText>„Verbessere bitte Tybirs Hemd und Umhang.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
       <DefaultText>„So gut wie erledigt“, sagt sie. Sie legt eine geballte Faust in ihre leuchtende Handfläche und murmelt leise. Das Licht wird kräftiger.</DefaultText>
-      <FemaleText>„So gut wie erledigt“, sagt sie. Sie legt eine geballte Faust in ihre leuchtende Handfläche und murmelt leise. Das Licht wird kräftiger.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>128</ID>
@@ -653,19 +642,14 @@ Sie schaut zu dir hinauf. „[Global: b3301_AnsheRhinUpgradeCloakCost] Shin. Nie
 
 „Falls ich am Ende von diesem Hokuspokus nackt vor dir stehe, bist du selbst daran schuld. Und falls nicht… Danke.“
 {TYBIR}</DefaultText>
-      <FemaleText>Tybir sieht dich mit hochgezogener Augenbraue an, während seine Rüstung sich von selbst repariert.
-
-„Falls ich am Ende von diesem Hokuspokus nackt vor dir stehe, bist du selbst daran schuld. Und falls nicht… Danke.“
-{TYBIR}</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
       <DefaultText>Nach einigen Minuten lässt Anshe ihre Faust wieder los. 
 
 „Fertig“, sagt sie. „Wer ist der Nächste?“</DefaultText>
-      <FemaleText>Nach einigen Minuten lässt Anshe ihre Faust wieder los. 
-
-„Fertig“, sagt sie. „Wer ist der Nächste?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
@@ -690,7 +674,7 @@ Sie schaut zu dir hinauf. „[Global: b3301_AnsheRhinUpgradeCloakCost] Shin. Nie
     <Entry>
       <ID>134</ID>
       <DefaultText>„Ich habe im Moment nicht genug Geld, um Tybirs Hemd und Umhang zu verbessern.“</DefaultText>
-      <FemaleText>„Ich habe im Moment nicht genug Geld, um Tybirs Hemd und Umhang zu verbessern.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>135</ID>
@@ -720,13 +704,13 @@ Sie schaut zu dir hinauf. „[Global: b3301_AnsheRhinUpgradeCloakCost] Shin. Nie
     <Entry>
       <ID>140</ID>
       <DefaultText>„Gar kein Problem“, sagt sie. „Was brauchst du sonst noch?“</DefaultText>
-      <FemaleText>„Gar kein Problem“, sagt sie. „Was brauchst du sonst noch?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>„Sieh einer an,“ verkündet die Frau. „Unser eigensinniger Bruder höchstpersönlich.“
+      <DefaultText>„Sieh einer an“, verkündet die Frau. „Unser eigensinniger Bruder höchstpersönlich.“
 {GAVIN: Test this sucker when the previewer's working again.}</DefaultText>
-      <FemaleText>„Sieh einer an,“ verkündet die Frau. „Unsere eigensinnige Schwester höchstpersönlich.“
+      <FemaleText>„Sieh einer an“, verkündet die Frau. „Unsere eigensinnige Schwester höchstpersönlich.“
 {GAVIN: Test this sucker when the previewer's working again.}</FemaleText>
     </Entry>
     <Entry>
@@ -743,8 +727,8 @@ Sie zuckt mit den Schultern. „Seitdem bin ich Lady Anshe. Das hat mir im Laufe
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>„Tut mir Leid, das zu hören. Komm aber zurück wenn du es hast.“</DefaultText>
-      <FemaleText>„Tut mir Leid, das zu hören. Komm aber zurück wenn du es hast.“</FemaleText>
+      <DefaultText>„Tut mir leid, das zu hören. Komm aber zurück wenn du es hast.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
@@ -781,87 +765,73 @@ Sie zuckt mit den Schultern. „Seitdem bin ich Lady Anshe. Das hat mir im Laufe
       <DefaultText>„Aber das muss ich dir ja nicht erklären“, sagt sie. „Qualität hat ihren Preis. Und wer dir etwas anderes weismachen will, knöpft dir am Ende garantiert das Doppelte von dem ab, das du bei mir zahlen würdest.“
 
 Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was brauchst du?“</DefaultText>
-      <FemaleText>„Aber das muss ich dir ja nicht erklären“, sagt sie. „Qualität hat ihren Preis. Und wer dir etwas anderes weismachen will, knöpft dir am Ende garantiert das Doppelte von dem ab, das du bei mir zahlen würdest.“
-
-Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was brauchst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
       <DefaultText>„Aber du weißt, Geld ist zum Ausgeben da“, sagt sie mit einem Funkeln in den Augen. „Du kannst keine Shins ins Jenseits mitnehmen, nicht wahr?“
 
 Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was brauchst du?“</DefaultText>
-      <FemaleText>„Aber du weißt, Geld ist zum Ausgeben da“, sagt sie mit einem Funkeln in den Augen. „Du kannst keine Shins ins Jenseits mitnehmen, nicht wahr?“
-
-Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was brauchst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
       <DefaultText>„Ich will dir nichts vormachen“, sagt sie leise. „Meine Preise sind hoch, aber fair, und meine Arbeit wird das Leben deiner Freunde verlängern. So einfach ist das.“
 
 Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was brauchst du?“</DefaultText>
-      <FemaleText>„Ich will dir nichts vormachen“, sagt sie leise. „Meine Preise sind hoch, aber fair, und meine Arbeit wird das Leben deiner Freunde verlängern. So einfach ist das.“
-
-Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was brauchst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
       <DefaultText>„Sieh dir mein Angebot an“, fügt sie leiser hinzu. „Meine Preise sind hoch, aber du siehst aus, als würden dir deine Freunde am Herzen liegen. Und meine Arbeit wird sie beschützen.“
 
 Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was brauchst du?“</DefaultText>
-      <FemaleText>„Sieh dir mein Angebot an“, fügt sie leiser hinzu. „Meine Preise sind hoch, aber du siehst aus, als würden dir deine Freunde am Herzen liegen. Und meine Arbeit wird sie beschützen.“
-
-Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was brauchst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
       <DefaultText>„Nicht jedermann kann sich meine Preise leisten“, sagt sie. „Aber ich denke, du brauchst, was ich anbiete - hochwertige und robuste Stücke, die noch dazu schick aussehen. Solche Handwerkskunst findest du sonst nirgends in der Neunten Welt.“
 
 Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was brauchst du?“</DefaultText>
-      <FemaleText>„Nicht jedermann kann sich meine Preise leisten“, sagt sie. „Aber ich denke, du brauchst, was ich anbiete - hochwertige und robuste Stücke, die noch dazu schick aussehen. Solche Handwerkskunst findest du sonst nirgends in der Neunten Welt.“
-
-Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was brauchst du?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
       <DefaultText>Sie wirft einen näheren Blick auf deine Kleider. „Eigentlich denke ich nicht, das ich etwas damit anfangen kann. Es ist recht gut so, wie es ist.“ Sie lächelt. „Aber ich habe Verbesserungen im allgemeinen Sinn zu verkaufen. Erzähle es deinen Freunden. Bringe sie hierher.“</DefaultText>
-      <FemaleText>Sie wirft einen näheren Blick auf deine Kleider. „Eigentlich denke ich nicht, das ich etwas damit anfangen kann. Es ist recht gut so, wie es ist.“ Sie lächelt. „Aber ich habe Verbesserungen im allgemeinen Sinn zu verkaufen. Erzähle es deinen Freunden. Bringe sie hierher.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
       <DefaultText>„Einer meiner Gefährten wird von Dämonen irgendeiner Art geplagt. Kann ihn jemand hier helfen?“</DefaultText>
-      <FemaleText>„Einer meiner Gefährten wird von Dämonen irgendeiner Art geplagt. Kann ihn jemand hier helfen?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>„Mir fällt niemand ein, tut mir Leid,“ sagt sie und reibt die Seite ihrer Wange. „Zwischen uns zweien, Verstoßene sind eher daran interessiert, miteinander zu zanken, als der Welt irgendei zunutze sein.“</DefaultText>
+      <DefaultText>„Mir fällt niemand ein, tut mir Leid“, sagt sie und reibt die Seite ihrer Wange. „Zwischen uns zweien, Verstoßene sind eher daran interessiert, miteinander zu zanken, als der Welt irgendwie zunutze zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Sie schaut auf Erritis, der sofort aufhellt - wörtlich und übertragen - , weil er bemerkt wird.
+      <DefaultText>Sie schaut auf Erritis, der sofort aufhellt – wörtlich und übertragen – , weil er bemerkt wird.
 
-„Kann nicht sagen, dass ich je so etwas gesehen häte,“ murmelt sie. „Und niemand von uns ist ein Arzt. Tut mir Leid das sagen zu müssen.“</DefaultText>
-      <FemaleText>Sie schaut auf Erritis, der sofort aufhellt - wörtlich und übertragen - , weil er bemerkt wird.
-
-„Kann nicht sagen, dass ich je so etwas gesehen häte,“ murmelt sie. „Und niemand von uns ist ein Arzt. Tut mir Leid das sagen zu müssen.</FemaleText>
+„Kann nicht sagen, dass ich je so etwas gesehen hätte“, murmelt sie. „Und niemand von uns ist ein Arzt. Tut mir leid das sagen zu müssen.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
       <DefaultText>„Kann mit deiner Ausrüstung nichts anfangen, weißt du noch? Sie ist schon gut genug. Bring aber deine Freunde her, dann reden wir weiter.“</DefaultText>
-      <FemaleText>„Kann mit deiner Ausrüstung nichts anfangen, weißt du noch? Sie ist schon gut genug. Bring aber deine Freunde her, dann reden wir weiter.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
       <DefaultText>Als Lady Anshe fertig ist, nimmt sie die Hände runter.
 
 „Nun, das war's“, sagt sie lächelnd. „Du hast alle Verbesserungen gekauft, die ich anbiete. Vielen Dank für die Aufträge.“</DefaultText>
-      <FemaleText>Als Lady Anshe fertig ist, nimmt sie die Hände runter.
-
-„Nun, das war's“, sagt sie lächelnd. „Du hast alle Verbesserungen gekauft, die ich anbiete. Vielen Dank für die Aufträge.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>„Natürlich ist sie das,“ sagt Anshe und richtet sich auf. „Aber es gibt Perfektion und *maßgeschneiderte* Perfektion.“
+      <DefaultText>„Natürlich ist sie das“, sagt Anshe und richtet sich auf. „Aber es gibt Perfektion und *maßgeschneiderte* Perfektion.“
 
 Sie überfliegt Callisteges Kleid mit einem geübten Auge. „Mir fallen eine Zahl an kleinen, unaufdringlichen Feinheiten ein, die ich an deinem Kleid verbessern könnte, Liebes. Es würde nicht mehr kosten als [Global: b3301_AnsheCallistegeArmorUpgradeCost] Shin.“</DefaultText>
       <FemaleText />
@@ -869,26 +839,24 @@ Sie überfliegt Callisteges Kleid mit einem geübten Auge. „Mir fallen eine Za
     <Entry>
       <ID>166</ID>
       <DefaultText>„Natürlich“, sagt sie. „[Global: b3301_AnsheCallistegeArmorUpgradeCost] Shin und ich mache mich sogleich ans Werk.“</DefaultText>
-      <FemaleText>„Natürlich“, sagt sie. „[Global: b3301_AnsheCallistegeArmorUpgradeCost] Shin und ich mache mich sogleich ans Werk.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
       <DefaultText>„Verbessere bitte Callisteges Robe.“</DefaultText>
-      <FemaleText>„Verbessere bitte Callisteges Robe.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>168</ID>
       <DefaultText>„Natürlich“, sagt sie und hebt ihre Hand. Lichtbänder bilden sich zwischen ihren tanzenden Fingern.</DefaultText>
-      <FemaleText>„Natürlich“, sagt sie und hebt ihre Hand. Lichtbänder bilden sich zwischen ihren tanzenden Fingern.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>169</ID>
       <DefaultText>Sie breitet mit einem resignierten Seufzen die Arme aus, aber sie lächelt dir zu.
 
 „Gewöhnlich mache ich meine Kleider selbst“, sagt sie und keucht, als eine Naht angezogen wird. „Das ist eine nette Abwechslung.“</DefaultText>
-      <FemaleText>Sie breitet mit einem resignierten Seufzen die Arme aus, aber sie lächelt dir zu.
-
-„Gewöhnlich mache ich meine Kleider selbst“, sagt sie und keucht, als eine Naht angezogen wird. „Das ist eine nette Abwechslung.“</FemaleText>
+            <FemaleText />
     </Entry>
     <Entry>
       <ID>170</ID>
@@ -900,19 +868,17 @@ Sie überfliegt Callisteges Kleid mit einem geübten Auge. „Mir fallen eine Za
       <DefaultText>Nach einigen Minuten senkt Anshe die Hände.
 
 „Fertig“, sagt sie. „Noch jemand?“</DefaultText>
-      <FemaleText>Nach einigen Minuten senkt Anshe die Hände.
-
-„Fertig“, sagt sie. „Noch jemand?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
       <DefaultText>„Ich kann mir diese Verbesserungen im Moment nicht leisten.“</DefaultText>
-      <FemaleText>„Ich kann mir diese Verbesserungen im Moment nicht leisten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>„Wie schade. Vielleicht ein ander Mal.“</DefaultText>
-      <FemaleText>„Wie schade. Vielleicht ein ander Mal.“</FemaleText>
+      <DefaultText>„Wie schade. Vielleicht ein anderes Mal.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
@@ -927,17 +893,17 @@ Sie überfliegt Callisteges Kleid mit einem geübten Auge. „Mir fallen eine Za
     <Entry>
       <ID>176</ID>
       <DefaultText>„Was hat der Reliquienschein mir angetan?“</DefaultText>
-      <FemaleText>„Was hat der Reliquienschein mir angetan?“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
       <DefaultText>„Er hat dich natürlich getötet. Das wird er übrigens jedes Mal tun. Frag nur Melmoth dort drüben.“ Die Ecke ihrer Lippe spitzt sich.</DefaultText>
-      <FemaleText>„Er hat dich natürlich getötet. Das wird er übrigens jedes Mal tun. Frag nur Melmoth dort drüben.“ Die Ecke ihrer Lippe spitzt sich.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Sie zuckt mit den Schultern. „Aber das sind keine üblichen Zeiten. Die Leute sagen, dass der Kummer wieder auf der Jagd ist. Ich weiß nicht, ob das wahr ist, aber lieber auf Nummer sicher gehen. Also anstatt dass man die Zeit mit argumentieren verbringt wie *alle* anderen in der Gegend, bin ich wieder zurückgegangen und eine bescheidene Händlerin geworden.“ Sie zwinkert. „Für's Erste.“</DefaultText>
-      <FemaleText>Sie zuckt mit den Schultern. „Aber das sind keine üblichen Zeiten. Die Leute sagen, dass der Kummer wieder auf der Jagd ist. Ich weiß nicht, ob das wahr ist, aber lieber auf Nummer sicher gehen. Also anstatt dass man die Zeit mit argumentieren verbringt wie *alle* anderen in der Gegend, bin ich wieder zurückgegangen und eine bescheidene Händlerin geworden.“ Sie zwinkert. „Für's Erste.“</FemaleText>
+      <DefaultText>Sie zuckt mit den Schultern. „Aber das sind keine üblichen Zeiten. Die Leute sagen, dass der Kummer wieder auf der Jagd ist. Ich weiß nicht, ob das wahr ist, aber lieber auf Nummer sicher gehen. Also anstatt dass man die Zeit mit argumentieren verbringt wie *alle* anderen in der Gegend, bin ich wieder zurückgegangen und eine bescheidene Händlerin geworden.“ Sie zwinkert. „Fürs Erste.“</DefaultText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
@@ -947,17 +913,17 @@ Sie überfliegt Callisteges Kleid mit einem geübten Auge. „Mir fallen eine Za
     <Entry>
       <ID>180</ID>
       <DefaultText>„Ihr kennt mich, Geschwister. Ich habe die besten Waren in Groß-Gavaria.“</DefaultText>
-      <FemaleText>„Ihr kennt mich, Geschwister. Ich habe die besten Waren in Groß-Gavaria.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>181</ID>
       <DefaultText>„Kommt schon. Ich weiß *sicher*, dass manche von euch meine Cypher benutzen könnten.“</DefaultText>
-      <FemaleText>„Kommt schon. Ich weiß *sicher*, dass manche von euch meine Cypher benutzen könnten.“</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>182</ID>
       <DefaultText>„Meine Angebote gehen mit mir, Brüder und Schwester. Nutzt sie aus, während ich noch hier bin.“</DefaultText>
-      <FemaleText>„Meine Angebote gehen mit mir, Brüder und Schwester. Nutzt sie aus, während ich noch hier bin.“</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
