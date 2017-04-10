@@ -52,7 +52,7 @@ Sie verdreht die Augen. „Unsere Brüder und Schwester machen sich zu viele Sor
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Naja, wenn du es so sagst… nein“, sagt sie grinsend. „Und normalerweise bin es nicht *ich*, die das Verkaufen erledigt, nicht, wie ich es einmal tat. Zu normalen Zeiten versorge ich wichtige Kunden mit schicken Festmahlen, kreische meine Berater an und schmuggle die komischen, zugeschnittenen Bestellungen ein, bevor der Papierkram auf meinem Schreibtisch landet.“</DefaultText>
+      <DefaultText>„Na ja, wenn du es so sagst… nein“, sagt sie grinsend. „Und normalerweise bin es nicht *ich*, die das Verkaufen erledigt, nicht, wie ich es einmal tat. Zu normalen Zeiten versorge ich wichtige Kunden mit schicken Festmahlen, kreische meine Berater an und schmuggle die komischen, zugeschnittenen Bestellungen ein, bevor der Papierkram auf meinem Schreibtisch landet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -153,7 +153,7 @@ Sie verdreht die Augen. „Unsere Brüder und Schwester machen sich zu viele Sor
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Es wird gemunkelt, dass er eine allerletzte Verteidigung gegen den Kummer ist.“, sagt sie. „Aber das ist nur ein Gerücht. Kann dir nicht sagen, ob es Wahrheit oder nur Wunschdenken ist.“</DefaultText>
+      <DefaultText>„Es wird gemunkelt, dass er eine allerletzte Verteidigung gegen den Kummer ist“, sagt sie. „Aber das ist nur ein Gerücht. Kann dir nicht sagen, ob es Wahrheit oder nur Wunschdenken ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@ Sie kratzt sich am Kinn. „Deinen Freunden, andererseits, kann ich helfen. Wer 
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Wahrscheinlich.“ Anshe grinst und betrachtet deinen Gefährten. Ich könnte vielleicht deine Veste und deinen Mantel verstärken. Etwas Futter aus meiner eigenen Gestaltung zufügen. Das würde dann [Global: b3301_AnsheAligernUpgradeArmorCost] Shin kosten.“</DefaultText>
+      <DefaultText>„Wahrscheinlich.“ Anshe grinst und betrachtet deinen Gefährten. „Ich könnte vielleicht deine Veste und deinen Mantel verstärken. Etwas Futter aus meiner eigenen Gestaltung zufügen. Das würde dann [Global: b3301_AnsheAligernUpgradeArmorCost] Shin kosten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -402,7 +402,7 @@ Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Das könntest du“, sagt Anshe und runzelt die Stirn, während sie deinen Gefährten betrachtet. Hmm, lass mich einen Blick auf dein Wams und dein Unterhemd werfen. Ich könnte etwas anfangen mit… Spalten? Wahrscheinlich Spalten. Vielleicht Schlitzen.“
+      <DefaultText>„Das könntest du“, sagt Anshe und runzelt die Stirn, während sie deinen Gefährten betrachtet. „Hmm, lass mich einen Blick auf dein Wams und dein Unterhemd werfen. Ich könnte etwas anfangen mit… Spalten? Wahrscheinlich Spalten. Vielleicht Schlitzen.“
 
 Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin und wir sind quitt.“</DefaultText>
       <FemaleText />
@@ -424,11 +424,11 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>„Muss ich das?“ sagt er, aber er bietet dir ein Lächeln als die Fäden seiner Kleider sich von allein bewegen.
+      <DefaultText>„Muss ich das?“, sagt er, aber er bietet dir ein Lächeln als die Fäden seiner Kleider sich von allein bewegen.
 
 „Danke dir, mein Freund.“
 {ERRITIS}</DefaultText>
-      <FemaleText>„Muss ich das?“ sagt er, aber er bietet dir ein Lächeln als die Fäden seiner Kleider sich von allein bewegen.
+      <FemaleText>„Muss ich das?“, sagt er, aber er bietet dir ein Lächeln als die Fäden seiner Kleider sich von allein bewegen.
 
 „Danke dir, meine Freundin.“
 {ERRITIS}</FemaleText>
@@ -553,7 +553,7 @@ Sie verschränkt ihre Arme. „[Global: b3301_AnsheErritisUpgradeArmorCost] Shin
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>„Wie?“ sagt sie aufspringend. „Was stimmt nicht mit meiner Kleidung?“
+      <DefaultText>„Wie?“, sagt sie aufspringend. „Was stimmt nicht mit meiner Kleidung?“
 {RHIN}</DefaultText>
       <FemaleText />
     </Entry>
@@ -646,7 +646,7 @@ Sie schaut zu dir hinauf. „[Global: b3301_AnsheRhinUpgradeCloakCost] Shin. Nie
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Nach einigen Minuten lässt Anshe ihre Faust wieder los. 
+      <DefaultText>Nach einigen Minuten lässt Anshe ihre Faust wieder los.
 
 „Fertig“, sagt sie. „Wer ist der Nächste?“</DefaultText>
       <FemaleText />
@@ -727,7 +727,7 @@ Sie zuckt mit den Schultern. „Seitdem bin ich Lady Anshe. Das hat mir im Laufe
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>„Tut mir leid, das zu hören. Komm aber zurück wenn du es hast.“</DefaultText>
+      <DefaultText>„Tut mir leid, das zu hören. Komm aber zurück, wenn du es hast.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -807,7 +807,7 @@ Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was br
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>„Mir fällt niemand ein, tut mir Leid“, sagt sie und reibt die Seite ihrer Wange. „Zwischen uns zweien, Verstoßene sind eher daran interessiert, miteinander zu zanken, als der Welt irgendwie zunutze zu sein.“</DefaultText>
+      <DefaultText>„Mir fällt niemand ein, tut mir leid“, sagt sie und reibt die Seite ihrer Wange. „Zwischen uns zweien, Verstoßene sind eher daran interessiert, miteinander zu zanken, als der Welt irgendwie zunutze zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
