@@ -16,10 +16,10 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Qorro atmet schwer und ist bereits schwer verletzt. "Du bist ein harter Bursche, so viel gebe ich zu. Aber ich bin noch nicht fertig." Er holt eine Dose Sprühfleisch hervor und wendet sie schnell auf seine Wunden an.
+      <DefaultText>Qorro atmet schwer und ist bereits schwer verletzt. „Du bist ein harter Bursche, so viel gebe ich zu. Aber ich bin noch nicht fertig.“ Er holt eine Dose Sprühfleisch hervor und wendet sie schnell auf seine Wunden an.
 
 Während er das tut, spürst du ein regeneratives Energiefeld aus dem Konstrukt, das den erholsamen Effekt verbessern könnte. Du spürst eine Kraftwelle wie damals, als du von den Kummer-Fragmenten wegfuhrst. Du kannst die Heilung von Qorro nicht aufhalten, aber du könntest das Feld unterbrechen.</DefaultText>
-      <FemaleText>Qorro atmet schwer und ist bereits schwer verletzt. "Du bist ein harter Bursche, so viel gebe ich zu. Aber ich bin noch nicht fertig." Er holt eine Dose Sprühfleisch hervor und wendet sie schnell auf seine Wunden an.
+      <FemaleText>Qorro atmet schwer und ist bereits schwer verletzt. „Du bist ein harter Bursche, so viel gebe ich zu. Aber ich bin noch nicht fertig.“ Er holt eine Dose Sprühfleisch hervor und wendet sie schnell auf seine Wunden an.
 
 Während er das tut, spürst du ein regeneratives Energiefeld aus dem Konstrukt, das den erholsamen Effekt verbessern könnte. Du spürst eine Kraftwelle wie damals, als du von den Kummer-Fragmenten wegfuhrst. Du kannst die Heilung von Qorro nicht aufhalten, aber du könntest das Feld unterbrechen.</FemaleText>
     </Entry>
@@ -27,12 +27,12 @@ Während er das tut, spürst du ein regeneratives Energiefeld aus dem Konstrukt,
       <ID>5</ID>
       <DefaultText>Qorro eilt seinem verwundeten Verbündeten zu Hilfe.
 
-"Du bist zäh", sagt Qorro. "So viel gebe ich zu. Aber wir sind noch nicht fertig." Er holt eine Dose Sprühfleisch hervor und wendet sie schnell auf die Wunden seines Verbündeten an.
+„Du bist zäh“, sagt Qorro. „So viel gebe ich zu. Aber wir sind noch nicht fertig.“ Er holt eine Dose Sprühfleisch hervor und wendet sie schnell auf die Wunden seines Verbündeten an.
 
 Während er das tut, spürst du ein regeneratives Energiefeld aus dem Konstrukt, das den erholsamen Effekt verbessern könnte. Du spürst eine Kraftwelle wie damals, als du von den Kummer-Fragmenten wegfuhrst. Du kannst Qorros Aktion nicht aufhalten, aber du könntest das Feld unterbrechen.</DefaultText>
       <FemaleText>Qorro eilt seinem verwundeten Verbündeten zu Hilfe.
 
-"Du bist zäh", sagt Qorro. "So viel gebe ich zu. Aber wir sind noch nicht fertig." Er holt eine Dose Sprühfleisch hervor und wendet sie schnell auf die Wunden seines Verbündeten an.
+„Du bist zäh“, sagt Qorro. „So viel gebe ich zu. Aber wir sind noch nicht fertig.“ Er holt eine Dose Sprühfleisch hervor und wendet sie schnell auf die Wunden seines Verbündeten an.
 
 Während er das tut, spürst du ein regeneratives Energiefeld aus dem Konstrukt, das den erholsamen Effekt verbessern könnte. Du spürst eine Kraftwelle wie damals, als du von den Kummer-Fragmenten wegfuhrst. Du kannst Qorros Aktion nicht aufhalten, aber du könntest das Feld unterbrechen.</FemaleText>
     </Entry>
@@ -70,10 +70,10 @@ Während er das tut, spürst du ein regeneratives Energiefeld aus dem Konstrukt,
       <ID>15</ID>
       <DefaultText>Das regenerative Feld interagiert mit dem Spray und macht es effektiver als sonst.
 
-Qorro grinst. "Habe ich es euch nicht erzählt, Jungs? Ist mir schon einmal passiert. Etwas im Riff, was mit dem Spray interagiert hat, schätze ich. Jetzt schnappt sie euch!"</DefaultText>
+Qorro grinst. „Habe ich es euch nicht erzählt, Jungs? Ist mir schon einmal passiert. Etwas im Riff, was mit dem Spray interagiert hat, schätze ich. Jetzt schnappt sie euch!“</DefaultText>
       <FemaleText>Das regenerative Feld interagiert mit dem Spray und macht es effektiver als sonst.
 
-Qorro grinst. "Habe ich es euch nicht erzählt, Jungs? Ist mir schon einmal passiert. Etwas im Riff, was mit dem Spray interagiert hat, schätze ich. Jetzt schnappt sie euch!"</FemaleText>
+Qorro grinst. „Habe ich es euch nicht erzählt, Jungs? Ist mir schon einmal passiert. Etwas im Riff, was mit dem Spray interagiert hat, schätze ich. Jetzt schnappt sie euch!“</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
@@ -87,18 +87,18 @@ Qorro grinst. "Habe ich es euch nicht erzählt, Jungs? Ist mir schon einmal pass
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Verdammt! Sprühfleisch ist hier normalerweise effektiver!"</DefaultText>
-      <FemaleText>"Verdammt! Sprühfleisch ist hier normalerweise effektiver!"</FemaleText>
+      <DefaultText>„Verdammt! Sprühfleisch ist hier normalerweise effektiver!„</DefaultText>
+      <FemaleText>„Verdammt! Sprühfleisch ist hier normalerweise effektiver!„</FemaleText>
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Tut mir leid, Kumpel. Ich brauche das mehr als du."</DefaultText>
-      <FemaleText>"Tut mir leid, Kumpel. Ich brauche das mehr als du."</FemaleText>
+      <DefaultText>„Tut mir leid, Kumpel. Ich brauche das mehr als du.“</DefaultText>
+      <FemaleText>„Tut mir leid, Kumpel. Ich brauche das mehr als du.“</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Schauen wir jetzt mal, wie hart du bist."</DefaultText>
-      <FemaleText>"Schauen wir jetzt mal, wie hart du bist."</FemaleText>
+      <DefaultText>„Schauen wir jetzt mal, wie hart du bist.“</DefaultText>
+      <FemaleText>„Schauen wir jetzt mal, wie hart du bist.“</FemaleText>
     </Entry>
   </Entries>
 </StringTableFile>
