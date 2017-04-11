@@ -222,27 +222,27 @@
     <Entry>
       <ID>46</ID>
       <DefaultText>"Wir müssen zu Qorros Leichnam! Der in seinem Arm implantierte Apparat, den er nutzte, um die Lichtbrücken zu deaktivieren, ist ungeschützt. Ohne seinen Input werden die Brückenrelais schnell überladen."</DefaultText>
-      <FemaleText>"Wir müssen zu Qorros Leichnam! Der in seinem Arm implantierte Apparat, den er nutzte, um die Lichtbrücken zu deaktivieren, ist ungeschützt. Ohne seinen Input werden die Brückenrelais schnell überladen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
       <DefaultText>["Nun. Es hätte bessere Ergebnisse geben können, das gebe ich zu."]</DefaultText>
-      <FemaleText>["Nun. Es hätte bessere Ergebnisse geben können, das gebe ich zu."]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
       <DefaultText>["Und *so* manipuliert man die Numenera. Noch Fragen?"]</DefaultText>
-      <FemaleText>["Und *so* manipuliert man die Numenera. Noch Fragen?"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>["Du undankbarer, ignoranter Sohn eines Aneen! Pass auf, was du tust!"]</DefaultText>
-      <FemaleText>["Du undankbarer, ignoranter Sohn eines Aneen! Pass auf, was du tust!"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
       <DefaultText>["Greifen wir jetzt auf hinterhältige Tricks zurück, oder was?"]</DefaultText>
-      <FemaleText>["Greifen wir jetzt auf hinterhältige Tricks zurück, oder was?"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
@@ -252,7 +252,7 @@
     <Entry>
       <ID>52</ID>
       <DefaultText>["Ich wusste von dem Moment an, als wir uns kennenlernten, dass du Talent hast!"]</DefaultText>
-      <FemaleText>["Ich wusste von dem Moment an, als wir uns kennenlernten, dass du Talent hast!"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
@@ -267,12 +267,12 @@
     <Entry>
       <ID>55</ID>
       <DefaultText>"Du weißt eine ganze Menge darüber, wie das funktioniert. Ist das ein neuer Trick von dir?"</DefaultText>
-      <FemaleText>"Du weißt eine ganze Menge darüber, wie das funktioniert. Ist das ein neuer Trick von dir?"</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
       <DefaultText>Sie wirft ihm einen finsteren Blick zu. "Halt die Klappe und hilf dabei, es zu entwaffnen, ehe dieses ganze Konstrukt explodiert."</DefaultText>
-      <FemaleText>Sie wirft ihm einen finsteren Blick zu. "Halt die Klappe und hilf dabei, es zu entwaffnen, ehe dieses ganze Konstrukt explodiert."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
@@ -312,22 +312,22 @@
     <Entry>
       <ID>65</ID>
       <DefaultText>["Geistreicher Witz!"]</DefaultText>
-      <FemaleText>["Geistreicher Witz!"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
       <DefaultText>["Wie es scheint, widerspricht die ganze Welt gegen deine Anwesenheit!"]</DefaultText>
-      <FemaleText>["Wie es scheint, widerspricht die ganze Welt gegen deine Anwesenheit!"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
       <DefaultText>["Originelle Antwort!"]</DefaultText>
-      <FemaleText>["Originelle Antwort!"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
       <DefaultText>["Mitten im Kampf verspottest du mich? Aligern, nimm das bitte ernst!"]</DefaultText>
-      <FemaleText>["Mitten im Kampf verspottest du mich? Aligern, nimm das bitte ernst!"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
@@ -357,22 +357,22 @@
     <Entry>
       <ID>74</ID>
       <DefaultText>["So siehst du schon charmanter aus, Aligern. Niemand kann sehen, wie finster du dreinschaust."]</DefaultText>
-      <FemaleText>["So siehst du schon charmanter aus, Aligern. Niemand kann sehen, wie finster du dreinschaust."]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
       <DefaultText>["Sehr witzig, Schwestern. Das nächste Mal wird es eine von *euch* sein."]</DefaultText>
-      <FemaleText>["Sehr witzig, Schwestern. Das nächste Mal wird es eine von *euch* sein."]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
       <DefaultText>["Geh da weg! Dieses Konstrukt ist voller Fallen für die Uneingeweihten!"]</DefaultText>
-      <FemaleText>["Geh da weg! Dieses Konstrukt ist voller Fallen für die Uneingeweihten!"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
       <DefaultText>["Gib Acht, mein Lieber! *Das* passiert, wenn du die Numenera ignorierst!"]</DefaultText>
-      <FemaleText>["Gib Acht, meine Liebe! *Das* passiert, wenn du die Numenera ignorierst!"]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
@@ -382,26 +382,24 @@
     <Entry>
       <ID>79</ID>
       <DefaultText>"Nun, das ist beunruhigend. Sieh, wie die Brückenrelais aufleuchten, jetzt, da Qorro tot ist. Wir sollten diesen Handschuh von ihm abschalten, sonst wird noch einer seiner schmutzigen Tricks vor unserem Gesicht in die Luft gehen."</DefaultText>
-      <FemaleText>"Nun, das ist beunruhigend. Sieh, wie die Brückenrelais aufleuchten, jetzt, da Qorro tot ist. Wir sollten diesen Handschuh von ihm abschalten, sonst wird noch einer seiner schmutzigen Tricks vor unserem Gesicht in die Luft gehen."</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
       <DefaultText>Qorro sackt leblos zu Boden. Der Apparat auf seinem Arm klickt und funkt mit neuer Intensität. Auch die Brückenverbindungen schicken kurze Funken im Takt mit dem Apparat aus.
 
 Die Frequenz der Stöße steigert sich, während du zusiehst. Vielleicht solltest du diesen Apparat von Qorro deaktivieren, ehe etwas Schlimmeres geschieht.</DefaultText>
-      <FemaleText>Qorro sackt leblos zu Boden. Der Apparat auf seinem Arm klickt und funkt mit neuer Intensität. Auch die Brückenverbindungen schicken kurze Funken im Takt mit dem Apparat aus.
-
-Die Frequenz der Stöße steigert sich, während du zusiehst. Vielleicht solltest du diesen Apparat von Qorro deaktivieren, ehe etwas Schlimmeres geschieht.</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
       <DefaultText>[testCaseDisplay2]</DefaultText>
-      <FemaleText>[testCaseDisplay2]</FemaleText>
+      <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
       <DefaultText>[testCaseDisplay1]</DefaultText>
-      <FemaleText>[testCaseDisplay1]</FemaleText>
+      <FemaleText />
     </Entry>
   </Entries>
 </StringTableFile>
