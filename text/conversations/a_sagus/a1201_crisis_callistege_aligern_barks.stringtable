@@ -146,23 +146,23 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>["Du lässt unsere neue Ladung ungeschützt, nur, um deine eigene Haut zu retten? Ich hätte es wohl nicht anders erwarten sollen."]</DefaultText>
+      <DefaultText>[„Du lässt unsere neue Ladung ungeschützt, nur, um deine eigene Haut zu retten? Ich hätte es wohl nicht anders erwarten sollen.“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>["Wie praktisch für dich, so einen Schutz zu finden, gerade da, wo wir überfallen werden!"]</DefaultText>
+      <DefaultText>[„Wie praktisch für dich, so einen Schutz zu finden, gerade da, wo wir überfallen werden!“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>["Gute Arbeit, Verstoßener!"]</DefaultText>
-      <FemaleText>["Gute Arbeit, Verstoßene!"]</FemaleText>
+      <DefaultText>[„Gute Arbeit, Verstoßener!“]</DefaultText>
+      <FemaleText>[„Gute Arbeit, Verstoßene!“]</FemaleText>
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>["Schweig, du Narr! Qorro darf nicht wissen, was er ist!"]</DefaultText>
-      <FemaleText>["Schweig, du Narr! Qorro darf nicht wissen, was sie ist!"]</FemaleText>
+      <DefaultText>[„Schweig, du Narr! Qorro darf nicht wissen, was er ist!“]</DefaultText>
+      <FemaleText>[„Schweig, du Narr! Qorro darf nicht wissen, was sie ist!“]</FemaleText>
     </Entry>
     <Entry>
       <ID>34</ID>
@@ -221,57 +221,57 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Wir müssen zu Qorros Leichnam! Der in seinem Arm implantierte Apparat, den er nutzte, um die Lichtbrücken zu deaktivieren, ist ungeschützt. Ohne seinen Input werden die Brückenrelais schnell überladen."</DefaultText>
+      <DefaultText>„Wir müssen zu Qorros Leichnam! Der in seinem Arm implantierte Apparat, den er nutzte, um die Lichtbrücken zu deaktivieren, ist ungeschützt. Ohne seinen Input werden die Brückenrelais schnell überladen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>["Nun. Es hätte bessere Ergebnisse geben können, das gebe ich zu."]</DefaultText>
+      <DefaultText>[„Nun. Es hätte bessere Ergebnisse geben können, das gebe ich zu.“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>["Und *so* manipuliert man die Numenera. Noch Fragen?"]</DefaultText>
+      <DefaultText>[„Und *so* manipuliert man die Numenera. Noch Fragen?“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>["Du undankbarer, ignoranter Sohn eines Aneen! Pass auf, was du tust!"]</DefaultText>
+      <DefaultText>[„Du undankbarer, ignoranter Sohn eines Aneen! Pass auf, was du tust!“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>["Greifen wir jetzt auf hinterhältige Tricks zurück, oder was?"]</DefaultText>
+      <DefaultText>[„Greifen wir jetzt auf hinterhältige Tricks zurück, oder was?“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>["Keine Sorge, mein Lieber. Du wirst das mit den Numenera mit der Zeit schon hinkriegen."]</DefaultText>
-      <FemaleText>["Keine Sorge, meine Liebe. Du wirst das mit den Numenera mit der Zeit schon hinkriegen."]</FemaleText>
+      <DefaultText>[„Keine Sorge, mein Lieber. Du wirst das mit den Numenera mit der Zeit schon hinkriegen.“]</DefaultText>
+      <FemaleText>[„Keine Sorge, meine Liebe. Du wirst das mit den Numenera mit der Zeit schon hinkriegen.“]</FemaleText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>["Ich wusste von dem Moment an, als wir uns kennenlernten, dass du Talent hast!"]</DefaultText>
+      <DefaultText>[„Ich wusste von dem Moment an, als wir uns kennenlernten, dass du Talent hast!“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Es ist alles gut, mein Lieber! Ich werde dich beschützen!"</DefaultText>
-      <FemaleText>"Es ist alles gut, meine Liebe! Ich werde dich beschützen!"</FemaleText>
+      <DefaultText>„Es ist alles gut, mein Lieber! Ich werde dich beschützen!“</DefaultText>
+      <FemaleText>„Es ist alles gut, meine Liebe! Ich werde dich beschützen!“</FemaleText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>["Aligern! Wir müssen das schnell beenden! Sein Leben hängt an einem seidenen Faden!"]</DefaultText>
-      <FemaleText>["Aligern! Wir müssen das schnell beenden! Ihr Leben hängt an einem seidenen Faden!"]</FemaleText>
+      <DefaultText>[„Aligern! Wir müssen das schnell beenden! Sein Leben hängt an einem seidenen Faden!“]</DefaultText>
+      <FemaleText>[„Aligern! Wir müssen das schnell beenden! Ihr Leben hängt an einem seidenen Faden!“]</FemaleText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Du weißt eine ganze Menge darüber, wie das funktioniert. Ist das ein neuer Trick von dir?"</DefaultText>
+      <DefaultText>„Du weißt eine ganze Menge darüber, wie das funktioniert. Ist das ein neuer Trick von dir?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Sie wirft ihm einen finsteren Blick zu. "Halt die Klappe und hilf dabei, es zu entwaffnen, ehe dieses ganze Konstrukt explodiert."</DefaultText>
+      <DefaultText>Sie wirft ihm einen finsteren Blick zu. „Halt die Klappe und hilf dabei, es zu entwaffnen, ehe dieses ganze Konstrukt explodiert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,32 +301,32 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>["Gut gemacht, mein Lieber! Das wird sie beschäftigen!"]</DefaultText>
-      <FemaleText>["Gut gemacht, meine Liebe! Das wird sie beschäftigen!"]</FemaleText>
+      <DefaultText>[„Gut gemacht, mein Lieber! Das wird sie beschäftigen!“]</DefaultText>
+      <FemaleText>[„Gut gemacht, meine Liebe! Das wird sie beschäftigen!“]</FemaleText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>["Geh da weg, mein Lieber! Bleib hinter mir!"]</DefaultText>
-      <FemaleText>["Geh da weg, meine Liebe! Bleib hinter mir!"]</FemaleText>
+      <DefaultText>[„Geh da weg, mein Lieber! Bleib hinter mir!“]</DefaultText>
+      <FemaleText>[„Geh da weg, meine Liebe! Bleib hinter mir!“]</FemaleText>
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>["Geistreicher Witz!"]</DefaultText>
+      <DefaultText>[„Geistreicher Witz!“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>["Wie es scheint, widerspricht die ganze Welt gegen deine Anwesenheit!"]</DefaultText>
+      <DefaultText>[„Wie es scheint, widerspricht die ganze Welt gegen deine Anwesenheit!“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>["Originelle Antwort!"]</DefaultText>
+      <DefaultText>[„Originelle Antwort!“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>["Mitten im Kampf verspottest du mich? Aligern, nimm das bitte ernst!"]</DefaultText>
+      <DefaultText>[„Mitten im Kampf verspottest du mich? Aligern, nimm das bitte ernst!“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,22 +356,22 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>["So siehst du schon charmanter aus, Aligern. Niemand kann sehen, wie finster du dreinschaust."]</DefaultText>
+      <DefaultText>[„So siehst du schon charmanter aus, Aligern. Niemand kann sehen, wie finster du dreinschaust.“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>["Sehr witzig, Schwestern. Das nächste Mal wird es eine von *euch* sein."]</DefaultText>
+      <DefaultText>[„Sehr witzig, Schwestern. Das nächste Mal wird es eine von *euch* sein.“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>["Geh da weg! Dieses Konstrukt ist voller Fallen für die Uneingeweihten!"]</DefaultText>
+      <DefaultText>[„Geh da weg! Dieses Konstrukt ist voller Fallen für die Uneingeweihten!“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>["Gib Acht, mein Lieber! *Das* passiert, wenn du die Numenera ignorierst!"]</DefaultText>
+      <DefaultText>[„Gib Acht, mein Lieber! *Das* passiert, wenn du die Numenera ignorierst!“]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,7 +381,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Nun, das ist beunruhigend. Sieh, wie die Brückenrelais aufleuchten, jetzt, da Qorro tot ist. Wir sollten diesen Handschuh von ihm abschalten, sonst wird noch einer seiner schmutzigen Tricks vor unserem Gesicht in die Luft gehen."</DefaultText>
+      <DefaultText>„Nun, das ist beunruhigend. Sieh, wie die Brückenrelais aufleuchten, jetzt, da Qorro tot ist. Wir sollten diesen Handschuh von ihm abschalten, sonst wird noch einer seiner schmutzigen Tricks vor unserem Gesicht in die Luft gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
