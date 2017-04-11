@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Sie breitet ihre schlanken Hände aus. Zarte Spinnweben aus Metalldraht laufen durch ihre Finger, bespickt mit kreisförmigen Knotenpunkten, die zu zielgerichtet aussehen, um nur Schmuckstücke zu sein.
 
-„Der Name ist Anshe“, sagt sie. „Lady Anshe, aber lass das dich nicht abschrecken. Ich verkaufe seltene Numenera und einen Ort zum ausruhen zu einem fairen Preis. Ich kann auch bestimmte Kleidungsstücke und Ausrüstungen verbessern, aber das ist etwas teurer.“
+„Der Name ist Anshe“, sagt sie. „Lady Anshe, aber lass das dich nicht abschrecken. Ich verkaufe seltene Numenera und einen Ort zum Ausruhen zu einem fairen Preis. Ich kann auch bestimmte Kleidungsstücke und Ausrüstungen verbessern, aber das ist etwas teurer.“
 
 Sie richtet ein abwägendes Auge auf dich.</DefaultText>
       <FemaleText />
@@ -271,7 +271,7 @@ Sie kratzt sich am Kinn. „Deinen Freunden, andererseits, kann ich helfen. Wer 
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Wahrscheinlich.“ Anshe grinst und betrachtet deinen Gefährten. „Ich könnte vielleicht deine Veste und deinen Mantel verstärken. Etwas Futter aus meiner eigenen Gestaltung zufügen. Das würde dann [Global: b3301_AnsheAligernUpgradeArmorCost] Shin kosten.“</DefaultText>
+      <DefaultText>„Wahrscheinlich.“ Anshe grinst und betrachtet deinen Gefährten. „Ich könnte vielleicht deine Weste und deinen Mantel verstärken. Etwas Futter aus meiner eigenen Gestaltung zufügen. Das würde dann [Global: b3301_AnsheAligernUpgradeArmorCost] Shin kosten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,7 +281,7 @@ Sie kratzt sich am Kinn. „Deinen Freunden, andererseits, kann ich helfen. Wer 
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>„Lasst uns Aligerns Veste und Mantel verstärken.“</DefaultText>
+      <DefaultText>„Lasst uns Aligerns Weste und Mantel verstärken.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@ Sie kratzt sich am Kinn. „Deinen Freunden, andererseits, kann ich helfen. Wer 
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Erfindungen von mir“, sagt sie. „Zusammengeflickt aus allem Möglichen, wie auch alles andere hier. Diese Prachtstücke hier sind mit meinem Kopf verdrahtet - nun, nicht wirklich, mehr im übertragenden Sinne. Ich benutze sie, um wirklich wirklich winzige Dinge zu bauen und zu reparieren.“
+      <DefaultText>„Erfindungen von mir“, sagt sie. „Zusammengeflickt aus allem Möglichen, wie auch alles andere hier. Diese Prachtstücke hier sind mit meinem Kopf verdrahtet – nun, nicht wirklich, mehr im übertragenden Sinne. Ich benutze sie, um wirklich wirklich winzige Dinge zu bauen und zu reparieren.“
 
 Sie strahlt ihre Hände an. „Ich habe sie schon fast so lange wie ich am Leben bin.“</DefaultText>
       <FemaleText />
@@ -790,7 +790,7 @@ Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was br
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>„Nicht jedermann kann sich meine Preise leisten“, sagt sie. „Aber ich denke, du brauchst, was ich anbiete - hochwertige und robuste Stücke, die noch dazu schick aussehen. Solche Handwerkskunst findest du sonst nirgends in der Neunten Welt.“
+      <DefaultText>„Nicht jedermann kann sich meine Preise leisten“, sagt sie. „Aber ich denke, du brauchst, was ich anbiete – hochwertige und robuste Stücke, die noch dazu schick aussehen. Solche Handwerkskunst findest du sonst nirgends in der Neunten Welt.“
 
 Sie klatscht klimpernd ihre reich geschmückten Hände zusammen. „Also. Was brauchst du?“</DefaultText>
       <FemaleText />
