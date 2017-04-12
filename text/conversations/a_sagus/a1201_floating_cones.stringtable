@@ -2,11 +2,11 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\a_sagus\a1201_floating_cones</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>45</EntryCount>
+  <EntryCount>26</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Zwei schwebende Kegel wirbeln und drehen sich wie verrückt umeinander, kichern wie Kinder, die man kitzelt. Die Luft um sie herum riecht nach süßem, verbrannten Laub.
+      <DefaultText>Zwei schwebende Kegel wirbeln und drehen sich wie verrückt umeinander, kichern wie Kinder, die man kitzelt. Die Luft um sie herum riecht nach süßem, verbrannten Laub. 
 
 {SOUND: We should hear the giggling sounds throughout this dialogue, though we should also hear them outside the dialogue when we approach the cones. Alex, I'm not sure how you want to handle this.}</DefaultText>
       <FemaleText />
@@ -23,7 +23,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Was seid Ihr?“</DefaultText>
+      <DefaultText>"Was seid Ihr?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -73,7 +73,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Es gelingt dir, einen der Kegel mit der Fingerspitze zu berühren. „Rorn“, sagt eine Stimme und deine Augen sind nicht mehr deine.
+      <DefaultText>Es gelingt dir, einen der Kegel mit der Fingerspitze zu berühren. "Rorn", sagt eine Stimme und deine Augen sind nicht mehr deine. 
 
 Über dir hängt ein unbekannter Mond, pechschwarz in einem blendend weißen Himmel. Dicke, flache Asteroiden umkreisen ihn wie Blüten im Wind. Tentakel betasten neugierig deinen Knöchel und der heiße Wind riecht nach verbranntem Haar und Kummer.
 
@@ -102,7 +102,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Die Kegel reagieren auf deine Frage mit einer Millisekunde Stille, gefolgt von unkontrolliertem Gekicher.
+      <DefaultText>Die Kegel reagieren auf deine Frage mit einer Millisekunde Stille, gefolgt von unkontrolliertem Gekicher. 
 
 {SOUND: As noted in the text, the giggling should stop of a second, then resume (maybe a little more hysterical at first).}</DefaultText>
       <FemaleText />
@@ -114,26 +114,26 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Sie sind *für* überhaupt nichts da. Sie stammen aus einer früheren Welt.“
+      <DefaultText>"Sie sind *für* überhaupt nichts da. Sie stammen aus einer früheren Welt."
 
-Aligern streicht sich mit der Hand über seine Bartstoppeln. „Gelegentlich machen die Numenera etwas Nützliches. Manchmal drehen sie dich auf links. Und hin und wieder tun sie einfach gar nichts, das auch nur irgendeinen Sinn ergibt.“</DefaultText>
+Aligern streicht sich mit der Hand über seine Bartstoppeln. "Gelegentlich machen die Numenera etwas Nützliches. Manchmal drehen sie dich auf links. Und hin und wieder tun sie einfach gar nichts, das auch nur irgendeinen Sinn ergibt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>„Sie sind *für* überhaupt nichts da. Sie sind hier, seit ich denken kann. Vermutlich länger. Gut möglich, dass sie von einer früheren Welt stammen.“
+      <DefaultText>"Sie sind *für* überhaupt nichts da. Sie sind hier, seit ich denken kann. Vermutlich länger. Gut möglich, dass sie von einer früheren Welt stammen."
 
-Aligern streicht sich mit der Hand über seine Bartstoppeln. „Gelegentlich machen die Numenera etwas Nützliches. Dann wieder kehren sie deine Welt auf den Kopf. Und manchmal tun sie einfach gar nichts, das auch nur irgendeinen Sinn ergibt.“</DefaultText>
+Aligern streicht sich mit der Hand über seine Bartstoppeln. "Gelegentlich machen die Numenera etwas Nützliches. Dann wieder kehren sie deine Welt auf den Kopf. Und manchmal tun sie einfach gar nichts, das auch nur irgendeinen Sinn ergibt."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Sie haben vielleicht einen Zweck“, sagt Callistege. „Aber den werden wir beide nicht herausfinden. Sie stammen von einer früheren Welt oder überhaupt von einem noch viel fremderen Ort.“</DefaultText>
+      <DefaultText>"Sie haben vielleicht einen Zweck", sagt Callistege. "Aber den werden wir beide nicht herausfinden. Sie stammen von einer früheren Welt oder überhaupt von einem noch viel fremderen Ort.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>„Dasselbe habe ich oft genug über dich gesagt, mein Lieber“, murmelt Callistege.</DefaultText>
+      <DefaultText>"Dasselbe habe ich oft genug über dich gesagt, mein Lieber", murmelt Callistege.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,102 +143,7 @@ Aligern streicht sich mit der Hand über seine Bartstoppeln. „Gelegentlich mac
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Wofür seid ihr da?“</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>37</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>38</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>39</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>40</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>41</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>42</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>43</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>44</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>45</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>46</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>47</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>48</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>49</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>50</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>51</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>52</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>53</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>54</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>55</ID>
-      <DefaultText />
+      <DefaultText>"Wofür seid ihr da?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

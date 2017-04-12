@@ -57,9 +57,9 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Smaragdgrünes Licht sammelt sich an der Spitze des Gebäudes zu einem gleißenden Lichtstrahl, der direkt auf deine ausgestreckte Hand zielt.
+      <DefaultText>Smaragdgrünes Licht sammelt sich an der Spitze des Gebäudes zu einem gleißenden Lichtstrahl, der direkt auf deine ausgestreckte Hand zielt. 
 
-Du ziehst die Hand zurück und der Lichtstrahl fährt dampfend in das Wasser unter dir ein, ohne Schaden anzurichten. Das düstere Licht vom Obelisken her verblasst langsam.
+Du ziehst die Hand zurück und der Lichtstrahl fährt dampfend in das Wasser unter dir ein, ohne Schaden anzurichten. Das düstere Licht vom Obelisken her verblasst langsam. 
 
 {SCRIPT: This needs to call LaunchProxyAbility(oei_user, LaserSourceNode, 0)}
 {SOUND: Laser sound effect.}</DefaultText>
@@ -67,7 +67,7 @@ Du ziehst die Hand zurück und der Lichtstrahl fährt dampfend in das Wasser unt
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Ein Lichtstrahl schießt von der Spitze des Monuments, durchbohrt deine Hand und reißt dir das Handgelenk auf. Du schreist vor Schmerz und taumelst zurück.
+      <DefaultText>Ein Lichtstrahl schießt von der Spitze des Monuments, durchbohrt deine Hand und reißt dir das Handgelenk auf. Du schreist vor Schmerz und taumelst zurück. 
 
 {DAMAGE}
 {SCRIPT: This needs to call LaunchProxyAbilityAtPlayer(oei_user, LaserSourceNode)}
@@ -76,7 +76,7 @@ Du ziehst die Hand zurück und der Lichtstrahl fährt dampfend in das Wasser unt
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Du hebst die Hand und erneut erscheint das smaragdgrüne Licht aus dem Inneren des Monuments. Deine Instinkte übernehmen die Kontrolle und du ziehst die Hand weg. Du kannst dem Lichtstrahl in letzter Sekunde ausweichen.
+      <DefaultText>Du hebst die Hand und erneut erscheint das smaragdgrüne Licht aus dem Inneren des Monuments. Deine Instinkte übernehmen die Kontrolle und du ziehst die Hand weg. Du kannst dem Lichtstrahl in letzter Sekunde ausweichen. 
 
 {SOUND: Laser sound effect.}</DefaultText>
       <FemaleText />
@@ -98,23 +98,23 @@ Du ziehst die Hand zurück und der Lichtstrahl fährt dampfend in das Wasser unt
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>„Ich kannte mal einen, der hat getan, was du vorhast“, bemerkt Aligern beiläufig. „Ein Aeon-Priester. Ein Lichtstrahl kam von der Spitze dieses Dings und er fing ihn in einem Kristallgitter ein. Leider hat der zweite Strahl ihm dann das Gesicht weggebrannt.“
+      <DefaultText>"Ich kannte mal einen, der hat getan, was du vorhast", bemerkt Aligern beiläufig. "Ein Aeon-Priester. Ein Lichtstrahl kam von der Spitze dieses Dings und er fing ihn in einem Kristallgitter ein. Leider hat der zweite Strahl ihm dann das Gesicht weggebrannt."
 
-„Aber du wirst schon wissen, was du tust.“</DefaultText>
+"Aber du wirst schon wissen, was du tust."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Sei vorsichtig mit diesem Gerät, Liebes. Es hat die Angewohnheit, Leute, die ihm zu nahe kommen, mit Lichtstrahlen zu durchbohren.“
+      <DefaultText>"Sei vorsichtig mit diesem Gerät, Liebes. Es hat die Angewohnheit, Leute, die ihm zu nahe zu kommen, mit Lichtstrahlen zu durchbohren."
 
-Ihre Augen glänzen bei der Erinnerung. „Ich kannte mal einen hübschen jungen Aeon-Priester, der schaffte es, einen Strahl in einer Kristallkette einzufangen. Er sah *so* zufrieden aus. Allerdings nur in der einen Realität. In allen anderen hat der Strahl seinen Kopf durchbohrt. Danach war er nicht mehr ganz so hübsch – und nicht mehr ganz so lebendig.“</DefaultText>
+Ihre Augen glänzen bei der Erinnerung. "Ich kannte mal einen hübschen jungen Aeon-Priester, der schaffte es, einen Strahl in einer Kristallkette einzufangen. Er sah *so* zufrieden aus. Allerdings nur in der einen Realität. In allen anderen hat der Strahl seinen Kopf durchbohrt. Danach war er nicht mehr ganz so hübsch - und nicht mehr ganz so lebendig."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Ach, sei still. Der arme Priester starb wenigstens beim Versuch, seine Neugier zu befriedigen, und irrte nicht ewig in Selbstmitleid versunken die Küste entlang.“
+      <DefaultText>"Ach, sei still. Der arme Priester starb wenigstens beim Versuch, seine Neugier zu befriedigen, und irrte nicht ewig in Selbstmitleid versunken die Küste entlang."
 
-„Tu, was du tun musst“, sagt sie zu dir, unbeirrt vom tödlichen Blick, den ihr Aligern zuwirft. „Aber sei vorsichtig.“</DefaultText>
+"Tu, was du tun musst", sagt sie zu dir, unbeirrt vom tödlichen Blick, den ihr Aligern zuwirft. "Aber sei vorsichtig."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,7 +124,7 @@ Ihre Augen glänzen bei der Erinnerung. „Ich kannte mal einen hübschen jungen
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Vorsichtig zielst du mit der Scherbe auf den Obelisken. Ein superheißer Lichtstrahl schießt von seiner Spitze in den Kristall, der in deiner Hand vibriert und warm und grün leuchtet.
+      <DefaultText>Vorsichtig zielst du mit der Scherbe auf den Obelisken. Ein superheißer Lichtstrahl schießt von seiner Spitze in den Kristall, der in deiner Hand vibriert und warm und grün leuchtet. 
 
 {ANIM: Green laser shoots player... or just in front of player. As [B] or [C] priority, the player could stretch out his hand, wielding the crystal shard, and the beam hits the shard.}
 {SOUND: Laser sound effect.}
@@ -177,14 +177,14 @@ Ihre Augen glänzen bei der Erinnerung. „Ich kannte mal einen hübschen jungen
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Aligern schnaubt.
+      <DefaultText>Aligern schnaubt. 
 
-„Hoffe, das war's wert.“</DefaultText>
+"Hoffe, das war's wert."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Man kann Finger auch auf weniger schmerzhafte Arten loswerden, Liebes. Wenn es das ist, was du möchtest.“</DefaultText>
+      <DefaultText>"Man kann Finger auch auf weniger schmerzhafte Arten loswerden, Liebes. Wenn es das ist, was du möchtest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,55 +201,55 @@ Ihre Augen glänzen bei der Erinnerung. „Ich kannte mal einen hübschen jungen
       <ID>33</ID>
       <DefaultText>Aligern pfeift anerkennend.
 
-„Sieht man nicht oft, dass einer dem Licht so geschickt ausweicht.“</DefaultText>
+"Sieht man nicht oft, dass einer dem Licht so geschickt ausweicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Pass bitte auf deine hübschen Hände auf. Finger wachsen schließlich nicht auf Bäumen.“</DefaultText>
+      <DefaultText>"Pass bitte auf deine hübschen Hände auf. Finger wachsen schließlich nicht auf Bäumen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Ich kannte mal einen, der hat getan, was du vorhast“, bemerkt Aligern beiläufig. „Ein Aeon-Priester. Ein Strahl kam von der Spitze dieses Dings und brannte ihm das Gesicht weg. Aber seine Kristallkette gibt seither ein ganz gutes Nachtlicht ab.“
+      <DefaultText>"Ich kannte mal einen, der hat getan, was du vorhast", bemerkt Aligern beiläufig. "Ein Aeon-Priester. Ein Strahl kam von der Spitze dieses Dings und brannte ihm das Gesicht weg. Aber seine Kristallkette gibt seither ein ganz gutes Nachtlicht ab."
 
-„Aber hey, du wirst schon wissen, was du tust.“</DefaultText>
+"Aber hey, du wirst schon wissen, was du tust."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
       <DefaultText>Aligern pfeift anerkennend.
 
-„Sieht man nicht oft, dass einer dem Licht so geschickt ausweicht.“</DefaultText>
+"Sieht man nicht oft, dass einer dem Licht so geschickt ausweicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Pass bitte auf deine hübschen Hände auf. Finger wachsen schließlich nicht auf Bäumen.“</DefaultText>
+      <DefaultText>"Pass bitte auf deine hübschen Hände auf. Finger wachsen schließlich nicht auf Bäumen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>Aligern schnaubt.
+      <DefaultText>Aligern schnaubt. 
 
-„Hoffe, das war's wert.“</DefaultText>
+"Hoffe, das war's wert."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>„Man kann Finger auch auf weniger schmerzhafte Arten loswerden, Liebes. Wenn es das ist, was du möchtest.“</DefaultText>
+      <DefaultText>"Man kann Finger auch auf weniger schmerzhafte Arten loswerden, Liebes. Wenn es das ist, was du möchtest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Aligern schnaubt.
+      <DefaultText>Aligern schnaubt. 
 
-„Hoffe, das war's wert.“</DefaultText>
+"Hoffe, das war's wert."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Man kann Finger auch auf weniger schmerzhafte Arten loswerden, Liebes. Wenn es das ist, was du möchtest.“</DefaultText>
+      <DefaultText>"Man kann Finger auch auf weniger schmerzhafte Arten loswerden, Liebes. Wenn es das ist, was du möchtest."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -284,14 +284,14 @@ Ihre Augen glänzen bei der Erinnerung. „Ich kannte mal einen hübschen jungen
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Du legst deine Hand auf die Oberfläche des Obelisken. Ein gleißender smaragdgrüner Lichtstrahl schießt von der Spitze des Gebäudes und trifft dich in der Brust.
+      <DefaultText>Du legst deine Hand auf die Oberfläche des Obelisken. Ein gleißender smaragdgrüner Lichtstrahl schießt von der Spitze des Gebäudes und trifft dich in der Brust. 
 
 Was dann folgt, ist sehr unangenehm, aber zum Glück recht schnell vorbei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Das Licht wird intensiver und sammelt sich an einem Punkt bei der Spitze des Apparats. Du spürst, wie du Gänsehaut bekommst.
+      <DefaultText>Das Licht wird intensiver und sammelt sich an einem Punkt bei der Spitze des Apparats. Du spürst, wie du Gänsehaut bekommst. 
 
 Instinktiv ziehst du die Hand zurück. Das Gefühl und das Licht verblassen.</DefaultText>
       <FemaleText />

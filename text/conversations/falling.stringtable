@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Eine weiß-rosa Hülle umgibt dich. Noch während du schaust, beginnt sie zu reißen und der heulende Wind drängt hinein. Die Hülle wird fortgerissen und du drehst dich in einen schwindelerregenden Sturz. Kurz siehst du einen gekrümmten Horizont, und den Boden, auf den du dich täuschend schnell hinzubewegst. Über dir siehst du, wie ein kleiner Mond in sich selbst zusammenfällt, während eine Korona von ätzend grüner und schwarzer Energie um seine Ränder lodert.</DefaultText>
+      <DefaultText>Eine weiß-rosa Hülle umgibt dich. Noch während du schaust, beginnt sie zureißen und der heulende Wind drängt hinein. Die Hülle wird fortgerissen und du drehst dich in einen schwindelerregenden Sturz. Kurz siehst du einen gekrümmten Horizon, und den Boden, auf den du dich täuschend schnell hinzubewegst. Über dir siehst du, wie ein kleiner Mond in sich selbst zusammenfällt, während eine Korona von ätzend grüner und schwarzer Energie um seine Ränder lodert.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Um dich herum ist nichts, womit du dich abbremsen könntest. Allerdings haben deine Bemühungen dich ohne Absicht stabilisiert, sodass du deine Situation einschätzen kannst.</DefaultText>
+      <DefaultText>Um dich herum ist nichts, womit du dich abbremsen könntest. Allerdings haben deine Bemühungen dich ohne Absicht stabiliert, sodass du deine Situation einschätzen kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Unter dir siehst du eine einzelne, große Landmasse, ein riesiges Stück Land, das sich über das Angesicht der Welt zieht. Der Rest der Welt wird von einem gewaltigen Ozean beherrscht, der nur an einzelnen Stellen von kleinen Inselketten durchbrochen wird. Zu deiner linken und rechten siehst du kleine Monde, ungewöhnliche Konstruktionen und seltsame Maschinen, die in glitzerndem Überfluss an dir vorbeisausen, während du auf den Boden zu stürzt.</DefaultText>
+      <DefaultText>Unter dir siehst du eine einzelne, große Landmasse, ein riesiges Stück Land, das sich über das Angesicht der Welt zieht. Der Rest der Welt wird von einem gewaltigen Ozean beherrscht, der nur an einzelnen Stellen von kleinen Inselketten durchbrochen wird. Zu deiner linken und rechten siehst du kleine Monde, ungewöhnliche Konstruktionen und seltsame Maschinen, die in glitzerndem Überfluss an dir vorbeisausen, während du  auf den Boden zu stürzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,12 +116,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Du arbeitest fieberhaft daran, die Fetzen deiner Schutzkokons miteinander zu verbinden, um mehr Luftwiderstand zu bekommen – aber woher weißt du überhaupt, wie das geht? Du kannst dich an *nichts* erinnern – und das Gewebe reißt und zerbröselt, trocknet aus im schnellen Sturz. Der Wind schreit in deine Ohren.</DefaultText>
+      <DefaultText>Du arbeitest fieberhaft daran, die Fetzen deiner Schutzkokons miteinander zu verbinden, um mehr Luftwiderstand zu bekommen - aber woher weißt du überhaupt, wie das geht? Du kannst dich an *nichts* erinnern - und das Gewebe reißt und zerbröselt, trocknet aus im schnellen Sturz. Der Wind schreit in deine Ohren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Du trägst einen dunklen Anzug, der auf deinen Körper zugeschnitten ist. Du meinst dich daran zu erinnern, dass du vor kurzem etwas wesentlich eleganteres getragen hast. Du hast glatte, hellbraune Haut, fünf Finger an jeder Hand, fünf Zehen an jedem Fuß. Gute Muskeln – stark, aber nicht wuchtig. Deine Hände sind weich, als ob sie noch nie schwere Arbeit geleistet hätten, aber Narben und Verbrennungen auf den Armen und Handgelenken zeigen, dass du nicht immer vorsichtig warst. Aber warum kannst du dich nicht daran erinnern?
+      <DefaultText>Du trägst einen dunklen Anzug, der auf deinen Körper zugeschnitten ist. Du meinst dich daran zu erinnern, dass du vor kurzem etwas wesentlich eleganteres getragen hast. Du hast glatte, hellbraune Haut, fünf Finger an jeder Hand, fünf Zehen an jedem Fuß. Gute Muskeln - stark, aber nicht wuchtig. Deine Hände sind weich, als ob sie noch nie schwere Arbeit geleistet hätten, aber Narben und Verbrennungen auf den Armen und Handgelenken zeigen, dass du nicht immer vorsichtig warst. Aber warum kannst du dich nicht daran erinnern?
 
 Ohne Warnung reißt der Kokon um dich herum auf und fliegt in Fetzen weg.</DefaultText>
       <FemaleText />
@@ -133,12 +133,12 @@ Ohne Warnung reißt der Kokon um dich herum auf und fliegt in Fetzen weg.</Defau
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Es … es ist unscharf. Du warst in einem großen Durchgang, dessen Wände feucht von Tau waren. Die Luft war warm und feucht, als ob du im Atem eines großen Organismus ständest. Du erinnerst dich an Angst und Erheiterung – Lachen durch das Grauen. Was hat dich verfolgt?</DefaultText>
+      <DefaultText>Es … es ist unscharf. Du warst in einem großen Durchgang, dessen Wände feucht von Tau waren. Die Luft war warm und feucht, als ob du im Atem eines großen Organismus ständest. Du erinnerst dich an Angst und Erheiterung - Lachen durch das Grauen. Was hat dich verfolgt?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Etwas Uraltes und Kaltes, seine sich windende Kraft voller Versprechen von Vergessen. Seine schattigen Ranken schlugen nach dir, und wo sie die Wände trafen, zerriss das Mauerwerk, jenseits aller Reparatur. Du sprangst in eine Kapsel und fielst vom … vom Mond? … und dann warst du leer. Aber wer warst du? Was war diese Kreatur? Ein Wort erscheint in deinen Gedanken, und du ergreifst es, bevor es verschwindet: Kummer.</DefaultText>
+      <DefaultText>Etwas Uraltes und Kaltes, seine sich windende Kraft voller Versprechen von Vergessen. Seine schattigen Ranken schlugen nach dir, und wo sie die Wände trafen, zerriss das Mauerwerk, jenseits aller Reparatur. Du sprangst in eine Kapsel und fielst vom … vom Mond? ... und dann warst du leer. Aber wer warst du? Was war diese Kreatur? Ein Wort erscheint in deinen Gedanken, und du ergreifst es, bevor es verschwindet: Kummer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@ Ohne Warnung reißt der Kokon um dich herum auf und fliegt in Fetzen weg.</Defau
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Du breitest deine Arme und Beine aus und das Drehen und Taumeln hört auf. Der Wind heult noch immer an deinen Ohren vorbei, ein lautes Brüllen, das Teile deines Geistes lähmt. Ungewollt quillt Wasser in deine Augen, die Tränen werden vom Wind mitgerissen. Durch den Vorhang aus Feuchtigkeit ist es schwierig, mehr Details der Welt unter dir zu erfassen.</DefaultText>
+      <DefaultText>Du breitest deine Arme und Beine aus und das Drehen und Taumeln hört auf. Der Wind heult noch immer an deinen Ohren vorbei, ein lauters Brüllen, das Teile deines Geistes lähmt. Ungewollt quillt Wasser in deine Augen, die Tränen werden vom Wind mitgerissen. Durch den Vorhang aus Feuchtigkeit ist es schwierig, mehr Details der Welt unter dir zu erfassen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,7 +215,7 @@ Ohne Warnung reißt der Kokon um dich herum auf und fliegt in Fetzen weg.</Defau
       <ID>47</ID>
       <DefaultText>Es gibt einen Pfad aus schwebenden Steinen, der den See von Osten her kreuzt. Er führt direkt zu der gläsernen Konstruktion, die in offensichtlicher Missachtung der Schwerkraft ebenfalls über dem See schwebt.
 
-Du siehst zwei Leute außen vor dem Gebäude stehen. Eine von ihnen, seltsam unscharf, schaut zu dir hoch und zeigt auf dich. Ihre anderen Hände – Hände? – greifen nach dem Ärmel ihres Begleiters.</DefaultText>
+Du siehst zwei Leute außen vor dem Gebäude stehen. Eine von ihnen, seltsam unscharf, schaut zu dir hoch und zeigt auf dich. Ihre anderen Hände - Hände? - greifen nach dem Ärmel ihres Begleiters.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,7 +224,7 @@ Du siehst zwei Leute außen vor dem Gebäude stehen. Eine von ihnen, seltsam uns
 
 Deine Geschwindigkeit verringert sich beträchtlich, aber es reicht nicht. Mit lauten Knirschen schlägst du in die Kristallstruktur ein. Schmerz explodiert in deinem ganzen Körper, noch während du das Quietschen einer plötzlichen Energiewelle von der Unterseite des Gebäudes hörst.
 
-Und dann …</DefaultText>
+Und dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,12 +236,12 @@ Und dann …</DefaultText>
       <ID>50</ID>
       <DefaultText>Du winkelst deine Arme an und bildest mit deinen Händen eine Schüssel. Doch der Wind schlägt auf dich ein, du verlierst die Kontrolle über deinen Sturz und fängst wieder an zu taumeln. Du hast keine Ahnung, wo du landen wirst.
 
-Eine Menge von Farben umhüllt dich und das rauschende Geräusch des Windes wird deutlich leiser. Aber es reicht nicht. Mit lautem Knirschen schlägst du in etwas ein, du hörst das Quietschen einer plötzlichen Energiewelle, und dann …</DefaultText>
+Eine Menge von Farben umhüllt dich und das rauschende Geräusch des Windes wird deutlich leiser. Aber es reicht nicht. Mit lautem Knirschen schlägst du in etwas ein, du hörst das Quietschen einer plötzlichen Energiewelle, und dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Soweit du deine ausgestreckte Figur sehen kannst, trägst du eine Art hautengen Anzug. Deine Haut ist hellbraun und du scheinst fünf Finger an jeder Hand zu haben. Du fühlst gute Muskelpakete – nicht wuchtig, aber gut definiert. Allerdings kannst du dich selbst nicht weiter untersuchen, ohne die fragile Stabilität, die du gewonnen hast, wieder zu verlieren.</DefaultText>
+      <DefaultText>Soweit du deine ausgestreckte Figur sehen kannst, trägst du eine Art hautengen Anzug. Deine Haut ist hellbraun und du scheinst fünf Finger an jeder Hand zu haben. Dz Du fühlst gute Muskelpakete - nicht wuchtig, aber gut definiert. Allerdings kannst du dich selbst nicht weiter untersuchen, ohne die fragile Stabilität, die du gewonnen hast, wieder zu verlieren.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,28 +298,28 @@ Der Boden kommt beängstigend schnell auf dich zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Du hast gerade genug Zeit um zu sehen, dass du auf eine gläserne Konstruktion zurast, die scheinbar über einem See schwebt, dass daneben eine Figur steht, die auf dich zeigt und von deren Arm aus eine Vielzahl an Farben auf dich zu fliegen und dich umhüllen, und dass du …
+      <DefaultText>Du hast gerade genug Zeit um zu sehen, dass du auf eine gläserne Konstruktion zurast, die scheinbar über einem See schwebt, dass daneben eine Figur steht, die auf dich zeigt und von deren Arm aus eine Vielzahl an Farben auf dich zu fliegen und dich umhüllen, und dass du ...
 
-… in das Gebäude krachst. Das Quietschen einer plötzlichen Energiewelle kreischt in deinen Ohren und unendliche Schmerzen strahlen durch jeden Teil deines Körpers. Und dann …</DefaultText>
+... in das Gebäude krachst. Das Quietschen einer plötzlichen Energiewelle kreischt in deinen Ohren und unendliche Schmerzen strahlen durch jeden Teil deines Körpers. Und dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
       <DefaultText>Du schließt die Augen und erinnerst dich daran, dass du durch eine Halle mit atmendem Grün gegangen bist, voller Angst und Erheiterung, und …
 
-… ein enormer Schmerz fährt durch deinen Körper, der Klang eines Energiekreislaufes, der nicht mehr synchron läuft, wird rapide höher, und dann …</DefaultText>
+… ein enormer Schmerz fährt durch deinen Körper, der Klang eines Energiekreislaufes, der nicht mehr synchron läuft, wird rapide höher, und dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Du flatterst mit den Armen. Du hältst sie fest. Du konzentrierst dich fest darauf, nicht zu fallen. Nichts passiert. Du hast gerade genug Zeit, um eine Menge an Farben zu sehen, die um dich herumwirbelt, bevor du in etwas Unnachgiebiges und scheinbar Undurchdringliches krachst. Todesqualen fahren durch deinen Körper, das Klingeln eines radikal steigenden Energiekreislaufs, und dann …</DefaultText>
+      <DefaultText>Du flatterst mit den Armen. Du hälst sie fest. Du konzentrierst dich fest darauf, nicht zu fallen. Nichts passiert. Du hast gerade genug Zeit, um eine Menge an Farben zu sehen, die um dich herumwirbelt, bevor du in etwas Unnachgiebiges und scheinbar Undurchdringliches krachst. Todesqualen fahren durch deinen Körper, das Klingeln eines radikal steigenden Energiekreislaufs, und dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Er kommt sehr schnell auf dich zu. Direkt unter dir siehst du einen kreisrunden See mit einem kleinen Gebäude in der Mitte. Dieser See bildet das Zentrum eines kleinen Waldes, und im Osten, hinter dem Wald, siehst du Anzeichen von Zivilisation – ob wachsend oder schrumpfend kannst du nicht sagen. In der Richtung ist auch der Rauch einer Stadt zu sehen und du erkennst fliegende Schemen am Horizont. Im Süden erstreckt sich der Wald kilometerweit. Dahinter beginnt jäh ein goldenes Ödland.
+      <DefaultText>Er kommt sehr schnell auf dich zu. Direkt unter dir siehst du einen kreisrunden See mit einem kleinen Gebäude in der Mitte. Dieser See bildet das Zentrum eines kleinen Waldes, und im Osten, hinter dem Wald, siehst du Anzeichen von Zivilisation - ob wachsend oder schrumpfend kannst du nicht sagen. In der Richtung ist auch der Rauch einer Stadt zu sehen und du erkennst fliegende Schemen am Horizont. Im Süden erstreckt sich der Walt kilometerweit. Dahinter beginnt jäh ein goldenes Odländ.
 
-Du hast keine Zeit für weitere Beobachtungen – die Schwerkraft zieht zu gierig an dir.</DefaultText>
+Du hast keine Zeit für weitere Beobachtungen - die Schwerkraft zieht zu gierig an dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -339,33 +339,33 @@ Du hast keine Zeit für weitere Beobachtungen – die Schwerkraft zieht zu gieri
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Dein Versuch ist vergebens. Die Anziehungskraft ist zu stark und du hast überhaupt keinen Hebel. Nichts passiert. Du hast nur noch genug Zeit, um den Wirbel bunter Farben um dich herum zu sehen, bevor du in das Gebäude im See einschlägst, unnachgiebig und scheinbar undurchdringlich, Todesqualen fahren durch deinen Körper, du hörst das Klingeln eines radikal steigenden Energiekreislaufs, und dann …</DefaultText>
+      <DefaultText>Du bist völlig unerfolgreich. Die Anziehungskraft ist zu stark und du hast überhaupt keinen Hebel. Nichts passiert. Du hast nur noch genug Zeit, um den Wirbel bunter Farben um dich herum zu sehen, bevor du in das Gebäude im See einschlägst, unnachgiebig und scheinbar undurchdringlich, Todesqualen fahren durch deinen Körper, du hörst das Klingeln eines radikal steigenden Energiekreislaufs, und dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Warum nicht? Du scheinst gerade eh nichts anderes machen zu können. Du schließt deine Augen und erinnerst dich, trotz des Windes, der in deinen Augen beißt:
+      <DefaultText>Warum nicht? Du scheinst gerade eh nichts anderes machen zu können. Die schließt deine Augen und erinnerst dich, trotz des Windes, der in deinen Augen beißt:
 
-Du wurdest gejagt. Das Gefühl von Entweihung an einem Ort, der ein Heiligtum sein sollte. Du erinnerst dich an eine schattenhafte Figur aus Säure und Hass, etwas, dass dich völlig zerstören will … aber die Emotionen, die an diesem "dich" hängen, sind nicht deine. Die Gefühle sind die eines Zuschauers. Aber wer war das, der mit deinen Beinen gerannt ist, dessen Adrenalin durch die Adern gepumpt wurde?</DefaultText>
+Du wurdest gejagt. Das Gefühl von Entweihung an einem Ort, der ein Heiligtum sein sollte. Du erinnerst dich an eine schattenhafte Figur aus Säure und Hass, etwas, dass dich völlig zerstören will ... aber die Emotionen, die an diesem "dich" hängen, sind nicht deine. Die Gefühle sind die eines Zuschauers. Aber wer war das, der mit deinen Beinen gerannt ist, dessen Adrenalin durch die Adern gepumpt wurde?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Du erinnerst dich daran, eine Fluchtkapsel zu erreichen, und dass eines der tastenden Pseudopods der Kreatur dich erwischt hat, und dann der Sturz –
+      <DefaultText>Du erinnerst dich daran, eine Fluchtkapsel zu erreichen, und dass eines der tastenden Pseudopods der Kreatur dich erwischt hat, und dann der Sturz -
 
-– der Sturz! Du öffnest gerade rechtzeitig deine Augen, um einen Wirbel von Farben um dich herum zu sehen, der deinen Sturz kaum bremst. Dann fahren Todesqualen durch deinen Körper, als ein zerschmetternder Einschlag dich auslöscht. Das letzte, was du hörst, ist das schnell ansteigende Heulen von Energie, und dann …</DefaultText>
+- der Sturz! Du öffnest gerade rechtzeitig deine Augen, um einen Wirbel von Farben um dich herum zu sehen, der deinen Sturz kaum bremst. Dann fahren Todesqualen durch deinen Körper, als ein zerschmetternder Einschlag dich auslöscht. Das letzte, was du hörst, ist das schnell ansteigende Heulen von Energie, und dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
       <DefaultText>Wahrscheinlich die beste Wahl. Du scheinst keine andere Option zu haben. Du schließt die Augen vor der Welt unter dir, ignorierst das Rauschen des Windes, und *konzentrierst* dich.
 
-Du erinnerst dich daran, dass du durch die Flure eines Ortes gegangen bist, der ein Teil von dir war. Aber warte … das warst nicht du. Du schaust auf diese Erinnerungen, als ob sie in deinen Geist projiziert würden, nicht als ob sie ein Teil von dir wären. Und trotzdem war es dein Körper, der durch diese Flure gegangen ist, deine Lungen, die die Luft dort geatmet habe …</DefaultText>
+Du erinnerst dich daran, dass du durch die Flure eines Ortes gegangen bist, der ein Teil von dir war. Aber warte ... das warst nicht du. Du schaust auf diese Erinnerungen, als ob sie in deinen Geist projeziert würden, nicht als ob sie ein Teil von dir wären. Und trotzdem war es dein Körper, der durch diese Flure gegangen ist, deine Lungen, die die Luft dort geatmet habe ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Du bist gerannt, weil etwas dich gejagt hat. Etwas, das mächtiger war als du. Warst du mächtig? Du untersuchst deine gestohlenen Erinnerungen und weißt, dass du mächtig warst. Was hätte sich gegen dich stellen können, gegen dich, der selbst Instrumente aus Flammen und Zeit handhabte? Der Name liegt dir auf der Zunge …</DefaultText>
+      <DefaultText>Du bist gerannt, weil etwas dich gejagt hat. Etwas, das mächtiger war als du. Warst du mächtig? Du untersuchst deine gestohlenen Erinnerungen und weißt, dass du mächtig warst. Was hätte sich gegen dich stellen können, gegen dich, der selbst Instrumente aus Flammen und Zeit handhabte? Der Name liegt dir auf der Zunge ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -385,7 +385,7 @@ Du erinnerst dich daran, dass du durch die Flure eines Ortes gegangen bist, der 
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Wenn du es irgendwie schaffst, alles zu umgehen, was du über Anatomie, Physik und Tod weißt – und du bist überrascht, als dir klar wird, dass du *tatsächlich* etwas darüber weißt – und diesen Sturz überlebst, dann könntest du diese schlafende Macht wieder erwecken, vermutest du.
+      <DefaultText>Wenn du es irgendwie schaffst, alles zu umgehen, was du über Anatomie, Physik und Tod weißt - und du bist überrascht, als dir klar wird, dass du *tatsächlich* etwas darüber weißt - und diesen Sturz überlebst, dann könntest du diese schlafende Macht wieder erwecken, vermutest du.
 
 Aber wie könntest du einen Sturz aus dieser Höhe überleben? Schwerkraft ist eine raue Gebieterin.</DefaultText>
       <FemaleText />
@@ -399,12 +399,12 @@ Aber wie könntest du einen Sturz aus dieser Höhe überleben? Schwerkraft ist e
       <ID>79</ID>
       <DefaultText>Aber warte! Du stürzt auf ein gläsernes Gebäude zu, das über einem See schwebt. Eine seltsam unscharfe Frau und ein Mann zeigen auf dich. Aus seinem ausgestreckten Arm schießt ein Wirbel bunter Farben, der dich einhüllt.
 
-Aber es ist zu spät. Dein Sturz war zu schnell. Mit einem widerwärtigen Knall zerstörst du die Glaskonstruktion. Du hörst eine seltsame Maschine heulen, als ihr Gleichgewicht für immer verschoben wird, und dann …</DefaultText>
+Aber es ist zu spät. Dein Sturz war zu schnell. Mit einem widerwärtigen Knall zerstörst du die Glaskonstruktion. Du hörst eine seltsame Maschine heulen, als ihr Gleichgewicht für immer verschoben wird, und dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Unter dir erstreckt sich ein riesiger Wald. Im Osten siehst du den Rand der Zivilisation. Noch weiter östlich siehst du den Rauch einer großen Stadt. Im Süden kannst du gerade noch die Ränder einer goldglänzenden Wüste ausmachen. Unter dir rauscht mit bestürzender Geschwindigkeit ein See auf dich zu. In der Mitte des Sees scheint eine gläserne Konstruktion über dem Wasser zu schweben. Auf der Plattform, die die Konstruktion umrundet, stehen zwei Figuren, die auf dich und deinen rasenden Sturz weisen. Einer hebt einen unscharfen Arm und Farben umgeben dich und dämpfen deinen Sturz.</DefaultText>
+      <DefaultText>Unter dir erstreckt sich ein riesiger Wald. Im Osten siehst du den Rand der Zivilisation. Noch weiter östlich siehst du den Rauch einer großen Stadt. Im Süden kannst du gerade noch die Ränder einer gold-glänzenden Wüste ausmachen. Unter dir rauscht mit bestürzender Geschwindigkeit ein See auf dich zu. In der Mitte des Sees scheint eine gläserne Konstruktion über dem Wasser zu schweben. Auf der Plattform, die die Konstruktion umrundet, stehen zwei Figuren, die auf dich und deinen rasenden Sturz weisen. Einer hebt einen unscharfen Arm und Farben umgeben dich und dämpfen deinen Sturz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@ Aber es ist zu spät. Dein Sturz war zu schnell. Mit einem widerwärtigen Knall 
       <ID>82</ID>
       <DefaultText>Als das Wasser entsetzlich schnell auf dich zurast, siehst du zwei Figuren neben einem kleinen gläsernen Gebäude stehen. Du stürzt genau darauf zu! Einer von ihnen schaut hinauf, zeigt auf dich und du spürst, wie du deutlich langsamer wirst … aber du stürzt noch immer zu schnell und beide Figuren springen zur Seite, als du mit einem schweren und entsetzlichen Krachen in die Kristallkonstruktion stürzt. Schmerz strahlt in jeden Teil deines Körpers.
 
-Und dann …</DefaultText>
+Und dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,14 +428,14 @@ Ein Kaleidoskop von Farben füllt dein Blickfeld und du hörst, wie der Klang de
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Es ergibt keinen Sinn. Du hast eine Geschwindigkeit erreicht, die ohne Ironie als 'tödlich' bezeichnet werden kann. Du breitest deine Arme und Beine aus und versuchst, einen Aufwind zu erwischen, und es sieht so aus, als ob du in dem See landen könntest, der auf dich zurast … sofern du nicht das Gebäude triffst, das in seiner Mitte zu schweben scheint.
+      <DefaultText>Es macht keinen Sinn. Du hast eine Geschwindigkeit erreicht, die ohne Ironie als 'tödlich' bezeichnet werden kann. Du breitest deine Arme und Beine aus und versuchst, einen Aufwind zu erwischen, und es sieht so aus, als ob du in dem See landen könntest, der auf dich zurast ... sofern du nicht das Gebäude triffst, das in seiner Mitte zu schweben scheint.
 
 Ein seltsames Netz aus Farben umgibt dich, geworfen von einer Figur, die auf dem Balkon des Gebäudes steht, aber es bremst deinen Sturz nur ein wenig.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Aber es ist schnell genug. Du stürzt in etwas von unglaublicher Festigkeit. Durch die Todesqualen, die deinen Körper füllen, schneidet kurz der Klang von gequälten Maschinen, der sich zu einem schnellen Heulen steigert.
+      <DefaultText>Aber es ist schnell genug. Du stürzt in etwas von unglaublicher Festigkeit. Durch die Todesqualen, die deinen Körper füllen, schneidet kurz der Klang von gequälten Maschinen,der sich zu einem schnellen Heulen steigert.
 
 Und dann …</DefaultText>
       <FemaleText />
@@ -462,7 +462,7 @@ Und dann …</DefaultText>
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Dein Geist schmerzt, als du versuchst, dich zu erinnern, aber du drückst weiter: eine Kreatur aus einer vergessenen Welt, die dich durch die Jahrhunderte jagt … aber es sucht nicht dich, richtig? Es sucht den Mann, dessen Erinnerungen du gerade durchsuchst, und plötzlich wird dir klar, dass du nicht er bist.</DefaultText>
+      <DefaultText>Dein Geist schmerzt, als du versuchst, dich zu erinnern, aber du drückst weiter: eine Kreatur aus einer vergessenen Welt, die dich durch die Jahrhunderte jagt … aber es sucht nicht dich, richtig? Es sucht den Mann,  dessen Erinnerungen du gerade durchsuchst, und plötzlich wird dir klar, dass du nicht er bist.</DefaultText>
       <FemaleText>Dein Geist schmerzt, als du versuchst, dich zu erinnern, aber du drückst weiter: eine Kreatur aus einer vergessenen Welt, die dich durch die Jahrhunderte jagt … aber es sucht nicht dich, richtig? Es sucht die Frau, deren Erinnerungen du gerade durchsuchst, und plötzlich wird dir klar, dass du nicht sie bist.</FemaleText>
     </Entry>
     <Entry>
@@ -509,7 +509,7 @@ Und dann …</DefaultText>
       <ID>132</ID>
       <DefaultText>Du siehst ein kleines, gläsernes Gebäude, das über einem See schwebt. Zwei Figuren stehen auf einem Balkon. Einer zeigt auf dich und ein Wirbel von Farben wickelt sich um dich, bremst deinen Fall …
 
-… aber nicht genug. Du stürzt in das Gebäude, und noch während du bewusstlos wirst hörst du, wie das Gebäude um dich herum einstürzt. Und dann …</DefaultText>
+… aber nicht genug. Du stürzt in das Gebäude, und noch während du bewusstlos wirst hörst du, wie das Gebäude um dich herum einstürzt. Und dann ...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -576,7 +576,7 @@ Und dann …</DefaultText>
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Du schätzt, dass du etwa 100 Kilometer über dem Boden bist. Jedenfalls wenn du davon ausgehst, dass du auf dem sterbenden Mond gestartet bist. Du warst allerdings eine Weile lang bewusstlos – und jetzt sieht es so aus, als wärst du noch 50 Kilometer hoch, vielleicht weniger.</DefaultText>
+      <DefaultText>Du schätzt, dass du etwa 100 Kilometer über dem Boden bist. Jedenfalls wenn du davon ausgehst, dass du auf dem sterbenden Mond gestartet bist. Du warst allerdings eine Weile lang bewusstlos - und jetzt sieht es so aus, als wärst du noch 50 Kilometer hoch, vielleicht weniger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

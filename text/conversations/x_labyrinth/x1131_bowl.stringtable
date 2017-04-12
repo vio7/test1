@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Wirre Gedanken schwirren dir durch den Kopf, als du die leere Schale vor dir betrachtest. Tropfen fallen von der Decke auf den Boden neben der Schüssel. Das Licht der Tropfen wird von der runden Schale reflektiert, als *hungerte* sie danach und *müsse* gefüllt werden. Doch die Schale bleibt trocken.
+      <DefaultText>Wirre Gedanken schwirren dir durch den Kopf, als du die leere Schale vor dir betrachtest. Tropfen fallen von der Decke auf den Boden neben der Schüssel. Das Licht der Tropfen wird von der runden Schale reflektiert, als *hungerte* sie danach und *müsse* gefüllt werden. Doch die Schale bleibt trocken.  
 
 Ein weiterer Tropfen fällt von der Decke und spritzt verschwendet über die Pylonen.
 {SOUND:  Dripping - continues until bowl is filled.}</DefaultText>
@@ -104,7 +104,7 @@ Ein weiterer Tropfen fällt von der Decke und spritzt verschwendet über die Pyl
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point…
+      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point... 
 
 The conjoined light pierces your fingertip like a needle, racing up your veins, snapping across your tendons.</DefaultText>
       <FemaleText />
@@ -121,7 +121,7 @@ The conjoined light pierces your fingertip like a needle, racing up your veins, 
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point…
+      <DefaultText>Ripples bounce away from your finger, rebound against the edges of the bowl, and rush back, countless rings collapsing into a single point... 
 
 The conjoined light pierces your fingertip like a needle, racing up your veins, snapping across your tendons.</DefaultText>
       <FemaleText />
@@ -160,12 +160,12 @@ Von hoch oben, jenseits des sich ausbreitenden Lichts, ruft eine Stimme zu dir.<
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Are you still there?“</DefaultText>
+      <DefaultText>"Are you still there?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Hello? Can you hear me?“</DefaultText>
+      <DefaultText>"Hello? Can you hear me?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,7 +243,7 @@ Die Oberfläche der Schale leuchtet in reflektiertem Licht auf, als ein weiteres
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>„Listen. The Sorrow is hunting us, and we are not strong enough to survive it a second time. Not as we are. This is a sanctuary deep within your mind, a place of healing, but you are hardly safer here than when you were falling to your death. Unless you regain a semblance of your former abilities - and soon - that nightmare will breach this fortress and devour us.“</DefaultText>
+      <DefaultText>"Listen. The Sorrow is hunting us, and we are not strong enough to survive it a second time. Not as we are. This is a sanctuary deep within your mind, a place of healing, but you are hardly safer here than when you were falling to your death. Unless you regain a semblance of your former abilities - and soon - that nightmare will breach this fortress and devour us."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,17 +268,17 @@ Die Oberfläche der Schale leuchtet in reflektiertem Licht auf, als ein weiteres
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>You… fell. You remember falling towards the curve of the world. The ground leapt up to claim you. Impact. You should be dead.
+      <DefaultText>You... fell. You remember falling towards the curve of the world. The ground leapt up to claim you. Impact. You should be dead.
 
-But if you are, there is no peace here. Your mind *aches*, and struggles to form simple thoughts. Blurring memories whirl past your inner eye like shards of broken glass. Your body feels sluggish. Clumsy.
+But if you are, there is no peace here. Your mind *aches*, and struggles to form simple thoughts. Blurring memories whirl past your inner eye like shards of broken glass. Your body feels sluggish. Clumsy.  
 
-Broken.
+Broken. 
 </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>You fell, but did not die. You are alive, but not whole.
+      <DefaultText>You fell, but did not die. You are alive, but not whole. 
 
 Another drop of calming light falls from the ceiling, scattering into gemlike beads on the floor.</DefaultText>
       <FemaleText />
@@ -290,27 +290,27 @@ Another drop of calming light falls from the ceiling, scattering into gemlike be
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Hallo? Oh Skist. Du bist tot, nicht wahr?  {muttering to himself}Nein, das kann nicht sein. Wenn er tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?“</DefaultText>
-      <FemaleText>„Hallo? Oh Skist. Du bist tot, nicht wahr?  {muttering to himself}Nein, das kann nicht sein. Wenn sie tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?“</FemaleText>
+      <DefaultText>"Hallo? Oh Skist. Du bist tot, nicht wahr?  {muttering to himself}Nein, das kann nicht sein. Wenn er tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?"</DefaultText>
+      <FemaleText>"Hallo? Oh Skist. Du bist tot, nicht wahr?  {muttering to himself}Nein, das kann nicht sein. Wenn sie tot wäre, wäre ich es ja auch. {beat}Kannst du mich hören?"</FemaleText>
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„Ich kann dich hören!“</DefaultText>
+      <DefaultText>"Ich kann dich hören!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>„Wer seid ihr?“</DefaultText>
+      <DefaultText>"Wer seid ihr?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>„Ich höre überhaupt nichts. Bist du überhaupt da? Na, wenn du mich hören kannst, musst du ja noch am Leben sein. {muttering to himself}Aber das weißt du bereits, nicht wahr? {louder, to the PC}Ich werde einfach mal annehmen, dass wir beide am Leben sind und es auch gerne bleiben würden, okay?“</DefaultText>
+      <DefaultText>"Ich höre überhaupt nichts. Bist du überhaupt da? Na, wenn du mich hören kannst, musst du ja noch am Leben sein. {muttering to himself}Aber das weißt du bereits, nicht wahr? {louder, to the PC}Ich werde einfach mal annehmen, dass wir beide am Leben sind und es auch gerne bleiben würden, okay?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>„ICH BIN HIER!“</DefaultText>
+      <DefaultText>"ICH BIN HIER!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,17 +325,17 @@ Another drop of calming light falls from the ceiling, scattering into gemlike be
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>„Was war das? Ich weiß hier nie, was real ist und was nicht. Bau einen Weg *hinauf*. Dann können wir uns diesem Schlamassel gemeinsam stellen und du musst nicht allein sein. Und *ich* auch nicht.“</DefaultText>
+      <DefaultText>"Was war das? Ich weiß hier nie, was real ist und was nicht. Bau einen Weg *hinauf*. Dann können wir uns diesem Schlamassel gemeinsam stellen und du musst nicht allein sein. Und *ich* auch nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>„Hast du was gesagt? Warst das überhaupt du? Egal. Bau einfach einen Weg *hinauf*. Dann können wir uns diesem Schlamassel gemeinsam stellen und du musst nicht allein sein. Und *ich* auch nicht.“</DefaultText>
+      <DefaultText>"Hast du was gesagt? Warst das überhaupt du? Egal. Bau einfach einen Weg *hinauf*. Dann können wir uns diesem Schlamassel gemeinsam stellen und du musst nicht allein sein. Und *ich* auch nicht."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>„Wir stecken hier fest. Dieses Ding wird uns im Nu gefunden haben.“
+      <DefaultText>"Wir stecken hier fest. Dieses Ding wird uns im Nu gefunden haben."
 {Quieter, to himself, despondent}</DefaultText>
       <FemaleText />
     </Entry>
@@ -346,12 +346,12 @@ Another drop of calming light falls from the ceiling, scattering into gemlike be
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>„All right, then. How do I get my abilities back?“</DefaultText>
+      <DefaultText>"All right, then. How do I get my abilities back?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„Look around you. The fall did not only break your body, it scattered your memories to the corners of your broken mind.“
+      <DefaultText>"Look around you. The fall did not only break your body, it scattered your memories to the corners of your broken mind." 
 
 Your companion is quieter than before, and there is a strange note in his voice. Helplessness? Frustration?</DefaultText>
       <FemaleText />
@@ -365,12 +365,12 @@ Your companion is quieter than before, and there is a strange note in his voice.
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>„What is the Sorrow?“</DefaultText>
+      <DefaultText>"What is the Sorrow?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„For now, it is enough to know that it is raw, relentless hunger and it is seeking your life. If you are to have any hope of stopping it, you must remember some part of who you are, and find me!“</DefaultText>
+      <DefaultText>"For now, it is enough to know that it is raw, relentless hunger and it is seeking your life. If you are to have any hope of stopping it, you must remember some part of who you are, and find me!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -380,12 +380,12 @@ Your companion is quieter than before, and there is a strange note in his voice.
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>„Who am I?“</DefaultText>
+      <DefaultText>"Who am I?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>„Can you tell me anything about who I was?“</DefaultText>
+      <DefaultText>"Can you tell me anything about who I was?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,12 +395,12 @@ Your companion is quieter than before, and there is a strange note in his voice.
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>„Don't ask me to summarize your life when that's the very thing at risk. Heal your mind, and your memories will follow, I promise you.“</DefaultText>
+      <DefaultText>"Don't ask me to summarize your life when that's the very thing at risk. Heal your mind, and your memories will follow, I promise you."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>„Time is short.“ He seems to force levity into his voice. „Too short for such a long list of accomplishments.“</DefaultText>
+      <DefaultText>"Time is short." He seems to force levity into his voice. "Too short for such a long list of accomplishments."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -410,7 +410,7 @@ Your companion is quieter than before, and there is a strange note in his voice.
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Du bist… gefallen. Du erinnerst dich an einen Fall aus so großer Höhe, dass du die Krümmung der Welt gesehen hast. Der Boden kam rasend schnell näher. Ein Aufprall. Du müsstest tot sein.
+      <DefaultText>Du bist... gefallen. Du erinnerst dich an einen Fall aus so großer Höhe, dass du die Krümmung der Welt gesehen hast. Der Boden kam rasend schnell näher. Ein Aufprall. Du müsstest tot sein.
 
 Doch wenn, dann ist das ein seltsamer Tod. Es gibt keinen Frieden hier, und dein Geist *schmerzt* und hat Schwierigkeiten, auch nur die einfachsten Gedanken zu bilden.
 
@@ -424,17 +424,17 @@ Dies scheint weder wie der Tod noch wie irgendeine Form von Leben, die du kennst
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>„It frightens me that you do not know, and more so that I cannot see where *you* are. Do you at least know my voice? Do you remember who I am… who *you* are?“</DefaultText>
+      <DefaultText>"It frightens me that you do not know, and more so that I cannot see where *you* are. Do you at least know my voice? Do you remember who I am... who *you* are?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>„Please. I can't remember anything about who I am!“</DefaultText>
+      <DefaultText>"Please. I can't remember anything about who I am!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>„Seek your memories. Claim any you find, breach their defenses, and relive them. If you face challenges, solve them in the way that comes most naturally to you. Your choices will describe you. They will resurrect facets of your buried knowledge.“</DefaultText>
+      <DefaultText>"Seek your memories. Claim any you find, breach their defenses, and relive them. If you face challenges, solve them in the way that comes most naturally to you. Your choices will describe you. They will resurrect facets of your buried knowledge."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -449,7 +449,7 @@ Dies scheint weder wie der Tod noch wie irgendeine Form von Leben, die du kennst
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>„Are you alive? Can you recognize my voice? Do you remember who I am… who *you* are?“</DefaultText>
+      <DefaultText>"Are you alive? Can you recognize my voice? Do you remember who I am... who *you* are?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -459,7 +459,7 @@ Dies scheint weder wie der Tod noch wie irgendeine Form von Leben, die du kennst
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>{Chiding} „There is no need to hide from me, child. I *know* the creature has not broken us so badly that you cannot speak. The fact that we still exist is proof of that.“</DefaultText>
+      <DefaultText>{Chiding} "There is no need to hide from me, child. I *know* the creature has not broken us so badly that you cannot speak. The fact that we still exist is proof of that."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -504,7 +504,7 @@ Dies scheint weder wie der Tod noch wie irgendeine Form von Leben, die du kennst
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>„You are frightened. Of course, you don't even know who I am or where you are. Listen carefully then. The fall did not only break your body, it scattered your memories to the corners of your broken mind.“
+      <DefaultText>"You are frightened. Of course, you don't even know who I am or where you are. Listen carefully then. The fall did not only break your body, it scattered your memories to the corners of your broken mind." 
 
 Your companion is quieter than before, and there is a strange note in his voice. Helplessness? Frustration? </DefaultText>
       <FemaleText />
@@ -518,32 +518,32 @@ Von hoch oben, jenseits des sich ausbreitenden Lichts, ruft eine Stimme zu dir.<
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>{Long pause} „Good! We are not so easily separated, you and I. That creature underestimated us!“</DefaultText>
+      <DefaultText>{Long pause} "Good! We are not so easily separated, you and I. That creature underestimated us!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>„Who are you?“</DefaultText>
+      <DefaultText>"Who are you?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>„A part of you and a friend. We will speak more when you escape.“</DefaultText>
+      <DefaultText>"A part of you and a friend. We will speak more when you escape."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>„Wo bist du?“</DefaultText>
+      <DefaultText>"Wo bist du?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>„Ah! Das ist *dein* Geist! Ich wette, deine Erinnerungen sind da unten. Finde sie und reparierst den Weg zu mir. {beat} Bist… du überhaupt da? Puh, ich rede mit mir selbst.“</DefaultText>
+      <DefaultText>"Ah!  Das ist *dein* Geist! Ich wette, deine Erinnerungen sind da unten. Finde sie und reparierst den Weg zu mir.  {beat} Bist... du überhaupt da? Puh, ich rede mit mir selbst."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>„Pass auf, ich kann nicht zu dir, daher musst du einen Weg zu mir rauf bauen… Ich weiß aber nicht wie. Immerhin ist das dein Geist hier. Ist nicht so, dass ich eine Karte dafür hätte.“</DefaultText>
+      <DefaultText>"Pass auf, ich kann nicht zu dir, daher musst du einen Weg zu mir rauf bauen... Ich weiß aber nicht wie. Immerhin ist das dein Geist hier. Ist nicht so, dass ich eine Karte dafür hätte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

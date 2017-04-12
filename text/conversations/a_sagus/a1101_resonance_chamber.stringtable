@@ -18,7 +18,7 @@ Kaum zu glauben, dass du noch am Leben bist.</DefaultText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Die Resonanzkammer steht so da, so wie du sie verlassen hast – verbeult und kaputt. Am Boden verstreute Kristall- und Synthscherben knirschen, wenn du auf sie trittst.</DefaultText>
+      <DefaultText>Die Resonanzkammer steht so da, so wie du sie verlassen hast - verbeult und kaputt. Am Boden verstreute Kristall- und Synthscherben knirschen, wenn du auf sie trittst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +88,7 @@ Kaum zu glauben, dass du noch am Leben bist.</DefaultText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Du kniest nieder, um den Ring zu untersuchen, und bemerkst in alle Richtungen strahlende Feldprojektoren im Inneren des Rings.
+      <DefaultText>Du kniest nieder, um den Ring zu untersuchen, und bemerkst in alle Richtungen strahlende Feldprojektoren im Inneren des Rings. 
 
 Der Ring dient zum Schutz derer, die darin stehen, doch auch dazu, eine gewaltige Kraft festzuhalten.</DefaultText>
       <FemaleText />
@@ -117,11 +117,11 @@ An den Sockeln der Arme leuchten schwach edelsteinartige Lichter.</DefaultText>
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Eine fremde Erinnerung überkommt dich.
+      <DefaultText>Eine fremde Erinnerung überkommt dich. 
 
-Sonnenlicht fällt durch die intakte Kuppel und wirft kurze, eckige Schatten hinter den Dienern, die den Apparat bauen, den du mit deinem Assistenten entworfen hast. Die Diener arbeiten perfekt – kein Wunder, schließlich sind *sie* ja ebenfalls dein Werk.
+Sonnenlicht fällt durch die intakte Kuppel und wirft kurze, eckige Schatten hinter den Dienern, die den Apparat bauen, den du mit deinem Assistenten entworfen hast. Die Diener arbeiten perfekt - kein Wunder, schließlich sind *sie* ja ebenfalls dein Werk.
 
-Es ist beinahe alles fertig. Ein Ring als Rahmen. Eine Plattform für die Fokussierung und–
+Es ist beinahe alles fertig. Ein Ring als Rahmen. Eine Plattform für die Fokussierung und-
 
 "Fünf Injektoren. Einer für jede Gezeit." Es dauert einen Moment, bis du begreifst, dass die Erinnerung zu Ende ist und du laut gesprochen hast.</DefaultText>
       <FemaleText />
@@ -155,7 +155,7 @@ Gleich darauf trennen sie sich wieder, ziehen glitzernde Fäden lebenden Kristal
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Am Rande des Einschlagkraters findest du einen Kristallsplitter. Er ist an einem Ende scharf wie ein Dolch und am anderen glatt und könnte eine brauchbare, wenn auch primitive Waffe abgeben.</DefaultText>
+      <DefaultText>Am Rande des Einschlagkraters findest du einen Kristallsplitter. Er ist am einen Ende scharf wie ein Dolch und am anderen glatt und könnte eine brauchbare, wenn auch primitive Waffe abgeben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@ Gleich darauf trennen sie sich wieder, ziehen glitzernde Fäden lebenden Kristal
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Das gepolsterte Innere des Sarges sieht aus, als wäre es für einen menschlichen Körper gemacht. Obwohl er beschädigt ist, siehst du keine Möglichkeit, ihn zu öffnen.
+      <DefaultText>Das gepolsterte Innere des Sarges sieht aus, als wäre es für einen menschlichen Körper gemacht. Obwohl er beschädigt ist, siehst du keine Möglichkeit, ihn zu öffnen. 
 
 Dein Blick wandert vom Sarkophag zu den Nadelenden der Arme über dir. Diese Kammer zu benutzen war vermutlich keine angenehme Erfahrung.</DefaultText>
       <FemaleText />

@@ -6,9 +6,9 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Diese Frau ist in funktionellen Glaivenkleidern gekleidet, ihr Haar ist kurz geschnitten und ihr Gesicht ist muskulös und angespannt. Du erkennst sie sofort von Tashs Lebensbild: Paj Rekken.
+      <DefaultText>Diese Frau ist in funktionsfähigen Glaivenkleidern gekleidet, ihr Haar ist kurz geschnitten und ihr Gesicht ist muskulös und angespannt. Du erkennst sie sofort von Tashs Lebensbild: Paj Rekken.
 
-Sie erübrigt dir kaum einen bewertenden Blick, bevor sie sich deiner Gefährtin wendet. „Matkina. Du kommst zurückgekrochen. Hast du nicht geschworen, dass du nie hierher zurückkehrst, oder hast du das schon vergessen?“</DefaultText>
+Sie erübrigt dir kaum einen bewertenden Blick, bevor sie sich deiner Gefährtin wendet. "Matkina. Du kommst zurückgekrochen. Hast du nicht geschworen, dass du nie hierher zurückkehrst, oder hast du das schon vergessen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18,26 +18,28 @@ Sie erübrigt dir kaum einen bewertenden Blick, bevor sie sich deiner Gefährtin
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Diese Frau ist in funktionellen Glaivenkleidern gekleidet, ihr Haar ist kurz geschnitten und ihr Gesicht ist muskulös und angespannt. Du erkennst sie sofort von Tashs Lebensbild: Paj Rekken.
+      <DefaultText>Diese Frau ist in funktionsfähigen Glaivenkleidern gekleidet, ihr Haar ist kurz geschnitten und ihr Gesicht ist muskulös und angespannt. Du erkennst sie sofort von Tashs Lebensbild: Paj Rekken.
 
-Sie kaut das Innere ihrer Wange bevor sie spricht. „Ich muss ja zugeben, ich bin überrascht, dass du es hereingeschafft hast. Du weißt, dass du durch das Aufbrechen des Portalschlosses unser Heiligtum dem Kummer anfälliger machst? Aber du kümmerst dich wahrscheinlich nicht um die Folgen deiner Taten, oder?“</DefaultText>
+Sie kaut das Innere ihrer Wange bevor sie spricht. "Ich muss ja zugeben, ich bin überrascht, dass du es hereingeschafft hast. Du weißt, dass du durch das Aufbrechen des Portalschlosses unser Heiligtum dem Kummer anfälliger machst? Aber du kümmerst dich wahrscheinlich nicht um die Folgen deiner Taten, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Das habe ich versprochen. Dann erinnerte ich mich, dass niemand von euch sich je die Mühe gemacht hat, die Schwüre zu halten, die ihr mir gegeben habt. Was also hätte es für einen Sinn?“
+      <DefaultText>"Das habe ich versprochen. Dann erinnerte ich mich, dass niemand von euch sich je die Mühe gemacht hat, die Schwüre zu halten, die ihr mir gegeben habt. Was also hätte es für einen Sinn?“
 
-„Auf jeden Fall. Was hast du so gemacht? Ein paar Dörfer voll unschuldiger Zivilisten niedergebrannt? Oder bist du zu größeren Gräueltaten aufgestiegen?“</DefaultText>
-      <FemaleText />
+"Auf jeden Fall. Was hast du so gemacht? Ein paar Dörfer voll unschuldiger Zivilisten niedergebrannt? Oder bist du zu größeren Gräueltaten aufgestiegen?“</DefaultText>
+      <FemaleText>"Das habe ich versprochen. Dann erinnerte ich mich, dass niemand von euch sich je die Mühe gemacht hat, die Schwüre zu halten, die ihr mir gegeben habt. Was also hätte es für einen Sinn?“
+
+"Auf jeden Fall. Was hast du so gemacht? Ein paar Dörfer voll unschuldiger Zivilisten niedergebrannt? Oder bist du zu größeren Gräueltaten aufgestiegen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>„Ich versuche lediglich, unseren Schöpfer - den Feigling - davon abzuhalten, noch mehr von seinen Kriegsverbrechen zu begehen, wie sonst immer. Ich schau es im Großen und Ganzen an, statt mich nur um mein Selbstinteresse zu kümmern. Vielleicht lernst du eines Tages, das auch zu tun, aber wenn man bedenkt, dass dein Freund hier gerade seinen Weg durch das verschlossene Portal gezwungen hat - und damit unser Heiligtum anfälliger für den Kummer gemacht hat - glaube ich nicht, dass das wahrscheinlich ist.“
+      <DefaultText>"Ich versuche lediglich, unseren Schöpfer - den Feigling - davon abzuhalten, noch mehr von seinen Kriegsverbrechen zu begehen, wie sonst immer. Ich schau es im Großen und Ganzen an, statt mich nur um mein Selbstinteresse zu kümmern. Vielleicht lernst du eines Tages, das auch zu tun, aber wenn man bedenkt, dass dein Freund hier gerade seinen Weg durch das verschlossene Portal gezwungen hat - und damit unser Heiligtum anfälliger für den Kummer gemacht hat - glaube ich nicht, dass das wahrscheinlich ist.“
 
-Sie wendet sich zu dir. „Du weißt, dass du mit einer Verräterin reist, oder?“</DefaultText>
-      <FemaleText>„Ich versuche lediglich, unseren Schöpfer - den Feigling - davon abzuhalten, noch mehr von seinen Kriegsverbrechen zu begehen, wie sonst immer. Ich schau es im Großen und Ganzen an, statt mich nur um mein Selbstinteresse zu kümmern. Vielleicht lernst du eines Tages, das auch zu tun, aber wenn man bedenkt, dass deine Freundin hier gerade ihren Weg durch das verschlossene Portal gezwungen hat - und damit unser Heiligtum anfälliger für den Kummer gemacht hat - glaube ich nicht, dass das wahrscheinlich ist.“
+Sie wendet sich zu dir. "Du weißt, dass du mit einer Verräterin reist, oder?“</DefaultText>
+      <FemaleText>"Ich versuche lediglich, unseren Schöpfer - den Feigling - davon abzuhalten, noch mehr von seinen Kriegsverbrechen zu begehen, wie sonst immer. Ich schau es im Großen und Ganzen an, statt mich nur um mein Selbstinteresse zu kümmern. Vielleicht lernst du eines Tages, das auch zu tun, aber wenn man bedenkt, dass deine Freundin hier gerade ihren Weg durch das verschlossene Portal gezwungen hat - und damit unser Heiligtum anfälliger für den Kummer gemacht hat - glaube ich nicht, dass das wahrscheinlich ist.“
 
-Sie wendet sich zu dir. „Du weißt, dass du mit einer Verräterin reist, oder?“</FemaleText>
+Sie wendet sich zu dir. "Du weißt, dass du mit einer Verräterin reist, oder?“</FemaleText>
     </Entry>
     <Entry>
       <ID>27</ID>
@@ -56,8 +58,8 @@ Sie wendet sich zu dir. „Du weißt, dass du mit einer Verräterin reist, oder?
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>„Ich kenne dich. Ich weiß, was du im Kholn-Dorf getan hast.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Ich kenne dich. Ich weiß, was du im Kholn-Dorf getan hast.“</DefaultText>
+      <FemaleText>"Ich kenne dich. Ich weiß, was du im Kholn-Dorf getan hast.“</FemaleText>
     </Entry>
     <Entry>
       <ID>31</ID>
@@ -81,32 +83,34 @@ Sie wendet sich zu dir. „Du weißt, dass du mit einer Verräterin reist, oder?
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>„Ich habe dir noch eines zu sagen und ich will, dass du dir das sorgfältig merkst. Der Wandelnde Gott - der Feigling - will uns alle umbringen. Solltest du ihm begegnen, traue ihm nicht. Er wird dich genauso sicherlich zerstören wie der Kummer.“
+      <DefaultText>"Ich habe dir noch eines zu sagen und ich will, dass du dir das vorsichtig merkst. Der Wandelnde Gott - der Feigling - will uns alle umbringen. Solltest du ihm begegnen, traue ihm nicht. Er wird dich genauso sicherlich zerstören wie der Kummer.“
 
-Sie wendet sich und schreitet weg. „Ich würde dir Erfolg wünschen, aber…“</DefaultText>
+Sie wendet sich und schreitet weg. "Ich würde dir Erfolg wünschen, aber...“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>„Oh, Matkina hat es dir erzählt? Was für eine Überraschung. Sie ist generell schweigsam, was ihre Gefühle angeht.“
+      <DefaultText>"Oh, Matkina hat es dir erzählt? Was für eine Überraschung. Sie ist generell ruhiger, was ihre Gefühle angeht.“
 
-Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Aber es musste so passieren. Ich war für die meisten meiner Jahrhunderte eine Kriegerin. Ich weiß darüber, Opfer im Dienst von höheren Idealen zu bringen. Ich habe aufgehört, meinen Schlaf darüber zu verlieren. Lebe lang genug, dann wirst du es verstehen.“</DefaultText>
-      <FemaleText />
+Sie richtet ihren Schwertgürtel. "Kholn war eine Schande. Eine Tragödie. Aber es musste so passieren. Ich war für die meisten meiner Jahrhunderte eine Kriegerin. Ich weiß darüber, Opfer im Dienst von höheren Idealen zu bringen. Ich habe aufgehört, meinen Schlaf darüber zu verlieren. Lebe lang genug, dann wirst du es verstehen.“</DefaultText>
+      <FemaleText>"Oh, Matkina hat es dir erzählt? Was für eine Überraschung. Sie ist generell ruhiger, was ihre Gefühle angeht.“
+
+Sie richtet ihren Schwertgürtel. "Kholn war eine Schande. Eine Tragödie. Aber es musste so passieren. Ich war für die meisten meiner Jahrhunderte eine Kriegerin. Ich weiß darüber, Opfer im Dienst von höheren Idealen zu bringen. Ich habe aufgehört, meinen Schlaf darüber zu verlieren. Lebe lang genug, dann wirst du es verstehen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>„Opfer? Manche würden das Kriegsverbrechen nennen … und dich ein Monster.“</DefaultText>
+      <DefaultText>"Opfer? Manche würden das Kriegsverbrechen nennen ... und dich ein Monster.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Es *musste* so passieren? Was ist damit, die Dorfbewohner überleben zu lassen?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Es *musste* so passieren? Was ist damit, die Dorfbewohner überleben zu lassen?“</DefaultText>
+      <FemaleText>"Es *musste* so passieren? Was ist damit, die Dorfbewohner überleben zu lassen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>„Eine gute Strategie braucht sorgfältige und objektive Entscheidungsfindung. Deine Taten waren richtig.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Eine gute Strategie braucht vorsichtige und objektive Entscheidungsfindung. Deine Taten waren richtig.“</DefaultText>
+      <FemaleText>"Eine gute Strategie braucht vorsichtige und objektive Entscheidungsfindung. Deine Taten waren richtig.“</FemaleText>
     </Entry>
     <Entry>
       <ID>40</ID>
@@ -115,18 +119,18 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Du nennst Matkina eine Verräterin. Warum?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Du nennst Matkina eine Verräterin. Warum?“</DefaultText>
+      <FemaleText>"Du nennst Matkina eine Verräterin. Warum?“</FemaleText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>„Sag mir nochmal, warum du Matkina für eine Verräterin hälst.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Sag mir nochmal, warum du Matkina für eine Verräterin hälst.“</DefaultText>
+      <FemaleText>"Sag mir nochmal, warum du Matkina für eine Verräterin hälst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>„Was meintest du, als du sagtest, dass ich dieses Heiligtum anfälliger gemacht hätte?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Was meintest du, als du sagtest, dass ich dieses Heiligtum anfälliger gemacht hätte?“</DefaultText>
+      <FemaleText>"Was meintest du, als du sagtest, dass ich dieses Heiligtum anfälliger gemacht hätte?“</FemaleText>
     </Entry>
     <Entry>
       <ID>46</ID>
@@ -150,7 +154,7 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>„Willst du die ganzen Litanei? Frag jemand anderen, mir fehlen die nötigen Jahre. Das schlimmste ist, dass er Pläne hatte, uns umzubringen, uns zu opfern, um sein Leben zu retten. Die Erste fand es heraus und machte einen Aufstand, um ihn aufzuhalten. Aber jetzt ist sie tot, wir müssen damit klarkommen, dass ich, im Andenken an sie, anführe … und in der Zwischenzeit würden Schleimer und Speichellecker für das Privileg, vernichtet zu werden, für ihn arbeiten. Aus irgendeinem unbegreiflichen Grund setzen sie ihr *Vertrauen* in den Mann, der uns in eine Welt aus Schmerz ausgesetzt hat.“</DefaultText>
+      <DefaultText>"Willst du die ganzen Litanei? Frag jemand anderen, mir fehlen die nötigen Jahre. Das schlimmste ist, dass er Pläne hatte, uns umzubringen, uns zu opfern, um sein Leben zu retten. Die Erste fand es heraus und machte einen Aufstand, um ihn aufzuhalten. Aber jetzt ist sie tot, wir müssen damit klarkommen, dass ich in ihrer Erinnerung anführe ... und in der Zwischenzeit würden Schleimer und Speichellecker für das Privileg, vernichtet zu werden, für ihn arbeiten. Aus irgendeinem unbegreiflichen Grund setzen sie ihr *Vertrauen* in den Mann, der uns in eine Welt aus Schmerz ausgesetzt hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,58 +194,58 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Oh, das sagte sie dir nicht? Sie stand mal unter meinem Kommando. Aber sie hinterging mich und zog es vor, Monster in Menschenhaut zu befreunden. Und statt dass sie für das übergeordnete Wohl zur Seite tritt, griff sie ihre Kameraden an. Sag mir, was würdest *du* jemanden nennen, die ihre eigene Art hintergeht? Eigentlich, vergiss es. Es interessiert mich nicht.“</DefaultText>
+      <DefaultText>"Oh, das sagte sie dir nicht? Sie stand mal unter meinem Kommando. Aber sie hinterging mich und zog es vor, Monster in Menschenhaut zu befreunden. Und statt dass sie für das übergeordnete Wohl zur Seite tritt, griff sie ihre Kameraden an. Sag mir, was würdest du jemanden nennen, die ihre eigene Art hintergeht? Eigentlich, vergiss es. Es interessiert mich nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>„Weil sie mich hintergangen hat.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Weil sie mich hintergangen hat.“</DefaultText>
+      <FemaleText>"Weil sie mich hintergangen hat.“</FemaleText>
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>„Deine tollpatschigen Taten sind natürlich nichts im Vergleich zu den Verbrechen unseres Schöpfers. Ich ziehe los, um mehr von ihnen aufzuhalten.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Deine tollpatschigen Taten sind natürlich nichts im Vergleich zu den Verbrechen unseres Schöpfers. Ich ziehe los, um mehr von ihnen aufzuhalten.“</DefaultText>
+      <FemaleText>"Deine tollpatschigen Taten sind natürlich nichts im Vergleich zu den Verbrechen unseres Schöpfers. Ich ziehe los, um mehr von ihnen aufzuhalten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>„Wie es auch sein mag, ich habe wichtige Informationen zu überbrinen.“</DefaultText>
+      <DefaultText>"Wie es auch sein mag, ich habe wichtige Informationen zu teilen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>„Was kümmert es dich, was ich denke? Ich hatte meine Gründe, hier reinzukommen.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Warum kümmert es dich, was ich denke? Ich hatte meine Beweggründe, hier reinzukommen.“</DefaultText>
+      <FemaleText>"Warum kümmert es dich, was ich denke? Ich hatte meine Beweggründe, hier reinzukommen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>„Ich muss dir nur ein paar Fragen stellen.“</DefaultText>
+      <DefaultText>"Ich muss dich nur ein paar Fragen stellen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>„Diese Leute mussten nicht mit meinen Problemen fertig werden. Und wenn sie mich ein Monster nennen, was ist schon dabei? Sie werden in ein paar Jahren tot sein, und ich werde weiterleben. Wie wichtig ist dann ihre Meinung?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Diese Leute mussten nicht mit meinen Problemen fertig werden. Und wenn sie mich ein Monster nennen, was ist schon dabei? Sie werden in ein paar Jahren tot sein, und ich werde weiterleben. Wie wichtig ist dann ihre Meinung?“</DefaultText>
+      <FemaleText>"Diese Leute mussten nicht mit meinen Problemen fertig werden. Und wenn sie mich ein Monster nennen, was ist schon dabei? Sie werden in ein paar Jahren tot sein, und ich werde weiterleben. Wie wichtig ist dann ihre Meinung?“</FemaleText>
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>„Verstehst du, was wir diese Nacht verloren haben? Verstehst du, was wir erlangt haben? Du warst nicht dabei. Du bist mir noch nicht mal begegnet, aber du meinst, mich wegen meinen Taten vor zweihundert Jahren zu beurteilen? Es steht viel mehr auf dem Spiel als nur ein paar Monster. Wir kämpfen um unser *Überleben*, du verdammtes Kleinkind, und ich lasse nicht zu, dass du mir eine Moralpredigt hälst, während ich versuche, dein Leben zu retten.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Verstehst du, was wir diese Nacht verloren haben? Verstehst du, was wir erlangt haben? Du warst nicht dabei. Du bist mir noch nicht mal begegnet, aber du meinst, mich wegen meinen Taten vor zweihundert Jahren zu beurteilen? Es steht viel mehr auf dem Spiel als nur ein paar Monster. Wir kämpfen um unser *Überleben*, du verdammtes Kleinkind, und ich lasse nicht zu, dass du mir eine Moralpredigt hälst, während ich versuche, dein Leben zu retten.“</DefaultText>
+      <FemaleText>"Bemerkst du, was wir diese Nacht verloren haben? Bemerkst du, was wir erlangt haben? Du warst nicht dabei. Du bist noch nicht mal mir begegnet, aber du meinst, mich wegen meinen Taten vor zweihundert Jahren zu beurteilen? Es steht viel mehr auf dem Spiel als nur ein paar Monster. Wir kämpfen um unser *Überleben*, du verdammtes Kleinkind, und ich lasse nicht zu, dass du mir eine Moralpredigt hälst, während ich versuche, dein Leben zu retten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Sie schaut dich sorgfältig an und wägt ab, ob du sie verspottest oder nicht. „Ich hätte von jemandem deines Alters keine Weisheit erwartet. Normalerweise sind wir idealistischer wenn wir jung sind. Matkina hat es nicht verstanden. Ich weiß nicht, ob sie es bis heute verstanden hat.“</DefaultText>
-      <FemaleText />
+      <DefaultText>Sie schaut dich vorsichtig an und wägt ab, ob du sie verspottest oder nicht. "Ich hätte von jemandem deines Alters keine Weisheit erwartet. Normalerweise sind wir idealistischer wenn wir jung sind. Matkina hat es nicht verstanden. Ich weiß nicht, ob sie es bis heute verstanden hat.“</DefaultText>
+      <FemaleText>Sie schaut dich vorsichtig an und wägt ab, ob du sie verspottest oder nicht. "Ich hätte von jemandem deines Alters keine Weisheit erwartet. Normalesweise sind wir idealistischer wenn wir jung sind. Matkina hat es nicht verstanden. Ich weiß nicht, ob sie es bis jetzt versteht.“</FemaleText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Sie faucht dich leise an, „Du warst *da*. Du hast gesehen, was passiert ist und du sagst, dass sie im *Recht* ist?“</DefaultText>
-      <FemaleText />
+      <DefaultText>Sie faucht dich leise an, "Du warst *da*. Du hast gesehen, was passiert ist und du sagst, dass sie im *Recht* ist?“</DefaultText>
+      <FemaleText>Sie faucht dich leise an, "Du warst *da*. Du hast gesehen, was passiert ist und du sagst, dass sie im *Recht* ist?“</FemaleText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>„Bitte hör mit dem Fauchen auf, Matkina. Das ist unhöflich.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Bitte hör mit dem Fauchen auf, Matkina. Das ist unhöflich.“</DefaultText>
+      <FemaleText>"Bitte hör mit dem Fauchen auf, Matkina. Das ist unhöflich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>80</ID>
@@ -250,38 +254,38 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Sie schaut dich einen Moment lang mitleidig an. „Nutze deinen Verstand und denke darüber nach. Wenn eine Tür verschlossen ist und du sie am Rahmen eintrittst, wie gut kann diese Tür andere Eindringlinge abhalten?“</DefaultText>
+      <DefaultText>Sie schaut dich einen Moment lang mitleidig an. "Verwende deinen Verstand und denke darüber nach. Wenn eine Tür verschlossen ist und du sie am Rahmen eintrittst, wie gut diese Tür andere Eindringlinge abhalten?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>„Du hast ohne nachzudenken gehandelt, deinen Weg in ein verschlossenes Heiligtum freigekämpft, und jetzt willst du wissen, was du falsch gemacht hast? Der Wandelnde Gott erschuf dich, um klüger zu handeln als so… hoffe ich.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Du hast ohne Nachdenken agiert, deinen Weg in ein verschlossenes Heiligtum freigekämpft, und jetzt willst du wissen, was du falsch getan hast? Der Wandelnde Gott baute dich, umbesser als das zu denken... hoffe ich.“</DefaultText>
+      <FemaleText>"Du hast ohne Nachdenken agiert, deinen Weg in ein verschlossenes Heiligtum freigekämpft, und jetzt willst du wissen, was du falsch getan hast? Der Wandelnde Gott baute dich, umbesser als das zu denken... hoffe ich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>„Du hast effektiv eine Tür aufgesprengt, ohne darüber nachzudenken, warum sie überhaupt verschlossen war. Du hast nur an deinen Eigennutz gedacht, oder?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Du hast effektiv eine Tür vernichtet, ohne darüber nachzudenken, warum sie überhaupt verschlossen war. Du dachtest an nichts anderes als deine eigenen Zwecke, oder?“</DefaultText>
+      <FemaleText>"Du hast effektiv eine Tür vernichtet, ohne darüber nachzudenken, warum sie überhaupt verschlossen war. Du dachtest an nichts anderes als deine eigenen Zwecke, oder?“</FemaleText>
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Sie seufzt. „Ich kann deine Gezeiten spüren. Ich weiß, dass du glaubst, dass du das Richtige tust, aber lass mich dir dies sagen - manchmal schadet es den Leuten mehr, als es ihnen Gutes tut, wenn man blindlingsvorstürmt, um einen zu helfen. Das Portal war aus einem Grund versiegelt. Hab doch etwas Einfühlungsvermögen.“</DefaultText>
-      <FemaleText />
+      <DefaultText>Sie seufzt. "Ich kann deine Gezeiten spüren. Ich weiß, dass du glaubst, dass du das Richtige tust, aber lass mich dir dies sagen - manchmal schadet es den Leuten mehr, als es ihnen Gutes tut, wenn man blindlingsvorstürmt, um einen zu helfen. Das Portal war aus einem Grund versiegelt. Hab doch etwas Einfühlungsvermögen.“</DefaultText>
+      <FemaleText>Sie seufzt. "Ich kann deine Gezeiten spüren. Ich weiß, dass du glaubst, dass du das Richtige tust, aber lass mich dir dies sagen - manchmal schadet es den Leuten mehr, als es ihnen Gutes tut, wenn man blindlingsvorstürmt, um einen zu helfen. Das Portal war aus einem Grund versiegelt. Hab doch etwas Einfühlungsvermögen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>„Dachtest du, dass das Portal nur deinetwegen versiegelt war? Oder dachtest du an irgendetwas anderes als deine eigenen Wünsche? Wir haben es aus einem bestimmten Grund versiegelt, aber ich vermute, du schätzt dich als zu wichtig ein.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Dachtest du, dass das Portal gegen dich alleine versiegelt war? Oder dachtest du an irgendetwas anderes als deine eigenen Wünsche? Wir haben es aus einem Grund versiegelt, aber ich schätze, du verstehst dich als zu wichtig.“</DefaultText>
+      <FemaleText>"Dachtest du, dass das Portal gegen dich alleine versiegelt war? Oder dachtest du an irgendetwas anderes als deine eigenen Wünsche? Wir haben es aus einem Grund versiegelt, aber ich schätze, du verstehst dich als zu wichtig.“</FemaleText>
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Sie blickt zur Sonne hoch, wässrig durch den Schleier der schimmernden Schilde, und spricht, „Meine Zeit ist kostbar.“</DefaultText>
+      <DefaultText>Sie blickt auf die Sonne hoch, wässrig durch den Schleier der shimmernden Schilde, und spricht, "Meine Zeit ist wertvoll.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„Nicht mit mir. Ich bin nicht daran interessiert, was du zu sagen hast, um ehrlich zu sein, und es wartet eine große Menge Arbeit auf mich. Wenn du deine Freude an dein neues Leben ausdrücken willst oder einen Moment der glücklichen Brüderlichkeit mit deinen Geschwistern haben willst, dann schlage ich vor, dass du mit Aadiriis redest. Sie gibt dir die Bestätigung, die du zu brauchen scheinst.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Nicht mit mir. Ich bin nicht daran interessiert, was du zu sagen hast, um ehrlich zu sein, und es wartet eine große Menge Arbeit auf mich. Wenn du deine Freude an dein neues Leben ausdrücken willst oder einen Moment der glücklichen Brüderlichkeit mit deinen Geschwistern haben willst, dann schlage ich vor, dass du mit Aadiriis redest. Sie gibt dir die Validierung, die du zu brauchen scheinst.“</DefaultText>
+      <FemaleText>"Nicht mit mir. Ich bin nicht daran interessiert, was du zu sagen hast, um ehrlich zu sein, und es wartet eine große Menge Arbeit auf mich. Wenn du deine Freude an dein neues Leben ausdrücken willst oder einen Moment der glücklichen Brüderlichkeit mit deinen Geschwistern haben willst, dann schlage ich vor, dass du mit Aadiriis redest. Sie gibt dir die Validierung, die du zu brauchen scheinst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>88</ID>
@@ -290,22 +294,22 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>„Wohin zieht es dich jetzt?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Wohin zieht es dich jetzt?“</DefaultText>
+      <FemaleText>"Wohin zieht es dich jetzt?“</FemaleText>
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>„Sag mir nochmal, wo du hingehst.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Sag mir nochmal, wo du hingehst.“</DefaultText>
+      <FemaleText>"Sag mir nochmal, wo du hingehst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„Lass mich dich etwas anderes fragen.“</DefaultText>
+      <DefaultText>"Lass mich dich etwas anderes fragen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>„Die anderen Verstoßenen, die für den Wandelnden Gott arbeiten … vielleicht glauben sie an die Erlösung, die er bietet.“</DefaultText>
+      <DefaultText>"Die anderen Verstoßenen, die für den Wandelnden Gott arbeiten ... vielleicht glauben sie an die Erlösung, die er bietet.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,7 +319,7 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>„Könnte sein. Sie sind in den meisten anderen Dingen keine Idioten, das ist wahr. Aber für jeden, der Augen hat, ist es klar, dass er sie anlügt. Er führt sie in den Tod, weil er zu viel Angst hat, sich ihm selbst zu stellen.“</DefaultText>
+      <DefaultText>"Könnte sein. Sie sind in den meisten anderen Sachen keine Idioten, das ist wahr. Aber für jeden, der Augen hat, ist es klar, dass er sie anlügt. Er führt sie in den Tod, weil er zu viel Angst hat, sich ihm selbst zu stellen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,18 +329,18 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>„Welche Verbrechen hat unser Schöpfer begangen?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Welche Verbrechen hat unser Schöpfer begangen?“</DefaultText>
+      <FemaleText>"Welche Verbrechen hat unser Schöpfer begangen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>„Ich will wieder über unseren Erzeuger sprechen.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Ich will wieder über unseren Erzeuger sprechen.“</DefaultText>
+      <FemaleText>"Ich will wieder über unseren Erzeuger sprechen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>„Wenn es sein muss.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Wenn es sein muss."</DefaultText>
+      <FemaleText>"Wenn es sein muss."</FemaleText>
     </Entry>
     <Entry>
       <ID>104</ID>
@@ -345,13 +349,13 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>„Wie ist die Erste gestorben?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Wie ist die Erste gestorben?“</DefaultText>
+      <FemaleText>"Wie ist die Erste gestorben?“</FemaleText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>„Sag mir nochmal, wie die Erste gestorben ist.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Sag mir nochmal, wie die Erste gestorben ist.“</DefaultText>
+      <FemaleText>"Sag mir nochmal, wie die Erste gestorben ist.“</FemaleText>
     </Entry>
     <Entry>
       <ID>107</ID>
@@ -360,13 +364,13 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>„Was waren die Pläne des Wandelnden Gottes?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Was waren die Pläne des Wandelnden Gottes?“</DefaultText>
+      <FemaleText>"Was waren die Pläne des Wandelnden Gottes?“</FemaleText>
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>„Sag mir nochmal, wie der Wandelnde Gott plante, uns alle zu töten.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Sag mir nochmal, wie der Wandelnde Gott plante, uns alle zu töten.“</DefaultText>
+      <FemaleText>"Sag mir nochmal, wie der Wandelnde Gott plante, uns alle zu töten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>110</ID>
@@ -390,12 +394,12 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Sie kaut sich einen Moment lang an der Wange. „Wie sie gelebt hat. Sie opferte sich für unsere Leben.“</DefaultText>
-      <FemaleText />
+      <DefaultText>Sie kaut sich einen Moment lang an der Wange. "Wie sie gelebt hat. Sie opferte sich für unsere Leben.“</DefaultText>
+      <FemaleText>Sie kaut sich einen Moment lang an der Wange. "Wie sie gelebt hat. Sie opferte sich für unsere Leben.“</FemaleText>
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>„Wenn du Geschichten willst, dann bekommst du sie von jemand anderen.“</DefaultText>
+      <DefaultText>"Wenn du Geschichten willst, dann bekommst du sie von jemand anderen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -405,18 +409,18 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>„Er wollte unsere Leben in einer wahnsinnigen Opfergabe darbieten, um den Kummer aufzuhalten. Der schert sich nicht um uns. Er kümmert sich nur um sich selbst.“</DefaultText>
+      <DefaultText>"Er wollte unsere Leben in einer wahnsinnigen Opfergabe darbieten, um den Kummer aufzuhalten. Der schert sich nicht um uns. Er kümmert sich nur um sich selbst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>„Ich bin nicht in alle Einzelheiten eingeweiht. Die Erste hat es mir erzählt. Sie hat es uns allen erzählt. Es klang mir so, als sei er einen Handel mit dem Kummer eingegangen - all unsere Leben als Tausch für sein Leben.“</DefaultText>
+      <DefaultText>"Ich bin nicht in alle Einzelheiten eingeweiht. Die Erste hat es mir erzählt. Sie hat es uns allen erzählt. Es klang mir so, als sei er einen Handel mit dem Kummer eingegangen - all unsere Leben als Tausch für sein Leben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
       <DefaultText>Sie seufzt gereizt.</DefaultText>
-      <FemaleText />
+      <FemaleText>Sie seufzt gereizt.</FemaleText>
     </Entry>
     <Entry>
       <ID>120</ID>
@@ -425,178 +429,188 @@ Sie richtet ihren Schwertgürtel. „Kholn war eine Schande. Eine Tragödie. Abe
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>„Zurück zur Endlosen Schlacht. Ich führe die Streitkräfte unserer Seite gegen die Mächte des Feiglings an, seitdem die Erste gestorben ist.“ Ihr Kiefer spannt sich. „Um uns gegen die Vorhaben unseres Vaters zu beschützen. Die andere Seite will, dass er siegt. Wenn du mehr Einzelheiten willst, bekommst du sie von jemand anderem hier. Ich habe einen Krieg, den ich führen muss.“</DefaultText>
+      <DefaultText>"Zurück zur Endlosen Schlacht. Ich führe die Streitkräfte unserer Seite gegen die Mächte des Feiglings an, seitdem die Erste gestorben ist.“ Ihr Kiefer spannt sich. "Um uns gegen die Vorhaben unseres Vaters zu beschützen. Die andere Seite will, dass er siegt. Wenn du mehr Einzelheiten willst, bekommst du sie von jemand anderem hier. Ich habe einen Krieg, in dem ich kämpfen muss.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>„Zurück zur Endlosen Schlacht. Ich habe eine Armee, die ich befehligen muss.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Zurück zur Endlosen Schlacht. Ich habe eine Armee, die ich befehligen muss.“</DefaultText>
+      <FemaleText>"Zurück zur Endlosen Schlacht. Ich habe eine Armee, die ich befehligen muss.“</FemaleText>
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>„Und zweifellos sind das *gute* Beweggründe. Wichtig genug, dass du den einzigen Ort bedrohst, wo wir jahrhundertelang vor dem Kummer in Sicherheit waren. Um ehrlich zu sein, bin ich nicht daran interessiert, sie zu hören.“</DefaultText>
+      <DefaultText>"Und zweifellos sind das *gute* Beweggründe. Wichtig genug, dass du den einzigen Ort bedrohst, wo wir jahrhundertelang vor dem Kummer in Sicherheit waren. Um ehrlich zu sein, bin ich nicht daran interessiert, sie zu hören.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>„Das ist fast die gleiche Rede, die du mir damals vorgetragen hast. Gut zu wissen, dass du beständig bist.“
+      <DefaultText>"Das ist fast die gleiche Rede, die du mir damals vorgetragen hast. Gut zu wissen, dass du beständig bist.“
 
-Sie hält eine Hand hoch. „Nein, tut mir leid. Ich bin fertig. Bitte, stelle Paj deine Fragen. Schau doch, ob du Antworten bekommst.“</DefaultText>
-      <FemaleText />
+Sie hält eine Hand hoch. "Nein, tut mir Leid. Ich bin fertig. Bitte, stelle Paj deine Fragen. Schau doch, ob du Antworten bekommst.“</DefaultText>
+      <FemaleText>"Das ist fast die gleiche Rede, die du mir damals vorgetragen hast. Gut zu wissen, dass du beständig bist.“
+
+Sie hält eine Hand hoch. "Nein, tut mir Leid. Ich bin fertig. Bitte, stelle Paj deine Fragen. Schau doch, ob du Antworten bekommst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>„In tausend Jahren werden wir tot sein. Der Kummer wird uns überdauern. Ist dann der Kummer im Recht?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"In tausend Jahren werden wir tot sein. Der Kummer wird uns überdauern. Ist dann der Kummer im Recht?“</DefaultText>
+      <FemaleText>"In tausend Jahren werden wir tot sein. Der Kummer wird uns überdauern. Ist dann der Kummer im Recht?“</FemaleText>
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>„Wenn du den Kummer fragst? Absolut. Und uns? Weniger … aber wir werden nicht da sein, um darüber zu klagen, oder? Wir tun, was wir können, für die Leute, die wir beschützen. Das ist alles, was wir tun können. Das ist, was wir tun *müssen*. Wenn du denkst, dass deine Wertevorstellungen stärker sind als das Überleben, dann … na ja, viel Glück dabei. Vielleicht machen Segenswünsche den Unterschied für dich. Aber ich bezweifle das sehr stark.“</DefaultText>
+      <DefaultText>"Wenn du den Kummer fragst? Absolut. Und uns? Weniger ... aber wir werden nicht da sein, um darüber zu klagen, oder? Wir tun, was wir können, für die Leute, die wir beschützen. Das ist alles, was wir tun können. Das ist, was wir tun *müssen*. Wenn du denkst, dass deine Wertevorstellungen stärker sind als das Überleben, dann ... na ja, viel Glück dabei. Vielleicht machen Segenswünsche den Unterschied für dich. Aber ich bezweifle das sehr stark.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>„Diese Leute mussten nicht mit meinen Problemen fertig werden. Und wenn mich manche von ihnen ein Monster nennen, was ist schon dabei? Sie werden in ein paar Jahren tot sein, und ich werde weiterleben. Wie wichtig ist dann ihre Meinung? Das erzählte mir Matkina vor Jahrhunderten, und sie jammert immer noch über ihre sterblichen Freunde.“</DefaultText>
+      <DefaultText>"Diese Leute mussten nicht mit meinen Problemen fertig werden. Und wenn mich manche von ihnen ein Monster nennen, was ist schon dabei? Sie werden in ein paar Jahren tot sein, und ich werde weiterleben. Wie wichtig ist dann ihre Meinung? Das erzählte mir Matkina vor Jahrhunderten, und sie jammert immer noch über ihre sterblichen Freunde.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>„Na ja, lass mich dich nicht länger aufhalten.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Na ja, lass mich dich nicht länger aufhalten.“</DefaultText>
+      <FemaleText>"Na ja, lass mich dich nicht länger aufhalten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>„… nun, die Welt findet immer einen Weg, uns alle zu enttäuschen.“</DefaultText>
+      <DefaultText>"... nun, die Welt findet immer einen Weg, uns alle zu enttäuschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>„Ich muss Mazzof finden. Ist er hier?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Ich muss Mazzof finden. Wo ist er?“</DefaultText>
+      <FemaleText>"Ich muss Mazzof finden. Wo ist er?“</FemaleText>
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>Sie kneift die Augen zusammen. „Seit einem Jahrzehnt hat niemand mehr Mazzof gesehen. Aadiriis könnte wissen, wo er ist. Sprich mit ihr.“ Ihr Stimme mildert. „Aadiriis könte die Beste von uns sein. Behandle sie gut, oder ich werde sicherstellen, dass du mit Blut und Schmerz bezahlst.“</DefaultText>
-      <FemaleText />
+      <DefaultText>Sie kneift die Augen zusammen. "Seit einem Jahrzehnt hat niemand mehr Mazzof gesehen. Aadiriis könnte wissen, wo er ist. Sprich mit ihr.“ Ihr Stimme mildert. "Aadiriis könte die Beste von uns sein. Behandle sie gut, oder ich werde sicherstellen, dass du mit Blut und Schmerz bezahlst.“</DefaultText>
+      <FemaleText>Sie kneift die Augen zusammen. "Seit einem Jahrzehnt hat niemand mehr Mazzof gesehen. Aadiriis könnte wissen, wo er ist. Sprich mit ihr.“ Ihr Stimme mildert. "Aadiriis könte die Beste von uns sein. Behandle sie gut, oder ich werde sicherstellen, dass du mit Blut und Schmerz bezahlst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>„Erzähl mir was über Aadiriis.“</DefaultText>
+      <DefaultText>"Erzähl mir davon."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>„Sie hat die Eigenschaften, die der Rest von uns nicht hat - eine friedliche, idealistische Beschaffenheit. Sie will nur das Beste für alle Verstoßenen. Sie ragt über unsere Rivalitäten hinaus. Ihr Idealismus ist … manchmal frustrierend, aber ihr sanftes Wesen verleiht ihr Weisheit und Einsicht.“</DefaultText>
+      <DefaultText>"Sie hat die Eigenschaften, die der Rest von uns nicht hat - eine friedliche, idealistische Beschaffenheit. Sie will nur das Beste für alle Verstoßenen. Sie ragt über unsere Rivalitäten hinaus. Ihr Idealismus ist ... manchmal frustrierend, aber ihr sanftes Wesen verleiht ihr Weisheit und Einsicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>„Wir sind auch sterblich, Paj. Oder hast du die Erste vergessen? Wo wir gerade dabei sind - warst *du* nicht für den Tod dieser alten Xanthippe verantwortlich?“</DefaultText>
+      <DefaultText>"Wir sind auch sterblich, Paj. Oder hast du die Erste vergessen? Wo wir gerade dabei sind - warst *du* nicht für den Tod dieser alten Xanthippe verantwortlich?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Sie kneift ihre Augen zusammen und zieht ihre Klinge halb aus der Scheide, dann hält sie ein. Die Muskeln ihres Gesichtes zucken und sie kaut hart auf ihre Wange. Sie schiebt die Klinge wieder zurück. „Wenn es Aadiriis' Frieden nicht gäbe, dann würde ich dich jetzt umbringen.“
+      <DefaultText>Sie kneift ihre Augen zusammen und zieht ihre Klinge halb aus der Scheide, dann hält sie ein. Die Muskeln ihres Gesichtes zucken und sie kaut hart auf ihre Wange. Sie schiebt die Klinge wieder zurück. "Wenn es Aadiriis' Frieden nicht gäbe, dann würde ich dich jetzt umbringen.“
 
-Sie spuckt einen Mundvoll Blut auf Matkinas Stiefel. „Du weißt nichts über Freundschaft, Matkina. Du weißt nicht, was sie kostet.“</DefaultText>
-      <FemaleText />
+Sie spuckt einen Mundvoll Blut auf Matkinas Stiefel. "Du weißt nichts über Freundschaft, Matkina. Du weißt nicht, was sie kostet.“</DefaultText>
+      <FemaleText>Sie kneift ihre Augen zusammen und zieht ihre Klinge halb aus der Scheide, dann macht sie eine Pause. Die Muskeln ihres Gesichtes zucken und sie kaut hart auf ihre Wange. Sie schiebt die Klinge wieder zurück. "Wenn es Aadiriis' Frieden nicht gäbe, dann würde ich dich jetzt umbringen.“
+
+Sie spuckt einen Mundvoll Blut auf Matkinas Stiefel. "Du weißt nichts über Freundschaft, Matkina. Du weißt nicht, was es kostet.“</FemaleText>
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>„Kostet es ein Dorf voll Unschuldigen?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Kostet es ein Dorf voll Unschuldigen?“</DefaultText>
+      <FemaleText>"Kostet es ein Dorf voll Unschuldigen?“</FemaleText>
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>„Das war unangebracht, Matkina.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Das war unangebracht, Matkina.“</DefaultText>
+      <FemaleText>"Das war unangebracht, Matkina.“</FemaleText>
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>„Freundschaft? Du warst mit der Ersten befreundet, oder, Paj? Du warst ihr *untergeben*.“</DefaultText>
+      <DefaultText>"Freundschaft? Du warst mit der Ersten befreundet, oder, Paj? Du warst ihr *untergeben*.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>„Wirklich? Ich persönlich denke, dass es längst überfällig war.“ Sie zuckt mit den Schultern und schaut weg.</DefaultText>
-      <FemaleText />
+      <DefaultText>"Wirklich? Ich persönlich denke, dass es längst überfällig war.“ Sie zuckt mit den Schultern und schaut weg.</DefaultText>
+      <FemaleText>"Wirklich? Ich persönlich denke, dass es längst überfällig war.“ Sie zuckt mit den Schultern und schaut weg.</FemaleText>
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>„Was würdest du schon über Freunde wissen, *Kleinkind*? Wie lange bist du schon auf der Erde? Ein paar Tage? Ein paar Wochen? Du hast keine Ahnung von Aufopferung. Aber das wirst du.“
+      <DefaultText>"Was würdest du schon über Freunde wissen, *Kleinkind*? Wie lange bist du schon auf der Erde? Ein paar Tage? Ein paar Wochen? Du hast keine Ahnung von Aufopferung. Aber das wirst du.“
 
-Sie neigt sich nahe zu dir. „Eines Tages *wirst* du das.“
+Sie neigt sich nahe zu dir. "Eines Tages *wirst* du das.“
 
 Sie richtet sich wieder auf, in voller Militärhaltung.</DefaultText>
-      <FemaleText />
+      <FemaleText>"Was würdest du schon über Freunde wissen, *Kleinkind*? Wie lange bist du schon auf der Erde? Ein paar Tage? Ein paar Wochen? Du hast keine Ahnung von Aufopferung. Aber das wirst du.“
+
+Sie neigt sich nahe zu dir. "Eines Tages *wirst* du das.“
+
+Sie richtet sich wieder auf, in voller Militärhaltung.</FemaleText>
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>„Geh und sprich mit Aadiriis. Gib ihr deinen Dank. Sie ist der einzige Grund, warum du noch lebst.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Geh und sprich mit Aadiriis. Gib ihr deinen Dank. Sie ist der einzige Grund, warum du noch lebst.“</DefaultText>
+      <FemaleText>"Geh und sprich mit Aadiriis. Gib ihr deinen Dank. Sie ist der einzige Grund, warum du noch lebst.“</FemaleText>
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Er ist einen Moment lang ruhig, dann bricht er aus. „Du suchst nach dem Wandelnden Gott? Dem Feigling?“ Er zuckt einen Daumen zu dir. „Genau hier. Zumindest erzählte er allen in den Sagusklippen, dass er es sei.“</DefaultText>
-      <FemaleText>Er ist einen Moment lang ruhig, dann bricht er aus. „Du suchst nach dem Wandelnden Gott? Dem Feigling?“ Er zuckt einen Daumen zu dir. „Genau hier. Zumindest erzählte sie allen in den Sagusklippen, dass sie es sei.“</FemaleText>
+      <DefaultText>Er ist einen Moment lang ruhig, dann bricht er aus. "Du suchst nach dem Wandelnden Gott? Dem Feigling?“ Er zuckt einen Daumen zu dir. "Genau hier. Zumandest erzählte er allen in den Sagusklippen, dass er es sei.“</DefaultText>
+      <FemaleText>Er ist einen Moment lang ruhig, dann bricht er aus. "Du suchst nach dem Wandelnden Gott? Dem Feigling?“ Er zuckt einen Daumen zu dir. "Genau hier. Zumandest erzählte er allen in den Sagusklippen, dass er es sei.“</FemaleText>
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Sie schaut ihn kurz gleichgültig an, dann blickt sie zu dir. „Ist dem so? Dann wirst du erfreut sein wenn ich sage, dass wir ein paar Überraschungen auf Lager haben. Ich würde sofort ein Messer in dich stechen wenn ich nicht denken würde, dass du mich mit der Leiche eines schuldlosen Abgeworfenen zurücklässt.“</DefaultText>
+      <DefaultText>Sie schaut ihn kurz gleichgültig an, dann blickt sie zu dir. "Ist dem so? Dan wirst du erfreut sein wenn ich sage, dass wir ein paar Überraschungen auf Lager haben. Ich würde sofort ein Messer in dich stechen wenn ich nicht denken würde, das du mich mit der Leiche eines schuldlosen Abgeworfenen zurücklässt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Sie blickt wieder zu Aligern. „Das Problem mit diesem schlüpfrigen Mistkerl ist, dass man sich *vorbereiten* muss, um ihn zu fangen. Jetzt gerade habe ich nichts vorbereitet.“
+      <DefaultText>Sie blickt wieder zu Aligern. "Das Problem mit diesem schlüpfrigen Mistkerl ist, dass man sich *vorbereiten* muss, um ihn zu fangen. Jetzt gerade habe ich nichts vorbereitet.“
 
-Sie wendet sich wieder zu dir. „Also stell deine Fragen. Ich bin nicht überaus damit beschäftigt, wer du bist. *Ich* rühme mich mit meiner Ehrlichkeit. Anders als manch andere.“</DefaultText>
-      <FemaleText />
+Sie wendet sich wieder zu die. "Also stell deine Fragen. Ich bin nicht überaus damit beschäftigt, wer du bist. *Ich* rühme mich mit meiner Ehrlichkeit. Anders als manch andere.“</DefaultText>
+      <FemaleText>Sie blickt wieder zu Aligern. "Das Problem mit diesem schlüpfrigen Mistkerl ist, dass man sich *vorbereiten* muss, um ihn zu fangen. Jetzt gerade habe ich nichts vorbereitet.“
+
+Sie wendet sich wieder zu die. "Also stell deine Fragen. Ich bin nicht überaus damit beschäftigt, wer du bist. *Ich* rühme mich mit meiner Ehrlichkeit. Anders als manch andere.“</FemaleText>
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>„… nun, die Welt findet immer einen Weg, uns alle zu enttäuschen.“</DefaultText>
+      <DefaultText>"... nun, die Welt findet immer einen Weg, uns alle zu enttäuschen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>„Was zu Paj gesagt hast… du warst auf meiner Seite. Warum?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Was zu Paj gesagt hast... du warst auf meiner Seite. Warum?“</DefaultText>
+      <FemaleText>"Was zu Paj gesagt hast... du warst auf meiner Seite. Warum?“</FemaleText>
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>„Du bist bei mir. Ich stehe zu meinen Verbündeten.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Du bist bei mir. Ich stehe zu meinen Verbündeten.“</DefaultText>
+      <FemaleText>"Du bist bei mir. Ich stehe zu meinen Verbündeten.“</FemaleText>
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>Sie nickt. „Na ja, meinetwegen. Ich würdige das. Immer schön zu sehen, wie Paj in ihre Schranken gewiesen wird. Du hast es vielleicht nicht bemerkt, aber deine Worte sind ihr ins Bewusstsein eingedrungen.“</DefaultText>
+      <DefaultText>Sie nickt. "Na ja, meinetwegen. Ich würdige das. Immer schön zu sehen, wie Paj in ihre Schranken gewiesen wird. Du hast es vielleicht nicht bemerkt, aber deine Worte sind ihr ins Bewusstsein eingedrungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>„Weil ich gesehen habe, was sie in Kholn angestellt hat.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Weil ich gesehen habe, was sie in Kholn angestellt hat.“</DefaultText>
+      <FemaleText>"Weil ich gesehen habe, was sie in Kholn angestellt hat.“</FemaleText>
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>„Um ehrlich zu sein, ich mag sie einfach nicht.“</DefaultText>
+      <DefaultText>"Um ehrlich zu sein, ich mag sie einfach nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Sie nickt. „Sie kann diese Wirkung haben. Na ja. Ich würdige das, egal, aus welchem Grund.“</DefaultText>
-      <FemaleText />
+      <DefaultText>Sie nickt. "Sie kann diese Wirkung haben. Na ja. Ich würdige das, egal, aus welchem Grund.“</DefaultText>
+      <FemaleText>Sie nickt. "Sie kann diese Wirkung haben. Na ja. Ich würdige das, egal, aus welchem Grund.“</FemaleText>
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>„Ich wollte sehen, wie sie darauf reagiert.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Ich wollte sehen, wie sie darauf reagiert.“</DefaultText>
+      <FemaleText>"Ich wollte sehen, wie sie darauf reagiert.“</FemaleText>
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Eine Ecke ihres Mundes krümmt sich. „Dann hoffe ich, dass du das bekommen hast, was du brauchtest.“</DefaultText>
-      <FemaleText />
+      <DefaultText>Eine Ecke ihres Mundes krümmt sich. "Dann hoffe ich, dass du das bekommen hast, was du brauchtest.“</DefaultText>
+      <FemaleText>Eine Ecke ihres Mundes krümmt sich. "Dann hoffe ich, dass du das bekommen hast, was du brauchtest.“</FemaleText>
     </Entry>
     <Entry>
       <ID>158</ID>
@@ -605,42 +619,42 @@ Sie wendet sich wieder zu dir. „Also stell deine Fragen. Ich bin nicht überau
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>„Ich habe verstanden, was sie mit der Aufopferung für das übergeordnete Wohl meinte. Es tut mir Leid, dass du deine Freunde verloren hast, Matkina.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Ich habe verstanden, was sie mit der Aufopferung für das übergeordnete Wohl meinte. Es tut mir Leid, dass du deine Freunde verloren hast, Matkina.“</DefaultText>
+      <FemaleText>"Ich habe verstanden, was sie mit der Aufopferung für das übergeordnete Wohl meinte. Es tut mir Leid, dass du deine Freunde verloren hast, Matkina.“</FemaleText>
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Sie nickt einmal scharf. „Na gut. Zumindest gibst du zu, dass du ein paar Grundsätze damit hast.“</DefaultText>
-      <FemaleText />
+      <DefaultText>Sie nickt einmal scharf. "Na gut. Zumindest gibst du zu, dass du ein paar Grundsätze damit hast.“</DefaultText>
+      <FemaleText>Sie nickt einmal scharf. "Na gut. Zumindest gibst du zu, dass du ein paar Grundsätze damit hast.“</FemaleText>
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>„Ich bin nicht hier, um Leute zu verärgern. Ich brauche Informationen.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Ich bin nicht hier, um Leute zu verärgern. Ich brauche Informationen.“</DefaultText>
+      <FemaleText>"Ich bin nicht hier, um Leute zu verärgern. Ich brauche Informationen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>„Du spielst ein langes Spiel? Keine Zeit, darüber nachzudenken, welchen Effekt du auf deine Gefährten hast? Ich verstehe.“ Sie zieht ihre Kapuze an ihrem Umhang etwas tiefer über ihren Kopf.</DefaultText>
-      <FemaleText />
+      <DefaultText>"Du spielst ein langes Spiel? Keine Zeit, darüber nachzudenken, welchen Effekt du auf deine Gefährten hast? Ich verstehe.“ Sie zieht ihre Kaupze an ihrem Umhang etwas tiefer über ihren Kopf.</DefaultText>
+      <FemaleText>"Du spielst ein langes Spiel? Keine Zeit, darüber nachzudenken, welchen Effekt du auf deine Gefährten hast? Ich verstehe.“ Sie zieht ihre Kaupze an ihrem Umhang etwas tiefer über ihren Kopf.</FemaleText>
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>„Ich versuchte es, ein Gespräch zu führen. Du hast unhöflich unterbrochen.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Ich versuchte es, ein Gespräch zu führen. Du hast unhöflich unterbrochen.“</DefaultText>
+      <FemaleText>"Ich versuchte es, ein Gespräch zu führen. Du hast unhöflich unterbrochen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>„Verstehe.“ Ihre Stimme ist flach und sie starrt sich eine lange Zeit an. „Sonst noch etwas?“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Vestehe.“ Ihre Stimme ist flach und sie starrt sich eine lange Zeit an. "Sonst noch etwas?“</DefaultText>
+      <FemaleText>"Vestehe.“ Ihre Stimme ist flach und sie starrt sich eine lange Zeit an. "Sonst noch etwas?“</FemaleText>
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>„Du warst auf ihrer Seite. Warum? Du hast doch gesehen, was in Kholn geschehen ist.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Du warst auf ihrer Seite. Warum? Du hast doch gesehen, was in Kholn geschehen ist.“</DefaultText>
+      <FemaleText>"Du warst auf ihrer Seite. Warum? Du hast doch gesehen, was in Kholn geschehen ist.“</FemaleText>
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>„Komm. Los geht’s.“</DefaultText>
+      <DefaultText>"Komm. Los geht’s."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -660,53 +674,55 @@ Sie wendet sich wieder zu dir. „Also stell deine Fragen. Ich bin nicht überau
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Ein böses Grinsen schleicht sich auf ihr Gesicht. „Sie wurde bei einem Überfall getötet und Paj benutzte ihr realitätsverschiebendes Gerät, um es permanent zu machen.“</DefaultText>
-      <FemaleText />
+      <DefaultText>Ein böses Grinsen schleicht sich auf ihr Geischt. "Sie wurde bei einem Überfall getötet und Paj benutzte ihr realitätsverschiebendes Gerät, um es permanent zu machen.“</DefaultText>
+      <FemaleText>Ein böses Grinsen schleicht sich auf ihr Geischt. "Sie wurde bei einem Überfall getötet und Paj benutzte ihr realitätsverschiebendes Gerät, um es permanent zu machen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Sie atmet langsam aus und ihr Gesicht wird vorsichtig, sorgsam ausdruckslos. Sie wendet sich wieder zu dir. „Sie hat Recht. Ein Fehler, der mich bis heute immer noch heimsucht.“</DefaultText>
+      <DefaultText>Sie atmet langsam aus und ihr Gesicht wird vorsichtig, sorgsam ausdruckslos. Sie wendet sich wieder zu dir. "Sie hat Recht. Ein Fehler, der mich bis heute immer noch heimsucht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>„Ich stieß mit Bericeal zusammen. Sie sagte, dass sie eine Nachricht für dich hat, aber nicht hinein konnte.“</DefaultText>
-      <FemaleText />
+      <DefaultText>"Ich stieß mit Bericeal zusammen. Sie sagte, dass sie eine Nachricht für dich hat, aber nicht hinein konnte.“</DefaultText>
+      <FemaleText>"Ich stieß mit Bericeal zusammen. Sie sagte, dass sie eine Nachricht für dich hat, aber nicht hinein konnte.“</FemaleText>
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>„Ach, wie überaus *nützlich* von dir. Das nächste Mal, dass ich jemand informiert haben will, dass ich eine Nachricht für ihn habe, sie aber nicht verschicken kann, dann weiß ich, bei wem ich mich melden muss.“
+      <DefaultText>"Ach, wie überaus *nützlich* von dir. Das nächste Mal, dass ich jemand informiert haben will, dass ich eine Nachricht für ihn habe, sie aber nicht verschicken kann, dann weiß ich, bei wem ich mich melden muss.“
 
 Sie das herablassendste Lächeln, dass du je gesehen hast. Es ist so, als ob sie geübt ist.</DefaultText>
-      <FemaleText />
+      <FemaleText>"Ach, wie überaus *nützlich* von dir. Das nächste Mal, dass ich jemand informiert haben will, dass ich eine Nachricht für ihn habe, sie aber nicht verschicken kann, dann weiß ich, bei wem ich mich melden muss.“
+
+Sie das herablassendste Lächeln, dass du je gesehen hast. Es ist so, als ob sie geübt ist.</FemaleText>
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>„Es gibt Gerüchte, dass die Aktivität des Kummers in letzter Zeit gestiegen ist. Ich glaube den Geschichten nicht, aber viele von ihnen tun es.“ Sie zeigt mit einem Daumen hinter sich zu den anderen Verstoßenen. „Deine Brüder und Schwestern. Deine *Familie*. Auch, wenn der Kummer nicht *aktiver* ist, ist er doch immer noch aktiv. Und sie kamen hierher, um in Sicherheit zu sein.“</DefaultText>
+      <DefaultText>"Es gibt Gerüchte, dass die Aktivität des Kummers in letzter Zeit gestiegen ist. Ich glaube den Geschichten nicht, aber viele von ihnen tun es.“ Sie zeigt mit einem Daumen hinter sich zu den anderen Verstoßenen. "Deine Brüder und Schwestern. Deine *Familie*. Auch, wenn der Kummer nicht *aktiver* ist, ist er doch immer noch aktiv. Und sie kamen hierher, um in Sicherheit zu sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>„Ich habe erst deiner Kameradin etwas zu sagen.“
+      <DefaultText>"Ich habe erst deiner Kameradin etwas zu sagen."
 
-Sie starrt Callistege und ihre Schwestern prüfend an. „Da wir unsere Geschwisterrivalität nun hinter uns gelassen haben, sprechen wir über *dich*. Du hast dich absichtlich zersplittert, nicht wahr?“</DefaultText>
+Sie starrt Callistege und ihre Schwestern prüfend an. "Da wir unsere Geschwisterrivalität nun hinter uns gelassen haben, sprechen wir über *dich*. Du hast dich absichtlich zersplittert, nicht wahr?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Sie hebt ihren Kinn gebieterisch. „Natürlich tat ich das.“</DefaultText>
-      <FemaleText />
+      <DefaultText>Sie hebt ihren Kinn gebieterisch. "Natürlich tat ich das.“</DefaultText>
+      <FemaleText>Sie hebt ihren Kinn gebieterisch. "Natürlich tat ich das.“</FemaleText>
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>„Dann einen Ratschlag. Mach es ungetan. Ich habe gesehen, wie andere Leute es versuchen, sich zu mehr als nur ein Mensch zu machen - wie der Feigling, zum Beispiel. Und alles, was du davon bekommst, ist ein Leben aus Einsamkeit und Jahrhunderte der Reue. Ich habe noch nie gesehen, dass es für irgendjemanden gut lief.“
+      <DefaultText>"Dann einen Ratschlag. Mach es ungetan. Ich habe gesehen, wie andere Leute es versuchen, sich zu mehr als nur ein Mensch zu machen - wie der Feigling, zum Beispiel. Und alles, was du davon bekommst, ist ein Leben aus Einsamkeit und Jahrhunderte der Reue. Ich habe noch nie gesehen, dass es für irgendjemanden gut lief."
 
-Sie zuckt mit den Schultern. „Aber ihr Leute werdet tun, was ihr müsst.“ Sie wendet sich wieder zu dir.</DefaultText>
+Sie zuckt mit den Schultern. "Aber ihr Leute werdet tun, was ihr müsst." Sie wendet sich wieder zu dir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>„Warum sollte sie auf dich hören? Niemand hier vertraut dir.“</DefaultText>
+      <DefaultText>"Warum sollte sie auf dich hören? Niemand hier vertraut dir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -716,7 +732,7 @@ Sie zuckt mit den Schultern. „Aber ihr Leute werdet tun, was ihr müsst.“ Si
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>„Ihr misstraut mir, weil ihr Narren seid. Aber es ist nicht mein Leben. Nicht mein Fehler.“</DefaultText>
+      <DefaultText>"Ihr misstraut mir, weil ihr Narren seid. Aber es ist nicht mein Leben. Nicht mein Fehler."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

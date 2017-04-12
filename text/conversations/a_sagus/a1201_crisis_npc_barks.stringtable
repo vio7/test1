@@ -6,57 +6,57 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„Verdammt noch mal, Qorro. Also, ihr Laak-Fresser werdet mich auch nicht fertigmachen.“</DefaultText>
+      <DefaultText>"Verdammt noch mal, Qorro. Also, ihr Laak-Fresser werdet mich auch nicht fertigmachen."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>„Qorro ist tot, was? Denke, es gibt keinen Grund mehr, sich zurückzuhalten.“</DefaultText>
+      <DefaultText>"Qorro ist tot, was? Denke, es gibt keinen Grund mehr, sich zurückzuhalten."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Qorro? Oh, Götter … Bleibt weg von mir, ihr Bastarde!“</DefaultText>
+      <DefaultText>"Qorro? Oh, Götter ... Bleibt weg von mir, ihr Bastarde!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„*Das* war ein Fehler!“</DefaultText>
+      <DefaultText>"*Das* war ein Fehler!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>„Ich bin kein Narr. Ich bin hier raus.“</DefaultText>
+      <DefaultText>"Ich bin kein Narr. Ich bin hier raus."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Stehenbleiben!“</DefaultText>
+      <DefaultText>"Stehenbleiben!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>„Stirb!“</DefaultText>
+      <DefaultText>"Stirb!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Oh nein …“</DefaultText>
+      <DefaultText>"Oh nein ..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Qorro, wir können uns nicht auf Trester verlassen. Sie sind wertlos!“</DefaultText>
+      <DefaultText>"Qorro, wir können uns nicht auf Trester verlassen. Sie sind wertlos!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>„Dafür habe ich mich nicht bereit erklärt. Ich hau ab!“</DefaultText>
+      <DefaultText>"Dafür habe ich mich nicht bereit erklärt. Ich hau ab!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Ha, ich kann es alleine mit euch allen aufnehmen!“</DefaultText>
+      <DefaultText>"Ha, ich kann es alleine mit euch allen aufnehmen!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,17 +66,17 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Auf keinen Fall werde ich euch Schwachköpfen ins Riff folgen. Ich habe nicht vor, ein Bein an irgendeine Numenera zu verlieren.“</DefaultText>
+      <DefaultText>"Auf keinen Fall werde ich euch Schwachköpfen ins Riff folgen. Ich habe nicht vor, ein Bein an irgendeine Numenera zu verlieren."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Nein! Ich gehe nicht ohne Qorro in das Riff! Ihr seid es nicht wert!“</DefaultText>
+      <DefaultText>"Nein! Ich gehe nicht ohne Qorro in das Riff! Ihr seid es nicht wert!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>„Pah! Ich werde nicht durch das Riff stampfen, um euch zu jagen. Das wird langsam langweilig.“</DefaultText>
+      <DefaultText>"Pah! Ich werde nicht durch das Riff stampfen, um euch zu jagen. Das wird langsam langweilig."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

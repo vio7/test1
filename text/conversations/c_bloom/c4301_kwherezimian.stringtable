@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\c_bloom\c4301_kwherezimian</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>56</EntryCount>
+  <EntryCount>54</EntryCount>
   <Entries>
     <Entry>
       <ID>1</ID>
@@ -306,16 +306,6 @@ Und du siehst, wie sie deine Schultern umrunden und zu ihm zurückströmen, wodu
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>66</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>67</ID>
       <DefaultText />
       <FemaleText />
     </Entry>

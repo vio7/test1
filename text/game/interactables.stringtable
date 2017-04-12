@@ -1696,7 +1696,7 @@
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>Der Spiegel sieht eigenartig aus, als ob das, was es abbildet, wahr ist und *du* das Spiegelbild bist.</DefaultText>
+      <DefaultText>Der Spiegel sieht eigenartig aus, als ob das, was es abbildet, die wahr ist und *du* das Spiegelbild bist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2116,7 +2116,7 @@
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>Das schädelartige Relief könnte eine Warnung sein, oder vielleicht ein Hinweis, dass etwas Harmloses aber dennoch etwas, was mit dem Tod eine Verbindung hat, unten wartet.</DefaultText>
+      <DefaultText>Die schädelartige Entschädigung könnte eine Warnung sein, oder vielleicht ein Hinweis, dass etwas Harmloses aber dennoch etwas, was mit dem Tod eine Verbindung hat, unten wartet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2716,7 +2716,7 @@
     </Entry>
     <Entry>
       <ID>542</ID>
-      <DefaultText>[Dies ist irgendein temporärer Text, der beschreibt, wie finster und lückenhaft diese Lücke ist.]</DefaultText>
+      <DefaultText>[Dies ist irgendein temporärer Text, der beschreibt, wie finster und lückenhaft diese Lüche ist.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3031,7 +3031,7 @@
     </Entry>
     <Entry>
       <ID>605</ID>
-      <DefaultText>Diese Maschinen machen keinerlei Geräusche oder Bewegungen. Wie die anderen Maschinen hier scheinen sie nur eine Fassade zu sein.</DefaultText>
+      <DefaultText>Diese Maschienen machen keinerlei Geräusche oder Bewegungen. Wie die anderen Maschinen hier scheinen sie nur eine Fassade zu sein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3081,7 +3081,7 @@
     </Entry>
     <Entry>
       <ID>615</ID>
-      <DefaultText>Matte, schwache Lichter flimmern unter der Oberfläche dieser massiven Schale. Was auch immer hier drunter vergraben ist, es kommt nie wieder heraus.</DefaultText>
+      <DefaultText>matte, schwache Lichter flimmern unter der Oberfläche dieser massiven Schale. Was auch immer hier drunter vergraben ist, es kommt nie wieder heraus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
